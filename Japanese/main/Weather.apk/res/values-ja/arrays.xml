@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moscow</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Istanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapore</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seoul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>"晴れ"</item>
+        <item>"曇り"</item>
+        <item>"一面曇り"</item>
+        <item>"霧"</item>
+        <item>"豪雨"</item>
+        <item>"土砂降り"</item>
+        <item>"暴風雨"</item>
+        <item>"雷雨"</item>
+        <item>"にわか雨"</item>
+        <item>"大雨"</item>
+        <item>"並雨"</item>
+        <item>"小雨"</item>
+        <item>"雨混じりの雪"</item>
+        <item>"猛吹雪"</item>
+        <item>"雪"</item>
+        <item>"大雪"</item>
+        <item>"並雪"</item>
+        <item>"小雪"</item>
+        <item>"強い砂嵐"</item>
+        <item>"砂嵐"</item>
+        <item>"砂"</item>
+        <item>"強風"</item>
+        <item>"雹(ひょう)"</item>
+        <item>"ちり"</item>
+        <item>"煙霧"</item>
+        <item>"冷たい雨"</item>
+        <item></item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>"弱い"</item>
+        <item>"中程度"</item>
+        <item>"強い"</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Suitable</item>
+        <item>Improper</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Suitable</item>
+        <item>Improper</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>"北"</item>
+        <item>"北東"</item>
+        <item>"東"</item>
+        <item>"南東"</item>
+        <item>"南"</item>
+        <item>"南西"</item>
+        <item>"西"</item>
+        <item>"北東"</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+    </string-array>
+</resources>

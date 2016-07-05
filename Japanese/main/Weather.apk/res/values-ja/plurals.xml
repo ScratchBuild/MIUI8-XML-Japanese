@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">"%d分前"</item>
+        <item quantity="one">"%d分前"</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">"%d時間前"</item>
+        <item quantity="one">"%d時間前"</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">"%d日前"</item>
+        <item quantity="one">"%d日前"</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">"晴れ"</item>
+        <item quantity="one">"快晴"</item>
+    </plurals>
+</resources>
