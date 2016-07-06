@@ -41,8 +41,8 @@
     <string name="timer_got_it">OK</string>
     <string name="timer_start_alarm">"Time's up!"</string>
     <string name="timer_clock_alert_text">Please Set Timer</string>
-    <string name="dialog_confirm_abort">Discard changes?</string>
-    <string name="confirm_abort">Discard</string>
+    <string name="dialog_confirm_abort">"変更を破棄しますか？"</string>
+    <string name="confirm_abort">"破棄"</string>
     <string name="remind_ringtone">Ringtone</string>
     <string name="keep_screen_on">Keep screen on</string>
     <string name="vibrate_when_ringing">Vibrate when ringing</string>
@@ -117,7 +117,7 @@
     <string name="auto_silence_title">Auto-silence</string>
     <string name="auto_silence_never">Never</string>
     <string name="done">Done</string>
-    <string name="revert">Revert</string>
+    <string name="revert">"元に戻す"</string>
     <string name="delete">"削除"</string>
     <string name="alarm_volume_title">"アラーム音量"</string>
     <string name="alarm_volume_summary">"アラーム音量をセット"</string>
