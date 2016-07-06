@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="color_picker_colors">
+        <item>@color/color_picker_preset_color1</item>
+        <item>@color/color_picker_preset_color2</item>
+        <item>@color/color_picker_preset_color3</item>
+        <item>@color/color_picker_preset_color4</item>
+        <item>@color/color_picker_preset_color5</item>
+        <item>@color/color_picker_preset_color6</item>
+        <item>@color/color_picker_preset_color7</item>
+        <item>@color/color_picker_preset_color8</item>
+        <item>@color/color_picker_preset_color9</item>
+        <item>@color/color_picker_preset_color10</item>
+        <item>@color/color_picker_preset_color11</item>
+        <item>@color/color_picker_preset_color12</item>
+        <item>@color/color_picker_preset_color13</item>
+        <item>@color/color_picker_preset_color14</item>
+        <item>@color/color_picker_preset_color15</item>
+        <item>@color/color_picker_preset_color16</item>
+        <item>@color/color_picker_preset_color17</item>
+        <item>@color/color_picker_preset_color18</item>
+        <item>@color/color_picker_preset_color19</item>
+        <item>@color/color_picker_preset_color20</item>
+        <item>@color/color_picker_preset_color21</item>
+        <item>@color/color_picker_preset_color22</item>
+        <item>@color/color_picker_preset_color23</item>
+        <item>@color/color_picker_preset_color24</item>
+    </array>
+    <string-array name="baby_sexy">
+        <item>"男の子"</item>
+        <item>"女の子"</item>
+    </string-array>
+    <string-array name="baby_sexy_value">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>"父親"</item>
+        <item>"母親"</item>
+        <item>"父方の祖父"</item>
+        <item>"父方の祖母"</item>
+        <item>"母方の祖父"</item>
+        <item>"母方の祖母"</item>
+    </string-array>
+    <string-array name="owner_relation_value">
+        <item>father</item>
+        <item>mother</item>
+        <item>grandfather</item>
+        <item>grandmother</item>
+        <item>maternalGrandfather</item>
+        <item>maternalGrandmother</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>"わたし"</item>
+        <item>"子ども"</item>
+        <item>"家族"</item>
+        <item>"同僚"</item>
+        <item>"同級生"</item>
+        <item>"友人"</item>
+        <item>"不明"</item>
+    </string-array>
+    <string-array name="relation_with_me_value">
+        <item>myself</item>
+        <item>child</item>
+        <item>family</item>
+        <item>collegue</item>
+        <item>classmate</item>
+        <item>friend</item>
+        <item>unknown</item>
+    </string-array>
+</resources>

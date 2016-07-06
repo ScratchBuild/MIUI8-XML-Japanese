@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Don't show these people?"</item>
+        <item quantity="one">"Don't show this person?"</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s photos of %2$s >></item>
+        <item quantity="one">%1$s photo of %2$s >></item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d years</item>
+        <item quantity="one">%d year</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d months</item>
+        <item quantity="one">%d month</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d photos of %2$s will be added</item>
+        <item quantity="one">%1$d photo of %2$s will be added</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d photos of %2$s will be added</item>
+        <item quantity="one">%1$d photo of %2$s will be added</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Shared to %d people</item>
+        <item quantity="one">Shared to %d person</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">"Selected photos aren't on device. Download them using mobile data?"</item>
+        <item quantity="one">"Selected photo isn't on device. Download it using mobile data?"</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">"Selected photos (%dMB) aren't on device. Download them using mobile data?"</item>
+        <item quantity="one">"Selected photo (%dMB) isn't on device. Download it using mobile data?"</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">"Selected photos aren't on device. They will be downloaded."</item>
+        <item quantity="one">"Selected photo isn't on device. It will be downloaded."</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">"Couldn't download %1$d photos, try again?"</item>
+        <item quantity="one">"Couldn't download photo, try again?"</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), try again?"</item>
+        <item quantity="one">"Couldn't download photo (%2$dMB), try again?"</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Cancel downloading %d remaining photos?</item>
+        <item quantity="one">Cancel downloading the remaining photo?</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Delete %1$d photos %2$s?</item>
+        <item quantity="one">Delete this photo %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Delete %1$d videos %2$s?</item>
+        <item quantity="one">Delete this video %2$s?</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Delete %1$d items %2$s?</item>
+        <item quantity="one">Delete %1$d item %2$s?</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d items)</item>
+        <item quantity="one">(%d item)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d items | %2$s</item>
+        <item quantity="one">%1$d item | %2$s</item>
+    </plurals>
+    <plurals name="backuped">
+        <item quantity="other">%1$d items have been backed up</item>
+        <item quantity="one">%1$d item has been backed up</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d items are waiting to be backed up</item>
+        <item quantity="one">%1$d item is waiting to be backed up</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Network error. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Network error. %1$d item is waiting to be backed up</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Sync is off. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Sync is off. %1$d item is waiting to be backed up</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Mi Cloud is full. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Mi Cloud is full. %1$d item is waiting to be backed up</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d photos waiting to back up</item>
+        <item quantity="one">1 photo waiting to back up</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d videos waiting to back up</item>
+        <item quantity="one">1 video waiting to back up</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d items waiting to back up</item>
+        <item quantity="one">1 item waiting to back up</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Backing up %1$d photos…</item>
+        <item quantity="one">Backing up photo…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Backing up %1$d videos…</item>
+        <item quantity="one">Backing up video…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Backing up %1$d items…</item>
+        <item quantity="one">Backing up 1 item…</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">"Couldn't download %1$d files"</item>
+        <item quantity="one">"Couldn't download %1$d file"</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
+    </plurals>
+</resources>
