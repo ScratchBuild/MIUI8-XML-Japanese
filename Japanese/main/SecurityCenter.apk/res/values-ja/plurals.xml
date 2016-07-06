@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Not tracking data usage for %d apps</item>
+        <item quantity="one">Not tracking data usage for %d app</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Tracking data usage for %d apps</item>
+        <item quantity="one">Tracking data usage for %d app</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apps optimized</item>
+        <item quantity="one">%d app optimized</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apps can be optimized</item>
+        <item quantity="one">%d app can be optimized</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d apps are using Data saver</item>
+        <item quantity="one">%d app is using Data saver</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d apps are not using Data saver</item>
+        <item quantity="one">%d app is not using Data saver</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Used %d days ago</item>
+        <item quantity="one">Used yesterday</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Search %d apps</item>
+        <item quantity="one">Search %d app</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d apps can use data roaming</item>
+        <item quantity="one">%d app can use data roaming</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d apps can't use data roaming"</item>
+        <item quantity="one">"%d app can't use data roaming"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d apps found</item>
+        <item quantity="one">%d app found</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d days "</item>
+        <item quantity="one">"%d day "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d hrs "</item>
+        <item quantity="one">"%d hr "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d mins "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">In %1$d minutes</item>
+        <item quantity="one">In %1$d min</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Resolved %d battery issues</item>
+        <item quantity="one">Resolved %d battery issue</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Found %d battery issues</item>
+        <item quantity="one">Found %d battery issue</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d battery issues</item>
+        <item quantity="one">%d battery issue</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d items can be optimized</item>
+        <item quantity="one">%d item can be optimized</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d apps can autostart</item>
+        <item quantity="one">%d app can autostart</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"%d apps aren't allowed to autostart"</item>
+        <item quantity="one">"%d app isn't allowed to autostart"</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d permissions</item>
+        <item quantity="one">%d permission</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d apps have root access</item>
+        <item quantity="one">%d app has root access</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"%d apps don't have root access"</item>
+        <item quantity="one">"%d app doesn't have root access"</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Updates available for %d apps.</item>
+        <item quantity="one">Update available for %d app.</item>
+    </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d apps contain privacy risks</item>
+        <item quantity="one">%d app contains privacy risks</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Password should contain at least %d letters.</item>
+        <item quantity="one">"Password should contain at least 1 letter. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Password should contain at least %d lowercase letters.</item>
+        <item quantity="one">Password should contain at least 1 lowercase …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Password should contain at least %d uppercase letters.</item>
+        <item quantity="one">Password should contain at least 1 uppercase …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Password should contain at least %d numbers.</item>
+        <item quantity="one">Password should contain at least 1 …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Password should contain at least %d special symbols.</item>
+        <item quantity="one">Password should contain at least 1 special …</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Password should contain at least %d characters other than letters.</item>
+        <item quantity="one">Password should contain at least 1 character other than …</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d apps locked</item>
+        <item quantity="one">%d app locked</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d apps not locked</item>
+        <item quantity="one">%d app not locked</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Search among %d apps</item>
+        <item quantity="one">Search among %d app</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d apps found</item>
+        <item quantity="zero">0 app found</item>
+        <item quantity="one">%d app found</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s payment risks</item>
+        <item quantity="one">%s payment risk</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s payment apps are protected</item>
+        <item quantity="one">%s payment app is protected</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s apps are protected</item>
+        <item quantity="one">%s app is protected</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">"%s apps aren't protected"</item>
+        <item quantity="one">"%s app isn't protected"</item>
+    </plurals>
+</resources>

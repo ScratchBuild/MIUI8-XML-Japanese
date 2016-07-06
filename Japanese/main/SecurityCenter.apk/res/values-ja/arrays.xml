@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"今週 "</item>
+        <item>"今日 "</item>
+        <item>"今月 "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"昨日 "</item>
+        <item>"今日 "</item>
+        <item>"今月 "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"今週: "</item>
+        <item>"今日: "</item>
+        <item>"今月: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"昨日: "</item>
+        <item>"今日: "</item>
+        <item>"今月: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Yesterday (data)</item>
+        <item>Today (data)</item>
+        <item>This month (data)</item>
+        <item>Yesterday WLAN</item>
+        <item>Today WLAN</item>
+        <item>This month WLAN</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Yesterday (data)</item>
+        <item>Today (data)</item>
+        <item>This month (data)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>"3秒"</item>
+        <item>"4秒</item>
+        <item>"5秒"</item>
+        <item>"6秒</item>
+        <item>"7秒"</item>
+        <item>"8秒"</item>
+        <item>"9秒"</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobile usage "</item>
+        <item>"WLAN usage "</item>
+        <item>"Data saved "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobile usage "</item>
+        <item>"WLAN usage "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Mobile data usage "</item>
+        <item>"WLAN usage "</item>
+        <item>"Data saved "</item>
+        <item>Mi Data plan</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Get automatically</item>
+        <item>Set manually</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Show warning</item>
+        <item>Warn and turn off mobile data</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Most used</item>
+        <item>Name</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>None</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Always</item>
+        <item>For exceptions only</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>When device is locked</item>
+        <item>When device is locked or after exiting app</item>
+        <item>When device is locked​ or in 1 minute after exiting app</item>
+    </string-array>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <integer-array name="pc_time_choice_items">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>After 1 minute</item>
+        <item>After 5 minutes</item>
+        <item>After 10 minutes</item>
+        <item>After 30 minutes</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Once</item>
+        <item>Every day</item>
+        <item>Legal workdays</item>
+        <item>Weekdays</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Once</item>
+        <item>Every day</item>
+        <item>Weekdays</item>
+        <item>Custom</item>
+    </string-array>
+    <integer-array name="pc_choice_dialog_over_heat_values">
+        <item>40</item>
+        <item>42</item>
+        <item>45</item>
+        <item>48</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="pc_choice_dialog_battery_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+</resources>
