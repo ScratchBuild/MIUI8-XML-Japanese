@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Import to</string>
+    <string name="import_button">"インポート"</string>
+    <string name="cancel">"キャンセル"</string>
+    <string name="no_access_toast">"アカウントが見つかりません。初めにアカウントを追加してください。"</string>
+    <string name="null_name">"なし"</string>
+    <string name="import_message">Do you want to import # to Calendar?</string>
+    <string name="calendar_lable">"カレンダー: "</string>
+    <string name="date_lable">"日付: "</string>
+    <string name="import_title">"カレンダーの予定をインポート"</string>
+    <string name="importing">"インポート中..."</string>
+    <string name="import_complete">"インポート完了"</string>
+    <string name="open">"開く"</string>
+    <string name="done">"完了"</string>
+    <string name="progresszero">0%</string>
+    <string name="progresshundred">100%</string>
+    <string name="import_vcs_failed">"予定のインポートに失敗しました。"</string>
+    <string name="title_lable">"件名: "</string>
+    <string name="no_syncable_calendars">"インポートできません"</string>
+    <string name="no_calendars_found">"このアカウントはカレンダーの同期をサポートしていないか、最後の同期が完了していません。"</string>
+    <string name="retry">"再試行"</string>
+    <string name="give_up">"中断"</string>
+    <string name="open_calendar_failed">"カレンダーは使用できません。"</string>
+    <string name="loading">"読み込み中…"</string>
+    <string name="not_support_multi_events">"複数の予定を持つファイルはサポートされていません。"</string>
+</resources>
