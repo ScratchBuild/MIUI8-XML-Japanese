@@ -13,7 +13,7 @@
     <string name="act_set_city_find_side_error">"Can't locate device"</string>
     <string name="menu_location">"位置情報"</string>
     <string name="button_allow">OK</string>
-    <string name="button_confirm">Allow</string>
+    <string name="button_confirm">"許可する"</string>
     <string name="button_abandon">"変更を破棄"</string>
     <string name="button_exit">"終了"</string>
     <string name="button_not_allow">"キャンセル"</string>
@@ -73,11 +73,11 @@
     <string name="indices_title_feel">"体感気温"</string>
     <string name="indices_desc_feel">"体感気温 %1$s°C"</string>
     <string name="indices_desc_feel_without_pic">%1$s°C</string>
-    <string name="indices_title_sport">Sports</string>
-    <string name="indices_title_car_wash">Wash car</string>
+    <string name="indices_title_sport">"運動"</string>
+    <string name="indices_title_car_wash">"洗車"</string>
     <string name="indices_title_restriction">Road space</string>
     <string name="indices_title_Precip1hr">"降水量/1時間"</string>
-    <string name="indices_no_restriction">None</string>
+    <string name="indices_no_restriction">"なし"</string>
     <string name="indices_desc_Precip1hr">%1$smm</string>
     <string name="information_time_source">%1$s | %2$s</string>
     <string name="daily_forcast_no_wind">&lt;12km/h</string>
@@ -92,11 +92,11 @@
     <string name="twc_logo_title" />
     <string name="information_menu_title" />
     <string name="information_manager_wlan">Show when connected to WLAN</string>
-    <string name="information_manager_information">Weather info</string>
+    <string name="information_manager_information">"天気情報"</string>
     <string name="activity_main_clickable">></string>
     <string name="aqi_short_desc">AQI %1$s</string>
     <string name="wind_unit">%1$skm/h</string>
-    <string name="aqi_top_pollution">Max pollution</string>
+    <string name="aqi_top_pollution">"最大汚染"</string>
     <string name="aqi_detail_title">Air Quality Index</string>
     <string name="aqi_detail_subtitle">AQI %1$s</string>
     <string name="aqi_detail_pm25">PM2.5</string>
@@ -123,18 +123,18 @@
     <string name="tts_report_split" />
     <string name="tts_report_defautl_head" />
     <string name="realtime_wind_default_title">Wind</string>
-    <string name="realtime_humidity_title">Relative humidity</string>
+    <string name="realtime_humidity_title">"相対湿度"</string>
     <string name="realtime_aqi_title">Air Quality Index</string>
     <string name="aqi_detail_sub_title">AQI details</string>
     <string name="aqi_publish_time">Updated %1$s</string>
     <string name="aqi_desc">Air Quality Index</string>
     <string name="indices_title">Recommended activities</string>
-    <string name="hourly_forecast_title">Hourly forecast</string>
-    <string name="aqi_detail_5_days">Daily forecast</string>
-    <string name="aqi_detail_24_hours">Hourly forecast</string>
+    <string name="hourly_forecast_title">"1時間ごとの予報"</string>
+    <string name="aqi_detail_5_days">"毎日の予報"</string>
+    <string name="aqi_detail_24_hours">"1時間ごとの予報"</string>
     <string name="aqi_sub_desc">AQI</string>
-    <string name="menu_add_city">Edit locations</string>
-    <string name="button_add_city">Add location</string>
+    <string name="menu_add_city">"場所の編集"</string>
+    <string name="button_add_city">"場所の追加"</string>
     <string name="locate_fail_detail_err">"Can't locate device
 Tap the screen to manually add or reposition city"</string>
     <string name="video_dialog_title" />
@@ -152,13 +152,13 @@ Tap the screen to manually add or reposition city"</string>
     <string name="aqi_publish_source">Updated at %1$s by CNEMC</string>
     <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">Powered by Caiyun Weather</string>
-    <string name="traffic_controls">Road space rationing</string>
+    <string name="traffic_controls">"交通情報"</string>
     <string name="traffic_control_today_numbers">"今日: %1$s"</string>
     <string name="traffic_control_tomorrow_numbers">"明日: %1$s"</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">"明後日: %1$s"</string>
     <string name="button_sure_abandon">"変更を破棄しますか？"</string>
     <string name="mi_pad2">latte</string>
-    <string name="more_details">More details</string>
+    <string name="more_details">"さらに詳しく"</string>
     <string name="international_details_title">"詳細"</string>
     <string name="international_details_wind_title">WIND</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
@@ -166,6 +166,6 @@ Tap the screen to manually add or reposition city"</string>
     <string name="international_details_pressure_title">PRESSURE</string>
     <string name="pressure_connect">%1$s MB</string>
     <string name="international_details_wind_connect">%1$s %2$s</string>
-    <string name="weather_alert">Weather alerts</string>
-    <string name="edit_alert_city_title">Manage alerts</string>
+    <string name="weather_alert">"天気予報のアラート"</string>
+    <string name="edit_alert_city_title">"アラートの管理"</string>
 </resources>
