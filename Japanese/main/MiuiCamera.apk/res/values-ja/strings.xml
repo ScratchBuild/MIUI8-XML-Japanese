@@ -290,11 +290,11 @@
     <string name="camera_settings_label">"カメラ"</string>
     <string name="pref_camera_settings_title">"設定"</string>
     <string name="pref_camera_referenceline_title">"グリッドを表示"</string>
-    <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
-    <string name="pref_camera_volumekey_function_entry_shutter">Shutter</string>
-    <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
-    <string name="pref_camera_volumekey_function_entry_exposure">Exposure</string>
-    <string name="pref_camera_volumekey_function_title">Volume buttons function</string>
+    <string name="pref_camera_volumekey_function_entry_volume">"音量"</string>
+    <string name="pref_camera_volumekey_function_entry_shutter">"シャッター"</string>
+    <string name="pref_camera_volumekey_function_entry_zoom">"ズーム"</string>
+    <string name="pref_camera_volumekey_function_entry_exposure">"露出"</string>
+    <string name="pref_camera_volumekey_function_title">"音量ボタンの機能"</string>
     <string name="pref_camera_volumekey_function_entryvalue_volume">volume</string>
     <string name="pref_camera_volumekey_function_entryvalue_shutter">shutter</string>
     <string name="pref_camera_volumekey_function_entryvalue_zoom">zoom</string>
