@@ -1,0 +1,28 @@
+<resources>
+	<string name="weather_type_null">'No data'</string>
+    <string name="weather_type_0">"ฐ๊"</string>
+    <string name="weather_type_1">"“Ü่"</string>
+    <string name="weather_type_2">"เÝ"</string>
+    <string name="weather_type_3">"–ถ"</string>
+    <string name="weather_type_4">"W’J"</string>
+    <string name="weather_type_5">"–\•—J"</string>
+    <string name="weather_type_6">"ญขJ"</string>
+    <string name="weather_type_7">"—J"</string>
+    <string name="weather_type_8">"ษํฉJ"</string>
+    <string name="weather_type_9">"J"</string>
+    <string name="weather_type_10">"J"</string>
+    <string name="weather_type_11">"–ถJ"</string>
+    <string name="weather_type_12">"Ýผ๊"</string>
+    <string name="weather_type_13">"แ"</string>
+    <string name="weather_type_14">"Jฌถ่ฬแ"</string>
+    <string name="weather_type_15">"‘ๅแ"</string>
+    <string name="weather_type_16">"แ"</string>
+    <string name="weather_type_17">"ฌแ"</string>
+    <string name="weather_type_18">"ญขป—’"</string>
+    <string name="weather_type_19">"ป—’"</string>
+    <string name="weather_type_20">"ใขป—’"</string>
+    <string name="weather_type_21">"ป—’"</string>
+    <string name="weather_type_22">"่น(ะๅค)"</string>
+    <string name="weather_type_23">"ฟ่"</string>
+    <string name="weather_type_24">"–ถ"</string>
+</resources>

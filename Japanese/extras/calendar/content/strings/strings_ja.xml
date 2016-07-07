@@ -1,0 +1,10 @@
+<strings>
+    <string name="MON" value="月"/>
+    <string name="TUE" value="火"/>
+    <string name="WED" value="水"/>
+    <string name="THU" value="木"/>
+    <string name="FRI" value="金"/>
+    <string name="SAT" value="土"/>
+    <string name="SUN" value="日"/>
+    <string name="language" value="ja"/>
+</strings>
