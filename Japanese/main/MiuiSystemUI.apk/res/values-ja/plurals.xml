@@ -9,7 +9,7 @@
         <item quantity="one">"Hide this app's notifications?"</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Clear</item>
-        <item quantity="one">Sunny</item>
+        <item quantity="other">"快晴"</item>
+        <item quantity="one">"晴れ"</item>
     </plurals>
 </resources>

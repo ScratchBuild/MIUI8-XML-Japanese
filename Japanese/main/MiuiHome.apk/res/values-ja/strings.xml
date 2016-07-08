@@ -56,7 +56,7 @@
     <string name="status_paused">Paused</string>
     <string name="status_downloaded">Downloaded</string>
     <string name="status_installing">"インストール中"</string>
-    <string name="app_already_exist">App already exists</string>
+    <string name="app_already_exist">"アプリは既にインストール済みです"</string>
     <string name="loading_desktop">"読み込み中…"</string>
     <string name="loading_wallpaper">"読み込み中…"</string>
     <string name="start_activity_failed">"Can't start launcher"</string>
@@ -69,8 +69,8 @@
     <string name="editing_mode_title">%1$d selected</string>
     <string name="editing_mode_title_empty">0 selected</string>
     <string name="multi_selecting_tips">To pick up an app, touch its icon</string>
-    <string name="editing_add_widget_tips">Edit widgets</string>
-    <string name="editing_set_wallpaper_tips">Choose wallpaper</string>
+    <string name="editing_add_widget_tips">"ウィジェットを編集"</string>
+    <string name="editing_set_wallpaper_tips">"壁紙を選択"</string>
     <string name="editing_set_transition_effect_tips">Choose screen transition effect</string>
     <string name="cant_remove_system_app">"Can't remove system app"</string>
     <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
@@ -158,7 +158,7 @@
     <string name="widget_gadget_player">Music</string>
     <string name="buffering">Buffering…</string>
     <string name="emptyplaylist">Tap to add songs</string>
-    <string name="unknown_artist_name">Unknown artist</string>
+    <string name="unknown_artist_name">"不明なアーティスト"</string>
     <string name="gadget_search_label">"検索"</string>
     <string name="global_search_hint">"検索"</string>
     <string name="widget_global_search">"検索"</string>
