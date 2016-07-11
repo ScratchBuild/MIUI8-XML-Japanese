@@ -21,17 +21,17 @@
         <item>"今月: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Yesterday (data)</item>
-        <item>Today (data)</item>
-        <item>This month (data)</item>
-        <item>Yesterday WLAN</item>
-        <item>Today WLAN</item>
-        <item>This month WLAN</item>
+        <item>"昨日 (data)"</item>
+        <item>"今日 (data)"</item>
+        <item>"今月 (data)"</item>
+        <item>"昨日 WLAN"</item>
+        <item>"今日 WLAN"</item>
+        <item>"今月 WLAN"</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Yesterday (data)</item>
-        <item>Today (data)</item>
-        <item>This month (data)</item>
+        <item>"昨日 (data)"</item>
+        <item>"今日 (data)"</item>
+        <item>"今月 (data)"</item>
     </string-array>
     <string-array name="network_speed_update_internals">
         <item>"3秒"</item>
@@ -58,12 +58,12 @@
         <item>Mi Data plan</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-        <item>Get automatically</item>
-        <item>Set manually</item>
+        <item>"自動で取得"</item>
+        <item>"手動で設定"</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
-        <item>Show warning</item>
-        <item>Warn and turn off mobile data</item>
+        <item>"警告を表示"</item>
+        <item>"警告と共にモバイルデータをオフ"</item>
     </string-array>
     <string-array name="roaming_apps_sorted_type">
         <item>Most used</item>
@@ -71,9 +71,9 @@
     </string-array>
     <string-array name="traffic_saving_compress_level_string_array">
         <item>None</item>
-        <item>Low</item>
-        <item>Medium</item>
-        <item>High</item>
+        <item>"低"</item>
+        <item>"中"</item>
+        <item>"高"</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Always</item>

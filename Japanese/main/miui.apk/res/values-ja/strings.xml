@@ -49,7 +49,7 @@
     <string name="time_picker_dialog_title">"時刻をセット"</string>
     <string name="date_time_picker_dialog_title">"日付と時刻をセット"</string>
     <string name="perm_payment_lab">Mi Pay</string>
-    <string name="perm_payment_dspt">Allow app to pay using Mi Pay Service</string>
+    <string name="perm_payment_dspt">"Mi Pay Serviceを通じてのアプリ支払いを許可する"</string>
     <string name="check_phone_error_title">Sync is off</string>
     <string name="check_phone_io_error">"ネットワークに接続できません"</string>
     <string name="send_sms_for_sync_title">Data usage warning</string>

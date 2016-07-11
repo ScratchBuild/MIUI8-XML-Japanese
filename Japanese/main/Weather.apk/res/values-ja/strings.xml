@@ -21,8 +21,8 @@
     <string name="act_weather_find_city_click_retry">"再試行"</string>
     <string name="act_weather_find_city_searching">"検索中…"</string>
     <string name="location_tag">Locate</string>
-    <string name="act_weather_find_city_no_result">No results</string>
-    <string name="act_weather_find_city_added">Added</string>
+    <string name="act_weather_find_city_no_result">"何も見つかりません"</string>
+    <string name="act_weather_find_city_added">"追加しました"</string>
     <string name="activity_weathermain_locationg">Locating…</string>
     <string name="activity_weathermain_locationg_error">"Can't locate"</string>
     <string name="view_forecast_item_yesterday">"昨日"</string>

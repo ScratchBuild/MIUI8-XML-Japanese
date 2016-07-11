@@ -51,10 +51,10 @@
     <string name="permdesc_read_settings">Allows an app to read the settings and shortcuts in Home.</string>
     <string name="permlab_write_settings">Edit Home Settings and Shortcuts</string>
     <string name="permdesc_write_settings">Allows an app to change the settings and shortcuts in Home.</string>
-    <string name="status_pending">Waiting</string>
-    <string name="status_downloading">Downloading</string>
-    <string name="status_paused">Paused</string>
-    <string name="status_downloaded">Downloaded</string>
+    <string name="status_pending">"待機中"</string>
+    <string name="status_downloading">"ダウンロード中"</string>
+    <string name="status_paused">"停止中"</string>
+    <string name="status_downloaded">"ダウンロード済み"</string>
     <string name="status_installing">"インストール中"</string>
     <string name="app_already_exist">"アプリは既にインストール済みです"</string>
     <string name="loading_desktop">"読み込み中…"</string>
@@ -83,7 +83,7 @@
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Dual app will be uninstalled together with this one.</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dual apps will be uninstalled together with these ones.</string>
     <string name="uninstall_dialog_title_multi_format" formatted="false">Uninstall %s and %d other apps?</string>
-    <string name="uninstall">Uninstall</string>
+    <string name="uninstall">"アンインストール"</string>
     <string name="uninstall_result_multi_succeeded">%1$d apps uninstalled</string>
     <string name="uninstall_result_succeeded">App uninstalled</string>
     <string name="uninstall_result_failed">"Can't uninstall %s"</string>
@@ -112,14 +112,14 @@
     <string name="default_folder_title_security">System</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_claro">Claro</string>
-    <string name="wallpaper_settings">Wallpaper</string>
-    <string name="choose_wallpaper">Choose wallpaper</string>
-    <string name="current_preview">Preview</string>
-    <string name="normal_wallpaper">Wallpaper</string>
+    <string name="wallpaper_settings">"壁紙"</string>
+    <string name="choose_wallpaper">"壁紙を選択"</string>
+    <string name="current_preview">"プレビュー"</string>
+    <string name="normal_wallpaper">"壁紙"</string>
     <string name="lock_screen_wallpaper">Lock screen wallpaper</string>
-    <string name="wallpaper">Wallpaper</string>
+    <string name="wallpaper">"壁紙"</string>
     <string name="mi_wallpaper">MIUI Theme Store</string>
-    <string name="show_all">Show all</string>
+    <string name="show_all">"すべて表示"</string>
     <string name="local_wallpaper">Downloaded</string>
     <string name="setting_wallpaper_tip">Pinch or swipe to adjust</string>
     <string name="apply_as_wallpaper">Set as Home screen</string>
@@ -156,8 +156,8 @@
     <string name="pref_keep_layout_title">Lock app positions</string>
     <string name="pref_keep_layout_summary">"Changing your Home screen's layout will not affect apps' positions relative to each other"</string>
     <string name="widget_gadget_player">Music</string>
-    <string name="buffering">Buffering…</string>
-    <string name="emptyplaylist">Tap to add songs</string>
+    <string name="buffering">"バッファリング中…"</string>
+    <string name="emptyplaylist">"タップして曲を追加"</string>
     <string name="unknown_artist_name">"不明なアーティスト"</string>
     <string name="gadget_search_label">"検索"</string>
     <string name="global_search_hint">"検索"</string>
@@ -177,7 +177,7 @@
     <string name="gadget_calendar_label">Calendar</string>
     <string name="gadget_notes_label">Notes</string>
     <string name="gadget_calculator_label">Calculator</string>
-    <string name="gadget_load_error">Loading…</string>
+    <string name="gadget_load_error">"読み込み中…"</string>
     <string name="invalid_contact_shortcut">Invalid contact</string>
     <string name="guide_tips_editing_mode">Touch &amp; hold to pick up a widget</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
@@ -187,8 +187,8 @@
     <string name="select_photo">Photo</string>
     <string name="select_frame">Frame</string>
     <string name="photo_confirm">Set</string>
-    <string name="photo_load_failed">"Can't load photo"</string>
-    <string name="frame_load_failed">"Can't load frame"</string>
+    <string name="photo_load_failed">"写真が読み込めません"</string>
+    <string name="frame_load_failed">"フレームが読み込めません"</string>
     <string name="gadget_weather_loading">No data</string>
     <string name="gadget_weather_title">Weather</string>
     <string name="gadget_weather_title_24">Weather</string>
@@ -212,7 +212,7 @@
     <string name="free_style_edit_bottom_empty_tip">Tap rectangle to edit</string>
     <string name="free_style_edit_bar_empty">Empty</string>
     <string name="free_style_edit_bar_select_app">Choose app</string>
-    <string name="free_style_londing_text">Loading…</string>
+    <string name="free_style_londing_text">"読み込み中…"</string>
     <string name="free_style_enter_tip">To view Mi Space, swipe down from the top of the screen with two fingers</string>
     <string name="free_style_exit_tip">To return to Home screen, swipe up from the bottom of the screen with two fingers</string>
     <string name="toggle_select_title">Choose toggle</string>

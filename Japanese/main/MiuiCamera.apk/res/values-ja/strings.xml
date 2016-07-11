@@ -7,7 +7,7 @@
     <string name="cannot_connect_camera_once">"カメラに接続できません"</string>
     <string name="cannot_connect_camera_twice">"カメラに接続できません。お使いの端末を再起動してください。"</string>
     <string name="camera_disabled">"カメラが無効になっています"</string>
-    <string name="camera_label">Camera</string>
+    <string name="camera_label">"カメラ"</string>
     <string name="wait">"読み込み中…"</string>
     <string name="no_storage">"カメラを使用する前にSDカードを挿入して下さい"</string>
     <string name="not_enough_space">"SDカードがいっぱいです"</string>

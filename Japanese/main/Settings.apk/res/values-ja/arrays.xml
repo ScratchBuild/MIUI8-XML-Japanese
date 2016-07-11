@@ -1238,17 +1238,17 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>0</item>
     </string-array>
     <string-array name="perm_hips_action">
-        <item>Allow</item>
-        <item>Ask</item>
-        <item>Deny</item>
+        <item>許可</item>
+        <item>確認</item>
+        <item>拒否</item>
     </string-array>
     <string-array name="startup_hips_values">
         <item>2</item>
         <item>0</item>
     </string-array>
     <string-array name="startup_hips_action">
-        <item>Allow</item>
-        <item>Deny</item>
+        <item>許可</item>
+        <item>拒否</item>
     </string-array>
     <string-array name="entries_color_calibration">
         <item>sRGB</item>
@@ -1287,13 +1287,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>@string/dndm_auto_time_turn_off</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
-        <item>Automatically connect</item>
-        <item>Manually connect</item>
-        <item>Always ask</item>
+        <item>自動で接続する</item>
+        <item>手動で接続する</item>
+        <item>常に確認する</item>
     </string-array>
     <string-array name="wifi_ssid_type_entries">
-        <item>Automatically connect</item>
-        <item>Manually connect</item>
+        <item>自動で接続する</item>
+        <item>手動で接続する</item>
     </string-array>
     <string-array name="wifi_connect_type_values">
         <item>0</item>
@@ -1367,9 +1367,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
-        <item>Network is slow due to too much traffic</item>
-        <item>Network is slow due to weak signal strength</item>
-        <item>Moving…</item>
+        <item>トラフィックが多いためネットワーク速度が遅くなっています</item>
+        <item>信号強度が弱いためネットワーク速度が遅くなっています</item>
+        <item>移動中…</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>内部ストレージ</item>
@@ -1380,11 +1380,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
+        <item>非常に遅い</item>
+        <item>遅い</item>
+        <item>標準</item>
+        <item>速い</item>
+        <item>非常に速い</item>
     </string-array>
     <string-array name="tts_rate_xunfei_values">
         <item>60</item>
@@ -1410,8 +1410,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
     </string-array>
     <string-array name="agps_network_entries">
-        <item>Home network</item>
-        <item>All network</item>
+        <item>ホームネットワーク</item>
+        <item>すべてのネットワーク</item>
     </string-array>
     <string-array name="agps_si_mode_values">
         <item>0</item>
