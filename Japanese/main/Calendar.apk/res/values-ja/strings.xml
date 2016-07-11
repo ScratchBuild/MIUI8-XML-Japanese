@@ -28,7 +28,6 @@
     <string name="refresh">刷新</string>
     <string name="movable_list_header_label">简介</string>
     <string name="topic_list_header_label">订阅列表</string>
-    <string name="setting_wifi_mode">内容仅在WLAN下同步大图</string>
     <string name="setting_sms_import">导入短信事件</string>
     <string name="preferences_import_credit_repayment">信用卡还款</string>
     <string name="sms_import_description">更好地管理与时间相关的短信事件</string>

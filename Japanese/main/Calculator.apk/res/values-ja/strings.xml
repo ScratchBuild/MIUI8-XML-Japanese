@@ -366,7 +366,8 @@
     <string name="unit_data_short_time_us">μs</string>
     <string name="network_confirm_title">"ネットワーク接続が必要"</string>
     <string name="network_confirm_content">"通貨変換、税金や住宅ローンの計算にはお使いの端末がネットワークに接続されている必要があります。"</string>
-    <string name="word_figure_dot">点</string>
+    <string name="word_figure_zheng">整</string>
+    <string name="word_figure_yuan">元</string>
     <string name="word_figure_number_0">零</string>
     <string name="word_figure_number_1">壹</string>
     <string name="word_figure_number_2">贰</string>
@@ -382,4 +383,7 @@
     <string name="word_figure_unit_qian">仟</string>
     <string name="word_figure_big_unit_wan">万</string>
     <string name="word_figure_big_unit_yi">亿</string>
+    <string name="word_figure_big_unit_zhao">兆</string>
+    <string name="word_figure_big_unit_jiao">角</string>
+    <string name="word_figure_big_unit_fen">分</string>
 </resources>

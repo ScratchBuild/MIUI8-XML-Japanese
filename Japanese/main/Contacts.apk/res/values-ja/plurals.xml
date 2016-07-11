@@ -68,7 +68,7 @@
     </plurals>
     <plurals name="pick_recent_list_title">
         <item quantity="other">%1$d recent contacts</item>
-        <item quantity="one">1 recent contact</item>
+        <item quantity="one">%1$d recent contact</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contacts</item>
@@ -80,11 +80,11 @@
     </plurals>
     <plurals name="hint_search_emails">
         <item quantity="other">%1$d contact emails</item>
-        <item quantity="one">1 contact email</item>
+        <item quantity="one">%1$d contact email</item>
     </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">Found %1$d items</item>
-        <item quantity="one">Found 1 item</item>
+        <item quantity="one">Found %1$d item</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favorites</item>
@@ -100,11 +100,11 @@
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Delete %d contacts</item>
-        <item quantity="one">Delete contact</item>
+        <item quantity="one">Delete %d contact</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d people</item>
-        <item quantity="one">1 person</item>
+        <item quantity="one">%d person</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contacts imported</item>
@@ -121,11 +121,11 @@
     </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Block %1$d phone numbers?</item>
-        <item quantity="one">Block this phone number?</item>
+        <item quantity="one">Block %1$d phone number?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">Unblock %1$d phone numbers?</item>
-        <item quantity="one">Unblock this phone number?</item>
+        <item quantity="one">Unblock %1$d phone number?</item>
     </plurals>
     <plurals name="voip_contacts_count">
         <item quantity="other">%1$d people</item>
@@ -141,6 +141,6 @@
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d contacts or photos haven't been synced"</item>
-        <item quantity="one">"1 contact or photo hasn't been synced"</item>
+        <item quantity="one">"%d contact or photo hasn't been synced"</item>
     </plurals>
 </resources>

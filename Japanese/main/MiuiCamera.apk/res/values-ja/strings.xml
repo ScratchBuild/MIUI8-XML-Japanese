@@ -152,16 +152,9 @@
     <string name="pref_camera_coloreffect_entry_none">Normal</string>
     <string name="pref_camera_coloreffect_entry_mono">Mono</string>
     <string name="pref_camera_coloreffect_entry_vivid">Vivid</string>
-    <string name="pref_camera_coloreffect_entry_yesteryear">Yesteryear</string>
-    <string name="pref_camera_coloreffect_entry_brannan">Dawn</string>
     <string name="pref_camera_coloreffect_entry_sketch">Sketch</string>
-    <string name="pref_camera_coloreffect_entry_seventy">1970s</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Fisheye</string>
-    <string name="pref_camera_coloreffect_entry_jstyle">Japanese</string>
-    <string name="pref_camera_coloreffect_entry_xproii">Vibrant</string>
     <string name="pref_camera_coloreffect_entry_mosaic">Mosaic</string>
-    <string name="pref_camera_coloreffect_entry_earlybird">Autumn</string>
-    <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
     <string name="pref_camera_coloreffect_entry_mirror">Mirror</string>
     <string name="pref_camera_touchafaec_default">touch-on</string>
     <string name="pref_camera_touchafaec_entry_off">Off</string>
@@ -275,12 +268,6 @@
     <string name="pref_camera_video_duration_entry_10">"10分"</string>
     <string name="pref_camera_video_duration_entry_30">"30分"</string>
     <string name="pref_camera_video_duration_entry_120">"制限なし"</string>
-    <string name="pref_camera_skinToneEnhancement_entry_auto">Auto-enhance</string>
-    <string name="pref_camera_skinToneEnhancement_entry_enable">Enable</string>
-    <string name="pref_camera_skinToneEnhancement_entry_disable">Disable</string>
-    <string name="pref_camera_skinToneEnhancement_value_auto">auto</string>
-    <string name="pref_camera_skinToneEnhancement_value_enable">enable</string>
-    <string name="pref_camera_skinToneEnhancement_value_disable">disable</string>
     <string name="pref_camera_zsl_entry_off">Off</string>
     <string name="pref_camera_zsl_entry_on">On</string>
     <string name="pref_camera_zsl_value_off">off</string>
@@ -496,7 +483,6 @@
     <string name="dual_camera_too_close_toast">The camera is too close to the object.</string>
     <string name="dual_camera_lowlight_toast">"Looks like it's too dark."</string>
     <string name="dual_camera_lens_covered_toast">The lens is covered.</string>
-    <string name="dual_camera_low_constract_toast">Looks like the contrast is too low.</string>
     <string name="dual_camera_use_hint">"Stereo mode helps you blur the background.
 The object shouldn't be further than 2 meters."</string>
     <string name="pref_camera_square_mode_title">Square</string>
@@ -511,7 +497,7 @@ The object shouldn't be further than 2 meters."</string>
     <string name="pref_camera_beautify_entryvalue_low">1</string>
     <string name="pref_camera_beautify_entryvalue_normal">2</string>
     <string name="pref_camera_beautify_entryvalue_high">3</string>
-    <string name="pref_camera_beautify_entry_auto">Off</string>
+    <string name="pref_camera_beautify_entry_auto">Auto</string>
     <string name="pref_camera_beautify_entry_low">Low</string>
     <string name="pref_camera_beautify_entry_normal">Medium</string>
     <string name="pref_camera_beautify_entry_high">High</string>

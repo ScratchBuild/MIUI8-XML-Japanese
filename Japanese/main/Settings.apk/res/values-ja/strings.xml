@@ -67,7 +67,8 @@
     <string name="status_bar_settings_show_floating_notification">Floating notifications</string>
     <string name="status_bar_settings_show_floating_notification_summary">"Floating notifications will disappear automatically after they're shown at the top of the screen"</string>
     <string name="status_bar_settings_show_keyguard_notification">Lock screen notifications</string>
-    <string name="status_bar_settings_notification_sound_vibrate">Sound &amp; vibration</string>
+    <string name="status_bar_settings_notification_sound">Sound</string>
+    <string name="status_bar_settings_notification_vibrate">Vibration</string>
     <string name="status_bar_settings_notification_led">Notification light</string>
     <string name="status_bar_settings_notification_bar">Notification shade</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
@@ -4143,4 +4144,24 @@ Select your operating system:"</string>
     <string name="uninstall_dlg_title">Uninstall now?</string>
     <string name="uninstall_dlg_msg">Uninstalling will remove all app data.</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Corresponding dual apps will be removed together with app data.</string>
+    <string name="keyguard_shortcut_title">Lock screen shortcuts</string>
+    <string name="keyguard_shortcut_summary">Set shortcuts for 2 apps on the Lock screen</string>
+    <string name="keyguard_left_function_title">Left</string>
+    <string name="keyguard_right_function_title">Right</string>
+    <string name="keyguard_left_function_chooser_title">App</string>
+    <string name="keyguard_right_function_chooser_title">App</string>
+    <string name="keyguard_left_function_chooser_hint_text">Left shortcut changed to %s</string>
+    <string name="keyguard_right_function_chooser_hint_text">Right shortcut changed to %s</string>
+    <string name="security_encryption_title">Encrypt device using lock screen password</string>
+    <string name="lockpassword_confirm_your_pattern_generic">Use your device pattern to continue.</string>
+    <string name="lockpassword_confirm_your_pin_generic">Enter your device PIN to continue.</string>
+    <string name="lockpassword_confirm_your_password_generic">Enter your device password to continue.</string>
+    <string name="lockpassword_invalid_pin">Wrong PIN</string>
+    <string name="lockpassword_invalid_password">Wrong password</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts">Too many incorrect attempts. Try again in %d seconds.</string>
+    <string name="lockpassword_confirm_your_lock_pattern_header">Confirm your pattern</string>
+    <string name="lockpassword_confirm_your_private_pattern_header">Confirm your pattern</string>
+    <string name="lockpassword_confirm_your_lock_password_header">Confirm your password</string>
+    <string name="lockpassword_confirm_your_private_password_header">Confirm your password</string>
+    <string name="fingerprint_for_keyguard_disabled">Fingerprint has been disabled by security settings.</string>
 </resources>
