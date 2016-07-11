@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>"名前の変更"</item>
+        <item>"削除"</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>"カメラ"</item>
+        <item>"ギャラリー"</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>"名前"</item>
+        <item>"ニックネーム"</item>
+        <item>"電話番号"</item>
+        <item>"メールアドレス"</item>
+        <item>"会社名"</item>
+        <item>IM</item>
+        <item>"IP電話"</item>
+        <item>"誕生日"</item>
+        <item>Website</item>
+        <item>"住所"</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Huge</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Welcome to Notes
+"</item>
+        <item>"Create a note
+Tap the plus to create a note."</item>
+        <item>"Choose templates
+Use templates to change backgrounds and styles of your notes.
+Tap the right button at the bottom of the note to choose a template."</item>
+        <item>"Create folders
+Organize your notes in folders.
+There are 2 ways to create a folder:
+1. Tap the folder icon in the upper right corner, and then tap the plus.
+2. Hold a note until a pop-up menu appears, and choose \"Move to\" - \"New folder\"."</item>
+        <item>"Hide notes
+Protect private notes with a password.
+There are 2 ways to hide a note:
+1. Tap the \"More\" button in the upper right corner of a note, and select \"Hide\".
+2. Hold a note until a pop-up menu appears, and select \"Hide\"."</item>
+        <item>"And more great features!
+  - Images, checklists, reminders.
+
+Add images
+Tap the image icon at the bottom of a note to add an image.
+You can take a photo or choose one from the Gallery.
+When a note contains an image, this image will be used as the note's miniature in grid view.
+
+Create checklists
+Checkbox is an essential element of a to-do list.
+Tap the checkbox icon at the bottom of a note to add a checkbox to a paragraph of text.
+Check the box when the stuff is done.
+
+Set reminders
+Set reminders directly from notes.
+Tap the \"More\" button in the upper right corner of a note, select \"Reminders\", set the time.
+"</item>
+    </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
