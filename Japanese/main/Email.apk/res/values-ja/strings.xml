@@ -11,7 +11,7 @@
     <string name="account_manager_type_legacy_imap">com.android.email</string>
     <string name="account_manager_type_pop3">com.android.email</string>
     <string name="account_name_toast">An account with same name already exists</string>
-    <string name="account_options_sync_title">Sync</string>
+    <string name="account_options_sync_title">"同期"</string>
     <string name="account_password_spaces_error">"This password starts or ends with one or more
         space characters. Many servers don't support passwords with spaces."</string>
     <string name="account_security_dialog_content_fmt">"%s requires that you update your security
@@ -21,13 +21,13 @@
          some security features of your Android device."</string>
     <string name="account_security_title">Device security</string>
     <string name="account_set_up_change_type_note">If you need to switch between POP3 and IMAP settings, delete your account and create a new one with your desired settings.</string>
-    <string name="account_setting">Accounts</string>
+    <string name="account_setting">"アカウント"</string>
     <string name="account_setting_keywords">Accounts;mail accounts</string>
     <string name="account_settings_action">Account settings</string>
     <string name="account_settings_background_attachments_label">Download attachments</string>
     <string name="account_settings_background_attachments_summary">Download attachments using Wi-Fi</string>
-    <string name="account_settings_data_usage">Sync settings</string>
-    <string name="account_settings_description_label">Account name</string>
+    <string name="account_settings_data_usage">"同期設定"</string>
+    <string name="account_settings_description_label">"アカウント名"</string>
     <string name="account_settings_edit_quick_responses_label">Quick reply</string>
     <string name="account_settings_edit_quick_responses_summary">Edit brief messages to paste into emails</string>
     <string name="account_settings_enforced_label">Policies</string>
@@ -36,19 +36,19 @@
     <string name="account_settings_login_dialog_content_fmt">"The username or password for %s is incorrect.
  Update them now?"</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Couldn't sign in to %s. The server said: %s"</string>
-    <string name="account_settings_login_dialog_title">"Couldn't sign in"</string>
+    <string name="account_settings_login_dialog_title">"ログインできません"</string>
     <string name="account_settings_mail_check_frequency_label">Frequency</string>
     <string name="account_settings_mibill_resolve_label">Manage bills automatically</string>
-    <string name="account_settings_name_label">Nickname</string>
-    <string name="account_settings_notifications">Notifications</string>
+    <string name="account_settings_name_label">"ニックネーム"</string>
+    <string name="account_settings_notifications">"通知"</string>
     <string name="account_settings_notify_label">Email notifications</string>
     <string name="account_settings_notify_summary">Show notification when new email arrives</string>
-    <string name="account_settings_param">Account settings</string>
-    <string name="account_settings_policies">Security policies</string>
+    <string name="account_settings_param">"アカウント設定"</string>
+    <string name="account_settings_policies">"セキュリティポリシー"</string>
     <string name="account_settings_retry_label">Attempt sync</string>
     <string name="account_settings_retry_summary">Touch to sync account</string>
     <string name="account_settings_ringtone">Notification sound</string>
-    <string name="account_settings_servers">Server settings</string>
+    <string name="account_settings_servers">"サーバー設定"</string>
     <string name="account_settings_summary">Sync frequency, notifications, etc.</string>
     <string name="account_settings_sync_calendar_enable">Sync calendar</string>
     <string name="account_settings_sync_calendar_summary">Sync calendar events for this account</string>
@@ -61,21 +61,21 @@
     <string name="account_settings_using_ringtone">Ringtone</string>
     <string name="account_settings_vibrate_when_label">Vibrate</string>
     <string name="account_setup_account_type_instructions">What type of account is this?</string>
-    <string name="account_setup_account_type_title">Account setup</string>
-    <string name="account_setup_address_label">Email</string>
-    <string name="account_setup_autodiscover_dlg_authfail_message">Confirm username, password, and account settings are correct.</string>
-    <string name="account_setup_autodiscover_dlg_authfail_title">"Couldn't set up account"</string>
-    <string name="account_setup_basics_email_label">Email address</string>
-    <string name="account_setup_basics_manual_setup_action">Manual setup</string>
-    <string name="account_setup_basics_password_label">Password</string>
-    <string name="account_setup_basics_title">Add account</string>
-    <string name="account_setup_check_settings_check_incoming_msg">"    Validating server settings…"</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">"    Validating smtp settings…"</string>
-    <string name="account_setup_check_settings_retr_info_msg">"    Retrieving account information…"</string>
-    <string name="account_setup_correct_address_tips">Enter email address</string>
-    <string name="account_setup_creating_account_msg">"    Creating account…"</string>
-    <string name="account_setup_deleting_account_msg">"    Removing account…"</string>
-    <string name="account_setup_exchange_certificate_title">Client certificate</string>
+    <string name="account_setup_account_type_title">"アカウントのセットアップ"</string>
+    <string name="account_setup_address_label">"メール"</string>
+    <string name="account_setup_autodiscover_dlg_authfail_message">"ユーザー名、パスワード、およびアカウントの設定が正しいか確認してください。"</string>
+    <string name="account_setup_autodiscover_dlg_authfail_title">"アカウントのセットアップができません"</string>
+    <string name="account_setup_basics_email_label">"メールアドレス"</string>
+    <string name="account_setup_basics_manual_setup_action">"手動セットアップ"</string>
+    <string name="account_setup_basics_password_label">"パスワード"</string>
+    <string name="account_setup_basics_title">"アカウントの追加"</string>
+    <string name="account_setup_check_settings_check_incoming_msg">"    サーバー設定の検証中…"</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">"    SMTP設定の検証中…"</string>
+    <string name="account_setup_check_settings_retr_info_msg">"    アカウント情報の取得中…"</string>
+    <string name="account_setup_correct_address_tips">"メールアドレスを入力"</string>
+    <string name="account_setup_creating_account_msg">"    アカウントを作成中…"</string>
+    <string name="account_setup_deleting_account_msg">"    アカウントを削除中…"</string>
+    <string name="account_setup_exchange_certificate_title">"クライアント証明書"</string>
     <string name="account_setup_exchange_device_id_label">Mobile Device ID</string>
     <string name="account_setup_exchange_no_certificate">None</string>
     <string name="account_setup_failed_certificate_inaccessible">The certificate is invalid or inaccessible.</string>
@@ -89,8 +89,8 @@
     <string name="account_setup_failed_dlg_device_locked">"\"Couldn't sign in. This account has been locked.\"​"</string>
     <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
     <string name="account_setup_failed_dlg_error_code">Error code: %s</string>
-    <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
-    <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
+    <string name="account_setup_failed_dlg_server_message">"サーバーに接続できません。"</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">"サーバーに接続できません。
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">"Couldn't set up account"</string>
     <string name="account_setup_failed_dlg_todo1">Set account as shown below or try signing in with EXCHANGE.</string>
@@ -135,7 +135,7 @@
     <string name="account_setup_options_mail_window_default">Use account default</string>
     <string name="account_setup_options_mail_window_label">Sync mail from</string>
     <string name="account_setup_options_mail_window_label_imap_or_pop3">Keep for</string>
-    <string name="account_setup_options_title">Account settings</string>
+    <string name="account_setup_options_title">"アカウント設定"</string>
     <string name="account_setup_outgoing_port_label">Port</string>
     <string name="account_setup_outgoing_require_login_label">Require sign-in</string>
     <string name="account_setup_outgoing_smtp_server_label">SMTP server</string>
@@ -146,10 +146,10 @@
     <string name="account_setup_server_acc_manager_title">Accounts</string>
     <string name="account_setup_username_password_toast">"        Type a valid email address and password."</string>
     <string name="account_sync_off">Account sync is off.</string>
-    <string name="account_waiting_for_folders_msg">Loading folders…</string>
+    <string name="account_waiting_for_folders_msg">"フォルダを読み込み中…"</string>
     <string name="actionbar_large_unread_count">%1$d+ unread</string>
-    <string name="activity_folder_selection">Choose folder</string>
-    <string name="activity_mailbox_selection">Choose account</string>
+    <string name="activity_folder_selection">"フォルダを選択"</string>
+    <string name="activity_mailbox_selection">"アカウントを選択"</string>
     <string name="add_account">Add account</string>
     <string name="add_account_keywords">Add account;add mail account</string>
     <string name="add_attachment">Add attachment</string>
@@ -162,7 +162,7 @@
     <string name="allread">Read all</string>
     <string name="always_bcc_myself">Always Bcc self</string>
     <string name="always_show_images">Always show pictures from this sender</string>
-    <string name="app_name">Mail</string>
+    <string name="app_name">"メール"</string>
     <string name="application_mime_type">application/email-ls</string>
     <string name="archive">Archive</string>
     <string name="archived">Archived</string>
