@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>"白"</item>
+        <item>"黄"</item>
+        <item>"灰"</item>
+        <item>"茶"</item>
+        <item>"緑"</item>
+        <item>"青"</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>"スタートページ"</item>
+        <item>"カスタム"</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>"極小"</item>
+        <item>"小"</item>
+        <item>"標準"</item>
+        <item>"大"</item>
+        <item>"極大"</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Phone</item>
+        <item>Pad</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Message from Browser</item>
+        <item>Follow the Olypmpics with Mi</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Follow</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>"削除"</item>
+        <item>No thanks</item>
+    </string-array>
+</resources>

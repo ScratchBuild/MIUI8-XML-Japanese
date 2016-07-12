@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="last_num_days">
+        <item quantity="other">Last %d days</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d of %2$d</item>
+        <item quantity="one">1 match</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Clear %1$d videos?</item>
+        <item quantity="one">Clear %1$d video?</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Removed %1$d videos successfully.</item>
+        <item quantity="one">Removed %1$d video successfully.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Delete %1$d items from history?</item>
+        <item quantity="one">Delete %1$d item from history?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d items removed from history.</item>
+        <item quantity="one">%1$d item removed from history.</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d matches</item>
+        <item quantity="one">%d match</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d items blocked</item>
+        <item quantity="one">%d item blocked</item>
+    </plurals>
+</resources>
