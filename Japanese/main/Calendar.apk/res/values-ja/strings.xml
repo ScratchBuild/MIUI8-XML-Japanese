@@ -172,7 +172,7 @@
     <string name="empty_event">Empty event not created</string>
     <string name="creating_event_with_guest">Invitations will be sent</string>
     <string name="saving_event_with_guest">Updates will be sent</string>
-    <string name="alert_title">Calendar notifications</string>
+    <string name="alert_title">"カレンダーの通知"</string>
     <string name="event_info_title">"予定の詳細"</string>
     <string name="event_info_title_invite">"ミーティングへの招待"</string>
     <string name="edit_event_to_label">"終了"</string>
@@ -205,7 +205,7 @@
     <string name="quick_response_dialog_title">Choose quick response</string>
     <string name="quick_response_email_failed">"Couldn't find a mail app"</string>
     <string name="quick_response_custom_msg">Custom message…</string>
-    <string name="event_info_reminders_label">Reminders</string>
+    <string name="event_info_reminders_label">"リマインダー"</string>
     <string name="agenda_today">"今日, %1$s"</string>
     <string name="agenda_yesterday">"昨日, %1$s"</string>
     <string name="agenda_tomorrow">"明日, %1$s"</string>
@@ -294,11 +294,11 @@
     <string name="time_zone">"タイムゾーン"</string>
     <string name="event_all_day_label">"終日"</string>
     <string name="today_no_events">"予定なし"</string>
-    <string name="user_notification">Notifications</string>
-    <string name="user_notification_descrip">Show notifications every time you open Calendar</string>
+    <string name="user_notification">"通知"</string>
+    <string name="user_notification_descrip">"カレンダーを開くたびに通知を毎回表示する"</string>
     <string name="event_info_reminders_label_1">Reminder</string>
     <string name="event_info_reminders_label_more">Reminder %d</string>
-    <string name="event_account">Account</string>
+    <string name="event_account">"アカウント"</string>
     <string name="event_show_more">More options</string>
     <string name="event_hide_more">Hide</string>
     <string name="event_info_when">When\u0009\u0009</string>

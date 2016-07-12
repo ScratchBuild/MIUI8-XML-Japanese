@@ -5,11 +5,11 @@
     <string name="sina_share_fail">"送信に失敗しました"</string>
     <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
     <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
-    <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+    <string name="sina_share_fail_content_repeat">"共有に失敗しました。既にコンテンツが存在します…"</string>
     <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">Notes;Memo</string>
     <string name="search_path_notes">Settings/System apps/Notes</string>
-    <string name="dlg_move_message">Moving…</string>
+    <string name="dlg_move_message">"移動中…"</string>
     <string name="dlg_stick_message">Pinning…</string>
     <string name="dlg_privacy_message">Hiding…</string>
     <string name="dlg_unmark_privacy_message">Unhiding…</string>
@@ -18,14 +18,14 @@
     <string name="menu_mark_privacy">Hide</string>
     <string name="menu_unmark_privacy">Unhide</string>
     <string name="menu_move_to">Move to</string>
-    <string name="menu_send_as_image">Send as image</string>
-    <string name="sns_desc_image_preview">Message preview</string>
+    <string name="menu_send_as_image">"画像として送信"</string>
+    <string name="sns_desc_image_preview">"メッセージのプレビュー"</string>
     <string name="privacy_notes_fragment_title">Hidden notes</string>
     <string name="toast_mark_privacy_notes">Hidden successfully</string>
     <string name="toast_unmark_privacy_notes">Unhidden successfully</string>
     <string name="toast_mark_privacy_notes_count">Hid %1$s successfully</string>
     <string name="toast_unmark_privacy_notes_count">Unhid %1$s successfully</string>
-    <string name="privacy_hint">Privacy</string>
+    <string name="privacy_hint">"プライバシー"</string>
     <string name="theme_title_default">Default</string>
     <string name="theme_title_invitation">Invitation</string>
     <string name="theme_title_arty">Floral</string>
@@ -39,8 +39,8 @@
     <string name="theme_title_star">Stars</string>
     <string name="empty_folder_hint">"No folders
 Tap the plus to create a folder"</string>
-    <string name="empty_note_mark_privacy_error">"Can't hide an empty note"</string>
-    <string name="recover_notes_hint">An error occurred, go to i.mi.com to restore notes.</string>
+    <string name="empty_note_mark_privacy_error">"空のノートは非表示にできません"</string>
+    <string name="recover_notes_hint">"エラーが発生しました、ノートを復元するには i.mi.com へアクセスしてください。"</string>
     <string name="app_name">"ノート"</string>
     <string name="app_widget">"ノート"</string>
     <string name="widget_havenot_content">"タップでノートを作成。ウィジェットを長押しでリサイズ。"</string>
@@ -63,7 +63,7 @@ Tap the plus to create a folder"</string>
     <string name="menu_unstick">"ピン留めを解除"</string>
     <string name="folder_exist">"同じ名前のフォルダが既に存在します"</string>
     <string name="menu_send_to_desktop">"ホーム画面へ設置"</string>
-    <string name="menu_title_select_folder">Select folder</string>
+    <string name="menu_title_select_folder">"フォルダを選択"</string>
     <string name="menu_move_parent_folder">Parent folder</string>
     <string name="menu_source">From %1$s</string>
     <string name="unknown_source">"不明なソース"</string>
@@ -76,10 +76,10 @@ Tap the plus to create a folder"</string>
     <string name="alert_message_delete_note">"このノートを削除しますか？"</string>
     <string name="format_move_notes_to_folder">Moved %1$s to %2$s</string>
     <string name="format_move_notes_out_folder">Moved %1$s out</string>
-    <string name="alert_title_edit_anyway">This note contains unsupported contents</string>
-    <string name="alert_message_edit_anyway">If you edit this note, some of its contents may be lost.</string>
-    <string name="alert_action_edit_anyway">Keep editing</string>
-    <string name="error_note_not_exist">"Note doesn't exist"</string>
+    <string name="alert_title_edit_anyway">"このノートにはサポートされていないコンテンツが含まれています"</string>
+    <string name="alert_message_edit_anyway">"このノートを編集した場合、内容の一部が失われる可能性があります。"</string>
+    <string name="alert_action_edit_anyway">"編集を続ける"</string>
+    <string name="error_note_not_exist">"ノートが存在しません"</string>
     <string name="error_note_empty_for_clock">"Can't set reminder time for an empty note"</string>
     <string name="error_note_empty_for_send_to_desktop">"Empty notes can't be placed on Home screen"</string>
     <string name="error_widget_exist_for_send_to_desktop">"このノートは既にホーム画面に設置済みです"</string>
@@ -102,8 +102,8 @@ Tap the plus to create a folder"</string>
     <string name="alert_edit_action_update">"変更"</string>
     <string name="alert_edit_action_delete">"削除"</string>
     <string name="notify_alarm_title">Note reminder</string>
-    <string name="alarm_bar_title">Reminder</string>
-    <string name="toast_message_add_image_fail">"Couldn't add image"</string>
+    <string name="alarm_bar_title">"リマインダー"</string>
+    <string name="toast_message_add_image_fail">"画像を追加できません"</string>
     <string name="toast_message_add_text_warn">"This type of file isn't supported"</string>
     <string name="toast_reach_text_limit_truncate">This note is too long. Some text has been cut off of the end.</string>
     <string name="toast_reach_text_limit_attachment">"Can't add new attachments because note is too long"</string>
@@ -119,7 +119,7 @@ Tap the plus to create a folder"</string>
     <string name="pref_title_common">"その他の設定"</string>
     <string name="pref_title_alarm_when_silent">"Don't silence reminders"</string>
     <string name="pref_desc_alarm_when_silent">Alarms for reminders will still sound when ringer is silenced</string>
-    <string name="pref_title_recover_help">Recover notes</string>
+    <string name="pref_title_recover_help">"ノートの復元"</string>
     <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
     <string name="dlg_desc_confirm_alarm_silent">Active alarms will not sound when ringer is silenced.</string>
     <string name="dlg_delete_message">"削除中…"</string>
@@ -135,7 +135,7 @@ Tap the plus to create a folder"</string>
     <string name="sns_hint_content">"メッセージを入力"</string>
     <string name="sns_footer_text">Created with Mi Notes</string>
     <string name="dlg_info_creating_message">"メッセージを作成中…"</string>
-    <string name="sns_message_disconnect">"Can't connect to the network. Check your connection and try again."</string>
+    <string name="sns_message_disconnect">"ネットワークに接続できません。接続を確認して、もう一度やり直してください。"</string>
     <string name="sns_content_default">Share photo</string>
     <string name="sns_toast_empty">"Can't send empty message"</string>
     <string name="sns_toast_over_limit">Sent as image</string>
