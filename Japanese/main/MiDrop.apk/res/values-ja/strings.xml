@@ -31,12 +31,12 @@
     <string name="receiver_notification_turn_on">Recipient must turn on Mi Drop</string>
     <string name="receiver_notification_turn_on_help">Turn on to find devices and send files.</string>
     <string name="sender_file_num">Waiting for %1$d files</string>
-    <string name="sender_select_device">Choose a device</string>
+    <string name="sender_select_device">"端末を選択"</string>
     <string name="sender_return">"戻る"</string>
     <string name="sender_wait">"待機中"</string>
     <string name="sender_wait_queue">"待機中"</string>
-    <string name="sender_reject">"Don't accept"</string>
-    <string name="sender_reject_kick_off">Please try it later</string>
+    <string name="sender_reject">"同意しない"</string>
+    <string name="sender_reject_kick_off">"後でやり直してください"</string>
     <string name="sender_finish">Sent</string>
     <string name="sender_fail">"Couldn't send"</string>
     <string name="sender_interupt">Transfer interrupted</string>
@@ -57,7 +57,7 @@
     <string name="receiver_apk_file_num">%2$d​ apps from %1$s</string>
     <string name="receiver_apk_file_current">Receiving %2$d​ apps from %1$s</string>
     <string name="receiver_file_cancel">File transfer from %1$s interrupted</string>
-    <string name="receiver_cancel">Cancel</string>
+    <string name="receiver_cancel">"キャンセル"</string>
     <string name="i_know">Got it</string>
     <string name="receiver_clean">Free up space</string>
     <string name="receiver_succeed_ok">OK</string>
@@ -90,7 +90,7 @@
     <string name="cancel_confirm_title">"Transfer isn't complete, cancel now?"</string>
     <string name="title_activity_p2p_group_client">P2pGroupClientActivity</string>
     <string name="file_not_support">"This file type isn't supported"</string>
-    <string name="help">Help</string>
+    <string name="help">"ヘルプ"</string>
     <string name="send_file_time_format_m">m:s</string>
     <string name="send_file_time_format_s">s</string>
     <string name="title_activity_intro">IntroActivity</string>

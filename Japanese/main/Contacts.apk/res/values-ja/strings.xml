@@ -207,7 +207,7 @@
     <string name="imei">"IMEI: "</string>
     <string name="meid">"MEID: "</string>
     <string name="voicemail">Voicemail</string>
-    <string name="unknown">Unknown</string>
+    <string name="unknown">"不明"</string>
     <string name="private_num">Private number</string>
     <string name="payphone">Pay phone</string>
     <string name="dialerKeyboardHintText">Use keyboard to dial</string>
@@ -319,9 +319,9 @@ To add a contact to your list of favorites:
     <string name="description_plus_button">Plus</string>
     <string name="description_view_contact_detail">View contact</string>
     <string name="no_sdcard_message">"SDカードが見つかりません。"</string>
-    <string name="import_from_sdcard">Import from storage</string>
-    <string name="export_to_sdcard">Export to storage</string>
-    <string name="share_visible_contacts">Share contacts</string>
+    <string name="import_from_sdcard">"ストレージからインポート"</string>
+    <string name="export_to_sdcard">"ストレージへエクスポート"</string>
+    <string name="share_visible_contacts">"連絡先を共有"</string>
     <string name="import_one_vcard_string">Import 1 vCard file</string>
     <string name="import_multiple_vcard_string">Import multiple vCard files</string>
     <string name="import_all_vcard_string">Import all vCard files</string>

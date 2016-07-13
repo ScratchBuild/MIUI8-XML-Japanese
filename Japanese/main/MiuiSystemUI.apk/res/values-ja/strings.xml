@@ -102,8 +102,8 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="status_bar_safepay_safe">No payment risks found</string>
     <string name="status_bar_safepay_risk">Payment risks found</string>
     <string name="status_bar_safepay_unknown">"Couldn't check payment environment"</string>
-    <string name="status_bar_date_format">"EEEE
-MMMM d"</string>
+    <string name="status_bar_date_format">"M月d日
+EEEE"</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>
     <string name="status_bar_recent_guide_all">"Slide up to close
@@ -114,9 +114,9 @@ Slide down to lock"</string>
     <string name="description_direction_up">Swipe up for %s.</string>
     <string name="description_direction_left">Swipe left for %s.</string>
     <string name="description_target_search">Search</string>
-    <string name="status_bar_date_format_12">"EEEE
-MMMM d"</string>
-    <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
+    <string name="status_bar_date_format_12">"M月d日
+EEEE"</string>
+    <string name="status_bar_clock_date_format">"M月d日 EEEE"</string>
     <string name="status_bar_recent_memory_info1">%1$sB of %2$sB available</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="usb_mode_notification">USB Storage</string>
@@ -213,21 +213,21 @@ MMMM d"</string>
     <string name="notification_hidden_text">Contents hidden</string>
     <string name="block_notification_text">Hide</string>
     <string name="block_notification_content_text">"%1$s's notifications won't be shown again.You can change this in the Settings."</string>
-    <string name="notification_otg_mouse_in">Mouse connected</string>
-    <string name="notification_otg_keyboard_in">Keyboard connected</string>
+    <string name="notification_otg_mouse_in">"マウスが接続されました"</string>
+    <string name="notification_otg_keyboard_in">"キーボードが接続されました"</string>
     <string name="notification_otg_gamestick_in">Game controller connected</string>
-    <string name="notification_otg_stylus_in">Stylus connected</string>
+    <string name="notification_otg_stylus_in">"スタイラスが接続されました"</string>
     <string name="notification_otg_touchScreen_in">Touch screen connected</string>
-    <string name="notification_otg_touchPad_in">Touchpad is connected</string>
-    <string name="notification_otg_trackball_in">Trackball connected</string>
+    <string name="notification_otg_touchPad_in">"タッチパッドが接続されました"</string>
+    <string name="notification_otg_trackball_in">"トラックボールが接続されました"</string>
     <string name="notification_otg_unknow_in">OTG device connected</string>
-    <string name="notification_otg_mouse_out">Mouse disconnected</string>
-    <string name="notification_otg_keyboard_out">Keyboard disconnected</string>
+    <string name="notification_otg_mouse_out">"マウスが切断されました"</string>
+    <string name="notification_otg_keyboard_out">"キーボードが切断されました"</string>
     <string name="notification_otg_gamestick_out">Game controller disconnected</string>
-    <string name="notification_otg_stylus_out">Stylus disconnected</string>
+    <string name="notification_otg_stylus_out">"スタイラスが切断されました"</string>
     <string name="notification_otg_touchScreen_out">Touch screen disconnected</string>
-    <string name="notification_otg_touchPad_out">Touchpad disconnected</string>
-    <string name="notification_otg_trackball_out">Trackball disconnected</string>
+    <string name="notification_otg_touchPad_out">"タッチパッドが切断されました"</string>
+    <string name="notification_otg_trackball_out">"トラックボールが切断されました"</string>
     <string name="notification_otg_unknow_out">OTG device disconnected</string>
     <string name="mdb_restore_label">MDB restore</string>
     <string name="mdb_restore_info1">"Restore your phone's data"</string>

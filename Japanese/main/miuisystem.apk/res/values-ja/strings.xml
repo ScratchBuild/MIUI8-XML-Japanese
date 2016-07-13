@@ -107,7 +107,7 @@
     <string name="light_snow">小雪</string>
     <string name="heavy_snow">大雪</string>
     <string name="winter_solstice">冬至</string>
-    <string name="no_notification_tips">No notifications.</string>
+    <string name="no_notification_tips">"通知はありません。"</string>
     <string name="android_ringtone_default_with_actual">"デフォルトの着信音 (%1$s)"</string>
     <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
     <string name="cloud_state_finished">Synced with Mi Cloud</string>
