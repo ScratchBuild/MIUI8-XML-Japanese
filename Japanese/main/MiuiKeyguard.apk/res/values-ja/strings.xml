@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">"削除"</string>
+    <string name="unlockscreen_recharging_message">"充電中 %d%%"</string>
+    <string name="unlockscreen_recharge_completed">"充電完了"</string>
+    <string name="unlockscreen_low_battery">"充電器を接続してください"</string>
+    <string name="lockscreen_charging_msg">"充電中"</string>
+    <string name="emergency_call_string">"緊急通報"</string>
+    <string name="forget_password_string">Forgot password</string>
+    <string name="input_puk_code">Input PUK</string>
+    <string name="unlocking_sim_card">Unlocking SIM card</string>
+    <string name="input_pin_code">Enter PIN</string>
+    <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
+    <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, %d attempts remaining</string>
+    <string name="incorrect_pukcode">Incorrect PUK code</string>
+    <string name="incorrect_pincode">Incorrect PIN code</string>
+    <string name="open_wifi_settings">Open network connection</string>
+    <string name="lock_screen_date">"M月d日 EEEE"</string>
+    <string name="lock_screen_date_12">"M月d日 EEEE"</string>
+    <string name="lockscreen_glogin_password_hint">Password</string>
+    <string name="lockscreen_glogin_checking_password">Checking…</string>
+    <string name="login_website_in_case_forget_password">To reset your password, go to www.mi.com/micloud</string>
+    <string name="experimental_validate_thanks">Thank you!</string>
+    <string name="experimental_validate_warning">Thank you for helping make MIUI better!</string>
+    <string name="experimental_validate">Validate</string>
+    <string name="experimental_try_string">Try</string>
+    <string name="experimental_validate_username">Username</string>
+    <string name="experimental_validate_password">Password</string>
+    <string name="experimental_validate_progress">Signing in…</string>
+    <string name="experimental_validate_fail">"Couldn't sign in"</string>
+    <string name="lockscreen_glogin_invalid_input">Invalid username or password.</string>
+    <string name="find_device_turn_off_flight_mode">Turn off airplane mode</string>
+    <string name="phone_locked_string">Phone has been locked</string>
+    <string name="phone_locked_timeout_seconds_string">Try again in %s seconds</string>
+    <string name="phone_locked_timeout_minutes_string">Try again in %s minutes</string>
+    <string name="input_password_hint_text">Enter password</string>
+    <string name="unlock_sim_string">Unlock SIM</string>
+    <string name="lockscreen_glogin_submit_button">Sign in</string>
+    <string name="lockscreen_access_pattern_start">Pattern started</string>
+    <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
+    <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+    <string name="lockscreen_access_pattern_detected">Pattern completed</string>
+    <string name="default_lockscreen_unlock_hint_text">"上にスワイプでロック解除"</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly entered your password %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Mi Account sign-in.
+
+ Try again in %d seconds."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by Bluetooth device</string>
+    <string name="missed_call_text">"%d件の不在着信"</string>
+    <string name="wrong_password">Incorrect password</string>
+    <string name="keyguard_torch_cover_text">To keep torch on, hold the Power button</string>
+    <string name="confirm_pin_msg">Enter PIN again</string>
+    <string name="invalid_confirm_pin_hint">"PINs don't match"</string>
+    <string name="unlock_string">Unlock</string>
+    <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
+    <string name="open_remote_center_hint_text">"右にスワイプで電話を開く"</string>
+    <string name="left_action_default_hint_text">"電話"</string>
+    <string name="click_to_enter_text">Tap to view</string>
+    <string name="fingerprint_try_again_text">Try again</string>
+    <string name="fingerprint_not_identified_title">Enter password</string>
+    <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
+    <string name="invalid_sim_pin_hint">PIN should contain 4 to 8 numbers</string>
+    <string name="invalid_sim_puk_hint">PUK should be at least 8 numbers long</string>
+    <string name="input_password_after_boot_msg">To unlock device, enter your password</string>
+    <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>
+</resources>
