@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">"%1$d個の更新可能なテーマがリリース"</item>
+        <item quantity="one">"%1$d個の更新可能なテーマがリリース"</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">"%1$d個のテーマで更新が利用可能です。"</item>
+        <item quantity="one">"%1$d個のテーマで更新が利用可能です。"</item>
+    </plurals>
+</resources>
