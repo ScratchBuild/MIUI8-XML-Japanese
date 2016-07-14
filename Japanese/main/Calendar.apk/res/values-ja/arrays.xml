@@ -3,7 +3,7 @@
     <string-array name="reminder_methods_labels">
         <item>"通知"</item>
         <item>"メール"</item>
-        <item>"メッセージ"</item>
+        <item>"SMS"</item>
         <item>"アラーム"</item>
     </string-array>
     <integer-array name="reminder_methods_values">
@@ -37,7 +37,7 @@
         <item>10080</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Locale default</item>
+        <item>"ユーザーの言語/地域での既定の設定"</item>
         <item>"土曜日"</item>
         <item>"日曜日"</item>
         <item>"月曜日"</item>
@@ -221,9 +221,9 @@
         <item>Pacific/Tongatapu</item>
     </string-array>
     <string-array name="availability">
-        <item>Busy</item>
-        <item>Available</item>
-        <item>Tentative</item>
+        <item>"予定あり"</item>
+        <item>"予定なし"</item>
+        <item>"仮承諾"</item>
     </string-array>
     <integer-array name="availability_values">
         <item>0</item>
@@ -231,26 +231,26 @@
         <item>2</item>
     </integer-array>
     <string-array name="visibility">
-        <item>Default</item>
-        <item>Private</item>
-        <item>Public</item>
+        <item>"既定"</item>
+        <item>"限定公開"</item>
+        <item>"一般公開"</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>first</item>
-        <item>second</item>
-        <item>third</item>
-        <item>fourth</item>
-        <item>last</item>
+        <item>"第1"</item>
+        <item>"第2"</item>
+        <item>"第3"</item>
+        <item>"第4"</item>
+        <item>"最終"</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>No response</item>
-        <item>Yes</item>
-        <item>Maybe</item>
-        <item>No</item>
+        <item>"応答がありません"</item>
+        <item>"はい"</item>
+        <item>"未定"</item>
+        <item>"いいえ"</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>"今回のみ"</item>
-        <item>"以降すべて"</item>
+        <item>"この日の予定のみ"</item>
+        <item>"これ以降の予定"</item>
         <item>"すべての予定"</item>
     </string-array>
     <integer-array name="delete_repeating_values">
@@ -259,8 +259,8 @@
         <item>2</item>
     </integer-array>
     <string-array name="change_response_labels">
-        <item>Only this event</item>
-        <item>All events in the series</item>
+        <item>"この予定のみ"</item>
+        <item>"繰り返す予定すべて"</item>
     </string-array>
     <array name="account_birthday">
         <item>#ffe99080</item>
@@ -335,10 +335,10 @@
         <item>0</item>
     </integer-array>
     <string-array name="quick_response_defaults">
-        <item>Running just a couple of minutes late.</item>
-        <item>Be there in about 10 minutes.</item>
-        <item>Go ahead and start without me.</item>
-        <item>"Sorry, I can't make it. We'll have to reschedule."</item>
+        <item>"数分遅れています。"</item>
+        <item>"10分ほどで着きます。"</item>
+        <item>"先に始めていてください。"</item>
+        <item>"申し訳ありませんが、行けません。日程を変更する必要があります。"</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Always</item>

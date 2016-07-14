@@ -24,11 +24,11 @@
         <item quantity="one">1.0</item>
     </plurals>
     <plurals name="Nevents">
-        <item quantity="other">%d events</item>
-        <item quantity="one">1 event</item>
+        <item quantity="other">"%d件の予定"</item>
+        <item quantity="one">"1件の予定"</item>
     </plurals>
     <plurals name="N_remaining_events">
-        <item quantity="other">+%d events</item>
-        <item quantity="one">+1 event</item>
+        <item quantity="other">"他%d件の予定"</item>
+        <item quantity="one">"他1件の予定"</item>
     </plurals>
 </resources>

@@ -23,7 +23,7 @@
     <string name="account_set_up_change_type_note">If you need to switch between POP3 and IMAP settings, delete your account and create a new one with your desired settings.</string>
     <string name="account_setting">"アカウント"</string>
     <string name="account_setting_keywords">Accounts;mail accounts</string>
-    <string name="account_settings_action">Account settings</string>
+    <string name="account_settings_action">"アカウントの設定"</string>
     <string name="account_settings_background_attachments_label">Download attachments</string>
     <string name="account_settings_background_attachments_summary">Download attachments using Wi-Fi</string>
     <string name="account_settings_data_usage">"同期設定"</string>
