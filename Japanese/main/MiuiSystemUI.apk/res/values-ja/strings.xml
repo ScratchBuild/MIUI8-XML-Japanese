@@ -268,11 +268,11 @@ EEEE"</string>
     <string name="screenshot_long_screenshot">Scroll</string>
     <string name="screenshot_edit">"編集"</string>
     <string name="screenshot_send">"送る"</string>
-    <string name="screenshot_delete">Delete</string>
-    <string name="screenshot_delete_dlg_title">Delete</string>
-    <string name="screenshot_delete_dlg_msg">Are you sure to delete this screenshot?</string>
-    <string name="screenshot_dlg_cancel">Cancel</string>
-    <string name="screenshot_dlg_delete_button">Delete</string>
+    <string name="screenshot_delete">"削除"</string>
+    <string name="screenshot_delete_dlg_title">"スクリーンショットを削除"</string>
+    <string name="screenshot_delete_dlg_msg">"このスクリーンショットを削除しますか？"</string>
+    <string name="screenshot_dlg_cancel">"キャンセル"</string>
+    <string name="screenshot_dlg_delete_button">"削除"</string>
     <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
     <string name="long_screenshot_stop">Done</string>
     <string name="long_screenshot_processing">Processing…</string>

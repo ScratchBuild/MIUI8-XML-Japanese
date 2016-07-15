@@ -17,9 +17,9 @@
     <string name="more_settings">More settings</string>
     <string name="vibrate_pref_summary">Vibrate when alarm sounds</string>
     <string name="label_pref_summary">Label this alarm clock</string>
-    <string name="force_touch_add_alarm">Add Alarm</string>
-    <string name="force_touch_enter_stopwatch">Stopwatch</string>
-    <string name="force_touch_enter_timer">Timer</string>
+    <string name="force_touch_add_alarm">"アラームを追加"</string>
+    <string name="force_touch_enter_stopwatch">"ストップウォッチ"</string>
+    <string name="force_touch_enter_timer">"タイマー"</string>
     <string name="worldclock_title">"世界時計"</string>
     <string name="stopwatch_title">"ストップウォッチ"</string>
     <string name="timer_title">"タイマー"</string>

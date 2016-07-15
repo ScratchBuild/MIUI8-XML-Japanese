@@ -179,9 +179,9 @@ Tap the screen to manually add or reposition city"</string>
     <string name="set_land_mile">mph</string>
     <string name="set_kilometre">km/h</string>
     <string name="alert_warning">Alert Warning</string>
-    <string name="unit">Unit</string>
+    <string name="unit">"単位"</string>
     <string name="information_set">Information Set</string>
-    <string name="unit_temperature">Temperature Unit</string>
-    <string name="unit_wind">Wind Power Unit</string>
-    <string name="set">Settings</string>
+    <string name="unit_temperature">"気温の単位"</string>
+    <string name="unit_wind">"風速の単位"</string>
+    <string name="set">"設定"</string>
 </resources>

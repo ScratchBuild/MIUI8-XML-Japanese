@@ -466,7 +466,7 @@
     <string name="insert_event_dialog_btn_negative">"いいえ"</string>
     <string name="insert_event_toast_add_failed">"予定を追加できません"</string>
     <string name="insert_event_toast_add_success">"予定を作成しました"</string>
-    <string name="force_touch_title_add_new_event">Add New Event</string>
+    <string name="force_touch_title_add_new_event">"新しい予定を追加"</string>
     <string name="more_string">+%1$s</string>
     <string name="copy_email">"メールアドレスをコピー"</string>
     <string name="copy_number">"電話番号をコピー"</string>
