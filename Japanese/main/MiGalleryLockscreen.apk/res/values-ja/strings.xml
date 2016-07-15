@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallpaper Carousel</string>
+    <string name="at_least_one">"少なくとも1つのカテゴリを選択します"</string>
+    <string name="auto_interval">"自動"</string>
+    <string name="cancel">"キャンセル"</string>
+    <string name="cancel_international">"キャンセル"</string>
+    <string name="cancel_lockscreen">"キャンセル"</string>
+    <string name="change_time">"壁紙の切り替え"</string>
+    <string name="day">"1日1回"</string>
+    <string name="declaration">"あなたのロック画面に新しい壁紙が毎日無料で配信されます。"</string>
+    <string name="declaration_lockscreen_title">Wallpaper Carousel</string>
+    <string name="declaration_title">"利用規約"</string>
+    <string name="hour_1">"1時間ごと"</string>
+    <string name="hour_3">"3時間ごと"</string>
+    <string name="lockscreen_magazine_summary">"壁紙は以下のフォルダに追加されます Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/"</string>
+    <string name="lockscreen_magazine_system_title">"オフライン"</string>
+    <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
+    <string name="minutes_15">"15分ごと"</string>
+    <string name="no_long_show">"二度と表示しない"</string>
+    <string name="ok_enable_network_prov">"同意する"</string>
+    <string name="ok_international">"同意する"</string>
+    <string name="ok_lockscreen">OK</string>
+    <string name="ok_network">"同意"</string>
+    <string name="resource_apply">"適用"</string>
+    <string name="resource_no_network_text">"ネットワークに接続できません。"</string>
+    <string name="setting_head">"設定"</string>
+    <string name="sst_favor_desc">"お気に入りの壁紙を表示"</string>
+    <string name="sst_favor_title">"お気に入り"</string>
+    <string name="sst_grid_view_select_all">"すべて選択"</string>
+    <string name="sst_grid_view_unselect_all">"すべて選択を解除"</string>
+    <string name="sst_no_favor_wallpaper_hint">"お気に入りの壁紙はありません"</string>
+    <string name="sst_prov_enable_desc">Turn on wallpapers carousel on lock screen</string>
+    <string name="sst_prov_enable_title">Turn on Wallpaper Carousel</string>
+    <string name="sst_require_one_category_hint">"少なくとも1つのカテゴリを選択してください"</string>
+    <string name="sst_sti_desc">"壁紙の更新頻度を設定"</string>
+    <string name="sst_sti_title">"更新頻度"</string>
+    <string name="sst_subscribe_title">My categories</string>
+    <string name="sst_wifi_only_desc">"モバイルデータを節約するには、この機能をオフにします"</string>
+    <string name="sst_wifi_only_title">"モバイルデータを使用して壁紙を更新"</string>
+    <string name="summary">"By using this feature, you're agreeing to our &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. This feature needs to connect to the internet to work normally."</string>
+    <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. This feature needs to connect to the internet to work normally.​"</string>
+    <string name="theme_apply_failured">"適用できませんでした、後ほど再試行してください"</string>
+    <string name="theme_apply_success">"ロック画面に適用しました"</string>
+    <string name="theme_applying">"適用中…"</string>
+    <string name="wlan_download">"Wi-Fi経由で更新"</string>
+    <string name="wlan_download_cn">"無線LAN経由で更新"</string>
+</resources>
