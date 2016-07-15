@@ -106,10 +106,10 @@ If you re-enable data, you may be charged by the operator."</string>
 EEEE"</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>
-    <string name="status_bar_recent_guide_all">"Slide up to close
-Slide down to lock"</string>
-    <string name="status_bar_recent_guide_top">Slide up to close</string>
-    <string name="status_bar_recent_guide_bottom">Slide down to lock</string>
+    <string name="status_bar_recent_guide_all">"上にスライドして閉じる
+下にスライドしてロック"</string>
+    <string name="status_bar_recent_guide_top">"上にスライドして閉じる"</string>
+    <string name="status_bar_recent_guide_bottom">"下にスライドしてロック"</string>
     <string name="share">Share</string>
     <string name="description_direction_up">Swipe up for %s.</string>
     <string name="description_direction_left">Swipe left for %s.</string>

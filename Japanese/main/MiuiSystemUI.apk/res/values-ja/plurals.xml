@@ -5,8 +5,8 @@
         <item quantity="one">1 recent app</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
-        <item quantity="other">"Hide %d apps' notifications?"</item>
-        <item quantity="one">"Hide this app's notifications?"</item>
+        <item quantity="other">"%d個のアプリの通知を非表示にしますか？"</item>
+        <item quantity="one">"このアプリの通知を非表示にしますか？"</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">"快晴"</item>

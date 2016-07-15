@@ -117,10 +117,10 @@
     <string name="deleting">"削除中…"</string>
     <string name="resource_title_select_ringtone">Select tone</string>
     <string name="resource_tip_select_none">None selected</string>
-    <string name="resource_select_ringtone_audio_confirm">Select this ringtone?</string>
-    <string name="resource_select_notification_audio_confirm">Select this alarm sound?</string>
-    <string name="resource_select_alarm_audio_confirm">Select this notification sound?</string>
-    <string name="resource_select_boot_audio_confirm">Select this boot sound?</string>
+    <string name="resource_select_ringtone_audio_confirm">"この着信音を選択しますか？"</string>
+    <string name="resource_select_notification_audio_confirm">"このアラーム音を選択しますか？"</string>
+    <string name="resource_select_alarm_audio_confirm">"この通知音を選択しますか？"</string>
+    <string name="resource_select_boot_audio_confirm">"この起動音を選択しますか？"</string>
     <string name="resource_select_audio_confirm_picker">Select this sound?</string>
     <string name="loading_resource_detail_info">"読み込み中…"</string>
     <string name="loading_resource_detail_fail">"テーマを読み込めません"</string>
@@ -153,8 +153,8 @@
     <string name="resource_exchange_share_code_content">"You've received a gift code (%2$s) for the theme %1$s in MIUI's Theme Store. Tap %3$s to use it now."</string>
     <string name="resource_exchange_purchase_unkown_error">Yikes! An unknown error occurred. Sign in at http://market.xiaomi.com to view your payment status.</string>
     <string name="resource_comment_all_comments">"すべて"</string>
-    <string name="resource_comment_good_comments">Positive</string>
-    <string name="resource_comment_bad_comments">Negative</string>
+    <string name="resource_comment_good_comments">"良い評価"</string>
+    <string name="resource_comment_bad_comments">"悪い評価"</string>
     <string name="resource_comment_average_score">"評価"</string>
     <string name="resource_comment_score_count">%1$s users</string>
     <string name="resource_comment_no_average_score">N/A</string>
@@ -171,8 +171,8 @@
     <string name="resource_comment_sending">"コメントを送信中…"</string>
     <string name="resource_comment_upload_failed">"コメントを送信できませんでした"</string>
     <string name="resource_comment_upload_success">"あなたのコメントは、簡単な審査の後に表示されます。"</string>
-    <string name="resource_comment_upload_data_invalid">The comment you entered is invalid</string>
-    <string name="resource_comment_upload_not_logined">You need to sign in first</string>
+    <string name="resource_comment_upload_data_invalid">"入力したコメントは無効です"</string>
+    <string name="resource_comment_upload_not_logined">"初めにログインする必要があります"</string>
     <string name="resource_comment_upload_not_bought">You need to apply the theme before you can write comments about it</string>
     <string name="resource_comment_invalid">Touch the stars to rate the theme</string>
     <string name="resource_comment_expand_full_text">Expand all text▼</string>
@@ -181,7 +181,7 @@
     <string name="resource_comment_edit_comment">Add comments</string>
     <string name="resource_comment_edit_comment_waiting">Checking history…</string>
     <string name="resource_comment_edit_text_default">Write a comment</string>
-    <string name="resource_comment_publish">Submit</string>
+    <string name="resource_comment_publish">"送信"</string>
     <string name="resource_comment_name_default">User %1$s</string>
     <string name="resource_comment_loading_list">"読み込み中…"</string>
     <string name="resource_comment_rate">"評価:"</string>
