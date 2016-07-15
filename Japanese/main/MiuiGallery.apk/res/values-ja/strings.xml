@@ -32,6 +32,7 @@
     <string name="video_editor_audio_love">Romantic</string>
     <string name="video_editor_audio_sad">Ballad</string>
     <string name="video_editor_audio_custom">Select</string>
+    <string name="video_editor_unsupport_audio_file">Unsupport audio file</string>
     <string name="video_editor_text_none">None</string>
     <string name="video_editor_text_preview_text">Text</string>
     <string name="video_editor_text_input_empty_tips">"Looks like you haven't entered text yet"</string>

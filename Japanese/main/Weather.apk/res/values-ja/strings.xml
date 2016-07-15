@@ -81,6 +81,7 @@
     <string name="indices_desc_Precip1hr">%1$smm</string>
     <string name="information_time_source">%1$s | %2$s</string>
     <string name="daily_forcast_no_wind">&lt;12km/h</string>
+    <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
     <string name="daily_forcast_whirl_wind">"つむじ風"</string>
     <string name="daily_forcast_no_stable_direction">"無風"</string>
     <string name="title_share_link">Share URL</string>
@@ -96,6 +97,7 @@
     <string name="activity_main_clickable">></string>
     <string name="aqi_short_desc">AQI %1$s</string>
     <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_miles_unit">%1$smph</string>
     <string name="aqi_top_pollution">"最大汚染"</string>
     <string name="aqi_detail_title">Air Quality Index</string>
     <string name="aqi_detail_subtitle">AQI %1$s</string>
@@ -156,7 +158,9 @@ Tap the screen to manually add or reposition city"</string>
     <string name="traffic_control_today_numbers">"今日: %1$s"</string>
     <string name="traffic_control_tomorrow_numbers">"明日: %1$s"</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">"明後日: %1$s"</string>
+    <string name="retry">Retry</string>
     <string name="button_sure_abandon">"変更を破棄しますか？"</string>
+    <string name="commercial">Commercial</string>
     <string name="mi_pad2">latte</string>
     <string name="more_details">"さらに詳しく"</string>
     <string name="international_details_title">"詳細"</string>
@@ -168,4 +172,16 @@ Tap the screen to manually add or reposition city"</string>
     <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">"天気予報のアラート"</string>
     <string name="edit_alert_city_title">"アラートの管理"</string>
+    <string name="aqi_detail_unit">Unit:µg/m3(CO:mg/m3)</string>
+    <string name="index_item_install_now">Install now</string>
+    <string name="set_degree_centigrade">°C</string>
+    <string name="set_fahrenheit">°F</string>
+    <string name="set_land_mile">mph</string>
+    <string name="set_kilometre">km/h</string>
+    <string name="alert_warning">Alert Warning</string>
+    <string name="unit">Unit</string>
+    <string name="information_set">Information Set</string>
+    <string name="unit_temperature">Temperature Unit</string>
+    <string name="unit_wind">Wind Power Unit</string>
+    <string name="set">Settings</string>
 </resources>

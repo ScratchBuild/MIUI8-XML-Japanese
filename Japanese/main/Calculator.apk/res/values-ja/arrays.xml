@@ -73,7 +73,7 @@
     <string-array name="unit_data_order_currency_">
         <item>USD</item>
         <item>EUR</item>
-        <item>GBP</item>
+        <item>HKD</item>
         <item>JPY</item>
         <item>CNY</item>
     </string-array>

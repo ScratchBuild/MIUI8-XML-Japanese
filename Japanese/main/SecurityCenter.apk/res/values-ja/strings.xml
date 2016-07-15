@@ -866,6 +866,10 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="power_save_mode_start_time">Start</string>
     <string name="power_save_mode_end_time">End</string>
     <string name="notification_charging_title">Charging</string>
+    <string name="charging_text_time_calculating">Calculating charging time…</string>
+    <string name="charging_text_battery_nearly_full">Nearly charged</string>
+    <string name="charging_text_battery_full_time">Last charge</string>
+    <string name="charging_text_battery_perfect">Fully charged</string>
     <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
     <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
     <string name="resource_securitycenter_settings">Security</string>
@@ -901,9 +905,6 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="resource_networkassistant_4">Test network</string>
     <string name="keywords_networkassistant_4">Connection;Internet;Test</string>
     <string name="path_networkassistant_4">System apps/Security/Data usage/Test network</string>
-    <string name="resource_applicationlock">App lock</string>
-    <string name="keywords_applicationlock">Password;Privacy;App lock;Access;Protection</string>
-    <string name="path_applicationlock">System apps/Security</string>
     <string name="preference_key_create_shortcut">key_create_shortcut</string>
     <string name="preference_key_about_version">key_about_version</string>
     <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
@@ -1330,7 +1331,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="preferred_app_entries_music">Music</string>
     <string name="preferred_app_entries_email">Email</string>
     <string name="system_info_remind">Add locks to prevent unauthorized access to your apps</string>
-s    <string name="Setting_lock">Settings</string>
+    <string name="Setting_lock">Settings</string>
     <string name="btn_jump">Skip</string>
     <string name="btn_lock">Add lock</string>
     <string name="app_name">App lock</string>

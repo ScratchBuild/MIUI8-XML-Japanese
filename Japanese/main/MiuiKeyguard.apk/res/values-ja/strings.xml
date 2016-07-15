@@ -33,7 +33,6 @@
     <string name="phone_locked_string">Phone has been locked</string>
     <string name="phone_locked_timeout_seconds_string">"%s秒後にもう一度お試しください"</string>
     <string name="phone_locked_timeout_minutes_string">"%s分後にもう一度お試しください"</string>
-    <string name="input_password_hint_text">"パスワードを入力"</string>
     <string name="unlock_sim_string">Unlock SIM</string>
     <string name="lockscreen_glogin_submit_button">"ログイン"</string>
     <string name="lockscreen_access_pattern_start">Pattern started</string>
@@ -62,6 +61,8 @@
     <string name="fingerprint_not_identified_msg">"端末のロックを解除するには、パスワードを入力します。"</string>
     <string name="invalid_sim_pin_hint">PIN should contain 4 to 8 numbers</string>
     <string name="invalid_sim_puk_hint">PUK should be at least 8 numbers long</string>
+    <string name="input_password_hint_text">"パスワードを入力"</string>
+    <string name="input_pattern_hint_text">Draw your unlock pattern</string>
     <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>
     <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>
 </resources>

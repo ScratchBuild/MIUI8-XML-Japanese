@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="preferences_default_reminder_default_value">10</string>
     <string name="chinese_leap">闰</string>
     <string name="event_lunar_month">月</string>
     <string name="huangli_good_type">宜</string>
@@ -135,6 +136,7 @@
     <string name="event_created_fail_text">创建赛事提醒失败</string>
     <string name="more_match">更多赛事</string>
     <string name="match_not_started">未开始</string>
+    <string name="swipe_up_guide_hint_text">上滑发现更多</string>
     <string name="settings_calendar">Calendar</string>
     <string name="search_calendar">Calendar;Agenda;Reminder</string>
     <string name="path_calendar">System apps/Calendar/Settings</string>
@@ -233,7 +235,6 @@
     <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
     <string name="change_response_title">"出欠状況を変更"</string>
     <string name="menu_general_preferences">"全般設定"</string>
-    <string name="menu_reminder_preferences">"リマインダー設定"</string>
     <string name="preferences_general_title">"カレンダーの表示設定"</string>
     <string name="preferences_reminder_title">"通知とリマインダー"</string>
     <string name="preferences_hide_declined_title">"辞退した予定を非表示"</string>
@@ -288,6 +289,7 @@
     <string name="action_text_new_event">"新しい予定"</string>
     <string name="week_view_today_toast">"You're currently viewing this week"</string>
     <string name="preferences_title">"カレンダー"</string>
+    <string name="menu_reminder_preferences">"リマインダー設定"</string>
     <string name="account_and_calendar">"アカウント"</string>
     <string name="account_and_calendar_to_display">"表示するカレンダー"</string>
     <string name="default_reminder_mode">"リマインダー"</string>
@@ -464,6 +466,7 @@
     <string name="insert_event_dialog_btn_negative">"いいえ"</string>
     <string name="insert_event_toast_add_failed">"予定を追加できません"</string>
     <string name="insert_event_toast_add_success">"予定を作成しました"</string>
+    <string name="force_touch_title_add_new_event">Add New Event</string>
     <string name="more_string">+%1$s</string>
     <string name="copy_email">"メールアドレスをコピー"</string>
     <string name="copy_number">"電話番号をコピー"</string>

@@ -32,7 +32,6 @@
         <item>AQI %1$s</item>
         <item>AQI %1$s</item>
         <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
     </string-array>
     <string-array name="aqi_title_append">
         <item>%1$s</item>
@@ -41,10 +40,8 @@
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
-        <item>%1$s</item>
     </string-array>
     <string-array name="aqi_title">
-        <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>

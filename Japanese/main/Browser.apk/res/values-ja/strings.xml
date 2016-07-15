@@ -882,6 +882,7 @@ Leave this page?"</string>
     <string name="pref_save_bandwidth_mode_title">Reduce data usage</string>
     <string name="adjust_text_zoom_toast">Changing text zoom may cause some websites to display incorrectly</string>
     <string name="pref_extras_reset_default_title">Other</string>
+    <string name="pref_extras_send_feedback">Send feedback</string>
     <string name="pref_extras_title_version">"バージョン情報"</string>
     <string name="pref_auto_update_under_wifi">Update using Wi-Fi</string>
     <string name="pref_version_info">Version info</string>
@@ -1013,4 +1014,7 @@ Pages you view won't appear in history."</string>
     <string name="add_bookshelf_popup_text">Added to bookshelf</string>
     <string name="add_shortcut">Add shortcut</string>
     <string name="add_shortcut_success">Add shortcut success</string>
+    <string name="force_quick_search_title">Search</string>
+    <string name="force_touch_bookmark_history_title">Bookmark And History</string>
+    <string name="force_touch_infoflow_title">Daily News</string>
 </resources>

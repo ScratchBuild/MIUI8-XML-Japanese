@@ -370,7 +370,7 @@
     <string name="email_netease">NetEase Mail</string>
     <string name="email_package_name">com.android.email</string>
     <string name="email_qq">QQ Mail</string>
-    <string name="email_setting">Email Setting</string>
+    <string name="email_setting">Mail</string>
     <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
     <string name="email_sina">Sina Mail</string>
     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>

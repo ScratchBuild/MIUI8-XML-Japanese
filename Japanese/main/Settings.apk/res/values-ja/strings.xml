@@ -248,7 +248,7 @@
     <string name="bluetooth_ask_start_broadcast">"%1$sがBluetoothブロードキャストをONにして付近の他のデバイスと通信しようとしています。これは後からBluetoothの設定で変更できます。"</string>
     <string name="bluetooth_ask_enablement_and_start_broadcast">"%1$sがBluetoothとBluetoothブロードキャストをONにして付近の他のデバイスと通信しようとしています。これは後からBluetoothの設定で変更できます。"</string>
     <string name="bluetooth_broadcasting_explaination">"この機能をONにすると、端末が付近の他のデバイスと通信できるようになります。
-    
+
 ブロードキャストでは省電力のBluetooth信号を使用します。"</string>
     <string name="bluetooth_ask_enablement_and_discovery">"アプリが、%1$d秒間BluetoothをONにして他のデバイスにこの携帯端末を表示しようとしています。"</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">"アプリがBluetoothをONにして他のデバイスにこの携帯端末を表示しようとしています。これは後からBluetoothの設定で変更できます。"</string>
@@ -438,7 +438,7 @@
     <string name="crypt_keeper_encrypt_title">"端末の暗号化"</string>
     <string name="crypt_keeper_encrypted_summary">"暗号化されています"</string>
     <string name="crypt_keeper_desc">"アカウント、設定、ダウンロードしたアプリとそのデータ、メディアなどのファイルを暗号化できます。携帯電話を暗号化すると、画面ロック（パターン、数値PIN、パスワード）を設定済みの場合は、電源を入れるたびに画面のロックを解除して携帯電話を復号化する必要があります。他に暗号化を解除する方法は、データの初期化を行ってすべてのデータを消去する方法のみです。
-    
+
 暗号化には1時間以上かかります。開始する前に完全に充電し、暗号化が完了するまで携帯電話を電源に接続しておく必要があります。中断すると、一部またはすべてのデータが失われます。"</string>
     <string name="crypt_keeper_button_text">"携帯端末を暗号化"</string>
     <string name="crypt_keeper_low_charge_text">"充電してからもう一度お試しください。"</string>
@@ -769,7 +769,7 @@
     <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_scan_always_turnon_message">"現在地情報の精度向上やその他の目的で、%1$sではWi-FiがOFFのときでもネットワークスキャンをオンにすることを要求しています。
-    
+
 スキャンを必要とするすべてのアプリでスキャンを許可しますか？"</string>
     <string name="wifi_scan_always_turnoff_message">"この機能をOFFにするには、オーバーフローメニューの[詳細設定]にアクセスします。"</string>
     <string name="wifi_scan_always_confirm_allow">"許可する"</string>
@@ -2018,7 +2018,7 @@ Attempts Remaining :"</string>
     <string name="device_admin_status">"この管理者は有効であり、アプリ%1$sに次の操作を許可します:"</string>
     <string name="profile_owner_add_title">"プロフィールマネージャを有効にしますか？"</string>
     <string name="adding_profile_owner_warning">"次に進むと、ユーザーは管理者の管理対象となり、管理者は個人情報に加えて関連データも保存できるようになります。
-    
+
 管理者は、ネットワークアクティビティや端末の位置情報など、このユーザーに関連付けられた設定、アクセス、アプリ、データを監視および管理できます。"</string>
     <string name="untitled_apn">"無題"</string>
     <string name="sound_category_sound_title">"全般"</string>
@@ -2229,7 +2229,7 @@ Attempts Remaining :"</string>
     <string name="data_usage_restrict_denied_dialog">"バックグラウンドデータの制限は、モバイルデータの上限を設定した場合にのみ有効となります。"</string>
     <string name="data_usage_auto_sync_on_dialog_title">"データ自動同期をONにしますか？"</string>
     <string name="data_usage_auto_sync_on_dialog">"ウェブでアカウントに変更を加えると自動的に携帯電話に反映されます。
-    
+
 Googleアカウントなど、アカウントによっては、携帯電話で変更を加えた場合も自動的にウェブに反映されます。"</string>
     <string name="data_usage_auto_sync_off_dialog_title">"データ自動同期をOFFにしますか？"</string>
     <string name="data_usage_auto_sync_off_dialog">"無効にすると、データと電池の使用を節約できますが、最新情報を取得するには手動で各アカウントを同期する必要があります。また、更新があったときに通知されません。"</string>
@@ -2345,7 +2345,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
 詳しくは管理者にお問い合わせください。"</string>
 
     <string name="ssl_ca_cert_warning_message">"第三者があなたのネットワークアクティビティ（メール、アプリ、保護されたウェブサイトなど）を監視できます。
-    
+
 これは、信頼できる認証情報が端末にインストールされているためです。"</string>
     <string name="ssl_ca_cert_settings_button">"信頼できる認証情報を確認"</string>
     <string name="user_settings_title">"ユーザー"</string>
@@ -2369,12 +2369,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
     <string name="user_add_profile_item_title">"制限付きプロフィール"</string>
     <string name="user_add_user_title">"新しいユーザーを追加しますか？"</string>
     <string name="user_add_user_message_long">"追加ユーザーを作成して、この端末を他のユーザーと共有できます。各ユーザーは各自のスペースを所有でき、アプリや壁紙などを使用してカスタマイズできます。Wi-Fiなど、すべてのユーザーに影響する端末設定を変更することもできます。
-    
+
 新しいユーザーを追加したら、そのユーザーは自分のスペースをセットアップする必要があります。
 
 すべてのユーザーは他のユーザーに代わってアプリを更新できます。"</string>
     <string name="user_add_user_message_short">"新しいユーザーを追加したら、そのユーザーは自分のスペースをセットアップする必要があります。
-    
+
 すべてのユーザーは他のユーザーに代わってアプリを更新できます。"</string>
     <string name="user_setup_dialog_title">"ユーザーを今すぐセットアップ"</string>
     <string name="user_setup_dialog_message">"ユーザーが端末を使って各自のスペースをセットアップできるよう確認してください"</string>
@@ -2675,13 +2675,13 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
     <string name="encryption_interstitial_header">"暗号化"</string>
     <string name="encryption_continue_button">"次へ"</string>
     <string name="encryption_interstitial_message_pin">"この端末の起動前にPINを入力することでこの端末の保護を強化できます。端末が起動するまで、通話、メッセージ、アラームなどの通知を受信することはできません。
-    
+
 これにより、端末を紛失したり盗まれたりしても端末上のデータを保護することができます。"</string>
     <string name="encryption_interstitial_message_pattern">"この端末の起動前にパターンを入力することでこの端末の保護を強化できます。端末が起動するまで、通話、メッセージ、アラームなどの通知を受信することはできません。
-    
+
 これにより、端末を紛失したり盗まれたりしても端末上のデータを保護することができます。"</string>
     <string name="encryption_interstitial_message_password">"この端末の起動前にパスワードを入力することでこの端末の保護を強化できます。端末が起動するまで、通話、メッセージ、アラームなどの通知を受信することはできません。
-    
+
 これにより、端末を紛失したり盗まれたりしても端末上のデータを保護することができます。"</string>
     <string name="encrypt_require_pin">"端末を起動するにはPINが必須とする"</string>
     <string name="encrypt_require_pattern">"端末を起動するにはパターンが必須とする"</string>
@@ -2847,6 +2847,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="search_screen_effect">Colors &amp; saturation;Colors &amp; contrast</string>
     <string name="search_screen_saver_settings">Screensaver</string>
     <string name="search_screen_paper_mode">Reading mode</string>
+    <string name="search_gesture_wakeup_title">Double tap screen to wake</string>
     <string name="search_sound_settings">Sound;Volumes;Silent mode;Alarm;Music;Vibrate;Phone ringtone;Default notification sound;Message received;Message delivered;Touch;Screen lock sound;Audio settings;Suppress noise</string>
     <string name="search_ring_volume">Volumes;Ringtone &amp; notifications;Alarm;Music</string>
     <string name="search_ringtone">Phone ringtone</string>
@@ -3020,6 +3021,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="path_screen_saver_settings">Settings/Display/Screensaver</string>
     <string name="path_screen_optimize">Settings/Display/Colors &amp; contrast</string>
     <string name="path_screen_paper_mode">Settings/Display/Reading mode</string>
+    <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
     <string name="path_accelerometer_settings">Settings/Display/Auto-rotate screen</string>
     <string name="path_sound_settings">Settings/Sound &amp; vibration</string>
     <string name="path_ringtone_settings">Settings/Sound &amp; vibration/Phone ringtone</string>

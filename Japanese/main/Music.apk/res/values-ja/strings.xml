@@ -760,4 +760,8 @@ Tap %s to start this download the next time you're connected to a WLAN network."
     <string name="set_now">Go to Settings</string>
     <string name="force_touch_play_local_music_random">Shuffle local music</string>
     <string name="force_touch_audio_picker">Recognize song</string>
+    <string name="download_start_btn">Free Download…</string>
+    <string name="already_download_btn">Downloading…</string>
+    <string name="download_complete_btn">Installed…</string>
+    <string name="download_done_btn">Downloaded</string>
 </resources>
