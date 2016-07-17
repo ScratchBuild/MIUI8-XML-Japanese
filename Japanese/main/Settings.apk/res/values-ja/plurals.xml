@@ -57,8 +57,8 @@
         <item quantity="one">"You're %1$d step away from entering CIT."</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">"You're %1$d steps away from reporting bug."</item>
-        <item quantity="one">"You're %1$d step away from reporting bug."</item>
+        <item quantity="other">"バグレポートの送信まであと%1$dステップです。"</item>
+        <item quantity="one">"バグレポートの送信まであと%1$dステップです。"</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Always disable for %d apps</item>

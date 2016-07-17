@@ -28,11 +28,11 @@ Use only the supplied charger."</string>
     <string name="usb_debugging_message">"The computer's RSA key fingerprint is:
 %1$s"</string>
     <string name="usb_debugging_always">Always allow from this computer</string>
-    <string name="screenshot_saving_ticker">Saving screenshot…</string>
-    <string name="screenshot_saving_title">Saving screenshot…</string>
-    <string name="screenshot_saving_text">Screenshot is being saved</string>
-    <string name="screenshot_saved_title">Screenshot captured</string>
-    <string name="screenshot_saved_text">Touch to view your screenshot.</string>
+    <string name="screenshot_saving_ticker">"スクリーンショットを保存しています…"</string>
+    <string name="screenshot_saving_title">"スクリーンショットを保存しています…"</string>
+    <string name="screenshot_saving_text">"スクリーンショットを取得しました"</string>
+    <string name="screenshot_saved_title">"スクリーンショットを取得しました"</string>
+    <string name="screenshot_saved_text">"タップしてスクリーンショットを表示します。"</string>
     <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
     <string name="accessibility_back">Back</string>
     <string name="accessibility_home">Home</string>
@@ -139,9 +139,9 @@ EEEE"</string>
     <string name="activate_usb_message">To activate this feature, insert your SIM card.</string>
     <string name="usb_function_charging_text">Connected in charging mode</string>
     <string name="return_to_incall_screen">Return to call</string>
-    <string name="call_status_dialing">Dialing</string>
-    <string name="call_status_ringing">Ringing</string>
-    <string name="reject_call">Rejecting call</string>
+    <string name="call_status_dialing">"発信中"</string>
+    <string name="call_status_ringing">"着信中"</string>
+    <string name="reject_call">"着信を拒否"</string>
     <string name="status_bar_style_settings">Notifications</string>
     <string name="settings_custom_notification">Manage notifications</string>
     <string name="settings_toggle_position">Manage toggles</string>
@@ -163,7 +163,7 @@ EEEE"</string>
     <string name="torch_activity_hint">Hold [icon] to turn on torch at the lock screen</string>
     <string name="torch_opened">Torch on</string>
     <string name="torch_closed">Torch off</string>
-    <string name="lockscreen_carrier_default">No service</string>
+    <string name="lockscreen_carrier_default">"通信サービスなし"</string>
     <string name="chooseUsbActivity">Select an app for the USB device</string>
     <string name="usb_storage_title">USB connected</string>
     <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android‘s SD card."</string>
@@ -275,7 +275,7 @@ EEEE"</string>
     <string name="screenshot_dlg_delete_button">"削除"</string>
     <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
     <string name="long_screenshot_stop">Done</string>
-    <string name="long_screenshot_processing">Processing…</string>
+    <string name="long_screenshot_processing">"処理中…"</string>
     <string name="long_screenshot_top_msg">Creating screenshot…</string>
     <string name="long_screenshot_out_of_memory_error">Image size is too big</string>
     <string name="float_incall_message">Message</string>
