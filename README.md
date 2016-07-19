@@ -16,3 +16,8 @@ https://github.com/ScratchBuild/MIUI8-XML-Japanese/commits/master
 
 # If you want to help in Japanese translations, please contact @ScratchBuild or @schipperke for further details.
 日本語の翻訳に参加したい方は、@ScratchBuildまたは@schipperkeまでお問い合わせ下さい。
+
+#####Credits:
+- Mi5japanese
+- schipperke
+- ScratchBuild
