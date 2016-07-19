@@ -14,7 +14,7 @@
     <string name="confirm_delete_broadcast">このブロードキャストを削除しますか？</string>
     <string name="confirm_delete_all_broadcasts">受信したすべてのブロードキャストを削除しますか？</string>
     <string name="button_delete">削除</string>
-    <string name="button_cancel">Cancel</string>
+    <string name="button_cancel">キャンセル</string>
     <string name="etws_earthquake_warning">地震警報</string>
     <string name="etws_tsunami_warning">津波警報</string>
     <string name="etws_earthquake_and_tsunami_warning">地震及び津波警報</string>
