@@ -101,8 +101,8 @@
     <string name="status_bar_screen_key_back">Back button</string>
     <string name="settings_toggle_position_divider_page">%1$d toggles placed above bar are active</string>
     <string name="settings_toggle_position_divider_list">Toggles placed above bar are active</string>
-    <string name="status_bar_style_list">Combined</string>
-    <string name="status_bar_style_page">Separate</string>
+    <string name="status_bar_style_list">"複合表示"</string>
+    <string name="status_bar_style_page">"分割表示"</string>
     <string name="status_bar_settings_style">Notifications &amp; toggles layout</string>
     <string name="additional_system_update" />
     <string name="additional_system_update_menu" />
