@@ -2732,7 +2732,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="config_mass_storage_function_name">mass_storage</string>
     <string name="config_charging_function_name">charging</string>
     <string name="wifi_type_approval" />
-     <string name="do_not_disturb_mode">夜間モード</string> <!-- do not disturb modeは夜間モードで良いでしょうか？-->
+     <string name="do_not_disturb_mode">夜間モード</string>
     <string name="dndm_notification">夜間モードオン</string>
     <string name="dndm_open">夜間モード</string>
     <string name="dndm_summary">夜間モードがオンの時は、着信や通知をお知らせしません</string>
@@ -2744,7 +2744,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="dndm_auto_time_turn_on_title">自動的に夜間モードをオンにする</string>
     <string name="dndm_auto_time_turn_off">終了時間</string>
     <string name="dndm_auto_time_turn_off_title">自動的に夜間モードをオフにする</string>
-    <string name="dndm_dlg_remove_vip">夜間モードがオンのとき、この人からの通話は消音します</string>
+    <string name="dndm_dlg_remove_vip">夜間モードがオンの時は、この人からの通話は消音します</string>
     <string name="dndm_dlg_remove_ok">"削除"</string>
     <string name="dndm_menu_add_vip_custom">"追加"</string>
     <string name="dndm_mute_all">通話やメッセージは消音されています</string>
