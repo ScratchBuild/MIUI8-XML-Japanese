@@ -2,7 +2,7 @@
 <resources>
     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="status_bar_date_formatter">%2$s</string>
-    <string name="app_label">システムUI</string>
+    <string name="app_label">System UI</string>
     <string name="status_bar_no_recent_apps">最近使ったアプリはありません</string>
     <string name="recent_task_lock_text">ロック</string>
     <string name="recent_task_unlock_text">アンロック</string>
@@ -40,8 +40,8 @@
     <string name="accessibility_recent">最近使ったアプリ</string>
     <string name="accessibility_search_light">検索</string>
     <string name="accessibility_camera_button">カメラ</string>
-    <string name="accessibility_bluetooth_connected">Bluetooth接続</string>
-    <string name="accessibility_bluetooth_disconnected">Bluetooth切断</string>
+    <string name="accessibility_bluetooth_connected">Bluetoothが接続されました。</string>
+    <string name="accessibility_bluetooth_disconnected">Bluetoothが切断されました。</string>
     <string name="accessibility_no_phone">No phone.</string>
     <string name="accessibility_phone_one_bar">Phone one bar.</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
@@ -159,10 +159,10 @@ EEEE"</string>
     <string name="camera_key_action_shortcut_search">検索</string>
     <string name="camera_key_action_shortcut_call">通話</string>
     <string name="camera_key_action_shortcut_wake">デバイスロック/起動</string>
-    <string name="torch_activity_name">照明</string>
+    <string name="torch_activity_name">ライト</string>
     <string name="torch_activity_hint">Hold [icon] to turn on torch at the lock screen</string>
-    <string name="torch_opened">照明オン</string>
-    <string name="torch_closed">照明オフ</string>
+    <string name="torch_opened">ライトをオン</string>
+    <string name="torch_closed">ライトをオフ</string>
     <string name="lockscreen_carrier_default">"通信サービスなし"</string>
     <string name="chooseUsbActivity">USBデバイスのためのアプリを選択してください</string>
     <string name="usb_storage_title">USB接続</string>
