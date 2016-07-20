@@ -2764,7 +2764,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="dndm_repeated_call_summary_3min">3分以内に同じ番号から着信があったら鳴らす</string>
     <string name="dndm_twelve_hour_time_format">a h:mm</string>
     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
-    <string name="dndm_wristband">Miバンドで有効化</string>
+    <string name="dndm_wristband">Mi Bandでアクティブにする</string>
     <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
     <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
     <string name="legal_workday_message">(Skip holidays)</string>
@@ -2772,8 +2772,8 @@ If you choose not to use personalized ads, the amount of advertising won't be re
     <string name="every_day">"毎日"</string>
     <string name="legal_workday">Legal workdays</string>
     <string name="never">Never</string>
-    <string name="dndm_wristband_detailed">"Miバンドが睡眠を検知したら、スケジュール開始時間前でも夜間モードをオンにする"</string>
-    <string name="dndm_wristband_detailed2">"Miバンドが起床を検知したら、スケジュール終了時間前でも夜間モードをオフにする"</string>
+    <string name="dndm_wristband_detailed">"Mi Bandが睡眠を検知したら、スケジュール開始時間前でも夜間モードをオンにする"</string>
+    <string name="dndm_wristband_detailed2">"Mi Bandが起床を検知したら、スケジュール終了時間前でも夜間モードをオフにする"</string>
     <string name="dndm_alarm_content">Sounds</string>
     <string name="dndm_alarm_content_all">Allow all</string>
     <string name="dndm_alarm_content_event_and_call">"通知と着信"</string>
