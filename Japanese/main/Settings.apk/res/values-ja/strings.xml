@@ -1058,7 +1058,7 @@ PINが正しくない可能性があります。"</string>
     <string name="uicc_eject">UICCストレージを取り出す</string>
     <string name="uicc_eject_summary">安全に除去するためにUICCストレージを取り出す</string>
     <string name="uicc_format">UICCストレージのフォーマット</string>
-    <string name="uicc_format_summary">UICCストレージ内のすべてのデータを消去する（音楽、写真など</string>
+    <string name="uicc_format_summary">UICCストレージ内のすべてのデータを消去する（音楽、写真など)</string>
     <string name="uicc_mount">UICCストレージをマウント</string>
     <string name="uicc_mount_summary" />
     <string name="uicc_insert_summary">UICCストレージを接続</string>
@@ -3186,7 +3186,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
     <string name="access_control_need_to_unlock">パスワードが必要です:</string>
     <string name="access_control_reset_by_account">パスワードをリセットするには、Miアカウントにサインインして下さい</string>
     <string name="access_control_need_password">"％sは保護されています"</string>
-    <string name="access_control_no_back_footer">[アイコン]をタッチして終了</string>
+    <string name="access_control_no_back_footer">[icon]をタッチして終了</string>
     <string name="access_control_recording_intro_header">アンロックパターンを描いてください:</string>
     <string name="access_control_app_entry_single">アプリを開く</string>
     <string name="access_control_app_entry_multiple">%sを開く</string>
@@ -3224,7 +3224,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
     <string name="handy_mode_enter_ask">"片手操作モードへの切り替え前に確認"</string>
     <string name="handy_mode_tips">"ホームボタンから左または右にスワイプする事で、画面を片一方に寄せる事が出来ます。"</string>
     <string name="handy_mode_size">"画面サイズ"</string>
-    <string name="touch_assistant">フローティングボール</string>
+    <string name="touch_assistant">Floating Ball</string>
     <string name="key_settings_title">"ボタン"</string>
     <string name="key_settings">"ボタン"</string>
     <string name="screen_key_press">Press navigation buttons</string>
@@ -3671,7 +3671,7 @@ Select your operating system:"</string>
     <string name="wifi_share_current_network">現在のネットワーク</string>
     <string name="wifi_share_other_network">その他のネットワーク</string>
     <string name="wifi_share_know">OK</string>
-    <string name="wifi_share_summary1">MIUIユーザーが相互に公衆WLANネットワーク（カフェ、レストラン、ホテルなど）を共有することができます。</string>
+    <string name="wifi_share_summary1">MIUIユーザーが相互に公衆無線LANネットワーク（カフェ、レストラン、ホテルなど）を共有することができます。</string>
     <string name="wifi_share_summary2">他のMIUIのユーザがネットワークを共有しているときは、パスワードなしで直接接続することができます。</string>
     <string name="wifi_share_summary3">あなたはまた、他のMIUIユーザーと公衆無線LANネットワークを共有することができます。</string>
     <string name="wifi_share_add">自分の公衆無線LANネットワークを共有</string>
