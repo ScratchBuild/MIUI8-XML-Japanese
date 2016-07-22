@@ -595,7 +595,7 @@
   <string name="subject_label">"件名: "</string>
   <string name="text_in_popup_saved_to_clipboard">クリップボードにコピーしました</string>
   <string name="text_message">テキストメッセージ</string>
-  <string name="timed_message_expired_title">"dに設定されたメッセージは送信されませんでした"</string>
+  <string name="timed_message_expired_title">"%dに設定されたメッセージは送信されませんでした"</string>
   <string name="timed_message_expired_title_2">今すぐ送信しますか？</string>
   <string name="timed_message_in_total"> (%d件のメッセージ)</string>
   <string name="timed_message_to">to</string>
