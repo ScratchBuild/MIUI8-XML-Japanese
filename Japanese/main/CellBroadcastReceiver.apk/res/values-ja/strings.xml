@@ -89,7 +89,7 @@
   <string name="menu_preferences">設定</string>
   <string name="menu_view_details">詳細の表示</string>
   <string name="message_options">メッセージのオプション</string>
-  <string name="no_cell_broadcasts">ご利用の地域で利用可能な警報はありません。設定メニューのオプションで警報の設定を変更出来ます</string>
+  <string name="no_cell_broadcasts">ご利用の地域で利用可能な警報はありません。設定メニューのオプションで警報の設定を変更出来ます。</string>
   <string name="notification_multiple">%s件の警報が未読です</string>
   <string name="notification_multiple_title">新着の警報</string>
   <string name="pws_other_message_identifiers">緊急速報</string>
