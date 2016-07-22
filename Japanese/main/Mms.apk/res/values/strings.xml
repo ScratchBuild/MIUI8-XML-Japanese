@@ -658,7 +658,7 @@
   <string name="warning_show">%ds秒で送信</string>
   <string name="wild_msg_processing">処理中...</string>
   <string name="wild_msg_title">同期する電話番号を選択</string>
-  <string name="xiaomi_service_number">サービスナンバー</string>
+  <string name="xiaomi_service_number">Xiaomiサービスナンバー</string>
   <string name="yellowpage_recommend_msg">"MIUIのSMSメッセージ機能を試してみる"</string>
   <string name="yes">OK</string>
 </resources>
