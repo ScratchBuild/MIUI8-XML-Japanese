@@ -53,7 +53,7 @@
         <item>Eメール</item>
         <item>組織</item>
         <item>IM</item>
-        <item>SIPフォン</item>
+        <item>IP電話</item>
         <item>誕生日</item>
         <item>ウェブサイト</item>
         <item>住所</item>
@@ -88,10 +88,10 @@
     </string-array>
     <string-array name="entries_sms_validity_period">
         <item>未設定</item>
-        <item>1 時間</item>
-        <item>6 時間</item>
-        <item>12 時間</item>
-        <item>1 日</item>
+        <item>1時間</item>
+        <item>6時間</item>
+        <item>12時間</item>
+        <item>1日</item>
         <item>最長</item>
     </string-array>
     <string-array name="entries_sms_validity_period_value">
@@ -104,7 +104,7 @@
     </string-array>
     <string-array name="entries_mms_validity_period">
         <item>最長</item>
-        <item>2 日</item>
+        <item>2日</item>
     </string-array>
     <string-array name="entries_mms_validity_period_value">
         <item>0</item>
@@ -115,16 +115,16 @@
         <item>選択したSIMカードからメッセージを同期</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 秒</item>
-        <item>2 秒</item>
-        <item>3 秒</item>
-        <item>4 秒</item>
-        <item>5 秒</item>
-        <item>6 秒</item>
-        <item>7 秒</item>
-        <item>8 秒</item>
-        <item>9 秒</item>
-        <item>10 秒</item>
+        <item>1秒</item>
+        <item>2秒</item>
+        <item>3秒</item>
+        <item>4秒</item>
+        <item>5秒</item>
+        <item>6秒</item>
+        <item>7秒</item>
+        <item>8秒</item>
+        <item>9秒</item>
+        <item>10秒</item>
         <item>その他</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">

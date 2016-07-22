@@ -5,22 +5,22 @@
         <item quantity="one">このスレッドを削除しますか？</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s 秒</item>
-        <item quantity="one">%s 秒</item>
-        <item quantity="few">%s 秒</item>
+        <item quantity="other">%s秒</item>
+        <item quantity="one">%s秒</item>
+        <item quantity="few">%s秒</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s 秒</item>
-        <item quantity="one">%s 秒</item>
-        <item quantity="few">%s 秒</item>
+        <item quantity="other">%s秒</item>
+        <item quantity="one">%s秒</item>
+        <item quantity="few">%s秒</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">「%2$s」の検索結果 %1$s件</item>
         <item quantity="one">「%2$s」の検索結果 %1$s件</item>
     </plurals>
     <plurals name="recipient_count">
-        <item quantity="other">%1$s 人</item>
-        <item quantity="one">1 人</item>
+        <item quantity="other">%1$s人</item>
+        <item quantity="one">1人</item>
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d件のメッセージ</item>
