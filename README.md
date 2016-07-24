@@ -19,5 +19,6 @@ If you want to help in Japanese translations, please contact @ScratchBuild or @s
 ---------------------------------------------------------------------------------------------
 #####Credits:
 - Mi5japanese
+- nabosuke
 - schipperke
 - ScratchBuild (repository maintainer)
