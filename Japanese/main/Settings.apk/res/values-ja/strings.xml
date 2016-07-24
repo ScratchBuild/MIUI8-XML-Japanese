@@ -1717,9 +1717,7 @@ PINが正しくない可能性があります。"</string>
     <string name="disable_service_title">"%1$sを停止しますか？"</string>
     <string name="disable_service_message">"[OK]をタップすると%1$sが停止します。"</string>
     <string name="accessibility_no_services_installed">"インストールされているサービスはありません"</string>
-    <string name="accessibility_no_wifi">WiFiが切断されました</string>
     <string name="accessibility_service_default_description">"説明はありません。"</string>
-    <string name="accessibility_personal_account_title">個人用アカウント - %s</string>
     <string name="settings_button">"設定"</string>
     <string name="print_settings">"印刷"</string>
     <string name="print_settings_title">"印刷サービス"</string>
@@ -2914,7 +2912,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
     <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
     <string name="search_accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
     <string name="search_accessibility_display_daltonizer_preference_title">Color correction</string>
-    <string name="search_touch_assistant">Floating ball</string>
+    <string name="search_touch_assistant">Quick ball</string>
     <string name="search_battery">Battery &amp; performance</string>
     <string name="search_storage">Storage</string>
     <string name="search_storage_settings">Cleaner</string>
@@ -3086,7 +3084,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
     <string name="path_ntts_settings_title">Settings/Additional settings/Accessibility/tts_settings_title</string>
     <string name="path_accessibility_long_press_timeout_preference_title">Settings/Additional settings/Accessibility/Touch &amp; hold delay</string>
     <string name="path_accessibility_display_daltonizer_preference_title">Settings/Additional settings/Accessibility/Color correction</string>
-    <string name="path_touch_assistant_settings">Settings/Additional settings/Floating ball</string>
+    <string name="path_touch_assistant_settings">Settings/Additional settings/Quick ball</string>
     <string name="path_device_info_memory">Settings/Storage</string>
     <string name="path_storage_settings">Settings/Storage/Cleaner</string>
     <string name="path_led_settings">Settings/Additional settings/Notification light</string>
@@ -3107,10 +3105,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
     <string name="path_cloud_backup_settings_section_title">Settings/Additional settings/Backup &amp; reset/Backup settings</string>
     <string name="path_master_clear_title">Settings/Additional settings/Backup &amp; reset/Factory data reset</string>
     <string name="path_music_headset_settings">Settings/Additional settings/Headphones &amp;andio effects</string>
-    <string name="path_lab_functions_title">Settings/Additional/Beta features</string>
-    <string name="path_power_optimize">Settings/Additional/Beta features/Battery saver</string>
-    <string name="path_power_checker">Settings/Additional/Beta features/Power Checker</string>
-    <string name="path_app_invisible">Settings/Additional/Beta features/App Invisible</string>
+    <string name="path_lab_functions_title">Settings/Additional settings/Beta features</string>
+    <string name="path_power_optimize">Settings/Additional settings/Beta features/Battery saver</string>
+    <string name="path_power_checker">Settings/Additional settings/Beta features/Power Checker</string>
+    <string name="path_app_invisible">Settings/Additional settings/Beta features/App Invisible</string>
     <string name="path_development_settings">Settings/Additional settings/Developer options</string>
     <string name="path_onekey_migrate">Settings/Additional settings/Transfer</string>
     <string name="path_gps_settings">Settings/Additional settings/Privacy/Location</string>
@@ -4089,7 +4087,6 @@ Select your operating system:"</string>
     <string name="delete_legacy_fingerprint">Delete</string>
     <string name="keep_legacy_fingerprint">Keep</string>
     <string name="add_fingerprint_finished_button_text">OK</string>
-    <string name="add_fingerprint_instruction_dialog_msg">To add your fingerprint, put your finger on the sensor and lift after you feel a vibration.</string>
     <string name="add_fingerprint_toast_text">Put your finger on the sensor</string>
     <string name="onekey_migrate">Mi Mover</string>
     <string name="lock_settings_with_fingerprint">Lock screen &amp; fingerprint</string>
@@ -4165,4 +4162,6 @@ Select your operating system:"</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirm your password</string>
     <string name="lockpassword_confirm_your_private_password_header">Confirm your password</string>
     <string name="fingerprint_for_keyguard_disabled">Fingerprint has been disabled by security settings.</string>
+    <string name="fingerprint_lock_second">Unlock Second space</string>
+    <string name="fingerprint_lock_first">Unlock First space</string>
 </resources>

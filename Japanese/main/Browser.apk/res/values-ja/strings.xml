@@ -1013,8 +1013,8 @@ Pages you view won't appear in history."</string>
     <string name="pay_failed_toast">"Couldn't complete payment"</string>
     <string name="add_bookshelf_popup_text">Added to bookshelf</string>
     <string name="add_shortcut">Add shortcut</string>
-    <string name="add_shortcut_success">Add shortcut success</string>
+    <string name="add_shortcut_success">Added shortcut successfully</string>
     <string name="force_quick_search_title">Search</string>
-    <string name="force_touch_bookmark_history_title">Bookmark And History</string>
-    <string name="force_touch_infoflow_title">Daily News</string>
+    <string name="force_touch_bookmark_history_title">Bookmarks &amp; history</string>
+    <string name="force_touch_infoflow_title">News</string>
 </resources>

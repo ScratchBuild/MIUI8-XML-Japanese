@@ -253,7 +253,6 @@
     <string name="theme_component_title_all">Themes</string>
     <string name="theme_import_from_sdcard">Import</string>
     <string name="theme_select_others">Browse</string>
-    <string name="third_party_pickers_activity_title">Set %1$s</string>
     <string name="lockstyle_personal_settings">Customize</string>
     <string name="wallpaper_settings">Wallpaper settings</string>
     <string name="desktop_wallpaper">Home screen</string>

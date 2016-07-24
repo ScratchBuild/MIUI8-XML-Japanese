@@ -737,6 +737,7 @@ Take more photos of your friends!"</string>
     <string name="picker_full_format">You can select up to %d photos</string>
     <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
     <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
+    <string name="picker_skip_unavailable_images">" "<item quantity="one">"Skipped a photo which isn't on device."</item> <item quantity="other">"Skipped %d photos which aren't on device."</item>" "</string>
     <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
     <string name="picker_continue_with_exists">Continue with local photos</string>
     <string name="picker_download">Download</string>
@@ -1076,10 +1077,13 @@ Take more photos of your friends!"</string>
     <string name="download_retry_message">"Couldn't download files, check network connection and try again"</string>
     <string name="download_retry_text">"再試行"</string>
     <string name="custom_select_title_select_item">Select items</string>
+    <string name="custom_select_title_quickly_share">Share</string>
     <string name="custom_select_title_select_all">Select all</string>
     <string name="custom_select_title_deselect_all">Deselect</string>
     <string name="start_debug">Debug Gallery</string>
     <string name="debugging_tip">Generating debug data</string>
+    <string name="fast_share_auto_render">Beautify</string>
+    <string name="fast_share_auto_render_finish">Beautified</string>
     <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
     <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">QQ Zone</string>

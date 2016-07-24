@@ -44,7 +44,7 @@
     <string name="stopwatch_lap_empty_text">No laps</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_start_alarm">"Time's up!"</string>
-    <string name="timer_clock_alert_text">Please Set Timer</string>
+    <string name="timer_clock_alert_text">Set timer</string>
     <string name="dialog_confirm_abort">"変更を破棄しますか？"</string>
     <string name="confirm_abort">"破棄"</string>
     <string name="remind_ringtone">Ringtone</string>
@@ -59,8 +59,8 @@
     <string name="timer_new_item">Add timer</string>
     <string name="timer_item_label_hint">Timer name</string>
     <string name="shutdown_alarm_title">Shutdown alarm</string>
-    <string name="shutdown_alarm_enable_summary">Shutdown alarm is on</string>
-    <string name="shutdown_alarm_disable_summary">Shutdown alarm is off</string>
+    <string name="shutdown_alarm_enable_summary">Alarm will ring after powered off</string>
+    <string name="shutdown_alarm_disable_summary">Alarm will not ring after powered off</string>
     <string name="workday_alarm_clock">Workday alarm</string>
     <string name="system_time_setting">"設定"</string>
     <string name="lap_num">Lap</string>

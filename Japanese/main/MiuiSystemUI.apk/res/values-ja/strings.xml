@@ -264,7 +264,6 @@ EEEE"</string>
     <string name="weather_publish_time">%1$s 更新</string>
     <string name="no_weather_description">天気情報を取得する ></string>
     <string name="weather_description_no_aqi">%1$s ></string>
-    <string name="weather_description">%1$s | %2$s ></string>
     <string name="screenshot_long_screenshot">スクロール</string>
     <string name="screenshot_edit">"編集"</string>
     <string name="screenshot_send">"送る"</string>
