@@ -3790,7 +3790,7 @@ Select your operating system:"</string>
     <string name="rebootiing_for_updates">再起動中…</string>
     <string name="update_progress_for_updates">アップデート中... (%s)</string>
     <string name="button_text_reboot_now">再起動</string>
-    <string name="button_text_login">ログ</string>イン</string>
+    <string name="button_text_login">ログイン</string>
     <string name="dialog_content_login">アップデートのためにMiアカウントにログインしますか？</string>
     <string name="dialog_title_login">Miアカウントにログインしてください</string>
     <string name="make_sure_cancel_update">アップデートを中止しますか？</string>
