@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="status_bar_style_entries">
-        <item>複合表示</item>
+        <item>結合表示</item>
         <item>分割表示</item>
     </string-array>
     <string-array name="status_bar_style_values">
