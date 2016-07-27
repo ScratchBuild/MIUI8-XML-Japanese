@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="record_downloading_complete_count">
+        <item quantity="other">%d recordings downloaded</item>
+        <item quantity="one">%d recording downloaded</item>
+    </plurals>
+    <plurals name="local_records_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+        <item quantity="other">%d not synced</item>
+        <item quantity="one">%d not synced</item>
+    </plurals>
+</resources>
