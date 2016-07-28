@@ -24,41 +24,41 @@
         <item>:-I</item>
     </string-array>
     <string-array name="default_smiley_names">
-        <item>Happy</item>
-        <item>Sad</item>
-        <item>Winking</item>
-        <item>Tongue sticking out</item>
-        <item>Surprised</item>
-        <item>Kissing</item>
-        <item>Yelling</item>
-        <item>Cool</item>
-        <item>Money mouth</item>
-        <item>Foot in mouth</item>
-        <item>Embarrassed</item>
-        <item>Angel</item>
-        <item>Undecided</item>
-        <item>Crying</item>
-        <item>Lips are sealed</item>
-        <item>Laughing</item>
-        <item>Confused</item>
-        <item>Heart</item>
-        <item>Mad</item>
-        <item>Smirk</item>
-        <item>Poker face</item>
+        <item>ハッピー</item>
+        <item>悲しい</item>
+        <item>ウィンク</item>
+        <item>アッカンベー</item>
+        <item>びっくり</item>
+        <item>キス</item>
+        <item>怒鳴る</item>
+        <item>クール</item>
+        <item>きもち悪い</item>
+        <item>しまった</item>
+        <item>困った</item>
+        <item>天使</item>
+        <item>迷う</item>
+        <item>泣く</item>
+        <item>お口にチャック</item>
+        <item>笑顔</item>
+        <item>混乱</item>
+        <item>ハート</item>
+        <item>怒り</item>
+        <item>ニヤニヤ</item>
+        <item>ポーカーフェイス</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Name</item>
-        <item>Nickname</item>
-        <item>Phone</item>
-        <item>Email</item>
-        <item>Organization</item>
+        <item>名前</item>
+        <item>ニックネーム</item>
+        <item>電話</item>
+        <item>Eメール</item>
+        <item>組織</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
-        <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
-        <item>Relation</item>
+        <item>IP電話</item>
+        <item>誕生日</item>
+        <item>ウェブサイト</item>
+        <item>住所</item>
+        <item>ノート</item>
+        <item>関連事項</item>
     </string-array>
     <string-array name="contact_values">
         <item>vnd.android.cursor.item/name</item>
@@ -76,23 +76,23 @@
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
-        <item>Mi Message</item>
+        <item>Miメッセージ</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>SMS</item>
-        <item>Mi Message</item>
+        <item>MMS</item>
+        <item>Miメッセージ</item>
     </string-array>
     <string-array name="entryvalues_date_type">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
-        <item>Not set</item>
-        <item>1 hour</item>
-        <item>6 hours</item>
-        <item>12 hours</item>
-        <item>1 day</item>
-        <item>Maximum</item>
+        <item>未設定</item>
+        <item>1時間</item>
+        <item>6時間</item>
+        <item>12時間</item>
+        <item>1日</item>
+        <item>最長</item>
     </string-array>
     <string-array name="entries_sms_validity_period_value">
         <item>-1</item>
@@ -103,16 +103,16 @@
         <item>635040</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
-        <item>Maximum</item>
-        <item>2 days</item>
+        <item>最長</item>
+        <item>2日</item>
     </string-array>
     <string-array name="entries_mms_validity_period_value">
         <item>0</item>
         <item>172800</item>
     </string-array>
     <string-array name="wild_msg_sync_options">
-        <item>Sync all messages</item>
-        <item>Sync messages from selected SIM cards</item>
+        <item>全てのメッセージを同期</item>
+        <item>選択したSIMカードからメッセージを同期</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1秒</item>
@@ -125,16 +125,16 @@
         <item>8秒</item>
         <item>9秒</item>
         <item>10秒</item>
-        <item>Other</item>
+        <item>その他</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Always</item>
-        <item>Only when silent</item>
-        <item>Never</item>
+        <item>常に</item>
+        <item>サイレントモード時のみ</item>
+        <item>バイブレーションしない</item>
     </string-array>
     <string-array name="prefValues_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>常に</item>
+        <item>サイレントモード時のみ</item>
+        <item>バイブレーションしない</item>
     </string-array>
 </resources>
