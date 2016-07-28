@@ -3332,7 +3332,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
     <string name="volume_category_title">"音量"</string>
     <string name="vibrate_category_title">"バイブレーション"</string>
     <string name="vibrate_in_normal_title">バイブと着信音をON</string>
-    <string name="silent_mode_title">サイレントモード</string>
+    <string name="silent_mode_title">マナーモード</string>
     <string name="media_feedback_enable_title">Vibrate with the beat</string>
     <string name="wifi_wapi_certification_dont_exist">"入力したネットワークパスワードが正しくありません。"</string>
     <string name="please_type_passphrase">パスワード</string>
@@ -3977,15 +3977,15 @@ Select your operating system:"</string>
     <string name="oldman_mode_summary_cta">Lite mode needs to connect to the internet and read your contacts, messages, and location info to work normally.</string>
     <string name="page_layout_32">Play Store</string>
     <string name="page_layout_33">Google</string>
-    <string name="zen_mode_option_miui_silent">サイレントモード</string>
-    <string name="zen_mode_option_miui_vibrate">着信拒否［サイレント］モード</string>
+    <string name="zen_mode_option_miui_silent">マナーモード</string>
+    <string name="zen_mode_option_miui_vibrate">着信拒否［マナー］モード</string>
     <string name="zen_mode_miui_silent_category">許可</string>
     <string name="miui_silent_title">マナーモード</string>
     <string name="miui_allow_music">"メディア"</string>
     <string name="miui_allow_alarm">"アラーム"</string>
     <string name="miui_allow_vibrate">"バイブレーション"</string>
     <string name="miui_allow_light">通知LED</string>
-    <string name="zen_mode_miui_disturb_category">着信拒否［サイレント］モード</string>
+    <string name="zen_mode_miui_disturb_category">着信拒否［マナー］モード</string>
     <string name="miui_disturb_title">夜間モード</string>
     <string name="zen_mode_alarm_use">アラームユーザー設定</string>
     <string name="location_agps_register_network_type_summary">A-GPS用のネットワークを選択します</string>
