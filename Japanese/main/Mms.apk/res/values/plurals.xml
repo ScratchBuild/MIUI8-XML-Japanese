@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">選択した%1$s件のスレッドを削除しますか？</item>
+        <item quantity="one">このスレッドを削除しますか？</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s秒</item>
+        <item quantity="one">%s秒</item>
+        <item quantity="few">%s秒</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%s秒</item>
+        <item quantity="one">%s秒</item>
+        <item quantity="few">%s秒</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">「%2$s」の検索結果 %1$s件</item>
+        <item quantity="one">「%2$s」の検索結果 %1$s件</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s人</item>
+        <item quantity="one">1人</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d件のメッセージ</item>
+        <item quantity="zero">0件のメッセージ</item>
+        <item quantity="one">1件のメッセージ</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d件のメッセージが同期されていません"</item>
+        <item quantity="one">"1件のメッセージが同期されていません"</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s件のメッセージ</item>
+        <item quantity="one">%1$s件のメッセージ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>ハッピー</item>
+        <item>悲しい</item>
+        <item>ウィンク</item>
+        <item>アッカンベー</item>
+        <item>びっくり</item>
+        <item>キス</item>
+        <item>怒鳴る</item>
+        <item>クール</item>
+        <item>きもち悪い</item>
+        <item>しまった</item>
+        <item>困った</item>
+        <item>天使</item>
+        <item>迷う</item>
+        <item>泣く</item>
+        <item>お口にチャック</item>
+        <item>笑顔</item>
+        <item>混乱</item>
+        <item>ハート</item>
+        <item>怒り</item>
+        <item>ニヤニヤ</item>
+        <item>ポーカーフェイス</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>名前</item>
+        <item>ニックネーム</item>
+        <item>電話</item>
+        <item>Eメール</item>
+        <item>組織</item>
+        <item>IM</item>
+        <item>SIPフォン</item>
+        <item>誕生日</item>
+        <item>ウェブサイト</item>
+        <item>住所</item>
+        <item>ノート</item>
+        <item>関連事項</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+        <item>vnd.android.cursor.item/relation</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Miメッセージ</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Miメッセージ</item>
+    </string-array>
+    <string-array name="entryvalues_date_type">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>未設定</item>
+        <item>1時間</item>
+        <item>6時間</item>
+        <item>12時間</item>
+        <item>1日</item>
+        <item>最長</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period_value">
+        <item>-1</item>
+        <item>60</item>
+        <item>360</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>635040</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>最長</item>
+        <item>2日</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period_value">
+        <item>0</item>
+        <item>172800</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>全てのメッセージを同期</item>
+        <item>選択したSIMカードからメッセージを同期</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1秒</item>
+        <item>2秒</item>
+        <item>3秒</item>
+        <item>4秒</item>
+        <item>5秒</item>
+        <item>6秒</item>
+        <item>7秒</item>
+        <item>8秒</item>
+        <item>9秒</item>
+        <item>10秒</item>
+        <item>その他</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>常に</item>
+        <item>サイレントモード時のみ</item>
+        <item>しない</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>常に</item>
+        <item>サイレントモード時のみ</item>
+        <item>しない</item>
+    </string-array>
+</resources>
