@@ -65,5 +65,7 @@
     <string name="input_pattern_hint_text">Draw your unlock pattern</string>
     <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>
     <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>
-    <string name="accessibility_enter_lock_wallpaper">Click into the lock screen wallpaper</string>
+    <string name="accessibility_enter_lock_wallpaper">Tap to open Wallpaper Carousel</string>
+    <string name="lock_wallpaper_learn_more">Learn_more ></string>
+    <string name="lock_wallpaper_see_more">See more ></string>
 </resources>

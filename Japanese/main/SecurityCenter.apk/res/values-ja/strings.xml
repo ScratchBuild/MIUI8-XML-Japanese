@@ -821,6 +821,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="preference_key_module_power_center">module_power_center</string>
     <string name="preference_key_module_antivirus">key_module_antivirus</string>
     <string name="preference_key_module_permissions">key_module_permissions</string>
+    <string name="preference_key_payment_security">key_module_payment_security</string>
     <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
     <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
     <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
@@ -831,6 +832,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="preference_key_cta_settings">key_cta_settings</string>
     <string name="preference_key_app_permission_control">key_app_permission_control</string>
     <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
+    <string name="preference_key_category_title_module_feature_settings">key_category_title_module_feature_settings</string>
     <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
     <string name="preference_category_key_reference_settings">key_reference_settings</string>
     <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
@@ -1001,6 +1003,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="Settings_title_power_center">Battery settings</string>
     <string name="Settings_title_anti_virus">Virus scan settings</string>
     <string name="settings_title_permission">Permissions settings</string>
+    <string name="settings_title_payment_security">Payment security settings</string>
     <string name="pref_category_title_virus_lib_auto_update">Automatically update definitions</string>
     <string name="pref_category_title_reference_settings">Additional settings</string>
     <string name="menu_item_virus_cloud_scan_title">Online definitions</string>
@@ -1041,7 +1044,8 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="activity_title_root_manager">Root access</string>
     <string name="activity_title_root_acquired">Allow root access</string>
     <string name="activity_title_root_note">About root access</string>
-    <string name="pm_root_success_notification_title">Root access enabled</string>
+    <string name="pm_root_success_notification_title">Allowed root access</string>
+    <string name="pm_root_success_notification_infomation">Make sure you understand the risks related with root access</string>
     <string name="empty_title_auto_start_list">No apps can autostart.</string>
     <string name="hints_auto_start_warning_info">"If you restrict autostart, some apps and services won't be able to receive notifications."</string>
     <string name="activity_title_apps_manager">Apps</string>
@@ -1168,7 +1172,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="title_live_talk_purchase">Turn on Top-up package</string>
     <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
     <string name="title_xiaomi_roaming">Mi Roaming</string>
-    <string name="summary_xiaomi_roaming">0.01 yuan per MB for international network traffic.</string>
+    <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
     <string name="toast_network_switch">This app can connect to the internet</string>
     <string name="toast_flow_notification">Turned on data usage notifications</string>
     <string name="toast_show_notification">Pinned to notification shade</string>
@@ -1253,7 +1257,7 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
     <string name="forget_password_button_text"><u>Forgot password</u></string>
     <string name="lockpattern_need_to_unlock">Confirm the saved pattern</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts!</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wait for%dseconds and try again.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wait for %ds and try again.</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirm pattern</string>
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_submit_button">Sign in</string>
@@ -1313,7 +1317,7 @@ or enter App lock password"</string>
     <string name="apps_list_header_title_sms_access">Restrict access to verification codes</string>
     <string name="apps_item_title_system">System update</string>
     <string name="apps_item_summary_system_update">Some bugs were fixed in the new version to make payments more secure.</string>
-    <string name="apps_item_summary_system_rooted">Root access has been allowed, restore to default settings to avoid security risks!</string>
+    <string name="apps_item_summary_system_rooted">Root access has been allowed. Restore default settings to avoid security risks.</string>
     <string name="apps_item_summary_sms">%s has access to your messages, it may cause security problems</string>
     <string name="button_text_update_now">Update</string>
     <string name="button_text_fix_now">Fix</string>
@@ -1321,14 +1325,14 @@ or enter App lock password"</string>
     <string name="button_text_disconnect_now">Disconnect</string>
     <string name="apps_item_sms_reset_button_text">Restore defaults</string>
     <string name="apps_item_sms_title">Default messaging settings</string>
-    <string name="apps_item_sms_default_set_success">Set successfully!</string>
+    <string name="apps_item_sms_default_set_success">Set successfully</string>
     <string name="apps_item_virus_cleanup_text">Clear</string>
-    <string name="apps_item_virus_cleanup_success">Cleared successfully!</string>
+    <string name="apps_item_virus_cleanup_success">Cleared successfully</string>
     <string name="apps_item_virus_summary_installed">Installed app</string>
     <string name="apps_item_virus_summary_uninstalled">APK</string>
     <string name="apps_item_sign_install_button_text">Replace</string>
     <string name="apps_item_sign_dialog_title">Install official app</string>
-    <string name="apps_item_sign_dialog_content">\"%s\"signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data.</string>
+    <string name="apps_item_sign_dialog_content">"%s's signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data."</string>
     <string name="wifi_item_title_connection">WLAN connection</string>
     <string name="wifi_item_title_encryption">WLAN encryption</string>
     <string name="wifi_item_title_fake">Detect fake WLAN</string>
@@ -1348,11 +1352,11 @@ or enter App lock password"</string>
     <string name="result_virus_header">Found %d viruses and insecure apps</string>
     <string name="result_sign_header">Found %d unofficial apps</string>
     <string name="result_sms_title_antispam">Threatened by malicious SMS URLs</string>
-    <string name="result_sms_info_antispam">Turn on Antispam to protect the device from malicious URLs</string>
+    <string name="result_sms_info_antispam">Turn on Blocklist to protect the device from malicious URLs</string>
     <string name="result_sms_title_auth">Financial SMS leak risk exists</string>
     <string name="result_sms_info_auth">Restrict access of third-party apps to verification codes.</string>
-    <string name="toast_set_success">Turned on successfully!</string>
-    <string name="toast_reject_sms_read_permission_success">Set successfully!</string>
+    <string name="toast_set_success">Turned on successfully</string>
+    <string name="toast_reject_sms_read_permission_success">Set successfully</string>
     <string name="sp_settings_title_input_method">Secure IME</string>
     <string name="sp_settings_info_input_method">Using system input method in payment apps</string>
     <string name="sp_settings_info_monitor">Monitor system environment when payment apps are started</string>
@@ -1393,7 +1397,7 @@ or enter App lock password"</string>
     <string name="sp_scan_item_monitor">Monitor payments</string>
     <string name="sp_scan_item_url_antispam">Protection from malicious URLs</string>
     <string name="sp_settings_group_title_omit">Omitted items</string>
-    <string name="sp_settings_root_title_omit">ROOT check</string>
+    <string name="sp_settings_root_title_omit">Check root access</string>
     <string name="sp_back_title_text_zero">Secure</string>
     <string name="sp_monitored_apps_count_zero">No payment apps are protected</string>
     <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>

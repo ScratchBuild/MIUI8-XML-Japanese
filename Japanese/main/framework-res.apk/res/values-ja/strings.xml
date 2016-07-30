@@ -1710,6 +1710,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
 Battery saver turns off automatically when your device is charging."</string>
     <string name="downtime_condition_summary">Until your downtime ends at %1$s</string>
     <string name="zen_mode_forever">Indefinitely</string>
+    <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
     <string name="permission_remember_choice">Remember</string>
     <string name="permission">Permission</string>
 </resources>

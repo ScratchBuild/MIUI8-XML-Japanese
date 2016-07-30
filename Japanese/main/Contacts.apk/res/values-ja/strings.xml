@@ -700,7 +700,7 @@ Choose one of the following options:"</string>
     <string name="contact_detail_miprofile_request_success_toast">Request sent</string>
     <string name="contact_detail_miprofile_request_fail_toast">"Couldn't send request"</string>
     <string name="contact_detail_miprofile_save">Tap to get contact card</string>
-    <string name="contact_detail_miprofile_save_success_toast">Receiving contact card</string>
+    <string name="contact_detail_miprofile_save_success_toast">Received contact card</string>
     <string name="contact_detail_miprofile_save_fail_toast">"Couldn't get contact card"</string>
     <string name="contact_detail_miprofile_accept">Exchange contact cards</string>
     <string name="contact_detail_miprofile_accept_success_toast">Exchanged contact cards</string>
@@ -780,7 +780,7 @@ Contact cards are turned off"</string>
     <string name="miprofile_nick_name_edit_dialog_message">Nickname will appear in call history and profile info</string>
     <string name="miprofile_nick_name_edit_dialog_hint">Enter nickname</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
-    <string name="miprofile_nick_name_edit">Edit card nick name</string>
+    <string name="miprofile_nick_name_edit">"Edit contact's nickname"</string>
     <string name="summary_kind_title">Summary</string>
     <string name="callrecordview_item_newcontact">New contact</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
@@ -827,9 +827,9 @@ Contact cards are turned off"</string>
     <string name="callrecordview_menu_paste">Paste</string>
     <string name="callrecordview_menu_conference">Conference call</string>
     <string name="openDialKeyboard">Dial pad</string>
-    <string name="t9_search_guide_pinyin_title1">Quick search contacts by enter letters</string>
-    <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for <font fgcolor="">X</font>enia <font fgcolor="">H</font>oney</string>
-    <string name="t9_search_guide_zhuyin_title1">Quick search contacts by enter letters</string>
+    <string name="t9_search_guide_pinyin_title1">Enter numbers to find contacts</string>
+    <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for <font fgcolor="">W</font>ashington <font fgcolor="">I</font>rving</string>
+    <string name="t9_search_guide_zhuyin_title1">Enter numbers to find contacts</string>
     <string name="t9_search_guide_zhuyin_title2">Enter 5 and 6 to search for <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax</string>
     <string name="date_time_set">Set</string>
     <string name="service_provider">Directory</string>
@@ -1260,7 +1260,7 @@ Contact cards are turned off"</string>
     <string name="editContactNameExpandCloseDescription">Collapse name</string>
     <string name="force_touch_new_contact">New contact</string>
     <string name="force_touch_miprofile">Contact card</string>
-    <string name="fraud_more_indemnity">More indemnity</string>
+    <string name="fraud_more_indemnity">More</string>
     <string name="telecom_fraud_insurance">Telecom fraud insurance</string>
-    <string name="telecom_fraud_insurance_description">Guarantee ten thousand RMB | Xiaomi customize | 9.9 RMB one year</string>
+    <string name="telecom_fraud_insurance_description">10,000 CNY insurance | Exclusive Xiaomi offer | 9.9 CNY per year</string>
 </resources>

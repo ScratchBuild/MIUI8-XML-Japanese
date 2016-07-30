@@ -441,7 +441,7 @@ Use it for Top-up package?"</string>
     <string name="labelCDMAMore">CDMA call settings</string>
     <string name="apn_settings">"アクセスポイント名"</string>
     <string name="settings_label">"ネットワーク設定"</string>
-    <string name="phone_accounts">Calling accounts</string>
+    <string name="phone_accounts">Phone account settings</string>
     <string name="phone_accounts_make_calls_with">Make calls with</string>
     <string name="phone_accounts_make_sip_calls_with">Make SIP calls with</string>
     <string name="phone_accounts_ask_every_time">Ask first</string>
@@ -538,7 +538,7 @@ Switch to the new provider anyway?"</string>
     <string name="registration_done">Registered on network.</string>
     <string name="sum_carrier_select">Choose a network operator</string>
     <string name="sum_search_networks">Search for all available networks</string>
-   <string name="select_automatically">"自動的に選択"</string>
+    <string name="select_automatically">"自動的に選択"</string>
     <string name="sum_select_automatically">"自動的に優先ネットワークを選択"</string>
     <string name="register_automatically">Automatic registration…</string>
     <string name="preferred_network_mode_title">"優先ネットワークタイプ"</string>
@@ -984,7 +984,7 @@ Try again or call customer service for more options."</string>
 Using preferred network instead."</string>
     <string name="network_settings_forbidden">%s (forbidden)</string>
     <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
-   <string name="preferred_network_type_title">"優先ネットワークタイプ"</string>
+    <string name="preferred_network_type_title">"優先ネットワークタイプ"</string>
     <string name="preferred_network_type_pref_entries_global">"グローバル"</string>
     <string name="preferred_network_type_cdma">"CDMA"</string>
     <string name="preferred_network_type_pref_entries_auto">"自動"</string>
@@ -1228,7 +1228,6 @@ Using preferred network instead."</string>
     <string name="pin2_invalid_or_name_is_too_long">You entered an invalid PIN or the name you entered is too long.</string>
     <string name="pin_lock_warning">"
 Your phone will be locked automatically after another failed attempt"</string>
-    <string name="pstn_phone">Cell phone call</string>
     <string name="puk_label">Enter PUK code</string>
     <string name="puk_lock_warning">"
 Your SIM card will be locked after another unsuccessful attempt."</string>

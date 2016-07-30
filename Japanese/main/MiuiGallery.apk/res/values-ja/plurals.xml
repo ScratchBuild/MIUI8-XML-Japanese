@@ -44,6 +44,10 @@
         <item quantity="other">"Selected photos aren't on device. They will be downloaded."</item>
         <item quantity="one">"Selected photo isn't on device. It will be downloaded."</item>
     </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"Skipped %d photos which aren't on device."</item>
+        <item quantity="one">"Skipped a photo which isn't on device."</item>
+    </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">"Couldn't download %1$d photos, try again?"</item>
         <item quantity="one">"Couldn't download photo, try again?"</item>
