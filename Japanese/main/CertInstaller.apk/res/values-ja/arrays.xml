@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="credential_usage">
+        <item>VPNとアプリ</item>
+        <item>無線LAN</item>
+    </string-array>
+</resources>

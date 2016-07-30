@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">HTMLビューア</string>
+    <string name="loading">読み込み中…</string>
+    <string name="app_name_which_call">Application:%s</string>
+    <string name="app_version_which_call">Application version:%s</string>
+    <string name="policy_name">Policy:%s</string>
+    <string name="mibi_license">Mi Credit Terms of Service</string>
+    <string name="license_host_unreachable">"Can't connect to network. To view this information now, 
+go to %s"</string>
+    <string name="permdesc_accessDrm">Allows application to access DRM-protected content.</string>
+    <string name="open_wifi_connect_title">Connect to %1$s</string>
+    <string name="open_wifi_connect_summary">Tap to view details.</string>
+    <string name="settings_license_activity_title">Open source licenses</string>
+    <string name="settings_license_activity_loading">読み込み中…</string>
+    <string name="settings_license_activity_unavailable">There is a problem loading the licenses.</string>
+    <string name="settings_safetylegal_title">Safety information</string>
+    <string name="settings_safetylegal_activity_title">Safety information</string>
+    <string name="settings_safetylegal_activity_unreachable">"You don't have a data connection. To view this information now, go to %s from any computer connected to the Internet."</string>
+    <string name="settings_safetylegal_activity_loading">読み込み中…</string>
+</resources>
