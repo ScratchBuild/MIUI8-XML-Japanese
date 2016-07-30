@@ -439,7 +439,7 @@
     <string name="labelCDMAMore">CDMA通話設定</string>
     <string name="apn_settings">"アクセスポイント名"</string>
     <string name="settings_label">"ネットワーク設定"</string>
-    <string name="phone_accounts">通話アカウント</string>
+    <string name="phone_accounts">通話アカウント設定</string>
     <string name="phone_accounts_make_calls_with">発信先</string>
     <string name="phone_accounts_make_sip_calls_with">SIP通話の発信先</string>
     <string name="phone_accounts_ask_every_time">最初に確認する</string>
@@ -1145,7 +1145,6 @@
     <string name="pin2_invalid_or_name_is_too_long">間違ったPINを入力したか、入力した名前が長すぎます。</string>
     <string name="pin_lock_warning">"
 ご使用中の携帯電話は、もう一度試行に失敗すると自動的にロックされます。"</string>
-    <string name="pstn_phone">携帯通信網での通話</string>
     <string name="puk_label">PUKコードを入力</string>
     <string name="puk_lock_warning">"
 ご使用中のSIMカードは、もう一度試行に失敗するとロックされます。"</string>
