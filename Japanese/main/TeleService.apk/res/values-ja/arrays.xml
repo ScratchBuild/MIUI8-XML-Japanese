@@ -40,9 +40,9 @@
         <item>2G/3G/4G</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
-        <item>2G/3G (auto)</item>
-        <item>3G only</item>
-        <item>2G only</item>
+        <item>2G/3G (自動)</item>
+        <item>3Gのみ</item>
+        <item>2Gのみ</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_values">
         <item>0</item>
@@ -50,29 +50,29 @@
         <item>1</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Network default</item>
-        <item>Hide number</item>
-        <item>Show number</item>
+        <item>ネットワークのデフォルト</item>
+        <item>番号を非表示</item>
+        <item>番号を表示</item>
     </string-array>
     <string-array name="clir_values">
-        <item>DEFAULT</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
+        <item>デフォルト</item>
+        <item>非表示</item>
+        <item>表示</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE / WCDMA</item>
         <item>LTE</item>
-        <item>Global</item>
+        <item>グローバル</item>
         <item>GSM/WCDMA/LTE</item>
         <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo only</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo auto</item>
-        <item>GSM/WCDMA auto</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA preferred</item>
+        <item>EvDoのみ</item>
+        <item>EvDoなしのCDMA</item>
+        <item>CDMA/EvDo自動</item>
+        <item>GSM/WCDMA自動</item>
+        <item>WCDMAのみ</item>
+        <item>GSMのみ</item>
+        <item>GSM/WCDMA優先</item>
     </string-array>
     <string-array name="preferred_network_mode_values">
         <item>12</item>
@@ -90,13 +90,13 @@
         <item>0</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>English</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Chinese</item>
-        <item>Hebrew</item>
+        <item>英語</item>
+        <item>フランス語</item>
+        <item>スペイン語</item>
+        <item>日本語</item>
+        <item>韓国語</item>
+        <item>中国語</item>
+        <item>ヘブライ語</item>
     </string-array>
     <string-array name="list_language_values">
         <item>1</item>
@@ -201,9 +201,9 @@
         <item>ABSENTNUMBER</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_values">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>常に</item>
+        <item>サイレントモード時</item>
+        <item>バイブレーションしない</item>
     </string-array>
     <string-array name="phone_type_values">
         <item>@string/pstn_phone</item>
@@ -292,13 +292,13 @@
         <item>GSM</item>
         <item>TD-SCDMA</item>
         <item>LTE</item>
-        <item>Triple mode</item>
+        <item>トリプルモード</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_w_choices">
         <item>GSM</item>
         <item>WCDMA</item>
         <item>LTE</item>
-        <item>Triple mode</item>
+        <item>トリプルモード</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_values">
         <item>0</item>
