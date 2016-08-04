@@ -18,7 +18,7 @@
     <string name="loading">"しばらくお待ちください..."</string>
     <string name="loading_order">"しばらくお待ちください..."</string>
     <string name="get_product_list_failed">"リストを読み込めません"</string>
-     <string name="send_order_failed">"注文を送信できませんでした"</string>
+    <string name="send_order_failed">"注文を送信できませんでした"</string>
     <string name="purchase_limit">"チャージの上限に達しました"</string>
     <string name="error_type_network">"ネットワークエラー"</string>
     <string name="order_price">%1$s RMB</string>
@@ -533,7 +533,7 @@
     <string name="registration_done">ネットワークに登録されました。</string>
     <string name="sum_carrier_select">通信事業者を選択する</string>
     <string name="sum_search_networks">利用可能なすべてのネットワークを検索する</string>
-   <string name="select_automatically">"自動的に選択"</string>
+    <string name="select_automatically">"自動的に選択"</string>
     <string name="sum_select_automatically">"自動的に優先ネットワークを選択"</string>
     <string name="register_automatically">自動登録...</string>
     <string name="preferred_network_mode_title">"優先ネットワークタイプ"</string>
@@ -901,7 +901,8 @@
     <string name="network_settings_turn_off">Off</string>
     <string name="network_settings_select_automatic_hint">"選択されたネットワークに登録出来ません。\n代わりに、優先ネットワークを使用します。"</string>
     <string name="network_settings_forbidden">%s (禁止)</string>
-   <string name="preferred_network_type_title">"優先ネットワークタイプ"</string>
+    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
+    <string name="preferred_network_type_title">"優先ネットワークタイプ"</string>
     <string name="preferred_network_type_pref_entries_global">"グローバル"</string>
     <string name="preferred_network_type_cdma">"CDMA"</string>
     <string name="preferred_network_type_pref_entries_auto">"自動"</string>
@@ -1061,7 +1062,7 @@
     <string name="preference_dial_pad_touch_tone_off">Off</string>
     <string name="preference_telocation_summary_countrycode_off">"国コードを自動ダイヤルしない"</string>
     <string name="telephony_setting">Phone</string>
-   <string name="msim_setting_screen_title">"SIMカードとモバイルネットワーク"</string>
+    <string name="msim_setting_screen_title">"SIMカードとモバイルネットワーク"</string>
     <string name="msim_setting_categery_title">"SIMカードの設定"</string>
     <string name="msim_general_setting">"設定"</string>
     <string name="msim_default_setting">"デフォルト設定"</string>
@@ -1202,7 +1203,7 @@
     <string name="enhanced_4g_lte_mode_on_failed">"VoLTEをOnに出来ませんでした。"</string>
     <string name="enhanced_4g_lte_mode_off_failed">"VoLTEをOffに出来ませんでした"</string>
     <string name="cmcc_ut_data_enable_prompt">このサービスはモバイルデータ接続が必要です。続けるにはモバイルデータ接続をOnにしてください。</string>
-     <string name="volte_switch_title">"VoLTEを有効にする"</string>
+    <string name="volte_switch_title">"VoLTEを有効にする"</string>
     <string name="volte_switch_summary">"VoLTEを使用して通話品質を向上させる"</string>
     <string name="call_settings_primary_user_only">通話設定はプライマリユーザーのみ変更出来ます。</string>
     <string name="roaming_notification_title">ローミングが有効になったようです。</string>
@@ -1213,7 +1214,7 @@
     <string name="config_default_data_sim">設定</string>
     <string name="got_it">OK</string>
     <string name="can_not_use_for_not_data_sim">"(使用不能: デフォルトのデータSIMとしての設定が必須)"</string>
-   <string name="network_settings_title">"モバイルネットワーク"</string>
+    <string name="network_settings_title">"モバイルネットワーク"</string>
     <string name="antispam_setting">"ブロックリスト"</string>
     <string name="call_advanced_setting_title">"詳細設定"</string>
     <string name="preference_data_usage_title">"データプランを設定"</string>

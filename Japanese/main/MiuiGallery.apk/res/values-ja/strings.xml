@@ -127,7 +127,7 @@
     <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
     <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
     <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
-    <string name="adjust">Adjust</string>
+    <string name="adjust">Enhance</string>
     <string name="effect">Filters</string>
     <string name="original">None</string>
     <string name="early_bird">Earlybird</string>
@@ -720,6 +720,7 @@ Take more photos of your friends!"</string>
     <string name="album_others_share_info_format">From %s</string>
     <string name="album_others_share_baby_info_format">Baby album from %s</string>
     <string name="album_already_forced_top">Already on top</string>
+    <string name="album_show_local_only">Only show local albums</string>
     <string name="menu_item_sort_size">"サイズ"</string>
     <string name="menu_item_sort_date">"日付"</string>
     <string name="menu_item_sort_name">"名前"</string>
@@ -737,7 +738,6 @@ Take more photos of your friends!"</string>
     <string name="picker_full_format">You can select up to %d photos</string>
     <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
     <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
-    <string name="picker_skip_unavailable_images">" "<item quantity="one">"Skipped a photo which isn't on device."</item> <item quantity="other">"Skipped %d photos which aren't on device."</item>" "</string>
     <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
     <string name="picker_continue_with_exists">Continue with local photos</string>
     <string name="picker_download">Download</string>
@@ -766,13 +766,17 @@ Take more photos of your friends!"</string>
     <string name="operation_hide">Hide</string>
     <string name="operation_unhide">Unhide</string>
     <string name="operation_do_delete_local_thumnail">Delete from device</string>
-    <string name="operation_enable_auto_upload">Turn on sync with Mi Cloud</string>
-    <string name="operation_disable_auto_upload">Turn off sync with Mi Cloud</string>
+    <string name="operation_remove_from_other_albums">Remove from Other albums</string>
+    <string name="operation_move_to_other_albums">Move to Other albums</string>
     <string name="operation_show_in_photos_tab">Show in Photos</string>
     <string name="operation_not_show_in_photos_tab">"Don't show in Photos"</string>
     <string name="auto_upload_enable_toast_long_press_menu">Sync with Mi Cloud is on, go to Albums to view</string>
     <string name="auto_upload_disable_toast_long_press_menu">Sync with Mi Cloud is off, go to Other albums to view</string>
     <string name="operation_enter_delete_local">Delete backed up photos and videos from device</string>
+    <string name="remove_from_other_albums_tip">The album should be turn on with Mi Cloud sync when remove it from the list of other albums, remove the album now?</string>
+    <string name="move_to_other_albums_tip">The Mi Cloud sync of the album will be turn off, if you move this album to the list of other albums, move the album now?</string>
+    <string name="turn_on_and_remove">Turn on and Remove</string>
+    <string name="turn_off_and_move">Turn off and Move</string>
     <string name="auto_upload_disable_tip">Sync with Mi Cloud is off</string>
     <string name="to_enable_sync_dialog_title">Sync</string>
     <string name="to_enable_sync_dialog_message">Turn on sync first</string>
@@ -814,6 +818,7 @@ Take more photos of your friends!"</string>
     <string name="projection_slide_exit">Stop slideshow</string>
     <string name="projection_slide_fail_cause_loading">Restart the slideshow after the photo has loaded</string>
     <string name="projection_video_quit">Tap to exit</string>
+    <string name="projection_device_connection_failed">"Couldn't connect projector"</string>
     <string name="view_by_gallery_tip">MIUI Gallery</string>
     <string name="photo">Photos</string>
     <string name="orientation_lock_tip">Auto-rotate off</string>
@@ -864,7 +869,7 @@ Take more photos of your friends!"</string>
     <string name="delete_from_all_devices">from all devices</string>
     <string name="delete_from_album">from \"%s\" album (all devices)</string>
     <string name="delete_from_album_no_account">from \"%s\" album</string>
-    <string name="delete_album_msg_format">Delete \"%2$s\" album %1$s%3$s?</string>
+    <string name="delete_album_msg_format">Delete \"%2$s\" album %1$s %3$s?</string>
     <string name="delete_third_party_photo">Delete this photo?</string>
     <string name="delete_third_party_video">Delete this video?</string>
     <string name="create_new_album">Create an album</string>
@@ -1072,6 +1077,7 @@ Take more photos of your friends!"</string>
     <string name="delete_from_devices">All synced devices</string>
     <string name="delete_from_devices_album">All devices to which the album has been synced</string>
     <string name="delete_to_trash_tips">You can view recently deleted photos in Settings > Trash bin</string>
+    <string name="delete_from_cloud">Delete items from cloud album</string>
     <string name="download_title">Preparing files…</string>
     <string name="download_retry_title">"Couldn't download files"</string>
     <string name="download_retry_message">"Couldn't download files, check network connection and try again"</string>
@@ -1115,6 +1121,7 @@ Take more photos of your friends!"</string>
     <string name="finish">Finish</string>
     <string name="revert">Revert</string>
     <string name="filter">Filter</string>
+    <string name="crop_and_rotate">Adjust</string>
     <string name="sticker">Sticker</string>
     <string name="doodle_pencil">Pencil</string>
     <string name="doodle_pen">Pen</string>

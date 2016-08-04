@@ -291,5 +291,6 @@ EEEE"</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_detail_empty_text">ペアリング可能なデバイスがありません</string>
     <string name="accessibility_ime_switch_button">入力方法切り替えボタン</string>
+    <string name="accessibility_assistant">Quick ball</string>
     <string name="lland">L Land</string>
 </resources>

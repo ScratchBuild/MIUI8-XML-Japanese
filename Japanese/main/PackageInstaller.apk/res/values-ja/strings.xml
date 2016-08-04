@@ -93,13 +93,11 @@
     <string name="dlg_app_replacement_title">"アプリを更新しますか？"</string>
     <string name="dlg_app_replacement_statement">"このアプリは既存のアプリを上書きします。\n\n過去のユーザーデータはすべて保存されます。"</string>
     <string name="dlg_sys_app_replacement_statement">"これはシステムアプリです。\n\n過去のユーザーデータはすべて保存されます。"</string>
-    <string name="out_of_space_dlg_title">"容量不足です"</string>
-    <string name="out_of_space_dlg_text">"%1$sをインストールできませんでした。空き容量を増やしてもう一度お試しください。"</string>
     <string name="dlg_sys_app_replacement_statement">"This is a system app. Do you still want to replace it?
 
 All existing user data will be saved."</string>
-    <string name="out_of_space_dlg_title">Not enough space</string>
-    <string name="out_of_space_dlg_text">"There's not enough storage space on your device to install %1$s."</string>
+    <string name="out_of_space_dlg_title">"容量不足です"</string>
+    <string name="out_of_space_dlg_text">"%1$sをインストールできませんでした。空き容量を増やしてもう一度お試しください。"</string>
     <string name="dlg_ok">OK</string>
     <string name="app_not_found_dlg_title">"アプリが見つかりません"</string>
     <string name="app_not_found_dlg_text">"インストール済みアプリのリストに、このアプリはありません。"</string>

@@ -879,4 +879,6 @@ and never miss the cool new ones!"</string>
     <string name="video_parse_success">Parsed successfully</string>
     <string name="video_parse_error_unknown">"This video service isn't supported, try a different one"</string>
     <string name="interest_recommend">Recommended videos</string>
+    <string name="force_touch_clean">Clear trash</string>
+    <string name="force_touch_search">Search files</string>
 </resources>
