@@ -19,11 +19,11 @@
         <item>"カスタム"</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
-        <item>"極小"</item>
+        <item>"最小"</item>
         <item>"小"</item>
-        <item>"標準"</item>
+        <item>"中"</item>
         <item>"大"</item>
-        <item>"極大"</item>
+        <item>"最大"</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Phone</item>
