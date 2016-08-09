@@ -1,34 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">"証明書インストーラ"</string>
-    <string name="pick_file_title">"証明書の選択"</string>
-    <string name="pkcs12_password_dialog_title">"証明書を抽出"</string>
-    <string name="extracting_pkcs12">"抽出しています..."</string>
-    <string name="pkcs12_file_password_dialog_title">"%sから抽出"</string>
-    <string name="name_credential_dialog_title">"証明書の名前を指定する"</string>
-    <string name="credential_name">"証明書名:"</string>
-    <string name="credential_password">"証明書を抽出するためのパスワードを入力します。"</string>
-    <string name="credential_info">"パッケージの内容:"</string>
-    <string name="p12_description">"PKCS12キーストアでの証明書。"</string>
-    <string name="one_userkey">"ユーザーキー1個"</string>
-    <string name="one_usercrt">"ユーザー証明書1件"</string>
-    <string name="one_cacrt">"CA証明書1件"</string>
-    <string name="n_cacrts">"CA証明書%d件"</string>
-    <string name="password_error">"正しいパスワードを入力してください。"</string>
-    <string name="password_empty_error">"パスワードを入力してください。"</string>
-    <string name="name_empty_error">"名前を入力してください。"</string>
-    <string name="name_char_error">"文字と数字だけを含んだ名前を入力してください。"</string>
-    <string name="storage_error">"証明書を保存できませんでした。[OK]をタップしてやり直してください。"</string>
-    <string name="unable_to_save_cert">"証明書を保存できませんでした。認証情報ストレージが無効か、適切に初期化されていません。"</string>
-    <string name="cert_not_saved">"証明書はインストールされていません。"</string>
-    <string name="no_cert_to_saved">"インストールする証明書がありません。"</string>
-    <string name="invalid_cert">"証明書が無効です。"</string>
-    <string name="cert_is_added">"%sがインストールされています。"</string>
-    <string name="cert_too_large_error">"インストールできませんでした。証明書のサイズが大きすぎます。"</string>
-    <string name="cert_missing_error">"インストールできませんでした。証明書ファイルが見つかりませんでした。"</string>
-    <string name="cert_read_error">"インストールできませんでした。証明書ファイルが読み取れませんでした。"</string>
-    <string name="no_cert_file_found">"SDカードで証明書ファイルが見つかりません。"</string>
-    <string name="sdcard_not_present">"SDカードが挿入されていません。"</string>
-    <string name="only_primary_user_allowed">"証明書をインストールできるのはこの端末の所有者だけです。"</string>
-    <string name="credential_usage_label">"認証情報の使用:"</string>
+  <string name="app_name">"証明書インストーラ"</string>
+  <string name="cert_is_added">"%sがインストールされています。"</string>
+  <string name="cert_missing_error">"インストールできませんでした。証明書ファイルが見つかりませんでした。"</string>
+  <string name="cert_not_saved">"証明書はインストールされていません。"</string>
+  <string name="cert_read_error">"インストールできませんでした。証明書ファイルが読み取れませんでした。"</string>
+  <string name="cert_too_large_error">"インストールできませんでした。証明書のサイズが大きすぎます。"</string>
+  <string name="credential_info">"パッケージの内容:"</string>
+  <string name="credential_name">"証明書名:"</string>
+  <string name="credential_password">"証明書を抽出するためのパスワードを入力します。"</string>
+  <string name="credential_usage_label">"認証情報の使用:"</string>
+  <string name="done_label">DONE</string>
+  <string name="extracting_pkcs12">"抽出しています..."</string>
+  <string name="install_done">%1$s credentials have been added to WLAN saved networks.</string>
+  <string name="install_done_title">Credentials installed</string>
+  <string name="invalid_cert">"証明書が無効です。"</string>
+  <string name="n_cacrts">"CA証明書%d件"</string>
+  <string name="name_char_error">"文字と数字だけを含んだ名前を入力してください。"</string>
+  <string name="name_credential_dialog_title">"証明書の名前を指定する"</string>
+  <string name="name_empty_error">"名前を入力してください。"</string>
+  <string name="no_cert_file_found">"SDカードで証明書ファイルが見つかりません。"</string>
+  <string name="no_cert_to_saved">"インストールする証明書がありません。"</string>
+  <string name="one_cacrt">"CA証明書1件"</string>
+  <string name="one_usercrt">"ユーザー証明書1件"</string>
+  <string name="one_userkey">"ユーザーキー1個"</string>
+  <string name="only_primary_user_allowed">"証明書をインストールできるのはこの端末の所有者だけです。"</string>
+  <string name="p12_description">"PKCS12キーストアでの証明書。"</string>
+  <string name="password_empty_error">"パスワードを入力してください。"</string>
+  <string name="password_error">"正しいパスワードを入力してください。"</string>
+  <string name="pick_file_title">"証明書の選択"</string>
+  <string name="pkcs12_file_password_dialog_title">"%sから抽出"</string>
+  <string name="pkcs12_password_dialog_title">"証明書を抽出"</string>
+  <string name="sdcard_not_present">"SDカードが挿入されていません。"</string>
+  <string name="storage_error">"証明書を保存できませんでした。[OK]をタップしてやり直してください。"</string>
+  <string name="unable_to_save_cert">"証明書を保存できませんでした。認証情報ストレージが無効か、適切に初期化されていません。"</string>
+  <string name="wifi_cancel_label">Cancel</string>
+  <string name="wifi_config_text">"Name: %1$s
+FQDN: %2$s
+Roaming Consortiums: %3$s
+Realm: %4$s
+Auth method: EAP-%5$s
+"</string>
+  <string name="wifi_detail_label">Details</string>
+  <string name="wifi_detail_title">Details for %s</string>
+  <string name="wifi_dismiss_label">Dismiss</string>
+  <string name="wifi_install_label">Install</string>
+  <string name="wifi_installer_detail">Install WLAN credentials to connect to networks available via %1$s.</string>
+  <string name="wifi_installer_download_error">"Downloaded file has problems and can't be installed. Make sure you downloaded the file from the correct source."</string>
+  <string name="wifi_installer_fail">"Can't install WLAN credentials. Try downloading the file again."</string>
+  <string name="wifi_installer_fail_no_wifi">Turn on WLAN and try again.</string>
+  <string name="wifi_installer_fail_no_wifi_title">Installation canceled</string>
+  <string name="wifi_installer_fail_title">"Can't install"</string>
+  <string name="wifi_installing_label">Installing</string>
+  <string name="wifi_no_config">None</string>
+  <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+  <string name="wifi_title">WLAN Profile</string>
+  <string name="wifi_tls_config_text">"Client certificate:
+%1$s
+Key: %2$s
+"</string>
+  <string name="wifi_trust_config_text">"Trust certificate:
+%s
+"</string>
+  <string name="wifi_ttls_config_text">"User name: %s
+"</string>
 </resources>

@@ -30,24 +30,121 @@
         <item>@string/sip_system_decide</item>
         <item>@string/sip_always_send_keepalive</item>
     </string-array>
-    <string-array name="plmn_prefer_network_type_choices">
-        <item>2G</item>
-        <item>3G</item>
-        <item>4G</item>
-        <item>2G/3G</item>
-        <item>2G/4G</item>
-        <item>3G/4G</item>
-        <item>2G/3G/4G</item>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
     </string-array>
-    <string-array name="gsm_umts_network_preferences_choices">
-        <item>2G/3G (自動)</item>
-        <item>3Gのみ</item>
-        <item>2Gのみ</item>
+    <string-array name="preferred_network_mode_values_world_mode">
+        <item>10</item>
+        <item>8</item>
+        <item>9</item>
     </string-array>
-    <string-array name="gsm_umts_network_preferences_values">
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
+    <string-array name="hour_24_items">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="hour_12_items">
+        <item>12</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="minute_items">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>38</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+    </string-array>
+    <string-array name="time_formate_items">
+        <item>@string/time_formate_am</item>
+        <item>@string/time_formate_pm</item>
     </string-array>
     <string-array name="clir_display_values">
         <item>ネットワークのデフォルト</item>
@@ -60,21 +157,41 @@
         <item>表示</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE / WCDMA</item>
-        <item>LTE</item>
-        <item>グローバル</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDoのみ</item>
-        <item>EvDoなしのCDMA</item>
-        <item>CDMA/EvDo自動</item>
-        <item>GSM/WCDMA自動</item>
-        <item>WCDMAのみ</item>
-        <item>GSMのみ</item>
-        <item>GSM/WCDMA優先</item>
+        <item>@string/preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_lte_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_wcdma_lte_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_gsm_lte_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_gsm_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_lte_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_wcdma_choice</item>
+        <item>@string/preferred_network_mode_td_scdma_only_choice</item>
+        <item>@string/preferred_network_mode_lte_wcdma_choice</item>
+        <item>@string/preferred_network_mode_lte_choice</item>
+        <item>@string/preferred_network_mode_global_choice</item>
+        <item>@string/preferred_network_mode_gsm_wcdma_lte_choice</item>
+        <item>@string/preferred_network_mode_cdma_lte_evdo_choice</item>
+        <item>@string/preferred_network_mode_cdma_evdo_gsm_wcdma_choice</item>
+        <item>@string/preferred_network_mode_evdo_only_choice</item>
+        <item>@string/preferred_network_mode_cdma_wo_evdo_choice</item>
+        <item>@string/preferred_network_mode_cdma_evdo_auto_choice</item>
+        <item>@string/preferred_network_mode_gsm_wcdma_auto_choice</item>
+        <item>@string/preferred_network_mode_wcdma_only_choice</item>
+        <item>@string/preferred_network_mode_gsm_only_choice</item>
+        <item>@string/preferred_network_mode_gsm_wcdma_preferred_choice</item>
     </string-array>
     <string-array name="preferred_network_mode_values">
+        <item>22</item>
+        <item>21</item>
+        <item>20</item>
+        <item>19</item>
+        <item>18</item>
+        <item>17</item>
+        <item>16</item>
+        <item>15</item>
+        <item>14</item>
+        <item>13</item>
         <item>12</item>
         <item>11</item>
         <item>10</item>
@@ -88,6 +205,28 @@
         <item>2</item>
         <item>1</item>
         <item>0</item>
+    </string-array>
+    <string-array name="call_barring_outgoing_display_values">
+        <item>Off</item>
+        <item>Roaming call barring</item>
+        <item>International call barring</item>
+        <item>Outgoing call barring</item>
+    </string-array>
+    <string-array name="call_barring_outgoing_values">
+        <item>-1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="call_barring_incoming_display_values">
+        <item>Off</item>
+        <item>Roaming</item>
+        <item>All</item>
+    </string-array>
+    <string-array name="call_barring_incoming_values">
+        <item>-2</item>
+        <item>4</item>
+        <item>3</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>英語</item>
@@ -160,6 +299,22 @@
         <item>5</item>
         <item>10</item>
     </string-array>
+    <string-array name="enabled_networks_cdma_no_lte_choices">
+        <item>@string/network_3G</item>
+        <item>@string/network_1x</item>
+    </string-array>
+    <string-array name="enabled_networks_cdma_no_lte_values">
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="enabled_networks_cdma_only_lte_choices">
+        <item>@string/network_lte</item>
+        <item>@string/network_global</item>
+    </string-array>
+    <string-array name="enabled_networks_cdma_only_lte_values">
+        <item>8</item>
+        <item>10</item>
+    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Home only</item>
         <item>Automatic</item>
@@ -177,10 +332,10 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>@string/APKTOOL_DUMMY_05d7</item>
-        <item>@string/APKTOOL_DUMMY_05d5</item>
         <item>@string/APKTOOL_DUMMY_05d6</item>
-        <item>@string/APKTOOL_DUMMY_05d8</item>
+        <item>@string/APKTOOL_DUMMY_05d4</item>
+        <item>@string/APKTOOL_DUMMY_05d5</item>
+        <item>@string/APKTOOL_DUMMY_05d7</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>

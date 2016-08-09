@@ -21,7 +21,7 @@
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
-        <item quantity="one">1.0</item>
+        <item quantity="one">+1</item>
     </plurals>
     <plurals name="Nevents">
         <item quantity="other">"%d件の予定"</item>

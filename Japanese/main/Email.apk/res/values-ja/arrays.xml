@@ -191,11 +191,11 @@
         <item>@string/general_preference_text_zoom_huge</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>"極小"</item>
+        <item>"最小"</item>
         <item>"小"</item>
-        <item>"標準"</item>
+        <item>"中"</item>
         <item>"大"</item>
-        <item>"極大"</item>
+        <item>"最大"</item>
     </string-array>
     <string-array name="general_preference_text_zoom_values">
         <item>tiny</item>

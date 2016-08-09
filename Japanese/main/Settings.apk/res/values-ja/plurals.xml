@@ -12,6 +12,10 @@
         <item quantity="other">"デベロッパーになるまであと%1$dステップです。"</item>
         <item quantity="one">"デベロッパーになるまであと%1$dステップです。"</item>
     </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d fingerprints set up</item>
+        <item quantity="one">%1$d fingerprint set up</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">"パスワードには英字が%d文字以上必要です。"</item>
         <item quantity="one">"パスワードには英字が1文字以上必要です。"</item>
@@ -44,9 +48,38 @@
         <item quantity="other">"%d個のアプリが通知を読み取ることができます"</item>
         <item quantity="one">"%d個のアプリが通知を読み取ることができます"</item>
     </plurals>
-    <plurals name="manage_condition_providers_summary_nonzero">
-        <item quantity="other">"%d個のアプリが条件を指定しています"</item>
-        <item quantity="one">"%d個のアプリが条件を指定しています"</item>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Change to alarms only for %1$d minutes (until %2$s)</item>
+        <item quantity="one">Change to alarms only for one minute until %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Change to alarms only for %1$d hours until %2$s</item>
+        <item quantity="one">Change to alarms only for one hour until %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d permissions granted</item>
+        <item quantity="one">%d permission granted</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d of %2$d permissions granted</item>
+        <item quantity="one">%1$d of %2$d permission granted</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d additional permissions</item>
+        <item quantity="one">%d additional permission</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d apps can open their supported links</item>
+        <item quantity="zero">No app can open any supported link</item>
+        <item quantity="one">One app can open its supported links</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d apps allowed to ignore battery optimization</item>
+        <item quantity="one">1 app allowed to ignore battery optimization</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d apps used memory in the last %2$s</item>
+        <item quantity="one">1 app used memory in the last %2$s</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"You're %1$d steps away from entering phone info."</item>
