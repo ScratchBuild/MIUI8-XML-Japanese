@@ -1341,7 +1341,6 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="sync_undo_deletes">Undo the deletes</string>
   <string name="system_error_manufacturer">"There's an internal problem with your device. Contact your manufacturer for details."</string>
   <string name="system_error_wipe_data">"There's an internal problem with your device, and it may be unstable until you factory data reset."</string>
-  <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
   <string name="telephony_plugin_class_name">com.qti.internal.telephony.QtiTelephonyPlugin</string>
   <string name="telephony_plugin_lib_path">/system/framework/qti-telephony-common.jar</string>
   <string name="terabyteShort">TB</string>

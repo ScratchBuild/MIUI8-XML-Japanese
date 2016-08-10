@@ -13,24 +13,6 @@
         <item>0,4,2,0,-2,-2,4</item>
         <item>2,0,0,-2,-4,0,0</item>
     </string-array>
-    <string-array name="dirac_equalizer_preset_names">
-        <item>@string/eq_flat</item>
-        <item>@string/eq_rock</item>
-        <item>@string/eq_jazz</item>
-        <item>@string/eq_pop</item>
-        <item>@string/eq_classical</item>
-        <item>@string/eq_hiphop</item>
-        <item>@string/eq_blues</item>
-        <item>@string/eq_electronic</item>
-        <item>@string/eq_country</item>
-        <item>@string/eq_dance</item>
-        <item>@string/eq_metal</item>
-    </string-array>
-    <string-array name="search_item_type_name">
-        <item>@string/search_title_singer</item>
-        <item>@string/search_title_album</item>
-        <item>@string/search_title_song</item>
-    </string-array>
     <string-array name="number_key_entries">
         <item>0</item>
         <item>1</item>

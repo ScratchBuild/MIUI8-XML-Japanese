@@ -96,7 +96,7 @@
   <string name="snooze_duration_title">"スヌーズ間隔"</string>
   <string name="start">"開始"</string>
   <string name="start_up">"開始"</string>
-  <string name="stat_repeat_everyday">每天</string>
+  <string name="stat_repeat_everyday">"毎日"</string>
   <string name="stat_repeat_legal_off_day">法定节假日</string>
   <string name="stat_repeat_legal_workday">法定工作日</string>
   <string name="stat_repeat_none">一次性</string>

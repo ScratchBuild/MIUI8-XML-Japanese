@@ -473,7 +473,6 @@
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Sign in to Gmail</string>
   <string name="header_category_account">Accounts</string>
-  <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Feedback</string>
   <string name="header_label_general_preferences">General</string>
   <string name="help_and_info">Help</string>
@@ -505,7 +504,6 @@
   <string name="invalid_recipient_title">Recipient Error</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_attachment">@string/load_more</string>
   <string name="load_from_remote">Search mailbox on server</string>
   <string name="load_more">Load more</string>
   <string name="loading_conversation">Loading…</string>

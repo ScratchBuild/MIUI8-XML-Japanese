@@ -95,7 +95,6 @@ Tap the plus to create a folder"</string>
   <string name="search_label">"検索中…"</string>
   <string name="search_path_notes">System apps/Notes</string>
   <string name="search_setting_description">Search text in your notes</string>
-  <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">Sync notes</string>
   <string name="sina_share_fail">"送信に失敗しました"</string>
   <string name="sina_share_fail_content_repeat">"共有に失敗しました。既にコンテンツが存在します…"</string>

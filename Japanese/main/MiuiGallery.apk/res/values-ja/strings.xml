@@ -1154,7 +1154,6 @@ Take more photos of your friends!"</string>
   <string name="view_queuing_status">Check status</string>
   <string name="vignette">Vignette</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
-  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Welcome to Mi Cloud</string>
   <string name="welcome_to_slim">Optimize local storage</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>

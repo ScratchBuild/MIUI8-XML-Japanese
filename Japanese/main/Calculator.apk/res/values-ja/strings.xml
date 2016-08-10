@@ -2,12 +2,12 @@
 <resources>
   <string name="app_name">電卓</string>
   <string name="cal_convert_to_word_figure">Convert to financial characters</string>
-  <string name="cal_copy">Copy</string>
-  <string name="cal_edit_mode">Edit mode</string>
+  <string name="cal_copy">コピー</string>
+  <string name="cal_edit_mode">編集モード</string>
   <string name="cal_result_format">= %s</string>
-  <string name="cal_text_copied">Text copied</string>
-  <string name="choose_currency">Select currency</string>
-  <string name="choose_unit">Select unit</string>
+  <string name="cal_text_copied">テキストをコピーしました</string>
+  <string name="choose_currency">通貨を選択</string>
+  <string name="choose_unit">単位を選択</string>
   <string name="clear">C</string>
   <string name="clearDesc">消去</string>
   <string name="clear_history">履歴を消去</string>

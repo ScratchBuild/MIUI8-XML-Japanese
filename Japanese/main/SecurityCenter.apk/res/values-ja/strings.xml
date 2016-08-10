@@ -216,7 +216,6 @@ or enter App lock password"</string>
   <string name="button_text_view">Optimize</string>
   <string name="button_text_view_power">View</string>
   <string name="byteShort">B</string>
-  <string name="cache_check_content_none">@string/memory_check_content_none</string>
   <string name="cache_header_title">Clear %1$d cached files to free %2$s of space</string>
   <string name="call_and_contact">Calls and Contacts</string>
   <string name="cancal_to_setting_fingerprint">"キャンセル"</string>
