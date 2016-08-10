@@ -198,8 +198,8 @@
   <string name="app_backup">バックアップ</string>
   <string name="app_data_usage">アプリのデータ使用量</string>
   <string name="app_disable_dlg_positive">アプリを無効にする</string>
-  <string name="app_disable_dlg_text">内部アプリを無効にすると、他のアプリが正常に動作しなくなることがあります。</string>
-  <string name="app_disable_dlg_title">内部アプリを無効にしますか？</string>
+  <string name="app_disable_dlg_text">このアプリを無効にすると、他のアプリが意図されたとおりに動作しなくなる可能性があります。</string>
+  <string name="app_disable_dlg_title">内蔵アプリを無効にしますか？</string>
   <string name="app_disable_notifications_dlg_text">このアプリの通知をOFFにすると、重要なアラートや更新を見逃すおそれがあります。</string>
   <string name="app_disable_notifications_dlg_title">通知をOFFにしますか？</string>
   <string name="app_factory_reset">アップデートのアンインストール</string>
@@ -305,7 +305,7 @@
   <string name="auto_disable_screenbuttons_title">自動的にナビゲーションボタンを無効にする</string>
   <string name="auto_launch_disable_text">設定されていません。</string>
   <string name="auto_launch_enable_text">特定の操作で使用するデフォルトのアプリとして設定されています。</string>
-  <string name="auto_launch_label">デフォルトでの起動</string>
+  <string name="auto_launch_label">既定で開く</string>
   <string name="auto_launch_label_generic">デフォルト</string>
   <string name="auto_punctuate">ピリオド自動挿入</string>
   <string name="auto_punctuate_summary">英語: Spaceキー2回でピリオド(.)を挿入</string>
@@ -870,7 +870,7 @@
 端末の使用を再開するには出荷時設定にリセットする必要があります。リセット後、端末のセットアップの段階で、Googleアカウントにバックアップしたデータの復元を選択できます。"</string>
   <string name="crypt_keeper_failed_title">暗号化できませんでした</string>
   <string name="crypt_keeper_final_desc">この暗号化操作は元に戻すことができず、途中で中断するとデータが失われます。暗号化には1時間以上かかり、途中で端末が何度か再起動されます。</string>
-  <string name="crypt_keeper_force_power_cycle">To unlock your phone, turn it off and then on.</string>
+  <string name="crypt_keeper_force_power_cycle">携帯電話のロックを解除するには、OFFにしてからONにします。</string>
   <string name="crypt_keeper_low_charge_text">充電してからもう一度お試しください。</string>
   <string name="crypt_keeper_settings_title">暗号化</string>
   <string name="crypt_keeper_setup_description">携帯端末を暗号化しています。しばらくお待ちください。^1%完了。</string>
@@ -1261,21 +1261,21 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="encryption_interstitial_message_password">"この端末の起動前にパスワードを入力することでこの端末の保護を強化できます。端末が起動するまで、通話、メッセージ、アラームなどの通知を受信することはできません。
 
 これにより、端末を紛失したり盗まれたりしても端末上のデータを保護することができます。"</string>
-  <string name="encryption_interstitial_message_password_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+  <string name="encryption_interstitial_message_password_for_fingerprint">"端末のロック解除に指紋を使うだけでなく、起動時にパスワードを入力することでこの端末の保護を強化できます。端末が起動するまで、通話、メッセージ、アラームなどの通知を受信することはできません。
 
-This helps protect data on lost or stolen devices."</string>
+これにより、端末を紛失したり盗まれたりしても端末上のデータを保護することができます。"</string>
   <string name="encryption_interstitial_message_pattern">"この端末の起動前にパターンを入力することでこの端末の保護を強化できます。端末が起動するまで、通話、メッセージ、アラームなどの通知を受信することはできません。
 
 これにより、端末を紛失したり盗まれたりしても端末上のデータを保護することができます。"</string>
-  <string name="encryption_interstitial_message_pattern_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+  <string name="encryption_interstitial_message_pattern_for_fingerprint">"端末のロック解除に指紋を使うだけでなく、起動時にパターンを入力することでこの端末の保護を強化できます。端末が起動するまで、通話、メッセージ、アラームなどの通知を受信することはできません。
 
-This helps protect data on lost or stolen devices."</string>
+これにより、端末を紛失したり盗まれたりしても端末上のデータを保護することができます。"</string>
   <string name="encryption_interstitial_message_pin">"この端末の起動前にPINを入力することでこの端末の保護を強化できます。端末が起動するまで、通話、メッセージ、アラームなどの通知を受信することはできません。
   
 これにより、端末を紛失したり盗まれたりしても端末上のデータを保護することができます。"</string>
-  <string name="encryption_interstitial_message_pin_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"端末のロック解除に指紋を使うだけでなく、起動時にPINを入力することでこの端末の保護を強化できます。端末が起動するまで、通話、メッセージ、アラームなどの通知を受信することはできません。
 
-This helps protect data on lost or stolen devices."</string>
+これにより、端末を紛失したり盗まれたりしても端末上のデータを保護することができます。"</string>
   <string name="enforce_read_external_confirm_message">"SDカードが保護されている場合、アプリは外部ストレージからデータを読み取る権限をリクエストする必要があります。
 
 一部のアプリについては、デベロッパーによって更新されるまで動作しない可能性があります。"</string>
@@ -2214,8 +2214,8 @@ This helps protect data on lost or stolen devices."</string>
   <string name="nsd_quick_toggle_title">ネットワークサービスの検出</string>
   <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_radio_info_label">OEM固有の情報/設定</string>
-  <string name="oem_unlock_enable">OEMロック解除を有効にする</string>
-  <string name="oem_unlock_enable_summary">端末にOEMロック解除を許可する</string>
+  <string name="oem_unlock_enable">OEMロック解除</string>
+  <string name="oem_unlock_enable_summary">ブートローダーによるロック解除を許可する</string>
   <string name="okay">OK</string>
   <string name="oldman_mode_confirm_title">端末を再起動しますか？</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Your phone will reboot to exit Lite mode.</string>
@@ -3464,51 +3464,51 @@ PINが正しくない可能性があります。"</string>
   <string name="storage_detail_apps">アプリ</string>
   <string name="storage_detail_audio">音声</string>
   <string name="storage_detail_cached">キャッシュデータ</string>
-  <string name="storage_detail_dialog_other">"Other includes shared files saved by apps, files downloaded from the Internet or Bluetooth, Android files, and so on. 
+  <string name="storage_detail_dialog_other">"その他のファイルには、アプリが保存した共有ファイル、インターネットやBluetooth経由でダウンロードしたファイル、Androidファイルなどが含まれます。
 
-To see the entire contents of this ^1, touch Explore."</string>
-  <string name="storage_detail_dialog_user">"^1 may have saved photos, music, movies, apps, or other data that is taking up ^2 of storage. 
+この^1の内容全体を確認するには、[外部メディア]をタップします。"</string>
+  <string name="storage_detail_dialog_user">"^1が保存した写真、音楽、動画、アプリなどのデータはストレージの^2を使用しています。
 
-To view details, switch to ^1."</string>
+詳細を表示するには、^1に切り替えてください。"</string>
   <string name="storage_detail_explore">^1の内容を見る</string>
   <string name="storage_detail_images">画像</string>
   <string name="storage_detail_other">その他</string>
   <string name="storage_detail_videos">動画</string>
-  <string name="storage_dialog_unmountable">"This ^1 is corrupted. 
+  <string name="storage_dialog_unmountable">"この^1は破損しています。
 
-To use this ^1, you have to set it up first."</string>
-  <string name="storage_dialog_unmounted">"This ^1 is safely ejected, but still available. 
+この^1を使用するには、まずセットアップする必要があります。"</string>
+  <string name="storage_dialog_unmounted">"この^1は安全に取り外されましたが、引き続き使用できます。
 
-To use this ^1, you have to mount it first."</string>
-  <string name="storage_dialog_unsupported">"This device doesn’t support this ^1. 
+この^1を使用するには、まずマウントする必要があります。"</string>
+  <string name="storage_dialog_unsupported">"この端末はこの^1に対応していません。
 
-To use this ^1 with this device, you have to set it up first."</string>
+この端末でこの^1を使用するには、まずセットアップする必要があります。"</string>
   <string name="storage_external_title">外部ストレージ</string>
   <string name="storage_format">フォーマット</string>
   <string name="storage_format_failure">%1$sをフォーマットできませんでした</string>
   <string name="storage_format_success">%1$sをフォーマットしました</string>
   <string name="storage_internal_forget_confirm">この^1に保存されているすべてのアプリ、写真、データが完全に失われます。</string>
   <string name="storage_internal_forget_confirm_title">^1を切断しますか？</string>
-  <string name="storage_internal_forget_details">"To use the apps, photos, or data this ^1 contains, reinsert it. 
+  <string name="storage_internal_forget_details">"この^1に保存されているアプリ、写真、データを使用するには、挿入し直してください。
 
-Alternatively, you can choose to forget this storage if the device isn’t available. 
+または、このストレージデバイスが使用できない場合は、切断することもできます。
 
-If you choose to forget, all the data the device contains will be lost forever. 
+切断した場合、このデバイスに保存されているすべてのデータは完全に失われます。
 
-You can reinstall the apps later, but their data stored on this device will be lost."</string>
-  <string name="storage_internal_format_details">"After formatting, you can use this ^1 in other devices. 
+アプリは後で再インストールできますが、このデバイスに保存されているアプリのデータは失われます。"</string>
+  <string name="storage_internal_format_details">"フォーマット後は、この^1を他の端末で使用できます。
 
-All data on this ^1 will be erased. Consider backing up first. 
+この^1のすべてのデータが消去されます。フォーマットの前にバックアップを取ることを検討してください。
 
-"&lt;b&gt;Back up photos &amp;amp; other media&lt;/b&gt;" 
-Move your media files to alternative storage on this device, or transfer them to a computer using a USB cable. 
+"<b>"写真などのメディアのバックアップ"</b>
+"メディアファイルをこの端末上の別のストレージに移動するか、USBケーブルを使用してパソコンに転送します。
 
-"&lt;b&gt;Back up apps&lt;/b&gt;" 
-All apps stored on this ^1 will be uninstalled and their data will be erased. To keep these apps, move them to alternative storage on this device."</string>
-  <string name="storage_internal_title">Device storage</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.&lt;/b&gt;" 
-
-This ^1 is formatted to work on this device only. It won&amp;#8217;t work on any others."</string>
+"<b>"アプリのバックアップ"</b>
+"この^1に保存されているすべてのアプリがアンインストールされ関連するデータが消去されます。アプリを引き続き使用する場合は、この端末上の別のストレージに移動してください。"</string>
+  <string name="storage_internal_title">"端末のストレージ"</string>
+  <string name="storage_internal_unmount_details"><b>"この^1を取り外すと、もう一度挿入するまでは保存されているアプリやメディアファイルを使用できなくなります。"</b>"
+  
+この^1はこの端末用にフォーマットされており、他の端末では使用できません。"</string>
   <string name="storage_label">Storage</string>
   <string name="storage_low_summary">同期などの一部のシステム機能が正常に動作しない可能性があります。アプリやメディアコンテンツなどのアイテムを削除するか、アイテムのオフライン利用設定を解除して、空き容量を確保してください。</string>
   <string name="storage_low_title">空き容量が少なくなっています</string>
@@ -3537,62 +3537,62 @@ This ^1 is formatted to work on this device only. It won&amp;#8217;t work on any
   <string name="storage_unmount_failure">%1$sを安全に取り出せませんでした</string>
   <string name="storage_unmount_success">%1$sを安全に取り出しました</string>
   <string name="storage_usb">USBストレージ</string>
-  <string name="storage_usb_settings">Storage &amp; USB</string>
-  <string name="storage_used">Storage used</string>
-  <string name="storage_volume_summary">%1$s used of %2$s</string>
-  <string name="storage_volume_used">Used of %1$s</string>
-  <string name="storage_volume_used_total">Total used of %1$s</string>
-  <string name="storage_wizard_format_confirm_body">"This requires the ^1 to be formatted to make it secure. 
+  <string name="storage_usb_settings">ストレージとUSB</string>
+  <string name="storage_used">使用されているストレージ</string>
+  <string name="storage_volume_summary">合計容量%2$sのうち%1$sを使用中</string>
+  <string name="storage_volume_used">%1$sを使用中</string>
+  <string name="storage_volume_used_total">合計%1$sを使用中</string>
+  <string name="storage_wizard_format_confirm_body">"セキュリティを確保するには、^1をフォーマットする必要があります。
 
-After formatting, this ^1 will only work in this device. 
+フォーマットした後、この^1はこの端末でのみ使用できるようになります。
 
-"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
-  <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
-  <string name="storage_wizard_format_confirm_public_body">"This requires the ^1 to be formatted. 
+"<b>"フォーマットを行うと^1に保存されているすべてのデータが消去されます。"</b>"データの喪失を防ぐため、バックアップを取ることを検討してください。"</string>
+  <string name="storage_wizard_format_confirm_next">消去してフォーマット</string>
+  <string name="storage_wizard_format_confirm_public_body">"^1をフォーマットする必要があります。
 
-"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
-  <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
-  <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
-  <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
-  <string name="storage_wizard_format_progress_title">Formatting ^1…</string>
-  <string name="storage_wizard_init_external_summary">For moving photos and other media between devices.</string>
-  <string name="storage_wizard_init_external_title">Use as portable storage</string>
-  <string name="storage_wizard_init_internal_summary">For storing anything on this device only, including apps and photos. Requires formatting that prevents it from working with other devices.</string>
-  <string name="storage_wizard_init_internal_title">Use as internal storage</string>
-  <string name="storage_wizard_init_title">Set up your ^1</string>
-  <string name="storage_wizard_migrate_body">"You can move your photos, files, and some apps to this new ^1. 
+"<b>"フォーマットを行うと、現在^1に保存されているすべてのデータが消去されます。"</b>"データの喪失を防ぐため、バックアップを取ることを検討してください。"</string>
+  <string name="storage_wizard_format_confirm_public_title">外部ストレージとしてフォーマット</string>
+  <string name="storage_wizard_format_confirm_title">内部ストレージとしてフォーマット</string>
+  <string name="storage_wizard_format_progress_body">フォーマット中は^1を取り外さないでください。</string>
+  <string name="storage_wizard_format_progress_title">^1をフォーマット中…</string>
+  <string name="storage_wizard_init_external_summary">写真などのメディアを端末間で移動するために使用します。</string>
+  <string name="storage_wizard_init_external_title">外部ストレージとして使用</string>
+  <string name="storage_wizard_init_internal_summary">アプリや写真などすべてのデータをこの端末のみに保存するために使用します。他の端末で使用できないようにするためにフォーマットが必要です。</string>
+  <string name="storage_wizard_init_internal_title">内部ストレージとして使用</string>
+  <string name="storage_wizard_init_title">^1のセットアップ</string>
+  <string name="storage_wizard_migrate_body">"写真、ファイル、一部のアプリをこの新しい^1に移動できます。
 
-The move takes about ^2 and will free ^3 on internal storage. Some apps won’t work while it’s underway."</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;The move takes about ^1. It will free ^2 on ^3.&lt;/b&gt;</string>
-  <string name="storage_wizard_migrate_confirm_next">Move</string>
-  <string name="storage_wizard_migrate_confirm_title">Move data now</string>
-  <string name="storage_wizard_migrate_details">"During the move: 
-• Don’t remove the ^1. 
-• Some apps won’t work correctly. 
-• Keep the device charged."</string>
-  <string name="storage_wizard_migrate_later">Move later</string>
-  <string name="storage_wizard_migrate_now">Move now</string>
-  <string name="storage_wizard_migrate_progress_title">Moving data…</string>
-  <string name="storage_wizard_migrate_title">Move data to new storage</string>
-  <string name="storage_wizard_move_confirm_body">"Moving ^1 and its data to ^2 will take only a few moments. You won’t be able to use the app until the move is complete. 
+移動には約^2かかります。これにより内部ストレージの空き容量が^3増えます。移動中は一部のアプリが使用できなくなります。"</string>
+  <string name="storage_wizard_migrate_confirm_body"><b>"移動には約^1かかります。これにより^3の空き容量が^2増えます。"</b></string>
+  <string name="storage_wizard_migrate_confirm_next">移動</string>
+  <string name="storage_wizard_migrate_confirm_title">データの移動</string>
+  <string name="storage_wizard_migrate_details">"移動中の注意事項:
+•^1を取り外さないでください。
+•一部のアプリは正常に機能しません。
+•端末を電源につないだままにしてください。"</string>
+  <string name="storage_wizard_migrate_later">後で移動</string>
+  <string name="storage_wizard_migrate_now">今すぐ移動</string>
+  <string name="storage_wizard_migrate_progress_title">データを移動中…</string>
+  <string name="storage_wizard_migrate_title">データを新しいストレージに移動</string>
+  <string name="storage_wizard_move_confirm_body">"^1とそのデータは数秒で^2に移動できます。移動が完了するまでこのアプリは使用できません。
 
-Don’t remove the ^2 during the move."</string>
-  <string name="storage_wizard_move_confirm_title">Move ^1</string>
-  <string name="storage_wizard_move_progress_body">"Don’t remove the ^1 during the move. 
+移動中に^2を取り外さないでください。"</string>
+  <string name="storage_wizard_move_confirm_title">"^1を移動"</string>
+  <string name="storage_wizard_move_progress_body">"移動中は^1を取り外さないでください。
+  
+この端末の^2アプリは移動が完了するまで使用できません。"</string>
+  <string name="storage_wizard_move_progress_cancel">移動をキャンセル</string>
+  <string name="storage_wizard_move_progress_title">"^1を移動中…"</string>
+  <string name="storage_wizard_ready_external_body">"^1を写真などのメディアの保存に使用する準備が整いました。"</string>
+  <string name="storage_wizard_ready_internal_body">"新しい^1は正常に動作しています。
 
-The ^2 app on this device won’t be available until the move is complete."</string>
-  <string name="storage_wizard_move_progress_cancel">Cancel move</string>
-  <string name="storage_wizard_move_progress_title">Moving ^1…</string>
-  <string name="storage_wizard_ready_external_body">Your ^1 is all set to use with photos and other media.</string>
-  <string name="storage_wizard_ready_internal_body">"Your new ^1 is working. 
+写真、ファイル、アプリなどのデータをこの端末に移動するには[設定]&gt;[ストレージ]に移動してください。"</string>
+  <string name="storage_wizard_ready_title">"^1の準備が整いました"</string>
+  <string name="storage_wizard_slow_body">"この^1は速度が遅いようです。
 
-To move photos, files, and app data to this device, go to Settings &gt; Storage."</string>
-  <string name="storage_wizard_ready_title">^1 is ready</string>
-  <string name="storage_wizard_slow_body">"This ^1 appears to be slow. 
+続行することはできますが、この場所に移動したアプリはスムーズに動作しないおそれがあります。また、データの転送に時間がかかる可能性があります。
 
-You can continue, but apps moved to this location may stutter and data transfers may take a long time. 
-
-Consider using a faster ^1 for better performance."</string>
+快適にご利用いただくには、高速の^1を使用することをご検討ください。"</string>
   <string name="storageuse_settings_summary">アプリのストレージ使用状況を表示する</string>
   <string name="storageuse_settings_title">ストレージ使用状況</string>
   <string name="strict_mode">厳格モードを有効にする</string>
@@ -3767,24 +3767,24 @@ Consider using a faster ^1 for better performance."</string>
   <string name="unlock_change_lock_password_title">ロック解除パスワードの変更</string>
   <string name="unlock_change_lock_pattern_title">ロック解除パターンの変更</string>
   <string name="unlock_change_lock_pin_title">ロック解除PINの変更</string>
-  <string name="unlock_disable_frp_warning_content_password">Device protection features will not work without your password.</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Device protection features will not work without your password.
+  <string name="unlock_disable_frp_warning_content_password">パスワードがないと、端末保護機能は利用できません。</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">"パスワードがないと、端末保護機能は利用できません。
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_content_pattern">Device protection features will not work without your pattern.</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Device protection features will not work without your pattern.
-
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_content_pin">Device protection features will not work without your PIN.</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Device protection features will not work without your PIN.
-
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_content_unknown">Device protection features will not work without your screen lock.</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Device protection features will not work without your screen lock.
-
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_ok">Yes, remove</string>
-  <string name="unlock_disable_frp_warning_title">Remove device protection?</string>
+保存してある指紋もこの端末から削除されるため、指紋認証を使用してスマートフォンのロック解除、購入の許可、アプリへのログインを行うことはできなくなります。"</string>
+  <string name="unlock_disable_frp_warning_content_pattern">"パターンがないと、端末保護機能は利用できません。"</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"パターンがないと、端末保護機能は利用できません。
+  
+保存してある指紋もこの端末から削除されるため、指紋認証を使用してスマートフォンのロック解除、購入の許可、アプリへのログインを行うことはできなくなります。"</string>
+  <string name="unlock_disable_frp_warning_content_pin">"PINがないと、端末保護機能は利用できません。"</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"PINがないと、端末保護機能は利用できません。
+  
+保存してある指紋もこの端末から削除されるため、指紋認証を使用してスマートフォンのロック解除、購入の許可、アプリへのログインを行うことはできなくなります。"</string>
+  <string name="unlock_disable_frp_warning_content_unknown">"画面ロックがないと、端末保護機能は利用できません。"</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"画面ロックがないと、端末保護機能は利用できません。
+  
+保存してある指紋もこの端末から削除されるため、指紋認証を使用してスマートフォンのロック解除、購入の許可、アプリへのログインを行うことはできなくなります。"</string>
+  <string name="unlock_disable_frp_warning_ok">削除する</string>
+  <string name="unlock_disable_frp_warning_title">端末保護を削除しますか？</string>
   <string name="unlock_disable_lock_pin_summary">ロック解除PINを削除</string>
   <string name="unlock_disable_lock_title">画面ロックをOFFにする</string>
   <string name="unlock_set_enter_system">画面ロックをスキップ</string>
@@ -4143,8 +4143,8 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="wifi_allow_scan_with_traffic_summary">インターフェースのデータトラフィック量に基づいたWi-Fiローミングスキャンを許可するかしないかを設定できます</string>
   <string name="wifi_and_mobile_skipped_message">警告: [Wi‑Fi]をスキップすると、携帯電話はインターネットに接続されず最初のダウンロードやアップデートを行えません。</string>
   <string name="wifi_ap_band_config">AP帯域幅を選択</string>
-  <string name="wifi_ap_choose_2G">2.4 GHz Band</string>
-  <string name="wifi_ap_choose_5G">5 GHz Band</string>
+  <string name="wifi_ap_choose_2G">2.4GHz</string>
+  <string name="wifi_ap_choose_5G">5GHz</string>
   <string name="wifi_api_test">Wi-Fiネットワーク API</string>
   <string name="wifi_assistant_title">Wi-Fiアシスタント</string>
   <string name="wifi_auto_connect">自動接続</string>
@@ -4533,10 +4533,10 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="xiaomi_router_notif_title">Mi WiFiルーター通知</string>
   <string name="xspace">デュアルアプリ</string>
   <string name="yes">はい</string>
-  <string name="zen_access_empty_text">No installed apps have requested Do Not Disturb access</string>
-  <string name="zen_access_warning_dialog_summary">The app will be able to turn on/off Do Not Disturb and make changes to related settings.</string>
-  <string name="zen_access_warning_dialog_title">Allow access to Do Not Disturb for %1$s?</string>
-  <string name="zen_event_rule_enabled_toast">Automatic rule set to turn on Do Not Disturb during specified events</string>
+  <string name="zen_access_empty_text">"夜間モードへのアクセスをリクエストしたインストール済みアプリはありません"</string>
+  <string name="zen_access_warning_dialog_summary">"アプリは夜間モードのON/OFFを切り替えたり、関連する設定を変更したりできるようになります。"</string>
+  <string name="zen_access_warning_dialog_title">"%1$sの夜間モードへのアクセスを許可しますか？"</string>
+  <string name="zen_event_rule_enabled_toast">"自動ルールでは指定した予定の間は夜間モードをONに設定します"</string>
   <string name="zen_event_rule_type_name">予定ルール</string>
   <string name="zen_mode_add_rule">ルールを追加</string>
   <string name="zen_mode_alarm_use">Sounds</string>
