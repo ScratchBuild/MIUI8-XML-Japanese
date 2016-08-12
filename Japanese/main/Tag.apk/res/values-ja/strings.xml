@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_call">"%sに発信"</string>
+  <string name="action_text">"%sにSMS"</string>
+  <string name="app_name">"タグ"</string>
+  <string name="button_done">"完了"</string>
+  <string name="empty_tag_prompt">"このタグは空です。"</string>
+  <string name="import_vcard">"^1をインポート"</string>
+  <string name="mime_display_name">"NFCタグのデータ"</string>
+  <string name="tag_empty">"空のタグ"</string>
+  <string name="tag_unknown">"タグの種類が不明です"</string>
+  <string name="title_existing_tag">"タグ"</string>
+  <string name="title_scanned_tag">"収集された新しいタグ"</string>
+  <string name="vcard_title">"^1の連絡先情報"</string>
+</resources>
