@@ -561,7 +561,6 @@
   <string name="bluetooth_pairing_rejected_error_message">ペア設定が%1$sに拒否されました。</string>
   <string name="bluetooth_pairing_request">Bluetoothのペア設定リクエスト</string>
   <string name="bluetooth_pairing_will_share_phonebook">ペア設定により、接続時に連絡先や通話履歴へのアクセスが許可されます。</string>
-  <string name="bluetooth_pairing_will_share_phonebook">Pairing grants access to your contacts and call history when connected.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">ローカルインターネット接続をデバイスと共有</string>
   <string name="bluetooth_pan_profile_summary_use_for">インターネットアクセスに使用する</string>
   <string name="bluetooth_pan_user_profile_summary_connected">インターネットアクセス用に接続</string>
@@ -687,7 +686,7 @@
   <string name="call_manager_enable_title">通話マネージャを有効にする</string>
   <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">通話マネージャ</string>
-  <string name="call_settings_primary_user_only">Change call settings in First space</string>
+  <string name="call_settings_primary_user_only">First space用の通話設定を変更する</string>
   <string name="call_settings_summary">ボイスメール、着信転送、発信者番号など</string>
   <string name="call_settings_title">通話設定</string>
   <string name="calls_title">通話</string>
@@ -1358,7 +1357,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_lock_second">Second spaceのロックを解除</string>
   <string name="fingerprint_manage_category_title">指紋の管理</string>
   <string name="fingerprint_not_recognized">認識されませんでした</string>
-  <string name="fingerprint_removal_failed">"Couldn't remove fingerprint, try again later"</string>
+  <string name="fingerprint_removal_failed">指紋認証を削除できませんでした、再度試してください</string>
   <string name="fingerprint_usage_category_title">指紋の用途</string>
   <string name="finish_application">強制停止</string>
   <string name="finish_button_label">完了</string>
@@ -1389,9 +1388,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="force_stop_dlg_text">アプリを強制停止する場合、アプリが正常に機能しないことがあります。</string>
   <string name="force_stop_dlg_title">強制停止しますか？</string>
   <string name="force_touch">3D Touch</string>
-  <string name="force_touch_demo">Demo show</string>
-  <string name="force_touch_enable">Enable 3D Touch</string>
-  <string name="force_touch_enable_tips">"Deep press App icon on launcher will show App's shortcut menu, while 3D Touch enabled."</string>
+  <string name="force_touch_demo">デモを表示</string>
+  <string name="force_touch_enable">3D Touchを有効にする</string>
+  <string name="force_touch_enable_tips">3D Touchが有効になっている間、ランチャー上でアプリアイコンを強く押すとショートカットメニューが表示されます。</string>
   <string name="forget">切断</string>
   <string name="forget_password_button_text"><u>パスワードを忘れた場合</u></string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
@@ -1574,7 +1573,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="install_applications_title">アプリの提供元をすべて許可する</string>
   <string name="install_no_market_app_summary">App Store以外からのアプリのインストールを許可します</string>
   <string name="install_no_market_app_title">不明なソース</string>
-  <string name="install_preinstall_app">Loading apps…</string>
+  <string name="install_preinstall_app">アプリを読み込み中…</string>
   <string name="install_text">インストール</string>
   <string name="install_unknown_applications">提供元不明のアプリのインストールを許可する</string>
   <string name="install_unknown_applications_title">アプリの提供元がGoogle Play以外でもインストールする</string>
@@ -4119,7 +4118,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wallpaper_lockscreen">ロック画面</string>
   <string name="wallpaper_settings_fragment_title">壁紙の選択先:</string>
   <string name="wallpaper_settings_title">壁紙</string>
-  <string name="webview_license_title">System WebView License</string>
+  <string name="webview_license_title">システムのWebViewライセンス</string>
   <string name="welcome">ようこそ</string>
   <string name="wfd_available_devices">利用可能なデバイス</string>
   <string name="wfd_disconnect_diag_msg">%1$sへの接続を終了します。</string>
