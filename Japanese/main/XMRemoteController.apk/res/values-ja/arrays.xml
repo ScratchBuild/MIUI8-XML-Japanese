@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Cooling</item>
+        <item>Heating</item>
+        <item>Dehumidifying</item>
+        <item>Fan</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Your device can only pair with Mi TV, Mi Box, and a handful of other Android devices using Wi-Fi.</item>
+        <item>"Make sure you've selected the right A/C model in the pairing process. Follow the prompts on your device until the pairing is complete."</item>
+        <item>No. Currently you can use Mi 4, Mi 4c, and Redmi Note 2 as IR remotes.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="question">
+        <item>Why does my phone keep searching for wireless devices?</item>
+        <item>"Why can I only turn on my A/C and can't turn it off?"</item>
+        <item>Can I use Mi 3, Mi 2, and Redmi as an IR remote?</item>
+    </string-array>
+    <string-array name="assistant_tab">
+        <item>Video</item>
+        <item>Screenshots</item>
+        <item>App</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Complete</item>
+        <item>Collect</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Recent</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>All Channels</item>
+        <item>Favorite channels</item>
+        <item>CCTV Channel</item>
+        <item>Satellite TV Channel</item>
+        <item>HD channels</item>
+        <item>Recently Watched</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>Hunan TV</item>
+        <item>CCTV-6</item>
+        <item>Zhejiang Satellite TV</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>Dragon TV</item>
+        <item>Anhui TV</item>
+        <item>Beijing TV</item>
+        <item>Guangdong TV</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+</resources>

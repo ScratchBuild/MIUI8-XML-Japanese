@@ -38,8 +38,8 @@
   <string name="left_action_default_hint_text">"電話"</string>
   <string name="lock_screen_date">"M月d日 EEEE"</string>
   <string name="lock_screen_date_12">"M月d日 EEEE"</string>
-  <string name="lock_wallpaper_learn_more">Learn_more &gt;</string>
-  <string name="lock_wallpaper_see_more">See more &gt;</string>
+  <string name="lock_wallpaper_enter">Enter</string>
+  <string name="lock_wallpaper_learn_more">More</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>

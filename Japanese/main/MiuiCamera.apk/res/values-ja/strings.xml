@@ -21,9 +21,9 @@
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="audio_focus_exit_button_text">Turn off Audio focus</string>
   <string name="burst_shoot_exit_button_text">Turn off Burst shoot</string>
-  <string name="button_fisheye_camera_title">Fisheye lens</string>
-  <string name="button_front_camera_title">Selfie</string>
-  <string name="button_normal_video_title">Video recording</string>
+  <string name="button_fisheye_camera_title">Fisheye</string>
+  <string name="button_front_camera_title">Make a selfie</string>
+  <string name="button_normal_video_title">Record video</string>
   <string name="camera_disabled">"カメラが無効になっています"</string>
   <string name="camera_error_title">Camera error</string>
   <string name="camera_label">"カメラ"</string>

@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">アカウント</string>
-  <string name="aaid_info">"広告識別子は、お使いのデバイスに固有の永続的なIDです。ベンダーは、あなたにより役立つ内容の広告を選択するために広告識別子を使用します。
+  <string name="aaid_info">"
+広告識別子は、お使いのデバイスに固有の永続的なIDです。ベンダーは、あなたにより役立つ内容の広告を選択するために広告識別子を使用します。
+
 個人用に最適化された広告を使用しないことを選択した場合、広告の量は減少しませんが、あなたに有益な広告の量が大幅に減少します。"</string>
   <string name="about_settings">端末情報</string>
   <string name="about_settings_summary">端末情報、規約、バージョン情報</string>
@@ -149,6 +151,7 @@
   <string name="allow_overlay_description">この権限により、アプリは使用中の他のアプリの上に重ねて表示できるようになります。これにより、他のアプリのインターフェースを使用する際に邪魔になったり、他のアプリに表示されていると思われるものが変更されたりする場合があります。</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">このアプリによるウィジェットの作成とデータへのアクセスを許可しました。</string>
+  <string name="always_running">"常に実行（%s）"</string>
   <string name="amber_alerts_summary">児童誘拐についての速報を受信する</string>
   <string name="amber_alerts_title">誘拐事件速報</string>
   <string name="android_beam_disabled_summary">NFCがOFFのため使用できません</string>
@@ -320,6 +323,7 @@
   <string name="available_via_passpoint">Available via %1$s</string>
   <string name="average_memory_use">平均メモリ使用</string>
   <string name="average_used">平均使用（%%）</string>
+  <string name="avoid_ui">Avoid UI</string>
   <string name="awake">端末使用時間</string>
   <string name="back_key">戻る</string>
   <string name="background_data">バックグラウンドデータ</string>
@@ -847,7 +851,6 @@
   <string name="crypt_keeper_button_text">携帯端末を暗号化</string>
   <string name="crypt_keeper_conditions">暗号化は1時間以上かかります。満充電されたバッテリーから始めて、プロセス全体を通して電源を維持しておく必要があります。この処理を中断すると、データの一部またはすべてを失うことになります。</string>
   <string name="crypt_keeper_conditions_title">端末の暗号化について</string>
-  <string name="crypt_keeper_confirm_encrypt">端末を暗号化するには、ロック解除パターンを入力する必要があります。</string>
   <string name="crypt_keeper_confirm_title">暗号化しますか？</string>
   <string name="crypt_keeper_content">アカウント、設定、ダウンロードしたアプリとそのデータ、メディア、およびその他のファイルを暗号化することができます。</string>
   <string name="crypt_keeper_content_title">端末を暗号化する</string>
@@ -1667,6 +1670,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="large_font">大</string>
   <string name="last_synced">最終同期日時: %1$s</string>
   <string name="last_time_used_label">前回の使用</string>
+  <string name="lattice_smartcover_title">Lattice front cover</string>
   <string name="launch_by_default">既定で開く</string>
   <string name="launch_defaults_none">既定の設定なし</string>
   <string name="launch_defaults_some">一部デフォルトを設定</string>
@@ -3679,6 +3683,7 @@ PINが正しくない可能性があります。"</string>
   <string name="title_system_resource">システムリソース</string>
   <string name="toast_lockscreen_glogin_empty_password">パスワードを入力</string>
   <string name="toast_need_login">Miアカウントにログインしてください</string>
+  <string name="total_memory">合計メモリ</string>
   <string name="total_size">合計容量： %s</string>
   <string name="total_size_label">合計</string>
   <string name="touch_assistant">Quick ball</string>
@@ -3935,6 +3940,8 @@ PINが正しくない可能性があります。"</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">単語リスト</string>
   <string name="user_enable_calling">通話をON</string>
+  <string name="user_enable_calling_and_sms_confirm_message">通話とSMSの履歴がこのユーザーと共有されます。</string>
+  <string name="user_enable_calling_and_sms_confirm_title">通話とSMSをONにしますか？</string>
   <string name="user_enable_calling_confirm_message">発信履歴がこのユーザーと共有されます。</string>
   <string name="user_enable_calling_confirm_title">通話をONにしますか？</string>
   <string name="user_enable_calling_sms">通話とSMSをON</string>
@@ -4112,6 +4119,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wallpaper_lockscreen">ロック画面</string>
   <string name="wallpaper_settings_fragment_title">壁紙の選択先:</string>
   <string name="wallpaper_settings_title">壁紙</string>
+  <string name="webview_license_title">System WebView License</string>
   <string name="welcome">ようこそ</string>
   <string name="wfd_available_devices">利用可能なデバイス</string>
   <string name="wfd_disconnect_diag_msg">%1$sへの接続を終了します。</string>

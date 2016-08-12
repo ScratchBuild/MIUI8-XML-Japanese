@@ -20,11 +20,14 @@
   <string name="call_record_folder_name">Call notes</string>
   <string name="default_folder_name">"新しいフォルダ"</string>
   <string name="delete_folder_dialog_tile">"フォルダを削除"</string>
+  <string name="dlg_check_reminder">"次回から表示しない"</string>
   <string name="dlg_delete_message">"削除中…"</string>
   <string name="dlg_desc_confirm_alarm_silent">Active alarms will not sound when ringer is silenced.</string>
   <string name="dlg_info_creating_message">"メッセージを作成中…"</string>
   <string name="dlg_move_message">"移動中…"</string>
   <string name="dlg_privacy_message">Hiding…</string>
+  <string name="dlg_quick_delete_title">Quick delete</string>
+  <string name="dlg_restore_message">"復元中…"</string>
   <string name="dlg_stick_message">Pinning…</string>
   <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
   <string name="dlg_unmark_privacy_message">Unhiding…</string>
@@ -79,11 +82,13 @@ Tap the plus to create a folder"</string>
   <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>
   <string name="permlab_accessNote">Access notes</string>
   <string name="pref_desc_alarm_when_silent">Alarms for reminders will still sound when ringer is silenced</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">"Don't ask for confirmation when deleting a note using gesture"</string>
   <string name="pref_title_alarm_when_silent">"Don't silence reminders"</string>
   <string name="pref_title_common">"その他の設定"</string>
   <string name="pref_title_font_size">"文字サイズ"</string>
   <string name="pref_title_note_style">"スタイル"</string>
   <string name="pref_title_recover_help">"ノートの復元"</string>
+  <string name="pref_title_skip_confirm_for_quick_delete">Quick delete</string>
   <string name="privacy_hint">"プライバシー"</string>
   <string name="privacy_notes_fragment_title">Hidden notes</string>
   <string name="recover_notes_hint">"エラーが発生しました、ノートを復元するには i.mi.com へアクセスしてください。"</string>
@@ -136,6 +141,7 @@ Tap the plus to create a folder"</string>
   <string name="toast_mark_privacy_notes_count">Hid %1$s successfully</string>
   <string name="toast_message_add_image_fail">"画像を追加できません"</string>
   <string name="toast_message_add_text_warn">"This type of file isn't supported"</string>
+  <string name="toast_notes_delete_success">Deleted successfully</string>
   <string name="toast_reach_text_limit_attachment">"Can't add new attachments because note is too long"</string>
   <string name="toast_reach_text_limit_truncate">This note is too long. Some text has been cut off of the end.</string>
   <string name="toast_unmark_privacy_notes">Unhidden successfully</string>

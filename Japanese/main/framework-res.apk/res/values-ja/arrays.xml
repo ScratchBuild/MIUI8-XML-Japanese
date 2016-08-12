@@ -315,41 +315,49 @@
         <item>21</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
-        <item>1</item>
-        <item>100</item>
-        <item>2000</item>
-        <item>7000</item>
-        <item>10000</item>
-        <item>20000</item>
-        <item>30000</item>
-        <item>40000</item>
-        <item>60000</item>
-        <item>80000</item>
-        <item>90000</item>
-        <item>110000</item>
-        <item>140000</item>
-        <item>200000</item>
-        <item>250000</item>
-        <item>300000</item>
-        <item>400000</item>
+        <item>4</item>
+        <item>8</item>
+        <item>13</item>
+        <item>17</item>
+        <item>21</item>
+        <item>26</item>
+        <item>30</item>
+        <item>34</item>
+        <item>39</item>
+        <item>60</item>
+        <item>140</item>
+        <item>310</item>
+        <item>400</item>
+        <item>500</item>
+        <item>600</item>
+        <item>1000</item>
+        <item>1200</item>
+        <item>1500</item>
+        <item>3000</item>
+        <item>3500</item>
+        <item>4000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>4</item>
-        <item>10</item>
-        <item>20</item>
-        <item>20</item>
-        <item>50</item>
-        <item>52</item>
-        <item>58</item>
-        <item>65</item>
-        <item>71</item>
-        <item>83</item>
-        <item>96</item>
-        <item>103</item>
-        <item>116</item>
-        <item>135</item>
-        <item>187</item>
-        <item>233</item>
+        <item>3</item>
+        <item>7</item>
+        <item>13</item>
+        <item>19</item>
+        <item>24</item>
+        <item>31</item>
+        <item>39</item>
+        <item>43</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>48</item>
+        <item>55</item>
+        <item>60</item>
+        <item>63</item>
+        <item>67</item>
+        <item>84</item>
+        <item>93</item>
+        <item>105</item>
+        <item>200</item>
         <item>240</item>
         <item>255</item>
     </integer-array>
@@ -466,40 +474,40 @@
     <array name="config_cdma_international_roaming_indicators" />
     <array name="config_cell_retries_per_error_code" />
     <integer-array name="launchboost_param_value">
-        <item>0x40c00000</item>
-        <item>0x1</item>
+        <item>0x40C00000</item>
+        <item>0x00000001</item>
         <item>0x40804000</item>
-        <item>0xfff</item>
+        <item>0x00000FFF</item>
         <item>0x40804100</item>
-        <item>0xfff</item>
+        <item>0x00000FFF</item>
         <item>0x40800000</item>
-        <item>0xfff</item>
+        <item>0x00000FFF</item>
         <item>0x40800100</item>
-        <item>0xfff</item>
+        <item>0x00000FFF</item>
         <item>0x41800000</item>
         <item>140</item>
         <item>0x40400000</item>
-        <item>0x1</item>
-        <item>0x42c0c000</item>
-        <item>0x1</item>
+        <item>0x00000001</item>
+        <item>0x42C0C000</item>
+        <item>0x00000001</item>
     </integer-array>
     <array name="launchboost_packing_param_value" />
     <array name="animationboost_param_value" />
     <integer-array name="flingboost_param_value">
         <item>0x41800000</item>
-        <item>0x33</item>
+        <item>0x00000033</item>
         <item>0x40800000</item>
         <item>1000</item>
         <item>0x40800100</item>
         <item>1000</item>
-        <item>0x40c00000</item>
-        <item>0x1</item>
-        <item>0x40c28000</item>
-        <item>0x1</item>
+        <item>0x40C00000</item>
+        <item>0x00000001</item>
+        <item>0x40C28000</item>
+        <item>0x00000001</item>
     </integer-array>
     <integer-array name="scrollboost_param_value">
-        <item>0x40c00000</item>
-        <item>0x1</item>
+        <item>0x40C00000</item>
+        <item>0x00000001</item>
     </integer-array>
     <array name="boost_activityList" />
     <array name="ascrollboost_param_value" />
@@ -512,9 +520,9 @@
     </string-array>
     <integer-array name="debugBoost_param_value">
         <item>0x40800100</item>
-        <item>0x4a6</item>
+        <item>0x000004A6</item>
         <item>0x40800000</item>
-        <item>0x4a6</item>
+        <item>0x000004A6</item>
     </integer-array>
     <array name="panelview_flingboost_param_value" />
     <string-array name="origin_carrier_names">
@@ -549,9 +557,9 @@
     </string-array>
     <integer-array name="keypress_param_value">
         <item>0x41818000</item>
-        <item>0x76</item>
-        <item>0x4181c000</item>
-        <item>0x14</item>
+        <item>0x00000076</item>
+        <item>0x4181C000</item>
+        <item>0x00000014</item>
     </integer-array>
     <integer-array name="umts_signal_strength_threshold">
         <item>-140</item>
