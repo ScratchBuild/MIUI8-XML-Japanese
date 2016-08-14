@@ -185,7 +185,7 @@
   <string name="call_description_recording">録音中...</string>
   <string name="call_forwarding_number_hint">転送番号を入力</string>
   <string name="call_forwarding_settings">着信転送設定</string>
-  <string name="call_forwarding_settings_with_label">Call forwarding settings (%s)</string>
+  <string name="call_forwarding_settings_with_label">着信転送設定 (%s)</string>
   <string name="call_record_add_numbers">番号を追加</string>
   <string name="call_record_auto_always">すべての番号</string>
   <string name="call_record_auto_scenario_title">自動録音の設定</string>
@@ -213,7 +213,7 @@
   <string name="call_settings">通話設定</string>
   <string name="call_settings_primary_user_only">通話設定はプライマリユーザーのみ変更出来ます。</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
-  <string name="call_settings_with_label">Call settings (%s)</string>
+  <string name="call_settings_with_label">通話設定 (%s)</string>
   <string name="call_waiting_summary">通話中に他の着信があった場合に通知します。</string>
   <string name="call_waiting_title">通話中着信設定</string>
   <string name="call_waiting_tone_continuously">継続的に通知音を再生</string>
