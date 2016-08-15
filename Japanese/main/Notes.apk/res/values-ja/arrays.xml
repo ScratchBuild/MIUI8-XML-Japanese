@@ -17,9 +17,9 @@
         <item>IM</item>
         <item>"IP電話"</item>
         <item>"誕生日"</item>
-        <item>Website</item>
+        <item>"ウェブサイト"</item>
         <item>"住所"</item>
-        <item>Note</item>
+        <item>"ノート"</item>
     </string-array>
     <string-array name="contact_values">
         <item>vnd.android.cursor.item/name</item>

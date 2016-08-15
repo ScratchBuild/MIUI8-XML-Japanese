@@ -25,8 +25,8 @@
         <item quantity="one">Snooze for %d min</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Snoozing for %d minutes.</item>
-        <item quantity="one">Snoozing for %d minute.</item>
+        <item quantity="other">"%d分後に再通知します。"</item>
+        <item quantity="one">"%d分後に再通知します。"</item>
     </plurals>
     <plurals name="auto_silence_summary">
         <item quantity="other">Alarms will silence after %d minutes</item>

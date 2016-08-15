@@ -968,23 +968,23 @@
         <item>5</item>
     </integer-array>
     <string-array name="alarm_set">
-        <item>Alarm will go off in less than 1 minute.</item>
-        <item>Alarm will go off in %1$s.</item>
-        <item>Alarm will go off in %2$s.</item>
-        <item>Alarm will go off in %1$s and %2$s.</item>
-        <item>Alarm will go off in %3$s.</item>
-        <item>Alarm will go off in %1$s and %3$s.</item>
-        <item>Alarm will go off in %2$s and %3$s.</item>
-        <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
+        <item>"アラームは今から1分以内に設定されています。"</item>
+        <item>"アラームは%1$s後に設定されています。"</item>
+        <item>"アラームは%2$s後に設定されています。"</item>
+        <item>"アラームは%1$sと%2$s後に設定されています。"</item>
+        <item>"アラームは%3$s後に設定されています。"</item>
+        <item>"アラームは%1$sと%3$s後に設定されています。"</item>
+        <item>"アラームは%2$s%3$s後に設定されています。"</item>
+        <item>"アラームは%1$sと%2$s%3$s後に設定されています"</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
+        <item>"1分"</item>
+        <item>"5分"</item>
+        <item>"10分"</item>
+        <item>"15分"</item>
+        <item>"20分"</item>
+        <item>"25分"</item>
+        <item>"30分"</item>
     </string-array>
     <string-array name="snooze_duration_values">
         <item>1</item>
@@ -996,14 +996,14 @@
         <item>30</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Never</item>
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
+        <item>"なし"</item>
+        <item>"1分"</item>
+        <item>"5分"</item>
+        <item>"10分"</item>
+        <item>"15分"</item>
+        <item>"20分"</item>
+        <item>"25分"</item>
+        <item>"30分"</item>
     </string-array>
     <string-array name="auto_silence_values">
         <item>-1</item>
@@ -1016,9 +1016,9 @@
         <item>30</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Do nothing</item>
-        <item>Snooze</item>
-        <item>Dismiss</item>
+        <item>"何もしない"</item>
+        <item>"スヌーズ"</item>
+        <item>"解除"</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>

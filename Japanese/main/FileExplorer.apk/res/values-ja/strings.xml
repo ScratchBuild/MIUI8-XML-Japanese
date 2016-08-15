@@ -2,8 +2,8 @@
 <resources>
   <string name="account_bind_prompt">Moving user data… This may take a few minutes.</string>
   <string name="account_login_title">Account</string>
-  <string name="action_mode_deselect_all">Deselect all</string>
-  <string name="action_mode_select_all">Select all</string>
+  <string name="action_mode_deselect_all">"すべて選択を解除"</string>
+  <string name="action_mode_select_all">"すべて選択"</string>
   <string name="activity_parse_video_title">Paste URL</string>
   <string name="activity_rule">Rules</string>
   <string name="ad_download">Download</string>
@@ -94,7 +94,7 @@
   <string name="clean_title">Delete files that are over 30 days old.</string>
   <string name="clean_trash_box">Empty trash</string>
   <string name="click_to_switch_volume">Tap to switch between internal storage and SD card</string>
-  <string name="close">Close</string>
+  <string name="close">"閉じる"</string>
   <string name="comment_delete_message">The comment will be deleted permanently.</string>
   <string name="comment_delete_title">Delete comment</string>
   <string name="comment_hint">Add comment</string>
@@ -107,8 +107,8 @@
   <string name="confirm_clean">Clean up</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Prompt for internet connection</string>
-  <string name="connecting">Connecting…</string>
-  <string name="connection_error">"Couldn't connect"</string>
+  <string name="connecting">"接続中…"</string>
+  <string name="connection_error">"接続できませんでした"</string>
   <string name="copied">Copied</string>
   <string name="copy_failed">"Couldn't copy"</string>
   <string name="copy_failed_retry">"Can't copy, wait %1$s and try again"</string>
@@ -495,7 +495,7 @@ and never miss the cool new ones!"</string>
   <string name="operation_delete_confirm_message">Delete?</string>
   <string name="operation_delete_confirm_message_folder">"All folder contents will be deleted. "</string>
   <string name="operation_deleting">"削除中…"</string>
-  <string name="operation_deleting_detail">Deleting (%1$d/%2$d)</string>
+  <string name="operation_deleting_detail">"削除中 (%1$d/%2$d)"</string>
   <string name="operation_download_link">Create download link</string>
   <string name="operation_favorite">Favorite</string>
   <string name="operation_hide_sys">"隠しファイルを非表示"</string>
@@ -503,7 +503,7 @@ and never miss the cool new ones!"</string>
   <string name="operation_like">"お気に入りへ追加"</string>
   <string name="operation_move">"切り取り"</string>
   <string name="operation_moving">"移動中…"</string>
-  <string name="operation_moving_detail">Moving (%1$d/%2$d)</string>
+  <string name="operation_moving_detail">"移動中 (%1$d/%2$d)"</string>
   <string name="operation_other_apps">"他のアプリで開く"</string>
   <string name="operation_paste">"貼り付け"</string>
   <string name="operation_pasting">"コピー中…"</string>
@@ -532,7 +532,7 @@ and never miss the cool new ones!"</string>
   <string name="partial_repair_done">Restored some files successfully</string>
   <string name="paused">Paused</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone">Internal storage</string>
+  <string name="phone">"内部ストレージ"</string>
   <string name="phone_bind_skip">Skip</string>
   <string name="phone_bind_tip">Add phone number to participate in rankings and win awards</string>
   <string name="phone_bind_title">Add phone number</string>
@@ -611,7 +611,7 @@ and never miss the cool new ones!"</string>
   <string name="sd_card_size">SD card: %1$s</string>
   <string name="sd_full">Your SD card is full.</string>
   <string name="sd_invalid">"Can't use SD card"</string>
-  <string name="sdcard">SD card</string>
+  <string name="sdcard">"SDカード"</string>
   <string name="sdcard_available">Available %1$s</string>
   <string name="sdcard_total">Total %1$s</string>
   <string name="search_activity_hint">Search</string>
@@ -701,12 +701,12 @@ and never miss the cool new ones!"</string>
   <string name="storage_cloned_app">Storage for dual apps</string>
   <string name="storage_info">%1$s available</string>
   <string name="storage_info_detail">Available: %1$s Total: %2$s</string>
-  <string name="storage_internal">Internal storage</string>
-  <string name="storage_internal_description">Internal storage</string>
-  <string name="storage_sd_card">SD card</string>
-  <string name="storage_sd_card_description">SD card</string>
-  <string name="storage_usb">USB storage</string>
-  <string name="storage_usb_description">USB storage</string>
+  <string name="storage_internal">"内部ストレージ"</string>
+  <string name="storage_internal_description">"内部ストレージ"</string>
+  <string name="storage_sd_card">"SDカード"</string>
+  <string name="storage_sd_card_description">"SDカード"</string>
+  <string name="storage_usb">"USBストレージ"</string>
+  <string name="storage_usb_description">"USBストレージ"</string>
   <string name="storage_warning">"Can't use external storage"</string>
   <string name="subtitle_report_video">From %1$s</string>
   <string name="sys_size_enable">" available"</string>

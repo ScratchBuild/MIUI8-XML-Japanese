@@ -19,7 +19,7 @@
   <string name="adding_fdn_contact">発信番号制限を追加しています...</string>
   <string name="additional_cdma_call_settings">その他のCDMA通話設定</string>
   <string name="additional_gsm_call_settings">その他の設定</string>
-  <string name="additional_gsm_call_settings_with_label">Additional settings (%s)</string>
+  <string name="additional_gsm_call_settings_with_label">その他の設定 (%s)</string>
   <string name="administrative_disable">管理は無効になっています</string>
   <string name="administrative_enable">管理は有効になっています</string>
   <string name="advanced_settings">オプション設定</string>
@@ -178,7 +178,7 @@
   <string name="callFailed_user_not_member_of_CUG"/>
   <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
   <string name="call_advanced_setting_title">"詳細設定"</string>
-  <string name="call_barring">Call barring</string>
+  <string name="call_barring">発着信制限</string>
   <string name="call_barring_incoming">Incoming call barring</string>
   <string name="call_barring_outgoing">Outgoing call barring</string>
   <string name="call_barring_sum">音声通話発着信制限設定</string>
@@ -257,7 +257,7 @@
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">携帯通信会社の設定</string>
-  <string name="cb_psw_dont_match">"Passwords don't match"</string>
+  <string name="cb_psw_dont_match">パスワードが一致しません</string>
   <string name="cb_sms_settings">緊急警報SMS設定</string>
   <string name="cdma_activate_device">端末を有効にする</string>
   <string name="cdma_alert_message">"モバイルデータのデフォルトとして他のカードを選択する場合は、中国移動通信のUIMカードが使用出来なくなります。(ローミングを除く)"</string>
@@ -568,7 +568,7 @@
   <string name="incall_error_supp_service_unknown">サービスはサポートされていません。</string>
   <string name="incall_error_wfc_only_no_wireless_network">Connect to a wireless network to make a call.</string>
   <string name="incall_status_dialed_mmi">MMIシーケンスを開始中...</string>
-  <string name="input_password">Enter password</string>
+  <string name="input_password">パスワードを入力してください</string>
   <string name="international_calls">国際通話のみ</string>
   <string name="international_dial_complete_intention">安い料金で国際電話をかけましょう</string>
   <string name="international_dial_complete_no">今は使わない</string>
@@ -609,10 +609,10 @@
   <string name="labelCW">通話中着信</string>
   <string name="labelCallerId">発信者番号</string>
   <string name="labelCbCancelAll">Turn off call barring</string>
-  <string name="labelCbChangePassword">Change password</string>
-  <string name="labelCdmaMore_with_label">CDMA call settings (%s)</string>
+  <string name="labelCbChangePassword">パスワードを変更</string>
+  <string name="labelCdmaMore_with_label">CDMA通話設定 (%s)</string>
   <string name="labelGSMMore">GSM通話設定</string>
-  <string name="labelGsmMore_with_label">GSM call settings (%s)</string>
+  <string name="labelGsmMore_with_label">GSM通話設定 (%s)</string>
   <string name="labelNwService">ネットワークサービス設定</string>
   <string name="label_available">利用可能なネットワーク</string>
   <string name="label_cdp">SIM corporate unlock PIN</string>
@@ -860,7 +860,7 @@
   <string name="onscreenSwapCallsText">切り替え</string>
   <string name="onscreenVideoCallText">ビデオハングアウト</string>
   <string name="open_miui">開く</string>
-  <string name="operation_successfully">Done</string>
+  <string name="operation_successfully">完了</string>
   <string name="operator_first">"キャリアのプランを優先する"</string>
   <string name="operator_first_mins_hint">xx分</string>
   <string name="operator_first_mins_none_summary">プリペイドプラン優先</string>
@@ -1163,7 +1163,7 @@
   <string name="rnw2_unlock_failed">RUIM Network2 unlock request unsuccessful.</string>
   <string name="rnw2_unlock_success">RUIM Network2 unlock successful.</string>
   <string name="roaming">"データローミング"</string>
-  <string name="roaming_alert_title">Allow data roaming?</string>
+  <string name="roaming_alert_title">データローミングを許可しますか？</string>
   <string name="roaming_disable">ローミング時にデータサービスに接続する</string>
   <string name="roaming_enable">"ローミング時にデータサービスに接続する"</string>
   <string name="roaming_notification_content">ローミング時に、より便利に発信するため国コードを追加出来ます。</string>
@@ -1182,7 +1182,7 @@
   <string name="selectContact">連絡先を選択</string>
   <string name="select_automatically">"自動的に選択"</string>
   <string name="select_voice_call_sim">SIMカードを選択</string>
-  <string name="sendSms">Send SMS</string>
+  <string name="sendSms">SMSを送信</string>
   <string name="send_button">送信</string>
   <string name="send_keepalive">キープアライブを送信</string>
   <string name="send_keepalive_title">キープアライブを送信する</string>
