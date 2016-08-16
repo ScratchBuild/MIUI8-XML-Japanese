@@ -41,10 +41,10 @@
   <string name="cancel_action">"キャンセル"</string>
   <string name="cancel_btn_label">"キャンセル"</string>
   <string name="cant_edit_lock_screen">"Can't edit lock screen style."</string>
-  <string name="cant_remove_folder">"Can't remove folder"</string>
+  <string name="cant_remove_folder">"フォルダを削除できません"</string>
   <string name="cant_remove_retained_app">"このアプリは削除できません"</string>
   <string name="cant_remove_system_app">"システムアプリは削除できません"</string>
-  <string name="change_wallpaper">Change</string>
+  <string name="change_wallpaper">"変更"</string>
   <string name="children_folder_title">Kids</string>
   <string name="children_mode_exit">Exit</string>
   <string name="children_mode_tips_message">There is no application in child mode. Please select application.</string>
@@ -67,7 +67,7 @@
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
-  <string name="delete">Delete</string>
+  <string name="delete">"削除"</string>
   <string name="delete_screen">Delete screen</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
   <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
@@ -88,8 +88,8 @@
   <string name="emptyplaylist">"タップして曲を追加"</string>
   <string name="enable_wallpaper_scroll">Turn side-scrolling on</string>
   <string name="encryption">Encryption</string>
-  <string name="failed_to_delete_temporary">"Can't remove"</string>
-  <string name="failed_to_drop">"Can't move"</string>
+  <string name="failed_to_delete_temporary">"削除できません"</string>
+  <string name="failed_to_drop">"移動できません"</string>
   <string name="failed_to_drop_widget_invalid">Widget invalid</string>
   <string name="failed_to_drop_widget_nospace">No more room on this Home screen</string>
   <string name="failed_to_load_image">"Can't load image"</string>
@@ -109,13 +109,13 @@
   <string name="free_style_enter_tip">To view Mi Space, swipe down from the top of the screen with two fingers</string>
   <string name="free_style_exit_tip">To return to Home screen, swipe up from the bottom of the screen with two fingers</string>
   <string name="free_style_londing_text">"読み込み中…"</string>
-  <string name="gadget_calculator_label">Calculator</string>
-  <string name="gadget_calendar_label">Calendar</string>
+  <string name="gadget_calculator_label">"電卓"</string>
+  <string name="gadget_calendar_label">"カレンダー"</string>
   <string name="gadget_clear_button_label">Cleaner</string>
   <string name="gadget_clock_12_label">Clock 2x1</string>
   <string name="gadget_clock_22_label">Clock 2x2</string>
   <string name="gadget_clock_24_label">Clock 4x2</string>
-  <string name="gadget_clock_label">Clock</string>
+  <string name="gadget_clock_label">"時計"</string>
   <string name="gadget_error_text">"Can't load widget"</string>
   <string name="gadget_google_search_label">"Google検索"</string>
   <string name="gadget_load_error">"読み込み中…"</string>
@@ -159,7 +159,7 @@
   <string name="loading_desktop">"読み込み中…"</string>
   <string name="loading_wallpaper">"読み込み中…"</string>
   <string name="local_wallpaper">Downloaded</string>
-  <string name="lock_screen">Lock screen</string>
+  <string name="lock_screen">"ロック画面"</string>
   <string name="lock_screen_failed_message">"Can't set lock screen wallpaper"</string>
   <string name="lock_screen_success_message">Applied to lock screen</string>
   <string name="lock_screen_wallpaper">"ロック画面の壁紙"</string>
@@ -194,7 +194,7 @@
   <string name="permlab_read_settings">Read Home Settings and Shortcuts</string>
   <string name="permlab_uninstall_shortcut">Uninstall shortcuts</string>
   <string name="permlab_write_settings">Edit Home Settings and Shortcuts</string>
-  <string name="photo_adjust">Preview</string>
+  <string name="photo_adjust">"プレビュー"</string>
   <string name="photo_confirm">Set</string>
   <string name="photo_load_failed">"写真が読み込めません"</string>
   <string name="pref_cell_layout_size">App icon layout</string>

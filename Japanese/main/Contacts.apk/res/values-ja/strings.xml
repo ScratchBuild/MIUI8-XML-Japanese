@@ -31,9 +31,9 @@
   <string name="add_xiaomi_account_dialog_btn">Use Mi Account</string>
   <string name="add_xiaomi_account_dialog_msg">Back up your contacts to your Mi Account to access them from anywhere!</string>
   <string name="add_xiaomi_account_dialog_title">Choose account</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Switch to editing the same-name contact? Information you entered so far will be copied.</string>
+  <string name="aggregation_suggestion_edit_dialog_message">"選択した連絡先の編集に切り替えますか？これまでに入力した情報はコピーされます。"</string>
   <string name="aggregation_suggestion_edit_dialog_title">Same name</string>
-  <string name="aggregation_suggestion_join_dialog_message">Join the current contact with the selected contact?</string>
+  <string name="aggregation_suggestion_join_dialog_message">"現在の連絡先を選択した連絡先に統合しますか？"</string>
   <string name="all_list_empty">No contacts</string>
   <string name="antispam_mark_my_contribution">Sharing flag info</string>
   <string name="antispam_provider_format">Identified by %s</string>
@@ -55,7 +55,7 @@
   <string name="caching_vcard_message">vCardを格納しています…</string>
   <string name="caching_vcard_title">格納中</string>
   <string name="callAgain">"再発信"</string>
-  <string name="callBack">かけ直し</string>
+  <string name="callBack">"コールバック"</string>
   <string name="callDetailTitle">Call details</string>
   <string name="callDetailsDurationFormat" formatted="false">"%s分%s秒"</string>
   <string name="callShortcutActivityTitle">"発信する番号の選択"</string>
@@ -190,14 +190,14 @@
   <string name="confirm_delete_sim_entry_miui_title">Delete</string>
   <string name="confirm_export_message">連絡先リストは %s へエクスポートされます。</string>
   <string name="confirm_export_title">連絡先をエクスポートしますか？</string>
-  <string name="connections">Connections</string>
+  <string name="connections">"連絡先情報"</string>
   <string name="contactDetailAbout">"概要"</string>
   <string name="contactDetailCalllog">"通話履歴"</string>
   <string name="contactDetailUpdates">"最新情報"</string>
   <string name="contactMultiPickerActivityTitle">"連絡先を選択"</string>
   <string name="contactPickerActivityTitle">"連絡先を選択"</string>
-  <string name="contactSavedErrorToast">"連絡先の変更を保存できませんでした"</string>
-  <string name="contactSavedToast">"連絡先を保存しました"</string>
+  <string name="contactSavedErrorToast">"連絡先の変更を保存できませんでした。"</string>
+  <string name="contactSavedToast">"連絡先を保存しました。"</string>
   <string name="contact_delete_toast">"連絡先を削除しました"</string>
   <string name="contact_detail_action_item_calllog">"通話履歴"</string>
   <string name="contact_detail_action_item_nocalllog">No history</string>
@@ -234,9 +234,9 @@ Contact cards are turned off"</string>
   <string name="contact_edit_title_edit">Edit contact</string>
   <string name="contact_edit_title_insert">Save to %s</string>
   <string name="contact_edit_title_readonly">Read-only contact</string>
-  <string name="contact_editor_prompt_multiple_accounts">Save contact to</string>
+  <string name="contact_editor_prompt_multiple_accounts">"新しい連絡先を次のいずれかのアカウントと同期させることができます。使用するアカウントを選択してください。"</string>
   <string name="contact_editor_prompt_one_account">"新しい連絡先は%1$sと同期されます。"</string>
-  <string name="contact_editor_prompt_zero_accounts">Store in mobile or in a new online account</string>
+  <string name="contact_editor_prompt_zero_accounts">"新しい連絡先はバックアップされません。オンラインで連絡先をバックアップするアカウントを追加しますか？"</string>
   <string name="contact_is_readOnly">"Can't edit read-only contacts"</string>
   <string name="contact_list_loading">"読み込み中..."</string>
   <string name="contact_pick_photo">Photo</string>
@@ -270,7 +270,7 @@ Contact cards are turned off"</string>
   <string name="data_left">Remaining data</string>
   <string name="data_unit">MB</string>
   <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
-  <string name="date_time_set">Set</string>
+  <string name="date_time_set">"設定"</string>
   <string name="date_year_toggle">"年を入力する"</string>
   <string name="default_ringtone">Default ringtone</string>
   <string name="deleteConfirmation">"この連絡先を削除します。"</string>
@@ -283,7 +283,7 @@ Contact cards are turned off"</string>
   <string name="delete_dial_input">"削除"</string>
   <string name="delete_duplicate">Merge</string>
   <string name="delete_duplicate_message">"Merging contacts… "</string>
-  <string name="delete_group_dialog_message">"グループ%1$sを削除しますか？連絡先自体は削除されません。"</string>
+  <string name="delete_group_dialog_message">"グループ「%1$s」を削除しますか？連絡先自体は削除されません。"</string>
   <string name="delete_group_dialog_title">"グループの削除"</string>
   <string name="delete_selected_sim_entry_miui">Delete selected contacts</string>
   <string name="delete_sim_entries_finish">Contacts on SIM card deleted</string>
@@ -322,7 +322,7 @@ Contact cards are turned off"</string>
   <string name="description_image_button_two">two</string>
   <string name="description_image_button_zero">zero</string>
   <string name="description_minus_button">Minus</string>
-  <string name="description_plus_button">Plus</string>
+  <string name="description_plus_button">"プラス"</string>
   <string name="description_quick_contact_for">Quick contact for %1$s</string>
   <string name="description_search_button">検索</string>
   <string name="description_send_message">Send message to %1$s</string>
@@ -373,7 +373,7 @@ Contact cards are turned off"</string>
   <string name="dialog_import">連絡先をインポートする</string>
   <string name="dialog_import_export">連絡先をインポート/エクスポートする</string>
   <string name="dialog_new_contact_account">アカウント配下に連絡先を作成する</string>
-  <string name="dialog_new_group_account">アカウント配下にグループを作成する</string>
+  <string name="dialog_new_group_account">"次のアカウントにグループを作成"</string>
   <string name="dialog_phone_call_prohibited_message">Call not sent</string>
   <string name="dialog_sync_add">同期グループを追加する</string>
   <string name="dialog_voicemail_airplane_mode_message">To call voicemail, turn off Airplane mode.</string>
@@ -428,7 +428,7 @@ Contact cards are turned off"</string>
 理由: \"%s\""</string>
   <string name="exporting_contact_failed_title">"エクスポートができませんでした。"</string>
   <string name="exporting_contact_list_message">%s にエクスポートしました。</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s of %s contacts</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s/%s件のファイル</string>
   <string name="exporting_contact_list_title">連絡先データをエクスポートしています</string>
   <string name="exporting_vcard_canceled_title">%s のエクスポートがキャンセルされました。</string>
   <string name="exporting_vcard_finished_title">%s のエクスポートが終了しました。</string>
@@ -457,12 +457,12 @@ Contact cards are turned off"</string>
   <string name="frequentList">"よく使う連絡先"</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">名前</string>
-  <string name="generic_no_account_prompt">Keep your contacts safe even if you lose your phone: synchronize with an online service.</string>
+  <string name="generic_no_account_prompt">"携帯端末を紛失したときにも連絡先を保護するため、オンラインサービスと同期させます。"</string>
   <string name="generic_no_account_prompt_title">"アカウントの追加"</string>
   <string name="ghostData_company">会社</string>
   <string name="ghostData_title">Title</string>
-  <string name="groupSavedErrorToast">"グループの変更を保存できませんでした"</string>
-  <string name="groupSavedToast">"グループを保存しました"</string>
+  <string name="groupSavedErrorToast">"グループの変更を保存できませんでした。"</string>
+  <string name="groupSavedToast">"グループを保存しました。"</string>
   <string name="group_add_fail_toast">"Couldn't add recipients"</string>
   <string name="group_copy_fail_toast">"連絡先をコピーできません"</string>
   <string name="group_create_fail_toast">"Couldn't create group"</string>
@@ -473,8 +473,8 @@ Contact cards are turned off"</string>
   <string name="group_member_remove_toast">Removed from group</string>
   <string name="group_move_fail_toast">"連絡先を移動できません"</string>
   <string name="group_name">My groups</string>
-  <string name="group_name_hint">"Group's name"</string>
-  <string name="group_read_only">このデバイスでは編集できません。</string>
+  <string name="group_name_hint">"グループの名前"</string>
+  <string name="group_read_only">"この端末では編集できません。"</string>
   <string name="group_remove_success_toast">連絡先の移動に成功しました</string>
   <string name="group_rename_dialog_title">Rename group</string>
   <string name="group_rename_fail_toast">"Couldn't rename group"</string>
@@ -545,7 +545,7 @@ Contact cards are turned off"</string>
   <string name="invalidContactMessage">"連絡先が存在しません。"</string>
   <string name="invalid_contacts_excluded_to_save_to_group">連絡先のあるエントリーのみグループへ保存されます</string>
   <string name="invalid_contacts_to_save_to_group">"不明な番号を保存できません"</string>
-  <string name="keep_local">"同期しない"</string>
+  <string name="keep_local">"ローカルに保存"</string>
   <string name="keep_local_btn">"Use phone's internal storage"</string>
   <string name="label_custom_type">Custom</string>
   <string name="label_duplicate_count">(%1$d)</string>
@@ -620,7 +620,7 @@ Contact cards are turned off"</string>
   <string name="menu_editContact">"編集"</string>
   <string name="menu_editGroup">"編集"</string>
   <string name="menu_edit_mode">Edit mode</string>
-  <string name="menu_help">"ヘルプ"</string>
+  <string name="menu_help">"ヘルプとフィードバック"</string>
   <string name="menu_import_export">インポート/エクスポート</string>
   <string name="menu_joinAggregate">"統合"</string>
   <string name="menu_newContact">新しい連絡先を作成</string>
@@ -800,10 +800,10 @@ To add a contact to your list of favorites:
   <string name="noGroups">"グループはありません。"</string>
   <string name="noMatchingContacts">合致する連絡先はありません。</string>
   <string name="noRecentContacts">No recent contacts</string>
-  <string name="no_account_prompt">"People works better with a Google Account.
+  <string name="no_account_prompt">"Googleアカウントがあれば連絡先をもっと活用できます。
 
-• Access from any web browser.
-• Back up your contacts securely."</string>
+• どのウェブブラウザからもアクセスできます。
+• 連絡先を安全にバックアップできます。"</string>
   <string name="no_contact_details">この連絡先の追加情報はありません。</string>
   <string name="no_contact_in_other_phone">No contacts detected</string>
   <string name="no_contacts_dialog_message">"Contacts may be stored on your SIM card. Try importing them from your SIM card to your phone's internal storage and then try again."</string>
@@ -955,7 +955,7 @@ To add a contact to your list of favorites:
   <string name="previous">Previous</string>
   <string name="private_num">プライベート番号</string>
   <string name="profile_binded_numbers">%s</string>
-  <string name="profile_display_name">"プロファイルを設定"</string>
+  <string name="profile_display_name">"プロフィールを設定"</string>
   <string name="profile_name">My profile</string>
   <string name="profile_name_photo">Photo</string>
   <string name="public_account_name">パブリックアカウント</string>
@@ -1014,10 +1014,10 @@ To add a contact to your list of favorites:
   <string name="restore_nickname">Restore</string>
   <string name="ret_sign">"
 "</string>
-  <string name="returnCall">折り返し</string>
+  <string name="returnCall">"発信"</string>
   <string name="ringLabelsGroup">Ringtone</string>
   <string name="save_photo_progress">Saving photo…</string>
-  <string name="savingContact">"連絡先を保存しています…"</string>
+  <string name="savingContact">"連絡先を保存しています..."</string>
   <string name="savingDisplayGroups">Saving display options…</string>
   <string name="scan">Scan</string>
   <string name="scan_duplicate_message">%1$d contacts with identical info</string>
@@ -1071,7 +1071,7 @@ To add a contact to your list of favorites:
   <string name="set_photo_failed_msg">"Couldn't assign picture."</string>
   <string name="share_error">"This contact can't be shared"</string>
   <string name="share_over_limit">"Can't share over 1000 contacts"</string>
-  <string name="share_via">"連絡先の共有"</string>
+  <string name="share_via">"連絡先の共有ツール"</string>
   <string name="share_visible_contacts">"連絡先を共有"</string>
   <string name="shortcutActivityTitle">"連絡先ショートカットを選択"</string>
   <string name="shortcutContact">"連絡先"</string>
@@ -1174,10 +1174,10 @@ To add a contact to your list of favorites:
   <string name="toast_finish_delete_selected_call_log">Call history cleared</string>
   <string name="toast_for_failed_saving_nickname">"Couldn't save nickname"</string>
   <string name="toast_for_saving_nickname">Nickname saved</string>
-  <string name="toast_join_with_empty_contact">Type contact name before merging with another</string>
-  <string name="toast_making_personal_copy">Creating a personal copy…</string>
+  <string name="toast_join_with_empty_contact">"別の連絡先と統合するにはまず連絡先の名前を入力してください。"</string>
+  <string name="toast_making_personal_copy">"個人用コピーを作成しています..."</string>
   <string name="toast_text_copied">"テキストをコピーしました"</string>
-  <string name="today">Today</string>
+  <string name="today">"今日"</string>
   <string name="transfer_accounts">Transfer accounts</string>
   <string name="type_incoming">"着信履歴"</string>
   <string name="type_missed">"不在着信"</string>

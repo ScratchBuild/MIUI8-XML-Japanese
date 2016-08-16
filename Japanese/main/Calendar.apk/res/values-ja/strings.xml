@@ -39,7 +39,7 @@
   <string name="agenda_tomorrow">"明日, %1$s"</string>
   <string name="agenda_view">"予定リスト"</string>
   <string name="agenda_yesterday">"昨日, %1$s"</string>
-  <string name="alarm_label">Dismiss</string>
+  <string name="alarm_label">"閉じる"</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">"期限切れ"</string>
   <string name="alert_title">"カレンダーの通知"</string>

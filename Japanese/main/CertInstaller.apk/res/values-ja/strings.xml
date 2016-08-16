@@ -12,8 +12,8 @@
   <string name="credential_usage_label">"認証情報の使用:"</string>
   <string name="done_label">DONE</string>
   <string name="extracting_pkcs12">"抽出しています..."</string>
-  <string name="install_done">%1$s credentials have been added to WLAN saved networks.</string>
-  <string name="install_done_title">Credentials installed</string>
+  <string name="install_done">"%1$sの認証情報をWi-Fi保存済みネットワークに追加しました。"</string>
+  <string name="install_done_title">"認証情報のインストール完了"</string>
   <string name="invalid_cert">"証明書が無効です。"</string>
   <string name="n_cacrts">"CA証明書%d件"</string>
   <string name="name_char_error">"文字と数字だけを含んだ名前を入力してください。"</string>
@@ -34,35 +34,34 @@
   <string name="sdcard_not_present">"SDカードが挿入されていません。"</string>
   <string name="storage_error">"証明書を保存できませんでした。[OK]をタップしてやり直してください。"</string>
   <string name="unable_to_save_cert">"証明書を保存できませんでした。認証情報ストレージが無効か、適切に初期化されていません。"</string>
-  <string name="wifi_cancel_label">Cancel</string>
-  <string name="wifi_config_text">"Name: %1$s
+  <string name="wifi_cancel_label">"キャンセル"</string>
+  <string name="wifi_config_text">"名前: %1$s
 FQDN: %2$s
-Roaming Consortiums: %3$s
-Realm: %4$s
-Auth method: EAP-%5$s
+ローミングコンソーシアム: %3$s
+レルム: %4$s
+認証方式: EAP-%5$s
 "</string>
-  <string name="wifi_detail_label">Details</string>
-  <string name="wifi_detail_title">Details for %s</string>
-  <string name="wifi_dismiss_label">Dismiss</string>
-  <string name="wifi_install_label">Install</string>
-  <string name="wifi_installer_detail">Install WLAN credentials to connect to networks available via %1$s.</string>
-  <string name="wifi_installer_download_error">"Downloaded file has problems and can't be installed. Make sure you downloaded the file from the correct source."</string>
-  <string name="wifi_installer_fail">"Can't install WLAN credentials. Try downloading the file again."</string>
-  <string name="wifi_installer_fail_no_wifi">Turn on WLAN and try again.</string>
-  <string name="wifi_installer_fail_no_wifi_title">Installation canceled</string>
-  <string name="wifi_installer_fail_title">"Can't install"</string>
-  <string name="wifi_installing_label">Installing</string>
-  <string name="wifi_no_config">None</string>
-  <string name="wifi_sim_config_text">"SIM: %s
-"</string>
-  <string name="wifi_title">WLAN Profile</string>
-  <string name="wifi_tls_config_text">"Client certificate:
+  <string name="wifi_detail_label">"詳細"</string>
+  <string name="wifi_detail_title">"%sの詳細"</string>
+  <string name="wifi_dismiss_label">"閉じる"</string>
+  <string name="wifi_install_label">"インストール"</string>
+  <string name="wifi_installer_detail">"%1$sを経由して利用可能なネットワークに接続するにはWi-Fi認証情報をインストールしてください。"</string>
+  <string name="wifi_installer_download_error">"ダウンロードしたファイルは問題があるためインストールできません。正しいソースからファイルをダウンロードしたことをご確認ください。"</string>
+  <string name="wifi_installer_fail">"Wi-Fi認証情報をインストールできません。ファイルのダウンロードをもう一度お試しください。"</string>
+  <string name="wifi_installer_fail_no_wifi">"Wi-FiをONにしてもう一度お試しください。"</string>
+  <string name="wifi_installer_fail_no_wifi_title">"インストールをキャンセルしました"</string>
+  <string name="wifi_installer_fail_title">"インストールできません"</string>
+  <string name="wifi_installing_label">"インストール中"</string>
+  <string name="wifi_no_config">"なし"</string>
+  <string name="wifi_sim_config_text">"SIM: %s\n"</string>
+  <string name="wifi_title">"Wi-Fiプロフィール"</string>
+  <string name="wifi_tls_config_text">"クライアント証明書:
 %1$s
-Key: %2$s
+キー: %2$s
 "</string>
-  <string name="wifi_trust_config_text">"Trust certificate:
+  <string name="wifi_trust_config_text">"信用できる証明書:
 %s
 "</string>
-  <string name="wifi_ttls_config_text">"User name: %s
+  <string name="wifi_ttls_config_text">"ユーザー名: %s
 "</string>
 </resources>

@@ -592,7 +592,7 @@
   <string name="custom_select_title_select_item">Select items</string>
   <string name="debugging_tip">Generating debug data</string>
   <string name="default_album_name">New album</string>
-  <string name="delete">Delete</string>
+  <string name="delete">"削除"</string>
   <string name="delete_album_failed">"アルバムを削除できません"</string>
   <string name="delete_album_msg_format">Delete \"%2$s\" album %1$s %3$s?</string>
   <string name="delete_album_success">"アルバムを削除しました"</string>
@@ -618,8 +618,8 @@
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">Detail info</string>
-  <string name="do_not_remind_me">"Don't show again"</string>
-  <string name="do_not_save">"Don't save"</string>
+  <string name="do_not_remind_me">"二度と表示しない"</string>
+  <string name="do_not_save">"保存しない"</string>
   <string name="documentary">Documentary</string>
   <string name="doodle">Doodle</string>
   <string name="doodle_brush">Brush</string>

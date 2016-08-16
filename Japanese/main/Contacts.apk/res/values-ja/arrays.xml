@@ -5,7 +5,7 @@
         <item>0</item>
     </string-array>
     <string-array name="otherLabels">
-        <item>Organization</item>
-        <item>Note</item>
+        <item>"所属"</item>
+        <item>"メモ"</item>
     </string-array>
 </resources>

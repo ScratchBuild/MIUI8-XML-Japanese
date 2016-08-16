@@ -7,36 +7,36 @@
         <item quantity="other">Copied %1$d contacts</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contacts with phone numbers</item>
-        <item quantity="one">1 contact with phone number</item>
+        <item quantity="other">電話番号のある連絡先%d件</item>
+        <item quantity="one">電話番号のある連絡先1件</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contacts</item>
         <item quantity="one">1 contact</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d件見つかりました</item>
+        <item quantity="one">1件見つかりました</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d件見つかりました</item>
+        <item quantity="one">1件見つかりました</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">merged from %0$d sources</item>
-        <item quantity="one">not merged</item>
+        <item quantity="other">%0$d件の連絡先から結合</item>
+        <item quantity="one">結合する連絡先はありません</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d groups</item>
-        <item quantity="one">1 group</item>
+        <item quantity="other">%0$dグループ</item>
+        <item quantity="one">1グループ</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d people from %2$s</item>
-        <item quantity="one">%1$d person from %2$s</item>
+        <item quantity="other">%2$sから%1$d人</item>
+        <item quantity="one">%2$sから%1$d人</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d人</item>
+        <item quantity="one">%1$d人</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d numbers</item>
