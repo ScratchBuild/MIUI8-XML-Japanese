@@ -57,6 +57,36 @@
         <item>Beijing TV</item>
         <item>Guangdong TV</item>
     </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>综艺</item>
+        <item></item>
+        <item>体育</item>
+        <item>少儿</item>
+        <item>新闻</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>热门</item>
+        <item>电影</item>
+        <item>综艺</item>
+        <item>电视剧</item>
+        <item>体育</item>
+        <item>少儿</item>
+        <item>新闻</item>
+        <item>生活</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>热门节目</item>
+        <item>电影节目</item>
+        <item>综艺节目</item>
+        <item>电视剧</item>
+        <item>体育节目</item>
+        <item>少儿节目</item>
+        <item>新闻节目</item>
+        <item>生活节目</item>
+    </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
         <item>A</item>
@@ -85,5 +115,9 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+    </string-array>
+    <string-array name="user_notification_tab">
+        <item>\@与我相关</item>
+        <item>系统通知</item>
     </string-array>
 </resources>

@@ -110,6 +110,7 @@
   <string name="bedroom">Bedroom</string>
   <string name="bind_stb">Bind set-top box</string>
   <string name="bind_stb_dlg">Pair set-top box to switch channels</string>
+  <string name="bind_stb_dlg_2">Set-top boxes need to bind</string>
   <string name="bind_stb_dlg_agree">Pair</string>
   <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="brand_device">%1$s %2$s</string>
@@ -118,6 +119,7 @@
   <string name="brand_title_hot">Popular</string>
   <string name="brand_title_other">"その他"</string>
   <string name="broadcast">Radio</string>
+  <string name="btn_connected_stb">Stb</string>
   <string name="bullet_hint">Show this message on screen</string>
   <string name="bulletin">Messages</string>
   <string name="by">"Supported by "</string>
@@ -175,6 +177,7 @@
   <string name="data_request_error">"Couldn't get info"</string>
   <string name="day">d</string>
   <string name="day_string">日</string>
+  <string name="decrease">Down</string>
   <string name="delete">"削除"</string>
   <string name="delete_confirm">Delete device?</string>
   <string name="delete_desc">"You won't be able to control “%s” using Mi Remote."</string>
@@ -226,7 +229,10 @@
   <string name="epg_channel_operation_tip">Press the channel to edit or add to favorites</string>
   <string name="epg_channel_search_hint">Add the channel number/Chanel name search</string>
   <string name="epg_comment_action_bar_title">Comment: %1$s</string>
+  <string name="epg_comment_agree_user">Like me</string>
   <string name="epg_comment_list_title">Comments （%1$d）</string>
+  <string name="epg_comment_no_reply">Too low-key, he has not received comments friends</string>
+  <string name="epg_comment_reply">Reply</string>
   <string name="epg_detail_title_text">Desciption</string>
   <string name="epg_details_episode">Ep. %1$s</string>
   <string name="epg_edit_channel_name">Channel name</string>
@@ -251,11 +257,12 @@
   <string name="epg_no_more_latest_comment">No more comments</string>
   <string name="epg_no_program_data">No program data</string>
   <string name="epg_no_search_result">No search results</string>
+  <string name="epg_no_sys_notification">Temporarily no notification system</string>
   <string name="epg_not_booked_program_time_left">Booked （Time left %1$s）</string>
   <string name="epg_program_comment">Write a comment</string>
   <string name="epg_program_detail_more_time_events">More time events</string>
   <string name="epg_program_share">Share %1$s</string>
-  <string name="epg_program_share_drama">Watch with me: %3$s Channel: %1$s, At:%2$s. Rate and predict the plot with MiRemote</string>
+  <string name="epg_program_share_drama">Come with me to see %3$s %1$s channel, broadcast time:.%2$s comments favorite stars, predict the development of the plot, in the millet universal remote control</string>
   <string name="epg_program_share_game">Watch with me: %3$s Channel: %1$s, At:%2$s.</string>
   <string name="epg_program_updated_to">Program set to: %1$d</string>
   <string name="epg_reply_comment_prefix">\@</string>
@@ -331,6 +338,7 @@
   <string name="hour">hrs</string>
   <string name="humidity">Humidity:</string>
   <string name="humidity_frame">%1$d%%</string>
+  <string name="increase">Up</string>
   <string name="input_complete">OK</string>
   <string name="input_dialogue_cancel_button">"キャンセル"</string>
   <string name="input_dialogue_guide1">Install non-authorized App</string>
@@ -500,6 +508,7 @@ Then answer the question"</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Assistant version %1$s</string>
   <string name="mode">Mode</string>
+  <string name="model_name">Device model</string>
   <string name="month">月</string>
   <string name="month_day_format">MMM dd</string>
   <string name="more">More</string>
@@ -512,11 +521,15 @@ Then answer the question"</string>
   <string name="my_appointment">My bookings</string>
   <string name="my_backup">RC backup</string>
   <string name="my_favorite">My favorites</string>
+  <string name="my_notification">Notifications</string>
+  <string name="my_room">My room</string>
+  <string name="my_room_underline">My room</string>
   <string name="my_setting">Settings</string>
   <string name="network_diagnosis">Test network</string>
   <string name="network_no_connection">"Can't connect to the network. Check your network connection and try again."</string>
   <string name="network_ok">No problems detected</string>
   <string name="network_unstable">· You have a stable connection</string>
+  <string name="next_remote">Next remote</string>
   <string name="next_step">Next</string>
   <string name="no">No</string>
   <string name="no_backup">No backup found</string>
@@ -545,7 +558,9 @@ Then answer the question"</string>
   <string name="notification_str3">\" will begin in 5 minutes.</string>
   <string name="notification_title">Timer notification</string>
   <string name="num_keys">Numeric buttons</string>
+  <string name="off">Off</string>
   <string name="office">Office</string>
+  <string name="on">On</string>
   <string name="open">On</string>
   <string name="open_close">Power</string>
   <string name="operator">Carrier</string>
@@ -709,6 +724,7 @@ To activate your account, follow the
   <string name="play_on_tv">Play on TV</string>
   <string name="playing_time">Air date</string>
   <string name="please_enter">"Can't be empty"</string>
+  <string name="please_input_model_name">Enter device model</string>
   <string name="please_select_stb">Please select the set-top box</string>
   <string name="please_select_tv">Select TV</string>
   <string name="pm_2.5">PM2.5:</string>
@@ -720,6 +736,7 @@ To activate your account, follow the
   <string name="power_on">Turned on</string>
   <string name="press_to_continue_match">Tap to continue</string>
   <string name="press_to_match">Tap to pair</string>
+  <string name="prev_remote">Previous remote</string>
   <string name="privacy_content">"Read Xiaomi's "<a href="http://www.miui.com/res/doc/privacy/en.html">Privacy Policy</a> and <a href="http://www.miui.com/res/doc/eula/en.html">User Agreement</a> before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
   <string name="privacy_nohit">"Don't show again"</string>
   <string name="privacy_title">Terms and Conditions</string>
@@ -772,6 +789,9 @@ To activate your account, follow the
   <string name="reset">Reset</string>
   <string name="respond">Works</string>
   <string name="retry_for_more">Tap to view more</string>
+  <string name="room_guide_tips">"Control multiple devices
+ 
+ directly from your Lock screen"</string>
   <string name="save">Save</string>
   <string name="save_share_tips">Like the app? You can rate it.</string>
   <string name="save_share_title">Save the remote on this device?</string>
@@ -829,7 +849,10 @@ To activate your account, follow the
   <string name="select_all">"すべて選択"</string>
   <string name="select_area">Choose location</string>
   <string name="select_brand">Select %s</string>
+  <string name="select_controller">Select remote</string>
+  <string name="select_done">Done</string>
   <string name="select_dvb_carrier">Choose service provider</string>
+  <string name="select_screenshot_topic">Choose topic</string>
   <string name="select_stb">Select the set-top box</string>
   <string name="service_info">Service Information</string>
   <string name="set_timeing_time_tip">Your AC will be set in %1$s %2$s</string>
@@ -935,6 +958,7 @@ To activate your account, follow the
   <string name="timer">Timer</string>
   <string name="timer_turn_off">Turn timer off</string>
   <string name="timer_turn_on">Turn timer on</string>
+  <string name="title_hot_links">Hot Links</string>
   <string name="title_nodata_feedback">"Couldn't get device info"</string>
   <string name="to_be_used_in_these_modes">&lt;%1$s&gt;Only use %2$s mode</string>
   <string name="to_qq">Open QQ and join our group</string>
@@ -944,7 +968,9 @@ To activate your account, follow the
   <string name="tomorrow">Tomorrow</string>
   <string name="tune_from_first_channel">Tune from first channel</string>
   <string name="turn_off">Turn off</string>
+  <string name="turn_off_timeing_time_tip">AC will be turned off at %1$s</string>
   <string name="turn_on">Turn on</string>
+  <string name="turn_on_timeing_time_tip">AC will be turned on at %1$s</string>
   <string name="tv">TV</string>
   <string name="tv_broadcast">TV and radio</string>
   <string name="tv_mirror">Display controls</string>
@@ -958,6 +984,7 @@ To activate your account, follow the
   <string name="unkown_device_main">"Can't pair this device."</string>
   <string name="unkown_device_sub">Send us details about this device so that we can support it later on</string>
   <string name="unkown_device_title">"Couldn't get device info"</string>
+  <string name="unset">Not set</string>
   <string name="updated_at">Updated at %1$s</string>
   <string name="updated_just_now">Updated just now</string>
   <string name="upgrade_already_latest">No updates available</string>

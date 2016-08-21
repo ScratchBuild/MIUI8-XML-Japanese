@@ -655,6 +655,7 @@ and never miss the cool new ones!"</string>
   <string name="select_image">Images</string>
   <string name="select_music">Audio files</string>
   <string name="select_video">Video files</string>
+  <string name="select_volume">Please select volume</string>
   <string name="send_comment">Send</string>
   <string name="send_error">"Couldn't add comment"</string>
   <string name="send_sticker">Send sticker</string>
