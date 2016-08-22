@@ -479,7 +479,7 @@
   <string name="enterName">Name</string>
   <string name="enterNumber">電話番号</string>
   <string name="enter_callbarring_password">発着信制限パスワード(4桁)を入力</string>
-  <string name="enter_input" formatted="false">USSDメッセージは％dから％d文字の間でなければなりません。もう一度やり直してください。</string>
+  <string name="enter_input" formatted="false">USSDメッセージは%dから%d文字の間でなければなりません。もう一度やり直してください。</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">SIM PIN:</string>
   <string name="entertainment_news_settings">エンターテインメント情報</string>
@@ -778,7 +778,7 @@
   <string name="network_error_title">ネットワークエラー</string>
   <string name="network_global">グローバル</string>
   <string name="network_id">ネットワークID</string>
-  <string name="network_info_message">Network message</string>
+  <string name="network_info_message">ネットワークメッセージ</string>
   <string name="network_lte">LTE（推奨）</string>
   <string name="network_message">ネットワークメッセージ</string>
   <string name="network_query_error">ネットワークの検索中にエラーが発生しました。</string>
@@ -955,14 +955,14 @@
   <string name="phone_accounts_make_calls_with">発信先</string>
   <string name="phone_accounts_make_sip_calls_with">SIP通話の発信先</string>
   <string name="phone_accounts_selection_header">携帯端末アカウント</string>
-  <string name="phone_accounts_settings_header">Settings</string>
+  <string name="phone_accounts_settings_header">設定</string>
   <string name="phone_entered_ecm_text">緊急通報待機モードになりました</string>
   <string name="phone_in_ecm_call_notification_text">Data connection disabled</string>
   <string name="phone_in_ecm_notification_title">緊急通報待機モード</string>
-  <string name="phone_number_hint_text">Phone number</string>
+  <string name="phone_number_hint_text">電話番号</string>
   <string name="pin2_attempts">\n"入力できるのはあと%d回です。"</string>
   <string name="pin2_changed">PIN2を更新しました</string>
-  <string name="pin2_error_exception">Network or SIM card error</string>
+  <string name="pin2_error_exception">ネットワークまたはSIMカードのエラー</string>
   <string name="pin2_invalid">発信番号制限は更新されませんでした。入力したPINは正しくありません。</string>
   <string name="pin2_invalid_or_name_is_too_long">間違ったPINを入力したか、入力した名前が長すぎます。</string>
   <string name="pin2_lock_warning">"もう一度試行が失敗すると、PIN2関連の機能がロックされます。"</string>
@@ -1040,7 +1040,7 @@
   <string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</string>
   <string name="preferred_network_mode_td_scdma_lte_summary">優先ネットワークモード: TD-SCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_only_choice">TD-SCDMA only</string>
-  <string name="preferred_network_mode_td_scdma_only_summary">優先ネットワークモード: TD-SCDMA only</string>
+  <string name="preferred_network_mode_td_scdma_only_summary">優先ネットワークモード: TD-SCDMAのみ</string>
   <string name="preferred_network_mode_td_scdma_wcdma_choice">TD-SCDMA/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_choice">TD-SCDMA/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">優先ネットワークモード: TD-SCDMA/WCDMA/LTE</string>
@@ -1070,9 +1070,9 @@
   <string name="proxy_address_title">発信プロキシアドレス</string>
   <string name="pstn_connection_service_label">内蔵のSIMカード</string>
   <string name="pstn_phone">携帯通信網での通話</string>
-  <string name="psw_enter_new">New password</string>
-  <string name="psw_enter_old">Old password</string>
-  <string name="psw_reenter_new">Enter password again</string>
+  <string name="psw_enter_new">新しいパスワードを入力</string>
+  <string name="psw_enter_old">古いパスワードを入力</string>
+  <string name="psw_reenter_new">パスワードを再度入力してください</string>
   <string name="puk2_blocked">PUK2は完全にブロックされています。</string>
   <string name="puk2_label">PUK2コードを入力</string>
   <string name="puk2_requested">パスワードが正しくありません。SIMはロックされました。PUK2を入力してください。</string>
