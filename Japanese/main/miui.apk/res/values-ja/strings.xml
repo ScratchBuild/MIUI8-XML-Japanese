@@ -462,7 +462,7 @@
   <string name="no_sim">"SIMカードが検出できません。"</string>
   <string name="noon">PM</string>
   <string name="note">"ノート"</string>
-  <string name="organization">Organization</string>
+  <string name="organization">"所属"</string>
   <string name="perm_payment_dspt">"Mi Pay Serviceを通じてのアプリ支払いを許可する"</string>
   <string name="perm_payment_lab">Mi Pay</string>
   <string name="permdesc_sendSmsNoConfirmation">App can send SMS messages without asking your permission. Your carrier may charge you for these messages.</string>
@@ -571,7 +571,7 @@
   <string name="tuesday">"火曜日"</string>
   <string name="tuesday_short">"火"</string>
   <string name="tuesday_shortest">T</string>
-  <string name="user_agreement">Terms of Service</string>
+  <string name="user_agreement">"利用規約"</string>
   <string name="user_manual">"ユーザーガイド"</string>
   <string name="web_sso_login_fail">"もう一度ログインする必要があります"</string>
   <string name="web_sso_login_message">"ログイン中…"</string>

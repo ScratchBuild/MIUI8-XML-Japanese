@@ -4,7 +4,7 @@
   <string name="account_login_title">Account</string>
   <string name="action_mode_deselect_all">"すべて選択を解除"</string>
   <string name="action_mode_select_all">"すべて選択"</string>
-  <string name="activity_parse_video_title">Paste URL</string>
+  <string name="activity_parse_video_title">"URLを貼り付け"</string>
   <string name="activity_rule">Rules</string>
   <string name="ad_download">Download</string>
   <string name="ad_downloading">"読み込み中…"</string>
@@ -123,7 +123,7 @@
   <string name="cution">Tips</string>
   <string name="data_capacity">Data %1$s</string>
   <string name="data_consumption_cancel">Exit</string>
-  <string name="data_consumption_checkbox_hint">"Don't show again"</string>
+  <string name="data_consumption_checkbox_hint">"二度と表示しない"</string>
   <string name="data_consumption_confirm">OK</string>
   <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
   <string name="data_consumption_message1">Device should be connected to the internet to view popular stickers and videos.</string>
@@ -143,7 +143,7 @@
   <string name="decrypt_error">"Couldn't decrypt"</string>
   <string name="decrypt_to">Decrypt and save to…</string>
   <string name="decrypting">Decrypting…</string>
-  <string name="delete_dialog_button">Delete</string>
+  <string name="delete_dialog_button">"削除"</string>
   <string name="delete_error">"Couldn't delete files, try again"</string>
   <string name="delete_failed">"Can't delete"</string>
   <string name="delete_failed_retry">"Can't delete, wait %1$s and try again"</string>
@@ -255,10 +255,10 @@
   <string name="hot_video">Videos</string>
   <string name="hot_video_load_more">More ></string>
   <string name="hottest_sticker_str">Popular</string>
-  <string name="if_cancel">Cancel this operation?</string>
+  <string name="if_cancel">"この操作をキャンセルしますか？"</string>
   <string name="image_loading_error">"Couldn't load image"</string>
   <string name="input_memo_hint">Enter additional reasons (optional)</string>
-  <string name="installing">Installing…</string>
+  <string name="installing">"インストール中…"</string>
   <string name="instruction">Enter the following address into FTP client: </string>
   <string name="instruction_pre">Touch to start FTP server</string>
   <string name="interest_recommend">Recommended videos</string>
@@ -298,7 +298,7 @@ Sorry for the inconvenience."</string>
   <string name="local_sticker_str">Offline</string>
   <string name="local_video">Video files</string>
   <string name="local_video_empty">No video clips on your device. Check out popular ones.</string>
-  <string name="login">Sign in</string>
+  <string name="login">"ログイン"</string>
   <string name="login_account_bind_skip">Skip</string>
   <string name="login_account_bind_tip">A good nickname and avatar will make your videos more popular</string>
   <string name="login_account_bind_title">Add a third party account</string>
@@ -485,8 +485,8 @@ and never miss the cool new ones!"</string>
   <string name="operation_compress">Compress</string>
   <string name="operation_compressing">Compressing…</string>
   <string name="operation_copy">"コピー"</string>
-  <string name="operation_copying">Copying…</string>
-  <string name="operation_copying_detail">Copying (%1$d/%2$d)</string>
+  <string name="operation_copying">"コピー中…"</string>
+  <string name="operation_copying_detail">"コピー中 (%1$d/%2$d)"</string>
   <string name="operation_create_folder">Create new folder</string>
   <string name="operation_create_folder_message">Name folder</string>
   <string name="operation_decompressing">Extracting…</string>
@@ -496,7 +496,7 @@ and never miss the cool new ones!"</string>
   <string name="operation_delete_confirm_message_folder">"All folder contents will be deleted. "</string>
   <string name="operation_deleting">"削除中…"</string>
   <string name="operation_deleting_detail">"削除中 (%1$d/%2$d)"</string>
-  <string name="operation_download_link">Create download link</string>
+  <string name="operation_download_link">"ダウンロードリンクを作成"</string>
   <string name="operation_favorite">Favorite</string>
   <string name="operation_hide_sys">"隠しファイルを非表示"</string>
   <string name="operation_info">"詳細"</string>
@@ -606,7 +606,7 @@ and never miss the cool new ones!"</string>
   <string name="rlv_pull_to_refresh">Pull down to refresh</string>
   <string name="rlv_refreshing">Refreshing…</string>
   <string name="rlv_release_to_refresh">Release to refresh</string>
-  <string name="save_to_local">Download</string>
+  <string name="save_to_local">"ダウンロード"</string>
   <string name="sd_card_available">Available: %1$s</string>
   <string name="sd_card_size">SD card: %1$s</string>
   <string name="sd_full">Your SD card is full.</string>

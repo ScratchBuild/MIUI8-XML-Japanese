@@ -260,8 +260,8 @@ Contact cards are turned off"</string>
   <string name="createContactShortcutSuccessful">"ホーム画面に連絡先ウィジェットを追加しました。"</string>
   <string name="create_group_dialog_title">"新しいグループの作成"</string>
   <string name="create_group_item_label">"新しいグループを作成"</string>
-  <string name="create_qrcode_fail_message">"Can't create QR code"</string>
-  <string name="create_voip_shortcut_success">Shortcut created</string>
+  <string name="create_qrcode_fail_message">"QRコードを作成できません"</string>
+  <string name="create_voip_shortcut_success">"ショートカットを作成しました"</string>
   <string name="customLabelPickerTitle">"新しいラベル名"</string>
   <string name="custom_list_filter">Define custom view</string>
   <string name="custom_nickname_hint">Enter nickname</string>
@@ -331,7 +331,7 @@ Contact cards are turned off"</string>
   <string name="description_view_contact">View contact %1$s</string>
   <string name="description_view_contact_detail">連絡先を参照</string>
   <string name="description_voicemail_button">Voicemail</string>
-  <string name="deselect_all">Deselect all</string>
+  <string name="deselect_all">"すべて選択を解除"</string>
   <string name="details_list_group_header_other">OTHER</string>
   <string name="device_bluetooth_title">Transfer contacts</string>
   <string name="device_brand_title">Choose a brand</string>
@@ -598,7 +598,7 @@ Contact cards are turned off"</string>
   <string name="menu_bar_group_delete">Delete</string>
   <string name="menu_bar_group_rename">Rename</string>
   <string name="menu_bar_group_ringtone">Group ringtone</string>
-  <string name="menu_bar_group_ringtone_largeui">Ringtone</string>
+  <string name="menu_bar_group_ringtone_largeui">"着信音"</string>
   <string name="menu_bar_group_sms">Group SMS</string>
   <string name="menu_call">"連絡先に発信"</string>
   <string name="menu_callNumber">Call %s</string>
@@ -962,8 +962,8 @@ To add a contact to your list of favorites:
   <string name="pull_to_refresh_pull_label">Pull to refresh</string>
   <string name="pull_to_refresh_refreshing_label">"読み込み中…"</string>
   <string name="pull_to_refresh_release_label">Release to refresh</string>
-  <string name="qr_card_card">QR code</string>
-  <string name="qrcode_card_title">QR code</string>
+  <string name="qr_card_card">"QRコード"</string>
+  <string name="qrcode_card_title">"QRコード"</string>
   <string name="qrcode_detail_menu_edit">QRコードを編集する</string>
   <string name="qrcode_detail_menu_scan">スキャン</string>
   <string name="qrcode_editor_flash">QRコードを更新しました</string>
@@ -1015,7 +1015,7 @@ To add a contact to your list of favorites:
   <string name="ret_sign">"
 "</string>
   <string name="returnCall">"発信"</string>
-  <string name="ringLabelsGroup">Ringtone</string>
+  <string name="ringLabelsGroup">"着信音"</string>
   <string name="save_photo_progress">Saving photo…</string>
   <string name="savingContact">"連絡先を保存しています..."</string>
   <string name="savingDisplayGroups">Saving display options…</string>
@@ -1053,7 +1053,7 @@ To add a contact to your list of favorites:
   <string name="search_smart_group_title">Contacts;Display</string>
   <string name="search_wipe_data">Organize;Contacts</string>
   <string name="searching_vcard_message">SDカード内のvCardデータを検索しています…</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">"すべて選択"</string>
   <string name="select_done">No more to select</string>
   <string name="select_groups">Select groups</string>
   <string name="select_none">Nothing selected</string>
@@ -1087,8 +1087,8 @@ To add a contact to your list of favorites:
   <string name="sim_capacity_content" formatted="false">%d total | %d used</string>
   <string name="sim_card_no_free_space_message">Not enough space</string>
   <string name="sim_card_no_free_space_title">SIM card full</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
+  <string name="sim_contact_dropdown_menu_deselect_all_miui">"すべて選択を解除"</string>
+  <string name="sim_contact_dropdown_menu_select_all_miui">"すべて選択"</string>
   <string name="sim_contact_existing">Contact already exists</string>
   <string name="sim_contact_invalid">Invalid SIM contact</string>
   <string name="sim_contact_search_error">An error occurred</string>

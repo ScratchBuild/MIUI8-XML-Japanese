@@ -35,10 +35,10 @@
   <string name="add_card">添加卡片</string>
   <string name="add_topic_success">订阅\"%s\"成功</string>
   <string name="adding_calendar">订阅中</string>
-  <string name="agenda_today">"今日, %1$s"</string>
-  <string name="agenda_tomorrow">"明日, %1$s"</string>
+  <string name="agenda_today">"今日: %1$s"</string>
+  <string name="agenda_tomorrow">"明日: %1$s"</string>
   <string name="agenda_view">"予定リスト"</string>
-  <string name="agenda_yesterday">"昨日, %1$s"</string>
+  <string name="agenda_yesterday">"昨日: %1$s"</string>
   <string name="alarm_label">"閉じる"</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">"期限切れ"</string>
@@ -75,7 +75,7 @@
   <string name="button_month">"月"</string>
   <string name="button_week">"週"</string>
   <string name="calendar_network_error">网络错误</string>
-  <string name="calendar_refresh">"同期"</string>
+  <string name="calendar_refresh">"更新"</string>
   <string name="calendar_server_error">服务器错误</string>
   <string name="can_not_create_long_event">Event content is too long</string>
   <string name="can_not_modify_allday_event">"終日の予定が変更できません"</string>
@@ -121,7 +121,7 @@
   <string name="date_pattern_mm_dd">M月d日</string>
   <string name="date_pattern_mm_dd_kk_mm">M月d日 HH:mm</string>
   <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
-  <string name="date_time_fmt" formatted="false">%s, %s</string>
+  <string name="date_time_fmt" formatted="false">%sの%s</string>
   <string name="day_view_new_event_hint">"新しい予定を追加"</string>
   <string name="default_reminder_mode">"リマインダー"</string>
   <string name="delete_calendar">退订</string>
@@ -171,7 +171,7 @@
   <string name="event_delete">"予定を削除"</string>
   <string name="event_edit">"予定を編集"</string>
   <string name="event_full_date_format">MM/dd/yyyy</string>
-  <string name="event_hide_more">Hide</string>
+  <string name="event_hide_more">"隠す"</string>
   <string name="event_info_descrip">Description\u0009\u0009\u0009</string>
   <string name="event_info_end">End\u0009\u0009\u0009</string>
   <string name="event_info_from">From</string>
@@ -263,9 +263,9 @@
   <string name="month_medium_november">"11月"</string>
   <string name="month_medium_october">"10月"</string>
   <string name="month_medium_september">" 9月"</string>
-  <string name="month_view">Month</string>
-  <string name="monthly">"毎月"</string>
-  <string name="monthly_on_day">Monthly (same date)</string>
+  <string name="month_view">"月"</string>
+  <string name="monthly">"月次"</string>
+  <string name="monthly_on_day">"毎月（%s日）"</string>
   <string name="monthly_on_day_count">Monthly (%1$s %2$s)</string>
   <string name="more_match">更多赛事</string>
   <string name="more_string">+%1$d</string>
@@ -326,7 +326,7 @@
   <string name="preferences_week_start_day_title">"週の開始日"</string>
   <string name="presence_label">"外部向け表示"</string>
   <string name="privacy_label">"公開設定"</string>
-  <string name="quick_response_custom_msg">Custom message…</string>
+  <string name="quick_response_custom_msg">"カスタム返信を作成…"</string>
   <string name="quick_response_dialog_title">"クイック返信の選択"</string>
   <string name="quick_response_email_failed">"メールプログラムが見つかりません"</string>
   <string name="quick_response_settings">"クイック返信"</string>
@@ -375,7 +375,7 @@
   <string name="setting_others">"その他"</string>
   <string name="setting_sms_import">导入短信事件</string>
   <string name="settings_calendar">Calendar</string>
-  <string name="show_day_view">Show day</string>
+  <string name="show_day_view">"日付を表示"</string>
   <string name="show_newer_events">"タップして%1$sより後の予定を表示"</string>
   <string name="show_older_events">"タップして%1$sより前の予定を表示"</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
@@ -400,7 +400,7 @@
   <string name="sync_notice_ok">Sync now</string>
   <string name="sync_notice_ok_toast_message">"ローカルカレンダーはMi Cloudと同期されます"</string>
   <string name="sync_notice_title">"カレンダーの同期"</string>
-  <string name="synced">"同期済"</string>
+  <string name="synced">"同期済み"</string>
   <string name="tab_category">分类</string>
   <string name="tab_local">我的</string>
   <string name="tab_online">推荐</string>
@@ -415,12 +415,12 @@
   <string name="time_zone">"タイムゾーン"</string>
   <string name="timezone_label">"タイムゾーン"</string>
   <string name="today">"今日"</string>
-  <string name="today_at_time_fmt">Today at %s</string>
+  <string name="today_at_time_fmt">"今日の%s"</string>
   <string name="today_flight_event">Flight</string>
   <string name="today_no_events">"予定なし"</string>
   <string name="today_train_event">Train</string>
   <string name="tomorrow">"明日"</string>
-  <string name="tomorrow_at_time_fmt">Tomorrow at %s</string>
+  <string name="tomorrow_at_time_fmt">"明日の%s"</string>
   <string name="topic_dialog_title">退订订阅</string>
   <string name="topic_list_header_label">订阅列表</string>
   <string name="travel_airport">"空港"</string>
@@ -461,7 +461,7 @@
   <string name="view_event_response_label">"参加しますか？"</string>
   <string name="week_view_today_toast">"You're currently viewing this week"</string>
   <string name="weekly">"毎週 %s"</string>
-  <string name="when_label">When</string>
+  <string name="when_label">"日時"</string>
   <string name="widget_events">"次の予定"</string>
   <string name="widget_no_events">"予定なし"</string>
   <string name="widget_select_style">"スタイルを選択"</string>
@@ -470,6 +470,6 @@
   <string name="wuxing">五行</string>
   <string name="xiaomi_calendar_display_name">"Mi Accountカレンダー"</string>
   <string name="xingxiu">星宿</string>
-  <string name="yearly">Yearly (every %s)</string>
+  <string name="yearly">"毎年（%s）"</string>
   <string name="yearly_plain">"毎年"</string>
 </resources>

@@ -10,7 +10,7 @@
   <string name="credential_name">"証明書名:"</string>
   <string name="credential_password">"証明書を抽出するためのパスワードを入力します。"</string>
   <string name="credential_usage_label">"認証情報の使用:"</string>
-  <string name="done_label">DONE</string>
+  <string name="done_label">"完了"</string>
   <string name="extracting_pkcs12">"抽出しています..."</string>
   <string name="install_done">"%1$sの認証情報をWi-Fi保存済みネットワークに追加しました。"</string>
   <string name="install_done_title">"認証情報のインストール完了"</string>
