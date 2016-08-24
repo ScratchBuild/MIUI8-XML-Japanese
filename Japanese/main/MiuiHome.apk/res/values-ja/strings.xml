@@ -95,13 +95,13 @@
   <string name="failed_to_load_image">"Can't load image"</string>
   <string name="folder_name">"フォルダ"</string>
   <string name="frame_load_failed">"フレームが読み込めません"</string>
-  <string name="free_style_apps_title">Choose app</string>
-  <string name="free_style_drawer_title">All apps</string>
-  <string name="free_style_edit_app">App</string>
+  <string name="free_style_apps_title">"アプリを選択"</string>
+  <string name="free_style_drawer_title">"すべてのアプリ"</string>
+  <string name="free_style_edit_app">"アプリ"</string>
   <string name="free_style_edit_bar_empty">Empty</string>
-  <string name="free_style_edit_bar_select_app">Choose app</string>
+  <string name="free_style_edit_bar_select_app">"アプリを選択"</string>
   <string name="free_style_edit_bottom_empty_tip">Tap rectangle to edit</string>
-  <string name="free_style_edit_drawer">Drawer</string>
+  <string name="free_style_edit_drawer">"ドロワー"</string>
   <string name="free_style_edit_move_tip">Touch &amp; hold to move an item</string>
   <string name="free_style_edit_tab_free_component">Objects</string>
   <string name="free_style_edit_tab_shortcut">"ショートカット"</string>
@@ -116,7 +116,7 @@
   <string name="gadget_clock_22_label">Clock 2x2</string>
   <string name="gadget_clock_24_label">Clock 4x2</string>
   <string name="gadget_clock_label">"時計"</string>
-  <string name="gadget_error_text">"Can't load widget"</string>
+  <string name="gadget_error_text">"ウィジェットが読み込めません"</string>
   <string name="gadget_google_search_label">"Google検索"</string>
   <string name="gadget_load_error">"読み込み中…"</string>
   <string name="gadget_mtz_label">Gadgets</string>
@@ -151,7 +151,7 @@
   <string name="home_screen">Home screen</string>
   <string name="image_too_small_message">"Original image isn't big enough"</string>
   <string name="install">"インストール"</string>
-  <string name="invalid_contact_shortcut">Invalid contact</string>
+  <string name="invalid_contact_shortcut">"無効な連絡先"</string>
   <string name="is_setting_wallpaper_message">"壁紙を設定中…"</string>
   <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
   <string name="like">Favorite</string>
@@ -197,7 +197,7 @@
   <string name="photo_adjust">"プレビュー"</string>
   <string name="photo_confirm">Set</string>
   <string name="photo_load_failed">"写真が読み込めません"</string>
-  <string name="pref_cell_layout_size">App icon layout</string>
+  <string name="pref_cell_layout_size">"アプリアイコンのレイアウト"</string>
   <string name="pref_enable_drawing_cache_summary">Turn off to free up memory. This may cause slower performance.</string>
   <string name="pref_enable_drawing_cache_title">Drawing cache</string>
   <string name="pref_icon_shadow_summary">Show app shadows and Favorites tray reflection effects</string>

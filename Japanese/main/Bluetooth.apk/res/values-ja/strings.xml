@@ -24,7 +24,7 @@
   <string name="bluetooth_map_settings_app_icon">"アプリアイコン"</string>
   <string name="bluetooth_map_settings_cancel">"キャンセル"</string>
   <string name="bluetooth_map_settings_count">"残りスロット数:"</string>
-  <string name="bluetooth_map_settings_intro">"Bluetoothを介して共有するメールアカウントを選択してください。接続中はアカウントへのアクセスをすべて承認する必要があります。"</string>
+  <string name="bluetooth_map_settings_intro">"Bluetoothを介して共有するアカウントを選択してください。接続中はアカウントへのアクセスをすべて承認する必要があります。"</string>
   <string name="bluetooth_map_settings_no_account_slots_left">"アカウントを選択できません。残りスロット数が0です"</string>
   <string name="bluetooth_map_settings_save">"保存"</string>
   <string name="bluetooth_map_settings_title">"Bluetoothメッセージ共有の設定"</string>
@@ -62,7 +62,7 @@
   <string name="device_picker">Bluetooth device settings</string>
   <string name="disconnect">Unpair</string>
   <string name="download_cancel">"停止"</string>
-  <string name="download_fail_line1">"ファイルを受信していません"</string>
+  <string name="download_fail_line1">"ファイルの受信に失敗"</string>
   <string name="download_fail_line2">"ファイル: %1$s"</string>
   <string name="download_fail_line3">"理由: %1$s"</string>
   <string name="download_fail_ok">"OK"</string>
@@ -155,7 +155,7 @@
   <string name="status_connection_error">"接続できませんでした。"</string>
   <string name="status_file_error">"ストレージのエラーです。"</string>
   <string name="status_forbidden">"転送先の端末で転送が禁止されています。"</string>
-  <string name="status_no_sd_card">"SDカードが見つかりません。転送ファイルを保存するSDカードを挿入してください。"</string>
+  <string name="status_no_sd_card">"USBストレージがありません。"</string>
   <string name="status_not_accept">"コンテンツはサポートされていません。"</string>
   <string name="status_pending">"ファイル転送はまだ開始されていません。"</string>
   <string name="status_protocol_error">"リクエストを正しく処理できません。"</string>

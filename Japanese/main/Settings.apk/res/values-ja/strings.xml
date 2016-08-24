@@ -704,7 +704,7 @@
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
   <string name="cancel">キャンセル</string>
   <string name="cancel_action">キャンセル</string>
-  <string name="cancel_alert">変更を破棄しますか</string>
+  <string name="cancel_alert">変更を破棄しますか？</string>
   <string name="cancel_download_buton_text">キャンセル</string>
   <string name="cant_sync_dialog_message">このアイテムの同期は現在無効になっています。この設定を変更するには、バックグラウンドデータと自動同期を一時的にONにします。</string>
   <string name="cant_sync_dialog_title">手動では同期できません</string>
@@ -1094,7 +1094,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">HWオーバーレイを無効</string>
   <string name="disable_overlays_summary">画面合成に常にGPUを使用する</string>
-  <string name="disable_power_key_long_press_under_keyguard">Turn off Power button menu</string>
+  <string name="disable_power_key_long_press_under_keyguard">電源ボタンのメニューをオフにする</string>
   <string name="disable_service_message">[OK]をタップすると%1$sが停止します。</string>
   <string name="disable_service_title">%1$sを停止しますか？</string>
   <string name="disable_text">無効にする</string>
@@ -1299,8 +1299,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="erase_optional">コンテンツ</string>
   <string name="erase_personal_data">個人データ</string>
   <string name="erase_personal_data_description">Miアカウント情報、アプリデータ、システム設定を削除します</string>
-  <string name="erase_sd_data">Format SD card</string>
-  <string name="erase_sd_data_description">Formatting will erase all files and data on the SD card</string>
+  <string name="erase_sd_data">SDカードをフォーマット</string>
+  <string name="erase_sd_data_description">フォーマットを行うと、SDカード上のすべてのファイルとデータが消去されます</string>
   <string name="erase_sure">個人データ</string>
   <string name="error_apn_empty">APNは必ず指定してください。</string>
   <string name="error_mcc_not3">MCC欄は3桁で指定してください。</string>
@@ -1393,7 +1393,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="force_touch_enable_tips">3D Touchが有効になっている間、ランチャー上でアプリアイコンを強く押すとショートカットメニューが表示されます。</string>
   <string name="forget">切断</string>
   <string name="forget_password_button_text"><u>パスワードを忘れた場合</u></string>
-  <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
+  <string name="forget_wifi_message">お使いの携帯電話は自動的でこのネットワークに接続しなくなります。</string>
   <string name="found_new_version">利用可能なアップデート</string>
   <string name="fp_nav_center_back_to_home_title">ホーム画面に戻るにはホームボタンをタップ</string>
   <string name="free_memory">空き</string>
@@ -1450,7 +1450,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="global_change_warning">この設定はこの端末上のすべてのユーザーに影響します。</string>
   <string name="global_font_change_title">フォントサイズの変更</string>
   <string name="global_locale_change_title">言語の変更</string>
-  <string name="google_backup_enable">Turn on backups</string>
+  <string name="google_backup_enable">バックアップをオンにする</string>
   <string name="google_backup_section_title">Googleバックアップとリセット</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to Wi-Fi</string>
   <string name="handy_mode">片手操作モード</string>
@@ -2133,7 +2133,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="network_scorer_change_active_no_previous_dialog_text">ネットワーク接続の管理に%sを使用しますか？</string>
   <string name="network_settings_title">モバイルネットワーク</string>
   <string name="network_state_label">ネットワークの状態:</string>
-  <string name="networkid_label">Network ID:</string>
+  <string name="networkid_label">ネットワークID:</string>
   <string name="networks">通信事業者の選択</string>
   <string name="networks_title">Cellular networks</string>
   <string name="never">Never</string>
@@ -2486,12 +2486,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="permission_detail_info_summary">セキュリティ %1$d | プライバシー %2$d | その他 %3$d</string>
   <string name="permission_manage">パーミッションマネージャー</string>
   <string name="permission_manage_global_build_title">その他のパーミッション</string>
-  <string name="permission_manage_summary">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
+  <string name="permission_manage_summary">連絡先の読み取り、通話履歴の表示、システム設定の変更、またはカメラやその他の端末のリソースへアクセスする場合には事前に許可を求めます</string>
   <string name="permission_manage_title">パーミッション %s</string>
   <string name="permission_manager">パーミッション</string>
   <string name="permission_mgr">パーミッション</string>
-  <string name="permission_settings_summary">Manage permissions related to location, storage, phone, messages, and contacts.</string>
-  <string name="permission_settings_title">App permissions</string>
+  <string name="permission_settings_summary">位置情報、ストレージ、電話、メッセージ、および連絡先に関連する権限を管理します。</string>
+  <string name="permission_settings_title">アプリの権限</string>
   <string name="permissions_label">許可</string>
   <string name="permit_draw_overlay">他のアプリの上に重ねて描画することを許可</string>
   <string name="permit_usage_access">使用状況へのアクセスを許可</string>
@@ -2744,7 +2744,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="really_remove_account_message">このアカウントを削除すると、メール、連絡先などのすべてのデータも携帯端末から削除されます。</string>
   <string name="really_remove_account_title">アカウントを削除しますか？</string>
   <string name="rebootiing_for_updates">再起動中…</string>
-  <string name="receiver_clean">Free up space</string>
+  <string name="receiver_clean">空き容量を確保</string>
   <string name="recent_location_requests_summary">位置情報にアクセスを要求しているアプリを表示</string>
   <string name="recent_location_requests_title">位置情報アクセス</string>
   <string name="recompute_size">サイズを再計算中...</string>
@@ -2753,7 +2753,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="remove_account_failed">この変更は管理者によって許可されていません</string>
   <string name="remove_account_label">アカウントを削除</string>
   <string name="remove_device_admin">無効にする</string>
-  <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
+  <string name="remove_from_frequently_fragment">クイック設定から%sを削除しますか？</string>
   <string name="remove_managed_profile_label">仕事用プロファイルを削除</string>
   <string name="repeat">繰り返し</string>
   <string name="repeat_title">繰り返し</string>
@@ -3852,7 +3852,7 @@ PINが正しくない可能性があります。"</string>
   <string name="usb_charging_title">充電のみ</string>
   <string name="usb_connection_category">次で接続:</string>
   <string name="usb_eject">USBストレージを取り出す</string>
-  <string name="usb_eject_summary">安全に除去するためにUSBストレージを取り出す</string>
+  <string name="usb_eject_summary">USBストレージのマウント解除（安全な取り外し）</string>
   <string name="usb_format">USBストレージのフォーマット</string>
   <string name="usb_format_summary">USBストレージ内のすべてのデータを消去する（音楽、写真など）</string>
   <string name="usb_host_mode_subtext">USBポートにゲームコントローラー等の周辺機器を接続すると、バッテリーの消費を早めることがあります</string>
@@ -3889,7 +3889,7 @@ PINが正しくない可能性があります。"</string>
   <string name="use_location_title">位置情報とGoogle検索</string>
   <string name="use_personalized_ad_service">個人用に最適化された広告</string>
   <string name="use_system_language_to_select_input_method_subtypes">システムの言語を使用</string>
-  <string name="use_this_wlan">Stay connected</string>
+  <string name="use_this_wlan">接続を維持する</string>
   <string name="user_account_title">コンテンツのアカウント</string>
   <string name="user_add_max_count">最大%1$d人のユーザーを追加できます</string>
   <string name="user_add_on_lockscreen_menu">端末のロック時にユーザーを追加</string>
@@ -4188,7 +4188,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_disabled_help">受信感度が低いためWi-Fiネットワークの接続は切断されました</string>
   <string name="wifi_disabled_network_failure">インターネット接続不良により無効</string>
   <string name="wifi_disabled_password_failure">認証に問題</string>
-  <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
+  <string name="wifi_disabled_wifi_failure">Wi-Fi接続に失敗しました</string>
   <string name="wifi_disconnected_notification_summary">Wi-Fiネットワークに接続していません。</string>
   <string name="wifi_disconnected_notification_title">Wi-Fiの接続が切断されました</string>
   <string name="wifi_display_autonomous_go">Wi-Fi Directグループオーナーを有効</string>
@@ -4572,7 +4572,7 @@ PINが正しくない可能性があります。"</string>
   <string name="zen_mode_from_none">なし</string>
   <string name="zen_mode_from_sms">"Messages from "</string>
   <string name="zen_mode_from_starred">スター付きの連絡先のみ</string>
-  <string name="zen_mode_important_category">Settings</string>
+  <string name="zen_mode_important_category">設定</string>
   <string name="zen_mode_messages">メッセージ</string>
   <string name="zen_mode_miui_silent_category">許可</string>
   <string name="zen_mode_option_alarms">アラームのみ</string>

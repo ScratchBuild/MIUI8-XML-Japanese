@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">"検索アプリプロバイダ"</string>
+  <string name="application_desc">"アプリケーション"</string>
+  <string name="search_label">"アプリ"</string>
+  <string name="settings_description">"インストールされているアプリケーション名"</string>
+</resources>

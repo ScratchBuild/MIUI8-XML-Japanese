@@ -2,31 +2,31 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>スキャン中...</item>
+        <item>接続中...</item>
+        <item>認証中...</item>
+        <item>IPアドレスを取得中...</item>
+        <item>接続済み</item>
+        <item>保留中</item>
+        <item>切断中...</item>
+        <item>切断されました</item>
+        <item>失敗しました</item>
+        <item>ブロック中</item>
+        <item>接続不良により一時的に無効</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>スキャン中...</item>
+        <item>%1$sに接続中...</item>
+        <item>%1$sによる認証中...</item>
+        <item>IPアドレスを%1$sから取得中...</item>
+        <item>%1$sに接続しました</item>
+        <item>保留中</item>
+        <item>%1$sから切断中...</item>
+        <item>切断されました</item>
+        <item>失敗しました</item>
+        <item>ブロック中</item>
+        <item>接続不良により一時的に無効</item>
     </string-array>
     <string-array name="status_bar_style_entries">
         <item>結合表示</item>
@@ -106,10 +106,10 @@
         <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+        <item>極大</item>
     </string-array>
     <string-array name="entryvalues_font_size">
         <item>small</item>
@@ -275,7 +275,7 @@
         <item>なし</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
+        <item>PAPまたはCHAP</item>
     </string-array>
     <string-array name="apn_auth_values">
         <item>0</item>
@@ -401,9 +401,9 @@
         <item>マイクをミュート/ミュート解除</item>
         <item>メディアの投影</item>
         <item>VPNの有効化</item>
-        <item>write wallpaper</item>
-        <item>assist structure</item>
-        <item>assist screenshot</item>
+        <item>壁紙の書き込み</item>
+        <item>ストラクチャのアシスト</item>
+        <item>スクリーンショットのアシスト</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>位置情報</item>
@@ -453,9 +453,9 @@
         <item>マイクをミュート/ミュート解除</item>
         <item>メディアの投影</item>
         <item>VPNの有効化</item>
-        <item>Write wallpaper</item>
-        <item>Assist structure</item>
-        <item>Assist screenshot</item>
+        <item>壁紙の書き込み</item>
+        <item>ストラクチャのアシスト</item>
+        <item>スクリーンショットのアシスト</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>短め</item>
@@ -471,9 +471,9 @@
         <item>デフォルト</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensed</item>
-        <item>Sans-serif monospace</item>
+        <item>Sans-serif固定幅</item>
         <item>Serif</item>
-        <item>Serif monospace</item>
+        <item>Serif固定幅</item>
         <item>カジュアル</item>
         <item>草書体</item>
         <item>スモールキャピタル</item>
@@ -712,16 +712,16 @@
     <string-array name="overlay_display_devices_entries">
         <item>なし</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (セキュア)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (セキュア)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (セキュア)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (セキュア)</item>
+        <item>4K (アップスケール)</item>
+        <item>4K (アップスケール、セキュア)</item>
+        <item>720p, 1080p (デュアルスクリーン)</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
@@ -884,12 +884,12 @@
         <item>キャッシュ済み（空）</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Teal</item>
-        <item>Blue</item>
-        <item>Indigo</item>
-        <item>Purple</item>
-        <item>Pink</item>
-        <item>Red</item>
+        <item>ティール</item>
+        <item>ブルー</item>
+        <item>インディゴ</item>
+        <item>パープル</item>
+        <item>ピンク</item>
+        <item>レッド</item>
     </string-array>
     <string-array name="usb_configuration_values">
         <item>none</item>
