@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_calllog_detail">Call history details</string>
+  <string name="accessibility_calllog_detail">"通話履歴の詳細"</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Phone</string>
   <string name="account_phone">電話のみ、非同期</string>
-  <string name="account_sim">SIM card</string>
-  <string name="account_sim2">SIM card %d</string>
+  <string name="account_sim">"SIMカード"</string>
+  <string name="account_sim2">"SIMカード %d"</string>
   <string name="account_type_format">"%1$sからの連絡先"</string>
   <string name="actionIncomingCall">着信</string>
   <string name="action_menu_overflow_description">More options</string>
@@ -28,9 +28,9 @@
   <string name="add_organization">"所属を追加"</string>
   <string name="add_to_my_contacts">"Myコンタクトに追加"</string>
   <string name="add_wait">Add wait</string>
-  <string name="add_xiaomi_account_dialog_btn">Use Mi Account</string>
-  <string name="add_xiaomi_account_dialog_msg">Back up your contacts to your Mi Account to access them from anywhere!</string>
-  <string name="add_xiaomi_account_dialog_title">Choose account</string>
+  <string name="add_xiaomi_account_dialog_btn">"Mi Accountを使用"</string>
+  <string name="add_xiaomi_account_dialog_msg">"Mi Accountに連絡先をバックアップすれば、どこからでもアクセスできます！"</string>
+  <string name="add_xiaomi_account_dialog_title">"アカウントを選択"</string>
   <string name="aggregation_suggestion_edit_dialog_message">"選択した連絡先の編集に切り替えますか？これまでに入力した情報はコピーされます。"</string>
   <string name="aggregation_suggestion_edit_dialog_title">Same name</string>
   <string name="aggregation_suggestion_join_dialog_message">"現在の連絡先を選択した連絡先に統合しますか？"</string>
@@ -44,7 +44,7 @@
   <string name="back_view_description">Go back</string>
   <string name="batch_delete">Delete batch</string>
   <string name="blacklist">Block</string>
-  <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
+  <string name="bluetooth_connection_failed_toast">"Bluetooth接続が中断されました"</string>
   <string name="blurbJoinContactDataWith">"%sと統合する連絡先を選択します:"</string>
   <string name="btn_rotation">Rotate</string>
   <string name="btn_split_contact">Separate</string>
@@ -185,9 +185,9 @@
   <string name="config_export_vcard_type">v30_generic</string>
   <string name="config_import_vcard_type">既定</string>
   <string name="config_prohibited_phone_number_regexp" />
-  <string name="confirm_delete_contact_all_call_logs">Clear call history?</string>
-  <string name="confirm_delete_selected_all_call_logs">Clear call history?</string>
-  <string name="confirm_delete_sim_entry_miui_title">Delete</string>
+  <string name="confirm_delete_contact_all_call_logs">"通話履歴を消去しますか？"</string>
+  <string name="confirm_delete_selected_all_call_logs">"通話履歴を消去しますか？"</string>
+  <string name="confirm_delete_sim_entry_miui_title">"削除"</string>
   <string name="confirm_export_message">連絡先リストは %s へエクスポートされます。</string>
   <string name="confirm_export_title">連絡先をエクスポートしますか？</string>
   <string name="connections">"連絡先情報"</string>
@@ -333,9 +333,9 @@ Contact cards are turned off"</string>
   <string name="description_voicemail_button">Voicemail</string>
   <string name="deselect_all">"すべて選択を解除"</string>
   <string name="details_list_group_header_other">OTHER</string>
-  <string name="device_bluetooth_title">Transfer contacts</string>
+  <string name="device_bluetooth_title">"連絡先を転送"</string>
   <string name="device_brand_title">Choose a brand</string>
-  <string name="device_import_account_dialog_title">Choose an account</string>
+  <string name="device_import_account_dialog_title">"アカウントを選択"</string>
   <string name="device_import_account_dialog_title_suffix">"
 (found %1$s contacts)"</string>
   <string name="device_import_failed_message">"Couldn't import"</string>
@@ -575,7 +575,7 @@ Contact cards are turned off"</string>
   <string name="local_profile_title">"ローカルプロフィール"</string>
   <string name="local_search_label">All contacts</string>
   <string name="locale_change_in_progress">"言語の変更に伴い連絡先リストを更新しています。"</string>
-  <string name="login_ok">Sign in</string>
+  <string name="login_ok">"ログイン"</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_leap">闰</string>
@@ -1167,13 +1167,13 @@ To add a contact to your list of favorites:
   <string name="title_other_devices">Other available devices</string>
   <string name="title_paired_devices">Paired devices</string>
   <string name="toast_call_detail_error">"Couldn't read details for the requested call"</string>
-  <string name="toast_copy_done">Done</string>
-  <string name="toast_copying">Copying…</string>
+  <string name="toast_copy_done">"完了"</string>
+  <string name="toast_copying">"コピー中…"</string>
   <string name="toast_displaying_all_contacts">"すべての連絡先を表示しています"</string>
-  <string name="toast_finish_delete_call_log">Call history cleared</string>
-  <string name="toast_finish_delete_selected_call_log">Call history cleared</string>
-  <string name="toast_for_failed_saving_nickname">"Couldn't save nickname"</string>
-  <string name="toast_for_saving_nickname">Nickname saved</string>
+  <string name="toast_finish_delete_call_log">"通話履歴を消去しました"</string>
+  <string name="toast_finish_delete_selected_call_log">"通話履歴を消去しました"</string>
+  <string name="toast_for_failed_saving_nickname">"ニックネームを保存できませんでした"</string>
+  <string name="toast_for_saving_nickname">"ニックネームを保存しました"</string>
   <string name="toast_join_with_empty_contact">"別の連絡先と統合するにはまず連絡先の名前を入力してください。"</string>
   <string name="toast_making_personal_copy">"個人用コピーを作成しています..."</string>
   <string name="toast_text_copied">"テキストをコピーしました"</string>
@@ -1188,7 +1188,7 @@ To add a contact to your list of favorites:
   <string name="unknow_phone_number_call_failed">"Can't call unknown number"</string>
   <string name="unknow_phone_number_mms_failed">"Can't send message to unknown number"</string>
   <string name="unknown">"不明"</string>
-  <string name="unknown_contact_name">Unknown contact</string>
+  <string name="unknown_contact_name">"不明な連絡先"</string>
   <string name="upgrade_in_progress">"連絡先リストを更新しています。"</string>
   <string name="upgrade_out_of_memory">"Contacts are in the process of being upgraded.
 

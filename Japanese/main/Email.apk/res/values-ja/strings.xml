@@ -85,7 +85,7 @@
   <string name="account_setup_failed_dlg_certificate_message_fmt">"サーバーへの安全な接続を確立できません。\n（%s）"</string>
   <string name="account_setup_failed_dlg_device_locked">"\"ログインできませんでした。このアカウントはロックされています。\"​"</string>
   <string name="account_setup_failed_dlg_edit_details_action">"設定を編集"</string>
-  <string name="account_setup_failed_dlg_error_code">Error code: %s</string>
+  <string name="account_setup_failed_dlg_error_code">"エラーコード: %s"</string>
   <string name="account_setup_failed_dlg_server_message">"サーバーに接続できません。"</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"サーバーに接続できません。\n（%s）"</string>
   <string name="account_setup_failed_dlg_title">"完了できませんでした"</string>
@@ -112,7 +112,7 @@
   <string name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS（証明書をすべて承認）"</string>
   <string name="account_setup_incoming_server_label">"サーバー"</string>
   <string name="account_setup_incoming_username_label">"ユーザー名"</string>
-  <string name="account_setup_incoming_username_label_default_hint">You may include domain</string>
+  <string name="account_setup_incoming_username_label_default_hint">"ドメインを含めることができます"</string>
   <string name="account_setup_need_password_verification">Your account has secondary password authentication. Authentication is required.</string>
   <string name="account_setup_options_mail_check_frequency_10min">"10分ごと"</string>
   <string name="account_setup_options_mail_check_frequency_12hour">"12時間ごと"</string>
@@ -160,9 +160,9 @@
   <string name="application_mime_type">application/email-ls</string>
   <string name="archive">Archive</string>
   <string name="archived">Archived</string>
-  <string name="att_download_failed_content">"Couldn't download the attachment for this message."</string>
+  <string name="att_download_failed_content">"このメッセージの添付ファイルをダウンロードできませんでした。"</string>
   <string name="att_download_failed_network_slow">Connection speed too slow, try again later</string>
-  <string name="att_download_failed_permission_denied">"Don't have permissions to access external storage"</string>
+  <string name="att_download_failed_permission_denied">"外部ストレージにアクセスするための権限がありません"</string>
   <string name="att_download_failed_title">"Can't download attachment"</string>
   <string name="att_file_not_exists">"Couldn't find %s"</string>
   <string name="att_mgr_no_attachment">No attachments.</string>
@@ -261,7 +261,7 @@
   <string name="contact_edit_set_black_list_title">"ブロックリストに追加"</string>
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
   <string name="contact_edit_title_phone_contact">Phone contacts list</string>
-  <string name="contact_in_filter_call_phone_str">Call from %s</string>
+  <string name="contact_in_filter_	_str">Call from %s</string>
   <string name="contact_in_filter_title">"送信者"</string>
   <string name="contact_info_string">Show contact information for %1$s</string>
   <string name="contact_info_string_default">"連絡先の情報を表示"</string>
@@ -366,7 +366,7 @@
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
   <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
-  <string name="empty_account_tip">"Couldn't find account"</string>
+  <string name="empty_account_tip">"アカウントが見つかりませんでした"</string>
   <string name="empty_email_tip">"Can't send blank message"</string>
   <string name="empty_spam">Empty Spam</string>
   <string name="empty_spam_dialog_title">Empty Spam?</string>
@@ -500,7 +500,7 @@
   <string name="load_more">Load more</string>
   <string name="loading_conversation">"読み込み中…"</string>
   <string name="loading_conversations">"読み込み中…"</string>
-  <string name="loading_from_remote">Searching…</string>
+  <string name="loading_from_remote">"検索中…"</string>
   <string name="local_search">Local search</string>
   <string name="local_search_result">%s results in synced messages</string>
   <string name="login">"ログイン"</string>
@@ -751,7 +751,7 @@
   <string name="preferences_signature_title">Signature</string>
   <string name="preview_attachment">"プレビュー"</string>
   <string name="previous_action">"戻る"</string>
-  <string name="print">Print</string>
+  <string name="print">"印刷"</string>
   <string name="prompt_title">Prompt</string>
   <string name="protocol_eas">eas</string>
   <string name="protocol_imap">imap</string>
@@ -816,9 +816,9 @@
   <string name="recipient_needed_title">Warn</string>
   <string name="reduce_the_receiving_frequencye_summary">Sync inbox less frequently while Do not disturb is on</string>
   <string name="reduce_the_receiving_frequencye_title">Sync less frequently</string>
-  <string name="refresh">Refresh</string>
-  <string name="refreshing">Refreshing…</string>
-  <string name="refreshing_done">"完了ｆ"</string>
+  <string name="refresh">"更新"</string>
+  <string name="refreshing">"更新中…"</string>
+  <string name="refreshing_done">"完了"</string>
   <string name="release_to_refresh">Release to refresh</string>
   <string name="remote_search_result">%s results on server</string>
   <string name="remove_account">Remove account</string>
@@ -844,7 +844,7 @@
   <string name="save_power_summary">Set power saving time</string>
   <string name="save_power_title">Battery saver</string>
   <string name="saved">Saved,  %s</string>
-  <string name="saving">Saving…</string>
+  <string name="saving">"保存中…"</string>
   <string name="sdcard_cannot_use">"Can't use SD card"</string>
   <string name="search_hint">Search mail</string>
   <string name="search_result">"Results "</string>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_account_desc">Sync your notes with your Mi Account?</string>
+  <string name="add_account_desc">"Mi Accountを使用してノートを同期しますか？"</string>
   <string name="alarm_bar_title">"リマインダー"</string>
   <string name="alert_action_edit_anyway">"編集を続ける"</string>
   <string name="alert_edit_action_delete">"削除"</string>
   <string name="alert_edit_action_update">"変更"</string>
-  <string name="alert_message_delete">Delete %1$s?</string>
+  <string name="alert_message_delete">"%1$sを削除しますか？"</string>
   <string name="alert_message_delete_note">"このノートを削除しますか？"</string>
   <string name="alert_message_edit_anyway">"このノートを編集した場合、内容の一部が失われる可能性があります。"</string>
   <string name="alert_title_delete">"ノートを削除しますか？"</string>
   <string name="alert_title_edit_anyway">"このノートにはサポートされていないコンテンツが含まれています"</string>
-  <string name="all_terms">%1$s and %2$s</string>
+  <string name="all_terms">"%1$s と %2$s"</string>
   <string name="app_name">"ノート"</string>
   <string name="app_widget">"ノート"</string>
   <string name="attachment_camera">"写真を撮影"</string>
@@ -31,14 +31,14 @@
   <string name="dlg_stick_message">Pinning…</string>
   <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
   <string name="dlg_unmark_privacy_message">Unhiding…</string>
-  <string name="empty_folder_hint">"No folders
-Tap the plus to create a folder"</string>
+  <string name="empty_folder_hint">"フォルダがありません
+フォルダを作成するには＋をタップ"</string>
   <string name="empty_note_mark_privacy_error">"空のノートは非表示にできません"</string>
-  <string name="enable_sync">Sync</string>
-  <string name="enable_sync_desc">Sync your notes with your Mi Account (%1$s)?</string>
+  <string name="enable_sync">"同期"</string>
+  <string name="enable_sync_desc">"Mi Account(%1$s)を使用してノートを同期しますか？"</string>
   <string name="error_contact_not_exist">"連絡先が存在しません"</string>
-  <string name="error_note_empty_for_clock">"Can't set reminder time for an empty note"</string>
-  <string name="error_note_empty_for_send_to_desktop">"Empty notes can't be placed on Home screen"</string>
+  <string name="error_note_empty_for_clock">"空のノートにリマインダーは設定できません"</string>
+  <string name="error_note_empty_for_send_to_desktop">"空のノートはホーム画面に設置できません"</string>
   <string name="error_note_not_exist">"ノートが存在しません"</string>
   <string name="error_unsupport_content">This note contains unsupported content, touch here to update</string>
   <string name="error_widget_exist_for_send_to_desktop">"このノートは既にホーム画面に設置済みです"</string>
@@ -123,9 +123,9 @@ Tap the plus to create a folder"</string>
   <string name="sns_message_disconnect">"ネットワークに接続できません。接続を確認して、もう一度やり直してください。"</string>
   <string name="sns_title_edit">"件名を編集"</string>
   <string name="sns_title_send">"メッセージを送信"</string>
-  <string name="sns_toast_empty">"Can't send empty message"</string>
-  <string name="sns_toast_over_limit">Sent as image</string>
-  <string name="sync_tips">Tap to sync notes with Mi Cloud.</string>
+  <string name="sns_toast_empty">"空のメッセージを送信することはできません"</string>
+  <string name="sns_toast_over_limit">"画像として送信"</string>
+  <string name="sync_tips">"Mi Cloudとメモを同期するにはタップします。"</string>
   <string name="theme_title_antique">Autumn</string>
   <string name="theme_title_arty">Floral</string>
   <string name="theme_title_blue">Blue</string>
@@ -140,7 +140,7 @@ Tap the plus to create a folder"</string>
   <string name="toast_mark_privacy_notes">Hidden successfully</string>
   <string name="toast_mark_privacy_notes_count">Hid %1$s successfully</string>
   <string name="toast_message_add_image_fail">"画像を追加できません"</string>
-  <string name="toast_message_add_text_warn">"This type of file isn't supported"</string>
+  <string name="toast_message_add_text_warn">"この種類のファイルはサポートされていません"</string>
   <string name="toast_notes_delete_success">Deleted successfully</string>
   <string name="toast_reach_text_limit_attachment">"Can't add new attachments because note is too long"</string>
   <string name="toast_reach_text_limit_truncate">This note is too long. Some text has been cut off of the end.</string>
@@ -148,9 +148,9 @@ Tap the plus to create a folder"</string>
   <string name="toast_unmark_privacy_notes_count">Unhid %1$s successfully</string>
   <string name="undo">"元に戻す"</string>
   <string name="unknown_source">"不明なソース"</string>
-  <string name="welcome_note_for_cm">"And more great features!
-  - Sync with Mi Cloud
-  - Set reminders"</string>
+  <string name="welcome_note_for_cm">"もっと便利な機能！
+  - Mi Cloudとの同期
+  - リマインダーを設定"</string>
   <string name="widget_content_loading">"読み込み中…"</string>
   <string name="widget_havenot_content">"タップでノートを作成。ウィジェットを長押しでリサイズ。"</string>
   <string name="widget_under_privacy_mode">"ゲストモードでノートを表示する事はできません"</string>

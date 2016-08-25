@@ -24,7 +24,7 @@ or enter App lock password"</string>
   <string name="activity_title_antivirus">Virus scan</string>
   <string name="activity_title_apps_manager">Apps</string>
   <string name="activity_title_auto_start_manager">Autostart</string>
-  <string name="activity_title_create_shortcut">Manage shortcuts</string>
+  <string name="activity_title_create_shortcut">"ショートカットを管理"</string>
   <string name="activity_title_default_apps_manager">Default apps</string>
   <string name="activity_title_garbage_cleanup">Cleaner</string>
   <string name="activity_title_license_manager">Permissions</string>
@@ -44,15 +44,15 @@ or enter App lock password"</string>
   <string name="activity_title_root_note">About root access</string>
   <string name="activity_title_safepay">Payment security</string>
   <string name="activity_title_settings">"設定"</string>
-  <string name="activity_title_system">System</string>
-  <string name="activity_title_trash">Cache</string>
+  <string name="activity_title_system">"システム"</string>
+  <string name="activity_title_trash">"キャッシュ"</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Virus detail</string>
   <string name="activity_title_virus_settings">"設定"</string>
   <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Data roaming exceptions</string>
-  <string name="add_white_list">Add</string>
+  <string name="add_white_list">"追加"</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Updated over a month ago</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Updated over a week ago</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Updated 1 week ago</string>
@@ -74,8 +74,8 @@ or enter App lock password"</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Upload and scan app names and details using online virus definitions.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">"This feature encrypts and uploads your device's ID to AVL and Tencent's servers (%s)."</string>
-  <string name="antivirus_privacy_dialog_summary_link">view Privacy Policy</string>
-  <string name="antivirus_privacy_dialog_title">Privacy Policy</string>
+  <string name="antivirus_privacy_dialog_summary_link">"プライバシーポリシーを表示"</string>
+  <string name="antivirus_privacy_dialog_title">"プライバシーポリシー"</string>
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">"Test carrier's Access Point Name configurations"</string>
@@ -166,13 +166,13 @@ or enter App lock password"</string>
   <string name="brightness_auto_adjust_off">Brightness will remain constant in all surroundings</string>
   <string name="brightness_auto_adjust_on">Optimize brightness level for available light</string>
   <string name="btn_finish_diagnostic">OK</string>
-  <string name="btn_jump">Skip</string>
+  <string name="btn_jump">"スキップ"</string>
   <string name="btn_lock">Add lock</string>
   <string name="btn_start_diagnostic">Test network</string>
-  <string name="btn_stop_diagnostic">Stop</string>
+  <string name="btn_stop_diagnostic">"停止"</string>
   <string name="btn_text_already_opened">On</string>
   <string name="btn_text_cleanup_all">Clean up</string>
-  <string name="btn_text_done">Done</string>
+  <string name="btn_text_done">"完了"</string>
   <string name="btn_text_goto_power_rank">View battery ranking</string>
   <string name="btn_text_goto_setup">Go to Settings</string>
   <string name="btn_text_network_speed_detail">Connection</string>
@@ -186,7 +186,7 @@ or enter App lock password"</string>
   <string name="btn_text_quick_save_power">Cool down</string>
   <string name="btn_text_quick_scan">Scan</string>
   <string name="btn_text_start_check">Scan</string>
-  <string name="btn_text_stop">Stop</string>
+  <string name="btn_text_stop">"停止"</string>
   <string name="btn_text_virus_scan">Scan</string>
   <string name="button_text_accept">Accept</string>
   <string name="button_text_accept_timer">Accept (%d)</string>
@@ -239,7 +239,7 @@ or enter App lock password"</string>
   <string name="connect_internet_by_mobiledata">Mobile data connection</string>
   <string name="connect_internet_by_usbshare">Shared internet over USB</string>
   <string name="connect_internet_by_wifi">WLAN</string>
-  <string name="continue_install">Install</string>
+  <string name="continue_install">"インストール"</string>
   <string name="convenient_mode">Unlock all apps at once</string>
   <string name="convenient_summary">"Don't require password after 1 app has been unlocked"</string>
   <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
@@ -308,9 +308,9 @@ For more info check the message you received from your carrier"</string>
   <string name="deep_clean_never_memory_clean">Never</string>
   <string name="deep_save_memory_clean_summary">Clear cache when you lock device to prevent apps from using battery</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Schedule time to turn device on and off</string>
-  <string name="delete">Delete</string>
+  <string name="delete">"削除"</string>
   <string name="delete_from_manual_item_white_list">Remove from exceptions</string>
-  <string name="deleted_apps">Deleted apps</string>
+  <string name="deleted_apps">"削除したアプリ"</string>
   <string name="descx_cleanuping_item">Optimizing %s</string>
   <string name="descx_finish_cleanup_cache">Finishing cache optimization</string>
   <string name="descx_finish_cleanup_memory">Finishing memory optimization</string>
@@ -341,7 +341,7 @@ For more info check the message you received from your carrier"</string>
   <string name="dialog_roaming_title">Overseas roaming</string>
   <string name="dialog_title_attention">Attention</string>
   <string name="dialog_title_auto_start_declare">About autostart</string>
-  <string name="dialog_title_stop_paysafety_scan">Stop</string>
+  <string name="dialog_title_stop_paysafety_scan">"停止"</string>
   <string name="dialog_title_stop_virus_scan">Stop virus scan</string>
   <string name="disable_air_mode">Turn Airplane mode off first</string>
   <string name="dns_exception_summary">"Check router's DNS settings"</string>
@@ -602,16 +602,16 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_item_app_details">Details</string>
   <string name="menu_item_app_permissions_control">Permission manager</string>
   <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
-  <string name="menu_item_force_stop">Force stop</string>
+  <string name="menu_item_force_stop">"強制停止"</string>
   <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
   <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
   <string name="menu_item_notification_garbage_text">%s</string>
-  <string name="menu_item_notification_garbage_text_error">Error</string>
+  <string name="menu_item_notification_garbage_text_error">"エラー"</string>
   <string name="menu_item_notification_power_text">Power</string>
   <string name="menu_item_notification_title">Show menu in notification shade</string>
   <string name="menu_item_settings_title">"設定"</string>
   <string name="menu_item_shortcut_summary">Place features on your Home screen</string>
-  <string name="menu_item_shortcut_title">Manage shortcuts</string>
+  <string name="menu_item_shortcut_title">"ショートカットを管理"</string>
   <string name="menu_item_uninstall">Uninstall</string>
   <string name="menu_item_virus_cloud_scan_summary">Upload app names and details and scan using online virus definitions</string>
   <string name="menu_item_virus_cloud_scan_title">Online definitions</string>
@@ -676,9 +676,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
  2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
 
  3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
-  <string name="network_speed_for_apps_close">Force stop</string>
-  <string name="network_speed_for_apps_close_app_dlg_msg">Force stop this app?</string>
-  <string name="network_speed_for_apps_close_system_app_dlg_msg">"Can't force stop system apps."</string>
+  <string name="network_speed_for_apps_close">"強制停止"</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">"このアプリを強制停止しますか？"</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">"システムアプリを強制停止することはできません。"</string>
   <string name="network_speed_for_apps_others">Other</string>
   <string name="network_speed_for_apps_title">Connection</string>
   <string name="network_speed_for_apps_total">Connection speed</string>
@@ -773,7 +773,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_analysis_suggestion_need_optimize">Battery usage issues detected.</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analyze battery usage</string>
-  <string name="power_cell">Cell standby</string>
+  <string name="power_cell">"セルスタンバイ"</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
   <string name="power_center_battery_full">Battery fully charged</string>
   <string name="power_center_charge_time">%1$s until full</string>
@@ -816,9 +816,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_optimize_save_on_lockscreen">Save power when device is locked</string>
   <string name="power_phone">Voice calls</string>
   <string name="power_save_mode_enable">Battery saver</string>
-  <string name="power_save_mode_end_time">End</string>
+  <string name="power_save_mode_end_time">"終了"</string>
   <string name="power_save_mode_ontime_enabled">Schedule time to switch between modes</string>
-  <string name="power_save_mode_start_time">Start</string>
+  <string name="power_save_mode_start_time">"開始"</string>
   <string name="power_save_mode_summary" formatted="false">Monitor background processes, and turn off sync. Battery saver will turn off automatically when battery is 60% or 100% charged.</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary_na">To</string>
@@ -953,8 +953,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="preferred_app_entries_messaging">Messaging</string>
   <string name="preferred_app_entries_music">Music</string>
   <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=%s&gt; Terms of Service&lt;/a&gt;."</string>
-  <string name="privacy_declare_dialog_title">Terms of Service</string>
-  <string name="privacy_mode_dialog_title">Guest mode</string>
+  <string name="privacy_declare_dialog_title">"利用規約"</string>
+  <string name="privacy_mode_dialog_title">"ゲストモード"</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
   <string name="privacy_prompt_traffic_adjust_message">"This feature needs to encrypt and send your device's IMEI, phone number, and carrier information to Mi's servers in order get data usage stats from your carrier."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
@@ -1072,7 +1072,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="settings_battery_consume_abnormal_title">Battery drain notifications</string>
   <string name="settings_battery_over_heat_summary">Receive notifications when device gets hotter than normal</string>
   <string name="settings_battery_over_heat_title">Heating notifications</string>
-  <string name="settings_category_other">Other settings</string>
+  <string name="settings_category_other">"その他の設定"</string>
   <string name="settings_category_overheat">Heating</string>
   <string name="settings_choice_no_notification">Off</string>
   <string name="settings_power_save_ontime_title">Schedule</string>
@@ -1080,7 +1080,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="settings_title_permission">Permissions settings</string>
   <string name="show_traffic_dialog_message">Your data usage info will be displayed in the notification shade. You can turn this feature on or off anytime in Data usage &gt; Settings</string>
   <string name="show_traffic_dialog_title">Show usage in notification shade</string>
-  <string name="showpattern">Show pattern</string>
+  <string name="showpattern">"パターンを表示"</string>
   <string name="shutdown_cancel_reminder">"Didn't power off"</string>
   <string name="shutdown_cancel_reminder_detail">"Device didn't power off because you were in the middle of a call"</string>
   <string name="shutdown_time">Off at %1$s</string>
@@ -1111,8 +1111,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sp_settings_title_input_method">Secure IME</string>
   <string name="spinner_title">%1$s - Mobile data: %2$s</string>
   <string name="st_title_mode_choose_group">Choose profile</string>
-  <string name="start_diagnostic_botton">Start</string>
-  <string name="stop_app_button">Stop</string>
+  <string name="start_diagnostic_botton">"開始"</string>
+  <string name="stop_app_button">"停止"</string>
   <string name="suffix_pay_risk_count_bottom">risks</string>
   <string name="suffix_pay_risk_count_top">payment</string>
   <string name="suffix_virus_count_bottom">total</string>
@@ -1351,7 +1351,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_get_template_falure">"Can't connect to network. Check your data connection and try again."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"二度と表示しない"</string>
   <string name="traffic_setting_fragment_loading_text">Getting network info…</string>
-  <string name="traffic_setting_fragment_no_network">"Can't connect to network"</string>
+  <string name="traffic_setting_fragment_no_network">"ネットワークに接続できません"</string>
   <string name="traffic_setting_fragment_null">Empty</string>
   <string name="traffic_setting_fragment_operator">Carrier</string>
   <string name="traffic_setting_fragment_send_num">Carrier phone number</string>
