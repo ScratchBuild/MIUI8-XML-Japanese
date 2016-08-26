@@ -165,6 +165,7 @@
   <string name="clip_dialog_title">Dial copied number?</string>
   <string name="close_dial_pad_description">Close dial pad</string>
   <string name="cloud_antispam_mark">Flag</string>
+  <string name="cloud_antispam_marked">Flagged</string>
   <string name="cloud_antispam_title">Caller ID</string>
   <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
   <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
@@ -203,6 +204,7 @@
   <string name="contact_detail_action_item_nocalllog">No history</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
   <string name="contact_detail_calllog_call_record_tips">Record call</string>
+  <string name="contact_detail_calllog_empty">No history</string>
   <string name="contact_detail_menu_delete_miprofile">Delete card</string>
   <string name="contact_detail_miprofile_accept">Exchange contact cards</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Couldn't exchange contact cards"</string>
@@ -457,6 +459,7 @@ Contact cards are turned off"</string>
   <string name="frequentList">"よく使う連絡先"</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">名前</string>
+  <string name="gallery">Gallery</string>
   <string name="generic_no_account_prompt">"携帯端末を紛失したときにも連絡先を保護するため、オンラインサービスと同期させます。"</string>
   <string name="generic_no_account_prompt_title">"アカウントの追加"</string>
   <string name="ghostData_company">会社</string>
@@ -499,7 +502,6 @@ Contact cards are turned off"</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">"IMEI: "</string>
-  <string name="imei_invalid">Invalid IMEI</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">全てのvCardファイルをインポートする</string>
   <string name="import_contact_card_aggregate_suggestion_button">Merge cards</string>
@@ -586,7 +588,6 @@ Contact cards are turned off"</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
   <string name="meid">"MEID: "</string>
-  <string name="meid_invalid">Invalid MEID</string>
   <string name="menuMoreDescription">More</string>
   <string name="menu_accounts">アカウント</string>
   <string name="menu_addStar">"お気に入りに追加"</string>
@@ -1040,6 +1041,7 @@ To add a contact to your list of favorites:
   <string name="search_import_from_other_phone">Contacts;Import;other phone</string>
   <string name="search_import_from_sdcard">Contacts;Import;storage</string>
   <string name="search_import_from_sim">Contacts;Import;SIM card</string>
+  <string name="search_input_hint">You can search phone numbers or services</string>
   <string name="search_key_photo_word">Assign;contact;photos;Contacts</string>
   <string name="search_key_rebuild_t9_index_title">Organize;Contacts;t9</string>
   <string name="search_key_sim_manage">Organize;Contacts</string>

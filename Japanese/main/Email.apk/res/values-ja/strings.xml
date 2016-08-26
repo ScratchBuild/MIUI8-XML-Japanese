@@ -144,6 +144,7 @@
   <string name="actionbar_large_unread_count">"未読 %1$d+"</string>
   <string name="activity_folder_selection">"フォルダを選択"</string>
   <string name="activity_mailbox_selection">"アカウントを選択"</string>
+  <string name="ad_merge">AD&amp;Notice Organize</string>
   <string name="add_account">"アカウントを追加"</string>
   <string name="add_account_keywords">Add account;add mail account</string>
   <string name="add_attachment">"添付ファイルを追加"</string>
@@ -223,8 +224,6 @@
   <string name="changepw_dialog_tips">Re-enter password for %s</string>
   <string name="chat_item_msg_people_unit">people</string>
   <string name="chat_item_msg_user_etc">etc.</string>
-  <string name="chat_view_description">View email threads as conversation bubbles</string>
-  <string name="chat_view_title">Conversation view</string>
   <string name="check_setup_data">"サーバー設定を確認しています…"</string>
   <string name="choosertitle_sharevia">Share using</string>
   <string name="clear">Clear</string>
@@ -237,6 +236,7 @@
   <string name="colon">:</string>
   <string name="compose">Compose</string>
   <string name="compose_attachment_number_limit">"Can't add more than 10 attachments"</string>
+  <string name="compose_paste_address_oob">You paste the character is too long, has been truncated</string>
   <string name="compose_picturesexceedlimits">"Can't exceed 5 in-line images in message"</string>
   <string name="compose_send">Send</string>
   <string name="compose_sent">Mail sent</string>
@@ -614,7 +614,7 @@
   <string name="message_invite_title">Calendar invite</string>
   <string name="message_saved">Message saved as draft.</string>
   <string name="message_view_attachment_background_load">"送信前に転送メッセージの添付ファイルがダウンロードされます。"</string>
-  <string name="mibill_privacy_policy_button1">"Don't agree"</string>
+  <string name="mibill_privacy_policy_button1">Later</string>
   <string name="mibill_privacy_policy_button2">Agree</string>
   <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
   <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our "<a href="https://www.mipay.com/res/doc/eula/email.html">Terms of Service</a></string>
@@ -786,6 +786,7 @@
   <string name="quick_reply_hint">Reply to all %1$d people</string>
   <string name="quick_reply_hint_bcc">(In BCC)</string>
   <string name="quick_reply_hint_cc">(In CC)</string>
+  <string name="quick_reply_hint_reply_only_from">Quick reply (sender only)</string>
   <string name="quick_responses_empty_view">"クイック返信がありません。"</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"></string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
@@ -874,6 +875,11 @@
   <string name="sending_message">"メッセージを送信中…"</string>
   <string name="sent_folder_selection_title">"%sのサーバーの送信済みフォルダを選択してください"</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate\n\u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
+  <string name="ser_resp_err_map_landing_more_failure">Too many unsuccessful sign in attempts</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Too many sign in attempts</string>
+  <string name="ser_resp_err_map_mailbox_locked">Email account is password protected</string>
+  <string name="ser_resp_err_map_mailbox_not_open">No email accounts</string>
+  <string name="ser_resp_err_map_max_connections">Too many connection attempts</string>
   <string name="ser_resp_err_map_nouser">"User doesn't exist"</string>
   <string name="ser_resp_err_map_or">"%1$s または %2$s"</string>
   <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
@@ -927,7 +933,6 @@
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Touch to set up.</string>
   <string name="tap_to_enable_sync">Touch to turn on.</string>
-  <string name="tip_cannot_switchview_in_unread_folder">Unable to switch view in unread mail aggregation mode</string>
   <string name="to">To</string>
   <string name="to_heading">"To: "</string>
   <string name="toast_bar_fail_synchronization">"Can't connect to the network"</string>
@@ -938,6 +943,7 @@
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
   <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
+  <string name="topic_merge">Merge themes</string>
   <string name="trash_folder_selection_title">"%sのサーバーのゴミ箱フォルダを選択してください"</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>

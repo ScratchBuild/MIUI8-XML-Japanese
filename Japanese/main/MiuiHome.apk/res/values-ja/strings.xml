@@ -25,11 +25,8 @@
   <string name="apply">Set</string>
   <string name="apply_action">Set</string>
   <string name="apply_as_lock_screen">Set as lock screen</string>
-  <string name="apply_as_lock_wallpaper_message">Set this wallpaper on lock screen too?</string>
-  <string name="apply_as_lockwallpaper_action">Set</string>
   <string name="apply_as_wallpaper">Set as Home screen</string>
   <string name="apply_both">Set both</string>
-  <string name="apply_negative_action">"Don't set"</string>
   <string name="aqi_quality_index_dangerous">Dangerous</string>
   <string name="aqi_quality_index_good">Good</string>
   <string name="aqi_quality_index_hazardous">Hazardous</string>

@@ -21,7 +21,6 @@
   <string name="browser_local_resource">Local resources</string>
   <string name="change_host_hint">Change host</string>
   <string name="change_wallpaper">Wallpaper</string>
-  <string name="choose_new_themes">"テーマ"</string>
   <string name="close">"閉じる"</string>
   <string name="component_backup_preference_title">Back up theme</string>
   <string name="component_category_finest_title">GENERAL</string>
@@ -164,6 +163,7 @@
   <string name="resource_comment_upload_not_logined">"初めにログインする必要があります"</string>
   <string name="resource_comment_upload_success">"あなたのコメントは、簡単な審査の後に表示されます。"</string>
   <string name="resource_continue">"次へ"</string>
+  <string name="resource_data_empty">The content is empty.</string>
   <string name="resource_default">"デフォルトの着信音"</string>
   <string name="resource_default_name">Resource</string>
   <string name="resource_delete">"削除"</string>
@@ -179,7 +179,6 @@
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Same author</string>
   <string name="resource_detail_recommend_desiner_other_themes">Themes designed by %1$s</string>
-  <string name="resource_detail_recommend_desiner_themes">%1$s themes</string>
   <string name="resource_detail_recommend_other_themes">Users also liked</string>
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_vertical_divider">|</string>

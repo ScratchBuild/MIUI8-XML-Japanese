@@ -207,6 +207,7 @@
   <string name="hms_add_image_progress_message">作動中...</string>
   <string name="hms_first_use_tips">"サービスメッセージを受信するには、Wi-Fiネットワークに接続する必要があります。"</string>
   <string name="hms_uri_param_err">"URLが空欄のままです。"</string>
+  <string name="hold_to_talk">Hold to talk</string>
   <string name="i_know">OK</string>
   <string name="importing_progress_private_message">インポート中...</string>
   <string name="in_sms">"メッセージ"</string>
@@ -217,7 +218,6 @@
   <string name="invalid_recipient_message">"宛先を修正してください。無効なアドレスがあります。"</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"スライドショーのレイアウト "</string>
-  <string name="left_cancel">左にスワイプするとキャンセル</string>
   <string name="loading_all_messages">しばらくお待ち下さい...</string>
   <string name="loading_conversations">しばらくお待ち下さい...</string>
   <string name="loading_mms">しばらくお待ち下さい...</string>
@@ -360,6 +360,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">新着メッセージ</string>
   <string name="number_add_hint">電話番号を入力</string>
+  <string name="open_audio_record_panel">Open audio record panel</string>
   <string name="open_url_with_web">このURLをブラウザで開きますか？</string>
   <string name="over_max_mms_size">MMSが大きすぎます。</string>
   <string name="overwrite_edited_content">"今編集した内容が上書きされます。"</string>
@@ -436,7 +437,6 @@
   <string name="pref_title_wake_up_screen">画面起動</string>
   <string name="preferences_title">設定</string>
   <string name="prepare_send">"送信の準備中..."</string>
-  <string name="press_recording">録音するにはマイクのアイコンを押したままにしてください</string>
   <string name="preview">プレビュー</string>
   <string name="preview_slideshow">プレビュー</string>
   <string name="priority_high">高</string>
@@ -550,6 +550,7 @@
   <string name="sim_view">表示</string>
   <string name="slide_number">スライド %s秒</string>
   <string name="slide_show_part">Part %1$s/%2$s</string>
+  <string name="slide_up_to_cancel">Slide up to cancel</string>
   <string name="slideshow_activity">スライドショー</string>
   <string name="sms_card_partner_label">"SMSカードパートナー: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>

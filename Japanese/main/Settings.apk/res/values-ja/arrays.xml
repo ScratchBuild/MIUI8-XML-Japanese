@@ -304,7 +304,12 @@
         <item>EDGE</item>
         <item>GPRS</item>
         <item>eHRPD</item>
-        <item>指定なし</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
     </string-array>
     <string-array name="bearer_values">
         <item>0</item>
@@ -1066,6 +1071,7 @@
         <item>Launch Assistant</item>
         <item>Google Nowを起動</item>
         <item>Close current app</item>
+        <item>Launch Quick Search</item>
         <item>メニューを表示</item>
     </string-array>
     <string-array name="screen_key_long_press_action_value">
@@ -1074,6 +1080,7 @@
         <item>voice_assistant</item>
         <item>google_now</item>
         <item>close_app</item>
+        <item>quick_search</item>
         <item>show_menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
@@ -1087,6 +1094,16 @@
         <item>1000</item>
         <item>1500</item>
         <item>2000</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>None</item>
+        <item>Street-snap(need to select mode in camera)</item>
+        <item>Public Transportation Shortcuts</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action_value">
+        <item>none</item>
+        <item>Street-snap</item>
+        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1秒</item>
@@ -1228,7 +1245,7 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="nfc_se_route_values">
         <item>1</item>
-        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>

@@ -560,6 +560,7 @@
   <string name="bluetooth_pairing_pin_error_message">PINまたはパスキーが正しくないため、%1$sをペアに設定できませんでした。</string>
   <string name="bluetooth_pairing_rejected_error_message">ペア設定が%1$sに拒否されました。</string>
   <string name="bluetooth_pairing_request">Bluetoothのペア設定リクエスト</string>
+  <string name="bluetooth_pairing_shares_phonebook">Allow %1$s to access your contacts and call history</string>
   <string name="bluetooth_pairing_will_share_phonebook">ペア設定により、接続時に連絡先や通話履歴へのアクセスが許可されます。</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">ローカルインターネット接続をデバイスと共有</string>
   <string name="bluetooth_pan_profile_summary_use_for">インターネットアクセスに使用する</string>
@@ -1879,6 +1880,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockscreen_glogin_checking_password">確認中…</string>
   <string name="lockscreen_glogin_password_hint">パスワード</string>
   <string name="lockscreen_glogin_submit_button">ログイン</string>
+  <string name="long_press_volume_down">Long press volume down</string>
   <string name="lte_ram_dump_off">LTE RAMダンプをオフにする</string>
   <string name="lte_ram_dump_on">LTE RAMダンプをオンにする</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -3338,6 +3340,8 @@ PINが正しくない可能性があります。"</string>
   <string name="sim_slot_empty">SIMが空です</string>
   <string name="sim_status_title">SIMのステータス</string>
   <string name="simulate_color_space">色空間シミュレート</string>
+  <string name="single_key_use">Single key use</string>
+  <string name="single_key_use_summary">Home-key instead of the other two buttons for normal operation</string>
   <string name="skip_label">スキップ</string>
   <string name="skip_lock_screen_confirm_msg">通知、音楽プレーヤーのコントロール、カメラ及びMiホームはロック画面で無効になります</string>
   <string name="skip_step">スキップ</string>

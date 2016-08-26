@@ -80,6 +80,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+  <string name="message_snap_double_confirm">Current Long press the volume key is NFC mode, confirm the replacement?</string>
   <string name="no_storage">"カメラを使用する前にSDカードを挿入して下さい"</string>
   <string name="not_enough_space">"SDカードがいっぱいです"</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>
@@ -106,6 +107,9 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_burst_shoot_title">Burst shoot</string>
   <string name="pref_camcorder_settings">"ビデオ"</string>
   <string name="pref_camcorder_settings_category">Camera settings</string>
+  <string name="pref_camera2_cameramode_title">Camera2 Mode</string>
+  <string name="pref_camera2_clearsight_title">ClearSight</string>
+  <string name="pref_camera2_mpo_title">MPO Format</string>
   <string name="pref_camera_antibanding_60">60hz</string>
   <string name="pref_camera_antibanding_default">50hz</string>
   <string name="pref_camera_antibanding_entry_0">Off</string>
@@ -432,6 +436,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
+  <string name="pref_groupshot_with_primitive_title">Save primitive picture in groupshot mode</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_mtk_video_quality_default">10</string>
@@ -519,12 +524,15 @@ The object shouldn't be further than 2 meters."</string>
   <string name="simple_mode_button_text_stereo_mode">Turn off Stereo</string>
   <string name="simple_mode_button_text_tilt_shift">Turn off Tilt-shift</string>
   <string name="simple_mode_button_text_ubifocus">Turn off Refocus</string>
+  <string name="snap_cancel">Cancel</string>
+  <string name="snap_confirmed">Confirm</string>
   <string name="spaceIsLow_content_external_storage_priority">SD card is running out of space</string>
   <string name="spaceIsLow_content_primary_storage_priority">USB storage is running out of space</string>
   <string name="start_capture">OK</string>
   <string name="tap_to_exposure">Tap to adjust exposure manually</string>
   <string name="tap_to_focus">Tap to focus</string>
   <string name="time_lapse_error">"Can't use this video-size for time-lapse recording"</string>
+  <string name="title_snap_double_confirm">Please confirm again</string>
   <string name="toast_burst_snap_finished_end">photos</string>
   <string name="toast_burst_snap_finished_start">Burst shot</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Can't burst shoot while audio capture is on"</string>

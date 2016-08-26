@@ -116,4 +116,12 @@
         <item>%s</item>
         <item>%s</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Good</item>
+        <item>Satisfactory</item>
+        <item>Moderately polluted</item>
+        <item>Poor</item>
+        <item>Very poor</item>
+        <item>Severe</item>
+    </string-array>
 </resources>

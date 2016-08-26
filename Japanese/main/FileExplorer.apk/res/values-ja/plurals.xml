@@ -169,20 +169,20 @@
         <item quantity="many">Found %1$d new files</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">Received %1$d files of App %2$s</item>
-        <item quantity="zero">Received %1$d file of App %2$s</item>
-        <item quantity="one">Received %1$d file of App %2$s</item>
-        <item quantity="two">Received %1$d files of App %2$s</item>
-        <item quantity="few">Received %1$d files of App %2$s</item>
-        <item quantity="many">Received %1$d files of App %2$s</item>
+        <item quantity="other">Received %1$d files from %2$s</item>
+        <item quantity="zero">Received %1$d files from %2$s</item>
+        <item quantity="one">Received %1$d file from %2$s</item>
+        <item quantity="two">Received %1$d files from %2$s</item>
+        <item quantity="few">Received %1$d files from %2$s</item>
+        <item quantity="many">Received %1$d files from %2$s</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Received %1$d files of WeChat</item>
-        <item quantity="zero">Received %1$d file of WeChat</item>
-        <item quantity="one">Received %1$d file of WeChat</item>
-        <item quantity="two">Received %1$d files of WeChat</item>
-        <item quantity="few">Received %1$d files of WeChat</item>
-        <item quantity="many">Received %1$d files of WeChat</item>
+        <item quantity="other">Received %1$d files from WeChat</item>
+        <item quantity="zero">Received %1$d files from WeChat</item>
+        <item quantity="one">Received %1$d file from WeChat</item>
+        <item quantity="two">Received %1$d files from WeChat</item>
+        <item quantity="few">Received %1$d files from WeChat</item>
+        <item quantity="many">Received %1$d files from WeChat</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
         <item quantity="other">%1$d WeChat videos are about to expire</item>
@@ -264,6 +264,14 @@
         <item quantity="few">videos</item>
         <item quantity="many">videos</item>
     </plurals>
+    <plurals name="user_follow_me_items">
+        <item quantity="other">followers</item>
+        <item quantity="zero">followers</item>
+        <item quantity="one">follower</item>
+        <item quantity="two">followers</item>
+        <item quantity="few">followers</item>
+        <item quantity="many">followers</item>
+    </plurals>
     <plurals name="number_of_comment">
         <item quantity="other">%1$s comments</item>
         <item quantity="zero">%1$s comments</item>
@@ -279,5 +287,13 @@
         <item quantity="two">%1$s videos</item>
         <item quantity="few">%1$s videos</item>
         <item quantity="many">%1$s videos</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$s followers</item>
+        <item quantity="zero">%1$s followers</item>
+        <item quantity="one">%1$s follower</item>
+        <item quantity="two">%1$s followers</item>
+        <item quantity="few">%1$s followers</item>
+        <item quantity="many">%1$s followers</item>
     </plurals>
 </resources>

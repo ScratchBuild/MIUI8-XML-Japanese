@@ -30,7 +30,6 @@
   <string name="ad_card_installing">"インストール中"</string>
   <string name="ad_card_network_error">无网络连接，请稍后重试！</string>
   <string name="ad_card_spread">推广</string>
-  <string name="add_account">"アカウントを追加"</string>
   <string name="add_calendar">订阅</string>
   <string name="add_card">添加卡片</string>
   <string name="add_topic_success">订阅\"%s\"成功</string>
@@ -280,6 +279,9 @@
   <string name="no_network_btn">"再試行"</string>
   <string name="no_syncable_calendars">"カレンダーがありません"</string>
   <string name="no_title_label">"(無題)"</string>
+  <string name="no_visiable_calendar_message">You need select a calendar account, please click Select Account to next step.</string>
+  <string name="no_visiable_calendar_select_account">Select Account</string>
+  <string name="no_visiable_calendar_title">Select Calendar Account</string>
   <string name="not_synced">"未同期"</string>
   <string name="online_calendar_activity_label">订阅日历</string>
   <string name="online_reminder_header_text">提醒</string>
@@ -314,6 +316,7 @@
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">"自宅のタイムゾーン"</string>
   <string name="preferences_import_credit_repayment">信用卡还款</string>
+  <string name="preferences_import_travel">机票火车票</string>
   <string name="preferences_notification_ringtone_title">"通知音"</string>
   <string name="preferences_reminder_title">"通知とリマインダー"</string>
   <string name="preferences_show_week_num_title">"第何週かを表示"</string>
@@ -371,9 +374,17 @@
   <string name="select_date">"日付を選択"</string>
   <string name="select_synced_calendars_title">"カレンダーと同期"</string>
   <string name="set_as_wallpaper">"壁紙に設定"</string>
-  <string name="setting_holiday">Holidays</string>
+  <string name="setting_about_calendar_version">Calendar version:</string>
+  <string name="setting_about_imei">IMEI:</string>
+  <string name="setting_about_miui_version">MIUI version:</string>
+  <string name="setting_about_summary">Version:</string>
+  <string name="setting_holiday_display_desc">Holiday cards are located below your agenda on the home page</string>
+  <string name="setting_holiday_display_title">Show holidays</string>
+  <string name="setting_holiday_reminder">Holiday reminder</string>
+  <string name="setting_homepage">Home page settings</string>
   <string name="setting_others">"その他"</string>
   <string name="setting_sms_import">导入短信事件</string>
+  <string name="setting_title_about">About</string>
   <string name="settings_calendar">Calendar</string>
   <string name="show_day_view">"日付を表示"</string>
   <string name="show_newer_events">"タップして%1$sより後の予定を表示"</string>
@@ -407,6 +418,7 @@
   <string name="taishen">胎神</string>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">"%2$s件中%1$s件目の予定"</string>
+  <string name="template_week_num">Week %1$s</string>
   <string name="text_year">年</string>
   <string name="ticket_card_date">%1$s月%2$s日</string>
   <string name="ticket_card_description">今日可预定</string>

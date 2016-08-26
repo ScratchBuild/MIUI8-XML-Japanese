@@ -43,7 +43,7 @@
   <string name="restore_default">"デフォルトに戻す"</string>
   <string name="restore_intro">"ショートカットやその順序などをデフォルト設定に復元します。お使いの端末上のアプリデータは影響を受けません。"</string>
   <string name="show_on_keyguard">"ロック画面に表示する"</string>
-  <string name="theme_manager_not_supported">Theme manager not supported.</string>
+  <string name="theme_manager_not_supported">"Theme manager isn't supported."</string>
   <string name="vector_large_circle">m93,200c0,-59.11602 47.88398,-107 107,-107c59.11602,0 107,47.88398 107,107c0,59.11602 -47.88398,107 -107,107c-59.11602,0 -107,-47.88398 -107,-107z</string>
   <string name="vector_large_crossA">M160,160 L240,240</string>
   <string name="vector_large_crossB">M240,160 L160,240</string>

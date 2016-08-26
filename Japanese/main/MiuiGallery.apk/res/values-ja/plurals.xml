@@ -52,13 +52,25 @@
         <item quantity="other">"Couldn't download %1$d photos, try again?"</item>
         <item quantity="one">"Couldn't download photo, try again?"</item>
     </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"Couldn't download %1$d photos, connect to the network and try try again"</item>
+        <item quantity="one">"Couldn't download photo, connect to the network and try try again"</item>
+    </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">"Couldn't download %1$d photos (%2$dMB), try again?"</item>
         <item quantity="one">"Couldn't download photo (%2$dMB), try again?"</item>
     </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), connect to the network and try try again"</item>
+        <item quantity="one">"Couldn't download photo (%2$dMB), connect to the network and try try again"</item>
+    </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Cancel downloading %d remaining photos?</item>
         <item quantity="one">Cancel downloading the remaining photo?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Added %d cloud photos, turn off \"Only show local albums\" to view.</item>
+        <item quantity="one">Added %d cloud photo, turn off \"Only show local albums\" to view.</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Delete %1$d photos %2$s?</item>

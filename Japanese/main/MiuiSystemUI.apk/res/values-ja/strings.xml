@@ -39,7 +39,6 @@
   <string name="accessibility_ringer_vibrate">Ringer vibrate.</string>
   <string name="accessibility_search_light">検索</string>
   <string name="accessibility_tty_enabled">TeleTypewriter enabled.</string>
-  <string name="accessibility_wifi_off">Wifi off.</string>
   <string name="accessibility_wifi_one_bar">WLAN one bar.</string>
   <string name="accessibility_wifi_signal_full">WLAN signal full.</string>
   <string name="accessibility_wifi_three_bars">WLAN three bars.</string>
@@ -57,7 +56,6 @@
   <string name="audio_effect_custom">設定</string>
   <string name="audio_effect_info">オーディオの最適化</string>
   <string name="audio_effect_settings">ヘッドフォンタイプを選択してください</string>
-  <string name="available_via_passpoint">Available via %1$s</string>
   <string name="battery_low_percent_format">残り %d%%</string>
   <string name="battery_low_title">充電をしてください</string>
   <string name="battery_profiles">バッテリープロファイルを使用する</string>
@@ -299,6 +297,7 @@ EEEE"</string>
   <string name="status_bar_settings_signal_meter_disconnected">インターネット接続なし</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi接続済み</string>
   <string name="status_bar_style_settings">通知</string>
+  <string name="status_bar_volte_label">HD</string>
   <string name="task_access_locked_app_msg">アプリロックをオン</string>
   <string name="title_usb_accessory">USBアクセサリ</string>
   <string name="torch_activity_hint">Hold [icon] to turn on torch at the lock screen</string>

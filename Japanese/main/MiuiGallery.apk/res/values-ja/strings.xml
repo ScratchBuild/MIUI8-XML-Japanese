@@ -24,6 +24,7 @@
   <string name="add_to_album_exist">This photo already exists</string>
   <string name="add_to_album_failed">"Couldn't add to album"</string>
   <string name="add_to_album_success">Added to album</string>
+  <string name="add_to_album_tip">Cloud photos</string>
   <string name="add_to_secret_exist">Photo already exists in hidden album</string>
   <string name="add_to_secret_fail">"Couldn't add to hidden album"</string>
   <string name="add_to_secret_failed_with_reason">"Can't add to hidden album. %1$s."</string>
@@ -541,6 +542,7 @@ Take more photos of your friends!"</string>
   <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
   <string name="picker_mobile_data_video">"Can't download videos using mobile data, skipped %d."</string>
+  <string name="picker_no_network_message">Connect to the network to download</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
   <string name="picker_title_format">Selected photos: %d</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
@@ -577,7 +579,7 @@ Take more photos of your friends!"</string>
   <string name="relation_text_mother">Mother</string>
   <string name="relation_with_you">Choose relationship</string>
   <string name="release_space_finish_format">Freed %s of local storage</string>
-  <string name="remove_from_other_albums_tip">The album should be turn on with Mi Cloud sync when remove it from the list of other albums, remove the album now?</string>
+  <string name="remove_from_other_albums_tip">Turn on sync with Mi Cloud to move items from other albums. Move now?</string>
   <string name="remove_from_secret_fail">"Couldn't remove from hidden album"</string>
   <string name="remove_from_secret_failed_with_reason">"Can't remove from hidden album. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items can't be removed from hidden album. %1$s."</string>
@@ -623,6 +625,8 @@ Take more photos of your friends!"</string>
   <string name="send_too_many_files_error">Can send up to %d items at a time</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Set as Lock screen wallpaper</string>
+  <string name="set_as_wallpaper_description">This image is a thumbnail, download the original？</string>
+  <string name="set_as_wallpaper_title">Set as Wallpaper</string>
   <string name="set_face_group_toast_msg_new_user">Hold a person to merge or ignore them.</string>
   <string name="set_face_group_toast_msg_old_user">"Hold a person's photo to create groups (Family, Friends, Classmates, etc.)"</string>
   <string name="set_face_group_toast_title_new_user">Suggestion</string>
@@ -634,6 +638,7 @@ Take more photos of your friends!"</string>
   <string name="share">"共有"</string>
   <string name="share_album">"アルバムを共有"</string>
   <string name="share_album_needs_auto_upload_tip">"Can't turn off backups for shared albums"</string>
+  <string name="share_app_is_launching">Launching app…</string>
   <string name="share_by_email_start">Share %1$s in background</string>
   <string name="share_by_email_successfully">Shared %1$s</string>
   <string name="share_public_url_text">"I've shared the album %1$s with you. View it at %2$s"</string>
@@ -695,8 +700,8 @@ Take more photos of your friends!"</string>
   <string name="trash_bin">Trash bin</string>
   <string name="trash_bin_summary">Browse backed up photos which were deleted recently</string>
   <string name="try_to_send">Send</string>
-  <string name="turn_off_and_move">Turn off and Move</string>
-  <string name="turn_on_and_remove">Turn on and Remove</string>
+  <string name="turn_off_and_move">Turn off and move</string>
+  <string name="turn_on_and_remove">Turn on and move</string>
   <string name="turn_on_sync">Turn on sync</string>
   <string name="unpublish_failed">"Couldn't unpublish"</string>
   <string name="unpublish_succeeded">Album unpublished</string>

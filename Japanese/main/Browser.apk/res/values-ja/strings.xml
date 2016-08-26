@@ -220,6 +220,16 @@ Pages you view won't appear in history."</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_title_not_available">"ダウンロードできませんでした"</string>
   <string name="dialog_title_queued_body">File not yet available</string>
+  <string name="document_download_background_btn">Background download</string>
+  <string name="document_download_cancel_btn">Cancel</string>
+  <string name="document_download_failed">Download failed</string>
+  <string name="document_download_official">Official download</string>
+  <string name="document_download_open_direct">Open direct</string>
+  <string name="document_download_title">Downloading</string>
+  <string name="document_open_file">Open %s</string>
+  <string name="document_open_message">To improve your reading experience and ensure security, recommend to use WPS official customized version</string>
+  <string name="document_open_other">Other apps</string>
+  <string name="document_open_title">Open With</string>
   <string name="dont_remind_again">"この選択を記憶する"</string>
   <string name="download_btn_select_all">"すべて選択"</string>
   <string name="download_btn_select_none">"すべて選択を解除"</string>
@@ -233,12 +243,14 @@ Pages you view won't appear in history."</string>
   <string name="download_dialog_file_length_nolength_txt">"読み込み中…"</string>
   <string name="download_failed">"Couldn't complete download"</string>
   <string name="download_filter_all">"すべて"</string>
+  <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">"アプリ"</string>
   <string name="download_filter_audio">"音楽"</string>
   <string name="download_filter_image">"写真"</string>
   <string name="download_filter_others">"その他"</string>
   <string name="download_filter_text">"ファイル"</string>
   <string name="download_filter_video">"ビデオ"</string>
+  <string name="download_filter_zip">Zip</string>
   <string name="download_in_process">"ダウンロード中…"</string>
   <string name="download_list_open_xl_ok">OK</string>
   <string name="download_memory_info_avai">" 空き %s|"</string>
@@ -303,6 +315,7 @@ Pages you view won't appear in history."</string>
   <string name="geolocation_settings_page_title">"位置情報アクセスをクリア"</string>
   <string name="go_supermarket_button">Go</string>
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
+  <string name="gold_medals">Gold medals</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="history_saved_webpage">"ページを保存"</string>
@@ -439,6 +452,7 @@ Leave this page?"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Open Wi-Fi network available</string>
   <string name="new_folder_name_lable">Group name</string>
   <string name="next_button_label">"進む"</string>
+  <string name="no_app_open_document">No app was found to handle this action</string>
   <string name="no_matches">No matches</string>
   <string name="no_space_alert_cancel">Later</string>
   <string name="no_space_alert_clean">Free up space</string>
@@ -628,6 +642,7 @@ Leave this page?"</string>
   <string name="same_folder_name_warning">A group with the same name already exists</string>
   <string name="save_button_text">"保存"</string>
   <string name="save_dialog_title">"保存"</string>
+  <string name="save_file">Save %s file</string>
   <string name="save_file_already_exist_alert_message">"同じ名前のファイルが既に存在します、ファイルを上書きしますか？"</string>
   <string name="save_file_already_exist_alert_title">"ファイルを上書きしますか？"</string>
   <string name="save_form_data_confirm_message">Turning this feature off may affect usage.</string>
@@ -713,6 +728,7 @@ Leave this page?"</string>
   <string name="suggest_access_item_singer_albums">%d albums</string>
   <string name="suggest_access_item_singer_pop">%d popular songs</string>
   <string name="suggest_access_music">Mi Music</string>
+  <string name="suggest_item_delete_text">Delete</string>
   <string name="suggest_open_app_failed">"Couldn't open this app"</string>
   <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
   <string name="switch_proxy_dialog_title">Network hijacking</string>
@@ -810,6 +826,7 @@ Leave this page?"</string>
   <string name="video_subtitle_prefix_message">"Watched: "</string>
   <string name="video_title_prefix_message">"Offline: "</string>
   <string name="view_certificate">"証明書を表示"</string>
+  <string name="view_document_downloaded_files">View downloaded files in Manager downloads</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
   <string name="voice_title">Say your command…</string>
   <string name="voice_title_distinguish">Processing…</string>
