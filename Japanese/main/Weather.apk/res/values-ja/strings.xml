@@ -58,7 +58,7 @@
   <string name="close">"閉じる"</string>
   <string name="commercial">Commercial</string>
   <string name="daily_forcast_drawer_on_bottom">"隠す"</string>
-  <string name="daily_forcast_drawer_on_top">%1$s day forecast</string>
+  <string name="daily_forcast_drawer_on_top">"%1$s日間の予報"</string>
   <string name="daily_forcast_no_stable_direction">"無風"</string>
   <string name="daily_forcast_no_wind">&lt;12km/h</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
@@ -109,12 +109,12 @@
   <string name="information_views"/>
   <string name="install">"インストール"</string>
   <string name="international_detail_menu_title">"詳細"</string>
-  <string name="international_details_pressure_title">PRESSURE</string>
-  <string name="international_details_real_feel_title">REAL FEEL®</string>
+  <string name="international_details_pressure_title">"気圧"</string>
+  <string name="international_details_real_feel_title">"体感気温®"</string>
   <string name="international_details_title">"詳細"</string>
-  <string name="international_details_uv_index_title">UV INDEX</string>
+  <string name="international_details_uv_index_title">"UV指数"</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
-  <string name="international_details_wind_title">WIND</string>
+  <string name="international_details_wind_title">"風速"</string>
   <string name="locate_fail_detail_err">"Can't locate device
 Tap the screen to manually add or reposition city"</string>
   <string name="location_management">"位置情報の管理"</string>
@@ -129,7 +129,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="open">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
-  <string name="pressure_connect">%1$s MB</string>
+  <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
   <string name="realtime_humidity_title">"相対湿度"</string>
   <string name="realtime_wind_default_title">Wind</string>

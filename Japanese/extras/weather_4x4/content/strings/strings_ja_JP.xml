@@ -1,5 +1,5 @@
 <resources>
-    <string name="date_format">"MŒd“ú E"</string>
+    <string name="date_format">"MŒd“ú EEEE"</string>
     <string name="today">"¡“ú"</string>
     <string name="tomorrow">"–¾“ú"</string>
     <string name="aqi_pure">'AQI '+#weather_aqilevel</string>
