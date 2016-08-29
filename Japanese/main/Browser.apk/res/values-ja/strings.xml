@@ -32,7 +32,7 @@
   <string name="action_menu_text_create_qr_code">"QRコード"</string>
   <string name="action_menu_text_download">"ダウンロードを管理"</string>
   <string name="action_menu_text_exit">"終了"</string>
-  <string name="action_menu_text_find_in_page">>"ページ内を検索"<</string>
+  <string name="action_menu_text_find_in_page">"ページ内を検索"</string>
   <string name="action_menu_text_fullscreen">Full screen</string>
   <string name="action_menu_text_history">"ブックマークと履歴"</string>
   <string name="action_menu_text_nightmode">Night mode</string>
@@ -837,7 +837,7 @@ Leave this page?"</string>
   <string name="webpage_bookmark_title">"ブックマーク"</string>
   <string name="webpage_history_title">"履歴"</string>
   <string name="webpage_title">"ブックマークと履歴"</string>
-  <string name="webview_find_on_page">>"ページ内を検索"<</string>
+  <string name="webview_find_on_page">"ページ内を検索"</string>
   <string name="webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>
   <string name="week_picker_dialog_title">Set week</string>
 </resources>
