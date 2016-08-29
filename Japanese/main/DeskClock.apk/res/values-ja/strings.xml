@@ -134,5 +134,5 @@
   <string name="volume_button_setting_title">"音量ボタン"</string>
   <string name="workday_alarm_clock">Workday alarm</string>
   <string name="worldclock_empty_text">No clocks</string>
-  <string name="worldclock_title">"世界時計"</string>
+  <string name="worldclock_title">"時計"</string>
 </resources>

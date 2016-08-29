@@ -51,7 +51,7 @@
   <string name="accessibility_long_press_timeout_preference_title">押し続ける時間</string>
   <string name="accessibility_menu_item_settings">設定</string>
   <string name="accessibility_no_services_installed">インストールされているサービスはありません</string>
-  <string name="accessibility_no_wifi">Wifi disconnected.</string>
+  <string name="accessibility_no_wifi">Wi-Fiが切断されました。</string>
   <string name="accessibility_personal_account_title">個人用アカウント - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">電源ボタンで通話を終了</string>
   <string name="accessibility_screen_magnification_enable">拡大のジェスチャー</string>
@@ -1840,7 +1840,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_password_too_short">パスワードを%d文字以上で入力してください</string>
   <string name="lockpassword_pattern_set_toast">パターンが設定されました</string>
   <string name="lockpassword_pin_contains_non_digits">PINに使用できるのは数字0～9のみです。</string>
-  <string name="lockpassword_pin_fixed_length">PIN must be %d digits</string>
+  <string name="lockpassword_pin_fixed_length">PINは%d桁で指定してください</string>
   <string name="lockpassword_pin_no_sequential_digits">一連の数字を昇順や降順にしたり、繰り返したりすることはできません</string>
   <string name="lockpassword_pin_recently_used">最近使用したPINは使用できません。</string>
   <string name="lockpassword_pin_set_toast">PINが設定されました</string>

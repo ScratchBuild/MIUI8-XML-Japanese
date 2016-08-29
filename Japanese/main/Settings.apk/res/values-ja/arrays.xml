@@ -950,9 +950,9 @@
         <item>2</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>Ask upon connection</item>
-        <item>Charge only</item>
-        <item>Mount SD card</item>
+        <item>"接続時に確認"</item>
+        <item>"充電のみ"</item>
+        <item>"SDカードをマウント"</item>
     </string-array>
     <string-array name="usb_connection_mode_values">
         <item>0</item>
@@ -1068,7 +1068,7 @@
     <string-array name="screen_key_long_press_action">
         <item>None</item>
         <item>Show recent apps tray</item>
-        <item>Launch Assistant</item>
+        <item>アシスタントを起動</item>
         <item>Google Nowを起動</item>
         <item>Close current app</item>
         <item>Launch Quick Search</item>

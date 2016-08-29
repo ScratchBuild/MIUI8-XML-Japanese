@@ -3,7 +3,7 @@
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
   <string name="abc_action_menu_overflow_description">More</string>
-  <string name="abc_action_mode_done">Done</string>
+  <string name="abc_action_mode_done">"完了"</string>
   <string name="abc_action_mode_select_all">"すべて選択"</string>
   <string name="accept_cookies_confirm_message">"この機能をオフにするといくつかのウェブサイトが正常に動作しない恐れがあります。"</string>
   <string name="accessibility_button_clear">"入力内容を消去"</string>
@@ -30,9 +30,9 @@
   <string name="action_menu_text_bookmark_added">Bookmark added</string>
   <string name="action_menu_text_copy_url">"URLをコピー"</string>
   <string name="action_menu_text_create_qr_code">"QRコード"</string>
-  <string name="action_menu_text_download">Manage downloads</string>
+  <string name="action_menu_text_download">"ダウンロードを管理"</string>
   <string name="action_menu_text_exit">"終了"</string>
-  <string name="action_menu_text_find_in_page">Find on page</string>
+  <string name="action_menu_text_find_in_page">>"ページ内を検索"<</string>
   <string name="action_menu_text_fullscreen">Full screen</string>
   <string name="action_menu_text_history">"ブックマークと履歴"</string>
   <string name="action_menu_text_nightmode">Night mode</string>
@@ -65,8 +65,8 @@
   <string name="add_shortcut">Add shortcut</string>
   <string name="add_shortcut_success">Added shortcut successfully</string>
   <string name="add_to_bookmark">Bookmarks</string>
-  <string name="add_to_desk">Place on Home screen</string>
-  <string name="add_to_desk_success">Placed on Home screen</string>
+  <string name="add_to_desk">"ホーム画面に設置"</string>
+  <string name="add_to_desk_success">"ホーム画面に設置しました"</string>
   <string name="add_to_quicklink">Start Page</string>
   <string name="added_to_bookmarks">"ブックマークに追加しました"</string>
   <string name="adjust_text_zoom_toast">Changing text zoom may cause some websites to display incorrectly</string>
@@ -317,7 +317,7 @@ Pages you view won't appear in history."</string>
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
   <string name="gold_medals">Gold medals</string>
   <string name="google_bookmarks">Google</string>
-  <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
+  <string name="have_sent_bookmark_to_home_screen">"ホーム画面に設置しました"</string>
   <string name="history_saved_webpage">"ページを保存"</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">"削除"</string>
@@ -367,7 +367,7 @@ Leave this page?"</string>
   <string name="media_player_error_text_unknown">Sorry, this video cannot be played.</string>
   <string name="media_player_error_title">"Can't play video"</string>
   <string name="media_player_loading_video">Loading video</string>
-  <string name="menu_addtodesk">Add to Home screen</string>
+  <string name="menu_addtodesk">"ホーム画面に追加"</string>
   <string name="menu_exit_nightmode">Exit</string>
   <string name="menu_hv_swap">V/H screen</string>
   <string name="menu_nightmode">Night mode</string>
@@ -507,7 +507,7 @@ Leave this page?"</string>
   <string name="pref_data_preload_value_always">ALWAYS</string>
   <string name="pref_data_preload_value_never">NEVER</string>
   <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-  <string name="pref_enable_adblock_notification">Show Ad blocker notifications</string>
+  <string name="pref_enable_adblock_notification">"Ad blockerの通知を表示する"</string>
   <string name="pref_enable_news">News</string>
   <string name="pref_enable_novels">Books</string>
   <string name="pref_enable_videos">Videos</string>
@@ -690,7 +690,7 @@ Leave this page?"</string>
   <string name="select_download_device">Choose device</string>
   <string name="send_comment_button">Send</string>
   <string name="send_comment_title">Comment</string>
-  <string name="senddesktop">Home screen</string>
+  <string name="senddesktop">"ホーム画面"</string>
   <string name="sendstartpage">Start page</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to make sure it's secure. You can turn this feature off anytime in Settings."</string>
@@ -837,7 +837,7 @@ Leave this page?"</string>
   <string name="webpage_bookmark_title">"ブックマーク"</string>
   <string name="webpage_history_title">"履歴"</string>
   <string name="webpage_title">"ブックマークと履歴"</string>
-  <string name="webview_find_on_page">Find on page</string>
+  <string name="webview_find_on_page">>"ページ内を検索"<</string>
   <string name="webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>
   <string name="week_picker_dialog_title">Set week</string>
 </resources>
