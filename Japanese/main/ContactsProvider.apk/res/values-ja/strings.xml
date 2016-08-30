@@ -13,7 +13,7 @@
   <string name="default_directory">"連絡先"</string>
   <string name="edit_contact">"連絡先に追加"</string>
   <string name="local_invisible_directory">"その他"</string>
-  <string name="pound_search_tip">Input number after # to search contacts</string>
+  <string name="pound_search_tip">"連絡先を検索するには#の後に番号を入力"</string>
   <string name="provider_label">"連絡先"</string>
   <string name="read_write_all_voicemail_description">Allows the app to store and retrieve all voicemails that this device can access.</string>
   <string name="read_write_all_voicemail_label">Access all voicemails</string>
@@ -25,6 +25,6 @@
   <string name="upgrade_out_of_memory_notification_text">"アップグレードを完了するにはタップしてください。"</string>
   <string name="upgrade_out_of_memory_notification_ticker">"連絡先のアップグレードに必要なメモリが不足しています。"</string>
   <string name="upgrade_out_of_memory_notification_title">"連絡先用ストレージのアップグレード"</string>
-  <string name="video_call">Video call</string>
+  <string name="video_call">"ビデオハングアウト"</string>
   <string name="voicemail_from_column">"受信ボイスメール: "</string>
 </resources>

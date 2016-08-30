@@ -108,8 +108,8 @@
   <string name="do_not_ask">"二度と表示しない"</string>
   <string name="do_not_support_video_calls_by_remote">"Video calls aren't supported on the other device"</string>
   <string name="emergency_call_dialog_number_for_display">"緊急通報番号"</string>
-  <string name="fraud_call_answer">Answer</string>
-  <string name="fraud_call_decline">Decline</string>
+  <string name="fraud_call_answer">"応答"</string>
+  <string name="fraud_call_decline">"拒否"</string>
   <string name="fraud_call_waring">Be careful: Always verify the identity of the contact by phone or video before responding to any messages involving your personal information.</string>
   <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">"SIP通話"</string>
