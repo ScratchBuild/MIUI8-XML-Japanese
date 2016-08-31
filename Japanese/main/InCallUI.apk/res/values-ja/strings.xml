@@ -87,7 +87,7 @@
   <string name="description_image_button_eight">"8"</string>
   <string name="description_image_button_five">"5"</string>
   <string name="description_image_button_four">"4"</string>
-  <string name="description_image_button_hangup">End</string>
+  <string name="description_image_button_hangup">"電話を切る"</string>
   <string name="description_image_button_message_enter">Swipe up to reply with message</string>
   <string name="description_image_button_message_exit">Hide messages</string>
   <string name="description_image_button_nine">"9"</string>
@@ -98,7 +98,7 @@
   <string name="description_image_button_six">"6"</string>
   <string name="description_image_button_star">"アスタリスク"</string>
   <string name="description_image_button_three">"3"</string>
-  <string name="description_image_button_tools">Options</string>
+  <string name="description_image_button_tools">"オプション"</string>
   <string name="description_image_button_two">"2"</string>
   <string name="description_image_button_zero">"0"</string>
   <string name="description_target_answer">"電話に出る"</string>
@@ -139,9 +139,9 @@
   <string name="keep_wait_call_back">Keep waiting</string>
   <string name="livetalk_dial">Using Top-up package</string>
   <string name="livetalk_hangup">Hang up</string>
-  <string name="livetalk_left_minute">%smin left</string>
+  <string name="livetalk_left_minute">"残り%s分"</string>
   <string name="manageConferenceLabel">"グループ通話オプション"</string>
-  <string name="miprofile_stranger_card">Unknown</string>
+  <string name="miprofile_stranger_card">"不明"</string>
   <string name="modify_call_failure_str">"Modify Call request failed
 "</string>
   <string name="modify_call_option_title">Which type of call?</string>

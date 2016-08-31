@@ -37,7 +37,7 @@
   <string name="buffering">"バッファリング中…"</string>
   <string name="cancel_action">"キャンセル"</string>
   <string name="cancel_btn_label">"キャンセル"</string>
-  <string name="cant_edit_lock_screen">"Can't edit lock screen style."</string>
+  <string name="cant_edit_lock_screen">"ロック画面のスタイルを編集することができません。"</string>
   <string name="cant_remove_folder">"フォルダを削除できません"</string>
   <string name="cant_remove_retained_app">"このアプリは削除できません"</string>
   <string name="cant_remove_system_app">"システムアプリは削除できません"</string>
@@ -47,7 +47,7 @@
   <string name="children_mode_tips_message">There is no application in child mode. Please select application.</string>
   <string name="children_mode_tips_title">Please select application</string>
   <string name="choose_wallpaper">"壁紙を選択"</string>
-  <string name="chooser_wallpaper">Choose a new wallpaper</string>
+  <string name="chooser_wallpaper">"新しい壁紙を選択"</string>
   <string name="cloud_app_restore_title">Pending</string>
   <string name="configure_wallpaper">Settings</string>
   <string name="confirm_btn_label">OK</string>
@@ -81,14 +81,14 @@
   <string name="editing_mode_title_empty">0 selected</string>
   <string name="editing_set_transition_effect_tips">Choose screen transition effect</string>
   <string name="editing_set_wallpaper_tips">"壁紙を選択"</string>
-  <string name="editing_tips">Edit Home screen</string>
+  <string name="editing_tips">"ホーム画面を編集"</string>
   <string name="emptyplaylist">"タップして曲を追加"</string>
   <string name="enable_wallpaper_scroll">Turn side-scrolling on</string>
   <string name="encryption">Encryption</string>
   <string name="failed_to_delete_temporary">"削除できません"</string>
   <string name="failed_to_drop">"移動できません"</string>
-  <string name="failed_to_drop_widget_invalid">Widget invalid</string>
-  <string name="failed_to_drop_widget_nospace">No more room on this Home screen</string>
+  <string name="failed_to_drop_widget_invalid">"ウィジェットが無効です"</string>
+  <string name="failed_to_drop_widget_nospace">"ホーム画面に空きスペースがありません"</string>
   <string name="failed_to_load_image">"Can't load image"</string>
   <string name="folder_name">"フォルダ"</string>
   <string name="frame_load_failed">"フレームが読み込めません"</string>
@@ -150,7 +150,7 @@
   <string name="install">"インストール"</string>
   <string name="invalid_contact_shortcut">"無効な連絡先"</string>
   <string name="is_setting_wallpaper_message">"壁紙を設定中…"</string>
-  <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
+  <string name="is_system_wallpaper_message">"システムリソースは削除できません"</string>
   <string name="like">Favorite</string>
   <string name="liked">Favorited</string>
   <string name="loading_desktop">"読み込み中…"</string>
@@ -161,9 +161,9 @@
   <string name="lock_screen_success_message">Applied to lock screen</string>
   <string name="lock_screen_wallpaper">"ロック画面の壁紙"</string>
   <string name="menu_add">"追加"</string>
-  <string name="menu_back_desktop">Back to Home screen</string>
+  <string name="menu_back_desktop">"ホーム画面に戻る"</string>
   <string name="menu_customize">"設定"</string>
-  <string name="menu_edit">Edit Home screen</string>
+  <string name="menu_edit">"ホーム画面を編集"</string>
   <string name="menu_exit_scene">Exit Mi Space</string>
   <string name="menu_item_add_item">Place on Home screen</string>
   <string name="menu_launcher_setting">Launcher settings</string>
@@ -237,8 +237,8 @@
   <string name="status_installing">"インストール中"</string>
   <string name="status_paused">"停止中"</string>
   <string name="status_pending">"待機中"</string>
-  <string name="title_select_live_folder">Select folder</string>
-  <string name="title_select_shortcut">Select shortcut</string>
+  <string name="title_select_live_folder">"フォルダを選択"</string>
+  <string name="title_select_shortcut">"ショートカットを選択"</string>
   <string name="toggle_select_title">Choose toggle</string>
   <string name="toggle_title">Toggles</string>
   <string name="transformation_type_classic">Overslide</string>
