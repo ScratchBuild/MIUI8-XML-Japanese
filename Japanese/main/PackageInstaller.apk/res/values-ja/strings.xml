@@ -6,10 +6,10 @@
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
+  <string name="abc_action_menu_overflow_description">"その他のオプション"</string>
   <string name="abc_action_mode_done">"完了"</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_activity_chooser_view_see_all">"すべてを見る"</string>
+  <string name="abc_activitychooserview_choose_application">"アプリを選択"</string>
   <string name="abc_search_hint">"検索…"</string>
   <string name="abc_searchview_description_clear">Clear query</string>
   <string name="abc_searchview_description_query">Search query</string>
@@ -102,7 +102,7 @@
   <string name="menu_hide_system">"システムを表示しない"</string>
   <string name="menu_show_system">"システムを表示"</string>
   <string name="never_ask_again">"今後は確認しない"</string>
-  <string name="newPerms">New</string>
+  <string name="newPerms">"新規"</string>
   <string name="next">"次へ"</string>
   <string name="no_apps">"アプリなし"</string>
   <string name="no_new_perms">"このアップデートでは新たな許可は必要ありません。"</string>
@@ -118,7 +118,7 @@
   <string name="permission_summary_enforced_by_policy">"ポリシーにより適用"</string>
   <string name="permission_title">"%1$sの権限"</string>
   <string name="permission_warning_template">"%1$sに%2$sを許可しますか？"</string>
-  <string name="permlab_togglePermissions">toggle permissions</string>
+  <string name="permlab_togglePermissions">"権限の切り替え"</string>
   <string name="privacyPerms">"プライバシー"</string>
   <string name="screen_overlay_button">"設定を開く"</string>
   <string name="screen_overlay_message">"この権限設定を変更するには、まず[設定]&gt;[アプリ]から画面オーバーレイをOFFにします"</string>

@@ -89,10 +89,10 @@
         <item>0</item>
     </integer-array>
     <string-array name="power_dialog_auto_clean_memory_items">
-        <item>After 1 minute</item>
-        <item>After 5 minutes</item>
-        <item>After 10 minutes</item>
-        <item>After 30 minutes</item>
+        <item>"1分後"</item>
+        <item>"5分後"</item>
+        <item>"10分後"</item>
+        <item>"30分後"</item>
         <item>Never</item>
     </string-array>
     <string-array name="alarm_repeat_type">
