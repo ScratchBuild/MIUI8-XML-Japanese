@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d mins ago</item>
+        <item quantity="zero">%1$d mins ago</item>
+        <item quantity="one">%1$d min ago</item>
+        <item quantity="two">%1$d mins ago</item>
+        <item quantity="few">%1$d mins ago</item>
+        <item quantity="many">%1$d mins ago</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d hours ago</item>
+        <item quantity="zero">%1$d hours ago</item>
+        <item quantity="one">%1$d hour ago</item>
+        <item quantity="two">%1$d hours ago</item>
+        <item quantity="few">%1$d hours ago</item>
+        <item quantity="many">%1$d hours ago</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d days ago</item>
+        <item quantity="zero">%1$d days ago</item>
+        <item quantity="one">%1$d day ago</item>
+        <item quantity="two">%1$d days ago</item>
+        <item quantity="few">%1$d days ago</item>
+        <item quantity="many">%1$d days ago</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Downloaded by %1$d people</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Downloaded by %1$d people</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Downloaded by %1$d people</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d views</item>
+        <item quantity="zero">%1$d views</item>
+        <item quantity="one">%1$d views</item>
+        <item quantity="two">%1$d views</item>
+        <item quantity="few">%1$d views</item>
+        <item quantity="many">%1$d views</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d groups</item>
+        <item quantity="one">%d group</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">You can clear unimportant data for %d apps</item>
+        <item quantity="one">You can clear unimportant data for %d app</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d apps installed, you can delete rarely used apps</item>
+        <item quantity="one">%d app installed, you can delete this one</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Found %d big files, you can delete the unimportant ones</item>
+        <item quantity="one">Found %d big file, you can delete this one</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Found %d photos, you can delete duplicates or redundant images</item>
+        <item quantity="one">Found %d photo, you can delete duplicates or redundant images</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Found %d APKs, you can delete the unnecessary ones.</item>
+        <item quantity="one">Found %d APK, you can delete this one.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Found %d videos, you can delete the unnecessary ones.​</item>
+        <item quantity="one">Found %d video, you can delete this one.</item>
+    </plurals>
+</resources>

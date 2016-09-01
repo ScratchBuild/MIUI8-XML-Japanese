@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="broadcast_general_type_restricted">
+        <item>android.intent.action.SCREEN_ON</item>
+        <item>android.intent.action.SCREEN_OFF</item>
+        <item>android.net.wifi.RSSI_CHANGED</item>
+        <item>android.net.wifi.SCAN_RESULTS</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <integer-array name="alarm_general_type_restricted">
+        <item>-1</item>
+    </integer-array>
+    <string-array name="cpu_actions_device">
+        <item>cancro</item>
+    </string-array>
+    <string-array name="group_name">
+        <item>normal</item>
+        <item>hide</item>
+        <item>reading</item>
+        <item>media</item>
+    </string-array>
+    <string-array name="group_name_translate">
+        <item>Default</item>
+        <item>Hide mode</item>
+        <item>Reader mode</item>
+        <item>Media mode</item>
+    </string-array>
+    <string-array name="event_name">
+        <item>foreground_change</item>
+        <item>screen_on</item>
+        <item>screen_off</item>
+        <item>screen_off_10_min</item>
+        <item>full_screen_enter</item>
+        <item>full_screen_exit</item>
+        <item>background_change</item>
+        <item>start_charging</item>
+        <item>stop_charging</item>
+        <item>idle_enter</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>App running in foreground</item>
+        <item>Display on</item>
+        <item>Display off</item>
+        <item>Display off over 10 minutes</item>
+        <item>Full screen</item>
+        <item>Exit full screen</item>
+        <item>App running in background</item>
+        <item>Phone is charging</item>
+        <item>"Phone isn't charging"</item>
+        <item>Phone is idle</item>
+    </string-array>
+    <string-array name="action_name">
+        <item>set_brightness</item>
+        <item>set_cpufreq_max</item>
+        <item>set_lcd_mode</item>
+        <item>set_cpu_powermode</item>
+        <item>set_data_connection</item>
+        <item>set_location</item>
+        <item>set_idle_notification</item>
+        <item>set_keyguard_notification</item>
+        <item>set_bg_data_delay_time</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Max display brightness</item>
+        <item>Max CPU frequency</item>
+        <item>Display mode</item>
+        <item>CPU usage</item>
+        <item>Data connection</item>
+        <item>Location</item>
+        <item>First notification</item>
+        <item>Lock screen notifications</item>
+        <item>Restrict background data connections</item>
+    </string-array>
+    <string-array name="action_param">
+        <item>none</item>
+        <item>ui</item>
+        <item>still</item>
+        <item>movie</item>
+        <item>low</item>
+        <item>middle</item>
+        <item>high</item>
+        <item>true</item>
+        <item>false</item>
+        <item>bg_delay_0_mins</item>
+        <item>bg_delay_10_mins</item>
+        <item>bg_delay_30_mins</item>
+        <item>bg_delay_screen_off</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>None</item>
+        <item>Default</item>
+        <item>Picture</item>
+        <item>Movie</item>
+        <item>Battery saver</item>
+        <item>Balance</item>
+        <item>Performance</item>
+        <item>On</item>
+        <item>Off</item>
+        <item>Immediately</item>
+        <item>After 10 min</item>
+        <item>After 30 min</item>
+        <item>When display is off</item>
+    </string-array>
+    <string-array name="shown_mandatory_event_name">
+        <item>foreground_change</item>
+    </string-array>
+    <string-array name="shown_optional_event_name">
+        <item>full_screen_enter</item>
+        <item>start_charging</item>
+        <item>idle_enter</item>
+    </string-array>
+    <string-array name="shown_action_name">
+        <item>set_cpu_powermode</item>
+        <item>set_lcd_mode</item>
+        <item>set_data_connection</item>
+        <item>set_location</item>
+        <item>set_idle_notification</item>
+        <item>set_keyguard_notification</item>
+        <item>set_sync_alarm</item>
+        <item>set_bg_data_delay_time</item>
+    </string-array>
+    <string-array name="shown_action_param_default">
+        <item>middle</item>
+        <item>ui</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>bg_delay_10_mins</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>In this mode</item>
+        <item>Not selected</item>
+        <item>In other modes selected</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Custom</item>
+        <item>Battery saver</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Now</item>
+        <item>Background</item>
+        <item>Recently</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Blocking deep Sleep mode</item>
+        <item>Blocking Sleep mode</item>
+        <item>Searching for WLAN</item>
+        <item>Using GPS</item>
+        <item>Occupying CPU</item>
+        <item>Waking device frequently</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="invisible_app_groups">
+        <item>selected</item>
+        <item>unselected</item>
+    </string-array>
+    <array name="read_enable" />
+    <string-array name="read_disable">
+        <item>com.chaozh.iReaderFree</item>
+    </string-array>
+</resources>

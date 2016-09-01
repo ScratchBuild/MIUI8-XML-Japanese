@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Size</item>
+        <item>Name</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Size</item>
+        <item>Name</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Most used</item>
+        <item>Size</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Every day</item>
+        <item>Every 3 days</item>
+        <item>Every 7 days</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Show</item>
+        <item>"Don't show"</item>
+        <item>Show after</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Clean up this file</item>
+        <item>"View file's location"</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Clean up this file</item>
+        <item>"View file's location"</item>
+    </string-array>
+    <string-array name="video_clean_menu">
+        <item>Clean up this file</item>
+        <item>Open</item>
+    </string-array>
+    <string-array name="empty_floder_clean_menu">
+        <item>Clean up</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Clean up</item>
+        <item>Install this app</item>
+        <item>View in folder</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>Add to exceptions</item>
+    </string-array>
+    <string-array name="long_add_app_menu">
+        <item>Add app to exceptions</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Uninstall</item>
+    </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Every 7 days</item>
+        <item>Every 15 days</item>
+        <item>Every 30 days</item>
+    </string-array>
+    <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+    </string-array>
+    <string-array name="low_memory_clean_menu">
+        <item>Clean up</item>
+    </string-array>
+</resources>
