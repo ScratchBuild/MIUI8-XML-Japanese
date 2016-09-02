@@ -12,7 +12,7 @@
   <string name="clear">C</string>
   <string name="clearDesc">消去</string>
   <string name="clear_history">履歴を消去</string>
-  <string name="combine_loan">Combin loan</string>
+  <string name="combine_loan">Combined loan</string>
   <string name="commercial_loan">Commercial loan</string>
   <string name="convert_currency">Currency converter</string>
   <string name="convertion_unit">Unit converter</string>
@@ -26,6 +26,8 @@
   <string name="cosDesc">cosine</string>
   <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">Exchange rates are provided by hexun.com (%s)</string>
+  <string name="dateformat">yyyy/MM/dd</string>
+  <string name="day">day</string>
   <string name="divDesc">割る</string>
   <string name="dotDesc">小数点</string>
   <string name="eDesc">オイラー数</string>

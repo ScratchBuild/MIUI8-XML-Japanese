@@ -53,16 +53,16 @@
         <item quantity="one">"Couldn't download photo, try again?"</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos, connect to the network and try try again"</item>
-        <item quantity="one">"Couldn't download photo, connect to the network and try try again"</item>
+        <item quantity="other">"Couldn't download %1$d photos, connect to the network and try again"</item>
+        <item quantity="one">"Couldn't download photo, connect to the network and try again"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">"Couldn't download %1$d photos (%2$dMB), try again?"</item>
         <item quantity="one">"Couldn't download photo (%2$dMB), try again?"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), connect to the network and try try again"</item>
-        <item quantity="one">"Couldn't download photo (%2$dMB), connect to the network and try try again"</item>
+        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), connect to the network and try again"</item>
+        <item quantity="one">"Couldn't download photo (%2$dMB), connect to the network and try again"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Cancel downloading %d remaining photos?</item>

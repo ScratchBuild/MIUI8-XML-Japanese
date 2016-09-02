@@ -19,6 +19,10 @@
         <item quantity="other">Removed %1$d videos successfully.</item>
         <item quantity="one">Removed %1$d video successfully.</item>
     </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">Remain %d minutes</item>
+        <item quantity="one">Remain one minute</item>
+    </plurals>
     <plurals name="video_history_clear_prompt">
         <item quantity="other">Delete %1$d items from history?</item>
         <item quantity="one">Delete %1$d item from history?</item>

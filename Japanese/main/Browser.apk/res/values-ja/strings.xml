@@ -335,6 +335,7 @@ Pages you view won't appear in history."</string>
   <string name="is_last_tab">This is the last tab</string>
   <string name="is_page_bottom">"You've reached the bottom of the page"</string>
   <string name="is_page_top">"You're at the top of the page"</string>
+  <string name="isreplace">"ファイルが既に存在します、置き換えますか？"</string>
   <string name="js_dialog_before_unload">"%s
 
 Leave this page?"</string>
@@ -459,6 +460,7 @@ Leave this page?"</string>
   <string name="no_space_alert_text">Not enough storage space</string>
   <string name="no_space_alert_title">Download paused</string>
   <string name="no_space_clean_failed">Could not free up space on your device​</string>
+  <string name="not_allowed_open">"Couldn't use Browser in boot-strap"</string>
   <string name="not_remind_again">Remember my choice</string>
   <string name="notif_install_successful">Download complete</string>
   <string name="ok">OK</string>
@@ -628,6 +630,7 @@ Leave this page?"</string>
   <string name="remove_history_item">"履歴から消去"</string>
   <string name="remove_snapshot">"保存したページを削除"</string>
   <string name="removed_from_bookmarks">"ブックマークから削除しました"</string>
+  <string name="replace">"置き換え"</string>
   <string name="reply_comment_title">Re: %s</string>
   <string name="resume_download">"開始"</string>
   <string name="retry_after_network_available">"ネットワークに接続できません"</string>
@@ -796,6 +799,7 @@ Leave this page?"</string>
   <string name="video_download_exists">Download already exists.</string>
   <string name="video_download_fail">Failed</string>
   <string name="video_download_failed">"Couldn't download"</string>
+  <string name="video_download_finding_address">Finding for address</string>
   <string name="video_download_pause">Paused</string>
   <string name="video_download_start">"ダウンロード中…"</string>
   <string name="video_download_success">"完了"</string>
@@ -816,6 +820,7 @@ Leave this page?"</string>
   <string name="video_group_noupdates_list">No updates available</string>
   <string name="video_group_updates_list">Updates</string>
   <string name="video_history_empty">No history</string>
+  <string name="video_manager_action_bar_end_view">Videos</string>
   <string name="video_play_error">"Couldn't play video"</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">Video is casting to %s</string>
@@ -823,8 +828,11 @@ Leave this page?"</string>
   <string name="video_push_multi_message">%1$d updates available.</string>
   <string name="video_push_multi_title">Update available</string>
   <string name="video_push_single_message">Tap to update to %1$d.</string>
-  <string name="video_subtitle_prefix_message">"視聴済み: "</string>
+  <string name="video_subtitle_last_message1">Remain less than one minute</string>
+  <string name="video_subtitle_prefix1">"視聴済み"</string>
+  <string name="video_subtitle_prefix2">"視聴済み "</string>
   <string name="video_title_prefix_message">"Offline: "</string>
+  <string name="video_unknown_duration">Unknown Duration</string>
   <string name="view_certificate">"証明書を表示"</string>
   <string name="view_document_downloaded_files">View downloaded files in Manager downloads</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>

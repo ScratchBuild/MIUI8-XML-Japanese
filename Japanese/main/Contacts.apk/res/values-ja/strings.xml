@@ -185,7 +185,7 @@
   <string name="config_export_file_suffix"/>
   <string name="config_export_vcard_type">v30_generic</string>
   <string name="config_import_vcard_type">既定</string>
-  <string name="config_prohibited_phone_number_regexp" />
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"通話履歴を消去しますか？"</string>
   <string name="confirm_delete_selected_all_call_logs">"通話履歴を消去しますか？"</string>
   <string name="confirm_delete_sim_entry_miui_title">"削除"</string>
@@ -410,7 +410,7 @@ Contact cards are turned off"</string>
   <string name="email_work">Email work</string>
   <string name="emergency_number_label">Emergency number</string>
   <string name="emptyGroup">"このグループにはメンバーがいません。"</string>
-  <string name="empty_divider_title" />
+  <string name="empty_divider_title"/>
   <string name="enter_contact_name">"名前を入力"</string>
   <string name="eventLabelsGroup">誕生日</string>
   <string name="eventTypeCustom">Custom</string>
@@ -501,7 +501,7 @@ Contact cards are turned off"</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">"IMEI: "</string>
+  <string name="imei">IMEI</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">全てのvCardファイルをインポートする</string>
   <string name="import_contact_card_aggregate_suggestion_button">Merge cards</string>
@@ -587,7 +587,7 @@ Contact cards are turned off"</string>
   <string name="map_home">View home address</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
-  <string name="meid">"MEID: "</string>
+  <string name="meid">MEID</string>
   <string name="menuMoreDescription">More</string>
   <string name="menu_accounts">アカウント</string>
   <string name="menu_addStar">"お気に入りに追加"</string>
@@ -733,7 +733,7 @@ Contact cards are turned off"</string>
   <string name="nickname_picker_name_column">Contact name</string>
   <string name="nickname_picker_nickname_column">Title</string>
   <string name="noAccounts">"グループを作成するにはアカウントが必要です。"</string>
-  <string name="noContactHelpTextAccountsInfo" />
+  <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restore contact data from Mi Account</string>
   <string name="noContacts">"連絡先がありません。"</string>
   <string name="noContactsHelpText">"You don't have any contacts to display.
@@ -1024,7 +1024,7 @@ To add a contact to your list of favorites:
   <string name="scan_duplicate_message">%1$d contacts with identical info</string>
   <string name="scan_merge">Searching for duplicate contacts…</string>
   <string name="scan_qrcode_card_hint1">Scan the QR code above</string>
-  <string name="scan_qrcode_card_hint2" />
+  <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">理由: \"%s\"</string>
   <string name="scanning_sdcard_failed_title">"SDカードを読み込めませんでした"</string>
   <string name="searchHint">"連絡先を検索"</string>

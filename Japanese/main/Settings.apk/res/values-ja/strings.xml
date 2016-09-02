@@ -318,6 +318,8 @@
   <string name="auto_restore_title">自動復元</string>
   <string name="auto_startup_application_manage">自動スタート</string>
   <string name="auto_startup_count">%d apps are allowed to autostart</string>
+  <string name="auto_upload_debug_log_summary">診断データには、ハードウェア、オペレーティングシステムやアプリケーションの使用状況に関する情報が含まれます。これらのデータはシステム内の問題を特定、分析するために使用され、個人を識別するために使用されることはありません。</string>
+  <string name="auto_upload_debug_log_title">診断データを自動的に送信する</string>
   <string name="automatic_brightness">明るさを自動調整</string>
   <string name="available_size">空き容量： %s</string>
   <string name="available_via_passpoint">Available via %1$s</string>
@@ -1021,7 +1023,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">レイアウト境界を表示</string>
   <string name="debug_layout_summary">クリップの境界線、マージンなどを表示</string>
-  <string name="debug_log">ユーザーエクスペリエンスプログラム</string>
   <string name="debug_monitoring_category">監視</string>
   <string name="debug_networking_category">ネットワーク</string>
   <string name="debug_view_attributes">表示属性検査を有効にする</string>
@@ -1461,6 +1462,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="haptic_feedback_enable_title">タッチ操作バイブ</string>
   <string name="haptic_feedback_level">バイブレーションの強さ</string>
   <string name="hardkeyboard_category">キーボードの設定</string>
+  <string name="has_screenshot_sound">スクリーンショットの音</string>
   <string name="hdcp_checking_dialog_title">HDCPチェック動作を設定</string>
   <string name="hdcp_checking_title">HDCPチェック</string>
   <string name="hdmi_3d_display_enable_summary">3Dゲームをサポート</string>
@@ -1944,6 +1946,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="master_clear_summary">携帯端末内のすべてのデータを消去する</string>
   <string name="master_clear_title">データの初期化</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
+  <string name="max_cpu2_info">Dual-core Max</string>
   <string name="max_cpu4_info">"Quad-core Max "</string>
   <string name="max_cpu6_info">"Hexa-core Max "</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
@@ -2362,7 +2365,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_dtmf_tone_enable_title">Settings/Sound &amp; vibration/Dial pad tones</string>
   <string name="path_edge_handgrip">Settings/Edge controls</string>
   <string name="path_equalizer">Settings/Sound &amp; vibration/Audio settings/Equalizer</string>
+  <string name="path_fluency_mode">Settings/Battery &amp; performance/System animations</string>
   <string name="path_font_settings">Settings/Display/System font</string>
+  <string name="path_force_touch">Settings/Additional settings/3D Touch</string>
   <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
   <string name="path_gps_settings">Settings/Additional settings/Privacy/Location</string>
   <string name="path_handy_mode_settings">Settings/Additional settings/One-handed mode</string>
@@ -2553,7 +2558,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_usage_summary">電池の使用状況</string>
   <string name="power_usage_summary_title">電池</string>
   <string name="power_wifi">Wi-Fi</string>
-  <string name="ppp_number">ppp_number</string>
   <string name="pref_button_light">ボタンのライト</string>
   <string name="pref_button_light_summary">メニュー、ホーム、戻るボタンのライトを点灯する</string>
   <string name="pref_edge_handgrip">エッジコントロール</string>
@@ -2563,6 +2567,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="preference_change_password_title">パスワードを変更</string>
   <string name="preferred_app_settings">デフォルト</string>
   <string name="preferred_app_settings_default">デフォルト</string>
+  <string name="preferred_app_settings_not_selected">Not selected</string>
   <string name="preferred_app_settings_reset">デフォルトにリセット</string>
   <string name="preferred_app_settings_reset_button">リセット</string>
   <string name="preferred_app_settings_reset_message">デフォルトアプリの設定は工場出荷時の状態にリセットされます。</string>
@@ -2923,6 +2928,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screensaver_settings_summary_sleep">充電時</string>
   <string name="screensaver_settings_title">スクリーンセーバー</string>
   <string name="screensaver_settings_when_to_dream">起動のタイミング</string>
+  <string name="screenshot">スクリーンショット</string>
+  <string name="screenshot_three_gesture">Slide three fingers to take a screenshot</string>
+  <string name="screenshot_three_gesture_summary">Other three-fingered gestures will be turned off</string>
   <string name="sd_card_settings_label">SDカード</string>
   <string name="sd_card_storage">SDカードストレージ</string>
   <string name="sd_eject">SDカードのマウント解除</string>
@@ -3006,7 +3014,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_edge_handgrip">エッジコントロール</string>
   <string name="search_empty">No search results</string>
   <string name="search_equalizer">イコライザー</string>
+  <string name="search_fluency_mode">システムアニメーション</string>
   <string name="search_font">システムフォント;Font;Fonts;Font sizes;Font size</string>
+  <string name="search_force_touch">3D Touch</string>
   <string name="search_gesture_wakeup_title">画面をダブルタップすると端末が復帰します;double tap to wake;wake screen;double tap screen;double tap</string>
   <string name="search_gps">GPS;Location Access;Location services</string>
   <string name="search_handy_mode">片手操作モード;One-handed mode;Onehanded mode;One hand</string>
@@ -3662,6 +3672,9 @@ PINが正しくない可能性があります。"</string>
   <string name="testing_sim_toolkit">SIMツールキット</string>
   <string name="testing_usage_stats">使用統計情報</string>
   <string name="testing_wifi_info">Wi-Fiネットワーク情報</string>
+  <string name="tether_and_hotspot_title">テザリングとホットスポット</string>
+  <string name="tether_devices_management_title">デバイスの管理</string>
+  <string name="tether_settings_disabled">パーソナルホットスポットはオフです</string>
   <string name="tether_settings_title_all">テザリングとポータブルアクセスポイント</string>
   <string name="tether_settings_title_bluetooth">Bluetoothテザリング</string>
   <string name="tether_settings_title_usb">USBテザリング</string>
@@ -3822,8 +3835,6 @@ PINが正しくない可能性があります。"</string>
   <string name="unmount_inform_text">SDカードのマウントが解除されます。</string>
   <string name="untitled_apn">無題</string>
   <string name="update_progress_for_updates">アップデート中... (%s)</string>
-  <string name="upload_debug_log_summary">匿名の使用統計情報を送信してMIUIの改善に協力する</string>
-  <string name="upload_debug_log_title">ユーザーエクスペリエンスプログラム</string>
   <string name="usage_access">使用状況へのアクセス</string>
   <string name="usage_access_description">使用状況へのアクセスにより、アプリは他のアプリの使用状況、使用頻度、携帯通信会社、言語設定などの情報を追跡できるようになります。</string>
   <string name="usage_access_title">使用履歴にアクセスできるアプリ</string>
@@ -3952,6 +3963,9 @@ PINが正しくない可能性があります。"</string>
   <string name="user_exit_guest_confirm_title">ゲストを削除しますか？</string>
   <string name="user_exit_guest_dialog_remove">削除</string>
   <string name="user_exit_guest_title">ゲストを削除</string>
+  <string name="user_experience_program">ユーザーエクスペリエンスプログラム</string>
+  <string name="user_experience_program_summary">匿名の使用統計情報を送信してMIUIの改善に協力する</string>
+  <string name="user_experience_program_title">ユーザーエクスペリエンスプログラム</string>
   <string name="user_guest">ゲスト</string>
   <string name="user_image_choose_photo">ギャラリーから画像を選ぶ</string>
   <string name="user_image_photo_selector">写真を選択</string>

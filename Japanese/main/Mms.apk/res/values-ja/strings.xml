@@ -351,6 +351,7 @@
   <string name="no">キャンセル</string>
   <string name="no_block_button_msg">ブロックを解除</string>
   <string name="no_conversations">スレッドがありません</string>
+  <string name="no_delivery_report">No delivery report</string>
   <string name="no_subject">(件名なし)</string>
   <string name="no_subject_view">(件名なし)</string>
   <string name="non_english_subject_limit">上限13文字まで</string>
@@ -390,6 +391,7 @@
   <string name="pref_show_blocked_messages_summary">スレッドリストでブロックしたSMSを表示</string>
   <string name="pref_show_sms_template_in_summary">SMSメッセージでワンタイムパスワードを自動的に認識</string>
   <string name="pref_show_sms_template_summary">認証コードを自動でコピーして入力する</string>
+  <string name="pref_smart_messages_settings">Smart messages</string>
   <string name="pref_sms_theme_title">テーマ設定</string>
   <string name="pref_summary_allow_si_sl_push">メッセージがウェブサイトからコンテンツをダウンロードするのを許可</string>
   <string name="pref_summary_delete_limit">"スレッドごとに%1$s件のメッセージ"</string>
@@ -537,6 +539,7 @@
   <string name="set">設定</string>
   <string name="share_img">共有</string>
   <string name="show_all_messages">全てのメッセージを表示</string>
+  <string name="show_delivery_status">Show delivery status</string>
   <string name="show_sender">送信者情報を表示</string>
   <string name="sim_card1">"SIMカード 1"</string>
   <string name="sim_card2">"SIMカード 2"</string>

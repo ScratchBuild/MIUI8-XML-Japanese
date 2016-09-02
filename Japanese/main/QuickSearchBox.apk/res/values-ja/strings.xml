@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">"検索"</string>
+  <string name="application_desc">"アプリケーション"</string>
+  <string name="applications_search_label">"アプリ"</string>
   <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_default">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>

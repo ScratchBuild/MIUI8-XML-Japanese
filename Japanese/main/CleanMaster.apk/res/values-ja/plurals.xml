@@ -45,6 +45,14 @@
         <item quantity="other">%d groups</item>
         <item quantity="one">%d group</item>
     </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Delete %d photos?</item>
+        <item quantity="one">Delete %d photo?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Delete %1$s photos from all devices ?</item>
+        <item quantity="one">Delete %1$s photo from all devices ?</item>
+    </plurals>
     <plurals name="deepclean_cache_summary">
         <item quantity="other">You can clear unimportant data for %d apps</item>
         <item quantity="one">You can clear unimportant data for %d app</item>
@@ -68,5 +76,9 @@
     <plurals name="deepclean_video_summary">
         <item quantity="other">Found %d videos, you can delete the unnecessary ones.​</item>
         <item quantity="one">Found %d video, you can delete this one.</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d apps installed</item>
+        <item quantity="one">%d app installed</item>
     </plurals>
 </resources>
