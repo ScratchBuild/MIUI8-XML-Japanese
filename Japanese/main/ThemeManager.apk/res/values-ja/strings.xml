@@ -9,7 +9,7 @@
   <string name="apply_font_btn_exclude">"後で"</string>
   <string name="apply_font_btn_reboot">"再起動"</string>
   <string name="apply_font_tip">"テーマのフォントを適用するため再起動します。"</string>
-  <string name="apply_theme_with_ringtones">Use theme ringtones</string>
+  <string name="apply_theme_with_ringtones">"テーマの着信音を使用する"</string>
   <string name="audio_duration_minutes_format">"%1$d分"</string>
   <string name="audio_duration_seconds_format">"%1$d秒"</string>
   <string name="backup_theme_dialog_message">"現在のテーマをバックアップしますか？"</string>
@@ -37,20 +37,20 @@
   <string name="description_summary">"概要"</string>
   <string name="description_uploadtime">Update</string>
   <string name="description_version">"バージョン"</string>
-  <string name="description_version_szie">Version: %1$s Size: %2$s</string>
+  <string name="description_version_szie">"バージョン: %1$s サイズ: %2$s"</string>
   <string name="desktop_wallpaper">Home screen</string>
   <string name="dev_options">DEV OPTIONS</string>
   <string name="dev_options_summary">Web Resource</string>
   <string name="download_failed">"ダウンロードに失敗"</string>
   <string name="download_preview_failed">"プレビューを読み込めません"</string>
-  <string name="download_success">Download finished</string>
+  <string name="download_success">"ダウンロードが完了しました"</string>
   <string name="fail_to_add_account">"アカウントが追加できません"</string>
   <string name="favorite_list">Favorites</string>
   <string name="favorite_list_format">Favorite %1$s</string>
   <string name="gift_anonymous">Anonymous</string>
   <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">"キャンセル"</string>
-  <string name="gift_operation_fail_dlg_retry">Try again</string>
+  <string name="gift_operation_fail_dlg_retry">"再試行"</string>
   <string name="gift_operation_waiting">"読み込み中…"</string>
   <string name="gift_owned">Purchased</string>
   <string name="gift_present">Give</string>
@@ -149,7 +149,7 @@
   <string name="resource_comment_loading_list">"読み込み中…"</string>
   <string name="resource_comment_name_default">User %1$s</string>
   <string name="resource_comment_no_average_score">N/A</string>
-  <string name="resource_comment_no_comment">No comments</string>
+  <string name="resource_comment_no_comment">"コメントなし"</string>
   <string name="resource_comment_publish">"送信"</string>
   <string name="resource_comment_rate">"評価:"</string>
   <string name="resource_comment_rating_star_tips">Touch stars to rate:</string>
@@ -217,9 +217,9 @@
   <string name="resource_get_auth_retrieving">"情報を取得中…"</string>
   <string name="resource_has_been_downloaded">"You've already downloaded this theme."</string>
   <string name="resource_hint">Alert</string>
-  <string name="resource_import_failed">"Can't import"</string>
+  <string name="resource_import_failed">"インポートできません"</string>
   <string name="resource_import_successful">"完了"</string>
-  <string name="resource_importing">Importing…</string>
+  <string name="resource_importing">"インポート中…"</string>
   <string name="resource_list_title">Recently selected</string>
   <string name="resource_menu_refresh">Refresh</string>
   <string name="resource_mute">None</string>
@@ -317,7 +317,7 @@
   <string name="theme_batch_update_dlg_content_single">Update %1$s now?</string>
   <string name="theme_batch_update_dlg_title">Update theme</string>
   <string name="theme_batch_updating_text">Updating (%1$d)</string>
-  <string name="theme_bug_report">Feedback</string>
+  <string name="theme_bug_report">"フィードバック"</string>
   <string name="theme_changed_failed_message">"テーマを適用できません"</string>
   <string name="theme_changed_message">Theme applied</string>
   <string name="theme_changing_dialog_title">"Applying "</string>
@@ -356,7 +356,7 @@
   <string name="theme_favorite_waiting">"読み込み中…"</string>
   <string name="theme_fresh_man_notifaction">New themes available</string>
   <string name="theme_immediately_apply_tip">Apply theme update now?</string>
-  <string name="theme_import_from_sdcard">Import</string>
+  <string name="theme_import_from_sdcard">"インポート"</string>
   <string name="theme_is_external_priority_storage">Save to SD card</string>
   <string name="theme_is_external_priority_storage_summary">Themes app will restart immediately to apply this setting.</string>
   <string name="theme_multiple_button_title_customize">Customize</string>
@@ -394,5 +394,5 @@
   <string name="wallpaper_set_as_both">Set both</string>
   <string name="wallpaper_set_as_destop">Set as Home screen</string>
   <string name="wallpaper_set_as_lockscreen">Set as Lock screen</string>
-  <string name="wallpaper_settings">Wallpaper settings</string>
+  <string name="wallpaper_settings">"壁紙の設定"</string>
 </resources>

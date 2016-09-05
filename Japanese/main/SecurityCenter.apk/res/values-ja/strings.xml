@@ -215,7 +215,7 @@ or enter App lock password"</string>
   <string name="button_text_reject_timer">Reject (%d)</string>
   <string name="button_text_security">Security</string>
   <string name="button_text_start_optimize">Check</string>
-  <string name="button_text_uninstall_shortcut">Remove shortcut from Home screen</string>
+  <string name="button_text_uninstall_shortcut">"ホーム画面からショートカットを削除"</string>
   <string name="button_text_update_now">Update</string>
   <string name="button_text_view">Optimize</string>
   <string name="button_text_view_power">View</string>
@@ -247,14 +247,11 @@ or enter App lock password"</string>
   <string name="card_main_private_space_summary">Using Second space is like having 2 devices</string>
   <string name="card_main_private_space_title">Second space</string>
   <string name="card_main_sectool_title">Tools</string>
-  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_speeddetail_title">Connection speed</string>
   <string name="card_main_speeddetailt_summary">View connection speed for individual apps</string>
   <string name="card_main_xspace_action">Create</string>
   <string name="card_main_xspace_summary">Create dual accounts for any app</string>
   <string name="card_main_xspace_title">Dual apps</string>
-  <string name="category_key_power_usage_details">key_power_usage_details</string>
-  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">Last charge</string>
   <string name="charging_text_battery_nearly_full">Nearly charged</string>
@@ -445,7 +442,7 @@ or enter App lock password"</string>
   <string name="hints_last_virus_scan_yesterday_risk">Scanned yesterday: Suspicious</string>
   <string name="hints_last_virus_scan_yesterday_safe">Scanned yesterday: Safe</string>
   <string name="hints_last_virus_scan_yesterday_virus">Scanned yesterday: Dangerous</string>
-  <string name="hints_loading_text">Loading…</string>
+  <string name="hints_loading_text">"読み込み中…"</string>
   <string name="hints_need_quick_clean">Find and delete dangerous files</string>
   <string name="hints_need_quick_scan">Recommended quick scan</string>
   <string name="hints_need_regular_scan">Scan your device regularly</string>
@@ -546,7 +543,7 @@ or enter App lock password"</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"Wait for %d seconds and try again. "</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">"キャンセル"</string>
-  <string name="lockpattern_tutorial_continue_label">Next</string>
+  <string name="lockpattern_tutorial_continue_label">"次へ"</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
@@ -701,7 +698,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_battery_consume_abnormal_title">Battery is being drained too fast</string>
   <string name="notification_battery_over_heat_summary">Find what causes heating, and cool down the device.</string>
   <string name="notification_battery_over_heat_title">Current temperature is %d℃</string>
-  <string name="notification_charging_title">Charging</string>
+  <string name="notification_charging_title">"充電中"</string>
   <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_item">Protect selected apps with App lock</string>
@@ -791,7 +788,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="permission_close_permission_control_dialog_title">Turn off?</string>
   <string name="permission_exception_summary">"Some apps don't have permission to connect to the internet"</string>
   <string name="permission_exception_title">View network permissions</string>
-  <string name="permission_group_title_others">Others</string>
+  <string name="permission_group_title_others">"その他"</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources. You can turn this feature on in Permission settings."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Permission manager</string>
   <string name="permission_send_sms_descx">Apps can send SMS and MMS messages</string>
@@ -849,7 +846,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_optimize_disable_app_autostart">Prevent apps from opening automatically</string>
   <string name="power_optimize_disable_gps">Turn off GPS</string>
   <string name="power_optimize_disable_start_other_app">Prevent apps from opening other apps</string>
-  <string name="power_optimize_loading">Loading</string>
+  <string name="power_optimize_loading">"読み込み中"</string>
   <string name="power_optimize_manual_catagory_title">Manual</string>
   <string name="power_optimize_open_hide_mode">Turn on Hide mode</string>
   <string name="power_optimize_save_mode_not_opened">Battery saver off</string>
@@ -1205,8 +1202,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
-  <string name="system_app">System apps</string>
-  <string name="system_application">System apps</string>
+  <string name="system_app">"システムアプリ"</string>
+  <string name="system_application">"システムアプリ"</string>
   <string name="system_check_content_none">Safe</string>
   <string name="system_header_title">Clear %1$d processes to free %2$s of memory</string>
   <string name="system_info_remind">Add locks to prevent unauthorized access to your apps</string>
@@ -1404,7 +1401,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_button2_text">Save</string>
   <string name="traffic_setting_fragment_get_template_falure">"Can't connect to network. Check your data connection and try again."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"二度と表示しない"</string>
-  <string name="traffic_setting_fragment_loading_text">Getting network info…</string>
+  <string name="traffic_setting_fragment_loading_text">"ネットワーク情報の取得中…"</string>
   <string name="traffic_setting_fragment_no_network">"ネットワークに接続できません"</string>
   <string name="traffic_setting_fragment_null">Empty</string>
   <string name="traffic_setting_fragment_operator">Carrier</string>
@@ -1418,7 +1415,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_step_num">Data plan settings</string>
   <string name="traffic_warning_purchase_title">Mobile data usage warning</string>
   <string name="unable_connect_internet">No internet connection</string>
-  <string name="unlike">No thanks</string>
+  <string name="unlike">"結構です"</string>
   <string name="updating_diagnostic_botton">Analyzing data…</string>
   <string name="usage_sorted_activity_lable">Data usage</string>
   <string name="usage_sorted_empty_text">Empty</string>

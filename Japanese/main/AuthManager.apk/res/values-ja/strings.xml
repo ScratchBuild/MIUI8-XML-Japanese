@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Dashboard_App">Apps</string>
+  <string name="Dashboard_App">"アプリ"</string>
   <string name="Dashboard_HIPS_Disable_Content">"MIUI won't monitor apps' permissions requests."</string>
   <string name="Dashboard_HIPS_Disable_Title">Permissions</string>
-  <string name="Dashboard_Log">Logs</string>
-  <string name="Dashboard_Log_Clear_Content">All logs will be erased.</string>
-  <string name="Dashboard_Log_Clear_Title">Clear logs</string>
+  <string name="Dashboard_Log">"ログ"</string>
+  <string name="Dashboard_Log_Clear_Content">"すべてのログが消去されます。"</string>
+  <string name="Dashboard_Log_Clear_Title">"ログを消去"</string>
   <string name="Dashboard_Perm">Permissions</string>
   <string name="Dashboard_Perm_AutoStart">Autostart permissions</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Control which apps can start when your device powers on</string>
@@ -31,12 +31,12 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Generic_Canceling">"キャンセル中…"</string>
   <string name="Generic_Check">Check</string>
   <string name="Generic_Clean">Clean</string>
-  <string name="Generic_Configuration">Settings</string>
+  <string name="Generic_Configuration">"設定"</string>
   <string name="Generic_Copyright">Powered by LBE Privacy Guard</string>
   <string name="Generic_Disable">Turn off</string>
   <string name="Generic_Enable">Turn on</string>
   <string name="Generic_Good">Good</string>
-  <string name="Generic_HideSystemApp">Hide system apps</string>
+  <string name="Generic_HideSystemApp">"システムアプリを非表示"</string>
   <string name="Generic_InvalidInput">Entry invalid</string>
   <string name="Generic_Loading">"読み込み中…"</string>
   <string name="Generic_MonitoredApp">Watching (%1$d)</string>
@@ -45,7 +45,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Generic_Service_Disabled">Off</string>
   <string name="Generic_Service_Enabled">On</string>
   <string name="Generic_Shortcut">Contextual menu</string>
-  <string name="Generic_ShowSystemApp">Show system apps</string>
+  <string name="Generic_ShowSystemApp">"システムアプリを表示"</string>
   <string name="Generic_Summary_Disabled">Off</string>
   <string name="Generic_Summary_Enabled">On</string>
   <string name="Generic_SystemApp">System (%d)</string>
@@ -71,7 +71,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Group_ROOT">Root access</string>
   <string name="HIPS_Perm_AdjustRingerVolume">change ringer volume</string>
   <string name="HIPS_Perm_AdjustVolumeInCall">change in-call volume</string>
-  <string name="HIPS_Perm_AllowAll">Allow all</string>
+  <string name="HIPS_Perm_AllowAll">"すべて許可"</string>
   <string name="HIPS_Perm_AnswerCall">answer calls</string>
   <string name="HIPS_Perm_AudioRecorder">Record audio</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">record audio and phone calls</string>
@@ -175,7 +175,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_Recorder_Camera">access camera to capture images</string>
   <string name="HIPS_Perm_Recorder_Video">record audio and video</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">record in-call audio</string>
-  <string name="HIPS_Perm_RejectAll">Deny all</string>
+  <string name="HIPS_Perm_RejectAll">"すべて拒否"</string>
   <string name="HIPS_Perm_SMS">Write and delete SMS messages</string>
   <string name="HIPS_Perm_SMS_Access">read your SMS messages</string>
   <string name="HIPS_Perm_SMS_Desc">write and delete SMS messages</string>
@@ -235,7 +235,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_SecurityPrompt_Accept">Allow (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Allow</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Allow Once (%d)</string>
-  <string name="HIPS_SecurityPrompt_Caption">Security warning</string>
+  <string name="HIPS_SecurityPrompt_Caption">"セキュリティの警告"</string>
   <string name="HIPS_SecurityPrompt_Next">"次へ"</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Root access</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Grant %1$s root access?</string>
@@ -251,7 +251,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Privacy_AppPerm_Count">%1$d permissions</string>
   <string name="Privacy_AppPerm_Count_Trust">"%1$d permissions - &lt;font color=#478800&gt;信頼済み&lt;/font&gt;"</string>
   <string name="Privacy_App_Finish">OK</string>
-  <string name="Privacy_App_Installed">Installed successfully</string>
+  <string name="Privacy_App_Installed">"正常にインストールされました"</string>
   <string name="Privacy_App_Launch">"起動"</string>
   <string name="Privacy_App_Log">"ログ"</string>
   <string name="Privacy_App_Manage">"詳細"</string>
@@ -268,7 +268,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="SysOpt_Boost_AutoStart">Autostart permission</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Boot</string>
-  <string name="SysOpt_Boost_Receiver">Background</string>
+  <string name="SysOpt_Boost_Receiver">"バックグラウンド"</string>
   <string name="app_name">Permission manager</string>
   <string name="current_permission_template">"%1$s/%2$s"</string>
   <string name="default_permission_description">"不明な操作の実行"</string>

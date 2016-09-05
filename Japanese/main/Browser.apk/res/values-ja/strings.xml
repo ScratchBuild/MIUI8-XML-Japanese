@@ -209,7 +209,7 @@ Pages you view won't appear in history."</string>
   <string name="dialog_cannot_resume">Download was interrupted</string>
   <string name="dialog_confirm_delete_checkbox_message">"内部ストレージ上のファイルを削除"</string>
   <string name="dialog_confirm_delete_downloads_message">Delete %s tasks?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Delete this task?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">"このタスクを削除しますか？"</string>
   <string name="dialog_failed_body">Try again later or remove this file from the download que​ue?</string>
   <string name="dialog_file_already_exists">"このファイルは既にダウンロード済みです"</string>
   <string name="dialog_file_missing_body">"ファイルが見つかりません、移動や削除をしましたか？"</string>
@@ -282,7 +282,7 @@ Pages you view won't appear in history."</string>
   <string name="error_console_header_text_maximized">"JavaScriptコンソール"</string>
   <string name="error_console_header_text_minimized">"JavaScriptコンソールを表示"</string>
   <string name="error_forbidden">Sync has been turned off due to problems with your Mi Account.</string>
-  <string name="error_not_acceptable">Sync is off.</string>
+  <string name="error_not_acceptable">"同期はオフです。"</string>
   <string name="error_title">"Couldn't sync"</string>
   <string name="error_unauthorized">Syncing with your Mi Account has been turned off due to too many sign-in attempts.</string>
   <string name="exit_browser_warning">"ブラウザを終了しますか？"</string>
@@ -497,7 +497,7 @@ Leave this page?"</string>
   <string name="pref_clear_all_data_title">"すべて消去"</string>
   <string name="pref_clear_data_title">"データを消去"</string>
   <string name="pref_confirm_for_exit">"ブラウザを終了する前に確認を行う"</string>
-  <string name="pref_content_auto_light_mode">Auto-brightness</string>
+  <string name="pref_content_auto_light_mode">"明るさを自動調整"</string>
   <string name="pref_content_block_popups">"ポップアップをブロック"</string>
   <string name="pref_content_cloud_speedup">Load content faster using proxy servers</string>
   <string name="pref_content_fontsize_setting">"フォント設定"</string>
@@ -596,8 +596,8 @@ Leave this page?"</string>
   <string name="profiler_started_toast">Profiler started</string>
   <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">"壁紙を設定しています…"</string>
-  <string name="pull_to_refresh_pull_label">Pull to refresh</string>
-  <string name="pull_to_refresh_release_label">Release to recommend and refresh</string>
+  <string name="pull_to_refresh_pull_label">"画面を引っ張って"</string>
+  <string name="pull_to_refresh_release_label">"指を離して更新"</string>
   <string name="qr_code_title">"QRコード"</string>
   <string name="quicklink_bookmark_save">BOOKMARK LOCATION</string>
   <string name="quicklink_not_saved">"Couldn't add to start page"</string>
