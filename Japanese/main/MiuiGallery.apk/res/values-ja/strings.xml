@@ -180,7 +180,7 @@
   <string name="contact_tip">"連絡先"</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">"コピー"</string>
-  <string name="context_menu_copy_notice">Copied to clipboard</string>
+  <string name="context_menu_copy_notice">"クリップボードにコピーしました"</string>
   <string name="create_baby_album">Create a Baby album</string>
   <string name="create_baby_album_dialog_msg">Create an album for \"%s\"?</string>
   <string name="create_baby_album_later_toast">Create a Baby album anytime in Settings</string>
@@ -192,8 +192,8 @@
   <string name="crop">Crop</string>
   <string name="crop_and_rotate">Adjust</string>
   <string name="crop_label">Cropped photos</string>
-  <string name="custom_select_title_deselect_all">Deselect</string>
-  <string name="custom_select_title_quickly_share">Share</string>
+  <string name="custom_select_title_deselect_all">"選択を解除"</string>
+  <string name="custom_select_title_quickly_share">"共有"</string>
   <string name="custom_select_title_select_all">"すべて選択"</string>
   <string name="custom_select_title_select_item">"アイテムを選択"</string>
   <string name="debugging_tip">Generating debug data</string>
@@ -528,8 +528,8 @@ Take more photos of your friends!"</string>
   <string name="request_sms_url_msg">Requesting info…</string>
   <string name="request_sms_url_title">Hint</string>
   <string name="reset">"リセット"</string>
-  <string name="retry_to_create_album">Try again</string>
-  <string name="retry_to_request_qr_code">Try again</string>
+  <string name="retry_to_create_album">"再試行"</string>
+  <string name="retry_to_request_qr_code">"再試行"</string>
   <string name="return_from_clear_local_file_fragment_toast">Optimized photos are stored on the device. Tap a photo to download the original item from Mi Cloud.</string>
   <string name="revert">"元に戻す"</string>
   <string name="runtime_permission_ungranted">Closed Gallery, no required permissions</string>

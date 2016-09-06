@@ -289,7 +289,7 @@
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="news_change">Change</string>
   <string name="no_network">"Couldn't connect to network, try again later"</string>
-  <string name="no_network_btn">Try again</string>
+  <string name="no_network_btn">"再試行"</string>
   <string name="notification_summary_after_auto_cleanup">Cleaned %s.</string>
   <string name="notification_summary_of_garbage_cleanup">Your trash is over %s.</string>
   <string name="notification_title_of_garbage_cleanup">Trash size</string>
@@ -370,7 +370,7 @@
   <string name="sms">SMS/MMS</string>
   <string name="sponsored">Sponsored</string>
   <string name="start_downloading_app">Starting download: %1$s</string>
-  <string name="start_install">Install now</string>
+  <string name="start_install">"今すぐインストール"</string>
   <string name="summary_auto_cleaner">Clean your system automatically every 3 days?</string>
   <string name="summary_delete_apk">Delete selected APKs permanently?</string>
   <string name="summary_delete_cache">Clear cache of the selected apps?</string>

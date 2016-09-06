@@ -51,8 +51,8 @@
   <string name="sst_subscribe_title">My categories</string>
   <string name="sst_wifi_only_desc">"モバイルデータを節約するには、この機能をオフにします"</string>
   <string name="sst_wifi_only_title">"モバイルデータを使用して壁紙を更新"</string>
-  <string name="summary">"By using this feature, you're agreeing to our &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. This feature needs to connect to the internet to work normally."</string>
-  <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. This feature needs to connect to the internet to work normally.​"</string>
+  <string name="summary">"この機能を利用することで、当社の&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>プライバシーポリシー&lt;/a>に同意したことになります。この機能が正常に動作するにはインターネットに接続する必要があります。"</string>
+  <string name="summary_international">"この機能を利用することで、当社の&lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>ユーザー使用許諾契約&lt;/a>と&lt;a href='http://www.miui.com/res/doc/privacy/en.html'>プライバシーポリシー&lt;/a>に同意したことになります。この機能が正常に動作するにはインターネットに接続する必要があります。​"</string>
   <string name="theme_apply_failured">"適用できませんでした、後ほど再試行してください"</string>
   <string name="theme_apply_success">"ロック画面に適用しました"</string>
   <string name="theme_applying">"適用中…"</string>

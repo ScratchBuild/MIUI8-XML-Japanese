@@ -532,7 +532,7 @@ or enter App lock password"</string>
   <string name="lockpattern_continue_button_text">Next</string>
   <string name="lockpattern_need_to_confirm">Draw the pattern again to confirm</string>
   <string name="lockpattern_need_to_unlock">Confirm the saved pattern</string>
-  <string name="lockpattern_need_to_unlock_wrong">Try again</string>
+  <string name="lockpattern_need_to_unlock_wrong">"再試行"</string>
   <string name="lockpattern_pattern_confirmed_header">New unlock pattern</string>
   <string name="lockpattern_pattern_entered_header">Pattern added</string>
   <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots</string>
@@ -1160,7 +1160,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="spinner_title">%1$s - Mobile data: %2$s</string>
   <string name="st_title_mode_choose_group">Choose profile</string>
   <string name="start_diagnostic_botton">"開始"</string>
-  <string name="start_install">Install now</string>
+  <string name="start_install">"今すぐインストール"</string>
   <string name="stop_app_button">"停止"</string>
   <string name="suffix_pay_risk_count_bottom">risks</string>
   <string name="suffix_pay_risk_count_top">payment</string>

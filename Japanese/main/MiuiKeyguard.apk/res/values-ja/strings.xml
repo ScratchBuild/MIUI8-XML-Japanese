@@ -20,7 +20,7 @@
   <string name="fingerprint_lockout_msg">"指紋認証で再度ロックの解除を試みるには、数分間待ってください。"</string>
   <string name="fingerprint_not_identified_msg">"端末のロックを解除するには、パスワードを入力します。"</string>
   <string name="fingerprint_not_identified_title">"パスワードを入力"</string>
-  <string name="fingerprint_try_again_text">Try again</string>
+  <string name="fingerprint_try_again_text">"再試行"</string>
   <string name="forget_password_string">"パスワードを忘れた場合"</string>
   <string name="incorrect_pincode">"PINコードが正しくありません"</string>
   <string name="incorrect_pincode_remaining_attempts">"PINコードが正しくありません、残り%d回です"</string>

@@ -674,10 +674,10 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_missing_sim_message">No SIM card in phone.</string>
   <string name="lockscreen_missing_sim_message_short">No SIM card</string>
   <string name="lockscreen_network_locked_message">Network locked</string>
-  <string name="lockscreen_password_wrong">Try again</string>
+  <string name="lockscreen_password_wrong">"再試行"</string>
   <string name="lockscreen_pattern_correct">Correct!</string>
   <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
-  <string name="lockscreen_pattern_wrong">Try again</string>
+  <string name="lockscreen_pattern_wrong">"再試行"</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
  Contact your wireless service provider for another SIM card."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Unusable SIM card.</string>

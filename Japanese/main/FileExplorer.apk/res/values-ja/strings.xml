@@ -5,8 +5,8 @@
   <string name="action_mode_deselect_all">"すべて選択を解除"</string>
   <string name="action_mode_select_all">"すべて選択"</string>
   <string name="activity_parse_video_title">"URLを貼り付け"</string>
-  <string name="activity_rule">Rules</string>
-  <string name="ad_download">Download</string>
+  <string name="activity_rule">"ルール"</string>
+  <string name="ad_download">"ダウンロード"</string>
   <string name="ad_downloading">"読み込み中…"</string>
   <string name="add_one">+1</string>
   <string name="add_private">Hide files now</string>
@@ -109,14 +109,14 @@
   <string name="connect_network_setting_des">Prompt for internet connection</string>
   <string name="connecting">"接続中…"</string>
   <string name="connection_error">"接続できませんでした"</string>
-  <string name="copied">Copied</string>
-  <string name="copy_failed">"Couldn't copy"</string>
+  <string name="copied">"コピーしました"</string>
+  <string name="copy_failed">"コピーできませんでした"</string>
   <string name="copy_failed_retry">"Can't copy, wait %1$s and try again"</string>
   <string name="copy_file_to_kuaipan">Copy file to KuaiPan</string>
   <string name="copy_file_to_midrive">Copy file to Mi Drive</string>
-  <string name="copy_text">Copy text</string>
+  <string name="copy_text">"テキストをコピー"</string>
   <string name="copy_to">Copy to…</string>
-  <string name="create_kuaipan_shortcut_pref">Create shortcut on Home screen</string>
+  <string name="create_kuaipan_shortcut_pref">"ホーム画面にショートカットを作成します"</string>
   <string name="create_new_folder_desctiption">Creating folder…</string>
   <string name="create_new_folder_failed">"Couldn't create folder."</string>
   <string name="create_share_link_description">Creating link#8230;</string>
@@ -127,8 +127,8 @@
   <string name="data_consumption_confirm">OK</string>
   <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
   <string name="data_consumption_message1">Device should be connected to the internet to view popular stickers and videos.</string>
-  <string name="data_consumption_title">Internet connection</string>
-  <string name="decompress_cancel">Cancel</string>
+  <string name="data_consumption_title">"インターネット接続"</string>
+  <string name="decompress_cancel">"キャンセル"</string>
   <string name="decompress_confirm">Extract</string>
   <string name="decompress_destination_error">"Can't extract files to this location."</string>
   <string name="decompress_encrypted_rar_not_supported">Encrypted rar files are not supported.</string>
@@ -172,10 +172,10 @@
   <string name="dislike_toast">"Such videos won't be recommended to you."</string>
   <string name="dislike_video">"I'm not interested"</string>
   <string name="dlg_error_unmount_text">"Couldn't unmount USB storage."</string>
-  <string name="download">Download</string>
+  <string name="download">"ダウンロード"</string>
   <string name="download_current_progress">%1$d%%</string>
-  <string name="download_fail">"Couldn't download"</string>
-  <string name="download_failed">"Couldn't download"</string>
+  <string name="download_fail">"ダウンロードできませんでした"</string>
+  <string name="download_failed">"ダウンロードできませんでした"</string>
   <string name="download_link_completed">%1$s shared using KuaiPan. Tap the link below to view: </string>
   <string name="downloaded_sticker_str">Downloaded</string>
   <string name="downloading">Downloading</string>
@@ -435,7 +435,7 @@ Sorry for the inconvenience."</string>
 Download them when you want
 and never miss the cool new ones!"</string>
   <string name="new_function_title_str">About WeChat stickers</string>
-  <string name="no">No</string>
+  <string name="no">"いいえ"</string>
   <string name="no_apk">Tap to get apps</string>
   <string name="no_app_tags">Empty</string>
   <string name="no_comment">No comments</string>
@@ -622,9 +622,9 @@ and never miss the cool new ones!"</string>
   <string name="rlv_last_loading_time">Last refreshed: %1$s</string>
   <string name="rlv_last_refreshing_time">Updated %1$s</string>
   <string name="rlv_loading_more">"読み込み中…"</string>
-  <string name="rlv_pull_to_refresh">Pull down to refresh</string>
-  <string name="rlv_refreshing">Refreshing…</string>
-  <string name="rlv_release_to_refresh">Release to refresh</string>
+  <string name="rlv_pull_to_refresh">"画面を引っ張って"</string>
+  <string name="rlv_refreshing">"読み込み中…"</string>
+  <string name="rlv_release_to_refresh">"指を離して更新"</string>
   <string name="save_to_local">"ダウンロード"</string>
   <string name="sd_card_available">Available: %1$s</string>
   <string name="sd_card_size">SD card: %1$s</string>
@@ -918,7 +918,7 @@ and never miss the cool new ones!"</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="xiaomi_btn_str">Mi</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
-  <string name="yes">Yes</string>
-  <string name="yesterday">Yesterday</string>
+  <string name="yes">"はい"</string>
+  <string name="yesterday">"昨日"</string>
   <string name="zero_comment">No comments</string>
 </resources>

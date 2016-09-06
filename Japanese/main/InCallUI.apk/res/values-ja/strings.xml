@@ -74,7 +74,7 @@
   <string name="card_title_video_call">"ビデオハングアウト"</string>
   <string name="card_title_video_call_paused">Video paused</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
-  <string name="conference_call_number">%s people</string>
+  <string name="conference_call_number">"%s人"</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">"%1$s's conference call"</string>
   <string name="conference_caller_name_me">Me</string>
@@ -212,7 +212,7 @@
   <string name="select_audio_dialog_title">Select answering mode</string>
   <string name="select_one_sim_title">Can only use SIM %1$d</string>
   <string name="select_sim_hint">"Can't use SIM %2$d, while SIM %1$d is in use."</string>
-  <string name="select_voice_call_sim">Choose SIM card</string>
+  <string name="select_voice_call_sim">"SIMカードを選択"</string>
   <string name="separate_from_conference">Separate call</string>
   <string name="suspect_info">Be careful: Always verify the identity of the contact by phone or video before responding to any messages involving your personal information.</string>
   <string name="time_left_livetalk">"(%d秒)"</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">"ダウンロードマネージャー"</string>
-  <string name="auto_restart_under_wifi">Wi-Fi will automatically download this file</string>
+  <string name="auto_restart_under_wifi">"Wi-Fi接続時には自動でこのファイルをダウンロードします"</string>
   <string name="button_cancel_download">"キャンセル"</string>
   <string name="button_download_now">"今すぐダウンロード"</string>
   <string name="button_queue_for_wifi">"キューに登録"</string>
@@ -11,8 +11,8 @@
   <string name="dialog_insufficient_space_on_external">"外部ストレージに十分な空き領域がありません"</string>
   <string name="dialog_not_show_again">"二度と表示しない"</string>
   <string name="download_apk_desktop_installing">"インストール中"</string>
-  <string name="download_apk_desktop_pause">Paused</string>
-  <string name="download_apk_desktop_pending">Pending</string>
+  <string name="download_apk_desktop_pause">"一時停止"</string>
+  <string name="download_apk_desktop_pending">"保留中"</string>
   <string name="download_apk_desktop_running">"ダウンロード中"</string>
   <string name="download_error">"失敗しました"</string>
   <string name="download_no_application_title">"ファイルを開くことができません"</string>

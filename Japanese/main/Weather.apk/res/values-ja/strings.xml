@@ -82,7 +82,7 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">"現在"</string>
   <string name="hourly_forecast_title">"1時間ごとの予報"</string>
-  <string name="index_item_install_now">Install now</string>
+  <string name="index_item_install_now">"今すぐインストール"</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">"体感気温 %1$s°C"</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -102,9 +102,9 @@
   <string name="indices_title_uv">"UV指数"</string>
   <string name="indices_title_visibility">"視程"</string>
   <string name="information_manager_information">"天気情報"</string>
-  <string name="information_manager_wlan">Show when connected to WLAN</string>
+  <string name="information_manager_wlan">"Wi-Fi接続されている時に表示"</string>
   <string name="information_menu_title"/>
-  <string name="information_set">Start page settings</string>
+  <string name="information_set">"スタートページの設定"</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">"インストール"</string>
@@ -133,7 +133,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
   <string name="realtime_humidity_title">"相対湿度"</string>
   <string name="realtime_wind_default_title">Wind</string>
-  <string name="retry">Try again</string>
+  <string name="retry">"再試行"</string>
   <string name="set">"設定"</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>
