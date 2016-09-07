@@ -5,7 +5,7 @@
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
   <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
+  <string name="abc_action_mode_done">"完了"</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
   <string name="abc_capital_off">OFF</string>
@@ -25,13 +25,13 @@
   <string name="ac_mode_dry">Dehumidifying</string>
   <string name="ac_mode_fan">Direction</string>
   <string name="ac_mode_hot">Heating</string>
-  <string name="ac_set_timer_title_text">Please select the time</string>
-  <string name="activity_stb_list_title">Choose set-top box</string>
+  <string name="ac_set_timer_title_text">"時間を選択してください"</string>
+  <string name="activity_stb_list_title">"セットトップボックスを選択"</string>
   <string name="actor_intro_title_text">Cast</string>
   <string name="add">"追加"</string>
   <string name="add_control">"リモコンの追加"</string>
   <string name="add_control_frame">Add %1$s remote</string>
-  <string name="add_device">Add device</string>
+  <string name="add_device">"デバイスの追加"</string>
   <string name="add_device_match_desc_bottom">3. Choose %1$s to verify the connection</string>
   <string name="add_device_match_desc_center">2. Tap the button</string>
   <string name="add_device_match_desc_top">1. Point your Mi device at your %1$s</string>
@@ -45,7 +45,7 @@
   <string name="add_new_tv_power_only">Add TV power switch…</string>
   <string name="adjust_auto_tune_interval">Automatically adjust channel change interval</string>
   <string name="agile_control">&lt;u&gt;&amp;#24555;&amp;#25463;&amp;#36965;&amp;#25511;&amp;#22120;&lt;/u&gt;</string>
-  <string name="agree">Agree</string>
+  <string name="agree">"同意"</string>
   <string name="airkan_disconnect">Devices not connected</string>
   <string name="airkan_disconnect_display_name">Devices not connected</string>
   <string name="airrc_device_not_connected">Not connected</string>
@@ -56,15 +56,15 @@
   <string name="anion">Ionizer</string>
   <string name="apk_file_list_view_header">A total of %d packages</string>
   <string name="apk_files_list_title">Local installation package</string>
-  <string name="app_clear">Clear data</string>
-  <string name="app_detail_comments">Reviews</string>
+  <string name="app_clear">"データを消去"</string>
+  <string name="app_detail_comments">"レビュー"</string>
   <string name="app_detail_content_hidemore_text">Collapse</string>
   <string name="app_detail_content_showmore_text">Expand</string>
   <string name="app_detail_content_title_text">Title</string>
   <string name="app_detail_info">"詳細を表示"</string>
   <string name="app_detail_install_forbox">Install box</string>
   <string name="app_detail_install_fortv">Install TV</string>
-  <string name="app_detail_no_comments">No reviews.</string>
+  <string name="app_detail_no_comments">"レビューなし。"</string>
   <string name="app_detail_recomments_title_text">Related Apps</string>
   <string name="app_detail_title_info">Summary</string>
   <string name="app_detail_title_recomment">Related apps</string>
@@ -93,7 +93,7 @@
   <string name="app_search_title_thirdpatry">Found %d thir-party apps</string>
   <string name="app_size">Size: %1$s</string>
   <string name="app_sort">Sort</string>
-  <string name="app_uninstall">Uninstall</string>
+  <string name="app_uninstall">"アンインストール"</string>
   <string name="app_update">Update</string>
   <string name="app_version">Version %1$s</string>
   <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
@@ -102,7 +102,7 @@
   <string name="auto_tune">Auto tune</string>
   <string name="auto_tune_hint_text">Automatically change the channel after start，the phone will send a certain interval code&lt;Channel+&gt;Button</string>
   <string name="auto_tune_running">Auto tune running…</string>
-  <string name="back">Back</string>
+  <string name="back">"戻る"</string>
   <string name="backup">Backup to cloud</string>
   <string name="backup_failed">Backup failed，please try again</string>
   <string name="backup_succeed">Backup successful</string>
@@ -184,7 +184,7 @@
   <string name="delete_device_frame">Delete %1$s?</string>
   <string name="delete_frame">"\"%1$s\"を削除しますか？"</string>
   <string name="delete_navigate_view_cancel_button_text">"キャンセル"</string>
-  <string name="delete_navigate_view_delete_button_text">Delete</string>
+  <string name="delete_navigate_view_delete_button_text">"削除"</string>
   <string name="device_bluetoothi">Bluetooth remote</string>
   <string name="device_brand">"ブランド"</string>
   <string name="device_model">"モデル"</string>
@@ -256,7 +256,7 @@
   <string name="epg_no_booking_data">No booking data</string>
   <string name="epg_no_more_latest_comment">No more comments</string>
   <string name="epg_no_program_data">No program data</string>
-  <string name="epg_no_search_result">No search results</string>
+  <string name="epg_no_search_result">"検索結果はありません"</string>
   <string name="epg_no_sys_notification">Temporarily no notification system</string>
   <string name="epg_not_booked_program_time_left">Booked （Time left %1$s）</string>
   <string name="epg_program_comment">Write a comment</string>
@@ -298,7 +298,7 @@
   <string name="fan_speed">Speed</string>
   <string name="faq">FAQ</string>
   <string name="fav">Star</string>
-  <string name="feedback">Feedback</string>
+  <string name="feedback">"フィードバック"</string>
   <string name="feedback_error">Report bug</string>
   <string name="feedback_error_success_tip">Submitted successfully</string>
   <string name="feedback_error_tips">Having problems using this remote, tap to report a problem</string>
@@ -850,7 +850,7 @@ To activate your account, follow the
   <string name="select_area">Choose location</string>
   <string name="select_brand">Select %s</string>
   <string name="select_controller">Select remote</string>
-  <string name="select_done">Done</string>
+  <string name="select_done">"完了"</string>
   <string name="select_dvb_carrier">Choose service provider</string>
   <string name="select_screenshot_topic">Choose topic</string>
   <string name="select_stb">Select the set-top box</string>
@@ -942,7 +942,7 @@ To activate your account, follow the
   <string name="submit">Submit</string>
   <string name="submit_fail_retry">"Couldn't submit device info. Wait a minute or two and try again."</string>
   <string name="succeed_content">Added %3$s %4$s successfully.</string>
-  <string name="succeed_finish">Done</string>
+  <string name="succeed_finish">"完了"</string>
   <string name="succeed_title">"登録"</string>
   <string name="suggest_use_wifi_rc">*Wifi RC contains more cast features</string>
   <string name="supported_by_kookong">Technical support by Youku</string>

@@ -78,7 +78,7 @@
   <string name="first_start_network_title">"インターネット接続と位置情報アクセス"</string>
   <string name="global_aqi">AQI: %1$s %2$s</string>
   <string name="gps_hint">"現在地"</string>
-  <string name="hide_topic">Hide</string>
+  <string name="hide_topic">"隠す"</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">"現在"</string>
   <string name="hourly_forecast_title">"1時間ごとの予報"</string>

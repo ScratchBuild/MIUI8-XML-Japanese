@@ -12,7 +12,7 @@
   <string name="action_item_download">"ダウンロード"</string>
   <string name="action_item_favorite">Favorite</string>
   <string name="action_item_follow">Follow</string>
-  <string name="action_item_hide">Hide</string>
+  <string name="action_item_hide">"隠す"</string>
   <string name="action_item_hifi">"ヘッドフォンとオーディオエフェクト"</string>
   <string name="action_item_multiple">"編集"</string>
   <string name="action_item_play_all">"すべて再生"</string>
@@ -118,7 +118,7 @@
   <string name="delete_file_start">Delete selected files</string>
   <string name="delete_the_downloaded_file">Downloaded files will be deleted.</string>
   <string name="desc_online_personal_radio">Just for you</string>
-  <string name="deselect_all">Deselect all</string>
+  <string name="deselect_all">"すべて選択を解除"</string>
   <string name="desktop_lyric_button_close">Close</string>
   <string name="desktop_lyric_button_lock">Lock</string>
   <string name="desktop_lyric_color">Color</string>
@@ -165,9 +165,9 @@
   <string name="disallow_add_to_personal_radio">"Can't add songs to Personal radio"</string>
   <string name="do_not_remind_again">"二度と表示しない"</string>
   <string name="doc_filter">Docs</string>
-  <string name="done">Done</string>
+  <string name="done">"完了"</string>
   <string name="download">"ダウンロード"</string>
-  <string name="download_all_song">Download all</string>
+  <string name="download_all_song">"すべてダウンロード"</string>
   <string name="download_apk_desktop_installing">Installing</string>
   <string name="download_apk_desktop_pause">Paused</string>
   <string name="download_apk_desktop_pending">Pending</string>
@@ -191,8 +191,8 @@
   <string name="download_confirm_text">Mi Music will download and install %s</string>
   <string name="download_done_btn">Downloaded</string>
   <string name="download_error">Failed</string>
-  <string name="download_error_insufficient_space">Not enough space</string>
-  <string name="download_filesize_unknown">Unknown</string>
+  <string name="download_error_insufficient_space">"十分な空き領域がありません"</string>
+  <string name="download_filesize_unknown">"不明"</string>
   <string name="download_in_process">"ダウンロード中"</string>
   <string name="download_info_count_deleted_tasks">%s downloads removed</string>
   <string name="download_info_start_deleted_tasks">Remove downloads</string>
@@ -259,7 +259,7 @@
   <string name="eq_country">Country</string>
   <string name="eq_dance">Dance</string>
   <string name="eq_delete">Remove</string>
-  <string name="eq_delete_success">Done</string>
+  <string name="eq_delete_success">"完了"</string>
   <string name="eq_electronic">Electronic</string>
   <string name="eq_flat">Flat</string>
   <string name="eq_hiphop">Hip Hop</string>
@@ -330,8 +330,8 @@
   <string name="impunity_declaration_content4">"プライバシーポリシー"</string>
   <string name="impunity_declaration_content5">.</string>
   <string name="impunity_declaration_ignore">"二度と表示しない"</string>
-  <string name="impunity_declaration_negative_text">Exit</string>
-  <string name="impunity_declaration_positive_text">Agree</string>
+  <string name="impunity_declaration_negative_text">"終了"</string>
+  <string name="impunity_declaration_positive_text">"同意"</string>
   <string name="impunity_declaration_settings">Show Terms of Service</string>
   <string name="impunity_declaration_summary">Show Terms of Service popup for Baidu Online Music Service every time the Music app opens</string>
   <string name="impunity_declaration_title">Terms of Service</string>
@@ -455,7 +455,7 @@
   <string name="no_local_songs_selected">"Can't send songs because they haven't been downloaded"</string>
   <string name="no_local_source_find">"Couldn't find song"</string>
   <string name="no_online_song_selected">No songs selected</string>
-  <string name="no_results_return">No search results</string>
+  <string name="no_results_return">"検索結果はありません"</string>
   <string name="no_song">No songs</string>
   <string name="no_song_downloaded">"サーバーに接続できませんでした"</string>
   <string name="normal_quality">Good</string>

@@ -1058,7 +1058,7 @@
         <item>1</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Show recent apps tray</item>
+        <item>最近使ったアプリを表示</item>
         <item>メニューを表示</item>
     </string-array>
     <string-array name="screen_key_press_action_value">
@@ -1066,12 +1066,12 @@
         <item>show_menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
-        <item>None</item>
-        <item>Show recent apps tray</item>
+        <item>なし</item>
+        <item>最近使ったアプリを表示</item>
         <item>アシスタントを起動</item>
         <item>Google Nowを起動</item>
-        <item>Close current app</item>
-        <item>Launch Quick Search</item>
+        <item>現在のアプリを閉じる</item>
+        <item>クイック検索を起動</item>
         <item>メニューを表示</item>
     </string-array>
     <string-array name="screen_key_long_press_action_value">
@@ -1396,7 +1396,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>300000</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Immediately</item>
+        <item>すぐ</item>
         <item>30秒</item>
         <item>1分</item>
         <item>2分</item>
@@ -1633,13 +1633,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>4</item>
     </integer-array>
     <string-array name="alarm_repeat_type">
-        <item>Every day</item>
-        <item>Weekdays</item>
-        <item>Custom</item>
+        <item>毎日</item>
+        <item>平日</item>
+        <item>カスタム</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Every day</item>
-        <item>Weekdays</item>
-        <item>Custom</item>
+        <item>毎日</item>
+        <item>平日</item>
+        <item>カスタム</item>
     </string-array>
 </resources>

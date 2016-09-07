@@ -1102,7 +1102,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="disable_text">無効にする</string>
   <string name="disabled">無効</string>
   <string name="disabled_because_no_backup_security">使用するには、まず画面ロックを設定してください</string>
-  <string name="disconnect">disconnect</string>
+  <string name="disconnect">切断</string>
   <string name="display_auto_rotate_rotate">画面のコンテンツを回転させる</string>
   <string name="display_auto_rotate_stay_in_current">現在の向きを維持する</string>
   <string name="display_auto_rotate_stay_in_landscape">横向きのままにする</string>
@@ -1734,7 +1734,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="location_agps_def_supl_port">7275</string>
   <string name="location_agps_params_settings_title">A-GPS設定</string>
   <string name="location_agps_pref_apn_title">優先APN</string>
-  <string name="location_agps_pref_network_title">Prefer network</string>
+  <string name="location_agps_pref_network_title">優先ネットワーク</string>
   <string name="location_agps_pref_reset_type_title">優先リセットモード</string>
   <string name="location_agps_pref_si_title">優先モード</string>
   <string name="location_agps_register_network_type">Access network type</string>
@@ -1882,7 +1882,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockscreen_glogin_checking_password">確認中…</string>
   <string name="lockscreen_glogin_password_hint">パスワード</string>
   <string name="lockscreen_glogin_submit_button">ログイン</string>
-  <string name="long_press_volume_down">Long press volume down</string>
+  <string name="long_press_volume_down">音量[－]ボタンを長押し</string>
   <string name="lte_ram_dump_off">LTE RAMダンプをオフにする</string>
   <string name="lte_ram_dump_on">LTE RAMダンプをオンにする</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -2790,7 +2790,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="reset_network_final_desc">すべてのネットワーク設定をリセットしますか？この操作は元に戻せません。</string>
   <string name="reset_network_title">ネットワーク設定のリセット</string>
   <string name="resolver_settings_label">並べ替え</string>
-  <string name="resource_ringtone_volume_mute">Your ringer is currently silenced</string>
+  <string name="resource_ringtone_volume_mute">現在の着信音量はミュートされています</string>
   <string name="restore_default_apn">デフォルトのAPN設定を復元しています。</string>
   <string name="restore_default_apn_completed">APN設定をリセットしました。</string>
   <string name="restr_pin_enter_admin_pin">管理者PINを入力</string>
@@ -2996,7 +2996,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_cloud_restore_section_title">Mi Cloudから復元する;Mi Cloud;Cloud backups</string>
   <string name="search_copyright">Copyright</string>
   <string name="search_credentials_install">ストレージからのインストール;Direct install;Install APK</string>
-  <string name="search_date_time">日付と時刻;Date;Time</string>
+  <string name="search_date_time">日付と時刻;日付;時刻</string>
   <string name="search_description">検索設定</string>
   <string name="search_development_settings">開発者向けオプション</string>
   <string name="search_device_name">端末名</string>
@@ -3012,7 +3012,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_do_not_disturb">Do not disturb;DND;VIP;Set time;Exceptions;Repeated calls</string>
   <string name="search_dtmf_tone_enable_title">ダイヤルパッドのタッチ操作音;Dial pad touch tones;touch tones;touch sounds;dialer tones;dialer sounds</string>
   <string name="search_edge_handgrip">エッジコントロール</string>
-  <string name="search_empty">No search results</string>
+  <string name="search_empty">検索結果はありません</string>
   <string name="search_equalizer">イコライザー</string>
   <string name="search_fluency_mode">システムアニメーション</string>
   <string name="search_font">システムフォント;Font;Fonts;Font sizes;Font size</string>
@@ -3160,7 +3160,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="security_encryption_attention_title">Important</string>
   <string name="security_encryption_close_dialog_info">Choosing not to encrypt device using lock screen password may make some Google services unavailable.</string>
   <string name="security_encryption_close_dialog_title">Go back to default password protection</string>
-  <string name="security_encryption_diaglog_continue">Next</string>
+  <string name="security_encryption_diaglog_continue">次へ</string>
   <string name="security_encryption_is_used">On</string>
   <string name="security_encryption_title">ロック画面のパスワードを使用して暗号化デバイス</string>
   <string name="security_keyguard_category_name">画面ロック</string>
@@ -3212,7 +3212,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="select_logd_size_title">ログバッファのサイズ</string>
   <string name="select_sim_for_calls">通話に使用するSIMを選択してください</string>
   <string name="select_sim_for_data">データに使用するSIMを選択してください</string>
-  <string name="select_ssid_type_title">Select SSID</string>
+  <string name="select_ssid_type_title">SSIDを選択</string>
   <string name="select_usb_configuration_dialog_title">USB設定の選択</string>
   <string name="select_usb_configuration_title">USB設定の選択</string>
   <string name="selinux_status">SELinuxのステータス</string>

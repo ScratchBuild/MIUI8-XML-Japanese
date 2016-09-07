@@ -75,9 +75,9 @@
         <item>"日付を選択"</item>
     </string-array>
     <string-array name="compose_modes">
-        <item>Reply</item>
-        <item>Reply all</item>
-        <item>Forward</item>
+        <item>"返信"</item>
+        <item>"全員に返信"</item>
+        <item>"転送"</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>"最小"</item>

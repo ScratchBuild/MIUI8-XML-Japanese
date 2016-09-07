@@ -100,9 +100,9 @@
   <string name="stat_repeat_legal_off_day">法定节假日</string>
   <string name="stat_repeat_legal_workday">法定工作日</string>
   <string name="stat_repeat_none">一次性</string>
-  <string name="stat_repeat_self_define">自定义</string>
-  <string name="stat_repeat_weekdays">周一至周五</string>
-  <string name="stat_repeat_weekends">周末</string>
+  <string name="stat_repeat_self_define">"カスタム"</string>
+  <string name="stat_repeat_weekdays">"平日（月～金）"</string>
+  <string name="stat_repeat_weekends">"週末"</string>
   <string name="stopwatch_lap_empty_text">No laps</string>
   <string name="stopwatch_title">"ストップウォッチ"</string>
   <string name="system_time_setting">"設定"</string>

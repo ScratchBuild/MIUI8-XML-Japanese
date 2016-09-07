@@ -64,7 +64,7 @@
   <string name="add_quicklinks">Add to start page</string>
   <string name="add_shortcut">Add shortcut</string>
   <string name="add_shortcut_success">Added shortcut successfully</string>
-  <string name="add_to_bookmark">Bookmarks</string>
+  <string name="add_to_bookmark">"ブックマーク"</string>
   <string name="add_to_desk">"ホーム画面に設置"</string>
   <string name="add_to_desk_success">"ホーム画面に設置しました"</string>
   <string name="add_to_quicklink">Start Page</string>
@@ -112,7 +112,7 @@
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"このURLは無効です。"</string>
   <string name="bookmarks_content_is_null">No bookmarks</string>
-  <string name="bookmarks_management">Bookmarks</string>
+  <string name="bookmarks_management">"ブックマーク"</string>
   <string name="bookmarks_root_folder">Root folder</string>
   <string name="bookmarks_search">"ブラウザ"</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">"下にスワイプで閉じる"</string>
