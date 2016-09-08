@@ -87,19 +87,19 @@
         <item>bg_delay_screen_off</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>None</item>
-        <item>Default</item>
-        <item>Picture</item>
-        <item>Movie</item>
+        <item>"なし"</item>
+        <item>"デフォルト"</item>
+        <item>"写真"</item>
+        <item>"動画"</item>
         <item>Battery saver</item>
-        <item>Balance</item>
-        <item>Performance</item>
-        <item>On</item>
-        <item>Off</item>
-        <item>Immediately</item>
-        <item>After 10 min</item>
-        <item>After 30 min</item>
-        <item>When display is off</item>
+        <item>"バランス"</item>
+        <item>"パフォーマンス"</item>
+        <item>"オン"</item>
+        <item>"オフ"</item>
+        <item>"すぐに"</item>
+        <item>"10分後"</item>
+        <item>"30分後"</item>
+        <item>"画面を消灯した後"</item>
     </string-array>
     <string-array name="shown_mandatory_event_name">
         <item>foreground_change</item>

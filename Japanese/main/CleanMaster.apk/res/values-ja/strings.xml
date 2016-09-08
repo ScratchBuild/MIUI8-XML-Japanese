@@ -97,7 +97,7 @@
   <string name="clear_immediately">Clean now</string>
   <string name="clear_safe_notify">Security notification bar</string>
   <string name="clip_board_history_desc">Copied/cut contents</string>
-  <string name="clipboard">Clipboard</string>
+  <string name="clipboard">"クリップボード"</string>
   <string name="close">"閉じる"</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Network connection for Security</string>
@@ -253,7 +253,7 @@
   <string name="item_title_process_mode">Choose an action</string>
   <string name="junk_tag_RF_EmptyFolders">Empty folders</string>
   <string name="junk_tag_RF_ImageThumbnails">Gallery Thumbnails</string>
-  <string name="just_now">Just now</string>
+  <string name="just_now">"ちょうど今"</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">None</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
@@ -277,7 +277,7 @@
   <string name="msg_cleanup_db_update_checking">Checking for updates…</string>
   <string name="msg_cleanup_db_update_time_unknown">Last update unknown</string>
   <string name="msg_update_error_code_already_running">Updating…</string>
-  <string name="msg_update_error_code_network_error">"Can't connect to the network"</string>
+  <string name="msg_update_error_code_network_error">"ネットワークに接続できません"</string>
   <string name="msg_update_error_code_no_newer_db">Cleaner is up to date</string>
   <string name="msg_update_error_code_success">Done</string>
   <string name="msg_update_error_code_unknown_error">"不明なエラー"</string>
@@ -286,7 +286,7 @@
   <string name="nb_clear_set">Clear ROM, view battery and blocklist info in the notification shade</string>
   <string name="net_assistant_detail">Used %1$s, saved %2$s</string>
   <string name="net_assistant_title">Used %s of mobile data this month</string>
-  <string name="network_not_available">"Can't connect to the network"</string>
+  <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="news_change">Change</string>
   <string name="no_network">"Couldn't connect to network, try again later"</string>
   <string name="no_network_btn">"再試行"</string>
@@ -346,7 +346,7 @@
   <string name="privacy_cache_scaning">Checking…</string>
   <string name="privacy_cache_title">Personal info</string>
   <string name="privacy_clipboard_desc">Clipboard contents</string>
-  <string name="privacy_clipboard_type">Clipboard</string>
+  <string name="privacy_clipboard_type">"クリップボード"</string>
   <string name="privacy_search_desc">"検索履歴"</string>
   <string name="privacy_search_type">"Google検索"</string>
   <string name="promotion">Ad</string>

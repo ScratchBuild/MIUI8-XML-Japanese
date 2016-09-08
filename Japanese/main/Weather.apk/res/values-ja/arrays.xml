@@ -117,11 +117,11 @@
         <item>%s</item>
     </string-array>
     <string-array name="aqi_value">
-        <item>Good</item>
-        <item>Satisfactory</item>
-        <item>Moderately polluted</item>
-        <item>Poor</item>
-        <item>Very poor</item>
-        <item>Severe</item>
+        <item>"良好"</item>
+        <item>"中程度"</item>
+        <item>"注意"</item>
+        <item>"不健康"</item>
+        <item>"危険"</item>
+        <item>"有害"</item>
     </string-array>
 </resources>

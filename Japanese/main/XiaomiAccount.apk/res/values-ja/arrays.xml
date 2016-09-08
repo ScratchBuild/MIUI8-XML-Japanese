@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="education">
+        <item>Middle school</item>
+        <item>Prep school</item>
+        <item>High school</item>
+        <item>Vocational school</item>
+        <item>College</item>
+        <item>"Master's degree"</item>
+        <item>"Doctor's degree"</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Family</item>
+        <item>"Maternal grandmother's name"</item>
+        <item>"Maternal grandfather's name"</item>
+        <item>"Paternal grandfather's name"</item>
+        <item>"Paternal grandmother's name"</item>
+        <item>"Father's birthday"</item>
+        <item>"Mother's birthday"</item>
+        <item>"What is your parents' age difference (years and months)?"</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Alma mater</item>
+        <item>What was the name of your class president in middle school?</item>
+        <item>What was the name of your class president in elementary school?</item>
+        <item>Your student ID number at college</item>
+        <item>"What's the name of your roommate at college?"</item>
+        <item>"What's the name of your supervisor at college?"</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Personal info</item>
+        <item>How do your parents call you?</item>
+        <item>Last 6 digits of your passport number</item>
+        <item>In which hospital were you born?</item>
+        <item>"What's the name of your best friend?"</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>First times</item>
+        <item>"What's the name of your first pet?"</item>
+        <item>"What's the name of your first girlfriend/boyfriend?"</item>
+        <item>"What's the name of the company where you got your first job?"</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Marriage</item>
+        <item>When did you get married?</item>
+        <item>"Your spouse's name"</item>
+        <item>"Your spouse's birthday"</item>
+    </string-array>
+</resources>

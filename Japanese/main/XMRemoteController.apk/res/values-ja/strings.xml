@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">"ホームに移動"</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Navigate up</string>
+  <string name="abc_action_bar_up_description">"上に移動"</string>
   <string name="abc_action_menu_overflow_description">More options</string>
   <string name="abc_action_mode_done">"完了"</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
@@ -65,9 +65,9 @@
   <string name="app_detail_install_forbox">Install box</string>
   <string name="app_detail_install_fortv">Install TV</string>
   <string name="app_detail_no_comments">"レビューなし。"</string>
-  <string name="app_detail_recomments_title_text">Related Apps</string>
+  <string name="app_detail_recomments_title_text">"関連アプリ"</string>
   <string name="app_detail_title_info">Summary</string>
-  <string name="app_detail_title_recomment">Related apps</string>
+  <string name="app_detail_title_recomment">"関連アプリ"</string>
   <string name="app_exit_tip">Tap Back button again to exit</string>
   <string name="app_frequency_little">Rarely</string>
   <string name="app_frequency_more">Often</string>
@@ -92,7 +92,7 @@
   <string name="app_search_title_mishop">Found %d Mi Store apps</string>
   <string name="app_search_title_thirdpatry">Found %d thir-party apps</string>
   <string name="app_size">Size: %1$s</string>
-  <string name="app_sort">Sort</string>
+  <string name="app_sort">"並べ替え"</string>
   <string name="app_uninstall">"アンインストール"</string>
   <string name="app_update">Update</string>
   <string name="app_version">Version %1$s</string>
@@ -120,8 +120,8 @@
   <string name="brand_title_other">"その他"</string>
   <string name="broadcast">Radio</string>
   <string name="btn_connected_stb">Stb</string>
-  <string name="bullet_hint">Show this message on screen</string>
-  <string name="bulletin">Messages</string>
+  <string name="bullet_hint">"画面にこのメッセージを表示する"</string>
+  <string name="bulletin">"メッセージ"</string>
   <string name="by">"Supported by "</string>
   <string name="by_position">By location</string>
   <string name="camera_shoot">Shutter</string>
@@ -170,7 +170,7 @@
   <string name="create_shortcut_confirm">Create</string>
   <string name="create_shortcut_done">Created successfully</string>
   <string name="current_place">"Current location: "</string>
-  <string name="current_play">Now playing:</string>
+  <string name="current_play">"再生中:"</string>
   <string name="current_stb">"Current: "</string>
   <string name="current_version_frame">Current version %s</string>
   <string name="current_version_latest">No updates available</string>
@@ -380,8 +380,8 @@
   <string name="ir_device_wifi">Wi-Fi remote</string>
   <string name="ir_not_supported_devices">*Some Mi TV/Box decides do not support IR, please use WiFi remote</string>
   <string name="jump_to_mivideo">View on mobile device</string>
-  <string name="just_now">Just now</string>
-  <string name="just_used">Just now</string>
+  <string name="just_now">"ちょうど今"</string>
+  <string name="just_used">"ちょうど今"</string>
   <string name="key_press_vibrate">Vibrate on touch</string>
   <string name="last_bak_time">Last backup %1$s</string>
   <string name="last_use_frame">%1$s ago</string>

@@ -270,7 +270,7 @@
   <string name="instruction_pre">Touch to start FTP server</string>
   <string name="interest_recommend">Recommended videos</string>
   <string name="join_activity">Participate</string>
-  <string name="just_now">just now</string>
+  <string name="just_now">"ちょうど今"</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Category</string>
   <string name="kp_category_doc">Word</string>

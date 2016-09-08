@@ -125,7 +125,7 @@
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">その他のシステムアップデート</string>
-  <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
+  <string name="adjust_3d_depth_title">ゲームの3D深度を調整</string>
   <string name="advanced_apps">詳細設定</string>
   <string name="advanced_section_header">詳細設定</string>
   <string name="advanced_security_title">詳細設定</string>
@@ -175,7 +175,7 @@
   <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
   <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
   <string name="apn_edit">アクセスポイントの編集</string>
-  <string name="apn_general">General</string>
+  <string name="apn_general">全般</string>
   <string name="apn_http_port">ポート</string>
   <string name="apn_http_proxy">プロキシ</string>
   <string name="apn_mcc">MCC</string>
@@ -562,7 +562,7 @@
   <string name="bluetooth_pairing_pin_error_message">PINまたはパスキーが正しくないため、%1$sをペアに設定できませんでした。</string>
   <string name="bluetooth_pairing_rejected_error_message">ペア設定が%1$sに拒否されました。</string>
   <string name="bluetooth_pairing_request">Bluetoothのペア設定リクエスト</string>
-  <string name="bluetooth_pairing_shares_phonebook">Allow %1$s to access your contacts and call history</string>
+  <string name="bluetooth_pairing_shares_phonebook">連絡先や通話履歴へのアクセスを%1$sに許可する</string>
   <string name="bluetooth_pairing_will_share_phonebook">ペア設定により、接続時に連絡先や通話履歴へのアクセスが許可されます。</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">ローカルインターネット接続をデバイスと共有</string>
   <string name="bluetooth_pan_profile_summary_use_for">インターネットアクセスに使用する</string>
@@ -818,8 +818,8 @@
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">ネットワークに接続</string>
-  <string name="connected_via_passpoint">Connected via %1$s</string>
-  <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+  <string name="connected_via_passpoint">%1$s経由で接続しました</string>
+  <string name="connected_via_wfa">Wi-Fiアシスタント経由で接続しました</string>
   <string name="connected_wifi">接続しました</string>
   <string name="connecting_to_vpn">VPNへの接続</string>
   <string name="contributors_title">アライアンスパートナー</string>
@@ -1405,7 +1405,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="free_wifi_connect_dialog_summary">%1$s provided by %2$s.</string>
   <string name="free_wifi_connect_dialog_title">利用可能なWi-Fi</string>
   <string name="free_wifi_connect_fail">"ネットワークに接続できません。データ接続を確認し、再試行してください。"</string>
-  <string name="free_wifi_connect_fail2">"ログインできません。1〜2分待ってから再試行してください。"</string>
+  <string name="free_wifi_connect_fail2">"ログインできません。1～2分待ってから再試行してください。"</string>
   <string name="free_wifi_connect_summary">タップして%1$sへ接続</string>
   <string name="free_wifi_connect_title">利用可能なWi-Fi</string>
   <string name="free_wifi_connected">free Wi-Fiに接続</string>
@@ -1519,7 +1519,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="help_url_users"/>
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
-  <string name="hidden_ssid_label">Hidden SSID:</string>
+  <string name="hidden_ssid_label">ステルスSSID:</string>
   <string name="high_performance_notif_summary">端末は高い負荷を掛けると熱くなる場合があります</string>
   <string name="high_performance_notif_title">パフォーマンスモードがオン</string>
   <string name="high_performance_title">ベンチマークテストを実行しているように見えます。最良の結果を得るためには電源管理を\"パフォーマンス\"に設定してください。</string>
@@ -1795,7 +1795,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_secure_after_timeout_title">パスワードの要求</string>
   <string name="lock_screen_unlock_show">スワイプ画面をスキップする</string>
   <string name="lock_screen_unlock_show_summary">復帰時にホーム画面かパスワード画面に直接行く</string>
-  <string name="lock_secure_after_timeout_click_me_to_change_text">Tap to change</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">変更するにはタップ</string>
   <string name="lock_settings">ロック画面とパスワード</string>
   <string name="lock_settings_common_title">端末のセキュリティ</string>
   <string name="lock_settings_picker_fingerprint_message">予備の画面ロック方式を選択してください</string>
@@ -1954,7 +1954,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="maximum_memory_use">最大メモリ使用</string>
   <string name="media_button">メディアボタン</string>
   <string name="media_category">メディア</string>
-  <string name="media_feedback_enable_title">Vibrate with the beat</string>
+  <string name="media_feedback_enable_title">音楽に合わせて振動</string>
   <string name="media_volume_option_title">メディアの音量</string>
   <string name="media_volume_summary">音楽や動画の再生音量</string>
   <string name="media_volume_title">メディア</string>
@@ -2994,7 +2994,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_choose_timezone">タイムゾーンを選択;Time zone;Time zones</string>
   <string name="search_cloud_backup_settings_section_title">バックアップの設定;Backup;Back up;Backups</string>
   <string name="search_cloud_restore_section_title">Mi Cloudから復元する;Mi Cloud;Cloud backups</string>
-  <string name="search_copyright">Copyright</string>
+  <string name="search_copyright">著作権</string>
   <string name="search_credentials_install">ストレージからのインストール;Direct install;Install APK</string>
   <string name="search_date_time">日付と時刻;日付;時刻</string>
   <string name="search_description">検索設定</string>

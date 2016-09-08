@@ -85,7 +85,7 @@
   <string name="chinese_symbol_animals_snake">蛇</string>
   <string name="chinese_symbol_animals_tiger">虎</string>
   <string name="close">"閉じる"</string>
-  <string name="copyright">Copyright</string>
+  <string name="copyright">"著作権"</string>
   <string name="country_name_ac">AC</string>
   <string name="country_name_ad">AD</string>
   <string name="country_name_ae">AE</string>
@@ -564,8 +564,8 @@
   <string name="thursday_short">"木"</string>
   <string name="thursday_shortest">T</string>
   <string name="time_picker_dialog_title">"時刻をセット"</string>
-  <string name="time_picker_label_hour">H</string>
-  <string name="time_picker_label_minute">M</string>
+  <string name="time_picker_label_hour">"時"</string>
+  <string name="time_picker_label_minute">"分"</string>
   <string name="today">"今日"</string>
   <string name="tomorrow">"明日"</string>
   <string name="tuesday">"火曜日"</string>
