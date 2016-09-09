@@ -14,7 +14,7 @@
   <string name="auto_backup_choose_empty">No backups.</string>
   <string name="auto_backup_choose_title">Choose items to back up</string>
   <string name="auto_backup_date">Days</string>
-  <string name="auto_backup_only_wifi">Only when connected to WLAN</string>
+  <string name="auto_backup_only_wifi">"Wi-Fi接続されている時のみ"</string>
   <string name="auto_backup_open">Back up automatically</string>
   <string name="auto_backup_progress">"バックアップ中…"</string>
   <string name="auto_backup_select_user_apps">"アプリを選択"</string>
@@ -25,7 +25,7 @@
   <string name="auto_backup_user_data">"アプリ"</string>
   <string name="backup">"バックアップ"</string>
   <string name="backup_data">Choose items to back up</string>
-  <string name="backup_delete">Delete:</string>
+  <string name="backup_delete">"削除:"</string>
   <string name="backup_empty">No backups.</string>
   <string name="backup_empty_info">" Back up your data, settings, and apps"</string>
   <string name="backup_empty_info_onpad">" Back up your data, settings, and apps"</string>
@@ -38,11 +38,11 @@
   <string name="backup_is_running">Backing up device</string>
   <string name="backup_items_app_tailer">" app data files"</string>
   <string name="backup_items_sysdata_tailer">" system data files,"</string>
-  <string name="backup_new">New:</string>
+  <string name="backup_new">"新規:"</string>
   <string name="backup_progress">"バックアップ中…"</string>
   <string name="backup_report">"詳細を表示"</string>
   <string name="backup_update">Update</string>
-  <string name="batch_delete_backup_confirm">Delete selected backups?</string>
+  <string name="batch_delete_backup_confirm">"選択したバックアップを削除しますか？"</string>
   <string name="button_backup">"バックアップ"</string>
   <string name="button_cancel">"キャンセル"</string>
   <string name="button_continue">"続行"</string>
@@ -56,7 +56,7 @@
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_backup">"停止"</string>
   <string name="cancel_restore">"停止"</string>
-  <string name="click_to_view">Tap to view</string>
+  <string name="click_to_view">"タップして表示"</string>
   <string name="cloud_app_name">Mi Cloud backup</string>
   <string name="cloud_backup_hint">To access your backups, sign in now</string>
   <string name="cloud_backup_login">Sign in to your Mi Account</string>
@@ -107,7 +107,7 @@
   <string name="err_version_unsupported">"Backup version isn't supported."</string>
   <string name="every_day">"毎日"</string>
   <string name="exchange_account">"アカウントの切り替え"</string>
-  <string name="fail">Failed</string>
+  <string name="fail">"失敗しました"</string>
   <string name="feature_title_account">Mi Account</string>
   <string name="feature_title_call_log">"通話履歴"</string>
   <string name="feature_title_mms">MMS</string>
@@ -165,7 +165,7 @@
   <string name="prompt_sending">"アップロード中…"</string>
   <string name="prompt_writing">"保存中…"</string>
   <string name="read_encrypt_fail">"Couldn't read encrypted backup"</string>
-  <string name="refresh">Refresh</string>
+  <string name="refresh">"更新"</string>
   <string name="remote_receive">Receive</string>
   <string name="restore">Restore</string>
   <string name="restore_backup">Restore</string>
@@ -201,7 +201,7 @@
   <string name="select_all">"すべて選択"</string>
   <string name="select_backup_item">Choose items</string>
   <string name="select_storage_location">Choose backup location</string>
-  <string name="service_stoped">Service stopped</string>
+  <string name="service_stoped">"サービスが停止しました"</string>
   <string name="settings_summary">Phone and messaging settings</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
@@ -218,13 +218,13 @@
   <string name="start_restore">Restore</string>
   <string name="state_mounting">Accessing router storage…</string>
   <string name="state_waiting">"読み込み中…"</string>
-  <string name="succeed">Complete</string>
+  <string name="succeed">"完了"</string>
   <string name="summary_err_backup_encrypting">Sign in to your Mi Account.</string>
   <string name="summary_err_backup_no_network">"ネットワークに接続できませんでした"</string>
   <string name="summary_err_restore_encrypting">"Couldn't restore. Make sure this backup was made using your Mi Account."</string>
   <string name="summary_err_restore_no_network">"ネットワークに接続できませんでした"</string>
   <string name="system_backup">"バックアップ"</string>
-  <string name="system_backup_info">System settings and Home screen layout</string>
+  <string name="system_backup_info">"システム設定とホーム画面のレイアウト"</string>
   <string name="task_backup_cancel_progress">"停止中…"</string>
   <string name="task_backup_finished_local">"Backed up "</string>
   <string name="task_canceled">Backup canceled</string>
@@ -338,8 +338,8 @@ and Mi Mover is on"</string>
   <string name="unit_piece">" items"</string>
   <string name="unknown_hint">"不明"</string>
   <string name="user_notice_declaration_ignore">"次回から表示しない"</string>
-  <string name="user_notice_message">Some features require internet connection to work normally.</string>
-  <string name="user_notice_title">Attention</string>
+  <string name="user_notice_message">"いくつかの機能が正常に動作するには、インターネットへの接続が必要です。"</string>
+  <string name="user_notice_title">"注意"</string>
   <string name="wifi_title">"Wi-Fi設定"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
