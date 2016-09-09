@@ -49,6 +49,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="menu_help">"ヘルプ"</string>
   <string name="menu_settings">"検索設定"</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした"</string>
+  <string name="provider_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
   <string name="recent_apps">"最近使ったアプリ"</string>
   <string name="recently_shortcut_label">"最近使ったショートカット"</string>
   <string name="remove_from_history">"検索履歴からこの項目を消去しますか？"</string>
@@ -67,9 +68,10 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="search_sources_summary">"電話内の検索対象を選択してください"</string>
   <string name="search_suggestion">Tips</string>
   <string name="search_videos">"ビデオを検索"</string>
-  <string name="search_videos_url">https://video.browser.miui.com/v6/2/#page=search&amp;keyword=%s&amp;from=home&amp;entry=migs&amp;_miui_fullscreen=1</string>
+  <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">"検索"</string>
   <string name="send_secret_code">"コードを送信"</string>
+  <string name="settings_description">Names of installed apps</string>
   <string name="show_more">"もっと表示"</string>
   <string name="suggest_open_app_failed">"このアプリを開けませんでした"</string>
   <string name="system_search_category_title">"電話"</string>
@@ -78,9 +80,9 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="voice_search_hint_title">"話してみてください:"</string>
   <string name="web_search_results">Baidu</string>
   <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
-  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
+  <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v5/hints</string>
+  <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v5/home</string>
   <string name="xiaomi_search_label">Results</string>
   <string name="xiaomi_source_url">https://search.browser.miui.com</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v4/topclick</string>
 </resources>

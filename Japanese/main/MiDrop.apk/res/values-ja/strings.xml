@@ -39,7 +39,7 @@
   <string name="notif_receive_cancel">%1$s files not transferred</string>
   <string name="notif_receive_lockscreen">Tap to view details</string>
   <string name="notif_receive_progress">Receiving %1$s files…</string>
-  <string name="notif_receive_success">%1$s received</string>
+  <string name="notif_receive_success">Received files from %1$s</string>
   <string name="notif_send_cancel">Transfer to %1$s interrupted</string>
   <string name="notif_send_cancel_multi">Transfer to %1$s+%2$ interrupted</string>
   <string name="notif_send_progress">Sending to %1$s…</string>

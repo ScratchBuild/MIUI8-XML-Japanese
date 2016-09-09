@@ -1581,6 +1581,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="install_unknown_applications">提供元不明のアプリのインストールを許可する</string>
   <string name="install_unknown_applications_title">アプリの提供元がGoogle Play以外でもインストールする</string>
   <string name="install_whole_rom">ROMをダウンロード</string>
+  <string name="instruction_title">説明書</string>
   <string name="insufficient_storage">十分な空き容量がありません。</string>
   <string name="intent_sender_account_label">アカウント:</string>
   <string name="intent_sender_action_label">アクション:</string>

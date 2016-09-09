@@ -80,6 +80,7 @@
   <string name="already_create_baby_album">Baby album already exists in Mi Cloud.</string>
   <string name="app_name">"ギャラリー"</string>
   <string name="app_name_view_picture">View photos</string>
+  <string name="app_name_view_video">View videos</string>
   <string name="apply">"適用"</string>
   <string name="aspect_ratio_format" formatted="false">%d:%d</string>
   <string name="aspect_ratio_free">Custom</string>
@@ -94,7 +95,7 @@
   <string name="auto_upload_before_share_message">Back up this album to Mi Cloud before sharing</string>
   <string name="auto_upload_before_share_title">Hint</string>
   <string name="auto_upload_disable_tip">Sync with Mi Cloud is off</string>
-  <string name="auto_upload_disable_toast_long_press_menu">Sync with Mi Cloud is off, go to Other albums to view</string>
+  <string name="auto_upload_disable_toast_long_press_menu">Sync with Mi Cloud is off, go to other albums to view</string>
   <string name="auto_upload_enable_toast_long_press_menu">Sync with Mi Cloud is on, go to Albums to view</string>
   <string name="baby_album">Baby album</string>
   <string name="baby_album_change_background">Change background photo</string>
@@ -224,7 +225,7 @@
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">Detail info</string>
-  <string name="disable_auto_upload_tip">"New and deleted photos won't be synced with Mi Cloud. This album will be moved to \"Other albums\"."</string>
+  <string name="disable_auto_upload_tip">"New and deleted photos won't be synced with Mi Cloud. This album will be moved to other albums."</string>
   <string name="disable_auto_upload_title">Turn off sync with Mi Cloud</string>
   <string name="do_not_remind_me">"二度と表示しない"</string>
   <string name="doodle">Doodle</string>
@@ -243,7 +244,7 @@
   <string name="download_without_wifi_title">Data usage warning</string>
   <string name="edit_baby_info">View baby info</string>
   <string name="email_picker_title">Add shared email</string>
-  <string name="enable_auto_upload_tip">This album will be removed from \"Other albums\" after you turn on.</string>
+  <string name="enable_auto_upload_tip">This album will be removed from other albums after you turn on.</string>
   <string name="enable_auto_upload_title">Turn on sync with Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Turn on Mi Cloud albums to view shared photos.</string>
   <string name="enable_face_album_summary">Automatically sort photos by the people that are in them</string>
@@ -368,6 +369,7 @@ Take more photos of your friends!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Height should be > 0</string>
   <string name="limit_width">Width should be > 0</string>
+  <string name="loading_dual_tip">Loading dual photo...</string>
   <string name="loading_fail">"Couldn't download"</string>
   <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
   <string name="loading_fail_sync_off_message">"Couldn't load photos, sync with Mi Cloud is off."</string>
@@ -398,7 +400,7 @@ Take more photos of your friends!"</string>
   <string name="micloud_introduce">Back up photos and videos automatically (Mi Account is required)</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face_album_name">More people</string>
-  <string name="move_to_other_albums_tip">The Mi Cloud sync of the album will be turn off, if you move this album to the list of other albums, move the album now?</string>
+  <string name="move_to_other_albums_tip">Sync with Mi Cloud will be turned off if you move this album to other albums. Move now?</string>
   <string name="must_pick_file">Select a photo</string>
   <string name="name_split">,</string>
   <string name="need_to_turn_on_network">"Device isn't connected to the internet"</string>
@@ -549,8 +551,8 @@ Take more photos of your friends!"</string>
   <string name="send_public_url">Send album URL</string>
   <string name="send_too_many_files_error">Can send up to %d items at a time</string>
   <string name="set_as_baby_lock_wallpaper">Set as Lock screen wallpaper</string>
-  <string name="set_as_wallpaper_description">This image is a thumbnail, download the original？</string>
-  <string name="set_as_wallpaper_title">Set as Wallpaper</string>
+  <string name="set_as_wallpaper_description">This image is a thumbnail, download the original?</string>
+  <string name="set_as_wallpaper_title">Set as wallpaper</string>
   <string name="set_face_group_toast_msg_new_user">Hold a person to merge or ignore them.</string>
   <string name="set_face_group_toast_msg_old_user">"Hold a person's photo to create groups (Family, Friends, Classmates, etc.)"</string>
   <string name="set_face_group_toast_title_new_user">Suggestion</string>

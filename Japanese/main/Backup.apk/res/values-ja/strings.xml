@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">"バックアップが完了していません。とにかく停止しますか？"</string>
+  <string name="abort_restore_confirm">"リストアが完了していません。とにかく停止しますか？"</string>
   <string name="account_contact_backup_info">Google Account, Mi Account, and Contacts data</string>
   <string name="account_login">"ログイン"</string>
   <string name="account_summary">Backup Google Account, Mi Account, and other user data</string>

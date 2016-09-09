@@ -58,7 +58,7 @@
   <string name="hours">"%s時間"</string>
   <string name="keep_screen_on">Keep screen on</string>
   <string name="label">"ラベル"</string>
-  <string name="label_pref_summary">Label this alarm clock</string>
+  <string name="label_pref_summary">"ラベル"</string>
   <string name="lap">"ラップ"</string>
   <string name="lap_num">Lap</string>
   <string name="legal_off_day">Legal off day</string>

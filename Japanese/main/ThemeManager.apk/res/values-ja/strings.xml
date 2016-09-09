@@ -47,6 +47,9 @@
   <string name="fail_to_add_account">"アカウントが追加できません"</string>
   <string name="favorite_list">Favorites</string>
   <string name="favorite_list_format">Favorite %1$s</string>
+  <string name="forcetouch_featured">Featured</string>
+  <string name="forcetouch_free_themes">Free themes</string>
+  <string name="forcetouch_offline">Offline</string>
   <string name="gift_anonymous">Anonymous</string>
   <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">"キャンセル"</string>

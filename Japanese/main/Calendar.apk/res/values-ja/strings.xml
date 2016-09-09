@@ -275,9 +275,9 @@
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="no_title_label">"(無題)"</string>
-  <string name="no_visiable_calendar_message">You need select a calendar account, please click Select Account to next step.</string>
-  <string name="no_visiable_calendar_select_account">Select Account</string>
-  <string name="no_visiable_calendar_title">Select Calendar Account</string>
+  <string name="no_visiable_calendar_message">You need to select a calendar account. Tap Select Account to continue.</string>
+  <string name="no_visiable_calendar_select_account">Select account</string>
+  <string name="no_visiable_calendar_title">Select a calendar account</string>
   <string name="not_synced">"未同期"</string>
   <string name="online_calendar_activity_label">"カレンダーを購読"</string>
   <string name="online_reminder_header_text">"リマインダー"</string>

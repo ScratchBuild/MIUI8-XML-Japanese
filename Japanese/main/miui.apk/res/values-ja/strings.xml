@@ -412,6 +412,7 @@
   <string name="heavenly_stems_yi">乙</string>
   <string name="hybrid_provider">Provided by %1$s</string>
   <string name="im">IM</string>
+  <string name="instruction">"説明書"</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
   <string name="monday">"月曜日"</string>
