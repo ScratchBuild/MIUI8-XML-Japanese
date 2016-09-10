@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="power_config_ultimate_on_count">
-        <item quantity="other">%1$d steps away from switching to Ultimate mode</item>
-        <item quantity="one">%1$d step away from switching to Ultimate mode</item>
+        <item quantity="other">"Umtimate modeをオンにするまであと%1$dステップです。"</item>
+        <item quantity="one">"Umtimate modeをオンにするまであと%1$dステップです。"</item>
     </plurals>
     <plurals name="power_config_ultimate_off_count">
-        <item quantity="other">%1$d steps away from turning off Ultimate mode</item>
-        <item quantity="one">%1$d step away from turning off Ultimate mode</item>
+        <item quantity="other">"Umtimate modeをオフにするまであと%1$dステップです。"</item>
+        <item quantity="one">"Umtimate modeをオフにするまであと%1$dステップです。"</item>
     </plurals>
     <plurals name="power_config_ultimate_unlock_count">
         <item quantity="other">Finish %1$d steps to unlock all items</item>

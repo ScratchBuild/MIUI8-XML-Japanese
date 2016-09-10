@@ -47,7 +47,7 @@
   <string name="notification_stopped">Recording stopped</string>
   <string name="notification_title_all_paused">Download paused</string>
   <string name="notification_warning">Storage low (less than %d minutes)</string>
-  <string name="path_soundrecorder_setting">System apps/Recorder</string>
+  <string name="path_soundrecorder_setting">"システムアプリ/レコーダー"</string>
   <string name="pause">Pause</string>
   <string name="playback_delete_records">Delete recording</string>
   <string name="playback_share_records">Share recording</string>
