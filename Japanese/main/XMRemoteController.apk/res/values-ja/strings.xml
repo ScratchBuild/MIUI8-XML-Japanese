@@ -615,7 +615,7 @@ To activate your account, follow the
   <string name="passport_error_no_sms_service">"Can't send text message. Mobile network not available."</string>
   <string name="passport_error_phone_error">Invalid phone number</string>
   <string name="passport_error_server">Server error</string>
-  <string name="passport_error_sim_not_ready">"Can't find SIM card"</string>
+  <string name="passport_error_sim_not_ready">"SIMカードが見つかりません"</string>
   <string name="passport_error_ssl_hand_shake">"Couldn't connect to server"</string>
   <string name="passport_error_unknown">"Can't sign in"</string>
   <string name="passport_error_user_name">The username you entered is invalid.</string>

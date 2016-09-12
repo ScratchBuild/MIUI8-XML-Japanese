@@ -474,11 +474,11 @@ using %s"</string>
   <string name="heavy_weight_switcher_text">Another app is already running that must be stopped before you can start a new one.</string>
   <string name="heavy_weight_switcher_title">Switch apps?</string>
   <string name="high_definition_tag">%s</string>
-  <string name="hour">hour</string>
+  <string name="hour">"時間"</string>
   <string name="hour_ampm" formatted="false">%-l%P</string>
   <string name="hour_cap_ampm" formatted="false">%-l%p</string>
   <string name="hour_picker_description">Hours circular slider</string>
-  <string name="hours">hours</string>
+  <string name="hours">"時間"</string>
   <string name="httpError">There was a network error.</string>
   <string name="httpErrorAuth">"Couldn't authenticate."</string>
   <string name="httpErrorBadUrl">"Couldn't open the page because the URL is invalid."</string>
@@ -683,7 +683,7 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Unusable SIM card.</string>
   <string name="lockscreen_return_to_call">Return to call</string>
   <string name="lockscreen_screen_locked">Screen locked.</string>
-  <string name="lockscreen_sim_locked_message">SIM card is locked.</string>
+  <string name="lockscreen_sim_locked_message">"SIMカードがロックされています。"</string>
   <string name="lockscreen_sim_puk_locked_instructions">See the User Guide or contact Customer Care.</string>
   <string name="lockscreen_sim_puk_locked_message">SIM card is PUK-locked.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
@@ -814,9 +814,9 @@ Try again in %d seconds."</string>
   <string name="menu_enter_shortcut_label">enter</string>
   <string name="menu_space_shortcut_label">space</string>
   <string name="midnight">midnight</string>
-  <string name="minute">min</string>
+  <string name="minute">"分"</string>
   <string name="minute_picker_description">Minutes circular slider</string>
-  <string name="minutes">mins</string>
+  <string name="minutes">"分"</string>
   <string name="mismatchPin">"The PINs you typed don't match."</string>
   <string name="mmiComplete">MMI complete.</string>
   <string name="mmiError">Connection problem or invalid MMI code.</string>
@@ -1243,8 +1243,8 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="searchview_description_search">Search</string>
   <string name="searchview_description_submit">Submit query</string>
   <string name="searchview_description_voice">Voice search</string>
-  <string name="second">sec</string>
-  <string name="seconds">secs</string>
+  <string name="second">"秒"</string>
+  <string name="seconds">"秒"</string>
   <string name="selectAll">"すべて選択"</string>
   <string name="selectTextMode">Select text</string>
   <string name="select_character">Insert character</string>

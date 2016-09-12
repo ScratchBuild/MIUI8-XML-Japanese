@@ -51,7 +51,7 @@
   <string name="button_cancel_scan">"停止"</string>
   <string name="button_join_service_number">Add service number</string>
   <string name="button_my_center">"プロフィール"</string>
-  <string name="button_scan">Rescan</string>
+  <string name="button_scan">"再スキャン"</string>
   <string name="caching_vcard_message">vCardを格納しています…</string>
   <string name="caching_vcard_title">格納中</string>
   <string name="callAgain">"再発信"</string>
@@ -368,8 +368,8 @@ Contact cards are turned off"</string>
   <string name="dialer_empty_text_loading">"読み込み中…"</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">"連絡先が見つかりません"</string>
-  <string name="dialer_menu_description">Show menus</string>
-  <string name="dialer_menu_title">Menu options</string>
+  <string name="dialer_menu_description">"メニューを表示"</string>
+  <string name="dialer_menu_title">"メニューオプション"</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
   <string name="dialer_useDtmfDialpad">Use touch tone keypad</string>
   <string name="dialog_import">連絡先をインポートする</string>
@@ -459,7 +459,7 @@ Contact cards are turned off"</string>
   <string name="frequentList">"よく使う連絡先"</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">名前</string>
-  <string name="gallery">Gallery</string>
+  <string name="gallery">"ギャラリー"</string>
   <string name="generic_no_account_prompt">"携帯端末を紛失したときにも連絡先を保護するため、オンラインサービスと同期させます。"</string>
   <string name="generic_no_account_prompt_title">"アカウントの追加"</string>
   <string name="ghostData_company">会社</string>
@@ -531,7 +531,7 @@ Contact cards are turned off"</string>
   <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
   <string name="import_weibo_error_no_network">"ネットワークに接続できません. Check your data connection and try again."</string>
   <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Mi Account.</string>
-  <string name="import_weibo_error_unknown">Unknown error</string>
+  <string name="import_weibo_error_unknown">"不明なエラー"</string>
   <string name="import_weibo_error_user_cancel">Import canceled</string>
   <string name="import_weibo_fetch_followers">Fetching contacts…</string>
   <string name="import_weibo_notification_title_done">Updated %s contacts</string>
@@ -659,17 +659,17 @@ Contact cards are turned off"</string>
   <string name="miprofile_contact_header">Contacts with contact cards</string>
   <string name="miprofile_contact_meaasge">Local contacts</string>
   <string name="miprofile_contact_verifying">Verifying</string>
-  <string name="miprofile_edit_title">Edit profile</string>
+  <string name="miprofile_edit_title">"プロフィールを編集"</string>
   <string name="miprofile_error_accept_self">"Can't exchange your own contact card"</string>
   <string name="miprofile_error_no_miaccount">Sign in to your Mi Account</string>
   <string name="miprofile_error_not_opened">Turn off contact cards</string>
   <string name="miprofile_error_not_set">"Your contact card hasn't been synced to the server"</string>
-  <string name="miprofile_error_unknown">Unknown error</string>
+  <string name="miprofile_error_unknown">"不明なエラー"</string>
   <string name="miprofile_find_miprofile_title">Add to view all info</string>
   <string name="miprofile_find_profile_batch_add">Add all</string>
   <string name="miprofile_find_profile_batch_finish">Finish</string>
   <string name="miprofile_find_profile_batch_request_failed">"Couldn't add profile"</string>
-  <string name="miprofile_find_profile_loading">Loading…</string>
+  <string name="miprofile_find_profile_loading">"読み込み中…"</string>
   <string name="miprofile_find_profile_no_recommend">No recommended profiles</string>
   <string name="miprofile_finding_label">Find contact cards</string>
   <string name="miprofile_name">My profile</string>
@@ -829,7 +829,7 @@ To add a contact to your list of favorites:
   <string name="option_not_in_group">Remove</string>
   <string name="option_not_star">Remove from favorites</string>
   <string name="option_rename_group">Rename</string>
-  <string name="option_send_to_desktop">Place on Home screen</string>
+  <string name="option_send_to_desktop">"ホーム画面に設置"</string>
   <string name="option_send_to_others">Forward</string>
   <string name="option_view_contact">View</string>
   <string name="option_view_group">View</string>
@@ -1020,7 +1020,7 @@ To add a contact to your list of favorites:
   <string name="save_photo_progress">"写真を保存しています…"</string>
   <string name="savingContact">"連絡先を保存しています…"</string>
   <string name="savingDisplayGroups">Saving display options…</string>
-  <string name="scan">Scan</string>
+  <string name="scan">"スキャン"</string>
   <string name="scan_duplicate_message">%1$d contacts with identical info</string>
   <string name="scan_merge">Searching for duplicate contacts…</string>
   <string name="scan_qrcode_card_hint1">"上記のQRコードをスキャンしてください"</string>
