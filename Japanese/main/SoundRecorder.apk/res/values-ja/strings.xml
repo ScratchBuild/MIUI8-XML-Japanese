@@ -3,7 +3,7 @@
   <string name="alert_message_delete_record">Deleting the recording from your device will also delete this recording from Mi Cloud. Delete now?</string>
   <string name="alert_message_delete_record_title">Delete recording?</string>
   <string name="app_name">"レコーダー"</string>
-  <string name="back">Back</string>
+  <string name="back">"戻る"</string>
   <string name="button_queue_for_wifi">Wait</string>
   <string name="button_start_now">Download</string>
   <string name="call_record">Recorded calls (%d)</string>
@@ -21,7 +21,7 @@
   <string name="deleting_message">"削除中…"</string>
   <string name="details">"詳細"</string>
   <string name="dialog_content_storage_full">"Recording stopped because there's not enough space left on your device's internal memory."</string>
-  <string name="dialog_title_storage_full">Not enough space</string>
+  <string name="dialog_title_storage_full">"十分な空き領域がありません"</string>
   <string name="duration_format_hour">"%s時間"</string>
   <string name="duration_format_minute">"%s分"</string>
   <string name="duration_format_second">"%s秒"</string>
@@ -29,12 +29,12 @@
   <string name="error_app_internal">Check if another app is currently using the recording feature.</string>
   <string name="error_app_internal_title">Sound recorder error</string>
   <string name="error_file_access">"File doesn't exist or has been corrupted"</string>
-  <string name="error_filename_illegal_char">Filename contains invalid characters.</string>
+  <string name="error_filename_illegal_char">"ファイル名に無効な文字が含まれています。"</string>
   <string name="error_filename_too_long">"ファイル名が長すぎます。"</string>
   <string name="error_sdcard_access">"ストレージにアクセスできません"</string>
-  <string name="error_sdcard_unmounted">Insert SD card now</string>
+  <string name="error_sdcard_unmounted">"今すぐSDカードを挿入してください"</string>
   <string name="export_to_note">Export to Notes</string>
-  <string name="invalid_argument">Invalid argument</string>
+  <string name="invalid_argument">"無効な引数"</string>
   <string name="low_battery_error">Less than 5% battery remaining. To ensure that your recording is not lost, recording has been paused and saved.</string>
   <string name="mark_point_list_title">Marks</string>
   <string name="message_file_size_error">Recording has reached the maximum length supported by %s</string>

@@ -46,9 +46,9 @@
   <string name="app_label">"カレンダー"</string>
   <string name="birthday_calendar_display_name">"誕生日のリマインダー"</string>
   <string name="birthday_event_description">"今日は%1$sの%4$s！"</string>
-  <string name="birthday_event_description_a_week_ago">A week ago</string>
+  <string name="birthday_event_description_a_week_ago">"1週間前"</string>
   <string name="birthday_event_description_a_week_later">One week until</string>
-  <string name="birthday_event_description_day_after_tomorrow">The day after tomorrow is</string>
+  <string name="birthday_event_description_day_after_tomorrow">"明後日は"</string>
   <string name="birthday_event_description_day_before_yesterday">The day before yesterday was</string>
   <string name="birthday_event_description_days_ago">%1$s days since</string>
   <string name="birthday_event_description_days_later">%1$s days until</string>
@@ -75,7 +75,7 @@
   <string name="calendar_network_error">"ネットワークエラー"</string>
   <string name="calendar_refresh">"更新"</string>
   <string name="calendar_server_error">"サーバーエラー"</string>
-  <string name="can_not_create_long_event">Event content is too long</string>
+  <string name="can_not_create_long_event">"予定の内容が長すぎます"</string>
   <string name="can_not_modify_allday_event">"終日の予定が変更できません"</string>
   <string name="can_not_modify_event">"予定が変更できません"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Can't change multi-day event"</string>
@@ -170,8 +170,8 @@
   <string name="event_full_date_format">yyyy/MM/dd</string>
   <string name="event_hide_more">"隠す"</string>
   <string name="event_info_descrip">"概要\u0009\u0009\u0009"</string>
-  <string name="event_info_end">End\u0009\u0009\u0009</string>
-  <string name="event_info_from">From</string>
+  <string name="event_info_end">"終了\u0009\u0009\u0009"</string>
+  <string name="event_info_from">"開始"</string>
   <string name="event_info_jump_to_email">Jump to mail</string>
   <string name="event_info_reminders_label">"リマインダー"</string>
   <string name="event_info_reminders_label_1">Reminder</string>
@@ -182,7 +182,7 @@
   <string name="event_info_when">When\u0009\u0009</string>
   <string name="event_info_where">Where\u0009</string>
   <string name="event_lunar_month">月</string>
-  <string name="event_show_more">More options</string>
+  <string name="event_show_more">"その他のオプション"</string>
   <string name="event_title">Title</string>
   <string name="event_view">"予定を表示"</string>
   <string name="every_weekday">"平日（月～金）"</string>
@@ -275,9 +275,9 @@
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="no_title_label">"(無題)"</string>
-  <string name="no_visiable_calendar_message">You need to select a calendar account. Tap Select Account to continue.</string>
-  <string name="no_visiable_calendar_select_account">Select account</string>
-  <string name="no_visiable_calendar_title">Select a calendar account</string>
+  <string name="no_visiable_calendar_message">"カレンダーのアカウントを選択する必要があります。続行するには[アカウントの選択]をタップします。"</string>
+  <string name="no_visiable_calendar_select_account">"アカウントを選択"</string>
+  <string name="no_visiable_calendar_title">"カレンダーアカウントを選択"</string>
   <string name="not_synced">"未同期"</string>
   <string name="online_calendar_activity_label">"カレンダーを購読"</string>
   <string name="online_reminder_header_text">"リマインダー"</string>
@@ -404,7 +404,7 @@
   <string name="swipe_up_guide_hint_text">"詳細を確認するには上にスワイプ"</string>
   <string name="sync_notice_cancel_toast_message">"ローカルカレンダーはMi Cloudと同期されません"</string>
   <string name="sync_notice_message">"Mi Cloudとカレンダーを同期しますか？"</string>
-  <string name="sync_notice_ok">Sync now</string>
+  <string name="sync_notice_ok">"今すぐ同期"</string>
   <string name="sync_notice_ok_toast_message">"ローカルカレンダーはMi Cloudと同期されます"</string>
   <string name="sync_notice_title">"カレンダーの同期"</string>
   <string name="synced">"同期済み"</string>

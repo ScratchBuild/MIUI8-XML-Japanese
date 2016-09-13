@@ -62,7 +62,7 @@
   <string name="cancel_operation">Cancel operation</string>
   <string name="cancel_success">Removed successfully, all files moved to %s</string>
   <string name="cancelled_by_user">Operation canceled</string>
-  <string name="category">Categories</string>
+  <string name="category">"カテゴリー"</string>
   <string name="category_all">All</string>
   <string name="category_apk">APKs</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -136,8 +136,8 @@
   <string name="decompress_destination_error">"Can't extract files to this location."</string>
   <string name="decompress_encrypted_rar_not_supported">Encrypted rar files are not supported.</string>
   <string name="decompress_fail">"Couldn't extract. Storage is full or an unknown error occurred."</string>
-  <string name="decompress_input_password">Enter password</string>
-  <string name="decompress_password_error">The password you entered is incorrect.</string>
+  <string name="decompress_input_password">"パスワードを入力"</string>
+  <string name="decompress_password_error">"入力したパスワードが正しくありません。"</string>
   <string name="decompress_success">Finished extracting</string>
   <string name="decompress_title">Extract</string>
   <string name="decompress_to">Extract files to…</string>
@@ -176,7 +176,7 @@
   <string name="disk_total">Total: </string>
   <string name="dislike_toast">"Such videos won't be recommended to you."</string>
   <string name="dislike_video">"I'm not interested"</string>
-  <string name="dlg_error_unmount_text">"Couldn't unmount USB storage."</string>
+  <string name="dlg_error_unmount_text">"USBストレージのマウントを解除できませんでした。"</string>
   <string name="download">"ダウンロード"</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_fail">"ダウンロードできませんでした"</string>
@@ -210,9 +210,9 @@
   <string name="fail_to_create_folder">Not enough space or the folder already exists.</string>
   <string name="fail_to_create_folder_unknown">"Can't create folder"</string>
   <string name="fail_to_rename">A file with the same name already exists.</string>
-  <string name="favorite_photo">Photos</string>
-  <string name="favorite_ringtone">Ringtones</string>
-  <string name="favorite_screen_cap">Screenshots</string>
+  <string name="favorite_photo">"写真"</string>
+  <string name="favorite_ringtone">"着信音"</string>
+  <string name="favorite_screen_cap">"スクリーンショット"</string>
   <string name="female">"女性"</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">File saved to \"%1$s\"</string>
@@ -242,11 +242,11 @@
   <string name="ftp_anonymous_login">Anonymous sign-in</string>
   <string name="ftp_invalid_username_or_password">The username or password you entered is invalid.</string>
   <string name="ftp_open_port_error">"Couldn't open port. Check your network connection or reset port number."</string>
-  <string name="ftp_password_hint">Password</string>
-  <string name="ftp_port_number">Port number</string>
+  <string name="ftp_password_hint">"パスワード"</string>
+  <string name="ftp_port_number">"ポート番号"</string>
   <string name="ftp_transfer_secure">Security</string>
-  <string name="ftp_username_and_passworld">Sign in</string>
-  <string name="ftp_username_hint">Username</string>
+  <string name="ftp_username_and_passworld">"ログイン"</string>
+  <string name="ftp_username_hint">"ユーザー名"</string>
   <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
   <string name="gbk_title">GBK</string>
   <string name="get_user_info_err">"Couldn't get info about this person"</string>
@@ -292,7 +292,7 @@
   <string name="kuaipan_delete_success">Photo deleted</string>
   <string name="kuaipan_info">KuaiPan files</string>
   <string name="kuaipan_label">KuaiPan</string>
-  <string name="kuaipan_over_space">Not enough storage space.</string>
+  <string name="kuaipan_over_space">"十分な空き領域がありません。"</string>
   <string name="kuaipan_photo_folder_divider">,</string>
   <string name="kuaipan_photo_locate">Location %1$s</string>
   <string name="kuaipan_photo_more_folder_count">%1$s</string>

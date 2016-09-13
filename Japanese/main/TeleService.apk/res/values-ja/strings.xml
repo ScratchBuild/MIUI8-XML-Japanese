@@ -38,7 +38,7 @@
   <string name="alertdialogtitle">結果</string>
   <string name="allContactdeleteFailed">"Couldn't delete all contacts from SIM"</string>
   <string name="allContactdeleteSuccess">Succesfully deleted all contacts from SIM</string>
-  <string name="all_day">All day</string>
+  <string name="all_day">"終日"</string>
   <string name="always_enable_mms">"常にMMSを受信"</string>
   <string name="always_enable_mms_summary">"モバイルデータがオフでもMMSを受信します"</string>
   <string name="answer_features_setting_category">応答と通話</string>
@@ -320,7 +320,7 @@
   <string name="contactAddFailed">"SIMに連絡先を追加出来ません。"</string>
   <string name="contactAddSuccess">SIMに連絡先を追加しました。</string>
   <string name="contactPhoto">連絡先の写真</string>
-  <string name="contactScreen">Add/Edit SIM contact</string>
+  <string name="contactScreen">"SIMの連絡先を追加/編集"</string>
   <string name="contactUpdateFailed">"SIMの連絡先を更新出来ません。"</string>
   <string name="contactUpdateSuccess">SIMの連絡先を更新しました。</string>
   <string name="contactdeleteFailed">"SIMから連絡先を削除出来ません。"</string>
@@ -711,7 +711,7 @@
   <string name="messageCFNRc">着信不能時の転送番号</string>
   <string name="messageCFNRy">不在着信時の転送番号</string>
   <string name="messageCFU">常にこの番号を使用</string>
-  <string name="message_decode_error">There was an error while decoding the message.</string>
+  <string name="message_decode_error">"メッセージをデコード中にエラーが発生しました。"</string>
   <string name="mhh_disable">医療、健康、病院情報は無効になっています</string>
   <string name="mhh_enable">医療、健康、病院情報は有効になっています</string>
   <string name="mi_sim_settings_summary">SIMカードなしでモバイルデータを使用</string>

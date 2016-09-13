@@ -61,7 +61,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="search_history">"履歴"</string>
   <string name="search_in_app_store">"Mi App Storeを検索"</string>
   <string name="search_in_web">"ウェブを検索"</string>
-  <string name="search_keyword_quicksearchbox">Search</string>
+  <string name="search_keyword_quicksearchbox">"検索"</string>
   <string name="search_path_quicksearchbox">Settings/Installed apps/Search</string>
   <string name="search_settings">"検索設定"</string>
   <string name="search_sources">"検索可能なアイテム"</string>

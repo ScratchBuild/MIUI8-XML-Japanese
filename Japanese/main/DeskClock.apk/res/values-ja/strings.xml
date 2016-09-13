@@ -27,14 +27,14 @@
   <string name="birthday_alarm">Birthday alarm</string>
   <string name="birthday_alarm_summary">Play \"Happy Birthday\" instead of default alarm sound on your birthday</string>
   <string name="cancel">"キャンセル"</string>
-  <string name="close_alarm">Close alarm</string>
+  <string name="close_alarm">"アラームを閉じる"</string>
   <string name="common_settings">"設定"</string>
   <string name="confirm_abort">"破棄"</string>
   <string name="control_set_alarm">"アラームを設定"</string>
   <string name="control_set_alarm_with_existing">Alarm set: %s</string>
-  <string name="day">1 day</string>
+  <string name="day">"1日"</string>
   <string name="day_concat">"、 "</string>
-  <string name="days">%s days</string>
+  <string name="days">"%s日"</string>
   <string name="default_alarm_alert">Set default alarm sound</string>
   <string name="default_alarm_title">Default ringtone</string>
   <string name="default_label">"アラーム"</string>
@@ -43,7 +43,7 @@
   <string name="delete_alarm_confirm">"このアラームを削除しますか？"</string>
   <string name="delete_selected_timer_item">Delete the selected timer task?</string>
   <string name="delete_timer_item_title">Delete timer task</string>
-  <string name="delete_timezone_title">Delete timezone</string>
+  <string name="delete_timezone_title">"タイムゾーンを削除"</string>
   <string name="dialog_confirm_abort">"変更を破棄しますか？"</string>
   <string name="done">"完了"</string>
   <string name="edit_systemtime">"システム時刻の編集"</string>
@@ -76,7 +76,7 @@
   <string name="menu_item_sort_by_name">"名前順"</string>
   <string name="minute">"1分"</string>
   <string name="minutes">"%s分"</string>
-  <string name="more_settings">More settings</string>
+  <string name="more_settings">"その他の設定"</string>
   <string name="never">Once</string>
   <string name="oneshot_alarm">Delete after goes off</string>
   <string name="pause">"停止"</string>
@@ -92,7 +92,7 @@
   <string name="skip_alarm_date_format">%1$s(%2$s)</string>
   <string name="skip_alarm_once_hint">Turn off once on %s</string>
   <string name="slider_text">Swipe up to silence</string>
-  <string name="snooze_confirm_cancel">Cancel snooze</string>
+  <string name="snooze_confirm_cancel">"スヌーズをキャンセル"</string>
   <string name="snooze_duration_title">"スヌーズの長さ"</string>
   <string name="start">"開始"</string>
   <string name="start_up">"開始"</string>
@@ -115,15 +115,15 @@
   <string name="timer_continue">"再開"</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_item_duration_display">"%1$d分%2$d秒"</string>
-  <string name="timer_item_label_hint">Timer name</string>
+  <string name="timer_item_label_hint">"タイマー名"</string>
   <string name="timer_item_picker_hour">"時"</string>
   <string name="timer_item_picker_minute">"分"</string>
   <string name="timer_item_picker_second">"秒"</string>
-  <string name="timer_new_item">Add timer</string>
+  <string name="timer_new_item">"タイマーを追加"</string>
   <string name="timer_notify_text">Snooze or dismiss timer.</string>
   <string name="timer_start_alarm">"Time's up!"</string>
   <string name="timer_title">"タイマー"</string>
-  <string name="timezone_exist_error_message">"You're already displaying that timezone"</string>
+  <string name="timezone_exist_error_message">"既にそのタイムゾーンを表示しています"</string>
   <string name="today">"今日"</string>
   <string name="tomorrow">"明日"</string>
   <string name="turn_off_a_repeat_alarm">Turn off a repeating alarm</string>
@@ -133,6 +133,6 @@
   <string name="volume_button_setting_summary">"Set volume buttons' function during alarm"</string>
   <string name="volume_button_setting_title">"音量ボタン"</string>
   <string name="workday_alarm_clock">Workday alarm</string>
-  <string name="worldclock_empty_text">No clocks</string>
+  <string name="worldclock_empty_text">"時計なし"</string>
   <string name="worldclock_title">"時計"</string>
 </resources>
