@@ -43,8 +43,8 @@
         <item quantity="one">%1$d number</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d voicemails</item>
-        <item quantity="one">Voicemail</item>
+        <item quantity="other">%1$d件のボイスメール</item>
+        <item quantity="one">1件のボイスメール</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">SIM card can store %d contacts.</item>

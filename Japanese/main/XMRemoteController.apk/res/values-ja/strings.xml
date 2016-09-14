@@ -4,14 +4,14 @@
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">"上に移動"</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
+  <string name="abc_action_menu_overflow_description">"その他のオプション"</string>
   <string name="abc_action_mode_done">"完了"</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
   <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
   <string name="abc_search_hint">"検索…"</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
+  <string name="abc_searchview_description_clear">"履歴を消去"</string>
   <string name="abc_searchview_description_query">Search query</string>
   <string name="abc_searchview_description_search">"検索"</string>
   <string name="abc_searchview_description_submit">Submit query</string>
@@ -88,7 +88,7 @@
   <string name="app_open_intv">Open on Mi TV</string>
   <string name="app_rank">Rank</string>
   <string name="app_rate">Rate: %1$s</string>
-  <string name="app_search_hint">Please enter the name of the application</string>
+  <string name="app_search_hint">"アプリケーションの名前を入力してください"</string>
   <string name="app_search_title_mishop">Found %d Mi Store apps</string>
   <string name="app_search_title_thirdpatry">Found %d thir-party apps</string>
   <string name="app_size">Size: %1$s</string>
@@ -124,7 +124,7 @@
   <string name="bulletin">"メッセージ"</string>
   <string name="by">"Supported by "</string>
   <string name="by_position">By location</string>
-  <string name="camera_shoot">Shutter</string>
+  <string name="camera_shoot">"シャッター"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_select_all">Check all</string>
   <string name="cancel_share">Stop sharing</string>
@@ -252,7 +252,7 @@
   <string name="epg_load_more_latest_comment">Getting more comments</string>
   <string name="epg_loading_hint">Switch channels on your set-top box using the phone</string>
   <string name="epg_more_comment_list_title">More top comments （%1$d）</string>
-  <string name="epg_name">TV shows</string>
+  <string name="epg_name">"TV番組"</string>
   <string name="epg_no_booking_data">No booking data</string>
   <string name="epg_no_more_latest_comment">No more comments</string>
   <string name="epg_no_program_data">No program data</string>

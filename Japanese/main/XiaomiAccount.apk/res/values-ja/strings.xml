@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_device_info">View device details</string>
+  <string name="about_device_info">"デバイスの詳細を表示"</string>
   <string name="access_token_expired_warning">"Weiboアカウントは期限切れ"</string>
   <string name="access_token_invalid_warning">"Weiboアカウントが無効です"</string>
   <string name="account">"アカウント"</string>
   <string name="account_bind_devices">Devices</string>
   <string name="account_bind_new_phone">Add new phone</string>
   <string name="account_bind_phone_notice">Use this phone number to sign in to your account, reset your password, or change security settings.</string>
-  <string name="account_bind_secure_email_title">Add email</string>
-  <string name="account_bind_secure_phone_title">Add phone number</string>
+  <string name="account_bind_secure_email_title">"メールアドレスを追加"</string>
+  <string name="account_bind_secure_phone_title">"電話番号を追加"</string>
   <string name="account_bind_settings">"アカウント"</string>
   <string name="account_binded_phone">Phone %d</string>
   <string name="account_crop_user_avatar">Crop photo</string>
-  <string name="account_empty_user_name">Enter your Mi Account username</string>
+  <string name="account_empty_user_name">"Mi Accountのユーザー名を入力"</string>
   <string name="account_error_all_space_user_name">"Name can't contain only space characters"</string>
   <string name="account_error_longer_user_name">"Name can't exceed 20 characters"</string>
   <string name="account_error_shorter_user_name">Name must be longer than 2 characters</string>
@@ -39,12 +39,12 @@
   <string name="account_user_location">Location</string>
   <string name="account_user_location_title">Select current location</string>
   <string name="account_user_name">"名前"</string>
-  <string name="account_user_name_dialog_title">Enter username</string>
+  <string name="account_user_name_dialog_title">"ユーザー名を入力"</string>
   <string name="account_user_other_info">More sources</string>
   <string name="account_user_phone">Phone</string>
   <string name="account_user_recovery_phone">Recovery phone</string>
   <string name="account_user_region">Region</string>
-  <string name="account_user_secure_info">Phone &amp; email</string>
+  <string name="account_user_secure_info">"電話とメール"</string>
   <string name="account_user_using_facebook_avatar">"Facebookのプロフィール写真を使用"</string>
   <string name="account_user_using_qq_avatar">"QQのプロフィール写真を使用"</string>
   <string name="account_user_using_weibo_avatar">"Sina Weiboのプロフィール写真を使用"</string>
@@ -78,12 +78,12 @@
   <string name="confirm_phone_number_dialog_message">Verification code will be sent to: %s.</string>
   <string name="confirm_phone_number_dialog_title">Confirm phone number</string>
   <string name="confirm_unbind">Disconnect this account?</string>
-  <string name="continue_action">Continue</string>
+  <string name="continue_action">"続行"</string>
   <string name="cta_declaration_agree_and_continue">"同意"</string>
-  <string name="cta_declaration_exit">Exit</string>
+  <string name="cta_declaration_exit">"終了"</string>
   <string name="cta_declaration_ignore">"二度と表示しない"</string>
   <string name="cta_declaration_message">"To sign in to your Mi Account, you need to connect to the internet. Location services and sync with Mi Cloud will be turned on. To back up your data, this app needs to access your contacts, messages, call history, and recordings. We won't use your data for commercial purposes or share it with third parties. After signing in to Mi account, Mi VIP and Mi services will connect to the internet."</string>
-  <string name="cta_declaration_title">Terms and Conditions</string>
+  <string name="cta_declaration_title">"利用規約"</string>
   <string name="current_location_title">Current location</string>
   <string name="data_keep_in_device">Keep on this device</string>
   <string name="data_wipe_from_device">Delete from this device</string>
@@ -113,7 +113,7 @@
   <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again."</string>
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
   <string name="find_device_interrupted">Action was interrupted, try again later</string>
-  <string name="find_device_io_error">"Can't connect to the network"</string>
+  <string name="find_device_io_error">"ネットワークに接続できません"</string>
   <string name="find_device_null_credential_error">"Can't get device info, contact Xiaomi customer service"</string>
   <string name="find_device_operation_failed_error">An error occurred</string>
   <string name="find_device_operation_failed_error_unknown">An error occurred, try again later</string>
@@ -121,7 +121,7 @@
   <string name="find_device_request_error">"Can't request status info, try again later"</string>
   <string name="find_device_request_prepare_error">"Can't get status, try again later"</string>
   <string name="find_device_unknown_error">"Can't get status, try again later"</string>
-  <string name="forward_to_bind">Add</string>
+  <string name="forward_to_bind">"追加"</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="ignore">Not now</string>
@@ -151,7 +151,7 @@
   <string name="notify_network_restricted_content_hidden_state">"Mi Account's background activity is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Account's internet access is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_title">"Mi Account couldn't connect to the network"</string>
-  <string name="other_devices">Other devices</string>
+  <string name="other_devices">"その他のデバイス"</string>
   <string name="passport_access_denied">Access denied</string>
   <string name="passport_account_hint_text">"メールアドレスまたはMi Account ID"</string>
   <string name="passport_account_identity_title">Verify your identity</string>
@@ -223,10 +223,10 @@ To activate your account, follow the
   <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
   <string name="passport_input_captcha_hint">Enter code</string>
   <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
-  <string name="passport_input_password_hint">Enter password</string>
-  <string name="passport_input_phone_hint">Enter phone number</string>
+  <string name="passport_input_password_hint">"パスワードを入力"</string>
+  <string name="passport_input_phone_hint">"電話番号を入力"</string>
   <string name="passport_input_vcode_hint">Enter verification code</string>
-  <string name="passport_license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
+  <string name="passport_license_host_unreachable">"ネットワークに接続できません。 You can view this page at %s."</string>
   <string name="passport_loading">"読み込み中…"</string>
   <string name="passport_login">"ログイン"</string>
   <string name="passport_login_check_find_device">Checking Find device status…</string>
@@ -253,7 +253,7 @@ To activate your account, follow the
   <string name="passport_quick_login_dialog_step2_title">"2段階認証"</string>
   <string name="passport_quick_login_dialog_title">Verify password</string>
   <string name="passport_quick_login_step2_title">"2段階認証"</string>
-  <string name="passport_quick_login_title">Enter your password</string>
+  <string name="passport_quick_login_title">"パスワードを入力"</string>
   <string name="passport_re_get_verify_code">Get code again</string>
   <string name="passport_re_register">Sign up again</string>
   <string name="passport_recycle_account_prompt">Is this your Mi Account?</string>
@@ -297,7 +297,7 @@ To activate your account, follow the
   <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="passport_setting">Setting up…</string>
   <string name="passport_sim_index_info">SIM card %1$d - %2$s</string>
-  <string name="passport_skip_login">Skip</string>
+  <string name="passport_skip_login">"スキップ"</string>
   <string name="passport_skip_register">Skip Sign-up</string>
   <string name="passport_skip_setup_account_msg">You can set up a Mi Account later in Settings.</string>
   <string name="passport_skip_setup_account_title">Skip setup</string>
@@ -325,7 +325,7 @@ To activate your account, follow the
   <string name="phone_activated">%s activated</string>
   <string name="phone_send_verify_code_prompt">Send verification code to %s</string>
   <string name="phone_unactivated">Not activated</string>
-  <string name="phone_unknown">Unknown</string>
+  <string name="phone_unknown">"不明"</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">What would you like to do with the messages, contacts, and other data that has been synced from your Mi Account?</string>
@@ -345,8 +345,8 @@ To activate your account, follow the
   <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
   <string name="restart_phone_bind_title">Change recovery phone</string>
   <string name="scan_barcode_title">"Mi Accountにログインするには、QRコードをスキャン"</string>
-  <string name="security_question">Select question</string>
-  <string name="security_question_answer">Enter the answer</string>
+  <string name="security_question">"質問を選択"</string>
+  <string name="security_question_answer">回答を入力</string>
   <string name="security_question_notice_message">Add your phone before you set security questions to be able to reset questions in case you forget the answers.</string>
   <string name="security_question_notice_title">Add phone</string>
   <string name="security_question_prompt">"Security questions can be used when you change or reset your password.
