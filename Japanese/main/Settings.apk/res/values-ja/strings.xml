@@ -2348,7 +2348,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_cloud_backup_settings_section_title">設定/その他の設定/バックアップとリセット/バックアップ設定</string>
   <string name="path_cloud_restore_section_title">設定/その他の設定/バックアップとリセット/Restore from Mi Cloud</string>
   <string name="path_copyright">設定/端末情報/法的情報/Copyright</string>
-  <string name="path_credentials_install">設定/その他の設定/プライバシー/Install from storage</string>
+  <string name="path_credentials_install">設定/その他の設定/プライバシー/ストレージからのインストール</string>
   <string name="path_date_time_settings">設定/その他の設定/日付と時刻</string>
   <string name="path_development_settings">設定/その他の設定/開発者向けオプション</string>
   <string name="path_device_info_memory">設定/ストレージ</string>
@@ -2404,7 +2404,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_other_advanced_settings">設定/その他の設定</string>
   <string name="path_owner_info_settings">設定/ロック画面とパスワード/所有者情報</string>
   <string name="path_page_layout_settings">設定/ディスプレイ/Text size</string>
-  <string name="path_pointer_speed">設定/その他の設定/言語と入力/Pointer speed</string>
+  <string name="path_pointer_speed">設定/その他の設定/言語と入力/ポインタの速度</string>
   <string name="path_power_checker">設定/その他の設定/Beta features/Power Checker</string>
   <string name="path_power_hide_mode_title">設定/Battery &amp; performance/Manage apps battery usage</string>
   <string name="path_power_mode_settings">設定/Battery &amp; performance/Power settings</string>
@@ -2415,7 +2415,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_privacy_settings">設定/その他の設定/バックアップとリセット</string>
   <string name="path_ringer_volume_settings">設定/音とバイブレーション/Ringtone &amp; notification sounds</string>
   <string name="path_ringtone_settings">設定/音とバイブレーション/Phone ringtone</string>
-  <string name="path_safe_result_header_title_system">設定/その他の設定/Privacy</string>
+  <string name="path_safe_result_header_title_system">設定/その他の設定/プライバシー</string>
   <string name="path_screen_effect_settings">設定/ディスプレイ/色と彩度</string>
   <string name="path_screen_key_long_press_timeout">設定/その他の設定/ボタン/Set long press time</string>
   <string name="path_screen_on_proximity_sensor_title">設定/ロック画面とパスワード/Prevent pocket dials</string>
@@ -2426,7 +2426,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_second_space">設定/Second space</string>
   <string name="path_security_encryption_title">設定/その他の設定/プライバシー/Encrypt device using lock screen password</string>
   <string name="path_security_passwords_title">設定/ロック画面とパスワード/Screen lock</string>
-  <string name="path_security_settings">設定/その他の設定/Privacy</string>
+  <string name="path_security_settings">設定/その他の設定/プライバシー</string>
   <string name="path_slot_status_title">設定/端末情報/IMEI情報</string>
   <string name="path_sms_delivered_sound_title">設定/音とバイブレーション/Message delivered</string>
   <string name="path_sms_received_settings">設定/音とバイブレーション/Message received</string>
