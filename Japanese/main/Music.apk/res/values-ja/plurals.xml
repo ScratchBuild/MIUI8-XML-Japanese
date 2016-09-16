@@ -94,4 +94,12 @@
         <item quantity="other">Songs have been favorited.</item>
         <item quantity="one">Song has been favorited.</item>
     </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d comments</item>
+        <item quantity="one">%d comment</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d followers</item>
+        <item quantity="one">%d follower</item>
+    </plurals>
 </resources>

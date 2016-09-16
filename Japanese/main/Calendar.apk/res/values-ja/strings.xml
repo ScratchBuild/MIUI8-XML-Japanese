@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">"参加者を追加"</string>
   <string name="accessibility_all_day">"終日"</string>
   <string name="accessibility_pick_start_date">"開始日"</string>
@@ -30,7 +31,6 @@
   <string name="ad_card_network_error">"ネットワークに接続できません。しばらくしてからもう一度お試しください。"</string>
   <string name="ad_card_spread">"広告"</string>
   <string name="add_calendar">"購読"</string>
-  <string name="add_card">"カードを追加"</string>
   <string name="add_topic_success">订阅\"%s\"成功</string>
   <string name="adding_calendar">订阅中</string>
   <string name="agenda_today">"今日: %1$s"</string>
@@ -79,7 +79,14 @@
   <string name="can_not_modify_allday_event">"終日の予定が変更できません"</string>
   <string name="can_not_modify_event">"予定が変更できません"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Can't change multi-day event"</string>
+  <string name="card_detail_dialog_message">“%1$s”内容每日更新，订阅后，即可每天浏览到当日最新的内容，不错过每日精彩。</string>
+  <string name="card_detail_dialog_negative">下次再说</string>
+  <string name="card_detail_dialog_positive">立即订阅</string>
+  <string name="card_detail_dialog_title">是否订阅</string>
+  <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
+  <string name="card_detail_title">订阅详情</string>
   <string name="card_manager">"カードの管理"</string>
+  <string name="card_manager_subtitle">点击订阅内容，完成订阅</string>
   <string name="card_title_change">换一换</string>
   <string name="change_response_title">"出欠状況を変更"</string>
   <string name="check_reminded_text">查看提醒</string>
@@ -145,6 +152,7 @@
   <string name="drop_down_list_header_loading_text">"読み込み中…"</string>
   <string name="drop_down_list_header_pull_text">"画面を引っ張って"</string>
   <string name="drop_down_list_header_release_text">"指を離して更新"</string>
+  <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
   <string name="edit_event_all_day_label">"終日"</string>
   <string name="edit_event_calendar_label">"カレンダー"</string>
   <string name="edit_event_confirm_message">"変更を破棄しますか？"</string>
@@ -227,7 +235,10 @@
   <string name="insert_event_dialog_title">"確認"</string>
   <string name="insert_event_toast_add_failed">"予定を追加できません"</string>
   <string name="insert_event_toast_add_success">"予定を作成しました"</string>
+  <string name="joke_card_click_toast">长按可复制笑话</string>
   <string name="joke_card_icon_text">%1$s 人笑过</string>
+  <string name="joke_card_long_click_toast">已复制，长按输入框即可粘贴</string>
+  <string name="joke_card_paste_suffix">【来自小米日历】</string>
   <string name="jump_date">"移動"</string>
   <string name="jump_date_full">"日付を移動"</string>
   <string name="live_text">"ライブ"</string>
@@ -332,6 +343,10 @@
   <string name="quick_response_settings_edit_title">"クイック返信"</string>
   <string name="quick_response_settings_summary">"ゲストへメールを送るときの既定の返事を編集"</string>
   <string name="quick_response_settings_title">"クイック返信の編集"</string>
+  <string name="recommend_card_add">立即订阅</string>
+  <string name="recommend_card_adding">添加中</string>
+  <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
+  <string name="recommend_card_from">来自订阅：</string>
   <string name="refresh">"更新"</string>
   <string name="repeat_activity_label">Repeat</string>
   <string name="repeat_custom_activity_label">Custom</string>
@@ -394,13 +409,16 @@
   <string name="str_from_mon_to_fri">周一至周五</string>
   <string name="str_hour_of_everyday">每天%s</string>
   <string name="str_hour_of_next">下一次%s</string>
+  <string name="subscribe_card">立即订阅</string>
   <string name="subscribe_card_more_default_text">"もっと"</string>
   <string name="subscribe_card_recommend_default_text">推荐订阅</string>
+  <string name="subscribe_card_success">订阅“%1$s”成功</string>
   <string name="subscribe_description_card_default_title">订阅简介</string>
   <string name="subscribe_description_card_more_cut">收起</string>
   <string name="subscribe_description_card_more_launch">展开</string>
   <string name="subscribe_detail_title">"購読の詳細"</string>
   <string name="subscribe_ed">"既に購読済み"</string>
+  <string name="subscribing_card">"購読中"</string>
   <string name="swipe_up_guide_hint_text">"詳細を確認するには上にスワイプ"</string>
   <string name="sync_notice_cancel_toast_message">"ローカルカレンダーはMi Cloudと同期されません"</string>
   <string name="sync_notice_message">"Mi Cloudとカレンダーを同期しますか？"</string>
@@ -457,6 +475,9 @@
   <string name="travel_seat_number_text">"座席番号"</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>
+  <string name="unsubscribe_card">退订</string>
+  <string name="unsubscribe_card_success">退订“%1$s”成功</string>
+  <string name="unsubscribing_card">退订中</string>
   <string name="user_notice_button_exit">Exit</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">"二度と表示しない"</string>

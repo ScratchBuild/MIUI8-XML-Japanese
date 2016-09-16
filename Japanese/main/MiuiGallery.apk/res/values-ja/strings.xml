@@ -119,7 +119,7 @@
   <string name="baby_sexy">"性別"</string>
   <string name="baby_suffix">"の赤ちゃん"</string>
   <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conviniently browse, sort, edit, and share photos and videos on all your devices.</string>
-  <string name="backup_automatically_title">Back up and sync automatically</string>
+  <string name="backup_automatically_title">Back up automatically</string>
   <string name="backup_detail_page_title">Mi Cloud backups</string>
   <string name="backup_only_in_wifi">Only use Wi‑Fi to back up photos and videos</string>
   <string name="backup_only_in_wifi_summary">Never use mobile data to back up photos or videos</string>
@@ -207,7 +207,7 @@
   <string name="delete_from_album">from \"%s\" album (all devices)</string>
   <string name="delete_from_album_no_account">from \"%s\" album</string>
   <string name="delete_from_all_devices">from all devices</string>
-  <string name="delete_from_cloud">Delete items from cloud album</string>
+  <string name="delete_from_cloud">Delete items from Mi Cloud</string>
   <string name="delete_from_devices">All synced devices</string>
   <string name="delete_from_devices_album">All devices to which the album has been synced</string>
   <string name="delete_from_homepage_album">Albums shown in Gallery</string>
@@ -339,7 +339,10 @@ Take more photos of your friends!"</string>
   <string name="ignore_album">"Don't show"</string>
   <string name="ignore_alert_title">"Don't show this album?"</string>
   <string name="ignore_face">Ignore this person</string>
+  <string name="image_decode_failed">"Couldn't decode image"</string>
   <string name="image_download_item_title">Download photo (%s)</string>
+  <string name="image_invalid_path">Invalid path</string>
+  <string name="image_not_found">"Couldn't find image"</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>
   <string name="impunity_declaration_settings">Internet connection notification</string>
   <string name="impunity_declaration_summary">Show internet connection notification every time you open Gallery</string>
@@ -665,6 +668,8 @@ Take more photos of your friends!"</string>
   <string name="video_editor_filter_sunny">Sunny</string>
   <string name="video_editor_invalid_trim_arguments">Should be longer than 1 second</string>
   <string name="video_editor_loading_plugin">Loading…</string>
+  <string name="video_editor_loading_warning_msg">"Due to an encoding error, some features and previews may be unavailable during the editing process. This won't affect the final video file, though."</string>
+  <string name="video_editor_loading_warning_title">Encoding error</string>
   <string name="video_editor_more">Advanced</string>
   <string name="video_editor_not_support_tips">"Such video files aren't supported"</string>
   <string name="video_editor_ok">OK</string>

@@ -219,7 +219,7 @@
   <string name="notification_otg_trackball_out">"トラックボールが切断されました"</string>
   <string name="notification_otg_unknow_in">OTGデバイスが接続されました</string>
   <string name="notification_otg_unknow_out">OTGデバイスが切断されました</string>
-  <string name="notification_template_text">" has a notification. Touch to view."</string>
+  <string name="notification_template_text">" has a notification. Tap to view."</string>
   <string name="oldman_airplane_mode_text">機内モード</string>
   <string name="oldman_incall_text">着信</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
@@ -299,6 +299,7 @@ EEEE"</string>
   <string name="status_bar_settings_signal_meter_disconnected">インターネット接続なし</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi接続済み</string>
   <string name="status_bar_style_settings">通知</string>
+  <string name="status_bar_volte_label">HD</string>
   <string name="task_access_locked_app_msg">アプリロックをオン</string>
   <string name="title_usb_accessory">USBアクセサリ</string>
   <string name="torch_activity_hint">Hold [icon] to turn on torch at the lock screen</string>

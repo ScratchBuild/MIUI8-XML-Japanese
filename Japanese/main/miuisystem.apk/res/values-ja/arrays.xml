@@ -401,4 +401,34 @@
         <item>5</item>
     </integer-array>
     <array name="vibration_virtual_key_up" />
+    <array name="religious_regions" />
+    <array name="religious_languages" />
+    <string-array name="cta_permissions">
+        <item>PERMISSION_ACCESS_NETWORK</item>
+        <item>PERMISSION_READ_SMS</item>
+        <item>PERMISSION_WRITE_SMS</item>
+        <item>PERMISSION_RECEIVE_SMS</item>
+        <item>PERMISSION_SEND_SMS</item>
+        <item>PERMISSION_CALL_PHONE</item>
+        <item>PERMISSION_READ_CONTACTS</item>
+        <item>PERMISSION_WRITE_CONTACTS</item>
+        <item>PERMISSION_READ_CALL_LOG</item>
+        <item>PERMISSION_WRITE_CALL_LOG</item>
+        <item>PERMISSION_CAMERA</item>
+        <item>PERMISSION_ACCESS_LOCATION</item>
+    </string-array>
+    <string-array name="cta_permission_names">
+        <item>access network</item>
+        <item>read SMS</item>
+        <item>modify SMS</item>
+        <item>receive SMS</item>
+        <item>send SMS</item>
+        <item>call phone</item>
+        <item>read contacts</item>
+        <item>modify contacts</item>
+        <item>read call log</item>
+        <item>modify call log</item>
+        <item>access camera</item>
+        <item>access location</item>
+    </string-array>
 </resources>

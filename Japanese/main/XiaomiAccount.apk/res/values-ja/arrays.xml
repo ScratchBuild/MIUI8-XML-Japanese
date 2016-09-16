@@ -29,6 +29,10 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
     <string-array name="education">
         <item>Middle school</item>
         <item>Prep school</item>

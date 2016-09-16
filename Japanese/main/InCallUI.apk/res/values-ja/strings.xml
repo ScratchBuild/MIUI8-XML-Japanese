@@ -24,7 +24,7 @@
   <string name="callFailed_number_unreachable">Number unreachable</string>
   <string name="callFailed_outOfService">Out of service area</string>
   <string name="callFailed_out_of_network">Called from out-of-network</string>
-  <string name="callFailed_powerOff">Radio off</string>
+  <string name="callFailed_powerOff">Antenna is off</string>
   <string name="callFailed_server_error">Server error. Try again later.</string>
   <string name="callFailed_server_unreachable">"Can't reach server"</string>
   <string name="callFailed_simError">SIM card error</string>
@@ -214,6 +214,7 @@
   <string name="select_sim_hint">"Can't use SIM %2$d, while SIM %1$d is in use."</string>
   <string name="select_voice_call_sim">"SIMカードを選択"</string>
   <string name="separate_from_conference">Separate call</string>
+  <string name="sip_call_not_support_record">"Can't record SIP calls"</string>
   <string name="suspect_info">Be careful: Always verify the identity of the contact by phone or video before responding to any messages involving your personal information.</string>
   <string name="time_left_livetalk">"(%d秒)"</string>
   <string name="unknown">"通知不可能"</string>

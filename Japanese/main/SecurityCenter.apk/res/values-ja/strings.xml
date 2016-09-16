@@ -253,7 +253,7 @@ or enter App lock password"</string>
   <string name="card_main_xspace_summary">Create dual accounts for any app</string>
   <string name="card_main_xspace_title">Dual apps</string>
   <string name="celcius_symbol">℃</string>
-  <string name="charging_text_battery_full_time">Last charge</string>
+  <string name="charging_text_battery_full_time">"Last charge "</string>
   <string name="charging_text_battery_nearly_full">Almost fully charged</string>
   <string name="charging_text_battery_perfect">Fully charged</string>
   <string name="charging_text_time_calculating">Calculating charging time…</string>
@@ -628,6 +628,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_text_antispam">Blocklist</string>
   <string name="menu_text_antivirus">Virus scan</string>
   <string name="menu_text_garbage_cleanup">Cleaner</string>
+  <string name="menu_text_garbage_cleanup_danger">%s over</string>
   <string name="menu_text_license_manager">Permissions</string>
   <string name="menu_text_networkassistants">Data usage</string>
   <string name="menu_text_networkassistants_danger">%s over</string>
@@ -812,8 +813,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_btn_analyze">Analyze battery usage</string>
   <string name="power_cell">"セルスタンバイ"</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
-  <string name="power_center_battery_full">Battery fully charged</string>
-  <string name="power_center_charge_time">%1$s until full</string>
+  <string name="power_center_battery_full">"Battery fully charged "</string>
+  <string name="power_center_charge_time">%1$suntil full</string>
   <string name="power_center_consume_rank">Battery use</string>
   <string name="power_center_consume_time">%1$s remaining</string>
   <string name="power_center_custom_title">Battery profiles</string>
@@ -1184,6 +1185,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_flow_purchase_beyond">"You've exceeded your carrier plan's monthly data limit by %sMB"</string>
   <string name="summary_flow_verify">"Haven't synced carrier's data usage stats in %d days"</string>
   <string name="summary_flow_verify_failed">Auto adjust data usage to avoid additional fees</string>
+  <string name="summary_garbage_clean">Clear cache to free up space</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
@@ -1310,6 +1312,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="title_flow_rank">Mobile data usage</string>
   <string name="title_flow_verify">Compare accounting</string>
   <string name="title_flow_verify_failed">"Couldn't adjust for 5 days in a row"</string>
+  <string name="title_garbage_clean">App cache size reached %s</string>
   <string name="title_garbage_lib">Update trash definitions</string>
   <string name="title_install_virus_no">Installation monitor off</string>
   <string name="title_install_virus_yes">Installation monitor on</string>

@@ -4,7 +4,7 @@
   <string name="account_login_title">Account</string>
   <string name="action_mode_deselect_all">"すべて選択を解除"</string>
   <string name="action_mode_select_all">"すべて選択"</string>
-  <string name="activity_parse_video_title">"URLを貼り付け"</string>
+  <string name="activity_parse_video_title">"動画のリンクを貼り付け"</string>
   <string name="activity_rule">"ルール"</string>
   <string name="ad_download">"ダウンロード"</string>
   <string name="ad_downloading">"読み込み中…"</string>

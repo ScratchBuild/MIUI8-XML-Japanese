@@ -1097,12 +1097,12 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>None</item>
-        <item>Street-snap(need to select mode in camera)</item>
-        <item>Public Transportation Shortcuts</item>
+        <item>Quick snap mode (turn on in Camera)</item>
+        <item>Public transport card shortcut</item>
     </string-array>
     <string-array name="long_press_volume_down_action_value">
-        <item>none</item>
-        <item>Street-snap</item>
+        <item>one</item>
+        <item>Quick snap mode</item>
         <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -1245,7 +1245,7 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="nfc_se_route_values">
         <item>1</item>
-        <item>0</item>
+        <item>2</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -1621,6 +1621,22 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>File Explorer</item>
         <item>App lock</item>
         <item>Second space</item>
+    </string-array>
+    <string-array name="anr_record_interval_entries">
+        <item>10秒</item>
+        <item>20秒</item>
+        <item>30秒</item>
+        <item>1分</item>
+    </string-array>
+    <string-array name="anr_record_interval_values">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>Left hand style</item>
+        <item>Right hand style</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>

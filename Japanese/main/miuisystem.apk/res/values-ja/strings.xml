@@ -10,6 +10,7 @@
   <string name="armed_forces_day">軍人節</string>
   <string name="autumn_begins">立秋</string>
   <string name="autumn_equinox">秋分</string>
+  <string name="carousel">Carousel</string>
   <string name="childrens_day">儿童节</string>
   <string name="chinese_youth_day">青年节</string>
   <string name="christmas_day">圣诞节</string>
@@ -18,7 +19,16 @@
   <string name="cloud_state_finished">Synced with Mi Cloud</string>
   <string name="cloud_state_syncing">Synced with Mi Cloud</string>
   <string name="cold_dews">寒露</string>
+  <string name="cta_button_continue">Agree</string>
+  <string name="cta_button_quit">Exit</string>
+  <string name="cta_check_reminder">"Don't show again"</string>
+  <string name="cta_message_license">By using this product, you agree to the terms stated in our Terms of Service and Privacy Policy.</string>
+  <string name="cta_message_permission">This app needs to %2$s to work normally.</string>
+  <string name="cta_permission_and"> and </string>
+  <string name="cta_permission_delimiter">, </string>
+  <string name="cta_title">Terms of Use</string>
   <string name="day_following_good_friday">耶穌受難節翌日</string>
+  <string name="daydream">Daydream</string>
   <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
   <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
   <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
@@ -41,6 +51,7 @@
   <string name="fools_day">愚人节</string>
   <string name="frequent_phrases_des">"数回タップするだけでテキストの編集中によく使うフレーズを入力できます"</string>
   <string name="frequent_phrases_size_exceeded">Can add up to %1$d frequent phrases. Delete unnecessary ones to add more.</string>
+  <string name="glockenspiel">Glockenspiel</string>
   <string name="good_friday">耶穌受難節</string>
   <string name="grain_buds">小满</string>
   <string name="grain_in_ear">芒种</string>
@@ -55,6 +66,7 @@
   <string name="labour_day">劳动节</string>
   <string name="lantern_festival">元宵节</string>
   <string name="light_snow">小雪</string>
+  <string name="lollipop">Lollipop</string>
   <string name="lunar_ba">八</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_chu">初</string>
@@ -108,6 +120,7 @@
   <string name="the_mid_autumn_festival">中秋节</string>
   <string name="the_rains">雨水</string>
   <string name="the_spring_festival">春节</string>
+  <string name="toyrobot">ToyRobot</string>
   <string name="tw_childrens_day">兒童節</string>
   <string name="tw_youth_day">青年節</string>
   <string name="united_nations_day">聯合國日</string>

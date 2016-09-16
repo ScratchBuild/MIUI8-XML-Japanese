@@ -60,6 +60,7 @@
   <string name="feedback_empty_report_list">No reports yet</string>
   <string name="feedback_history_remind_login_desc">"Sign in with your Mi Account to view details and your report's progress"</string>
   <string name="feedback_id">ID: %d</string>
+  <string name="feedback_jira_key">JIRA Key: %s</string>
   <string name="feedback_package_log_failed">"Couldn't compress logs"</string>
   <string name="feedback_phone_model_label">Phone model</string>
   <string name="feedback_probability_label">Probability</string>
@@ -135,11 +136,11 @@
   <string name="michat_kefu_welcome">Welcome to Xiaomi online support!</string>
   <string name="michat_lose_artificial">A network error occurred, you left the chat</string>
   <string name="michat_menu_copy_text">"コピー"</string>
-  <string name="michat_mesage_resend_error_network">"Couldn't connect to the network"</string>
-  <string name="michat_mesage_send_error_network">"Couldn't send, check network connection"</string>
   <string name="michat_message_copy_info">Copied to clipboard</string>
+  <string name="michat_message_error_network">"Couldn't connect to the network"</string>
   <string name="michat_message_join_again">"Glad you're back!"</string>
   <string name="michat_message_robot_welcome">"My name is Mi Bunny. I'm an online support robot."</string>
+  <string name="michat_message_send_error_network">"Couldn't send, check network connection"</string>
   <string name="michat_motto">Mi Support is ready to help</string>
   <string name="michat_msg_image_upload_error">"Couldn't send image, try again later"</string>
   <string name="michat_msg_input_info">Describe your issue briefly</string>
@@ -244,6 +245,7 @@
   <string name="toast_title_required">Describe your issue</string>
   <string name="topic_author">1#</string>
   <string name="try_again">"再試行"</string>
+  <string name="upload_log_failed">"Couldn't send logs"</string>
   <string name="warning_field_empty">Enter %1$s</string>
   <string name="warning_field_invalid">Select a valid %1$s</string>
 </resources>

@@ -228,7 +228,7 @@
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(No subject)</string>
   <string name="hms_notification">Messages</string>
-  <string name="homepage_barcode_prompt">Scan to open homepage.</string>
+  <string name="homepage_barcode_prompt">Scan to open home page</string>
   <string name="info_divider">|</string>
   <string name="locating_fail">"Couldn't find your location"</string>
   <string name="login_before_use">You need to sign in first</string>
@@ -237,6 +237,8 @@
   <string name="mark_number_check_dialog_title">Mark number</string>
   <string name="mark_number_check_most_choice">(Most Users Choice)</string>
   <string name="mark_number_custom_mark_deleted">Flag info removed</string>
+  <string name="mark_number_delete_confirm_message">Remove flag info %s ?</string>
+  <string name="mark_number_delete_confirm_title">Remove flag info</string>
   <string name="mark_number_dialog_maintitle">Flag this phone number</string>
   <string name="mark_number_dialog_subtitle">%1$s (flagged by %2$d people)</string>
   <string name="mark_number_feedback">Flag</string>

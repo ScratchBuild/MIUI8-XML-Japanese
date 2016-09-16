@@ -134,6 +134,15 @@
   <string name="preparing_sd">内部ストレージの準備中…</string>
   <string name="previous">戻る</string>
   <string name="qr_code_details">QRコードの詳細:</string>
+  <string name="recognition_error_download_cancel">Later</string>
+  <string name="recognition_error_download_data_msg">Download recognition engine to scan cards. Its size is about 15MB. Use mobile data to download?</string>
+  <string name="recognition_error_download_fail">"Couldn't download recognition engine"</string>
+  <string name="recognition_error_download_msg">Download recognition engine to scan cards. Its size is about 15MB.</string>
+  <string name="recognition_error_download_no_network">"Couldn't download. Make sure you're connected to the network."</string>
+  <string name="recognition_error_download_ok">Download</string>
+  <string name="recognition_error_download_success">Downloaded successfully</string>
+  <string name="recognition_error_download_title">Recognition engine is required</string>
+  <string name="recognition_error_downloading">Downloading recognition engine…</string>
   <string name="recognize">Scan</string>
   <string name="recognize_fail">"Couldn't read code"</string>
   <string name="scan_fail">"Couldn't scan code"</string>

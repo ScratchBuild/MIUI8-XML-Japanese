@@ -111,7 +111,7 @@
   <string name="feature_title_account">Mi Account</string>
   <string name="feature_title_call_log">"通話履歴"</string>
   <string name="feature_title_mms">MMS</string>
-  <string name="file_uploading">Uploading…</string>
+  <string name="file_uploading">"アップロード中…"</string>
   <string name="files_backup_info">"SDカード上のすべてのファイル (写真、音楽、動画、アプリのデータ、その他を含む)"</string>
   <string name="findlost_contact">"連絡先を復元"</string>
   <string name="findlost_contact_online">"Mi Cloudから連絡先を復元する"</string>

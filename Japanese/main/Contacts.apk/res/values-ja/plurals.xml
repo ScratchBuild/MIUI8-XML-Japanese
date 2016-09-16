@@ -79,8 +79,8 @@
         <item quantity="one">%1$d number</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d contact emails</item>
-        <item quantity="one">%1$d contact email</item>
+        <item quantity="other">%1$d emails</item>
+        <item quantity="one">%1$d email</item>
     </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">Found %1$d items</item>

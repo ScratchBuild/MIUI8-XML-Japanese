@@ -23,6 +23,7 @@
   <string name="action_settings">"設定"</string>
   <string name="ad_close">Close</string>
   <string name="ad_extension">Promotion</string>
+  <string name="ad_mark">AD</string>
   <string name="add_music">Add songs</string>
   <string name="add_to_last_of_playlist">Add to the end of playlist</string>
   <string name="alaka_required">"This song isn't available."</string>
@@ -200,6 +201,7 @@
   <string name="download_done_btn">Downloaded</string>
   <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">"十分な空き領域がありません"</string>
+  <string name="download_fail_to_fetch_info">Fail to download. Please try again.</string>
   <string name="download_filesize_unknown">"不明"</string>
   <string name="download_in_process">"ダウンロード中"</string>
   <string name="download_info_count_deleted_tasks">%s downloads removed</string>
@@ -363,6 +365,7 @@
   <string name="list_item_play_FM_radio">Touch to play FM radio</string>
   <string name="list_item_play_all_tracks">"すべて再生"</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
+  <string name="loadercontainer_loading">"読み込み中…"</string>
   <string name="loading_hint">"読み込み中…"</string>
   <string name="local_music">Offline</string>
   <string name="local_music_empty">Local playlist is empty</string>
@@ -455,6 +458,7 @@
   <string name="nav_online_billboard">Charts</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Playlists</string>
+  <string name="network_error_and_retry">"Couldn't connect, tap to try again"</string>
   <string name="network_failure">Check your connection and try again.</string>
   <string name="network_request_error">"ネットワークに接続できません"</string>
   <string name="network_settings_error">"ネットワークに接続できません"</string>
@@ -512,7 +516,7 @@
   <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_playlist_is_empty">Playlist is empty</string>
-  <string name="online_recommend">Recommended</string>
+  <string name="online_recommend">Playlist</string>
   <string name="online_special">Special</string>
   <string name="open_download">Open</string>
   <string name="order_pending">Awaiting confirmation</string>
@@ -665,6 +669,7 @@
   <string name="share_chooser_title">Share using</string>
   <string name="share_description">From Mi Music</string>
   <string name="share_end_note">From Mi Music</string>
+  <string name="share_image_error">Fail to share image because download image error</string>
   <string name="share_text_list">"Playlist from Mi Music: "</string>
   <string name="share_text_song">"Song in Mi Music: "</string>
   <string name="show_more">Show %s more</string>
@@ -715,6 +720,19 @@
   <string name="tab_track">Songs</string>
   <string name="tab_track_list">Songs</string>
   <string name="take_effect_afater_restart">You need to restart the app for this setting to take effect.</string>
+  <string name="talkback_back">Quit Current Page</string>
+  <string name="talkback_device">Play via other devices</string>
+  <string name="talkback_download">Download</string>
+  <string name="talkback_favorite">Like this song</string>
+  <string name="talkback_mode">Switch loop mode</string>
+  <string name="talkback_more">More menu</string>
+  <string name="talkback_next">Next song</string>
+  <string name="talkback_play">Play / Pause</string>
+  <string name="talkback_pre">Previous song</string>
+  <string name="talkback_progress">Progress bar</string>
+  <string name="talkback_radar">Music recognition</string>
+  <string name="talkback_search">Search</string>
+  <string name="talkback_share">Share</string>
   <string name="task_already_exist">Task already exists</string>
   <string name="ticket_summary">Buy tickets for shows, concerts, plays, and other events</string>
   <string name="ticket_title">Show tickets</string>
@@ -732,6 +750,7 @@
   <string name="toast_cancel_download">Download canceled</string>
   <string name="toast_cancel_play">Play canceled</string>
   <string name="toast_download_error_by_count_limit">You have used up your download quota for this month.</string>
+  <string name="toast_download_error_by_not_login">Sign in to Mi Account and try again.</string>
   <string name="toast_download_error_by_vip_required">Get Premium Song Pack to download this song.</string>
   <string name="toast_download_in_process">"ダウンロード中"</string>
   <string name="toast_normal_songs_for_download">Downloading quality set to Standard</string>

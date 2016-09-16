@@ -29,6 +29,12 @@
         <item>3</item>
         <item>4</item>
     </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Record through 2 channels, listen to stereo sound in the earphones</item>
+        <item>"Move the mic closer to the sound's source for better quality"</item>
+        <item>Place the phone between 2 people to record them both clearly</item>
+        <item>Maximum effective distance of the mic is 10 meters</item>
+    </string-array>
     <string-array name="record_quality_entries">
         <item>"高音質"</item>
         <item>"標準"</item>
@@ -43,5 +49,10 @@
         <item>MP3, ~192kbit/s, ~90MB/h</item>
         <item>MP3, ~100kbit/s, ~45MB/h</item>
         <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_locale_language">
+        <item>fa</item>
+        <item>ar</item>
+        <item>bn</item>
     </string-array>
 </resources>

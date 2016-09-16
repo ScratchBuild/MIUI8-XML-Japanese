@@ -133,7 +133,7 @@
   <string name="callrecordview_menu_show_sim">"%sの通話"</string>
   <string name="callrecordview_menu_show_stranger">"不明な番号"</string>
   <string name="callrecordview_menu_show_title">Call history display</string>
-  <string name="callrecordview_menu_voip">VoIP</string>
+  <string name="callrecordview_menu_voip">Mi Voice</string>
   <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">"変更を破棄しますか？"</string>
   <string name="cancel_confirmation_dialog_title">"キャンセル"</string>
@@ -598,9 +598,9 @@ Contact cards are turned off"</string>
   <string name="menu_bar_group_batch_remove">グループを削除する</string>
   <string name="menu_bar_group_delete">Delete</string>
   <string name="menu_bar_group_rename">Rename</string>
-  <string name="menu_bar_group_ringtone">Group ringtone</string>
+  <string name="menu_bar_group_ringtone">Ringtone</string>
   <string name="menu_bar_group_ringtone_largeui">"着信音"</string>
-  <string name="menu_bar_group_sms">Group SMS</string>
+  <string name="menu_bar_group_sms">SMS</string>
   <string name="menu_call">"連絡先に発信"</string>
   <string name="menu_callNumber">"%sに発信"</string>
   <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
@@ -865,7 +865,7 @@ To add a contact to your list of favorites:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">"電話"</string>
-  <string name="phone_call_type_livetalk">LiveTalk</string>
+  <string name="phone_call_type_livetalk">Top-up package</string>
   <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">"番号が長すぎます"</string>
@@ -874,8 +874,8 @@ To add a contact to your list of favorites:
   <string name="photo_fragment">"写真"</string>
   <string name="photo_labels_group">プロフィール写真</string>
   <string name="photo_load_failed">"写真を読み込めませんでした"</string>
-  <string name="pick_new_photo">"新しい写真を選択"</string>
-  <string name="pick_photo">"写真を選択"</string>
+  <string name="pick_new_photo">"新しい写真を%sから選択"</string>
+  <string name="pick_photo">"写真を%sから選択"</string>
   <string name="pickerNewContactHeader">"連絡先を新規登録"</string>
   <string name="pickerNewContactText">"新しい連絡先を作成"</string>
   <string name="picker_all_list_empty">"連絡先はありません"</string>

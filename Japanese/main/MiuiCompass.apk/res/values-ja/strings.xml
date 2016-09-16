@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="altitude">%.1f</string>
+  <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">高度</string>
   <string name="altitude_uncalibrate_cancel">キャンセル</string>
   <string name="altitude_uncalibrate_msg">GPSかモバイルデータ通信が無いと、正確な高度の調整はできません</string>
