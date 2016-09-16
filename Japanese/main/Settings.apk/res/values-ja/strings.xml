@@ -734,17 +734,12 @@
   <string name="carrier_enabled">APNの有効/無効</string>
   <string name="carrier_enabled_summaryOff">APNは無効です</string>
   <string name="carrier_enabled_summaryOn">APNは有効です</string>
-  <string name="category_key_device">com.android.settings.category.device</string>
-  <string name="category_key_personal">com.android.settings.category.personal</string>
-  <string name="category_key_system">com.android.settings.category.system</string>
-  <string name="category_key_wireless">com.android.settings.category.wireless</string>
   <string name="category_personal">個人用</string>
   <string name="category_work">仕事用</string>
   <string name="cdma_security_settings_summary">現在地、画面のロック解除、認証情報ストレージのロックを設定します</string>
   <string name="cell_broadcast_settings">緊急警報</string>
   <string name="cellular_data_summary">モバイルネットワークでのデータ使用を許可</string>
   <string name="cellular_data_title">モバイルデータ</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">変更</string>
   <string name="change_password">画面ロックの変更</string>
   <string name="change_security_lock">ロック解除する他の方法を試す</string>
@@ -2333,7 +2328,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_accessibility_captioning_title">設定/その他の設定/ユーザー補助/字幕</string>
   <string name="path_accessibility_display_daltonizer_preference_title">設定/その他の設定/ユーザー補助/色補正</string>
   <string name="path_accessibility_global_gesture_preference_title">設定/その他の設定/ユーザー補助/ユーザー補助のショートカット</string>
-  <string name="path_accessibility_long_press_timeout_preference_title">設定/その他の設定/ユーザー補助/Touch &amp; hold delay</string>
+  <string name="path_accessibility_long_press_timeout_preference_title">設定/その他の設定/ユーザー補助/長押し時間を設定</string>
   <string name="path_accessibility_screen_magnification_title">設定/その他の設定/ユーザー補助/拡大操作</string>
   <string name="path_accessibility_settings">設定/その他の設定/ユーザー補助</string>
   <string name="path_account_list">設定/その他のアカウント</string>
@@ -2348,8 +2343,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_application_lock">設定/アプリのロック</string>
   <string name="path_applications_settings">設定/Installed apps</string>
   <string name="path_back_key">設定/その他の設定/ボタン/Back</string>
-  <string name="path_battery_indicator_settings">設定/Battery &amp; performance/Battery indicator</string>
-  <string name="path_battery_settings">設定/Battery &amp; performance</string>
+  <string name="path_battery_indicator_settings">設定/電池とパフォーマンス/Battery indicator</string>
+  <string name="path_battery_settings">設定/電池とパフォーマンス</string>
   <string name="path_bluetooth_device_name">設定/Bluetooth/Device name</string>
   <string name="path_bluetooth_device_searchable">設定/Bluetooth/Discoverable</string>
   <string name="path_bluetooth_enable">設定/Bluetooth/Bluetooth</string>
@@ -2380,7 +2375,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_dtmf_tone_enable_title">設定/音とバイブレーション/Dial pad tones</string>
   <string name="path_edge_handgrip">設定/エッジコントロールe</string>
   <string name="path_equalizer">設定/音とバイブレーション/Audio settings/Equalizer</string>
-  <string name="path_fluency_mode">設定/Battery &amp; performance/System animations</string>
+  <string name="path_fluency_mode">設定/電池とパフォーマンス/System animations</string>
   <string name="path_font_settings">設定/ディスプレイ/System font</string>
   <string name="path_force_touch">設定/その他の設定/3D Touch</string>
   <string name="path_gesture_wakeup_title">設定/ディスプレイ/Double tap screen to wake</string>
@@ -2420,8 +2415,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_page_layout_settings">設定/ディスプレイ/Text size</string>
   <string name="path_pointer_speed">設定/その他の設定/言語と入力/ポインタの速度</string>
   <string name="path_power_checker">設定/その他の設定/Beta features/Power Checker</string>
-  <string name="path_power_hide_mode_title">設定/Battery &amp; performance/Manage apps battery usage</string>
-  <string name="path_power_mode_settings">設定/Battery &amp; performance/Power settings</string>
+  <string name="path_power_hide_mode_title">設定/電池とパフォーマンス/Manage apps battery usage</string>
+  <string name="path_power_mode_settings">設定/電池とパフォーマンス/Power settings</string>
   <string name="path_power_optimize">設定/その他の設定/Beta features/Battery saver</string>
   <string name="path_pref_volume_wake_title">設定/ロック画面とパスワード/Wake with Volume buttons</string>
   <string name="path_preferred_network_type_settings">設定/SIMカードとモバイルネットワーク/Preferred network type</string>
@@ -2466,7 +2461,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_toggle_position_settings">設定/通知とステータスバー/Toggle positions</string>
   <string name="path_touch_assistant_settings">設定/その他の設定/Quick ball</string>
   <string name="path_touch_sensitive_title">設定/ディスプレイ/手袋モード</string>
-  <string name="path_trusted_credentials">設定/その他の設定/プライバシー/Trusted credentials</string>
+  <string name="path_trusted_credentials">設定/その他の設定/プライバシー/信頼できる認証情報</string>
   <string name="path_tts_settings_title">設定/その他の設定/言語と入力/Text-to-speech output</string>
   <string name="path_turn_on_security_lock">設定/ロック画面とパスワード/Screen lock/Change screen lock</string>
   <string name="path_unlock_set_settings">設定/ロック画面とパスワード</string>
@@ -2482,7 +2477,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_wallpaper_settings">設定/壁紙</string>
   <string name="path_wifi_advanced_ip_address_title">設定/Wi-Fi/詳細設定/IPアドレス</string>
   <string name="path_wifi_advanced_mac_address_title">設定/Wi-Fi/詳細設定/MACアドレス</string>
-  <string name="path_wifi_display_settings">設定/More/Wireless display</string>
+  <string name="path_wifi_display_settings">設定/More/ワイヤレスディスプレイ</string>
   <string name="path_wifi_enable">設定/Wi-Fi/Turn on WLAN</string>
   <string name="path_wifi_install_credentials">設定/Wi-Fi/詳細設定/証明書のインストール</string>
   <string name="path_wifi_menu_p2p">設定/Wi-Fi/詳細設定/Wi-Fi Direct</string>
@@ -2578,14 +2573,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="pref_button_light_summary">メニュー、ホーム、戻るボタンのライトを点灯する</string>
   <string name="pref_edge_handgrip">エッジコントロール</string>
   <string name="pref_operational_key">ナビゲーションボタン</string>
-  <string name="pref_volume_launch_camera_summary">Press volume down button twice launch camera</string>
-  <string name="pref_volume_launch_camera_title">Rapid camera</string>
+  <string name="pref_volume_launch_camera_summary">"ボリューム[-]ボタンを2回押すとカメラを起動します"</string>
+  <string name="pref_volume_launch_camera_title">高速カメラ起動</string>
   <string name="pref_volume_wake_summary">ボリュームボタンを押すと端末が復帰します</string>
   <string name="pref_volume_wake_title">ボリュームボタンで復帰</string>
   <string name="preference_change_password_title">パスワードを変更</string>
   <string name="preferred_app_settings">デフォルト</string>
   <string name="preferred_app_settings_default">デフォルト</string>
-  <string name="preferred_app_settings_not_selected">Not selected</string>
+  <string name="preferred_app_settings_not_selected">選択されていません</string>
   <string name="preferred_app_settings_reset">デフォルトにリセット</string>
   <string name="preferred_app_settings_reset_button">リセット</string>
   <string name="preferred_app_settings_reset_message">デフォルトアプリの設定は工場出荷時の状態にリセットされます。</string>
@@ -2907,8 +2902,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_paper_mode_summary">ディスプレイの背景のまぶしさを軽減します</string>
   <string name="screen_paper_mode_time_title">Scheduled</string>
   <string name="screen_paper_mode_title">読書モード</string>
-  <string name="screen_paper_mode_turn_off">Off</string>
-  <string name="screen_paper_mode_turn_on">On</string>
+  <string name="screen_paper_mode_turn_off">オフ</string>
+  <string name="screen_paper_mode_turn_on">オン</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">二度と表示しない</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">許可する</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">読書モードを使用するアプリのリストを更新するには、インターネットへの接続が必要です。</string>
@@ -3267,7 +3262,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="settings_license_activity_loading">読み込み中...</string>
   <string name="settings_license_activity_title">オープンソースライセンス</string>
   <string name="settings_license_activity_unavailable">ライセンスの読み込み中に問題が発生しました。</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">読み込み中...</string>
   <string name="settings_safetylegal_activity_title">安全に関する情報</string>
   <string name="settings_safetylegal_activity_unreachable">データ接続されていません。この情報を表示するにはインターネットに接続されているパソコンから%sにアクセスしてください。</string>
@@ -3285,8 +3279,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="show_all_anrs">すべてのANRを表示</string>
   <string name="show_all_anrs_summary">バックグラウンドアプリが応答しない場合に通知する</string>
   <string name="show_background_processes">キャッシュしたプロセスを表示</string>
-  <string name="show_connected_devices_summary">View connected devices</string>
-  <string name="show_connected_devices_title">Connected devices</string>
+  <string name="show_connected_devices_summary">接続されたデバイスを表示する</string>
+  <string name="show_connected_devices_title">接続されたデバイス</string>
   <string name="show_cpu_usage">CPU使用状況を表示</string>
   <string name="show_cpu_usage_summary">現在のCPU使用状況をオーバーレイ表示する</string>
   <string name="show_dev_already">開発者向けオプションが既に有効です。</string>
@@ -3377,8 +3371,8 @@ PINが正しくない可能性があります。"</string>
   <string name="sim_slot_empty">SIMが空です</string>
   <string name="sim_status_title">SIMのステータス</string>
   <string name="simulate_color_space">色空間シミュレート</string>
-  <string name="single_key_use">Single button</string>
-  <string name="single_key_use_summary">Use Home button for functions performed by the other 2 buttons</string>
+  <string name="single_key_use">シングルボタン</string>
+  <string name="single_key_use_summary">他の2つのボタンに割り当てられている機能をホームボタンで使用する</string>
   <string name="skip_label">スキップ</string>
   <string name="skip_lock_screen_confirm_msg">通知、音楽プレーヤーのコントロール、カメラ及びMiホームはロック画面で無効になります</string>
   <string name="skip_step">スキップ</string>
@@ -3435,9 +3429,9 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_app_enable_keyguard">ロック画面</string>
   <string name="status_bar_app_enable_message">バッジ</string>
   <string name="status_bar_key_position_custom">カスタマイズしたボタンの配置</string>
-  <string name="status_bar_screen_button_desc">Slide gestures to hide the screen button</string>
+  <string name="status_bar_screen_button_desc">画面ボタンをスライドジェスチャーで非表示にする</string>
   <string name="status_bar_screen_button_key">画面ボタン</string>
-  <string name="status_bar_screen_button_key_can_hide">Screen buttons can hide</string>
+  <string name="status_bar_screen_button_key_can_hide">画面ボタンは非表示にできます</string>
   <string name="status_bar_screen_key_back">戻るボタン</string>
   <string name="status_bar_screen_key_home">ホームボタン</string>
   <string name="status_bar_screen_key_menu">メニューボタン</string>
@@ -3554,7 +3548,7 @@ PINが正しくない可能性があります。"</string>
   <string name="storage_internal_unmount_details"><b>"この^1を取り外すと、もう一度挿入するまでは保存されているアプリやメディアファイルを使用できなくなります。"</b>"
   
 この^1はこの端末用にフォーマットされており、他の端末では使用できません。"</string>
-  <string name="storage_label">Storage</string>
+  <string name="storage_label">ストレージ</string>
   <string name="storage_low_summary">同期などの一部のシステム機能が正常に動作しない可能性があります。アプリやメディアコンテンツなどのアイテムを削除するか、アイテムのオフライン利用設定を解除して、空き容量を確保してください。</string>
   <string name="storage_low_title">空き容量が少なくなっています</string>
   <string name="storage_menu_explore">外部メディア</string>
@@ -3574,7 +3568,6 @@ PINが正しくない可能性があります。"</string>
   <string name="storage_settings">ストレージ</string>
   <string name="storage_settings_summary">SDカードの取り外し、空き容量の表示</string>
   <string name="storage_settings_title">ストレージの設定</string>
-  <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
   <string name="storage_summary_format">%1$s使用（%2$s）</string>
   <string name="storage_title_usb">USBでパソコンに接続</string>
   <string name="storage_type_external">外部ストレージ</string>
@@ -3868,8 +3861,8 @@ PINが正しくない可能性があります。"</string>
   <string name="unmount_inform_text">SDカードのマウントが解除されます。</string>
   <string name="untitled_apn">無題</string>
   <string name="update_progress_for_updates">アップデート中... (%s)</string>
-  <string name="upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
-  <string name="upload_debug_log_title">Send diagnostic data automatically</string>
+  <string name="upload_debug_log_summary">診断データには、ハードウェア、オペレーティングシステムやアプリケーションの使用状況に関する情報が含まれます。これらのデータはシステム内の問題を特定、分析するために使用され、個人を識別するために使用されることはありません。</string>
+  <string name="upload_debug_log_title">診断データを自動的に送信する</string>
   <string name="usage_access">使用状況へのアクセス</string>
   <string name="usage_access_description">使用状況へのアクセスにより、アプリは他のアプリの使用状況、使用頻度、携帯通信会社、言語設定などの情報を追跡できるようになります。</string>
   <string name="usage_access_title">使用履歴にアクセスできるアプリ</string>
