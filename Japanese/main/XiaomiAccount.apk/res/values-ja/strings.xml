@@ -194,8 +194,8 @@ To activate your account, follow the
  link we've sent to your inbox."</string>
   <string name="passport_completed">"完了"</string>
   <string name="passport_confirm_recycle_account">"はい"</string>
-  <string name="passport_copy_message_text_success">Copy text done</string>
-  <string name="passport_copy_message_vcode">Copy verify code</string>
+  <string name="passport_copy_message_text_success">Copied successfully</string>
+  <string name="passport_copy_message_vcode">Copy code</string>
   <string name="passport_delete_account">"ログアウト"</string>
   <string name="passport_downlink_reg">"電話番号を使用してアカウントを作成"</string>
   <string name="passport_email">"メールアドレス"</string>
@@ -246,7 +246,7 @@ To activate your account, follow the
   <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
   <string name="passport_login_title">Sign in to your Mi Account</string>
   <string name="passport_login_using_other_ways">"<u>その他の方法でログイン</u>"</string>
-  <string name="passport_message_dialog_title">Verify code message</string>
+  <string name="passport_message_dialog_title">SMS with verifying codes</string>
   <string name="passport_next">"次へ"</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
   <string name="passport_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
@@ -302,7 +302,7 @@ To activate your account, follow the
   <string name="passport_skip_setup_account_msg">You can set up a Mi Account later in Settings.</string>
   <string name="passport_skip_setup_account_title">Skip setup</string>
   <string name="passport_title_reg">Create an account</string>
-  <string name="passport_trust_device">Trust this device</string>
+  <string name="passport_trust_device">Add this device to verified devices</string>
   <string name="passport_trying_read_verify_code_sms">Getting verification code…</string>
   <string name="passport_uplink_reg">Use phone number</string>
   <string name="passport_uplink_slot1_reg">Use SIM 1</string>

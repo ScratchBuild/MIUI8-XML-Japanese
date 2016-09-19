@@ -39,7 +39,7 @@
   <string name="backup_success_confirm">View</string>
   <string name="backup_success_message">Backed up to %1$s</string>
   <string name="backup_success_title">Backed up</string>
-  <string name="backup_title">Back up Chats videos?</string>
+  <string name="backup_title">Back up chat videos?</string>
   <string name="big5_summary">Traditional Chinese Windows default encoding</string>
   <string name="big5_title">BIG5</string>
   <string name="bind">"追加"</string>
@@ -198,7 +198,7 @@
   <string name="encrypt_error">"Couldn't hide files, try again"</string>
   <string name="encrypt_prefix">HIDDEN</string>
   <string name="encrypt_success">Hidden successfully</string>
-  <string name="encrypt_success_first_five">"Encrypted and hid file. You can view hidden files by pulling down on Explorer's start page."</string>
+  <string name="encrypt_success_first_five">"Encrypted and hid file. You can view hidden files by pulling down on the Explorer's start page."</string>
   <string name="encrypting">Encrypting…</string>
   <string name="error_contains_sharer_path">"Can't encrypt files in folder /MIUI/Gallery/cloud/sharer. Move files to another directory and try again."</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
@@ -477,7 +477,7 @@ and never miss the cool new ones!"</string>
   <string name="notification_summary">"%1$s doesn't support this feature yet"</string>
   <string name="notification_title">Show notification when %1$s creates a file</string>
   <string name="notification_wechat_auto_backup_hint">Tap to learn more.</string>
-  <string name="notification_wechat_auto_backup_switch_title">Back up Chats videos</string>
+  <string name="notification_wechat_auto_backup_switch_title">Back up chat videos</string>
   <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
   <string name="notification_wechat_sticker_hint">Show notification when new WeChat stickers are available</string>
   <string name="notification_wechat_sticker_switch_title">New stickers daily notification</string>
@@ -714,7 +714,7 @@ and never miss the cool new ones!"</string>
   <string name="shared_sticker_page_no_file">"Couldn't connect to the network. Check your network connection and try again."</string>
   <string name="shared_sticker_str">Recent</string>
   <string name="shared_sticker_suffix">Sticker at %s</string>
-  <string name="shared_sticker_use_tip">"You can send the stickers you saved from Chats just like you send images.
+  <string name="shared_sticker_use_tip">"You can send the stickers you saved from chats just like you send images.
 (GIFs can be added to Custom in WeChat Stickers)."</string>
   <string name="shared_sticker_use_tip_title">How to use stickers</string>
   <string name="shared_str">Shared by %s</string>

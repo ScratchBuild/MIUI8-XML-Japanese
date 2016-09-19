@@ -262,7 +262,7 @@
   <string name="login_immediately">"ログイン"</string>
   <string name="long_click_dialog_summary">Long press to add to exceptions.</string>
   <string name="long_click_dialog_title">Notice</string>
-  <string name="low_memory_clean_dialog_msg">Clear at least %1$s files first</string>
+  <string name="low_memory_clean_dialog_msg">Clear at least 100MB files first</string>
   <string name="low_memory_clean_dialog_ok_button">OK</string>
   <string name="low_memory_clean_dialog_title">"十分な空き領域がありません"</string>
   <string name="low_memory_warning_dialog_cancel_button">"キャンセル"</string>

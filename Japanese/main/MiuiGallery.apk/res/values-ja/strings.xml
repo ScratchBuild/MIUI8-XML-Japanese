@@ -160,7 +160,7 @@
   <string name="cloud_guide_slim_title">Optimize local storage to save %1$s</string>
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">"スクリーンショット"</string>
-  <string name="cloud_settings">Mi Cloud</string>
+  <string name="cloud_settings">Gallery backups</string>
   <string name="cloud_space_full_button_text">Get more Mi Cloud storage</string>
   <string name="cloudfolder_cannot_start_with">"Album name can't start with '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Album name can't contain '%s'"</string>
@@ -372,7 +372,7 @@ Take more photos of your friends!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Height should be > 0</string>
   <string name="limit_width">Width should be > 0</string>
-  <string name="loading_dual_tip">Loading dual photo...</string>
+  <string name="loading_dual_tip">Loading dual photo…</string>
   <string name="loading_fail">"Couldn't download"</string>
   <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
   <string name="loading_fail_sync_off_message">"Couldn't load photos, sync with Mi Cloud is off."</string>
@@ -488,7 +488,7 @@ Take more photos of your friends!"</string>
   <string name="picker_mobile_data_video">"Can't download videos using mobile data, skipped %d."</string>
   <string name="picker_no_network_message">Connect to the network to download</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
-  <string name="picker_title_format">Selected photos: %d</string>
+  <string name="picker_title_format">You can select %d photos</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
   <string name="picker_title_unlimit">Select photos</string>
   <string name="preparing_data">"読み込み中…"</string>
