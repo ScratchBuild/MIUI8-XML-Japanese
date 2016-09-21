@@ -12,7 +12,7 @@
   <string name="default_receive_data_msg">"データを受信しています"</string>
   <string name="default_send_data_msg">"データを送信しています"</string>
   <string name="default_setup_call_msg">"発信しています"</string>
-  <string name="default_tone_dialog_msg">Playing Tone</string>
+  <string name="default_tone_dialog_msg">"トーンを再生中"</string>
   <string name="digits">"数字 (0-9、*、#、+)"</string>
   <string name="disable_app">"無効"</string>
   <string name="enable_app">"有効"</string>
@@ -28,6 +28,6 @@
   <string name="stk_dialog_accept">"はい"</string>
   <string name="stk_dialog_reject">"いいえ"</string>
   <string name="stk_dialog_title">"SIM Toolkit"</string>
-  <string name="stk_intent_permission">Allow STK Intents</string>
+  <string name="stk_intent_permission">STKのインテントを許可する</string>
   <string name="stk_no_service">"利用できるサービスプランがありません"</string>
 </resources>

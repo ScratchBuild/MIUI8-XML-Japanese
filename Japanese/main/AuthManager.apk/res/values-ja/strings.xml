@@ -48,10 +48,10 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Generic_ShowSystemApp">"システムアプリを表示"</string>
   <string name="Generic_Summary_Disabled">Off</string>
   <string name="Generic_Summary_Enabled">On</string>
-  <string name="Generic_SystemApp">System (%d)</string>
-  <string name="Generic_SystemApp_Label">System app</string>
+  <string name="Generic_SystemApp">"システム (%d)"</string>
+  <string name="Generic_SystemApp_Label">"システムアプリ"</string>
   <string name="Generic_TrustedApp">"信頼済み (%1$d)"</string>
-  <string name="Generic_Update">Update</string>
+  <string name="Generic_Update">"更新"</string>
   <string name="Generic_UserApp">Downloaded (%d)</string>
   <string name="Generic_Version">"バージョン %1$s"</string>
   <string name="HIPS_Action_Accept">Allow</string>
@@ -265,7 +265,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Privacy_App_Trust_Summary_Off">Show notification when this app is trying to access other parts of the system</string>
   <string name="Privacy_App_Trust_Summary_On">Show notification when this app is trying to access other parts of the system</string>
   <string name="Privacy_App_Uninstall">"アンインストール"</string>
-  <string name="Privacy_Perm_Count">%1$d allowed | %2$d denied</string>
+  <string name="Privacy_Perm_Count">"%1$d 許可 | %2$d 拒否"</string>
   <string name="Su_Enable_Dialog">%1$s is requesting root access.</string>
   <string name="Su_Package_Forbidden2">"doesn't have root access."</string>
   <string name="Su_Unavailable">Root access is unavailable in this version of MIUI. You need to flash the developer build of MIUI in order to give root access.</string>

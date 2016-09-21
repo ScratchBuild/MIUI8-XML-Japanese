@@ -207,8 +207,8 @@
   <string name="app_factory_reset">アップデートのアンインストール</string>
   <string name="app_factory_reset_dlg_text">このAndroidシステムアプリへのすべてのアップデートはアンインストールされます。</string>
   <string name="app_factory_reset_dlg_title">アップデートをアンインストールしますか？</string>
-  <string name="app_floating_window_dlg_disable">"Turning off %1$s's floating window settings requires the app to restart."</string>
-  <string name="app_floating_window_dlg_enable">"Turning on %1$s's floating window settings requires the app to restart."</string>
+  <string name="app_floating_window_dlg_disable">%1$sのフローティングウィンドウ設定を無効にするにはアプリの再起動が必要です。</string>
+  <string name="app_floating_window_dlg_enable">%1$sのフローティングウィンドウ設定を有効にするにはアプリの再起動が必要です。</string>
   <string name="app_forward_locked">このアプリはコピー防止機能付きです。</string>
   <string name="app_install_location_summary">新しいアプリの優先インストール先を変更する</string>
   <string name="app_install_location_title">優先インストール先</string>
@@ -677,7 +677,7 @@
   <string name="button_text_accept_timer">受け入れ (%d)</string>
   <string name="button_text_login">ログイン</string>
   <string name="button_text_next_step">次へ</string>
-  <string name="button_text_next_step_timer">次 (%d)</string>
+  <string name="button_text_next_step_timer">次へ (%d)</string>
   <string name="button_text_reboot_now">再起動</string>
   <string name="button_text_reject">拒否する</string>
   <string name="cache_header_label">キャッシュ</string>
@@ -794,9 +794,9 @@
   <string name="common_settings">クイック設定</string>
   <string name="complete_settings">一般設定</string>
   <string name="computing_size">計算中...</string>
-  <string name="config_charging_function_name">charging</string>
+  <string name="config_charging_function_name">充電中</string>
   <string name="config_list_label">Configured networks</string>
-  <string name="config_mass_storage_function_name">mass_storage</string>
+  <string name="config_mass_storage_function_name">マスストレージ</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
   <string name="configure_apps">アプリの設定</string>
@@ -1363,8 +1363,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="finish_application">強制停止</string>
   <string name="finish_button_label">完了</string>
   <string name="firmware_version">Androidバージョン</string>
-  <string name="floating_window_switch_label">floating windowsをオンにする</string>
-  <string name="floating_window_switch_label_disable">floating windowsをオフにする</string>
+  <string name="floating_window_switch_label">フローティングウィンドウを有効にする</string>
+  <string name="floating_window_switch_label_disable">フローティングウィンドウを無効にする</string>
   <string name="fluency_mode">システムアニメーション</string>
   <string name="fluency_mode_confirm_and_reboot">今すぐ再起動</string>
   <string name="font_size_exhuge">Extra Huge</string>
@@ -1379,7 +1379,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="font_size_summary">ホームスクリーン、通知シェード、ダイヤラー、システムメニュー用のフォントサイズを変更します</string>
   <string name="font_size_summary1">システムのテキストが小さすぎる場合、試してみてください</string>
   <string name="font_size_summary2">Lite mode.</string>
-  <string name="forbidden_switch_apn_string">"Selected APN settings don't match current network type"</string>
+  <string name="forbidden_switch_apn_string">選択したAPN設定は現在のネットワークタイプと一致しません</string>
   <string name="force_hw_ui">GPUレンダリングを使用</string>
   <string name="force_hw_ui_summary">2D描画にGPUを常に使用する</string>
   <string name="force_msaa">4x MSAAを適用</string>
@@ -1429,8 +1429,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fullbackup_erase_dialog_message">端末のデータ（Wi-Fiのパスワードや通話履歴など）とアプリのデータ（アプリで保存された設定やファイルなど）のバックアップを停止し、Googleドライブ上のすべてのコピーを消去しますか？</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">自動</string>
-  <string name="gadget_brightness_state_full">full</string>
-  <string name="gadget_brightness_state_half">half</string>
+  <string name="gadget_brightness_state_full">100%</string>
+  <string name="gadget_brightness_state_half">50%</string>
   <string name="gadget_brightness_state_off">OFF</string>
   <string name="gadget_brightness_template">画面の明るさ%1$s</string>
   <string name="gadget_location">現在地</string>
@@ -2315,8 +2315,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_page2_small_title">Extra small</string>
   <string name="page_layout_page2_title">プレビュー</string>
   <string name="page_layout_small_title">XS</string>
-  <string name="paper_mode_end_time_title">End time</string>
-  <string name="paper_mode_start_time_title">Start time</string>
+  <string name="paper_mode_end_time_title">終了時間</string>
+  <string name="paper_mode_start_time_title">開始時間</string>
   <string name="passpoint_content">%1$sの認証情報</string>
   <string name="passpoint_label">保存</string>
   <string name="passwordIncorrect">入力したパスワードが正しくありません</string>
@@ -2345,11 +2345,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_back_key">設定/その他の設定/ボタン/Back</string>
   <string name="path_battery_indicator_settings">設定/電池とパフォーマンス/Battery indicator</string>
   <string name="path_battery_settings">設定/電池とパフォーマンス</string>
-  <string name="path_bluetooth_device_name">設定/Bluetooth/Device name</string>
+  <string name="path_bluetooth_device_name">設定/Bluetooth/端末名</string>
   <string name="path_bluetooth_device_searchable">設定/Bluetooth/Discoverable</string>
   <string name="path_bluetooth_enable">設定/Bluetooth/Bluetooth</string>
   <string name="path_bluetooth_settings">設定/Bluetooth</string>
-  <string name="path_brightness_settings">設定/ディスプレイ/Brightness</string>
+  <string name="path_brightness_settings">設定/ディスプレイ/明るさ</string>
   <string name="path_button_light_timeout">設定/その他の設定/ボタン/Keep button lights on</string>
   <string name="path_calendar_sound_title">設定/音とバイブレーション/カレンダー音</string>
   <string name="path_children_mode_settings">設定/その他の設定/Child mode</string>
@@ -2361,7 +2361,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_date_time_settings">設定/その他の設定/日付と時刻</string>
   <string name="path_development_settings">設定/その他の設定/開発者向けオプション</string>
   <string name="path_device_info_memory">設定/ストレージ</string>
-  <string name="path_device_name">設定/端末情報/Device name</string>
+  <string name="path_device_name">設定/端末情報/端末名</string>
   <string name="path_device_status">設定/端末情報/Status</string>
   <string name="path_display_settings">設定/ディスプレイ</string>
   <string name="path_dndm_alarm_content">設定/Do not disturb/Exceptions</string>

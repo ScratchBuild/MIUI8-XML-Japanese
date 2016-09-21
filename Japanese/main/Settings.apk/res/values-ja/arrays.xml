@@ -1403,12 +1403,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>5分</item>
     </string-array>
     <string-array name="fluency_mode_entries">
-        <item>Hide system animations</item>
-        <item>Show system animations</item>
+        <item>システムアニメーションを隠す</item>
+        <item>システムアニメーションを表示</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"Speeds up device's performance"</item>
-        <item>"May slow down device's performance"</item>
+        <item>デバイスのパフォーマンスを高速化します</item>
+        <item>デバイスのパフォーマンスが低下する可能性があります</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>変更を反映するために端末を再起動しますか？</item>

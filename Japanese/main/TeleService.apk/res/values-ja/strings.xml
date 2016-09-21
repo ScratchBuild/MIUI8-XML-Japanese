@@ -519,7 +519,7 @@
   <string name="fdn_invalid_number">"発信番号制限は更新されませんでした。20桁を超える番号は指定できません。"</string>
   <string name="fdn_list_with_label">発信番号制限リスト (%s)</string>
   <string name="fdn_summary">FDN(発信先固定)リストに記載されているか、特定のプレフィックスを持つ番号への発信を制限</string>
-  <string name="fdn_with_label">Fixed Dialing Numbers (%s)</string>
+  <string name="fdn_with_label">発信番号制限 (%s)</string>
   <string name="feedback">"フィードバック"</string>
   <string name="flash_when_ring_summary">着信時に通知LEDを点滅させます。</string>
   <string name="flash_when_ring_title">着信時にLED点滅</string>
@@ -611,7 +611,7 @@
   <string name="labelCFU">常に転送</string>
   <string name="labelCW">通話中着信</string>
   <string name="labelCallerId">発信者番号</string>
-  <string name="labelCbCancelAll">Turn off call barring</string>
+  <string name="labelCbCancelAll">発着信制限をオフにする</string>
   <string name="labelCbChangePassword">パスワードを変更</string>
   <string name="labelCdmaMore_with_label">CDMA通話設定 (%s)</string>
   <string name="labelGSMMore">GSM通話設定</string>
@@ -705,8 +705,8 @@
   <string name="manageConferenceLabel">会議通話の管理</string>
   <string name="manage_fdn_list">発信番号制限リスト</string>
   <string name="managed_roaming_dialog_content">Network with Limited Service found. Do you want to initiate a Network Search?</string>
-  <string name="managed_roaming_title">Managed Roaming</string>
-  <string name="managed_roaming_title_sub">Managed Roaming (SUB%d)</string>
+  <string name="managed_roaming_title">ローミングの管理</string>
+  <string name="managed_roaming_title_sub">ローミングの管理 (SUB%d)</string>
   <string name="menu_add">連絡先を追加</string>
   <string name="menu_delete">連絡先を削除</string>
   <string name="menu_edit">連絡先を編集</string>
@@ -748,8 +748,8 @@
   <string name="msim_info_editor_name">"SIMカード名を編集"</string>
   <string name="msim_info_editor_number">"IMカード番号を編集"</string>
   <string name="msim_info_editor_set_name_error">"名前を保存できませんでした"</string>
-  <string name="msim_mode_progress_activating_message">Onにする</string>
-  <string name="msim_mode_progress_deactivating_message">Offにする</string>
+  <string name="msim_mode_progress_activating_message">オンにする</string>
+  <string name="msim_mode_progress_deactivating_message">オフにする</string>
   <string name="msim_not_set_summary">未設定</string>
   <string name="msim_pref_title_data">インターネット</string>
   <string name="msim_pref_title_voice">ダイヤル</string>
@@ -812,7 +812,7 @@
   <string name="new_pin_label">新しいPIN</string>
   <string name="no_balance_message">お客様のプリペイドプランの残高が不足しています。代わりに通常の電話でかけることが出来ます。</string>
   <string name="no_balance_title">残高不足</string>
-  <string name="no_call_barring">Call barring is off</string>
+  <string name="no_call_barring">発着信制限はオフです</string>
   <string name="no_change">変更されていません。</string>
   <string name="no_data">データなし</string>
   <string name="no_internet_available">SIP通話を発信する前に、インターネット接続を確認してください。</string>
@@ -961,7 +961,7 @@
   <string name="phone_accounts_selection_header">携帯端末アカウント</string>
   <string name="phone_accounts_settings_header">設定</string>
   <string name="phone_entered_ecm_text">緊急通報待機モードになりました</string>
-  <string name="phone_in_ecm_call_notification_text">Data connection disabled</string>
+  <string name="phone_in_ecm_call_notification_text">データ接続が無効です</string>
   <string name="phone_in_ecm_notification_title">緊急通報待機モード</string>
   <string name="phone_number_hint_text">電話番号</string>
   <string name="pin2_attempts">\n"入力できるのはあと%d回です。"</string>
@@ -1226,7 +1226,7 @@
   <string name="sim_unlock_failed">SIM unlock request unsuccessful.</string>
   <string name="sim_unlock_success">SIM unlock successful.</string>
   <string name="sim_useless">SIM unavailable</string>
-  <string name="sip_account_list">SIP accounts</string>
+  <string name="sip_account_list">SIPアカウント</string>
   <string name="sip_accounts">SIPアカウント</string>
   <string name="sip_accounts_title">アカウント</string>
   <string name="sip_add_account_tip_text">インターネット通話を使用するには、SIPアカウントを追加してください</string>
@@ -1324,12 +1324,12 @@
   <string name="throttle_current_usage">現期間で使用したデータ</string>
   <string name="throttle_data_rate_reduced_subtext">"最大値%1$sを超えました\n転送速度は%2$dKb/秒に低下"</string>
   <string name="throttle_data_usage">データ使用量</string>
-  <string name="throttle_data_usage_subtext">%1$s（%2$d%）/期間最大値%3$s</string>
+  <string name="throttle_data_usage_subtext">"%1$s（%2$d٪）/ 期間最大値%3$s"</string>
   <string name="throttle_help">詳細</string>
   <string name="throttle_help_subtext">"携帯通信会社のモバイルネットワークデータ利用ポリシーの詳細"</string>
   <string name="throttle_rate">転送速度ポリシー</string>
   <string name="throttle_rate_subtext">"データ利用制限を超えると、転送速度が%1$dKb/秒まで低下します"</string>
-  <string name="throttle_status_subtext">"%1$s（%2$d%）/期間最大値%3$s\n次の期間は%4$d日で始まります（%5$s）"</string>
+  <string name="throttle_status_subtext">"%1$s（%2$d٪）/ 期間最大値%3$s\n次の期間は%4$d日で始まります（%5$s）"</string>
   <string name="throttle_time_frame">データ使用期間</string>
   <string name="throttle_time_frame_subtext">"サイクルの%1$dを経過\n次の期間は%2$d日で始まります（%3$s）"</string>
   <string name="time_end">To</string>
@@ -1406,7 +1406,7 @@
   <string name="voicemail_settings_number_title">ボイスメール番号</string>
   <string name="voicemail_settings_with_label">ボイスメール (%s)</string>
   <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
-  <string name="voicemail_visual_voicemail_switch_title">Visual voicemail</string>
+  <string name="voicemail_visual_voicemail_switch_title">ビジュアルボイスメール</string>
   <string name="voip_setting">VoIP設定</string>
   <string name="volte_switch_summary">"VoLTEを使用して通話品質を向上させる"</string>
   <string name="volte_switch_title">"VoLTEを有効にする"</string>
