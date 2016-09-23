@@ -3,6 +3,7 @@
   <string name="accessibility_call_muted">"通話がミュートされています。"</string>
   <string name="accessibility_speakerphone_enabled">"スピーカーが有効です。"</string>
   <string name="add_vm_number_str">"番号を追加"</string>
+  <string name="can_not_dial_vt_while_voice_prompt">"Can't make a video call while a voice call is in progress"</string>
   <string name="can_not_dial_while_vt_prompt">"Can't dial while a video call in process"</string>
   <string name="change_default_dialer_dialog_title">"既定の電話アプリを変更しますか？"</string>
   <string name="change_default_dialer_no_previous_app_set_text">"%sを既定の電話アプリとして使用しますか？"</string>

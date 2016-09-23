@@ -37,9 +37,9 @@ Battery saver will treat important apps selectively."</string>
   <string name="fragment_nonesys_listempty">No installed apps</string>
   <string name="fragment_tab_title_nonsys">Installed apps</string>
   <string name="fragment_tab_title_sys">"システムアプリ"</string>
-  <string name="full_screen_enter">Enter full screen</string>
-  <string name="full_screen_exit">Exit full screen</string>
-  <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to run normally, download and install them?</string>
+  <string name="full_screen_enter">Enter fullscreen</string>
+  <string name="full_screen_exit">Exit fullscreen</string>
+  <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to work normally, download and install them?</string>
   <string name="hide_mode_desc">When an app runs in the background, its activities will be monitored to reduce battery usage.</string>
   <string name="hide_mode_ultimate_desc">Ultimate mode is on. The apps in the background will be frozen. Turn off Battery saver to exit Ultimate mode.</string>
   <string name="high">"パフォーマンス"</string>
@@ -143,12 +143,12 @@ Battery saver will treat important apps selectively."</string>
   <string name="ragment_sys_listempty">"システムアプリなし"</string>
   <string name="reading">"読書モード"</string>
   <string name="screen_off">"画面オフ"</string>
-  <string name="screen_off_10_min">Screen Off Over 10 minutes</string>
+  <string name="screen_off_10_min">Screen is off for over 10 minutes</string>
   <string name="screen_on">"画面オン"</string>
   <string name="select_items">%d selected</string>
   <string name="set_brightness">Max screen brightness</string>
   <string name="set_cpu_powermode">CPU usage</string>
-  <string name="set_cpufreq_max">MAX CPU frequency</string>
+  <string name="set_cpufreq_max">Max CPU frequency</string>
   <string name="set_lcd_mode">Screen mode</string>
   <string name="settings_safetylegal_activity_loading">"読み込み中…"</string>
   <string name="still">Picture</string>

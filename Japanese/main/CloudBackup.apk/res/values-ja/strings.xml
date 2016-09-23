@@ -47,7 +47,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_back_up_frequence_long">Every 7 days</string>
   <string name="cloud_back_up_frequence_short">Every day</string>
   <string name="cloud_back_up_interval_long">7 days</string>
-  <string name="cloud_back_up_interval_short">Every day</string>
+  <string name="cloud_back_up_interval_short">day</string>
   <string name="cloud_back_up_no_network_warn">Wi-Fiに接続できません</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">読み込み中…</string>

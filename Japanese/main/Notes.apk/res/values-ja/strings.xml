@@ -22,17 +22,24 @@
   <string name="call_record_folder_name">Call notes</string>
   <string name="default_folder_name">"新しいフォルダ"</string>
   <string name="delete_folder_dialog_tile">"フォルダを削除"</string>
+  <string name="dlg_btn_set_password">"パスワードを設定"</string>
   <string name="dlg_check_reminder">"次回から表示しない"</string>
   <string name="dlg_delete_message">"削除中…"</string>
   <string name="dlg_desc_confirm_alarm_silent">Active alarms will not sound when ringer is silenced.</string>
+  <string name="dlg_hide_message">Hiding…</string>
   <string name="dlg_info_creating_message">"メッセージを作成中…"</string>
+  <string name="dlg_message_password_reset">"Hidden notes' password will be replaced with Privacy protection password which works for apps, photos, and hidden folders"</string>
+  <string name="dlg_message_set_password">Privacy protection password works for apps, photos, and hidden folders</string>
+  <string name="dlg_message_use_privacy_password">Use Privacy protection password. It works for apps, photos, and hidden folders</string>
   <string name="dlg_move_message">"移動中…"</string>
-  <string name="dlg_privacy_message">Hiding…</string>
   <string name="dlg_quick_delete_title">Quick delete</string>
   <string name="dlg_restore_message">"復元中…"</string>
   <string name="dlg_stick_message">Pinning…</string>
   <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
-  <string name="dlg_unmark_privacy_message">Unhiding…</string>
+  <string name="dlg_title_password_reset">"パスワードを更新"</string>
+  <string name="dlg_title_set_password">"パスワードを設定"</string>
+  <string name="dlg_title_use_privacy_password">Use Privacy protection password</string>
+  <string name="dlg_unhide_message">Unhiding…</string>
   <string name="empty_folder_hint">"フォルダがありません
 フォルダを作成するには＋をタップ"</string>
   <string name="enable_sync">"同期"</string>
@@ -51,6 +58,7 @@
   <string name="format_move_notes_out_folder">Moved %1$s out</string>
   <string name="format_move_notes_to_folder">Moved %1$s to %2$s</string>
   <string name="hidden_notes_fragment_title">Hidden notes</string>
+  <string name="hint_cannot_view_hidden_note_content">"Can't view content in hidden notes"</string>
   <string name="hint_foler_name">"名前"</string>
   <string name="info_note_enter_desktop">"ホーム画面に追加しました"</string>
   <string name="loading_text">"読み込み中…"</string>

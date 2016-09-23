@@ -107,7 +107,7 @@
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
   <string name="email">"メール"</string>
-  <string name="empty" />
+  <string name="empty"/>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
   <string name="error_forbidden">Sync has been turned off due to problems with your Mi Account.</string>
@@ -120,7 +120,7 @@
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">MMMM d</string>
-  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month">MMMM yyyy</string>
   <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
   <string name="fmt_date_numeric_day">d</string>
   <string name="fmt_date_numeric_month">M</string>
@@ -130,7 +130,7 @@
   <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">MMM d</string>
-  <string name="fmt_date_short_year_month">MMM, yyyy</string>
+  <string name="fmt_date_short_year_month">MMM yyyy</string>
   <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
   <string name="fmt_date_time">D T</string>
   <string name="fmt_date_time_timezone">D T z</string>

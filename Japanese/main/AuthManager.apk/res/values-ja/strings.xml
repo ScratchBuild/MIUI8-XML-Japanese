@@ -293,5 +293,4 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="screen_overlay_button">"設定を開く"</string>
   <string name="screen_overlay_message">"この権限設定を変更するには、まず[設定]&gt;[アプリ]から画面オーバーレイをOFFにします"</string>
   <string name="screen_overlay_title">"画面オーバーレイを検出"</string>
-  <string name="static_cache_db_md5">a091ed54ebb50d2485bc3138234b205b</string>
 </resources>

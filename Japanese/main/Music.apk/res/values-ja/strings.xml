@@ -201,7 +201,7 @@
   <string name="download_done_btn">Downloaded</string>
   <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">"十分な空き領域がありません"</string>
-  <string name="download_fail_to_fetch_info">Fail to download. Please try again.</string>
+  <string name="download_fail_to_fetch_info">"Couldn't download, try again"</string>
   <string name="download_filesize_unknown">"不明"</string>
   <string name="download_in_process">"ダウンロード中"</string>
   <string name="download_info_count_deleted_tasks">%s downloads removed</string>
@@ -720,12 +720,12 @@
   <string name="tab_track">Songs</string>
   <string name="tab_track_list">Songs</string>
   <string name="take_effect_afater_restart">You need to restart the app for this setting to take effect.</string>
-  <string name="talkback_back">Quit Current Page</string>
-  <string name="talkback_device">Play via other devices</string>
+  <string name="talkback_back">Go back</string>
+  <string name="talkback_device">Play on other devices</string>
   <string name="talkback_download">Download</string>
   <string name="talkback_favorite">Like this song</string>
-  <string name="talkback_mode">Switch loop mode</string>
-  <string name="talkback_more">More menu</string>
+  <string name="talkback_mode">Loop playlist</string>
+  <string name="talkback_more">More menus</string>
   <string name="talkback_next">Next song</string>
   <string name="talkback_play">Play / Pause</string>
   <string name="talkback_pre">Previous song</string>

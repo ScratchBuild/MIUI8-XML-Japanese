@@ -179,6 +179,8 @@
   <string name="multi_selecting_tips">To pick up an app, touch its icon</string>
   <string name="no_detail_page">No details page</string>
   <string name="normal_wallpaper">"壁紙"</string>
+  <string name="notification_installed">"正常にインストールされました"</string>
+  <string name="notification_open_button">"開く"</string>
   <string name="online_wallpaper">"オンライン"</string>
   <string name="out_of_space">No more room on this Home screen</string>
   <string name="permdesc_install_shortcut">Allows an app to add shortcuts without user intervention.</string>

@@ -148,8 +148,6 @@
   <string name="edit_phrase">定型文を編集</string>
   <string name="edit_slide_activity">スライドを編集</string>
   <string name="edit_slideshow_activity">スライドショーを編集</string>
-  <string name="enable_password_protect">パスワードを要求</string>
-  <string name="enable_visible_pattern_title">パターンを表示</string>
   <string name="english_subject_limit">上限40文字まで</string>
   <string name="enter_edit_mode">メッセージを編集</string>
   <string name="error_code_label">"エラーコード: "</string>
@@ -446,6 +444,14 @@
   <string name="priority_low">低</string>
   <string name="priority_normal">中</string>
   <string name="privacy_mode_hint">"ゲストモードでメッセージの送信はできません"</string>
+  <string name="privacy_password_message1">Privacy protection password works for apps, photos, notes and hidden folders.</string>
+  <string name="privacy_password_message2">Use Privacy protection password. It works for apps, photos, notes and hidden folders.</string>
+  <string name="privacy_password_message3">"Private messaging's password will be replaced with Privacy protection password which works for apps, photos, notes and hidden folders."</string>
+  <string name="privacy_password_set_password">設定</string>
+  <string name="privacy_password_title1">パスワードを設定</string>
+  <string name="privacy_password_title2">Use Privacy protection password</string>
+  <string name="privacy_password_title3">パスワードを更新</string>
+  <string name="privacy_password_title4">パスワードを更新しました</string>
   <string name="private_message">プライベートメッセージ</string>
   <string name="private_new_notification">メッセージ通知</string>
   <string name="private_protect">パスワード</string>

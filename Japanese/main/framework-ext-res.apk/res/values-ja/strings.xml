@@ -80,6 +80,7 @@
   <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
   <string name="screen_button_notification_title">Navigation buttons are turned off</string>
   <string name="screen_on_proximity_sensor_hint">"この機能をオフにするには、戻るボタンと音量[＋]ボタンを同時に押します。"</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">To turn this feature off, press the Volume up button.</string>
   <string name="screen_on_proximity_sensor_summary">"画面のオレンジ色の領域を覆わないでください"</string>
   <string name="screen_on_proximity_sensor_title">"ポケットダイヤルを防止する"</string>
   <string name="screen_paper_mode_enter_toast">Reading mode is on. To turn this feature off, go to Settings &gt; Display &gt; Reading mode.</string>
@@ -119,6 +120,7 @@
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">"キャスト"</string>
   <string name="status_bar_toggle_data">"モバイルデータ"</string>
+  <string name="status_bar_toggle_edit">"編集"</string>
   <string name="status_bar_toggle_flight_mode">"機内モード"</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">"ロック"</string>

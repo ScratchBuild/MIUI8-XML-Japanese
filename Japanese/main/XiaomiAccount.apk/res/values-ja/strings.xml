@@ -52,7 +52,7 @@
   <string name="account_vip_level">"アカウント"</string>
   <string name="account_xiaomi_service">"サービス"</string>
   <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
-  <string name="activity_not_found_notice">"Can't find the app"</string>
+  <string name="activity_not_found_notice">"アプリケーションを見つけることができません"</string>
   <string name="add_account">Connect account</string>
   <string name="alert_title_remove_account">"アカウントを削除しますか？"</string>
   <string name="app_name">Mi Account</string>
@@ -93,6 +93,8 @@
   <string name="data_wipe_from_device">Delete from this device</string>
   <string name="delete_action">Delete</string>
   <string name="delete_app">Delete app</string>
+  <string name="delete_bank_card_message">To protected your property,will delete your bank card After signing out</string>
+  <string name="delete_bank_card_title">Delete your bank card</string>
   <string name="delete_browser">Delete browser</string>
   <string name="delete_device">Delete device</string>
   <string name="delete_device_btn">Remove</string>

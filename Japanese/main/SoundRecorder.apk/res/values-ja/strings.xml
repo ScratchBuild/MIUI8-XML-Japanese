@@ -39,7 +39,9 @@
   <string name="error_sdcard_unmounted">"今すぐSDカードを挿入してください"</string>
   <string name="export_to_note">Export to Notes</string>
   <string name="invalid_argument">"無効な引数"</string>
-  <string name="low_battery_error">Less than 5% battery remaining. To ensure that your recording is not lost, recording has been paused and saved.</string>
+  <string name="low_battery_error">"Less than 5% battery remaining. Stop and save your recoding to make sure it isn't lost."</string>
+  <string name="low_battery_error_confirm">OK</string>
+  <string name="low_battery_error_title">Low battery</string>
   <string name="mark_point_list_title">Marks</string>
   <string name="message_file_size_error">Recording has reached the maximum length supported by %s</string>
   <string name="new_record_name">New recording</string>

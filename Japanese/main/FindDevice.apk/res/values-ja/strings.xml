@@ -30,6 +30,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="find_device_stop_noise">Tap OK to silence</string>
   <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
   <string name="find_device_success_title">Find device</string>
+  <string name="find_device_telephony_fault">Find Device: Telephony fault (%s).</string>
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Contact information: %s</string>
   <string name="login_extra_steps">Sign in verification</string>

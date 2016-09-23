@@ -9,15 +9,15 @@
   <string name="Settings_title_power_center">Battery settings</string>
   <string name="ac_enable_title">Turn on App lock</string>
   <string name="ac_enter_applock">Enter App lock</string>
-  <string name="ac_firstUseApplock_subTitle">Use App lock to protect your privacy</string>
-  <string name="ac_firstUseApplock_title">Require password to open selected apps</string>
+  <string name="ac_firstUseApplock_subTitle">Use better system-level security tools</string>
+  <string name="ac_firstUseApplock_title">Set a password to protect your apps</string>
   <string name="ac_summaryOff">Turned off, no password is required to open apps</string>
   <string name="ac_summaryOn">Turned on, password is required to open apps</string>
   <string name="access_control_need_password">"%s added successfully
 "</string>
   <string name="access_control_need_to_unlock">"Scan fingerprint
-or enter App lock password"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Enter App lock password</string>
+or enter Privacy protection password"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Enter Privacy protection password</string>
   <string name="access_control_recording_intro_header">Draw pattern to add App lock</string>
   <string name="access_control_reset_by_account">Sign in to your Mi Account to reset App lock password</string>
   <string name="action_button_text_100">Optimize</string>
@@ -159,9 +159,15 @@ or enter App lock password"</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_good">Working normally</string>
   <string name="battery_status_overheat">Overheated</string>
-  <string name="battery_status_unknown">Unknown error</string>
+  <string name="battery_status_unknown">"不明なエラー"</string>
   <string name="battery_temperature_title">Temperature</string>
   <string name="begin_date">Usage reset date</string>
+  <string name="bind_xiaomi_account_cancel">"キャンセル"</string>
+  <string name="bind_xiaomi_account_confirm">"追加"</string>
+  <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it. Account will be removed automatically if you sign out."</string>
+  <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
+  <string name="bind_xiaomi_account_summary">Use Mi Account to reset your password</string>
+  <string name="bind_xiaomi_account_title">Add Mi Account</string>
   <string name="boot_reminder">Power on your device at a scheduled time</string>
   <string name="boot_time">On at %1$s</string>
   <string name="boot_time_day">On in %1$dd at %2$s</string>
@@ -265,6 +271,7 @@ or enter App lock password"</string>
   <string name="cmcc_app_check_dialog_negative">Later</string>
   <string name="cmcc_app_check_dialog_positive">Restart now</string>
   <string name="cmcc_app_check_dialog_title">System repaired</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Adding Mi Account</string>
   <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
   <string name="confirm_reject_all_permission">Restrict all apps from using this feature?</string>
   <string name="connect_internet_by_mobiledata">Mobile data connection</string>
@@ -705,6 +712,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_item">Protect selected apps with App lock</string>
   <string name="notification_subtitle">Tap to turn on</string>
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
+  <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
+  <string name="notification_sysapp_cracked_title">Security risk is detected</string>
   <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
@@ -765,6 +774,11 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="package_setted_error_notification_titile">"Couldn't set data plan"</string>
   <string name="packages_subtitle">Included packages</string>
   <string name="passwordIncorrect">Username or password is incorrect</string>
+  <string name="password_promotion_button_text">Got it</string>
+  <string name="password_promotion_message">App lock is being upgraded to Privacy protection password. You can use your current Mi Account to reset it.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">App lock is being upgraded to Privacy protection password. You can use your current Mi Account to reset it. Add your Mi Account to be able to do that.</string>
+  <string name="password_promotion_postbutton_text">Go to Settings</string>
+  <string name="password_promotion_title">Privacy protection password</string>
   <string name="path_antispam">System apps/Security/Blocklist</string>
   <string name="path_antivirus">System apps/Security/Virus scan</string>
   <string name="path_cleanmaster">System apps/Security/Cleaner</string>
@@ -1116,6 +1130,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="security_scan_optimizing">Optimizing…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Select pattern</string>
+  <string name="set_applock_password">Set password</string>
+  <string name="setting_privacy_password">Set Privacy protection password</string>
   <string name="settings">Data usage settings</string>
   <string name="settings_battery_consume_abnormal_summary">Receive notifications when battery is being drained fast</string>
   <string name="settings_battery_consume_abnormal_title">Battery drain notifications</string>
@@ -1204,6 +1220,15 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
+  <string name="sys_app_prot_cracked_confirm">Got it</string>
+  <string name="sys_app_prot_cracked_login">Sign in with Mi Account</string>
+  <string name="sys_app_prot_cracked_text_login">"The current version of MIUI has been modified which puts your device's security at risk.
+
+Make sure you know where this device comes from, and contact authorized Xiaomi service center in your area to get help."</string>
+  <string name="sys_app_prot_cracked_text_unlogin">"The current version of MIUI has been modified which puts your device's security at risk. Sign in with your Mi Account to turn this warning off.
+
+If you haven't modified MIUI in any way, make sure you know where this device comes from and contact authorized Xiaomi service center in your area."</string>
+  <string name="sys_app_prot_cracked_title">Security risk</string>
   <string name="system_app">"システムアプリ"</string>
   <string name="system_application">"システムアプリ"</string>
   <string name="system_check_content_none">Safe</string>
@@ -1254,6 +1279,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="tc_sms_report_get_sms">Get SMS</string>
   <string name="tc_sms_report_get_sms2">Get SMS</string>
   <string name="tc_sms_report_get_sms_again">Refresh SMS</string>
+  <string name="tc_sms_report_get_sms_bill">Get SMS</string>
+  <string name="tc_sms_report_get_sms_calltime">Get SMS</string>
   <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
   <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
   <string name="tc_sms_report_get_sms_timeout">Request timed out</string>
@@ -1275,6 +1302,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
   <string name="tc_sms_report_tips_dialog_title">Data usage SMS</string>
   <string name="tc_sms_report_title">Report data usage bug</string>
+  <string name="tc_sms_report_title_bill">Report data usage bug</string>
+  <string name="tc_sms_report_title_calltime">Report data usage bug</string>
   <string name="tc_sms_report_toast_text">Getting info…</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>

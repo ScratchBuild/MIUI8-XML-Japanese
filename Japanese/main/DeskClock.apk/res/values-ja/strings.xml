@@ -105,6 +105,7 @@
   <string name="stat_repeat_weekends">"週末"</string>
   <string name="stopwatch_lap_empty_text">No laps</string>
   <string name="stopwatch_title">"ストップウォッチ"</string>
+  <string name="symbol_colon">:</string>
   <string name="system_time_setting">"設定"</string>
   <string name="time">"時刻"</string>
   <string name="timer_alarm_alert_pad">%s</string>

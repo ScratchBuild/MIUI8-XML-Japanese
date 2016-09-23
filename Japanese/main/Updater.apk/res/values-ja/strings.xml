@@ -21,6 +21,7 @@
   <string name="autosetmode">"設定"</string>
   <string name="best_update">Best update so far</string>
   <string name="boot_recovery">Reboot to Recovery mode?</string>
+  <string name="button_delay_update_reboot">Reboot &amp; update</string>
   <string name="button_text_check">Check for updates</string>
   <string name="button_text_later_reboot">"後で"</string>
   <string name="button_text_reboot">Reboot now</string>
@@ -34,7 +35,7 @@
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">"Couldn't verify update package."</string>
   <string name="check_local_package_wipe_btn">Erase and update</string>
-  <string name="check_local_package_wipe_msg">"You're going to revert to MIUI version %s, which is older than the current version. Your personal data will be erased. Make sure to back up anything you want to keep before you start the process."</string>
+  <string name="check_local_package_wipe_msg">"You're going to revert to MIUI version %s. Your personal data will be erased. Make sure to back up anything you want to keep before you start the process."</string>
   <string name="check_local_package_wipe_title">Erase data</string>
   <string name="check_new_version">Check</string>
   <string name="check_update_policy">"設定"</string>
@@ -54,6 +55,11 @@
   <string name="continue_update_negative_btn">"続行"</string>
   <string name="continue_update_positive_btn">"停止"</string>
   <string name="daily_build">Nightly</string>
+  <string name="delay_update_text">Update later</string>
+  <string name="dialog_delay_update_cancel">"キャンセル"</string>
+  <string name="dialog_delay_update_msg">"Your device will reboot to apply updates when it's on and the battery is at least 30% charged"</string>
+  <string name="dialog_delay_update_title">Update is available</string>
+  <string name="dialog_delay_update_tonight">Update tonight</string>
   <string name="dialog_reboot_message">"MIUI is about to update. This process may take 5-20 minutes. Keep your device powered on, and don't reboot it while it's updating."</string>
   <string name="dialog_reboot_title">System update</string>
   <string name="dialog_reboot_yes">Update</string>
@@ -117,6 +123,12 @@
   <string name="no_wifi_title">Data usage warning</string>
   <string name="not_open">No</string>
   <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>
+  <string name="notification_delay_update_button">Update in 2 hours</string>
+  <string name="notification_delay_update_cancel">"Don't update tonight"</string>
+  <string name="notification_delay_update_low_power">Looks like the battery was low at night</string>
+  <string name="notification_delay_update_msg">The device will reboot &amp; update in​ %ss</string>
+  <string name="notification_delay_update_no_update">"Updates haven't been applied"</string>
+  <string name="notification_delay_update_shutdown">Looks like the device was off at night</string>
   <string name="notification_downloading">Downloading update…</string>
   <string name="notification_fail_msg">Try downloading full ROM</string>
   <string name="notification_load_body_alpha">Get the latest updates for your device.</string>
@@ -204,6 +216,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="test">Test</string>
   <string name="timer_title">Device will reboot in %d seconds.</string>
   <string name="title_toast_auto">Updates will download automatically</string>
+  <string name="toast_delay_update_tonight">Your device will update between 2:00AM and 5:00AM</string>
   <string name="top_secret_build">Top-secret</string>
   <string name="uncrypt_title">Decrypting (%s)</string>
   <string name="unkown_error_title">"Can't download"</string>

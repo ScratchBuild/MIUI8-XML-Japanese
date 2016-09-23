@@ -33,6 +33,7 @@
   <string name="camera_snap_mode_title_detail">Tap to view details</string>
   <string name="cannot_connect_camera_once">"カメラに接続できません"</string>
   <string name="cannot_connect_camera_twice">"カメラに接続できません。お使いの端末を再起動してください。"</string>
+  <string name="cannot_connect_camera_volte_call">Video call is ongoing, please try later.</string>
   <string name="cannot_move_warning_message">Taking photo, keep the device still</string>
   <string name="confirm_location_alert">Remember photo locations</string>
   <string name="confirm_location_message">Tag your photos and videos with the locations where they are taken. Other apps can access this information along with your saved images.</string>

@@ -223,6 +223,7 @@
   <string name="app_link_open_never">このアプリで開かない</string>
   <string name="app_list_memory_use">アプリの使用状況</string>
   <string name="app_list_preference_none">なし</string>
+  <string name="app_lock_role_instruction">Protect your private apps</string>
   <string name="app_memory_use">メモリ使用</string>
   <string name="app_name_label">アプリ</string>
   <string name="app_not_found_dlg_text">インストール済みアプリのリストに、このアプリはありません。</string>
@@ -444,6 +445,11 @@
   <string name="battery_sugg_wifi">未使用時または圏外のときWi-FiをOFFにします</string>
   <string name="battery_summary">前回のフル充電から%1$d%%使用しています</string>
   <string name="bearer">ベアラー</string>
+  <string name="bind_xiaomi_account_cancel">キャンセル</string>
+  <string name="bind_xiaomi_account_confirm">追加</string>
+  <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it."</string>
+  <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
+  <string name="binded_xiaomi_summary">Current account: %s</string>
   <string name="ble_scan_notify_text">位置情報の精度を向上させるため、BluetoothがOFFの場合でもシステムのアプリやサービスはBluetoothデバイスを検出できます。この設定は、LINK_BEGINスキャンの設定LINK_ENDで変更できます。</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
@@ -751,6 +757,7 @@
   <string name="checking_decryption">確認しています…</string>
   <string name="checking_find_device_status">Find deviceのステータスを確認します</string>
   <string name="checking_for_updates">アップデートをチェック中…</string>
+  <string name="childmod_privacy_password_role_instruction">子供がデバイスを使用する場合、不要な操作を防止する為にはキッズモードをオンにします</string>
   <string name="children_mode_enable_title">キッズモード</string>
   <string name="children_mode_set_apps_title">アクセス可能なアプリ</string>
   <string name="children_mode_tips_off">キッズモードをオンにした後、ホームボタンをタップするとキッズモードになります。</string>
@@ -802,6 +809,7 @@
   <string name="configure_apps">アプリの設定</string>
   <string name="configure_input_method">入力方法のセットアップ</string>
   <string name="confirm_action">OK</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">追加</string>
   <string name="confirm_download_cancelation_dialog_message">ダウンロードをキャンセルしますか？</string>
   <string name="confirm_enable_multi_window_text">警告: これは、[最近使ったアプリ]を通して画面上で同時に複数のアクティビティを許可する非常に試験運用的な機能です。一部のアプリはこの機能で使用するとクラッシュしたり正常に動作しなくなったりする可能性があります。</string>
   <string name="confirm_enable_multi_window_title">マルチウィンドウモードを有効にしますか？</string>
@@ -811,6 +819,9 @@
   <string name="confirm_fingerprint_icon_content_description">続行するには指紋認証を使用してください。</string>
   <string name="confirm_fingerprint_msg">指をセンサーに当ててください</string>
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
+  <string name="confirm_privacy_password">Enter Privacy protection password</string>
+  <string name="confirm_privacy_password_fingerprint">Scan fingerprint or enter Privacy protection password</string>
+  <string name="confirm_privacy_password_instruction">This password protects apps, messages, photos, and contacts.</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">ネットワークに接続</string>
   <string name="connected_via_passpoint">%1$s経由で接続しました</string>
@@ -1321,6 +1332,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="failed_to_shut_down_find_device_content">"Find deviceをオフにできませんでした。1〜2分待ってから再試行してください。"</string>
   <string name="failed_to_shut_down_find_device_title">"オフにできませんでした"</string>
   <string name="fcc_equipment_id">装置ID</string>
+  <string name="file_privacy_password_role_instruction">Your private files will be stored here.</string>
   <string name="filter">フィルタ</string>
   <string name="filter_all_apps">すべてのアプリ</string>
   <string name="filter_apps_all">すべて</string>
@@ -1357,6 +1369,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_lock_first">First spaceのロックを解除</string>
   <string name="fingerprint_lock_second">Second spaceのロックを解除</string>
   <string name="fingerprint_manage_category_title">指紋の管理</string>
+  <string name="fingerprint_not_identified_msg">"Couldn't read fingerprint. Enter your password"</string>
   <string name="fingerprint_not_recognized">認識されませんでした</string>
   <string name="fingerprint_removal_failed">指紋認証を削除できませんでした、再度試してください</string>
   <string name="fingerprint_usage_category_title">指紋の用途</string>
@@ -1395,6 +1408,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="force_touch_enable_tips">3D Touchが有効になっている間、ランチャー上でアプリアイコンを強く押すとショートカットメニューが表示されます。</string>
   <string name="forget">切断</string>
   <string name="forget_password_button_text"><u>パスワードを忘れた場合</u></string>
+  <string name="forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
+  <string name="forget_privacy_password_setting">Add Mi Account</string>
+  <string name="forget_privacy_password_summary">Use Mi Account to reset your password</string>
   <string name="forget_wifi_message">お使いの携帯電話は自動的でこのネットワークに接続しなくなります。</string>
   <string name="found_new_version">利用可能なアップデート</string>
   <string name="fp_nav_center_back_to_home_title">ホーム画面に戻るにはホームボタンをタップ</string>
@@ -1445,6 +1461,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gadget_toggle_bluetooth">Bluetooth設定の更新</string>
   <string name="gadget_toggle_wifi">Wi-Fi設定の更新</string>
   <string name="gadget_wifi">Wi-Fi</string>
+  <string name="gallery_privacy_password_role_instruction">Your private photos will be stored here.</string>
   <string name="game_controller_settings_category">ゲーム用コントローラ</string>
   <string name="gesture_wakeup_title">画面をダブルタップすると端末が復帰します</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
@@ -1523,7 +1540,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">ステルスSSID:</string>
   <string name="hide">Hide</string>
-  <string name="hide_screen_button">Hide screen button</string>
+  <string name="hide_screen_button">Hide screen buttons</string>
   <string name="high_performance_notif_summary">端末は高い負荷を掛けると熱くなる場合があります</string>
   <string name="high_performance_notif_title">パフォーマンスモードがオン</string>
   <string name="high_performance_title">ベンチマークテストを実行しているように見えます。最良の結果を得るためには電源管理を\"パフォーマンス\"に設定してください。</string>
@@ -1574,6 +1591,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="input_methods_and_subtype_enabler_title">有効な入力方法の選択</string>
   <string name="input_methods_settings_label_format">%1$sの設定</string>
   <string name="input_methods_settings_title">文字入力</string>
+  <string name="input_password_hint_text">パスワードを入力</string>
   <string name="input_settings">入力設定</string>
   <string name="install_all_warning">提供元不明のアプリから携帯端末や個人データが攻撃を受ける可能性が高くなります。このようなアプリの使用により生じる可能性がある携帯端末への損害やデータの損失について、ユーザーご自身が単独で責任を負うことに同意するものとします。</string>
   <string name="install_applications">提供元不明のアプリ</string>
@@ -1585,6 +1603,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="install_unknown_applications">提供元不明のアプリのインストールを許可する</string>
   <string name="install_unknown_applications_title">アプリの提供元がGoogle Play以外でもインストールする</string>
   <string name="install_whole_rom">ROMをダウンロード</string>
+  <string name="instruction_privacy_password">This password protects the following items</string>
   <string name="instruction_title">説明書</string>
   <string name="insufficient_storage">十分な空き容量がありません。</string>
   <string name="intent_sender_account_label">アカウント:</string>
@@ -1881,6 +1900,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpattern_settings_power_button_instantly_locks_summary">%1$sがロック解除を管理している場合を除く</string>
   <string name="lockpattern_settings_title">ロック解除パターン</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">誤った回数が多すぎます。%d秒後にもう一度お試しください。</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d秒後にもう一度お試しください。</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">誤った回数が多すぎます！</string>
   <string name="lockpattern_tutorial_cancel_label">キャンセル</string>
   <string name="lockpattern_tutorial_continue_label">次へ</string>
   <string name="lockscreen_glogin_checking_password">確認中…</string>
@@ -2035,6 +2056,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_experience_optimization">MIUIの最適化をオンにします</string>
   <string name="mms_breathing_light_color_title">メッセージLEDの色</string>
   <string name="mms_breathing_light_freq_title">メッセージLEDを点滅させる</string>
+  <string name="mms_privacy_password_role_instruction">プライベートな連絡先とあなたとの会話はここに保存されます。</string>
   <string name="mobile_connect_to_internet">インターネットに接続してください</string>
   <string name="mobile_data_always_on">モバイルデータを常にON</string>
   <string name="mobile_data_always_on_summary">Wi‑Fiが（ネットワークの自動切り替えで）ONのときでもモバイルデータが常にONになります。</string>
@@ -2045,6 +2067,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="mock_location_app_not_set">仮の現在地情報アプリが設定されていません</string>
   <string name="mock_location_app_set">仮の現在地情報アプリ: %1$s</string>
   <string name="model_number">モデル番号</string>
+  <string name="modify_instruction_password_settings">パスワードを設定</string>
+  <string name="modify_privacy_password">パスワードを変更</string>
   <string name="move_app">移動</string>
   <string name="move_app_failed_dlg_text">アプリを移動できませんでした。%1$s</string>
   <string name="move_app_failed_dlg_title"/>
@@ -2172,7 +2196,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="nfc_quick_toggle_summary">端末が他のデバイスと接触したときのデータ交換を許可する</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">セキュアエレメントの位置</string>
-  <string name="nfc_se_wallet_title">Default Wallet</string>
+  <string name="nfc_se_wallet_title">Default wallet</string>
   <string name="night_mode_auto">自動</string>
   <string name="night_mode_no">ライト</string>
   <string name="night_mode_summary">%s</string>
@@ -2201,6 +2225,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">周辺ノイズの低減</string>
   <string name="not_installed">未インストール</string>
+  <string name="notes_privacy_password_role_instruction">Your private notes will be stored here.</string>
   <string name="notification_app_settings_button">通知設定</string>
   <string name="notification_breathing_light_color_title">通知LEDの色</string>
   <string name="notification_breathing_light_freq_title">通知LEDを点滅させる</string>
@@ -2631,10 +2656,29 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="priority_storage_settings_summary">SDカードが検出されない場合、自動的に端末の内部ストレージに保存されます。</string>
   <string name="priority_storage_summary">データを保存する場所を選択</string>
   <string name="priority_storage_title">ストレージ設定</string>
+  <string name="privacy_applock">App lock</string>
+  <string name="privacy_childmode">Child mode</string>
+  <string name="privacy_file">Files</string>
+  <string name="privacy_gallery">Photos</string>
+  <string name="privacy_mms">Messages</string>
   <string name="privacy_mode_dialog_message">メッセージ、ノート、写真、設定、および着信を非表示にしますか？</string>
   <string name="privacy_mode_dialog_title">ゲストモード</string>
   <string name="privacy_mode_enable_sum">メッセージ、ノート、写真、設定、および着信を非表示にします</string>
   <string name="privacy_mode_enable_title">ゲストモード</string>
+  <string name="privacy_notes">Notes</string>
+  <string name="privacy_password">Privacy protection password</string>
+  <string name="privacy_password_confirm_SecondSpace_Password">Confirm Second space password</string>
+  <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
+  <string name="privacy_password_fingerprint_confirm_failed">"Couldn't verify fingerprint"</string>
+  <string name="privacy_password_fingerprint_confirm_succes">Fingerprint verified</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint,try again"</string>
+  <string name="privacy_password_fingerprint_dialog_message">Put your finger on sensor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
+  <string name="privacy_password_settings">Use Privacy protection password</string>
+  <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
+  <string name="privacy_password_title">Privacy protection password</string>
+  <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_visible_pattern">Show pattern</string>
   <string name="privacy_protect_title">プライバシーの保護</string>
   <string name="privacy_relative">プライバシー</string>
   <string name="privacy_settings">バックアップとリセット</string>
@@ -2869,8 +2913,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="saved_wifi_delete">Delete</string>
   <string name="scan_list_label">スキャン結果:</string>
   <string name="screen">画面</string>
-  <string name="screen_button">Screen button</string>
-  <string name="screen_button_tips">Hidden key decline</string>
+  <string name="screen_button">Screen buttons</string>
+  <string name="screen_button_tips">Swipe down to hide screen buttons</string>
   <string name="screen_color_and_optimize">色とコントラスト</string>
   <string name="screen_color_and_optimize_disabled">読書モードで色温度の調整はできません</string>
   <string name="screen_color_temperature">色</string>
@@ -3253,6 +3297,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="set_password_action">パスワードの設定</string>
   <string name="set_password_message">端末のロック解除するのと同様に、チャイルドモードをオフにするためのパスワードを設定します。</string>
   <string name="set_password_title">パスワードを設定</string>
+  <string name="setting_privacy_password">Set Privacy protection password</string>
   <string name="settings_backup">設定をバックアップ</string>
   <string name="settings_backup_summary">設定をバックアップ</string>
   <string name="settings_button">設定</string>
@@ -3429,7 +3474,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_app_enable_keyguard">ロック画面</string>
   <string name="status_bar_app_enable_message">バッジ</string>
   <string name="status_bar_key_position_custom">カスタマイズしたボタンの配置</string>
-  <string name="status_bar_screen_button_desc">画面ボタンをスライドジェスチャーで非表示にする</string>
+  <string name="status_bar_screen_button_desc">画面ボタンを下にスワイプで非表示にする</string>
   <string name="status_bar_screen_button_key">画面ボタン</string>
   <string name="status_bar_screen_button_key_can_hide">画面ボタンは非表示にできます</string>
   <string name="status_bar_screen_key_back">戻るボタン</string>
@@ -3931,6 +3976,7 @@ PINが正しくない可能性があります。"</string>
   <string name="use_location_summary">検索結果やサービスの品質向上にGoogleが現在地情報を使用することを許可する</string>
   <string name="use_location_title">位置情報とGoogle検索</string>
   <string name="use_personalized_ad_service">個人用に最適化された広告</string>
+  <string name="use_privacy_password_immediate">使用する</string>
   <string name="use_system_language_to_select_input_method_subtypes">システムの言語を使用</string>
   <string name="use_this_wlan">接続を維持する</string>
   <string name="user_account_title">コンテンツのアカウント</string>
@@ -4586,6 +4632,7 @@ PINが正しくない可能性があります。"</string>
   <string name="xiaomi_router_notif_title">Mi WiFiルーター通知</string>
   <string name="xspace">デュアルアプリ</string>
   <string name="yes">はい</string>
+  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">"夜間モードへのアクセスをリクエストしたインストール済みアプリはありません"</string>
   <string name="zen_access_warning_dialog_summary">"アプリは夜間モードのON/OFFを切り替えたり、関連する設定を変更したりできるようになります。"</string>
   <string name="zen_access_warning_dialog_title">"%1$sの夜間モードへのアクセスを許可しますか？"</string>
