@@ -7,8 +7,8 @@
   <string name="activity_title_poweroptimize">Battery saver</string>
   <string name="add_applications">"アプリを選択"</string>
   <string name="add_apps_title">"アプリ"</string>
-  <string name="add_user_define_group_failed">"Couldn't add profile"</string>
-  <string name="add_user_define_title">Add profile</string>
+  <string name="add_user_define_group_failed">"プロファイルを追加できませんでした"</string>
+  <string name="add_user_define_title">"プロファイルを追加"</string>
   <string name="alter_message_abandon_title">"変更を破棄しますか？"</string>
   <string name="alter_message_delete">"削除しますか？"</string>
   <string name="alter_message_switch_mode">Switch modes?</string>
@@ -58,7 +58,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="mode_delete">"削除"</string>
   <string name="mode_export">"エクスポート"</string>
   <string name="mode_import">"インポート"</string>
-  <string name="mode_settings">Settings</string>
+  <string name="mode_settings">"設定"</string>
   <string name="movie">Movie</string>
   <string name="new_group_name">Customer mode</string>
   <string name="no_applications">Empty</string>

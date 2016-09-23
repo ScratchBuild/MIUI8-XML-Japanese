@@ -154,7 +154,7 @@
   <string name="theme_title_yellow">Yellow</string>
   <string name="toast_message_add_image_fail">"画像を追加できません"</string>
   <string name="toast_message_add_text_warn">"この種類のファイルはサポートされていません"</string>
-  <string name="toast_notes_delete_success">Deleted successfully</string>
+  <string name="toast_notes_delete_success">"正常に削除されました"</string>
   <string name="toast_notes_hidden">Hidden successfully</string>
   <string name="toast_notes_hidden_count">Hid %1$s successfully</string>
   <string name="toast_notes_unhidden">Unhidden successfully</string>

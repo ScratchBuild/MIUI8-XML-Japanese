@@ -24,9 +24,9 @@
   <string name="application_name">"システムランチャー"</string>
   <string name="apply">Set</string>
   <string name="apply_action">Set</string>
-  <string name="apply_as_lock_screen">Set as lock screen</string>
-  <string name="apply_as_wallpaper">Set as Home screen</string>
-  <string name="apply_both">Set both</string>
+  <string name="apply_as_lock_screen">"ロック画面として設定"</string>
+  <string name="apply_as_wallpaper">"ホーム画面として設定"</string>
+  <string name="apply_both">"両方に設定"</string>
   <string name="aqi_quality_index_dangerous">"危険"</string>
   <string name="aqi_quality_index_good">"良好"</string>
   <string name="aqi_quality_index_hazardous">"有害"</string>
@@ -45,7 +45,7 @@
   <string name="children_folder_title">Kids</string>
   <string name="children_mode_exit">Exit</string>
   <string name="children_mode_tips_message">There is no application in child mode. Please select application.</string>
-  <string name="children_mode_tips_title">Please select application</string>
+  <string name="children_mode_tips_title">"アプリを選択してください"</string>
   <string name="choose_wallpaper">"壁紙を選択"</string>
   <string name="chooser_wallpaper">"新しい壁紙を選択"</string>
   <string name="cloud_app_restore_title">Pending</string>
@@ -168,7 +168,7 @@
   <string name="menu_item_add_item">Place on Home screen</string>
   <string name="menu_launcher_setting">Launcher settings</string>
   <string name="menu_picktheme">"テーマを選択"</string>
-  <string name="menu_reset_scene">Reset to default layout</string>
+  <string name="menu_reset_scene">"デフォルトのレイアウトにリセット"</string>
   <string name="menu_search">"検索"</string>
   <string name="menu_settings">"設定"</string>
   <string name="menu_sort">"アプリを並べ替え"</string>

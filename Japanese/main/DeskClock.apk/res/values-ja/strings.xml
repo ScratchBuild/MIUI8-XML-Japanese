@@ -8,7 +8,7 @@
   <string name="alarm_disabled">Off</string>
   <string name="alarm_in_silent_mode_title">Alarm in silent mode</string>
   <string name="alarm_klaxon_service_desc">"時計で設定したアラーム用のサウンド再生サービスです。"</string>
-  <string name="alarm_label_hint">Alarm label</string>
+  <string name="alarm_label_hint">"アラームのラベル"</string>
   <string name="alarm_list_title">"アラーム"</string>
   <string name="alarm_notify_snooze_label">"%s（スヌーズ）"</string>
   <string name="alarm_notify_text">"アラームをスヌーズ/解除します。"</string>
@@ -17,15 +17,15 @@
   <string name="alarm_vibrate">"バイブレーション"</string>
   <string name="alarm_volume_summary">"アラーム音量をセット"</string>
   <string name="alarm_volume_title">"アラーム音量"</string>
-  <string name="alarmclock_empty_text">No alarms</string>
+  <string name="alarmclock_empty_text">"アラームなし"</string>
   <string name="alert">"アラーム音"</string>
   <string name="analog_gadget">"アナログ時計"</string>
   <string name="app_label">"時計"</string>
   <string name="auto_silence_never">"なし"</string>
   <string name="auto_silence_title">"消音までの時間"</string>
   <string name="battery_charging_level">%d%%</string>
-  <string name="birthday_alarm">Birthday alarm</string>
-  <string name="birthday_alarm_summary">Play \"Happy Birthday\" instead of default alarm sound on your birthday</string>
+  <string name="birthday_alarm">"誕生日アラーム"</string>
+  <string name="birthday_alarm_summary">"あなたの誕生日に規定のアラーム音ではなく\"Happy Birthday\"を再生します"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="close_alarm">"アラームを閉じる"</string>
   <string name="common_settings">"設定"</string>
@@ -131,7 +131,7 @@
   <string name="turn_off_this_repeat_alarm">Turn off this repeating alarm</string>
   <string name="vibrate_pref_summary">Vibrate when alarm sounds</string>
   <string name="vibrate_when_ringing">Vibrate when ringing</string>
-  <string name="volume_button_setting_summary">"Set volume buttons' function during alarm"</string>
+  <string name="volume_button_setting_summary">"アラーム動作時の音量ボタンの機能を設定します"</string>
   <string name="volume_button_setting_title">"音量ボタン"</string>
   <string name="workday_alarm_clock">Workday alarm</string>
   <string name="worldclock_empty_text">"時計なし"</string>

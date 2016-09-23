@@ -30,7 +30,7 @@
   <string name="camera_setting">"カメラ"</string>
   <string name="camera_settings_label">"カメラ"</string>
   <string name="camera_snap_mode_title">Quick snap mode</string>
-  <string name="camera_snap_mode_title_detail">Tap to view details</string>
+  <string name="camera_snap_mode_title_detail">"詳細を表示するにはタップ"</string>
   <string name="cannot_connect_camera_once">"カメラに接続できません"</string>
   <string name="cannot_connect_camera_twice">"カメラに接続できません。お使いの端末を再起動してください。"</string>
   <string name="cannot_connect_camera_volte_call">Video call is ongoing, please try later.</string>
@@ -89,8 +89,8 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Keep going…</string>
   <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
-  <string name="path_settings">System apps/Camera/Settings</string>
-  <string name="pref_advance_settings">Additional settings</string>
+  <string name="path_settings">"システムアプリ/カメラ/設定"</string>
+  <string name="pref_advance_settings">"その他の設定"</string>
   <string name="pref_audio_focus_default">normal</string>
   <string name="pref_audio_focus_entry_front">Front</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -343,7 +343,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_setting_switch_entryvalue_off">off</string>
   <string name="pref_camera_setting_switch_entryvalue_on">on</string>
   <string name="pref_camera_settings">"端末"</string>
-  <string name="pref_camera_settings_category">Camera settings</string>
+  <string name="pref_camera_settings_category">"カメラ設定"</string>
   <string name="pref_camera_settings_title">"設定"</string>
   <string name="pref_camera_shader_coloreffect_default">0</string>
   <string name="pref_camera_sharpness_default">12</string>
@@ -493,7 +493,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="preparing_sd">"内部ストレージを確認中…"</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
-  <string name="see_qrcode_detals">View QR details</string>
+  <string name="see_qrcode_detals">"QRコードの詳細を表示"</string>
   <string name="simple_mode_button_asd_flash">Turn off Flash capture</string>
   <string name="simple_mode_button_asd_hdr">Turn off HDR capture</string>
   <string name="simple_mode_button_text_audio_capture">Turn off voice trigger</string>

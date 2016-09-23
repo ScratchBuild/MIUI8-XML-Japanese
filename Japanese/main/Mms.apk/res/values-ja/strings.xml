@@ -315,7 +315,7 @@
   <string name="mx_btn_enable_now">アクティベート</string>
   <string name="mx_count_dspt">"%1$d件のSMSと%2$d件のMMSを無料で送信"</string>
   <string name="mx_current_status">データ通信使用設定</string>
-  <string name="mx_dspt">WiFiネットワークに接続している場合は、無料で他のMIUIユーザーにSMSとMMSメッセージを送信</string>
+  <string name="mx_dspt">Wi-Fiネットワークに接続している場合は、無料で他のMIUIユーザーにSMSとMMSメッセージを送信</string>
   <string name="mx_dspt_listview">課金されることなく他のMIUIユーザーにメッセージを送信</string>
   <string name="mx_dspt_provision">"MiメッセージはSMS料金を請求されることなく、他のMIUIユーザーにメッセージを送ることができます。このサービスをアクティベートする際に使用されるSMS料金は、ご契約中のキャリアから請求されます。"</string>
   <string name="mx_dspt_provision_ex">"キャリアから課金されることなく、他のMIUIユーザーにメッセージを送信したり通話できます。VoIPはWeihuiによってサポートされます。Weihuiのプライバシーポリシーを表示"</string>
@@ -545,7 +545,7 @@
   <string name="set">設定</string>
   <string name="share_img">共有</string>
   <string name="show_all_messages">全てのメッセージを表示</string>
-  <string name="show_delivery_status">Show delivery status</string>
+  <string name="show_delivery_status">配送状況を表示</string>
   <string name="show_sender">送信者情報を表示</string>
   <string name="sim_card1">"SIMカード 1"</string>
   <string name="sim_card2">"SIMカード 2"</string>
@@ -559,7 +559,7 @@
   <string name="sim_view">表示</string>
   <string name="slide_number">スライド %s秒</string>
   <string name="slide_show_part">Part %1$s/%2$s</string>
-  <string name="slide_up_to_cancel">Slide up to cancel</string>
+  <string name="slide_up_to_cancel">"上にスライドしてキャンセル"</string>
   <string name="slideshow_activity">スライドショー</string>
   <string name="sms_card_partner_label">"SMSカードパートナー: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -656,7 +656,7 @@
   <string name="user_agreement4">プライバシーポリシー</string>
   <string name="user_agreement5">OKをタップすると、本利用規約とプライバシーポリシーに同意されたものとみなされます。</string>
   <string name="view">表示</string>
-  <string name="view_bookmark">元のメッセージを表示e</string>
+  <string name="view_bookmark">元のメッセージを表示</string>
   <string name="view_hms_attachment_fail">"画像をダウンロードできません"</string>
   <string name="view_hms_details">詳細</string>
   <string name="view_message_details">メッセージの詳細を表示</string>
