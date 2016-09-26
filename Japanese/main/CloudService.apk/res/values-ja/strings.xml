@@ -111,7 +111,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="header_find_device_settings">Find device</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">パスワードを入力</string>
-  <string name="internet_access_dspt">This app needs to connect to the internet to work normally.</string>
+  <string name="internet_access_dspt">このアプリが正常に動作するには、インターネットへの接続が必要です。</string>
   <string name="license_host_unreachable">"ネットワークに接続できません。To view this information now, go to %s."</string>
   <string name="loading">読み込み中…</string>
   <string name="loading_hint">読み込み中</string>
@@ -285,7 +285,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_member_refresh_button">Refresh</string>
   <string name="micloud_member_webload_fail_error_message">Network error</string>
   <string name="micloud_member_webload_fail_toast_4xx">"Couldn't load page"</string>
-  <string name="micloud_member_webload_fail_toast_5xx">Server error</string>
+  <string name="micloud_member_webload_fail_toast_5xx">サーバーエラー</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_notif_content_battery_low">Battery is too low.</string>
   <string name="micloud_notif_content_clipboard_push">You can paste it anywhere.</string>
@@ -376,11 +376,11 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_with_voip">"Call other MIUI devices for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
-  <string name="mx_dspt_provision_with_voip2">Privacy Policy</string>
+  <string name="mx_dspt_provision_with_voip2">プライバシーポリシー</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
   <string name="mx_voip_dspt">Mi Voice</string>
-  <string name="next">Next</string>
+  <string name="next">"次へ"</string>
   <string name="noRemind">"Don't remind me"</string>
   <string name="no_sim">No SIM card detected</string>
   <string name="other_settings">Other settings</string>
@@ -404,10 +404,10 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="search_finddevice_pref_desc">Turn on/off Find Device</string>
   <string name="search_finddevice_pref_key_words">finddevice, find device</string>
   <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/FIND DEVICE</string>
-  <string name="setting">Settings</string>
+  <string name="setting">設定</string>
   <string name="settings_backup_title">Back up system settings</string>
-  <string name="share_cancel">Share canceled</string>
-  <string name="share_failed">"Couldn't share"</string>
+  <string name="share_cancel">共有をキャンセルしました</string>
+  <string name="share_failed">共有できませんでした</string>
   <string name="share_miliao_not_installed">Mi Talk is not installed.</string>
   <string name="share_success">Shared</string>
   <string name="share_weibo_not_installed">Weibo is not installed.</string>
@@ -422,7 +422,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="soundrecorder_sync_only_in_wifi">Only use WLAN to sync</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
   <string name="soundrecorder_sync_records">Sync with Mi Cloud</string>
-  <string name="start_micloud">Start</string>
+  <string name="start_micloud">開始</string>
   <string name="storage">ストレージ</string>
   <string name="sub_alert_notif_content">Turn on sync with Mi Cloud to back up your data</string>
   <string name="sub_alert_notif_dspt_add">%s items waiting to sync</string>
@@ -463,8 +463,8 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_sub_int_dspt">Your carrier may charge for an international SMS message used to activate this service.</string>
   <string name="title_reg">Create Mi Account</string>
   <string name="total_space_upgraded_to">Total space:%s</string>
-  <string name="trying_to_connect_to_network">Connecting to the network…</string>
-  <string name="unactivated_user">Signed out</string>
+  <string name="trying_to_connect_to_network">ネットワークに接続しています…</string>
+  <string name="unactivated_user">ログアウト</string>
   <string name="upgrade_space">Add space</string>
   <string name="upgrade_space_gb">GB</string>
   <string name="upgrade_space_mibipreyear">%s Mi Credits per year</string>

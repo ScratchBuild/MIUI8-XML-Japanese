@@ -7,7 +7,7 @@
   <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="Only_the_wifi">Only use Wi-Fi</string>
   <string name="about">About</string>
-  <string name="action_settings">Settings</string>
+  <string name="action_settings">"設定"</string>
   <string name="ad_mark">AD</string>
   <string name="ad_title">People also download these with  %1$s </string>
   <string name="ad_title_other">People who downloaded this image also downloaded</string>
@@ -30,8 +30,8 @@
   <string name="bt_restart_dialog_message">Restart all downloads in the BT folder?</string>
   <string name="bt_restart_dialog_title">Restart all downloads</string>
   <string name="bt_xunlei_open_info">Use Xunlei Engine to open such links?</string>
-  <string name="button_sort_by_date">Sort by date</string>
-  <string name="button_sort_by_size">Sort by size</string>
+  <string name="button_sort_by_date">"日付順"</string>
+  <string name="button_sort_by_size">"サイズ順"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_running_download">"キャンセル"</string>
   <string name="cancle">"キャンセル"</string>
@@ -41,7 +41,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">%d downloads will be deleted.</string>
   <string name="confirm_delete_the_download_item_message">Delete these downloads?</string>
-  <string name="continue_download">Continue</string>
+  <string name="continue_download">"続行"</string>
   <string name="copy">"コピー"</string>
   <string name="copy_info">Copied to clipboard. You can share it with friends!</string>
   <string name="creat_task_success">Added to download queue</string>
@@ -110,8 +110,8 @@
   <string name="download_spend_time">Time</string>
   <string name="download_success">"完了"</string>
   <string name="download_title">"ダウンロード"</string>
-  <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
-  <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
+  <string name="download_title_sorted_by_date">"ダウンロード - 日付順"</string>
+  <string name="download_title_sorted_by_size">"ダウンロード - サイズ順"</string>
   <string name="download_wait_connect">"接続を待機中"</string>
   <string name="download_when_network_connected">"データ接続を使用してダウンロード"</string>
   <string name="downloaded">Download complete</string>
@@ -132,7 +132,7 @@
   <string name="durationMinutes">"%1$d分"</string>
   <string name="durationSecond">"%1$d秒"</string>
   <string name="durationSeconds">"%1$d秒"</string>
-  <string name="edit_hint"> Enter http, torrent, or eMule address</string>
+  <string name="edit_hint">" http, torrent, またはeMuleアドレスを入力"</string>
   <string name="editmode_menu_delete">"削除"</string>
   <string name="editmode_menu_share">"共有"</string>
   <string name="engine_open">"開く"</string>
@@ -208,11 +208,11 @@ across all your devices with Xunlei"</string>
   <string name="only_support_torrent">Only torrent files are supported</string>
   <string name="open">"開く"</string>
   <string name="open_download">"開く"</string>
-  <string name="open_folder">Open folder</string>
+  <string name="open_folder">"フォルダを開く"</string>
   <string name="open_vip_hint">Tap to become a Xunlei Member</string>
   <string name="open_vip_speedup">Become a member to boost speed &gt;</string>
   <string name="open_xunlei_speed_service">Start Xunlei download accelerator</string>
-  <string name="original_price">Price</string>
+  <string name="original_price">"価格"</string>
   <string name="other">"その他"</string>
   <string name="other_filter">"その他"</string>
   <string name="package_filter">Packages</string>
@@ -239,7 +239,7 @@ across all your devices with Xunlei"</string>
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
-  <string name="quit_btn">Exit</string>
+  <string name="quit_btn">"終了"</string>
   <string name="rank">Rankings</string>
   <string name="rank_data_empty">No rankings</string>
   <string name="rank_guide_confirm">Check it out</string>

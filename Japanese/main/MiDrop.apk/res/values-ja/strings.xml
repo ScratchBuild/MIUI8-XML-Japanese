@@ -75,13 +75,13 @@
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"Don't send"</string>
-  <string name="sender_complete">Done</string>
+  <string name="sender_complete">"完了"</string>
   <string name="sender_fail">"Couldn't send"</string>
   <string name="sender_file_num">Waiting for %1$d files</string>
   <string name="sender_finish">Sent</string>
   <string name="sender_in_progress_later">Try again later</string>
-  <string name="sender_in_progress_now">Cancel</string>
-  <string name="sender_in_progress_title">Cancel transfer?</string>
+  <string name="sender_in_progress_now">"キャンセル"</string>
+  <string name="sender_in_progress_title">"転送をキャンセルしますか？"</string>
   <string name="sender_interrupt_summary">"Don't turn off WLAN when files are sending"</string>
   <string name="sender_interupt">Transfer interrupted</string>
   <string name="sender_reject">"同意しない"</string>

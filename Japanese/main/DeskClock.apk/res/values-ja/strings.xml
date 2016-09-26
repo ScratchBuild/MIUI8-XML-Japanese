@@ -5,7 +5,7 @@
   <string name="alarm_alert_snooze_set">Snoozing for %d minutes.</string>
   <string name="alarm_ascending_mode_summary">Alarm volume rises gradually</string>
   <string name="alarm_ascending_mode_title">Ascending volume</string>
-  <string name="alarm_disabled">Off</string>
+  <string name="alarm_disabled">"オフ"</string>
   <string name="alarm_in_silent_mode_title">Alarm in silent mode</string>
   <string name="alarm_klaxon_service_desc">"時計で設定したアラーム用のサウンド再生サービスです。"</string>
   <string name="alarm_label_hint">"アラームのラベル"</string>
@@ -103,7 +103,7 @@
   <string name="stat_repeat_self_define">"カスタム"</string>
   <string name="stat_repeat_weekdays">"平日（月～金）"</string>
   <string name="stat_repeat_weekends">"週末"</string>
-  <string name="stopwatch_lap_empty_text">No laps</string>
+  <string name="stopwatch_lap_empty_text">"ラップなし"</string>
   <string name="stopwatch_title">"ストップウォッチ"</string>
   <string name="symbol_colon">:</string>
   <string name="system_time_setting">"設定"</string>
