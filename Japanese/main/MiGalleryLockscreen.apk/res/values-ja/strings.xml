@@ -28,11 +28,11 @@
   <string name="ok_international">"同意する"</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">"同意"</string>
-  <string name="platform_unavailable_qq">please install QQ</string>
-  <string name="platform_unavailable_qzone">please install Qzone</string>
-  <string name="platform_unavailable_wechat">please install wechat</string>
-  <string name="platform_unavailable_wechatmoment">please install wechat</string>
-  <string name="platform_unavailable_weibo">please install weibo</string>
+  <string name="platform_unavailable_qq">"QQをインストールしてください"</string>
+  <string name="platform_unavailable_qzone">"Qzoneをインストールしてください"</string>
+  <string name="platform_unavailable_wechat">"wechatをインストールしてください"</string>
+  <string name="platform_unavailable_wechatmoment">"wechatをインストールしてください"</string>
+  <string name="platform_unavailable_weibo">"weiboをインストールしてください"</string>
   <string name="resource_apply">"適用"</string>
   <string name="resource_no_network_text">"ネットワークに接続できません。"</string>
   <string name="setting_head">"設定"</string>

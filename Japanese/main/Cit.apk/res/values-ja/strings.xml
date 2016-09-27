@@ -2,11 +2,11 @@
 <resources>
   <string name="SDCard">SDカード</string>
   <string name="SD_INTERNAL_SDCard_mounted">内部SDカードを検出</string>
-  <string name="SD_INTERNAL_SDCard_unmounted">Internal SDCard unavailable</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">内部SDカードが使用不可</string>
   <string name="SD_SDCard_available_szie">空き容量</string>
   <string name="SD_SDCard_mounted">SDカードを検出</string>
   <string name="SD_SDCard_total_size">合計容量</string>
-  <string name="SD_SDCard_unmounted">SDCard unavailable</string>
+  <string name="SD_SDCard_unmounted">SDカードが使用不可</string>
   <string name="button_ok">OK</string>
   <string name="camerainfo">カメラ情報</string>
   <string name="cit_OTG_plugin_check_summary">When OTG device is connected, the text \"USB OTG device detected\" should be displayed below.</string>
@@ -94,7 +94,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_blue_tooth_scan_check_title">Bluetoothスキャン</string>
   <string name="cit_blue_torch_on">Turn on blue flash light</string>
   <string name="cit_bluetooth_address_open_error">"Couldn't get Bluetooth address. An error occurred while opening Bluetooth device."</string>
-  <string name="cit_bluetooth_not_support">"This device doesn't support Bluetooth"</string>
+  <string name="cit_bluetooth_not_support">このデバイスはBluetoothをサポートしていません</string>
   <string name="cit_bluetooth_scan_retry">Scan again</string>
   <string name="cit_bluetooth_scanning">Scanning for nearby Bluetooth devices (this should take about 4 seconds)…</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">"Done. Didn't find any Bluetooth devices nearby."</string>
@@ -130,7 +130,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_fm_check_summary">"This will test the device's FM function."</string>
   <string name="cit_fm_check_title">FMラジオ</string>
   <string name="cit_fm_close">Close FM</string>
-  <string name="cit_fm_not_supported">"This device doesn't support FM"</string>
+  <string name="cit_fm_not_supported">このデバイスはFMをサポートしていません</string>
   <string name="cit_fm_open_1">Start FM - 88.5</string>
   <string name="cit_fm_open_2">Start FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Opening Bluetooth…</string>
@@ -190,9 +190,9 @@ Touch the screen to start GPS…"</string>
   <string name="cit_keyboard_test_summary">When you push the buttons, the corresponding text on screen should turn green (note: the Home and the Power buttons are not included in the test).</string>
   <string name="cit_keyboard_test_title">ボタン</string>
   <string name="cit_label">ハードウェアテスト</string>
-  <string name="cit_lcdlight_brightness">Backlight</string>
-  <string name="cit_lcdlight_brightness_max">MAX</string>
-  <string name="cit_lcdlight_brightness_min">MIN</string>
+  <string name="cit_lcdlight_brightness">バックライト</string>
+  <string name="cit_lcdlight_brightness_max">最大</string>
+  <string name="cit_lcdlight_brightness_min">最小</string>
   <string name="cit_leds_check_summary">Backlight, notification light, and flash light (rear), should respond when corresponding button is pressed.</string>
   <string name="cit_leds_check_title">通知ライト(LED)</string>
   <string name="cit_light_sensor_check_summary">DAC value should appear below</string>
@@ -358,10 +358,10 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_usb_charger_out">USB charger disconnected</string>
   <string name="cit_version_check_summary">Below is OS version info. Confirm that the info highlighted in green is correct.</string>
   <string name="cit_version_check_title">バージョン情報を確認する</string>
-  <string name="cit_vga_camera_capture">Camera</string>
+  <string name="cit_vga_camera_capture">カメラ</string>
   <string name="cit_vga_camera_capture_fail">写真の撮影に失敗しました</string>
   <string name="cit_vga_camera_delete">削除</string>
-  <string name="cit_vga_camera_deleted">Photo deleted</string>
+  <string name="cit_vga_camera_deleted">写真を削除しました</string>
   <string name="cit_vibrator_check_summary">See if vibration (long and short) is functioning normally</string>
   <string name="cit_vibrator_check_title">バイブレーション</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
@@ -382,7 +382,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_wifi_fail_to_scan">"Couldn't scan for networks"</string>
   <string name="cit_wifi_state_refresh">更新</string>
   <string name="cit_yellow_torch_on">Turn on yellow flash light</string>
-  <string name="error_app_internal">Internal application error</string>
+  <string name="error_app_internal">内部アプリケーションエラー</string>
   <string name="error_app_unsupported">Unsupported format</string>
   <string name="error_sdcard_access">Unable to access system space!</string>
   <string name="keyboard">KEY</string>

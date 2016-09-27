@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="mortgage_summary_years">
-        <item quantity="other">%1$d years (%2$d months)</item>
-        <item quantity="one">%1$d year (%2$d months)</item>
+        <item quantity="other">%1$d年 (%2$dヶ月)</item>
+        <item quantity="one">%1$d年 (%2$dヶ月)</item>
     </plurals>
 </resources>

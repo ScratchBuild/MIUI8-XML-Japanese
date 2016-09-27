@@ -183,8 +183,8 @@
   <string name="attachment_decoding">Unpacking attachments…</string>
   <string name="attachment_download_all">"すべてダウンロード"</string>
   <string name="attachment_image">Image</string>
-  <string name="attachment_list_search_hint">Search attachments</string>
-  <string name="attachment_mgr_name">Attachments</string>
+  <string name="attachment_list_search_hint">"添付ファイルを検索"</string>
+  <string name="attachment_mgr_name">"添付ファイル"</string>
   <string name="attachment_not_exists">The attachment is not available!</string>
   <string name="attachment_open_SecurityException_hint">You may not have permission to open this file or the file may be damaged.</string>
   <string name="attachment_open_SecurityException_title">"Can't open file"</string>
@@ -193,7 +193,7 @@
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
   <string name="attachment_unknown">%s file</string>
   <string name="attachment_video">Video</string>
-  <string name="attachments_header">Attachments</string>
+  <string name="attachments_header">"添付ファイル"</string>
   <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">After deleting a message, view…</string>
   <string name="auto_advance_label">Delete message flow</string>
@@ -211,7 +211,7 @@
   <string name="bottom_bar_more_share">Share</string>
   <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
-  <string name="calendar_remind_dialog_title">Reminder</string>
+  <string name="calendar_remind_dialog_title">"リマインダー"</string>
   <string name="calendar_remind_gridview_pick_date">"日付を選択"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_action">"キャンセル"</string>
@@ -291,8 +291,8 @@
   <string name="contextmenu_sms_dot">SMS…</string>
   <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Moved to %1$s</string>
-  <string name="conversation_item_mark_read">Read</string>
-  <string name="conversation_item_mark_unread">Unread</string>
+  <string name="conversation_item_mark_read">"既読"</string>
+  <string name="conversation_item_mark_unread">"未読"</string>
   <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
   <string name="conversation_view">Conversation view</string>
   <string name="conversation_view_keywords">conversation view;mail conversation</string>
@@ -325,8 +325,8 @@
   <string name="dialog_auto_sync_setting_no_open">"Can't auto-receive new messages. Sync is off."</string>
   <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
-  <string name="dialog_insufficient_space_on_external">"Can't download attachment. Not enough space on external storage."</string>
-  <string name="dialog_insufficient_space_on_internal">Not enough space on internal storage.</string>
+  <string name="dialog_insufficient_space_on_external">"添付ファイルをダウンロードできません。外部ストレージに十分な空き領域がありません。"</string>
+  <string name="dialog_insufficient_space_on_internal">"内部ストレージに十分な空き領域がありません。"</string>
   <string name="disable_admin_warning">"警告: メールアプリの端末管理権限を無効にすると、権限を必要とするすべてのメールアカウントが削除されます。また、そのアカウントのメール、連絡先、カレンダーの予定などのデータも削除されます。"</string>
   <string name="discard">"破棄"</string>
   <string name="discard_drafts">"下書きを破棄する"</string>
@@ -342,7 +342,7 @@
   <string name="downlaod_cancel_continue_download">"停止できません"</string>
   <string name="downlaod_confirm_download">"ダウンロード"</string>
   <string name="downlaod_nonWifi_confirm_message">Use mobile data connection to download this attachment?</string>
-  <string name="downlaod_nonWifi_confirm_title">Download this attachment?</string>
+  <string name="downlaod_nonWifi_confirm_title">"この添付ファイルをダウンロードしますか？"</string>
   <string name="download_again">Download again</string>
   <string name="download_before_sharing">" hasn't finished downloading."</string>
   <string name="download_cancel_confirm_message">Download will be stopped</string>
@@ -385,7 +385,7 @@
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">"受信者の詳細を展開"</string>
   <string name="fail_get_email_message">Get message failed.</string>
-  <string name="failed">"Couldn't load image"</string>
+  <string name="failed">"画像を読み込めませんでした"</string>
   <string name="failed_read_phone_state_permission">"Allow access to device's status"</string>
   <string name="failed_read_write_calendar_permission">Allow access to Calendar</string>
   <string name="failed_read_write_contacts_permission">Allow access to Contacts</string>
@@ -398,7 +398,7 @@
   <string name="file_deleted_success">File deleted</string>
   <string name="file_not_found">"ファイルが見つかりませんでした"</string>
   <string name="file_not_found_redownload">"ファイルが見つかりませんでした"</string>
-  <string name="file_rar_not_support">"Can't open encrypted rar files"</string>
+  <string name="file_rar_not_support">"暗号化されたrarファイルを開くことができません"</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
@@ -522,14 +522,14 @@
   <string name="mailbox_name_display_starred">"スター付き"</string>
   <string name="mailbox_name_display_trash">"ゴミ箱"</string>
   <string name="mailbox_name_display_unread">"未読"</string>
-  <string name="mailbox_name_server_all_unread">Unread</string>
-  <string name="mailbox_name_server_drafts">Drafts</string>
-  <string name="mailbox_name_server_inbox">Inbox</string>
-  <string name="mailbox_name_server_junk">Junk</string>
-  <string name="mailbox_name_server_outbox">Outbox</string>
-  <string name="mailbox_name_server_sent">Sent</string>
-  <string name="mailbox_name_server_starred">Starred</string>
-  <string name="mailbox_name_server_trash">Trash</string>
+  <string name="mailbox_name_server_all_unread">"未読"</string>
+  <string name="mailbox_name_server_drafts">"下書き"</string>
+  <string name="mailbox_name_server_inbox">"受信トレイ"</string>
+  <string name="mailbox_name_server_junk">"迷惑メール"</string>
+  <string name="mailbox_name_server_outbox">"送信トレイ"</string>
+  <string name="mailbox_name_server_sent">"送信済み"</string>
+  <string name="mailbox_name_server_starred">"スター付き"</string>
+  <string name="mailbox_name_server_trash">"ゴミ箱"</string>
   <string name="mailbox_settings_activity_title">"同期オプション"</string>
   <string name="mailbox_settings_activity_title_with_mailbox">"同期オプション（%s）"</string>
   <string name="mailbox_settings_mailbox_sync_window_label">"同期するメールの日数"</string>
@@ -584,7 +584,7 @@
         Where:
 %s "</string>
   <string name="megabytes">%s MB</string>
-  <string name="menu_att_mgr">Attachments</string>
+  <string name="menu_att_mgr">"添付ファイル"</string>
   <string name="menu_att_mgr_order_default">Recently viewed</string>
   <string name="menu_att_mgr_order_mime">Sort by format</string>
   <string name="menu_att_mgr_order_name">Sort by name</string>
@@ -636,14 +636,14 @@
   <string name="next_action">"次へ"</string>
   <string name="no">"いいえ"</string>
   <string name="no_address_email">noaddressemail@123.com</string>
-  <string name="no_application_found">No app was found to open this attachment.</string>
-  <string name="no_application_found_title">Open this attachment.</string>
-  <string name="no_contacts">No contacts.</string>
-  <string name="no_content_in_body">[No Body]</string>
-  <string name="no_conversations">No messages</string>
-  <string name="no_mails">No mail.</string>
+  <string name="no_application_found">"この添付ファイルを開くためのアプリケーションが見つかりませんでした。"</string>
+  <string name="no_application_found_title">"この添付ファイルを開く。"</string>
+  <string name="no_contacts">"連絡先なし。"</string>
+  <string name="no_content_in_body">"[本文なし]"</string>
+  <string name="no_conversations">"メッセージなし"</string>
+  <string name="no_mails">"メールなし。"</string>
   <string name="no_matched_attachment">No results.</string>
-  <string name="not_subject">(No subject)</string>
+  <string name="not_subject">"(件名なし)"</string>
   <string name="not_synced_title">Account not synced</string>
   <string name="notification_action_archive">Archive</string>
   <string name="notification_action_delete">Delete</string>
@@ -656,7 +656,7 @@
   <string name="notification_exchange_calendar_added">Exchange calendar added</string>
   <string name="oauth_error_description">"認証できません"</string>
   <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
-  <string name="oauth_login_continue">Continue</string>
+  <string name="oauth_login_continue">"続行"</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="outbox_alert_button_no_resend">"Don't send"</string>
@@ -716,11 +716,11 @@
   <string name="policy_app_whitelist">Allow only specified apps</string>
   <string name="policy_bluetooth_restricted">Restrict Bluetooth usage</string>
   <string name="policy_calendar_age">"同期するカレンダーの予定の数を制限する"</string>
-  <string name="policy_dont_allow_attachments">"Don't allow attachments"</string>
+  <string name="policy_dont_allow_attachments">"添付ファイルを許可しない"</string>
   <string name="policy_dont_allow_browser">"Don't allow browsers"</string>
   <string name="policy_dont_allow_camera">"端末のカメラの使用を許可しない"</string>
   <string name="policy_dont_allow_consumer_email">"Don't allow consumer email"</string>
-  <string name="policy_dont_allow_html">"Don't allow HTML email"</string>
+  <string name="policy_dont_allow_html">"HTMLメールを許可しない"</string>
   <string name="policy_dont_allow_internet_sharing">"Don't allow Internet sharing"</string>
   <string name="policy_dont_allow_irda">"Don't allow infrared communications"</string>
   <string name="policy_dont_allow_pop_imap">"Don't allow POP3 or IMAP accounts"</string>

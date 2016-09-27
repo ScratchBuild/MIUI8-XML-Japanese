@@ -29,7 +29,7 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="buy_space_sulotion_renew_title">Renew subscription</string>
   <string name="buy_space_sulotion_title">Buy storage space</string>
   <string name="calendar_sync">カレンダー</string>
-  <string name="click_to_enabled">Touch to sync.</string>
+  <string name="click_to_enabled">同期するにはタップ。</string>
   <string name="cloud_back_up_button_ok">強制停止</string>
   <string name="cloud_back_up_close_info">Tap to back up.</string>
   <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
@@ -170,7 +170,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_do_not_sync">"Don't sync"</string>
   <string name="micloud_detail_download_syncing">Downloading %s</string>
   <string name="micloud_detail_fail">"Can't sync"</string>
-  <string name="micloud_detail_force_sync">Sync now</string>
+  <string name="micloud_detail_force_sync">今すぐ同期</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_lastest_with_off">Synced</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
@@ -182,8 +182,8 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_query_error_detail">"Can't confirm if sync is complete for some services. You can contact the developers using the Feedback app."</string>
   <string name="micloud_detail_query_error_title">"Couldn't get info about sync progress"</string>
   <string name="micloud_detail_success">Synced</string>
-  <string name="micloud_detail_sync_now">Sync now</string>
-  <string name="micloud_detail_syncing">Syncing</string>
+  <string name="micloud_detail_sync_now">今すぐ同期</string>
+  <string name="micloud_detail_syncing">同期中</string>
   <string name="micloud_detail_upload_syncing">Uploading %s</string>
   <string name="micloud_detail_wlan">%d waiting to sync</string>
   <string name="micloud_detail_wlan_contact">%d contact photos waiting to sync</string>
@@ -239,8 +239,8 @@ To fix this, you can either clean out some old files to make room for new ones, 
 1. Use a different account.
 2. Move items to First space."</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud error</string>
-  <string name="micloud_main_network_abnormal">"Can't connect to the network"</string>
-  <string name="micloud_main_network_error">"Can't connect to the network"</string>
+  <string name="micloud_main_network_abnormal">ネットワークに接続できません</string>
+  <string name="micloud_main_network_error">ネットワークに接続できません</string>
   <string name="micloud_main_not_sync">%d items waiting to sync</string>
   <string name="micloud_main_query_error_message">"Can't confirm if sync is complete for some services"</string>
   <string name="micloud_main_query_error_title">"Couldn't get info about sync progress"</string>
@@ -253,9 +253,9 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_suggest_setting">"Waiting for WLAN connection to sync.
 Tap the Sync settings button to view more options."</string>
   <string name="micloud_main_suggest_sync">"Couldn't sync everything"</string>
-  <string name="micloud_main_sync_exception">Sync error</string>
+  <string name="micloud_main_sync_exception">同期エラー</string>
   <string name="micloud_main_sync_init">Getting info</string>
-  <string name="micloud_main_sync_now">Sync now</string>
+  <string name="micloud_main_sync_now">今すぐ同期</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
   <string name="micloud_main_sync_pause">Sync paused</string>
@@ -263,7 +263,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_main_sync_setting">Sync settings</string>
   <string name="micloud_main_sync_stop">Sync stopped</string>
   <string name="micloud_main_synced_data_count">%d items synced</string>
-  <string name="micloud_main_syncing">Syncing…</string>
+  <string name="micloud_main_syncing">同期中…</string>
   <string name="micloud_main_title_master_sync_off">Auto-sync is off</string>
   <string name="micloud_main_title_not_synced">Not synced</string>
   <string name="micloud_main_title_sync_fail">"Can't sync"</string>
@@ -278,7 +278,7 @@ Tap the Sync settings button to view more options."</string>
 %s Mi Credits"</string>
   <string name="micloud_member_buy_title">Confirm order</string>
   <string name="micloud_member_net_error_alert_message">"You don't have an internet connection."</string>
-  <string name="micloud_member_net_error_alert_title">"Can't connect to the network"</string>
+  <string name="micloud_member_net_error_alert_title">ネットワークに接続できません</string>
   <string name="micloud_member_pay_fail_toast">"Couldn't complete payment"</string>
   <string name="micloud_member_pay_miid_error_toast">Account error</string>
   <string name="micloud_member_pay_order_error_toast">Data error</string>
@@ -304,10 +304,10 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_notif_title_multi_user_error">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_sync_finish">Synced</string>
   <string name="micloud_notif_title_sync_not_finish">"Some items haven't been synced"</string>
-  <string name="micloud_notif_title_sync_progress">Syncing</string>
+  <string name="micloud_notif_title_sync_progress">同期中</string>
   <string name="micloud_notif_title_sync_with_off">Sync with Mi Cloud</string>
   <string name="micloud_other_product_price">Compare prices</string>
-  <string name="micloud_proceed">Continue</string>
+  <string name="micloud_proceed">続行</string>
   <string name="micloud_request_permission_confirm">Got it</string>
   <string name="micloud_request_permission_content">Mi Cloud needs permissions to sync data. Allow Mi Cloud to access Calendar, Contacts, Mi Account, SIM card status, call history, and messages.</string>
   <string name="micloud_request_permission_title">Mi Cloud needs permissions</string>
@@ -328,7 +328,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
   <string name="micloud_space_soundrecorder_detail">Manage recordings stored on your device</string>
   <string name="micloud_space_soundrecorder_title">Recordings</string>
-  <string name="micloud_storage">Storage</string>
+  <string name="micloud_storage">ストレージ</string>
   <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_soon_title">Mi Cloud storage expires soon</string>
@@ -336,7 +336,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_storage_full">Cloud is full</string>
   <string name="micloud_storage_usage" formatted="false">Used %s/Total space %s</string>
   <string name="micloud_sync_alert_dialog_message">Sync your photos, contacts, notes, and more across all your devices.</string>
-  <string name="micloud_sync_alert_dialog_negative">Cancel</string>
+  <string name="micloud_sync_alert_dialog_negative">キャンセル</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Use Mi Cloud</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
@@ -383,19 +383,19 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="next">"次へ"</string>
   <string name="noRemind">"Don't remind me"</string>
   <string name="no_sim">No SIM card detected</string>
-  <string name="other_settings">Other settings</string>
-  <string name="password">Enter your password</string>
+  <string name="other_settings">その他の設定</string>
+  <string name="password">パスワードを入力</string>
   <string name="phone_number_may_required_dspt_provision">"This service may require your phone number. "</string>
   <string name="phone_number_required_dspt_provision">"This service requires your phone number. "</string>
-  <string name="photo">Photos</string>
+  <string name="photo">写真</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
   <string name="pref_title_sync_contacts_title">Sync contacts</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Only use WLAN to sync photos</string>
   <string name="privacy_policy">プライバシーポリシー</string>
   <string name="provision_arrow_back">&lt;</string>
   <string name="provision_arrow_next">&gt;</string>
-  <string name="remind_later">Not now</string>
-  <string name="restoreSync">Sync now</string>
+  <string name="remind_later">後で</string>
+  <string name="restoreSync">今すぐ同期</string>
   <string name="search_cloudbackup_pref">Cloud Backup</string>
   <string name="search_cloudbackup_pref_desc">Turn on/off Cloud Backup</string>
   <string name="search_cloudbackup_pref_key_words">cloudbackup, cloud backup</string>
@@ -444,7 +444,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". You can turn this feature on or off anytime in Settings.
 "</string>
-  <string name="sync_dspt_provision_header">Sync</string>
+  <string name="sync_dspt_provision_header">同期</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
   <string name="sync_item_calllog_title">Sync call history</string>

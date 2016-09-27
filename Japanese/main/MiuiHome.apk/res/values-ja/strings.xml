@@ -155,7 +155,7 @@
   <string name="liked">Favorited</string>
   <string name="loading_desktop">"読み込み中…"</string>
   <string name="loading_wallpaper">"読み込み中…"</string>
-  <string name="local_wallpaper">Downloaded</string>
+  <string name="local_wallpaper">"ダウンロード済み"</string>
   <string name="lock_screen">"ロック画面"</string>
   <string name="lock_screen_failed_message">"Can't set lock screen wallpaper"</string>
   <string name="lock_screen_success_message">Applied to lock screen</string>

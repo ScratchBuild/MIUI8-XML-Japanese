@@ -210,7 +210,7 @@ Pages you view won't appear in history."</string>
   <string name="dialog_confirm_delete_checkbox_message">"内部ストレージ上のファイルを削除"</string>
   <string name="dialog_confirm_delete_downloads_message">Delete %s tasks?</string>
   <string name="dialog_confirm_delete_the_download_item_message">"このタスクを削除しますか？"</string>
-  <string name="dialog_failed_body">Try again later or remove this file from the download que​ue?</string>
+  <string name="dialog_failed_body">"後でやり直すか、ダウンロードキューからこのファイルを削除しますか？"</string>
   <string name="dialog_file_already_exists">"このファイルは既にダウンロード済みです"</string>
   <string name="dialog_file_missing_body">"ファイルが見つかりません、移動や削除をしましたか？"</string>
   <string name="dialog_file_missing_title">"ファイルを開けませんでした"</string>
@@ -220,20 +220,20 @@ Pages you view won't appear in history."</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_title_not_available">"ダウンロードできませんでした"</string>
   <string name="dialog_title_queued_body">File not yet available</string>
-  <string name="document_download_background_btn">Download in background</string>
-  <string name="document_download_cancel_btn">Cancel</string>
-  <string name="document_download_failed">"Couldn't download"</string>
-  <string name="document_download_official">Download official version</string>
+  <string name="document_download_background_btn">"バックグラウンドでダウンロード"</string>
+  <string name="document_download_cancel_btn">"キャンセル"</string>
+  <string name="document_download_failed">"ダウンロードできませんでした"</string>
+  <string name="document_download_official">"公式版をダウンロード"</string>
   <string name="document_download_open_direct">Open directly</string>
-  <string name="document_download_title">Downloading</string>
+  <string name="document_download_title">"ダウンロード中"</string>
   <string name="document_open_file">Open %s</string>
-  <string name="document_open_message">To improve your reading experience and ensure security, use WPS customized version</string>
-  <string name="document_open_other">Other apps</string>
+  <string name="document_open_message">"あなたの読書体験を向上しセキュリティを確保するため、WPSのカスタマイズされたバージョンを使用します"</string>
+  <string name="document_open_other">"その他のアプリ"</string>
   <string name="document_open_title">Open with</string>
   <string name="dont_remind_again">"この選択を記憶する"</string>
   <string name="download_btn_select_all">"すべて選択"</string>
   <string name="download_btn_select_none">"すべて選択を解除"</string>
-  <string name="download_complete">Downloaded successfully</string>
+  <string name="download_complete">"正常にダウンロードされました"</string>
   <string name="download_completed">"ダウンロード済み"</string>
   <string name="download_default_path_txt">"この選択を記憶する"</string>
   <string name="download_dialog_default_path_invalid">"The download location you've selected is invalid. Saving to default location…"</string>
@@ -241,7 +241,7 @@ Pages you view won't appear in history."</string>
   <string name="download_dialog_file_length_lessthan1kb">"1K未満"</string>
   <string name="download_dialog_file_length_nolength_error_txt">"ダウンロードできませんでした"</string>
   <string name="download_dialog_file_length_nolength_txt">"読み込み中…"</string>
-  <string name="download_failed">"Couldn't complete download"</string>
+  <string name="download_failed">"ダウンロードを完了できませんでした"</string>
   <string name="download_filter_all">"すべて"</string>
   <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">"アプリ"</string>
@@ -274,7 +274,7 @@ Pages you view won't appear in history."</string>
   <string name="empty_bookmark">Empty</string>
   <string name="empty_history_hint">History is empty</string>
   <string name="empty_snapshot_hint">Empty</string>
-  <string name="enable_geolocation_confirm_message">Turning this feature off may cause some websites to misbehave.</string>
+  <string name="enable_geolocation_confirm_message">"この機能をオフにすると、いくつかのウェブサイトが正常に動作しない恐れがあります。"</string>
   <string name="enter_developer_mode">Enter developer mode</string>
   <string name="enter_incongnito_mode">Enter incognito mode</string>
   <string name="error_console_eval_button_text">Evaluate</string>
@@ -315,7 +315,7 @@ Pages you view won't appear in history."</string>
   <string name="geolocation_settings_page_title">"位置情報アクセスをクリア"</string>
   <string name="go_supermarket_button">Go</string>
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
-  <string name="gold_medals">Gold medals</string>
+  <string name="gold_medals">"金メダル"</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">"ホーム画面に設置しました"</string>
   <string name="history_saved_webpage">"ページを保存"</string>
@@ -338,7 +338,7 @@ Pages you view won't appear in history."</string>
   <string name="isreplace">"ファイルが既に存在します、置き換えますか？"</string>
   <string name="js_dialog_before_unload">"%s
 
-Leave this page?"</string>
+このページから移動しますか？"</string>
   <string name="js_dialog_before_unload_negative_button">Stay</string>
   <string name="js_dialog_before_unload_positive_button">Leave</string>
   <string name="js_dialog_before_unload_title">Confirm Navigation</string>
@@ -352,14 +352,14 @@ Leave this page?"</string>
   <string name="loading_tips">Pull down to refresh</string>
   <string name="local_bookmarks">"ローカル"</string>
   <string name="login_failed_toast">"Couldn't sign in, refresh and try again"</string>
-  <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
+  <string name="low_memory_error">"メモリ不足のため、直前の操作を完了することができません"</string>
   <string name="max_tabs_warning">"タブ数が上限に達しました"</string>
   <string name="maximum_input_alert">"2048文字以上は入力できません"</string>
   <string name="media_error_action_refresh">"更新"</string>
   <string name="media_error_action_replace_video_source">"Couldn't change source"</string>
   <string name="media_error_failure">"Can't play video"</string>
   <string name="media_error_format">"Video format isn't supported"</string>
-  <string name="media_error_nomemory">Not enough memory</string>
+  <string name="media_error_nomemory">"メモリ不足"</string>
   <string name="media_error_source">"Couldn't find source"</string>
   <string name="media_error_timeout">"ネットワーク接続がタイムアウトしました"</string>
   <string name="media_error_video_not_exist">"Video doesn't exist"</string>
@@ -465,7 +465,7 @@ Leave this page?"</string>
   <string name="notif_install_successful">Download complete</string>
   <string name="ok">OK</string>
   <string name="older">Older</string>
-  <string name="open_file_explorer_failed">"Can't open File Explorer"</string>
+  <string name="open_file_explorer_failed">"File Explorerを開くことができません"</string>
   <string name="opening_file_error">"選択したファイルを開けませんでした"</string>
   <string name="page_info">"ページ情報"</string>
   <string name="page_info_address">"アドレス:"</string>
@@ -590,7 +590,7 @@ Leave this page?"</string>
   <string name="pref_volume_key_action">"音量ボタンを使用してスクロールする"</string>
   <string name="pref_weather_location_summary">"ブラウザの天気プラグインによって使用されます"</string>
   <string name="pref_weather_location_title">"天気の位置情報"</string>
-  <string name="private_browsing_warning">This functionality is not supported in this version of Android.</string>
+  <string name="private_browsing_warning">"この機能はお使いのAndroidバージョンではサポートされていません。"</string>
   <string name="profiler_error_toast">Failed to start profiler</string>
   <string name="profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
   <string name="profiler_started_toast">Profiler started</string>
@@ -683,7 +683,7 @@ Leave this page?"</string>
   <string name="search_tupian">Image</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
-  <string name="secure_download_in_xiaomi_market">Download in App Store</string>
+  <string name="secure_download_in_xiaomi_market">"App Storeでダウンロード"</string>
   <string name="secureaccess">"セーフモードに切り替える"</string>
   <string name="secureaccess_cancel">"無視する"</string>
   <string name="security_url_confirm_message">Turning this feature off may create security risks.</string>

@@ -20,8 +20,8 @@
   <string name="action_settings">"設定"</string>
   <string name="app_name">Mi Drop</string>
   <string name="cancel_confirm">"キャンセル"</string>
-  <string name="cancel_confirm_title">"Transfer isn't complete, cancel now?"</string>
-  <string name="cancel_receive_confirm">Cancel</string>
+  <string name="cancel_confirm_title">"転送は完了していません、今すぐキャンセルしますか？"</string>
+  <string name="cancel_receive_confirm">"キャンセル"</string>
   <string name="cancel_receive_stop">Keep receiving</string>
   <string name="cancel_stop">Keep sending</string>
   <string name="file_not_support">"This file type isn't supported"</string>
@@ -29,7 +29,7 @@
   <string name="help">"ヘルプ"</string>
   <string name="i_know">Got it</string>
   <string name="intro_midrop">Mi Drop</string>
-  <string name="intro_page1_text1">Share files with nearby devices</string>
+  <string name="intro_page1_text1">"近くのデバイスとファイルを共有"</string>
   <string name="intro_page1_text2">"Now it's easier than ever"</string>
   <string name="intro_page2_choose_files">Choose files and tap \"Send\"</string>
   <string name="intro_page2_click_to_send">Tap \"Send\"</string>
@@ -37,7 +37,7 @@
   <string name="intro_page3_choose_midrop2">Files are sent instantly!</string>
   <string name="newText">New Text</string>
   <string name="notif_receive_cancel">%1$s files not transferred</string>
-  <string name="notif_receive_lockscreen">Tap to view details</string>
+  <string name="notif_receive_lockscreen">"詳細を表示するにはタップ"</string>
   <string name="notif_receive_progress">Receiving %1$s files…</string>
   <string name="notif_receive_success">Received files from %1$s</string>
   <string name="notif_send_cancel">Transfer to %1$s interrupted</string>
@@ -82,7 +82,7 @@
   <string name="sender_in_progress_later">Try again later</string>
   <string name="sender_in_progress_now">"キャンセル"</string>
   <string name="sender_in_progress_title">"転送をキャンセルしますか？"</string>
-  <string name="sender_interrupt_summary">"Don't turn off WLAN when files are sending"</string>
+  <string name="sender_interrupt_summary">"ファイルの転送中はWi-Fiをオフにしないでください"</string>
   <string name="sender_interupt">Transfer interrupted</string>
   <string name="sender_reject">"同意しない"</string>
   <string name="sender_reject_kick_off">"後でやり直してください"</string>

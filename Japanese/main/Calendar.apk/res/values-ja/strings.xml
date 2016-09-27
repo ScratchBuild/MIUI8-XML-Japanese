@@ -170,8 +170,8 @@
   <string name="event_action_edit">"編集"</string>
   <string name="event_all_day_label">"終日"</string>
   <string name="event_create">"予定を作成"</string>
-  <string name="event_created_fail_text">创建赛事提醒失败</string>
-  <string name="event_created_text">已创建赛事提醒</string>
+  <string name="event_created_fail_text">"リマインダーの作成に失敗しました"</string>
+  <string name="event_created_text">"予定のリマインダーを作成"</string>
   <string name="event_date_format">MM/dd</string>
   <string name="event_delete">"予定を削除"</string>
   <string name="event_edit">"予定を編集"</string>
@@ -191,7 +191,7 @@
   <string name="event_info_where">"どこ\u0009"</string>
   <string name="event_lunar_month">月</string>
   <string name="event_show_more">"その他のオプション"</string>
-  <string name="event_title">Title</string>
+  <string name="event_title">"タイトル"</string>
   <string name="event_view">"予定を表示"</string>
   <string name="every_weekday">"平日（月～金）"</string>
   <string name="every_year_month_of_day">%1$s%2$s日</string>
@@ -402,11 +402,11 @@
   <string name="show_older_events">"タップして%1$sより前の予定を表示"</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
   <string name="str_dayofmonth">%s号</string>
-  <string name="str_everyday">每天</string>
-  <string name="str_everymonth">每月%s</string>
-  <string name="str_everyweek">每周%s</string>
-  <string name="str_everyyear">每年%s</string>
-  <string name="str_from_mon_to_fri">周一至周五</string>
+  <string name="str_everyday">"毎日"</string>
+  <string name="str_everymonth">"毎月%s"</string>
+  <string name="str_everyweek">"毎週%s"</string>
+  <string name="str_everyyear">"毎年%s"</string>
+  <string name="str_from_mon_to_fri">"月曜から金曜"</string>
   <string name="str_hour_of_everyday">每天%s</string>
   <string name="str_hour_of_next">下一次%s</string>
   <string name="subscribe_card">立即订阅</string>
@@ -478,7 +478,7 @@
   <string name="unsubscribe_card">退订</string>
   <string name="unsubscribe_card_success">退订“%1$s”成功</string>
   <string name="unsubscribing_card">退订中</string>
-  <string name="user_notice_button_exit">Exit</string>
+  <string name="user_notice_button_exit">"終了"</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">"二度と表示しない"</string>
   <string name="user_notice_message">"By using this product, you agree to Xiaomi's %1$s and %2$s. Some features require internet connection, access to location, contacts and SMS to work normally."</string>
@@ -488,7 +488,7 @@
   <string name="view_event_calendar_label">"カレンダー:"</string>
   <string name="view_event_organizer_label">"主催者:"</string>
   <string name="view_event_response_label">"参加しますか？"</string>
-  <string name="week_view_today_toast">"You're currently viewing this week"</string>
+  <string name="week_view_today_toast">"既に今週を表示しています"</string>
   <string name="weekly">"毎週 %s"</string>
   <string name="when_label">"日時"</string>
   <string name="widget_events">"次の予定"</string>

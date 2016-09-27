@@ -134,12 +134,12 @@
   <string name="preparing_sd">内部ストレージの準備中…</string>
   <string name="previous">戻る</string>
   <string name="qr_code_details">QRコードの詳細:</string>
-  <string name="recognition_error_download_cancel">Later</string>
+  <string name="recognition_error_download_cancel">後で</string>
   <string name="recognition_error_download_data_msg">Download recognition engine to scan cards. Its size is about 15MB. Use mobile data to download?</string>
   <string name="recognition_error_download_fail">"Couldn't download recognition engine"</string>
   <string name="recognition_error_download_msg">Download recognition engine to scan cards. Its size is about 15MB.</string>
   <string name="recognition_error_download_no_network">"Couldn't download. Make sure you're connected to the network."</string>
-  <string name="recognition_error_download_ok">Download</string>
+  <string name="recognition_error_download_ok">ダウンロード</string>
   <string name="recognition_error_download_success">Downloaded successfully</string>
   <string name="recognition_error_download_title">Recognition engine is required</string>
   <string name="recognition_error_downloading">Downloading recognition engine…</string>
@@ -173,9 +173,9 @@
   <string name="translation_prompt_cannot_find">"Couldn't find this word or phrase"</string>
   <string name="translation_prompt_maintain_level">Keep the text parallel to this line</string>
   <string name="translation_prompt_recapture">Photo is too blurry, take another one</string>
-  <string name="translation_prompt_sentence">Select text to translate</string>
-  <string name="translation_prompt_translating">Translating…</string>
-  <string name="translation_prompt_translating_sentence">Translating…</string>
+  <string name="translation_prompt_sentence">翻訳するテキストを選択</string>
+  <string name="translation_prompt_translating">翻訳中…</string>
+  <string name="translation_prompt_translating_sentence">翻訳中…</string>
   <string name="translation_prompt_translating_word">Recognizing…</string>
   <string name="translation_prompt_word">Put the word inside the frame</string>
   <string name="translation_see_more">View definition</string>
