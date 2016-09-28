@@ -179,7 +179,7 @@
   <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
   <string name="call_advanced_setting_title">"詳細設定"</string>
   <string name="call_background_default">Default</string>
-  <string name="call_background_lock_wallpaper">Lock screen wallpaper</string>
+  <string name="call_background_lock_wallpaper">ロック画面の壁紙</string>
   <string name="call_background_setting">Call background</string>
   <string name="call_barring">発着信制限</string>
   <string name="call_barring_incoming">通話着信制限</string>
@@ -479,7 +479,7 @@
   <string name="enhanced_4g_lte_mode_summary">"LTEサービスを使用して音声などの通信を改善する（推奨）</string>
   <string name="enhanced_4g_lte_mode_title">4G LTE拡張モード</string>
   <string name="ensure_info">はい</string>
-  <string name="enterName">Name</string>
+  <string name="enterName">名前</string>
   <string name="enterNumber">電話番号</string>
   <string name="enter_callbarring_password">発着信制限パスワード(4桁)を入力</string>
   <string name="enter_input" formatted="false">USSDメッセージは%dから%d文字の間でなければなりません。もう一度やり直してください。</string>
@@ -559,9 +559,9 @@
   <string name="incall_error_missing_voicemail_number">ボイスメールの番号が不明です。</string>
   <string name="incall_error_no_phone_number_supplied">発信するには、有効な番号を入力してください。</string>
   <string name="incall_error_out_of_service">モバイルネットワークが利用できません。</string>
-  <string name="incall_error_out_of_service_wfc">Mobile network is not available. Connect to a wireless network to make a call.</string>
+  <string name="incall_error_out_of_service_wfc">モバイルネットワークが利用できません。電話をかけるためワイヤレスネットワークに接続します。</string>
   <string name="incall_error_power_off">機内モードをOFFにしてから発信してください。</string>
-  <string name="incall_error_power_off_wfc">Turn off airplane mode or connect to a wireless network to make a call.</string>
+  <string name="incall_error_power_off_wfc">機内モードをOFFにするか、電話をかけるためワイヤレスネットワークに接続します。</string>
   <string name="incall_error_supp_service_conference">グループ通話できません。</string>
   <string name="incall_error_supp_service_hangup">通話を解放できません。</string>
   <string name="incall_error_supp_service_reject">着信を拒否できません。</string>
@@ -569,7 +569,7 @@
   <string name="incall_error_supp_service_switch">通話を切り替えられません。</string>
   <string name="incall_error_supp_service_transfer">転送できません。</string>
   <string name="incall_error_supp_service_unknown">サービスはサポートされていません。</string>
-  <string name="incall_error_wfc_only_no_wireless_network">Connect to a wireless network to make a call.</string>
+  <string name="incall_error_wfc_only_no_wireless_network">電話をかけるためワイヤレスネットワークに接続します。</string>
   <string name="incall_status_dialed_mmi">MMIシーケンスを開始中...</string>
   <string name="input_password">パスワードを入力してください</string>
   <string name="international_calls">国際通話のみ</string>

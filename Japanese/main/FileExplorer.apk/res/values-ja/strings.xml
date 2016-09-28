@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_login_title">Account</string>
+  <string name="account_login_title">"アカウント"</string>
   <string name="action_mode_deselect_all">"すべて選択を解除"</string>
   <string name="action_mode_select_all">"すべて選択"</string>
   <string name="activity_parse_video_title">"動画のリンクを貼り付け"</string>
@@ -97,7 +97,7 @@
   <string name="copy_failed">"コピーできませんでした"</string>
   <string name="copy_text">"テキストをコピー"</string>
   <string name="copy_to">Copy to…</string>
-  <string name="data_consumption_cancel">Exit</string>
+  <string name="data_consumption_cancel">"終了"</string>
   <string name="data_consumption_checkbox_hint">"二度と表示しない"</string>
   <string name="data_consumption_confirm">OK</string>
   <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
@@ -191,7 +191,7 @@
   <string name="ftp_open_port_error">"Couldn't open port. Check your network connection or reset port number."</string>
   <string name="ftp_password_hint">"パスワード"</string>
   <string name="ftp_port_number">"ポート番号"</string>
-  <string name="ftp_transfer_secure">Security</string>
+  <string name="ftp_transfer_secure">"セキュリティ"</string>
   <string name="ftp_username_and_passworld">"ログイン"</string>
   <string name="ftp_username_hint">"ユーザー名"</string>
   <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
@@ -491,8 +491,8 @@
   <string name="setting_message_notify">Notifications</string>
   <string name="share_title_1">Found a cool sticker bundle!</string>
   <string name="share_to">Share to…</string>
-  <string name="shared_sticker_network_permission_tip">"Couldn't connect to the network. Check your network connection and try again."</string>
-  <string name="shared_sticker_page_no_file">"Couldn't connect to the network. Check your network connection and try again."</string>
+  <string name="shared_sticker_network_permission_tip">"ネットワークに接続できませんでした。ネットワーク接続を確認して、もう一度やり直してください。"</string>
+  <string name="shared_sticker_page_no_file">"ネットワークに接続できませんでした。ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="shared_sticker_str">Recent</string>
   <string name="shared_sticker_suffix">Sticker at %s</string>
   <string name="shared_sticker_use_tip">"You can send the stickers you saved from chats just like you send images.

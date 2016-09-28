@@ -7,7 +7,7 @@
   <string name="abc_action_menu_overflow_description">"その他のオプション"</string>
   <string name="abc_action_mode_done">"完了"</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_activitychooserview_choose_application">"アプリを選択"</string>
   <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
   <string name="abc_search_hint">"検索…"</string>
@@ -524,7 +524,7 @@ Then answer the question"</string>
   <string name="my_room_underline">My room</string>
   <string name="my_setting">Settings</string>
   <string name="network_diagnosis">Test network</string>
-  <string name="network_no_connection">"Can't connect to the network. Check your network connection and try again."</string>
+  <string name="network_no_connection">"ネットワークに接続できません。ネットワーク接続を確認してもう一度やり直してください。"</string>
   <string name="network_ok">No problems detected</string>
   <string name="network_unstable">· You have a stable connection</string>
   <string name="next_remote">Next remote</string>

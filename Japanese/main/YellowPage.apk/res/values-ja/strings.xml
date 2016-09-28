@@ -58,7 +58,7 @@
   <string name="didi_back">戻る</string>
   <string name="didi_close">閉じる</string>
   <string name="do_not_remind_me">次回から表示しない</string>
-  <string name="dont_enable">Turn off</string>
+  <string name="dont_enable">オフにする</string>
   <string name="download_completed">Download saved to %s</string>
   <string name="download_failed">ダウンロードに失敗しました</string>
   <string name="download_failed_blocked">ネットワークに接続できません</string>
@@ -70,7 +70,7 @@
   <string name="download_failed_space">十分な空き領域がありません</string>
   <string name="download_failed_storage">ダウンロードに失敗しました。SDカードを確認してください。</string>
   <string name="downloading">ダウンロード中…</string>
-  <string name="enable_now">Turn on</string>
+  <string name="enable_now">オンにする</string>
   <string name="exapress_save_address_to_contact">Save address in contact</string>
   <string name="express_add_new_address">Add address</string>
   <string name="express_address_delete_warning">Delete this address?</string>
@@ -328,7 +328,7 @@
   <string name="packages_wait_for_op_reply">Wait for a confirmation message from your carrier</string>
   <string name="payment_back">戻る</string>
   <string name="payment_failed_common_problems">Error occurred during payment</string>
-  <string name="payment_unknown_status_summary">Check your network connection and try again.</string>
+  <string name="payment_unknown_status_summary">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
   <string name="phone_event_setting_notice_text">"By using this feature you're agreeing to our %1$s and %2$s."</string>
   <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>

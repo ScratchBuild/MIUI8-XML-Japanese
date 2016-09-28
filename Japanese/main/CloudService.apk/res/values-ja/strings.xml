@@ -74,14 +74,14 @@ Last backed up on %2$s"</string>
   <string name="find_device">Find device</string>
   <string name="find_device_disabled_notice">"You can turn this feature on or off anytime in Mi Cloud's Settings."</string>
   <string name="find_device_disabled_title">Find device is off</string>
-  <string name="find_device_disabling">Turning off…</string>
+  <string name="find_device_disabling">オフにしています…</string>
   <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
   <string name="find_device_dspt_provision">If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on or off anytime in Settings.</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. You can turn this feature on or off anytime in Settings.</string>
   <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
-  <string name="find_device_enabling">Turning on…</string>
+  <string name="find_device_enabling">オンにしています…</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
   <string name="find_device_error_password_changed">Account password has been recently changed.</string>
   <string name="find_device_error_server">サーバーエラー</string>
@@ -107,7 +107,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="google_cloud_price">About RMB 143 per year</string>
   <string name="header_cloud_backup_settings">Back up and restore</string>
   <string name="header_cloud_restore_summary">Reinstall apps and restore Home screen layout and system settings from a backup in Mi Cloud</string>
-  <string name="header_data_and_synchronization">Data &amp; sync</string>
+  <string name="header_data_and_synchronization">データと同期</string>
   <string name="header_find_device_settings">Find device</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">パスワードを入力</string>
@@ -115,7 +115,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="license_host_unreachable">"ネットワークに接続できません。To view this information now, go to %s."</string>
   <string name="loading">読み込み中…</string>
   <string name="loading_hint">読み込み中</string>
-  <string name="master_alert_notif_content">"Can't sync"</string>
+  <string name="master_alert_notif_content">"同期できません"</string>
   <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Turn on sync with Mi Cloud</string>
@@ -143,7 +143,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_alert_negative">Later</string>
   <string name="micloud_confusion_alert_positive">Details</string>
   <string name="micloud_confusion_alert_title">Another device is modifying your account</string>
-  <string name="micloud_confusion_cancel">Cancel</string>
+  <string name="micloud_confusion_cancel">キャンセル</string>
   <string name="micloud_confusion_check_account_title">Sign in to your Mi Account to reactivate Mi Cloud.</string>
   <string name="micloud_confusion_entrance_hint">"Don't sign in to your Mi Account on public devices"</string>
   <string name="micloud_confusion_entrance_notify_text">Touch to view details.</string>
@@ -153,7 +153,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_finish_hint">"Changes you make on this device will be synced to all your devices. To protect your account, we recommend that you turn off syncing for other devices when you're not using them."</string>
   <string name="micloud_confusion_finish_message">Turn off syncing for other devices.</string>
   <string name="micloud_confusion_finish_title">Account verified</string>
-  <string name="micloud_confusion_no">No</string>
+  <string name="micloud_confusion_no">いいえ</string>
   <string name="micloud_confusion_ok">OK</string>
   <string name="micloud_confusion_setting_notify_text">Turn off syncing for other devices associated with your account.</string>
   <string name="micloud_confusion_setting_notify_title">Protect your account</string>
@@ -162,13 +162,13 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_setting_title">Too many devices</string>
   <string name="micloud_confusion_toast_confirm">Device confirmed</string>
   <string name="micloud_confusion_toast_deny">Sign in to your Mi Account</string>
-  <string name="micloud_confusion_yes">Yes</string>
+  <string name="micloud_confusion_yes">はい</string>
   <string name="micloud_detail_battery_low_message">Battery is low. Please charge your phone and sync.</string>
   <string name="micloud_detail_battery_low_title">Battery is low</string>
   <string name="micloud_detail_depend_wifi_message">Please connect to WLAN or check the sync settings.</string>
   <string name="micloud_detail_depend_wifi_title">Need WLAN</string>
   <string name="micloud_detail_do_not_sync">"Don't sync"</string>
-  <string name="micloud_detail_download_syncing">Downloading %s</string>
+  <string name="micloud_detail_download_syncing">ダウンロード中 %s</string>
   <string name="micloud_detail_fail">"Can't sync"</string>
   <string name="micloud_detail_force_sync">今すぐ同期</string>
   <string name="micloud_detail_lastest">Synced</string>
@@ -176,7 +176,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
   <string name="micloud_detail_not_synced">Not synced</string>
   <string name="micloud_detail_ok">OK</string>
-  <string name="micloud_detail_pending">Waiting</string>
+  <string name="micloud_detail_pending">待機中</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
   <string name="micloud_detail_query_error">"Couldn't get info about sync progress"</string>
   <string name="micloud_detail_query_error_detail">"Can't confirm if sync is complete for some services. You can contact the developers using the Feedback app."</string>
@@ -190,12 +190,12 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_wlan_mms">%d MMS waiting to sync</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
-  <string name="micloud_find_device_finish">Done</string>
+  <string name="micloud_find_device_finish">完了</string>
   <string name="micloud_find_device_guide_button">Turn on Find device</string>
   <string name="micloud_find_device_guide_content">"When you switch your SIM card, a message will be sent automatically
 to reactivate this feature."</string>
   <string name="micloud_find_device_guide_fail_reopen">Turn on Find device in Mi Cloud</string>
-  <string name="micloud_find_device_guide_fail_sub_net">Check your network connection and try again.</string>
+  <string name="micloud_find_device_guide_fail_sub_net">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Connection timed out. Try again later.</string>
   <string name="micloud_find_device_guide_micloud">Turn on Sync with Mi Cloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sync contacts, photos, notes, and more with Mi Cloud</string>
@@ -244,7 +244,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_not_sync">%d items waiting to sync</string>
   <string name="micloud_main_query_error_message">"Can't confirm if sync is complete for some services"</string>
   <string name="micloud_main_query_error_title">"Couldn't get info about sync progress"</string>
-  <string name="micloud_main_set_internet">Network</string>
+  <string name="micloud_main_set_internet">ネットワーク</string>
   <string name="micloud_main_space_full">Cloud storage is full</string>
   <string name="micloud_main_space_full_title">Cloud storage is full</string>
   <string name="micloud_main_space_low">Almost out of space</string>
@@ -282,8 +282,8 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_member_pay_fail_toast">"Couldn't complete payment"</string>
   <string name="micloud_member_pay_miid_error_toast">Account error</string>
   <string name="micloud_member_pay_order_error_toast">Data error</string>
-  <string name="micloud_member_refresh_button">Refresh</string>
-  <string name="micloud_member_webload_fail_error_message">Network error</string>
+  <string name="micloud_member_refresh_button">更新</string>
+  <string name="micloud_member_webload_fail_error_message">ネットワークエラー</string>
   <string name="micloud_member_webload_fail_toast_4xx">"Couldn't load page"</string>
   <string name="micloud_member_webload_fail_toast_5xx">サーバーエラー</string>
   <string name="micloud_more">Learn more</string>
@@ -291,7 +291,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_notif_content_clipboard_push">You can paste it anywhere.</string>
   <string name="micloud_notif_content_depend_wifi">Connect to WLAN to sync.</string>
   <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
-  <string name="micloud_notif_content_memory_low">Not enough storage space.</string>
+  <string name="micloud_notif_content_memory_low">十分な空き領域がありません。</string>
   <string name="micloud_notif_content_multi_user_error">You signed in with the same account as in First space.</string>
   <string name="micloud_notif_content_sync_finish">Account</string>
   <string name="micloud_notif_content_sync_not_finish">Detail</string>

@@ -288,7 +288,7 @@ across all your devices with Xunlei"</string>
   <string name="search_hotwords_switch">Switch</string>
   <string name="search_input_empty_toast">Search or enter URL</string>
   <string name="search_input_hint">Search or enter URL</string>
-  <string name="search_nonetwork_prompt">Check your network connection and try again</string>
+  <string name="search_nonetwork_prompt">"ネットワーク接続を確認して、もう一度やり直してください"</string>
   <string name="search_nonetwork_refresh">Refresh</string>
   <string name="search_recommend_empty">No items</string>
   <string name="search_vif_empty">No recommended items</string>
@@ -318,7 +318,7 @@ across all your devices with Xunlei"</string>
   <string name="sniff_download_task_create_success">Download added</string>
   <string name="sniff_finding_resource_prompt">Searching web…</string>
   <string name="sniff_hot_text">Related</string>
-  <string name="sniff_no_network_tip">Check your network connection and try again</string>
+  <string name="sniff_no_network_tip">"ネットワーク接続を確認して、もう一度やり直してください"</string>
   <string name="sniff_no_result_text">No results found</string>
   <string name="sniff_result_empty_prompt">Web search results</string>
   <string name="sniff_result_num_prefix">Found</string>
