@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agree">Agree</string>
+  <string name="agree_terms">"I've read and agree to the Terms of Service and Privacy Policy."</string>
+  <string name="app_name">Provision</string>
+  <string name="back">Back</string>
+  <string name="congratulation_label">"You're ready to rock!​"</string>
+  <string name="congratulation_title">Setup complete</string>
+  <string name="content_description_complete">"完了"</string>
+  <string name="content_description_language_picker">Select language</string>
+  <string name="content_description_miui_version">MIUI 8</string>
+  <string name="content_description_start">"開始"</string>
+  <string name="desc_extra_fingerprint"/>
+  <string name="desc_extra_international_fingerprint"/>
+  <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>
+  <string name="desc_international_fingerprint">Use your fingerprint to unlock your device, or to sign in to apps and services.</string>
+  <string name="disagree">"キャンセル"</string>
+  <string name="ime_privacy_policy">Privacy Policy for selected keyboard</string>
+  <string name="ime_privacy_policy_no_network">No network connection. View the Privacy Policy for this keyboard at %s.</string>
+  <string name="input_method_category">"Choose the default keyboard that you'll use for writing messages, notes, and just about everything else. Note that you can install other third-party keyboards later."</string>
+  <string name="input_method_setting">"キーボードを選択"</string>
+  <string name="install_preinstall_app">"アプリを読み込み中…"</string>
+  <string name="locale_picker_title">Choose your region</string>
+  <string name="miui_privacy_policy_no_network">"You don't have an internet connection. View the Privacy Policy at %s."</string>
+  <string name="miui_terms_no_network">"You don't have an internet connection. View the Terms of Service at %s."</string>
+  <string name="multisim_settings_category">SIM card settings</string>
+  <string name="multisim_settings_title">2 SIM cards detected</string>
+  <string name="next">Next</string>
+  <string name="next_fingerprint">Next</string>
+  <string name="other_settings">Additional settings</string>
+  <string name="other_settings_auto_update">Update automatically</string>
+  <string name="other_settings_auto_update_summary">MIUI will select the most suitable time to download and install updates.</string>
+  <string name="other_settings_location">Location</string>
+  <string name="other_settings_location_summary">Allow apps to access your location</string>
+  <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
+  <string name="other_settings_mifg_online_content_summary">Connect to internet to get new wallpapers for your lock screen regularly.</string>
+  <string name="other_settings_upload_debug_log_summary">Diagnostic data may include the info about your usage of hardware, operating system, and apps. The data will be used to locate and analyze the problems in the system and will never be used to identify you personally.</string>
+  <string name="other_settings_upload_debug_log_title">Send diagnostic data automatically</string>
+  <string name="other_settings_user_experience">User Experience Program</string>
+  <string name="other_settings_user_experience_summary">Help improve MIUI by sending anonymous usage data (%s)</string>
+  <string name="other_settings_user_experience_summary1">view Privacy Policy</string>
+  <string name="pref_title_data_slot">Preferred data SIM card</string>
+  <string name="pref_title_voice_slot">Preferred voice SIM card</string>
+  <string name="privacy_policy">"プライバシーポリシー"</string>
+  <string name="provision_inputmethod_policy_description">"
+View the selected keyboard's Privacy Policy."</string>
+  <string name="provision_inputmethod_policy_description1">"プライバシーポリシー"</string>
+  <string name="setting_locale">Setting region…</string>
+  <string name="shut_down">Shut down</string>
+  <string name="sim_card_detecting">Checking for SIM card…</string>
+  <string name="sim_card_detecting_title">Check for SIM card</string>
+  <string name="sim_card_detection">Insert SIM card</string>
+  <string name="sim_card_detection_info">To insert your SIM card, read the instructions that came with your device.</string>
+  <string name="sim_dectection_next">Continue</string>
+  <string name="sim_redetection">Check again</string>
+  <string name="skip_underline">Skip this step</string>
+  <string name="summary_not_set">Not set</string>
+  <string name="terms_of_use">Terms and Conditions</string>
+  <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
+
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. You need to connect to the internet to activate Mi services, Find device and Mi Home."</string>
+  <string name="title_fingerprint">Add your fingerprint</string>
+  <string name="user_agreement">"利用規約"</string>
+  <string name="welcome">"ようこそ"</string>
+</resources>
