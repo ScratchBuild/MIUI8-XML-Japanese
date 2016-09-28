@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Security service plugin</string>
+  <string name="app_not_installed_toast">"アプリはお使いのデバイスにインストールされていません。"</string>
+  <string name="cancel_button">"キャンセル"</string>
+  <string name="empty">" "</string>
+  <string name="main_toolbar_purchase">Top up</string>
+  <string name="miuishare_title_more">"もっと"</string>
+  <string name="miuishare_title_share">"共有"</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+  <string name="miuishare_weibo_title">Weibo</string>
+  <string name="month_report_activity_label">"月次レポート"</string>
+  <string name="month_report_click_reconnect_network">"再試行"</string>
+  <string name="month_report_disconnect_tip">"ネットワークに接続できません"</string>
+  <string name="month_report_follow_service_negative">"結構です"</string>
+  <string name="month_report_follow_service_positive">"購読する"</string>
+  <string name="month_report_follow_service_summary">"MIUIセキュリティアプリの公式アカウントをフォローすることで、セキュリティに関するニュースや情報をお届けします。"</string>
+  <string name="month_report_follow_service_title">"セキュリティアップデート"</string>
+  <string name="month_report_history_activity_label">"レポート履歴"</string>
+  <string name="month_report_network_dialog_description">"このアプリにレポート情報を取得するためのインターネット接続を許可しますか？"</string>
+  <string name="month_report_network_dialog_positive">"許可する"</string>
+  <string name="month_report_network_dialog_title">"レポート情報を取得できません"</string>
+  <string name="month_report_result_share">"共有"</string>
+  <string name="month_report_share_img_fail">"共有できませんでした"</string>
+  <string name="month_report_share_loading">"読み込み中…"</string>
+  <string name="month_report_warning_dialog_description">"月次レポートを表示するには、セキュリティアプリの設定でこの機能をオンにしてください。"</string>
+  <string name="month_report_warning_dialog_positive">"オンにする"</string>
+  <string name="month_report_warning_dialog_title">"月次セキュリティレポート"</string>
+  <string name="network_not_available">"ネットワークに接続できません"</string>
+  <string name="no_network_btn">"再試行"</string>
+  <string name="ok_button">OK</string>
+  <string name="open_browser">"ブラウザで開く"</string>
+  <string name="pc_activity_title">"バッテリーを最適化"</string>
+  <string name="pm_lable_name">"rootアクセスについて"</string>
+  <string name="privacy_declare_dialog_title">"利用規約"</string>
+  <string name="privacy_prompt_traffic_purchase_message">"あなたの電話番号とキャリアに関する情報は、暗号化された状態でデータ購入オプションの詳細を取得するためにXiaomiのサーバーにアップロードされます。"</string>
+  <string name="share">"共有"</string>
+  <string name="title_share_link">"URLを共有"</string>
+  <string name="usage_sorted_loading_text">"読み込み中…"</string>
+</resources>
