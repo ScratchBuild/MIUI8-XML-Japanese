@@ -41,7 +41,7 @@
   <string name="notif_receive_progress">Receiving %1$s files…</string>
   <string name="notif_receive_success">Received files from %1$s</string>
   <string name="notif_send_cancel">Transfer to %1$s interrupted</string>
-  <string name="notif_send_cancel_multi">Transfer to %1$s+%2$ interrupted</string>
+  <string name="notif_send_cancel_multi">Transfer to %1$s+%2$d was interrupted</string>
   <string name="notif_send_progress">Sending to %1$s…</string>
   <string name="notif_send_success">Sent to %1$s</string>
   <string name="notif_send_success_multi">Sent to %1$d people</string>

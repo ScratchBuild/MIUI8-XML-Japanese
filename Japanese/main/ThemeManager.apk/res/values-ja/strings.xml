@@ -39,8 +39,8 @@
   <string name="description_version">"バージョン"</string>
   <string name="description_version_szie">"バージョン: %1$s サイズ: %2$s"</string>
   <string name="desktop_wallpaper">Home screen</string>
-  <string name="dev_options">DEV OPTIONS</string>
-  <string name="dev_options_summary">Web Resource</string>
+  <string name="dev_options">Developer options</string>
+  <string name="dev_options_summary">Web resources</string>
   <string name="download_failed">"ダウンロードに失敗"</string>
   <string name="download_preview_failed">"プレビューを読み込めません"</string>
   <string name="download_success">"ダウンロードが完了しました"</string>
@@ -109,7 +109,8 @@
   <string name="provision_second_title">Select one of the five default themes</string>
   <string name="provision_title">"テーマを選択"</string>
   <string name="purchased_list">"購入済み"</string>
-  <string name="purchased_list_format">%1$s purchased</string>
+  <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_legacy">Legacy themes</string>
   <string name="reload">"再試行"</string>
   <string name="resource_account_abnormal_state">Account error. Wait a minute or two and try again.</string>
   <string name="resource_account_fail_to_add">"アカウントが追加できません"</string>
@@ -240,8 +241,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">"無料"</string>
   <string name="resource_price_unit"> Mi Credits</string>
+  <string name="resource_purchase_common_error">Operation Failed.please try again.</string>
+  <string name="resource_purchase_continue_to_pay">Continue to pay %s</string>
   <string name="resource_purchase_getting_order">"注文情報を取得中…"</string>
   <string name="resource_purchase_verifying_payment">"支払情報を検証中…"</string>
+  <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
   <string name="resource_purchase_waiting_payment">"支払情報を待機中…"</string>
   <string name="resource_ranking">Popular</string>
   <string name="resource_ranking_free">"無料"</string>
@@ -329,7 +333,7 @@
   <string name="theme_component_title_boot_audio">Boot audio</string>
   <string name="theme_component_title_clock">Clock</string>
   <string name="theme_component_title_contact">Dial pad</string>
-  <string name="theme_component_title_font">Font</string>
+  <string name="theme_component_title_font">Fonts</string>
   <string name="theme_component_title_framework">Borders</string>
   <string name="theme_component_title_icon">Icons</string>
   <string name="theme_component_title_launcher">Favorites tray</string>

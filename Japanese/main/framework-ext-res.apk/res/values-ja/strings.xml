@@ -120,7 +120,7 @@
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">"キャスト"</string>
   <string name="status_bar_toggle_data">"モバイルデータ"</string>
-  <string name="status_bar_toggle_edit">"編集"</string>
+  <string name="status_bar_toggle_edit">More</string>
   <string name="status_bar_toggle_flight_mode">"機内モード"</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">"ロック"</string>
