@@ -159,8 +159,8 @@
   <string name="dialog_title_load_cleanup_engine_error">Something went wrong</string>
   <string name="dialog_title_stop_scan">Stop scanning</string>
   <string name="dialog_title_uninstall_apps">Uninstall</string>
-  <string name="download">Download</string>
-  <string name="downloading">Downloading</string>
+  <string name="download">"ダウンロード"</string>
+  <string name="downloading">"ダウンロード中"</string>
   <string name="empty">" "</string>
   <string name="empty_content_no_ignore_image">Empty</string>
   <string name="empty_content_no_privacy">Empty</string>
@@ -345,7 +345,7 @@
   <string name="privacy_cache_empty">No private data</string>
   <string name="privacy_cache_scaning">Checking…</string>
   <string name="privacy_cache_title">Personal info</string>
-  <string name="privacy_clipboard_desc">Clipboard contents</string>
+  <string name="privacy_clipboard_desc">"クリップボードの内容"</string>
   <string name="privacy_clipboard_type">"クリップボード"</string>
   <string name="privacy_search_desc">"検索履歴"</string>
   <string name="privacy_search_type">"Google検索"</string>
@@ -394,7 +394,7 @@
   <string name="tips_of_virus_scan">Scan your device for viruses regularly to keep it secure</string>
   <string name="title_auto_cleaner">Clean automatically?</string>
   <string name="title_delete_cache">Clear app cache</string>
-  <string name="title_delete_clipboard">Clipboard contents</string>
+  <string name="title_delete_clipboard">"クリップボードの内容"</string>
   <string name="title_delete_deepclean">Delete</string>
   <string name="title_delete_large_file">Delete big files</string>
   <string name="title_of_app_manage">Apps</string>

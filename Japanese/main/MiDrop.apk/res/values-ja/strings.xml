@@ -83,13 +83,13 @@
   <string name="sender_in_progress_now">"キャンセル"</string>
   <string name="sender_in_progress_title">"転送をキャンセルしますか？"</string>
   <string name="sender_interrupt_summary">"ファイルの転送中はWi-Fiをオフにしないでください"</string>
-  <string name="sender_interupt">Transfer interrupted</string>
+  <string name="sender_interupt">"転送が中断されました"</string>
   <string name="sender_reject">"同意しない"</string>
   <string name="sender_reject_kick_off">"後でやり直してください"</string>
   <string name="sender_return">"戻る"</string>
   <string name="sender_scan_error">"Couldn't scan, send again"</string>
   <string name="sender_select_device">"端末を選択"</string>
-  <string name="sender_transfer_interrupt">"Transfer interrupted, don't turn off WLAN during transfer"</string>
+  <string name="sender_transfer_interrupt">"転送が中断されました、転送中にWi-Fiをオフにしないでください"</string>
   <string name="sender_wait">"待機中"</string>
   <string name="sender_wait_queue">"待機中"</string>
   <string name="title_activity_bonjour">BonjourActivity</string>
@@ -99,7 +99,7 @@
   <string name="title_activity_p2p_group_owner">P2pGroupOwnerActivity</string>
   <string name="title_activity_p2p_legacy_station">P2pLegacyStationActivity</string>
   <string name="title_activity_reception">ReceptionActivity</string>
-  <string name="transfer_interrupt">Transfer interrupted</string>
+  <string name="transfer_interrupt">"転送が中断されました"</string>
   <string name="transmission_click_send">send</string>
   <string name="transmission_connect">"Couldn't find recipient​"</string>
 </resources>

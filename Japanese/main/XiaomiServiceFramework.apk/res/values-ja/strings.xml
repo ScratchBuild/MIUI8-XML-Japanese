@@ -57,7 +57,7 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_popup_desc_new_sim_card">"Looks like you've switched SIM cards. Regular SMS will be sent to activate %s. You will be charged by the carrier."</string>
   <string name="activate_popup_desc_new_sim_card_downlink">"Looks like you've switched SIM cards. Enter current phone number to activate %s."</string>
   <string name="activate_popup_desc_register_account">Your carrier may charge for an SMS message used to create your Mi Account.</string>
-  <string name="activate_popup_desc_register_account_downlink">Enter your phone number</string>
+  <string name="activate_popup_desc_register_account_downlink">電話番号を入力</string>
   <string name="activate_popup_desc_register_account_intl">Your carrier may charge for an international SMS message used to create your Mi Account.</string>
   <string name="activate_popup_desc_sim_card">Regular SMS will be sent to activate %s. You will be charged by the carrier.</string>
   <string name="activate_popup_desc_sim_card_downlink">Enter current phone number to activate %s.</string>

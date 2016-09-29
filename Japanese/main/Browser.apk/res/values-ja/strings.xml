@@ -19,7 +19,7 @@
   <string name="accessibility_time_picker_second">"秒"</string>
   <string name="account_prifix">"アカウント:"</string>
   <string name="action">"ログイン"</string>
-  <string name="action_menu_account_not_login">Not signed in</string>
+  <string name="action_menu_account_not_login">"ログインしていません"</string>
   <string name="action_menu_account_not_login_hint">Sign in to sync with Mi Cloud</string>
   <string name="action_menu_bookshelf">Bookshelf</string>
   <string name="action_menu_current_version">Current version</string>
@@ -108,10 +108,10 @@
   <string name="bookmark_title">Bookmark name</string>
   <string name="bookmark_title_lable">Title</string>
   <string name="bookmark_url">URL http://</string>
-  <string name="bookmark_url_already_exisit">"You've already bookmarked this URL"</string>
+  <string name="bookmark_url_already_exisit">"このURLは既にブックマーク済みです"</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"このURLは無効です。"</string>
-  <string name="bookmarks_content_is_null">No bookmarks</string>
+  <string name="bookmarks_content_is_null">"ブックマークなし"</string>
   <string name="bookmarks_management">"ブックマーク"</string>
   <string name="bookmarks_root_folder">Root folder</string>
   <string name="bookmarks_search">"ブラウザ"</string>

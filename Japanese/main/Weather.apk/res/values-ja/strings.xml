@@ -154,7 +154,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="sunrise">"日の出"</string>
   <string name="sunset">"日の入"</string>
   <string name="temperature_unit">%1$s°</string>
-  <string name="title_share_link">Share URL</string>
+  <string name="title_share_link">"URLを共有"</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>
   <string name="top_pollution_o3">O3</string>

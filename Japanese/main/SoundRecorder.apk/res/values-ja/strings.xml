@@ -66,7 +66,7 @@
   <string name="preference_silent_mode">Mute ringer when recording</string>
   <string name="preference_tip_rename">Name recordings manually</string>
   <string name="recognition_error_cancel">Canceled</string>
-  <string name="recognition_error_download_cancel">Later</string>
+  <string name="recognition_error_download_cancel">"後で"</string>
   <string name="recognition_error_download_fail">"Couldn't download. Check network settings and try again."</string>
   <string name="recognition_error_download_msg">Download recognition engine to make this service available.</string>
   <string name="recognition_error_download_ok">"ダウンロード"</string>
@@ -121,19 +121,19 @@
   <string name="sound_recorder_settings">"設定"</string>
   <string name="speech_recognition_complete">Complete</string>
   <string name="speech_recognition_running_tip">Running</string>
-  <string name="start">Resume</string>
+  <string name="start">"再開"</string>
   <string name="status_bar_back">Tap to return to Recorder</string>
   <string name="status_bar_recording">Recording…</string>
   <string name="status_bar_recording_pause">Recorder paused</string>
-  <string name="text_btn_complete">Stop</string>
+  <string name="text_btn_complete">"停止"</string>
   <string name="text_btn_list">Recordings</string>
   <string name="text_btn_mark">Mark</string>
   <string name="text_btn_pause">Pause</string>
-  <string name="text_btn_play">Play</string>
+  <string name="text_btn_play">"再生"</string>
   <string name="text_btn_recognize">Recognize</string>
   <string name="text_btn_recording">Record</string>
   <string name="text_btn_wave">Wave</string>
-  <string name="text_finish">Confirm</string>
+  <string name="text_finish">"確認"</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s can record for about %2$s</string>

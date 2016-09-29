@@ -37,7 +37,7 @@
   <string name="check_local_package_wipe_btn">Erase and update</string>
   <string name="check_local_package_wipe_msg">"You're going to revert to MIUI version %s. Your personal data will be erased. Make sure to back up anything you want to keep before you start the process."</string>
   <string name="check_local_package_wipe_title">Erase data</string>
-  <string name="check_new_version">Check</string>
+  <string name="check_new_version">"確認"</string>
   <string name="check_update_policy">"設定"</string>
   <string name="check_update_when_wifi_available">Check using WLAN only</string>
   <string name="check_update_when_wifi_available_sum">"Only check for updates when you're connected to WLAN"</string>
@@ -81,7 +81,7 @@
   <string name="expect">Expectations</string>
   <string name="experimental_build">Alpha</string>
   <string name="finish">OK</string>
-  <string name="fourgrid_hint_text">Thank you for using the developer build of MIUI! Tell us what you think and help make us MIUI better.</string>
+  <string name="fourgrid_hint_text">"MIUIの開発版をご利用頂きありがとうございます！MIUIをより良いものにするためのご意見を教えてください。"</string>
   <string name="fourgrid_no_notificaiont">"ステータスバーに表示しない"</string>
   <string name="fourgrid_notificaiont">"ステータスバーに表示"</string>
   <string name="get_auto">"モバイルネットワークまたはWi-Fiを使用"</string>
@@ -121,7 +121,7 @@
   <string name="no_log">No summary available</string>
   <string name="no_wifi_msg">"Using your mobile data connection to download the update will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="no_wifi_title">Data usage warning</string>
-  <string name="not_open">No</string>
+  <string name="not_open">"いいえ"</string>
   <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>
   <string name="notification_delay_update_button">Update in 2 hours</string>
   <string name="notification_delay_update_cancel">"Don't update tonight"</string>
@@ -150,7 +150,7 @@
   <string name="notification_update_now">Update now</string>
   <string name="notification_updating">Updating…</string>
   <string name="on_checking">Checking…</string>
-  <string name="open_now">Yes</string>
+  <string name="open_now">"はい"</string>
   <string name="particular_build">Particular</string>
   <string name="pause">Pause</string>
   <string name="pm_root_acquired_button">Root access</string>
@@ -219,7 +219,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="toast_delay_update_tonight">Your device will update between 2:00AM and 5:00AM</string>
   <string name="top_secret_build">Top-secret</string>
   <string name="uncrypt_title">Decrypting (%s)</string>
-  <string name="unkown_error_title">"Can't download"</string>
+  <string name="unkown_error_title">"ダウンロードできません"</string>
   <string name="unstable_build">Unstable</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Comment</string>

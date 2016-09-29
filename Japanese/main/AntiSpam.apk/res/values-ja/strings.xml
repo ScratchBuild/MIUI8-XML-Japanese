@@ -49,7 +49,7 @@
   <string name="address">Address</string>
   <string name="address_choose_hint">%1$s, %2$s, and %3$d other locations</string>
   <string name="addwhitelist">Add to exceptions</string>
-  <string name="all_address_choose_hint">All numbers in this province</string>
+  <string name="all_address_choose_hint">"この地域のすべての番号"</string>
   <string name="antispam_notificaiton_type_show_all">All numbers</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Non-blocklist numbers</string>
   <string name="antispam_notificaiton_type_show_none">Never</string>
@@ -174,7 +174,7 @@
   <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d other users marked it as "</string>
   <string name="marked_by_user">"you marked it as "</string>
-  <string name="menu_add">Add</string>
+  <string name="menu_add">"追加"</string>
   <string name="menu_add_into_contact">Add to existing contact</string>
   <string name="menu_add_new_contact">New contact</string>
   <string name="menu_bl_add_contact">Contacts</string>
@@ -188,7 +188,7 @@
   <string name="menu_clear_all_sms">Delete blocked SMS</string>
   <string name="menu_clear_current_call">Clear all calls from this number</string>
   <string name="menu_clear_current_sms">Delete all blocked SMS sent from this number</string>
-  <string name="menu_edit">Edit</string>
+  <string name="menu_edit">"編集"</string>
   <string name="menu_mark">Report number</string>
   <string name="menu_no_block">Unblock</string>
   <string name="menu_remove">"削除"</string>
@@ -302,7 +302,7 @@
   <string name="st_show_num_keyword">" keywords"</string>
   <string name="st_show_num_number">" numbers"</string>
   <string name="st_sms_group">Messages</string>
-  <string name="st_sub_title_customize_mode_name">Name</string>
+  <string name="st_sub_title_customize_mode_name">"名前"</string>
   <string name="st_sub_title_whiteblack_list_group">Blocklist</string>
   <string name="st_sum_call_wait">Your away message will also be played as a busy signal for incoming calls.</string>
   <string name="st_title_adblock_group">Ad blocker</string>
@@ -312,7 +312,7 @@
   <string name="st_title_adress">Add locations</string>
   <string name="st_title_adress_num">%d selected</string>
   <string name="st_title_anticomintcall_backsound_setting">Message played to blocked numbers</string>
-  <string name="st_title_antispam_mode">Rules</string>
+  <string name="st_title_antispam_mode">"ルール"</string>
   <string name="st_title_back_sound_busy">Busy</string>
   <string name="st_title_back_sound_choose">Away message</string>
   <string name="st_title_back_sound_closed">Powered off</string>
@@ -335,8 +335,8 @@
   <string name="st_title_mode_choose_group">Blocklist rules</string>
   <string name="st_title_not_sim">Empty</string>
   <string name="st_title_open_antispam">Blocklist</string>
-  <string name="st_title_other_group">Other</string>
-  <string name="st_title_settings_other_group">Additional settings</string>
+  <string name="st_title_other_group">"その他"</string>
+  <string name="st_title_settings_other_group">"その他の設定"</string>
   <string name="st_title_show_antispamnotification">Blocklist notifications</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
   <string name="st_title_sim_unknown">"不明"</string>
@@ -353,7 +353,7 @@
   <string name="toast_keyword_invalid">"無効なキーワードです"</string>
   <string name="two_address_choose_hint">"%1$s と %2$s"</string>
   <string name="user_define_title">"ルールを追加"</string>
-  <string name="website">Website</string>
+  <string name="website">"ウェブサイト"</string>
   <string name="whitelist_prefix_add_hint">Add all numbers with prefix to exceptions</string>
   <string name="wl_no_whitelist">No exceptions.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
