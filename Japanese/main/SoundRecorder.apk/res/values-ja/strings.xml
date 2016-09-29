@@ -44,6 +44,10 @@
   <string name="low_battery_error_title">Low battery</string>
   <string name="mark_point_list_title">Marks</string>
   <string name="message_file_size_error">Recording has reached the maximum length supported by %s</string>
+  <string name="network_tip_dialog_cancel">"キャンセル"</string>
+  <string name="network_tip_dialog_content">Speech recognition engine needs to connect to the internet to work normally.</string>
+  <string name="network_tip_dialog_ok">Allow</string>
+  <string name="network_tip_dialog_title">Internet connection is required</string>
   <string name="new_record_name">New recording</string>
   <string name="no_file">Empty</string>
   <string name="notification_message_all_paused">Waiting for WLAN connection.</string>

@@ -93,8 +93,8 @@
   <string name="data_wipe_from_device">Delete from this device</string>
   <string name="delete_action">Delete</string>
   <string name="delete_app">Delete app</string>
-  <string name="delete_bank_card_message">To protected your property,will delete your bank card After signing out</string>
-  <string name="delete_bank_card_title">Delete your bank card</string>
+  <string name="delete_bank_card_message">Your bank card will be deleted due to security reasons after you sign out</string>
+  <string name="delete_bank_card_title">Deleting your bank card</string>
   <string name="delete_browser">Delete browser</string>
   <string name="delete_device">Delete device</string>
   <string name="delete_device_btn">Remove</string>
@@ -121,7 +121,6 @@
   <string name="find_device_account_error">"Can't get status due to account error"</string>
   <string name="find_device_activate_account">Activate account</string>
   <string name="find_device_bad_response_error">"Can't get status due to server error, try again later"</string>
-  <string name="find_device_display_id">Unlock number: %s</string>
   <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again."</string>
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
   <string name="find_device_interrupted">Action was interrupted, try again later</string>
@@ -146,7 +145,7 @@
   <string name="location_service_not_working">Location service not working</string>
   <string name="login_check_find_device">Getting device security info…</string>
   <string name="login_check_find_device_failed_title">"Couldn't check Find device status"</string>
-  <string name="login_find_device_bind">This device is associated with existing Mi Account ID (%s).</string>
+  <string name="login_find_device_bind">This device is associated with existing Mi Account ID (%s), enter password to verify the device.</string>
   <string name="login_guard_prompt">Require phone number verification when you sign in to your Mi Account on an unknown device or in an unknown app for the first time.</string>
   <string name="logout_failed">"ログアウトできません"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
@@ -156,8 +155,6 @@
   <string name="micloud_space_info">%s available</string>
   <string name="mili_center">Mi Credits</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="miui_provision_find_status_text">"This device is associated with an existing Mi Account (%1$s), enter password to verify the device.
-(Unlock number: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
@@ -365,7 +362,11 @@ Make sure you remember the answers to these questions."</string>
   <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
   <string name="turning_off_find_device">Turning off Find device…</string>
   <string name="unbind_sns_description">"After you disconnect this account, you won't be able to use your %s Account info to sign to your Mi Account."</string>
-  <string name="update_contacts">Update address book</string>
+  <string name="unlock_help_notice">"Help:
+· If you forgot your password, go to id.mi.com to reset it.
+· If you can't unlock the device, go to i.mi.com to turn off Find device
+· Tell this unlock number to the customer service: %s"</string>
+  <string name="update_contacts">Update contacts</string>
   <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>
   <string name="update_email_address_dialog_title">Update Email</string>
   <string name="update_phone_number_notice_message">You need to verify your identity before you can update phone number.</string>

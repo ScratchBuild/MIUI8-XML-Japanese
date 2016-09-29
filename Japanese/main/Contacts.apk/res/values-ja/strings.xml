@@ -62,6 +62,7 @@
   <string name="call_assistant">Call %s</string>
   <string name="call_callback">Call callback</string>
   <string name="call_car">Call car</string>
+  <string name="call_charge">Top up</string>
   <string name="call_company_main">Call company main</string>
   <string name="call_custom">%s に電話する</string>
   <string name="call_disambig_title">"番号を選択"</string>
@@ -69,6 +70,7 @@
   <string name="call_fax_work">職場FAXに電話する</string>
   <string name="call_home">自宅に電話する</string>
   <string name="call_isdn">Call ISDN</string>
+  <string name="call_left">Phone balance</string>
   <string name="call_log_empty_gecode">-</string>
   <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">New</string>
@@ -76,9 +78,12 @@
   <string name="call_main">Call main</string>
   <string name="call_mms">Call MMS</string>
   <string name="call_mobile">モバイルに電話する</string>
+  <string name="call_not_found"> --</string>
+  <string name="call_operator_init">Set carrier</string>
   <string name="call_other">電話</string>
   <string name="call_other_fax">Call fax</string>
   <string name="call_pager">Call pager</string>
+  <string name="call_problem_report">Report an issue</string>
   <string name="call_radio">Call radio</string>
   <string name="call_record_setting_miui">Record settings</string>
   <string name="call_settings">Settings</string>
@@ -87,6 +92,7 @@
   <string name="call_telex">Call telex</string>
   <string name="call_tty_tdd">Call TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
+  <string name="call_unit">USD</string>
   <string name="call_work">職場に電話する</string>
   <string name="call_work_mobile">Call work mobile</string>
   <string name="call_work_pager">Call work pager</string>
@@ -270,7 +276,8 @@ Contact cards are turned off"</string>
   <string name="data_already_used">Used data</string>
   <string name="data_charge">Top up mobile data</string>
   <string name="data_left">Remaining data</string>
-  <string name="data_unit">MB</string>
+  <string name="data_unit_gb">GB</string>
+  <string name="data_unit_mb">MB</string>
   <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
   <string name="date_time_set">"設定"</string>
   <string name="date_year_toggle">"年を入力する"</string>
@@ -501,7 +508,8 @@ Contact cards are turned off"</string>
   <string name="ic_menu_back">"戻る"</string>
   <string name="ic_menu_done">"完了"</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imei">"IMEI: "</string>
+  <string name="imei_invalid">"無効なIMEI"</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">全てのvCardファイルをインポートする</string>
   <string name="import_contact_card_aggregate_suggestion_button">Merge cards</string>
@@ -587,7 +595,8 @@ Contact cards are turned off"</string>
   <string name="map_home">View home address</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
-  <string name="meid">MEID</string>
+  <string name="meid">"MEID: "</string>
+  <string name="meid_invalid">"無効なMEID"</string>
   <string name="menuMoreDescription">More</string>
   <string name="menu_accounts">アカウント</string>
   <string name="menu_addStar">"お気に入りに追加"</string>
@@ -1245,7 +1254,10 @@ Choose one of the following options:"</string>
   <string name="wipe_data">"データを消去"</string>
   <string name="yellowPageNavigationIconLabel">Yellow pages</string>
   <string name="yellowPageNavigationLabel">Yellow pages</string>
-  <string name="yellowpage_navigation_clear_search_history">"履歴を消去"</string>
+  <string name="yellowpage_navigation_ad_hint">Ad</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"Balance and data couldn't be verified, try again later."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Balance and data have been verified</string>
+  <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
   <string name="yellowpage_navigation_no_content">"何も見つかりませんでした"</string>

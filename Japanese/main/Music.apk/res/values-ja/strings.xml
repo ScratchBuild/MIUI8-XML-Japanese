@@ -110,7 +110,8 @@
   <string name="confirm_delete_the_download_item_message">Delete these downloads?</string>
   <string name="confirm_download">"ダウンロード"</string>
   <string name="confirm_to_renew">Renew</string>
-  <string name="cp_info_first">Online music streaming service is mainly provided by Ultimate Inc.</string>
+  <string name="cp_info_first">"Online music streaming service
+is mainly provided by Ultimate Inc."</string>
   <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">"Couldn't create order, try again."</string>
   <string name="create_playlist">"プレイリストを作成"</string>
@@ -669,7 +670,7 @@
   <string name="share_chooser_title">Share using</string>
   <string name="share_description">From Mi Music</string>
   <string name="share_end_note">From Mi Music</string>
-  <string name="share_image_error">Fail to share image because download image error</string>
+  <string name="share_image_error">"Couldn't share image due to a download error"</string>
   <string name="share_text_list">"Playlist from Mi Music: "</string>
   <string name="share_text_song">"Song in Mi Music: "</string>
   <string name="show_more">Show %s more</string>

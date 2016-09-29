@@ -1744,7 +1744,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="local_backup_section_summary">システム設定、アカウント情報、アプリをバックアップ</string>
   <string name="local_backup_section_title">ローカルバックアップ</string>
   <string name="locale_default">デフォルト</string>
-  <string name="locale_settings">位置情報</string>
+  <string name="locale_settings">地域</string>
   <string name="location_access_summary">ユーザーの許可をリクエストしたアプリに位置情報の使用を許可する</string>
   <string name="location_access_title">位置情報にアクセス</string>
   <string name="location_agps_apn_choose_dialog_title">APNタイプ</string>
@@ -1869,7 +1869,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_pin_no_sequential_digits">一連の数字を昇順や降順にしたり、繰り返したりすることはできません</string>
   <string name="lockpassword_pin_recently_used">最近使用したPINは使用できません。</string>
   <string name="lockpassword_pin_set_toast">PINが設定されました</string>
-  <string name="lockpassword_pin_too_long">PINは%d桁未満で指定してください。</string>
+  <string name="lockpassword_pin_too_long">PINは%d桁以下で指定してください。</string>
   <string name="lockpassword_pin_too_short">PINは%d桁以上にしてください。</string>
   <string name="lockpassword_press_continue">終了後[次へ]をタップ</string>
   <string name="lockpattern_change_lock_pattern_label">パターンの変更</string>
@@ -2671,8 +2671,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
   <string name="privacy_password_fingerprint_confirm_failed">"Couldn't verify fingerprint"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Fingerprint verified</string>
-  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint,try again"</string>
-  <string name="privacy_password_fingerprint_dialog_message">Put your finger on sensor</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint, try again"</string>
+  <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
   <string name="privacy_password_settings">Use Privacy protection password</string>
   <string name="privacy_password_settings_titles">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
@@ -3934,6 +3934,8 @@ PINが正しくない可能性があります。"</string>
   <string name="usage_type_video">動画</string>
   <string name="usage_type_wake_lock">スリープモードにしない</string>
   <string name="usage_type_wifi_running">Wi-Fi使用</string>
+  <string name="usb_adb_input">USBデバッグ (セキュリティ設定)</string>
+  <string name="usb_adb_input_desc">USBデバッグを介した入力のシミュレートにアクセス許可を付与する</string>
   <string name="usb_audio_disable_routing">USBオーディオルーティングを無効化</string>
   <string name="usb_audio_disable_routing_summary">USBオーディオ周辺機器への自動ルーティングを無効化</string>
   <string name="usb_charging_summary">パソコンとのすべてのデータ転送を無効にしてUSBポート経由で端末を充電します</string>
@@ -3946,6 +3948,8 @@ PINが正しくない可能性があります。"</string>
   <string name="usb_host_mode_subtext">USBポートにゲームコントローラー等の周辺機器を接続すると、バッテリーの消費を早めることがあります</string>
   <string name="usb_host_mode_text">USBホストモード</string>
   <string name="usb_insert_summary">USBストレージを接続</string>
+  <string name="usb_install_app">USB経由でインストール</string>
+  <string name="usb_install_app_desc">USB経由でアプリのインストールを許可する</string>
   <string name="usb_midi_summary">MIDI対応アプリがUSBを介してパソコンのMIDIソフトと連携できるようにします。</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">USBストレージをマウント</string>
@@ -4632,7 +4636,6 @@ PINが正しくない可能性があります。"</string>
   <string name="xiaomi_router_notif_title">Mi WiFiルーター通知</string>
   <string name="xspace">デュアルアプリ</string>
   <string name="yes">はい</string>
-  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">"夜間モードへのアクセスをリクエストしたインストール済みアプリはありません"</string>
   <string name="zen_access_warning_dialog_summary">"アプリは夜間モードのON/OFFを切り替えたり、関連する設定を変更したりできるようになります。"</string>
   <string name="zen_access_warning_dialog_title">"%1$sの夜間モードへのアクセスを許可しますか？"</string>

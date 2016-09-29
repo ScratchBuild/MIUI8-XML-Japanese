@@ -96,7 +96,7 @@
   <string name="app_update">Update</string>
   <string name="app_version">Version %1$s</string>
   <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-  <string name="append_ok_key_after_num">Enter OK after changing channel</string>
+  <string name="append_ok_key_after_num">Add confirmation button after the numeric button</string>
   <string name="application">"アプリ"</string>
   <string name="auto_tune">Auto tune</string>
   <string name="auto_tune_hint_text">Automatically change the channel after start，the phone will send a certain interval code&lt;Channel+&gt;Button</string>
@@ -840,7 +840,7 @@ directly from your Lock screen"</string>
   <string name="search_page_clear_history">Clear History</string>
   <string name="search_rank">Search by rank</string>
   <string name="search_video_app_hint">"検索"</string>
-  <string name="seconds">seconds</string>
+  <string name="seconds">"秒"</string>
   <string name="select_all">"すべて選択"</string>
   <string name="select_area">Choose location</string>
   <string name="select_brand">Select %s</string>

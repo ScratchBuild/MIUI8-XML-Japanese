@@ -547,7 +547,7 @@ Take more photos of your friends!"</string>
   <string name="secret_album_set_pc_password_dialog_msg">Privacy protection password works for apps, photos, notes, hidden folders, etc.</string>
   <string name="secret_album_set_pc_password_dialog_ok">"パスワードを設定"</string>
   <string name="secret_album_set_pc_password_dialog_title">"新しいパスワードを設定"</string>
-  <string name="secret_album_set_pc_password_first_use_msg">Privacy protection password will be used. It works for works for apps, photos, notes, hidden folders, etc.</string>
+  <string name="secret_album_set_pc_password_first_use_msg">Privacy protection password will be used. It works for photos, notes, hidden folders, etc.</string>
   <string name="secret_album_set_pc_password_first_use_title">Privacy protection password</string>
   <string name="secret_reason_space_full">Cloud albums are full</string>
   <string name="secret_reason_too_large">"ファイルが大きすぎます"</string>

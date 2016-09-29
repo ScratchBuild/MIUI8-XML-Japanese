@@ -84,7 +84,7 @@
   <string name="express_address_warning_no_phone">Phone required</string>
   <string name="express_addressee_info">Addressee info</string>
   <string name="express_addressee_name">Addressee name</string>
-  <string name="express_addressee_region">Addressee locale</string>
+  <string name="express_addressee_region">"Addressee's region"</string>
   <string name="express_banner_header">%1$s / 追跡番号</string>
   <string name="express_cancel_order">キャンセル</string>
   <string name="express_company_list_empty">No companies</string>
@@ -183,7 +183,7 @@
   <string name="express_send_notice">Prohibited items</string>
   <string name="express_sender_info">Sender info</string>
   <string name="express_sender_name">Sender name</string>
-  <string name="express_sender_region">Sender locale</string>
+  <string name="express_sender_region">"Sender's region"</string>
   <string name="express_shortcut_name">Query or send express</string>
   <string name="express_show_all_inquiry_history">すべての問い合わせ履歴を表示</string>
   <string name="express_submit_order">Submit</string>

@@ -3,6 +3,7 @@
   <string name="accessibility_enter_lock_wallpaper">Tap to open Wallpaper Carousel</string>
   <string name="click_to_enter_text">Tap to view</string>
   <string name="confirm_pin_msg">"もう一度PINコードを入力してください"</string>
+  <string name="custom_lock_wallpaper_enter">Enter</string>
   <string name="default_lockscreen_unlock_hint_text">"上にスワイプでロック解除"</string>
   <string name="delete">"削除"</string>
   <string name="emergency_call_string">"緊急通報"</string>

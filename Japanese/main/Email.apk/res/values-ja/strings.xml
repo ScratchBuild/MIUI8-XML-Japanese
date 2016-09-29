@@ -449,7 +449,7 @@
   <string name="general_preference_confirm_delete_label">"削除前に確認する"</string>
   <string name="general_preference_confirm_send_label">"送信前に確認する"</string>
   <string name="general_preference_str_auto_translation">Quick translation</string>
-  <string name="general_preference_str_auto_translation_prompt">Copy corresponding content to see translation result</string>
+  <string name="general_preference_str_auto_translation_prompt">Copy text to see translation</string>
   <string name="general_preference_text_zoom_dialog_title">"メッセージの文字サイズ"</string>
   <string name="general_preference_text_zoom_huge">"極大"</string>
   <string name="general_preference_text_zoom_label">"メッセージの文字サイズ"</string>
@@ -477,18 +477,11 @@
   <string name="hint_quick_reply_all">"全員に返信"</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Password for incoming mail server is incorrect</string>
-  <string name="info_actionbar_normal_detail">Details</string>
-  <string name="info_actionbar_subscribe">News feed</string>
-  <string name="info_item_from">From </string>
+  <string name="info_actionbar_normal_detail">Promotion</string>
   <string name="info_item_hide">Hide</string>
-  <string name="info_loading">"読み込み中…"</string>
   <string name="info_name_title">NEWS</string>
-  <string name="info_no_message">No articles to view</string>
-  <string name="info_no_more_message">No more items to view</string>
-  <string name="info_switch_summary">View top news</string>
-  <string name="info_switch_title">Inbox news</string>
-  <string name="info_sync_error">"Couldn't sync, try again later."</string>
-  <string name="information_subscribe_first_intro">"Looks like you're using News feed for the first time. Tell us about your interests so we could personalize your news."</string>
+  <string name="info_switch_summary">Show promotions on top of the inbox</string>
+  <string name="info_switch_title">Promotion</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
   <string name="input_password_prompt">Enter your password</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
@@ -501,7 +494,7 @@
   <string name="load_more">Load more</string>
   <string name="loading_conversation">"読み込み中…"</string>
   <string name="loading_conversations">"読み込み中…"</string>
-  <string name="loading_from_remote">"検索中…"</string>
+  <string name="loading_from_remote">"読み込み中…"</string>
   <string name="local_search">Local search</string>
   <string name="local_search_result">%s results in synced messages</string>
   <string name="login">"ログイン"</string>
@@ -592,7 +585,7 @@
   <string name="menu_att_mgr_order_size">Sort by size</string>
   <string name="menu_change_folders">Move</string>
   <string name="menu_compose">Compose</string>
-  <string name="menu_discovery">Discover</string>
+  <string name="menu_discovery">Promotion</string>
   <string name="menu_folder_options">Sync options</string>
   <string name="menu_move_to">Move to</string>
   <string name="menu_move_to_inbox">Move to Inbox</string>
@@ -626,7 +619,6 @@
   <string name="move_to_selection_dialog_title">Move to another folder</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Mute</string>
-  <string name="net_check_title">"ネットワークに接続できません。設定を確認して、もう一度やり直してください。"</string>
   <string name="network_error">No connection</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="network_try_again">Check network connection and try again</string>
@@ -759,7 +751,6 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Pull down to refresh</string>
-  <string name="pull_up_to_load_more">Pull up to load more</string>
   <string name="push_wps_better_confirm_download">Download</string>
   <string name="push_wps_better_confirm_exit">Not now</string>
   <string name="push_wps_better_confirm_message">Try using WPS Office to open this attachment.</string>
@@ -864,7 +855,6 @@
   <string name="security_unsupported_ticker_fmt">"アカウント「%s」はセキュリティ要件により同期できません。"</string>
   <string name="select_attachment_type">Choose attachment from</string>
   <string name="select_no_file">No attachments selected</string>
-  <string name="selected_lable">Selected</string>
   <string name="send">Send</string>
   <string name="send_failed">"Message wasn't sent."</string>
   <string name="send_feed_back">Send feedback</string>
@@ -945,14 +935,14 @@
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
   <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
   <string name="topic_merge">Merge themes</string>
-  <string name="translation_loading">Loading…</string>
-  <string name="translation_no_result">No result found</string>
-  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_loading">"読み込み中…"</string>
+  <string name="translation_no_result">No results</string>
+  <string name="translation_pronunciation_am">AmE</string>
   <string name="translation_pronunciation_cn">Pinyin</string>
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Machine</string>
-  <string name="translation_query_failure">Search failed</string>
-  <string name="translation_technology_support">Technical Support by PowerWord</string>
+  <string name="translation_query_failure">"Couldn't find results"</string>
+  <string name="translation_technology_support">Technical support by iciba.com</string>
   <string name="trash_folder_selection_title">"%sのサーバーのゴミ箱フォルダを選択してください"</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
@@ -965,7 +955,6 @@
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
   <string name="undo">Undo</string>
   <string name="unread_string">conversation unread</string>
-  <string name="unselected_lable">More</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
@@ -998,7 +987,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
   <string name="wipe_account_fail_title">"Couldn't delete personal info"</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="yes">"はい"</string>
-  <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Send log using mobile data connection? If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
+  <string name="youfuli">Promotion</string>
   <string name="zip_viewer_no_file">No files.</string>
 </resources>
