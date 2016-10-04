@@ -413,7 +413,7 @@
   <string name="battery_info_voltage_label">蓄電池電圧:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">電池残量</string>
-  <string name="battery_light_summary">充電中は通知LEDを点灯しますstring>
+  <string name="battery_light_summary">充電中は通知LEDを点灯します</string>
   <string name="battery_light_title">充電中に点灯</string>
   <string name="battery_msg_unaccounted">電池使用量は消費電力の概算であり、電池を消費するすべてのソースが含まれているわけではありません。「その他」は、算出された概算消費電力と実際に確認された電池消費量との差です。</string>
   <string name="battery_saver">バッテリーセーバー</string>
@@ -1051,7 +1051,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="delete_fingerprint_text">指紋認証を削除</string>
   <string name="delete_legacy_fingerprint">削除</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">この指紋を削除しますか？</string>
-  <string name="delete_saved_network">Delete saved network</string>
+  <string name="delete_saved_network">保存されたネットワークを削除</string>
   <string name="deny">許可しない</string>
   <string name="deny_sms_message">インストールアプリでSMSを送信することはできません。</string>
   <string name="deny_sms_title">SMSをロックする</string>
@@ -1173,7 +1173,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dndm_vip_list_custom">例外</string>
   <string name="dndm_vip_list_custom_group">例外</string>
   <string name="dndm_vip_list_group">例外リスト</string>
-  <string name="dndm_vip_list_starred_contact">Favorites</string>
+  <string name="dndm_vip_list_starred_contact">お気に入り</string>
   <string name="dndm_wristband">Mi Bandでアクティブにする</string>
   <string name="dndm_wristband_detailed">Mi Bandが睡眠を検知したら、スケジュール開始時間前でも夜間モードをオンにする</string>
   <string name="do_not_disturb_mode">夜間モード</string>
@@ -1332,7 +1332,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="failed_to_shut_down_find_device_content">"Find deviceをオフにできませんでした。1〜2分待ってから再試行してください。"</string>
   <string name="failed_to_shut_down_find_device_title">"オフにできませんでした"</string>
   <string name="fcc_equipment_id">装置ID</string>
-  <string name="file_privacy_password_role_instruction">Your private files will be stored here.</string>
+  <string name="file_privacy_password_role_instruction">プライベートなファイルはここに保存されます。</string>
   <string name="filter">フィルタ</string>
   <string name="filter_all_apps">すべてのアプリ</string>
   <string name="filter_apps_all">すべて</string>
@@ -1461,7 +1461,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gadget_toggle_bluetooth">Bluetooth設定の更新</string>
   <string name="gadget_toggle_wifi">Wi-Fi設定の更新</string>
   <string name="gadget_wifi">Wi-Fi</string>
-  <string name="gallery_privacy_password_role_instruction">Your private photos will be stored here.</string>
+  <string name="gallery_privacy_password_role_instruction">プライベートな写真はここに保存されます。</string>
   <string name="game_controller_settings_category">ゲーム用コントローラ</string>
   <string name="gesture_wakeup_title">画面をダブルタップすると端末が復帰します</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
@@ -1486,7 +1486,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="hdcp_checking_title">HDCPチェック</string>
   <string name="hdmi_3d_display_enable_summary">3Dゲームをサポート</string>
   <string name="hdmi_3d_display_enable_title">3Dディスプレイ</string>
-  <string name="hdmi_3d_help_title">About HDMI 3D stereoscopic support</string>
+  <string name="hdmi_3d_help_title">HDMI 3D立体サポートについて</string>
   <string name="hdmi_3d_stereo_separation_label">3D</string>
   <string name="hdmi_3dplay_control_disable_subtext">外部3Dディスプレイへの立体3D出力がオフになっています</string>
   <string name="hdmi_3dplay_control_enable_subtext">外部3Dディスプレイへの立体3D出力がオンになっています</string>
@@ -1651,7 +1651,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keyguard_shortcut_summary">ロック画面に2つのアプリのショートカットを設定できます</string>
   <string name="keyguard_shortcut_title">ロック画面のショートカット</string>
   <string name="keywords_accounts">アカウント</string>
-  <string name="keywords_all_apps">apps download applications system</string>
+  <string name="keywords_all_apps">アプリ ダウンロード アプリケーション システム</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">apps permissions security</string>
   <string name="keywords_battery">電源</string>
@@ -2225,7 +2225,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">周辺ノイズの低減</string>
   <string name="not_installed">未インストール</string>
-  <string name="notes_privacy_password_role_instruction">Your private notes will be stored here.</string>
+  <string name="notes_privacy_password_role_instruction">プライベートなノートはここに保存されます。</string>
   <string name="notification_app_settings_button">通知設定</string>
   <string name="notification_breathing_light_color_title">通知LEDの色</string>
   <string name="notification_breathing_light_freq_title">通知LEDを点滅させる</string>
@@ -2398,8 +2398,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_dndm_wristband">設定/Do not disturb/Activate with Mi Band</string>
   <string name="path_do_not_disturb_settings">設定/Do not disturb</string>
   <string name="path_dtmf_tone_enable_title">設定/音とバイブレーション/Dial pad tones</string>
-  <string name="path_edge_handgrip">設定/エッジコントロールe</string>
-  <string name="path_equalizer">設定/音とバイブレーション/Audio settings/Equalizer</string>
+  <string name="path_edge_handgrip">設定/エッジコントロール</string>
+  <string name="path_equalizer">設定/音とバイブレーション/Audio settings/イコライザー</string>
   <string name="path_fluency_mode">設定/電池とパフォーマンス/System animations</string>
   <string name="path_font_settings">設定/ディスプレイ/System font</string>
   <string name="path_force_touch">設定/その他の設定/3D Touch</string>
@@ -2422,9 +2422,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_manage_notification_access_title">設定/その他の設定/プライバシー/Notification access</string>
   <string name="path_master_clear_title">設定/その他の設定/バックアップとリセット/Factory data reset</string>
   <string name="path_music_audio_effect_optimize">設定/音とバイブレーション/Audio settings</string>
-  <string name="path_music_headset_calibrate">設定/音とバイブレーション/Audio settings/Assign buttons</string>
+  <string name="path_music_headset_calibrate">設定/音とバイブレーション/Audio settings/ボタンの割り当て</string>
   <string name="path_music_headset_mode_settings">設定/音とバイブレーション/Audio settings/Headphone remote buttons</string>
-  <string name="path_music_headset_settings">設定/その他の設定/Headphones &amp; audio effects</string>
+  <string name="path_music_headset_settings">設定/その他の設定/ヘッドフォンとオーディオエフェクト</string>
   <string name="path_music_mi_effect_title">設定/音とバイブレーション/Audio settings/Mi Sound Enhancer</string>
   <string name="path_network_settings">設定/SIMカードとモバイルネットワーク</string>
   <string name="path_networks_title">設定/SIMカードとモバイルネットワーク/Mobile networks</string>
@@ -2658,14 +2658,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="priority_storage_title">ストレージ設定</string>
   <string name="privacy_applock">App lock</string>
   <string name="privacy_childmode">Child mode</string>
-  <string name="privacy_file">Files</string>
-  <string name="privacy_gallery">Photos</string>
-  <string name="privacy_mms">Messages</string>
+  <string name="privacy_file">ファイル</string>
+  <string name="privacy_gallery">写真</string>
+  <string name="privacy_mms">メッセージ</string>
   <string name="privacy_mode_dialog_message">メッセージ、ノート、写真、設定、および着信を非表示にしますか？</string>
   <string name="privacy_mode_dialog_title">ゲストモード</string>
   <string name="privacy_mode_enable_sum">メッセージ、ノート、写真、設定、および着信を非表示にします</string>
   <string name="privacy_mode_enable_title">ゲストモード</string>
-  <string name="privacy_notes">Notes</string>
+  <string name="privacy_notes">ノート</string>
   <string name="privacy_password">Privacy protection password</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirm Second space password</string>
   <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
@@ -2839,11 +2839,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="reset_network_button_text">設定をリセット</string>
   <string name="reset_network_complete_toast">ネットワーク設定をリセットしました</string>
   <string name="reset_network_confirm_title">リセットしますか？</string>
-  <string name="reset_network_desc">ネットワーク設定をすべてリセットします。以下の設定が含まれます。\n\n"<li>Wi‑Fi"</li>\n<li>モバイルデータ"</li>\n<li>Bluetooth"</li></string>
+  <string name="reset_network_desc">ネットワーク設定をすべてリセットします。以下の設定が含まれます。
 
-"&lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;"
-"&lt;li&gt;Cellular data&lt;/li&gt;"
-"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+<li>Wi‑Fi</li>
+<li>モバイルデータ</li>
+<li>Bluetooth</li></string>
   <string name="reset_network_final_button_text">設定をリセット</string>
   <string name="reset_network_final_desc">すべてのネットワーク設定をリセットしますか？この操作は元に戻せません。</string>
   <string name="reset_network_title">ネットワーク設定のリセット</string>
