@@ -33,12 +33,12 @@
         <item quantity="one">Shared to %d person</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">"Selected photos aren't on device. Download them using mobile data?"</item>
-        <item quantity="one">"Selected photo isn't on device. Download it using mobile data?"</item>
+        <item quantity="other">"選択した写真はデバイス上にありません。モバイルデータを使用してダウンロードしますか？"</item>
+        <item quantity="one">"選択した写真はデバイス上にありません。モバイルデータを使用してダウンロードしますか？"</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">"Selected photos (%dMB) aren't on device. Download them using mobile data?"</item>
-        <item quantity="one">"Selected photo (%dMB) isn't on device. Download it using mobile data?"</item>
+        <item quantity="other">"選択した写真 (%dMB) はデバイス上にありません。モバイルデータを使用してダウンロードしますか？"</item>
+        <item quantity="one">"選択した写真 (%dMB) はデバイス上にありません。モバイルデータを使用してダウンロードしますか？"</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
         <item quantity="other">"Selected photos aren't on device. They will be downloaded."</item>
