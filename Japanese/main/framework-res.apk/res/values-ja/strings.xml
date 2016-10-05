@@ -423,18 +423,6 @@
   <string name="fingerprints">指紋:</string>
   <string name="floating_toolbar_close_overflow_description">オーバーフローを閉じる</string>
   <string name="floating_toolbar_open_overflow_description">その他のオプション</string>
-  <string name="font_family_body_1_material">sans-serif</string>
-  <string name="font_family_body_2_material">sans-serif-medium</string>
-  <string name="font_family_button_material">sans-serif-medium</string>
-  <string name="font_family_caption_material">sans-serif</string>
-  <string name="font_family_display_1_material">sans-serif</string>
-  <string name="font_family_display_2_material">sans-serif</string>
-  <string name="font_family_display_3_material">sans-serif</string>
-  <string name="font_family_display_4_material">sans-serif-light</string>
-  <string name="font_family_headline_material">sans-serif</string>
-  <string name="font_family_menu_material">sans-serif</string>
-  <string name="font_family_subhead_material">sans-serif</string>
-  <string name="font_family_title_material">sans-serif-medium</string>
   <string name="force_close">OK</string>
   <string name="forward_intent_to_owner">仕事用プロファイルの外部でこのアプリを使用しています</string>
   <string name="forward_intent_to_work">仕事用プロファイルでこのアプリを使用しています</string>
@@ -587,8 +575,8 @@
   <string name="kg_invalid_puk">正しいPUKコードを再入力してください。誤入力を繰り返すと、SIMが永久に無効になるおそれがあります。</string>
   <string name="kg_invalid_sim_pin_hint">PINは4～8桁の数字で入力してください。</string>
   <string name="kg_invalid_sim_puk_hint">PUKコードは8桁の番号です。</string>
-  <string name="kg_login_account_recovery_hint">\"ユーザー名またはパスワードを忘れた場合は
- \"google.com/accounts/recovery にアクセスしてください。</string>
+  <string name="kg_login_account_recovery_hint">ユーザー名またはパスワードを忘れた場合は
+ google.com/accounts/recovery にアクセスしてください。</string>
   <string name="kg_login_checking_password">アカウントをチェックしています…</string>
   <string name="kg_login_instructions">ロックを解除するにはGoogleアカウントでログインしてください。</string>
   <string name="kg_login_invalid_input">ユーザー名またはパスワードが無効です。</string>
@@ -657,8 +645,8 @@ To unpin, press and hold Home and the Power button at the same time."</string>
 %d秒後にもう一度お試しください。</string>
   <string name="lockscreen_failed_attempts_now_wiping">端末のロック解除を%d回失敗しました。端末を工場出荷状態にリセットします。</string>
   <string name="lockscreen_forgot_pattern_button_text">パターンを忘れた場合</string>
-  <string name="lockscreen_glogin_account_recovery_hint">\"ユーザー名またはパスワードを忘れた場合は
- \"google.com/accounts/recovery にアクセスしてください。</string>
+  <string name="lockscreen_glogin_account_recovery_hint">ユーザー名またはパスワードを忘れた場合は
+ google.com/accounts/recovery にアクセスしてください。</string>
   <string name="lockscreen_glogin_checking_password">確認中...</string>
   <string name="lockscreen_glogin_forgot_pattern">アカウントのロック解除</string>
   <string name="lockscreen_glogin_instructions">ロックを解除するにはGoogleアカウントでログインしてください。</string>
@@ -725,55 +713,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="media_route_status_in_use">使用中</string>
   <string name="media_route_status_not_available">利用できません</string>
   <string name="media_route_status_scanning">スキャン中...</string>
-  <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
-  <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
-  <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
-  <string name="mediasize_chinese_prc_1">PRC 1</string>
-  <string name="mediasize_chinese_prc_10">PRC 10</string>
-  <string name="mediasize_chinese_prc_16k">PRC 16K</string>
-  <string name="mediasize_chinese_prc_2">PRC 2</string>
-  <string name="mediasize_chinese_prc_3">PRC 3</string>
-  <string name="mediasize_chinese_prc_4">PRC 4</string>
-  <string name="mediasize_chinese_prc_5">PRC 5</string>
-  <string name="mediasize_chinese_prc_6">PRC 6</string>
-  <string name="mediasize_chinese_prc_7">PRC 7</string>
-  <string name="mediasize_chinese_prc_8">PRC 8</string>
-  <string name="mediasize_chinese_prc_9">PRC 9</string>
-  <string name="mediasize_chinese_roc_16k">ROC 16K</string>
-  <string name="mediasize_chinese_roc_8k">ROC 8K</string>
-  <string name="mediasize_iso_a0">ISO A0</string>
-  <string name="mediasize_iso_a1">ISO A1</string>
-  <string name="mediasize_iso_a10">ISO A10</string>
-  <string name="mediasize_iso_a2">ISO A2</string>
-  <string name="mediasize_iso_a3">ISO A3</string>
-  <string name="mediasize_iso_a4">ISO A4</string>
-  <string name="mediasize_iso_a5">ISO A5</string>
-  <string name="mediasize_iso_a6">ISO A6</string>
-  <string name="mediasize_iso_a7">ISO A7</string>
-  <string name="mediasize_iso_a8">ISO A8</string>
-  <string name="mediasize_iso_a9">ISO A9</string>
-  <string name="mediasize_iso_b0">ISO B0</string>
-  <string name="mediasize_iso_b1">ISO B1</string>
-  <string name="mediasize_iso_b10">ISO B10</string>
-  <string name="mediasize_iso_b2">ISO B2</string>
-  <string name="mediasize_iso_b3">ISO B3</string>
-  <string name="mediasize_iso_b4">ISO B4</string>
-  <string name="mediasize_iso_b5">ISO B5</string>
-  <string name="mediasize_iso_b6">ISO B6</string>
-  <string name="mediasize_iso_b7">ISO B7</string>
-  <string name="mediasize_iso_b8">ISO B8</string>
-  <string name="mediasize_iso_b9">ISO B9</string>
-  <string name="mediasize_iso_c0">ISO C0</string>
-  <string name="mediasize_iso_c1">ISO C1</string>
-  <string name="mediasize_iso_c10">ISO C10</string>
-  <string name="mediasize_iso_c2">ISO C2</string>
-  <string name="mediasize_iso_c3">ISO C3</string>
-  <string name="mediasize_iso_c4">ISO C4</string>
-  <string name="mediasize_iso_c5">ISO C5</string>
-  <string name="mediasize_iso_c6">ISO C6</string>
-  <string name="mediasize_iso_c7">ISO C7</string>
-  <string name="mediasize_iso_c8">ISO C8</string>
-  <string name="mediasize_iso_c9">ISO C9</string>
   <string name="mediasize_japanese_chou2">長2</string>
   <string name="mediasize_japanese_chou3">長3</string>
   <string name="mediasize_japanese_chou4">長4</string>
@@ -1368,7 +1307,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="untitled">&lt;新規&gt;</string>
   <string name="upload_file">ファイルを選択</string>
   <string name="usb_accessory_notification_title">USBアクセサリを接続しました</string>
-  <string name="usb_cd_installer_notification_title">Connected as an installer</string>
+  <string name="usb_cd_installer_notification_title">インストーラとして接続</string>
   <string name="usb_charging_notification_title">USBを充電に使用</string>
   <string name="usb_midi_notification_title">USBをMIDIに使用</string>
   <string name="usb_midi_peripheral_manufacturer_name">Android</string>

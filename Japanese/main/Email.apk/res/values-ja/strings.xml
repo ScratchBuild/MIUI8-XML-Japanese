@@ -145,7 +145,7 @@
   <string name="actionbar_large_unread_count">"未読 %1$d+"</string>
   <string name="activity_folder_selection">"フォルダを選択"</string>
   <string name="activity_mailbox_selection">"アカウントを選択"</string>
-  <string name="ad_merge">Ads &amp; Notifications</string>
+  <string name="ad_merge">"広告と通知"</string>
   <string name="add_account">"アカウントを追加"</string>
   <string name="add_account_keywords">Add account;add mail account</string>
   <string name="add_attachment">"添付ファイルを追加"</string>
@@ -188,7 +188,7 @@
   <string name="attachment_not_exists">The attachment is not available!</string>
   <string name="attachment_open_SecurityException_hint">You may not have permission to open this file or the file may be damaged.</string>
   <string name="attachment_open_SecurityException_title">"Can't open file"</string>
-  <string name="attachment_stop_all">Stop</string>
+  <string name="attachment_stop_all">"停止"</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
   <string name="attachment_unknown">%s file</string>
@@ -220,7 +220,7 @@
   <string name="cc_attribution">Cc: %1$s&lt;br></string>
   <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Cc: "</string>
-  <string name="change_folders_selection_dialog_title">Change folders</string>
+  <string name="change_folders_selection_dialog_title">"フォルダを変更"</string>
   <string name="change_sync_settings">"同期設定を変更"</string>
   <string name="changepw_dialog_tips">Re-enter password for %s</string>
   <string name="chat_item_msg_people_unit">"人"</string>
@@ -613,7 +613,7 @@
   <string name="message_invite_decline">No</string>
   <string name="message_invite_tentative">Maybe</string>
   <string name="message_invite_title">Calendar invite</string>
-  <string name="message_saved">Message saved as draft.</string>
+  <string name="message_saved">"メッセージは下書きとして保存されました。"</string>
   <string name="message_view_attachment_background_load">"送信前に転送メッセージの添付ファイルがダウンロードされます。"</string>
   <string name="mibill_privacy_policy_button1">Later</string>
   <string name="mibill_privacy_policy_button2">Agree</string>
@@ -697,7 +697,7 @@
   <string name="path_about_conversation_view">Mail/Settings/Conversation view</string>
   <string name="path_about_delete_message_flow">Mail/Settings/Delete message flow</string>
   <string name="path_about_email_setting">Mail/Settings</string>
-  <string name="path_about_send_feed_back">Mail/Settings/Send feedback</string>
+  <string name="path_about_send_feed_back">Mail/Settings/"フィードバックを送信"</string>
   <string name="path_about_upload_logs">Mail/Settings/Upload logs</string>
   <string name="perference_change_pw_notnull_tips">Enter your password</string>
   <string name="perference_change_pw_ok_tips">Password changed</string>
@@ -709,7 +709,7 @@
   <string name="permission_read_attachment_desc">"メールの添付ファイルの読み取りをこのアプリに許可します。"</string>
   <string name="permission_read_attachment_label">"メール添付ファイルの読み取り"</string>
   <string name="phone">phone</string>
-  <string name="photo_load_failed">"Couldn't load image"</string>
+  <string name="photo_load_failed">"画像を読み込めませんでした"</string>
   <string name="photo_view_count" formatted="false">%d of %d</string>
   <string name="please_fill_in_your_mailbox_information2">Enter your mailbox info</string>
   <string name="policy_app_blacklist">Disallow specified apps</string>
@@ -824,7 +824,7 @@
   <string name="release_to_refresh">Release to refresh</string>
   <string name="remote_search_result">%s results on server</string>
   <string name="remove_account">Remove account</string>
-  <string name="remove_folder">Remove from %1$s</string>
+  <string name="remove_folder">Remove from %1$s</string>						
   <string name="remove_star">Unstar</string>
   <string name="reply">Reply</string>
   <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
@@ -847,7 +847,7 @@
   <string name="save_power_title">Battery saver</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">"保存中…"</string>
-  <string name="sdcard_cannot_use">"Can't use SD card"</string>
+  <string name="sdcard_cannot_use">"SDカードは使用できません"</string>
   <string name="search_hint">"メールを検索"</string>
   <string name="search_result">"結果 "</string>
   <string name="search_tabs_name_all">"すべて"</string>
@@ -855,7 +855,7 @@
   <string name="search_tabs_name_sender">"送信者"</string>
   <string name="search_tabs_name_subject">"件名"</string>
   <string name="search_title">Unified Email</string>
-  <string name="search_txt_size_limit_prompt">Search terms must be greater than 3 characters</string>
+  <string name="search_txt_size_limit_prompt">"検索キーワードは3文字以上にする必要があります"</string>
   <string name="security_changed_ticker_fmt">"アカウント「%s」がセキュリティ設定を変更しました。ユーザーの操作は不要です。"</string>
   <string name="security_needed_ticker_fmt">"アカウント「%s」でセキュリティ設定の更新が必要です。"</string>
   <string name="security_notification_content_change_title">"ポリシーが変更されました"</string>
@@ -863,12 +863,12 @@
   <string name="security_notification_content_update_title">"セキュリティの更新が必要です"</string>
   <string name="security_unsupported_ticker_fmt">"アカウント「%s」はセキュリティ要件により同期できません。"</string>
   <string name="select_attachment_type">Choose attachment from</string>
-  <string name="select_no_file">No attachments selected</string>
+  <string name="select_no_file">"添付ファイルが選択されていません"</string>
   <string name="selected_lable">Selected</string>
-  <string name="send">Send</string>
-  <string name="send_failed">"Message wasn't sent."</string>
-  <string name="send_feed_back">Send feedback</string>
-  <string name="send_feed_back_keywords">send feedback</string>
+  <string name="send">"送信"</string>
+  <string name="send_failed">"メッセージは送信されませんでした。"</string>
+  <string name="send_feed_back">"フィードバックを送信"</string>
+  <string name="send_feed_back_keywords">"フィードバックを送信"</string>
   <string name="sender_whitelist_cleared">"Pictures won't be shown automatically."</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
@@ -889,7 +889,7 @@
   <string name="set_network">Set network</string>
   <string name="setting_default_lable"/>
   <string name="settings_activity_title">Settings</string>
-  <string name="share_choose">Choose file to share</string>
+  <string name="share_choose">"共有するファイルを選択"</string>
   <string name="sharing">"共有"</string>
   <string name="shortcut_name_title">Name folder shortcut</string>
   <string name="show_elided">▶ Show quoted text</string>
