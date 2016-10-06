@@ -4547,7 +4547,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_suspend_optimizations_summary">Wi-FiがONのときに電池使用を節約する</string>
   <string name="wifi_switch_away_when_unvalidated">Wi-Fiがインターネットにアクセスできない場合にモバイルデータに切り替える</string>
   <string name="wifi_switch_to_gsm_message">Wi-Fiが切断されました。代わりにモバイルデータ通信を使用しますか？</string>
-  <string name="wifi_switch_to_gsm_title">GSMを使用しますか?</string>
+  <string name="wifi_switch_to_gsm_title">GSMを使用しますか？</string>
   <string name="wifi_tether_checkbox_text">ポータブルWi-Fiアクセスポイント</string>
   <string name="wifi_tether_configure_ap_text">Wi-Fiアクセスポイントをセットアップ</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
