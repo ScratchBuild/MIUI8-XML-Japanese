@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">Wallpaper Carousel</string>
   <string name="apply">"適用"</string>
-  <string name="at_least_one">"少なくとも1つのカテゴリを選択します"</string>
+  <string name="at_least_one">"少なくとも1つのカテゴリーを選択します"</string>
   <string name="auto_interval">"自動"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_international">"キャンセル"</string>
@@ -18,7 +18,7 @@
   <string name="hour_3">"3時間ごと"</string>
   <string name="like">Like</string>
   <string name="liked">liked</string>
-  <string name="lockscreen_magazine_summary">"壁紙は以下のフォルダに追加されます Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/"</string>
+  <string name="lockscreen_magazine_summary">"カテゴリー"</string>
   <string name="lockscreen_magazine_system_title">"オフライン"</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_wallpaper_changed">"壁紙を変更しました"</string>
@@ -43,9 +43,10 @@
   <string name="sst_grid_view_select_all">"すべて選択"</string>
   <string name="sst_grid_view_unselect_all">"すべて選択を解除"</string>
   <string name="sst_no_favor_wallpaper_hint">"お気に入りの壁紙はありません"</string>
-  <string name="sst_prov_enable_desc">Turn on wallpapers carousel on lock screen. Add your wallpaper in folder Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+  <string name="sst_prov_enable_desc">"壁紙は以下のフォルダに追加されます
+Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/"</string>
   <string name="sst_prov_enable_title">Turn on Wallpaper Carousel</string>
-  <string name="sst_require_one_category_hint">"少なくとも1つのカテゴリを選択してください"</string>
+  <string name="sst_require_one_category_hint">"少なくとも1つのカテゴリーを選択してください"</string>
   <string name="sst_sti_desc">"壁紙の更新頻度を設定"</string>
   <string name="sst_sti_title">"更新頻度"</string>
   <string name="sst_subscribe_title">My categories</string>

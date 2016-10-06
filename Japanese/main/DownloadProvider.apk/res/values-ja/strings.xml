@@ -37,6 +37,9 @@
   <string name="notification_need_wifi_for_size">"Wi-Fi必須のサイズです。"</string>
   <string name="notification_paused_in_background">"バックグラウンド一時停止"</string>
   <string name="notify_disabled_net_by_app">Internet connection restricted by Security app</string>
+  <string name="notify_install_guide_forward_text">"開く"</string>
+  <string name="notify_install_guide_msg">Installed successfully</string>
+  <string name="notify_install_guide_title">Installed %s successfully</string>
   <string name="notify_only_wifi_download">Wi-Fiを待っています</string>
   <string name="paused_waiting_for_network">"ネットワークを待っています"</string>
   <string name="permdesc_accessAllDownloads">"システム上の任意のアプリにより開始されたすべてのダウンロードの表示と変更をアプリに許可します。"</string>
