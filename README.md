@@ -18,6 +18,7 @@ If you want to help in Japanese translations, please contact @ScratchBuild or @s
 
 ---------------------------------------------------------------------------------------------
 #####Credits:
+- konikoni428
 - Mi5japanese
 - nabosuke
 - schipperke
