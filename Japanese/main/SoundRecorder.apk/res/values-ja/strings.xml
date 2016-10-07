@@ -50,7 +50,7 @@
   <string name="network_tip_dialog_title">Internet connection is required</string>
   <string name="new_record_name">New recording</string>
   <string name="no_file">Empty</string>
-  <string name="notification_message_all_paused">Waiting for WLAN connection.</string>
+  <string name="notification_message_all_paused">"Wi-Fi接続を待っています。"</string>
   <string name="notification_playback">"再生中…"</string>
   <string name="notification_recording">"録音中…"</string>
   <string name="notification_recording_ticker">Phone muted</string>

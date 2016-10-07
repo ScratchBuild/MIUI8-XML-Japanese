@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="agree">Agree</string>
-  <string name="agree_terms">"I've read and agree to the Terms of Service and Privacy Policy."</string>
+  <string name="agree">"同意"</string>
+  <string name="agree_terms">"私は利用規約およびプライバシーポリシーを読み、同意しました。"</string>
   <string name="app_name">Provision</string>
   <string name="back">"戻る"</string>
   <string name="congratulation_label">"You're ready to rock!​"</string>
@@ -27,7 +27,7 @@
   <string name="multisim_settings_title">2 SIM cards detected</string>
   <string name="next">"次へ"</string>
   <string name="next_fingerprint">Next</string>
-  <string name="other_settings">Additional settings</string>
+  <string name="other_settings">"その他の設定"</string>
   <string name="other_settings_auto_update">Update automatically</string>
   <string name="other_settings_auto_update_summary">MIUI will select the most suitable time to download and install updates.</string>
   <string name="other_settings_location">Location</string>
@@ -35,7 +35,7 @@
   <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
   <string name="other_settings_mifg_online_content_summary">Get new wallpapers delivered to your Lock screen regularly.</string>
   <string name="other_settings_upload_debug_log_summary">The information we collect will be used to locate and analyze the problems in the system and may contain personal information. No data will be used to identify you personally.</string>
-  <string name="other_settings_upload_debug_log_title">Send diagnostic data automatically</string>
+  <string name="other_settings_upload_debug_log_title">"診断データを自動的に送信する"</string>
   <string name="other_settings_user_experience">"ユーザーエクスペリエンスプログラム"</string>
   <string name="other_settings_user_experience_summary">"匿名の使用統計情報を送信してMIUIの改善に協力する (%s)"</string>
   <string name="pref_title_data_slot">Preferred data SIM card</string>

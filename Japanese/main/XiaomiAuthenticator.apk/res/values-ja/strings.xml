@@ -66,26 +66,26 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="jump_createpattern_tip">Create a password to protect your account</string>
   <string name="jump_lockpattern_title">Attention</string>
   <string name="jump_updatepattern_tip">Create a password to protect your account</string>
-  <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
-  <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
-  <string name="lockpassword_input_your_pattern_header">Confirm your pattern</string>
-  <string name="lockpattern_confirm_button_text">Confirm</string>
+  <string name="lockpassword_choose_your_pattern_header">"パターンの選択"</string>
+  <string name="lockpassword_confirm_your_pattern_header">"パターンの確認"</string>
+  <string name="lockpassword_input_your_pattern_header">"パターンの確認"</string>
+  <string name="lockpattern_confirm_button_text">"確認"</string>
   <string name="lockpattern_continue_button_text">"続行"</string>
-  <string name="lockpattern_need_to_confirm">Draw pattern again to confirm</string>
+  <string name="lockpattern_need_to_confirm">"確認のためパターンを再入力"</string>
   <string name="lockpattern_need_to_confirm_wrong">Inconsistent with the previous entry, please re-enter:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Password wrong,you can enter %d times more&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
-  <string name="lockpattern_pattern_entered_header">Pattern recorded.</string>
-  <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again:</string>
-  <string name="lockpattern_recording_inprogress">Release finger when done.</string>
-  <string name="lockpattern_recording_intro_header">Draw an unlock pattern:</string>
+  <string name="lockpattern_pattern_confirmed_header">"新しいロック解除パターン:"</string>
+  <string name="lockpattern_pattern_entered_header">"パターンが記録されました。"</string>
+  <string name="lockpattern_recording_incorrect_too_short">"少なくとも%dつの点を結んでください:"</string>
+  <string name="lockpattern_recording_inprogress">"描き終わりの点で指を離します"</string>
+  <string name="lockpattern_recording_intro_header">"ロック解除パターンを入力:"</string>
   <string name="lockpattern_redraw_button_text">Redraw</string>
   <string name="lockpattern_retry_text">Reset pattern password</string>
-  <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>
+  <string name="lockpattern_settings_help_how_to_record">"ロック解除パターンの描き方"</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"%d秒後にもう一度お試しください。"</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">"&lt;font color=red&gt;誤った回数が多すぎます！&lt;/font&gt;"</string>
   <string name="lockpattern_tutorial_cancel_label">"キャンセル"</string>
   <string name="lockpattern_tutorial_close_label">"閉じる"</string>
   <string name="lockpattern_tutorial_continue_label">"次へ"</string>
@@ -94,7 +94,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="login">"ログイン"</string>
   <string name="main_preference_screen_title">"設定"</string>
   <string name="mycard_scan_barcode">MiID Code Scanner</string>
-  <string name="new_pattern_tip">Your password must longer than 4 characters</string>
+  <string name="new_pattern_tip">"パスワードは4文字以上にする必要があります"</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="open_camera_exception_dialog_content">Problem with the system camera, you may need to restart the device.</string>
