@@ -72,7 +72,7 @@
   <string name="adjust_text_zoom_toast">"文字サイズの変更を行うと、いくつかのwebサイトが正しく表示されない場合があります"</string>
   <string name="alert_tips">"このサイトにはセキュリティ上のリスクがあります"</string>
   <string name="allow">"許可する"</string>
-  <string name="app_new_version">The latest version of this app is already installed</string>
+  <string name="app_new_version">"このアプリの最新バージョンが既にインストールされています"</string>
   <string name="app_update_install">Ready to install update.</string>
   <string name="application_name">"ブラウザ"</string>
   <string name="aqi_quality_index_break">Severely hazardous</string>
@@ -236,7 +236,7 @@ Pages you view won't appear in history."</string>
   <string name="download_complete">"正常にダウンロードされました"</string>
   <string name="download_completed">"ダウンロード済み"</string>
   <string name="download_default_path_txt">"この選択を記憶する"</string>
-  <string name="download_dialog_default_path_invalid">"The download location you've selected is invalid. Saving to default location…"</string>
+  <string name="download_dialog_default_path_invalid">"選択したダウンロードの場所は無効です。既定の場所に保存しています…"</string>
   <string name="download_dialog_file_length_hint_txt">"ファイルサイズ: "</string>
   <string name="download_dialog_file_length_lessthan1kb">"1K未満"</string>
   <string name="download_dialog_file_length_nolength_error_txt">"ダウンロードできませんでした"</string>
@@ -261,8 +261,8 @@ Pages you view won't appear in history."</string>
   <string name="download_pending">"ダウンロードを開始します…"</string>
   <string name="download_phone_tip">Phone</string>
   <string name="download_router_tip">Download to Mi Router</string>
-  <string name="download_sdcard_busy_dlg_msg">SD card is busy. To allow downloads, turn off USB storage in the notification shade.</string>
-  <string name="download_sdcard_busy_dlg_title">SD card unavailable</string>
+  <string name="download_sdcard_busy_dlg_msg">"SDカードがビジー状態です。ダウンロードを許可するには、通知シェードでUSBストレージをオフにします。"</string>
+  <string name="download_sdcard_busy_dlg_title">"SDカードが使用不可"</string>
   <string name="download_status_failed">"ダウンロードできませんでした"</string>
   <string name="download_status_pending">"待機中"</string>
   <string name="download_success">"完了"</string>
@@ -270,7 +270,7 @@ Pages you view won't appear in history."</string>
   <string name="download_wait_connect">"接続を待機中"</string>
   <string name="edit">"編集"</string>
   <string name="edit_bookmark">"ブックマークを編集"</string>
-  <string name="edit_quicklink">Edit</string>
+  <string name="edit_quicklink">"編集"</string>
   <string name="empty_bookmark">Empty</string>
   <string name="empty_history_hint">History is empty</string>
   <string name="empty_snapshot_hint">Empty</string>

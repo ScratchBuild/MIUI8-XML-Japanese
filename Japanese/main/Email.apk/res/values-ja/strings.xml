@@ -20,7 +20,7 @@
   <string name="account_security_title">"端末のセキュリティ"</string>
   <string name="account_set_up_change_type_note">If you need to switch between POP3 and IMAP settings, delete your account and create a new one with your desired settings.</string>
   <string name="account_setting">"アカウント"</string>
-  <string name="account_setting_keywords">Accounts;mail accounts</string>
+  <string name="account_setting_keywords">"アカウント;メールアカウント"</string>
   <string name="account_settings_action">"アカウントの設定"</string>
   <string name="account_settings_background_attachments_label">"添付ファイルのダウンロード"</string>
   <string name="account_settings_background_attachments_summary">"Wi-Fi接続時に最近のメールの添付ファイルを自動的にダウンロード"</string>
@@ -33,7 +33,7 @@
   <string name="account_settings_incoming_summary">"ユーザー名、パスワードなど受信サーバーを設定する"</string>
   <string name="account_settings_login_dialog_content_fmt">"The username or password for %s is incorrect.
  Update them now?"</string>
-  <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Couldn't sign in to %s. The server said: %s"</string>
+  <string name="account_settings_login_dialog_reason_fmt" formatted="false">"%sにログインできませんでした。サーバーからの応答: %s"</string>
   <string name="account_settings_login_dialog_title">"ログインできません"</string>
   <string name="account_settings_mail_check_frequency_label">"同期頻度"</string>
   <string name="account_settings_mibill_resolve_label">Manage bills automatically</string>
@@ -97,7 +97,7 @@
   <string name="account_setup_failed_security">"セキュリティエラーのためサーバーに接続できませんでした。"</string>
   <string name="account_setup_failed_security_policies_unsupported">"このサーバーには、お使いのAndroid搭載端末でサポートされていない次のセキュリティ機能が必要です: %s"</string>
   <string name="account_setup_failed_tls_required">"TLSが必要ですがサーバーが対応していません。"</string>
-  <string name="account_setup_failed_too_many_partnerships">"Couldn't sign in, too many connections."</string>
+  <string name="account_setup_failed_too_many_partnerships">"ログインできませんでした、接続が多すぎます。"</string>
   <string name="account_setup_incoming_delete_policy_delete_label">"受信トレイから削除したとき"</string>
   <string name="account_setup_incoming_delete_policy_never_label">"削除しない"</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">"省略可"</string>
@@ -147,7 +147,7 @@
   <string name="activity_mailbox_selection">"アカウントを選択"</string>
   <string name="ad_merge">"広告と通知"</string>
   <string name="add_account">"アカウントを追加"</string>
-  <string name="add_account_keywords">Add account;add mail account</string>
+  <string name="add_account_keywords">"アカウントを追加;メールアカウントを追加"</string>
   <string name="add_attachment">"添付ファイルを追加"</string>
   <string name="add_calendar">Remind</string>
   <string name="add_label">"フォルダを追加"</string>
@@ -341,7 +341,7 @@
   <string name="downlaod_cancel_confirm_download">"停止"</string>
   <string name="downlaod_cancel_continue_download">"停止できません"</string>
   <string name="downlaod_confirm_download">"ダウンロード"</string>
-  <string name="downlaod_nonWifi_confirm_message">Use mobile data connection to download this attachment?</string>
+  <string name="downlaod_nonWifi_confirm_message">"モバイルデータ接続を使用して添付ファイルをダウンロードしますか？"</string>
   <string name="downlaod_nonWifi_confirm_title">"この添付ファイルをダウンロードしますか？"</string>
   <string name="download_again">Download again</string>
   <string name="download_before_sharing">" hasn't finished downloading."</string>

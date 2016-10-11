@@ -39,7 +39,7 @@
   <string name="notification_rec_title">"録音中を表示するにはタップ"</string>
   <string name="pre_station">"前の放送局"</string>
   <string name="record_completed">"録音が完了しました"</string>
-  <string name="runtime_permission_ungranted">"Can't start record due to ungranted permissions"</string>  
+  <string name="runtime_permission_ungranted">"権限が許可されていないため録音を開始できません"</string>  
   <string name="search_dialog_title">"放送局をスキャン"</string>
   <string name="set">"セット"</string>
   <string name="station_check_favorite">"プリセットに追加"</string>

@@ -1,40 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_providers">
-        <item>content://com.android.email.provider/uiaccts</item>
-    </string-array>
-    <string-array name="account_settings_check_frequency_values">
-        <item>-1</item>
-        <item>10</item>
-        <item>60</item>
-        <item>240</item>
-        <item>720</item>
-    </string-array>
-    <string-array name="account_settings_check_frequency_values_push">
-        <item>-2</item>
-        <item>-1</item>
-        <item>10</item>
-        <item>60</item>
-        <item>240</item>
-        <item>720</item>
-    </string-array>
-    <string-array name="account_settings_mail_window_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-    </string-array>
-    <string-array name="account_settings_mail_window_values_with_default">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-    </string-array>
     <string-array name="alphabet_chars">
         <item>☆</item>
         <item>A</item>

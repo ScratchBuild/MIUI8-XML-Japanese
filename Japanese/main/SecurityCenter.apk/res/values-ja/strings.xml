@@ -299,7 +299,7 @@ or enter Privacy protection password"</string>
   <string name="daily_limit_network_available_body">Tap to view data usage stats.</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
   <string name="daily_pkg_traffic">Peak data limit</string>
-  <string name="data_network_blocked_notification_title">No internet connection</string>
+  <string name="data_network_blocked_notification_title">"インターネット接続なし"</string>
   <string name="data_usage_correction_timeout_body">Tap to update manually.</string>
   <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
   <string name="data_usage_disabled_dialog">"You've reached your plan's data usage limit. If you go over your limit, your carrier may charge you additional fees."</string>
@@ -1392,8 +1392,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_area_dual">%s Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
   <string name="traffic_setting_fragment_button1_text">"キャンセル"</string>
-  <string name="traffic_setting_fragment_button2_text">Save</string>
-  <string name="traffic_setting_fragment_get_template_falure">"Can't connect to network. Check your data connection and try again."</string>
+  <string name="traffic_setting_fragment_button2_text">"保存"</string>
+  <string name="traffic_setting_fragment_get_template_falure">"ネットワークに接続できません。データ接続を確認して、もう一度やり直してください。"</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"二度と表示しない"</string>
   <string name="traffic_setting_fragment_loading_text">"ネットワーク情報の取得中…"</string>
   <string name="traffic_setting_fragment_no_network">"ネットワークに接続できません"</string>
@@ -1408,7 +1408,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_open">On</string>
   <string name="traffic_setting_step_num">Data plan settings</string>
   <string name="traffic_warning_purchase_title">Mobile data usage warning</string>
-  <string name="unable_connect_internet">No internet connection</string>
+  <string name="unable_connect_internet">"インターネット接続なし"</string>
   <string name="unlike">"結構です"</string>
   <string name="updating_diagnostic_botton">Analyzing data…</string>
   <string name="usage_sorted_activity_lable">Data usage</string>
@@ -1449,5 +1449,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_item_title_dns">DNS server security</string>
   <string name="wifi_item_title_encryption">WLAN encryption</string>
   <string name="wifi_item_title_fake">Detect fake WLAN</string>
-  <string name="wifi_network_blocked_notification_title">No internet connection</string>
+  <string name="wifi_network_blocked_notification_title">"インターネット接続なし"</string>
 </resources>
