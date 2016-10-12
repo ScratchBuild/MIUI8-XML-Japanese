@@ -109,7 +109,7 @@
 • 予定を安全にバックアップできます"</string>
   <string name="creating_event">"予定を作成しました"</string>
   <string name="creating_event_with_guest">"招待を送信します"</string>
-  <string name="credit">信用卡</string>
+  <string name="credit">"クレジットカード"</string>
   <string name="credit_card_date_label">还款日：</string>
   <string name="credit_card_number_label">卡号：</string>
   <string name="credit_card_overdue">已过期</string>
@@ -119,9 +119,9 @@
   <string name="credit_detail_amount_label">应还</string>
   <string name="credit_detail_sms_content">短信原文</string>
   <string name="credit_detail_today">今日：</string>
-  <string name="credit_event_card_title">信用卡还款</string>
-  <string name="credit_event_delete_successfully">信用卡还款事件删除成功</string>
-  <string name="credit_event_title">信用卡账单</string>
+  <string name="credit_event_card_title">"クレジットカードの支払い"</string>
+  <string name="credit_event_delete_successfully">"クレジットカードの支払い予定が正常に削除されました"</string>
+  <string name="credit_event_title">"クレジットカードの請求"</string>
   <string name="daily">"毎日"</string>
   <string name="date_pattern_mm_dd">M月d日</string>
   <string name="date_pattern_mm_dd_kk_mm">M月d日 HH:mm</string>
@@ -129,7 +129,7 @@
   <string name="date_time_fmt" formatted="false">%sの%s</string>
   <string name="day_view_new_event_hint">"新しい予定を追加"</string>
   <string name="default_reminder_mode">"リマインダー"</string>
-  <string name="delete_calendar">退订</string>
+  <string name="delete_calendar">"購読解除"</string>
   <string name="delete_label">"削除"</string>
   <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
   <string name="delete_this_event_title">"この予定を削除しますか？"</string>
@@ -235,7 +235,7 @@
   <string name="insert_event_dialog_title">"確認"</string>
   <string name="insert_event_toast_add_failed">"予定を追加できません"</string>
   <string name="insert_event_toast_add_success">"予定を作成しました"</string>
-  <string name="joke_card_click_toast">长按可复制笑话</string>
+  <string name="joke_card_click_toast">"ジョークをコピーするには長押し"</string>
   <string name="joke_card_icon_text">%1$s 人笑过</string>
   <string name="joke_card_long_click_toast">已复制，长按输入框即可粘贴</string>
   <string name="joke_card_paste_suffix">【来自小米日历】</string>
@@ -247,9 +247,9 @@
   <string name="local_calendar_display_name">"ローカルカレンダー"</string>
   <string name="local_owner_account_name">"この端末上に保存"</string>
   <string name="lunar_date">Lunar date</string>
-  <string name="match_ed">已结束</string>
-  <string name="match_ing">进行中</string>
-  <string name="match_not_started">未开始</string>
+  <string name="match_ed">"終了済"</string>
+  <string name="match_ing">"進行中"</string>
+  <string name="match_not_started">"開始前"</string>
   <string name="menu_general_preferences">"全般設定"</string>
   <string name="menu_preferences">"設定"</string>
   <string name="menu_reminder_preferences">"リマインダー設定"</string>
@@ -318,16 +318,16 @@
   <string name="preferences_default_reminder_title">"既定の通知時間"</string>
   <string name="preferences_general_title">"カレンダーの表示設定"</string>
   <string name="preferences_hide_declined_title">"辞退した予定を非表示"</string>
-  <string name="preferences_history_events">Show historic events</string>
+  <string name="preferences_history_events">"歴史的な予定を表示"</string>
   <string name="preferences_holidays">"祝日を表示"</string>
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">"自宅のタイムゾーン"</string>
-  <string name="preferences_import_credit_repayment">信用卡还款</string>
+  <string name="preferences_import_credit_repayment">"クレジットカードの支払い"</string>
   <string name="preferences_import_travel">机票火车票</string>
   <string name="preferences_notification_ringtone_title">"通知音"</string>
   <string name="preferences_reminder_title">"通知とリマインダー"</string>
   <string name="preferences_show_week_num_title">"第何週かを表示"</string>
-  <string name="preferences_solar_terms">Show solar terms</string>
+  <string name="preferences_solar_terms">"二十四節気を表示"</string>
   <string name="preferences_title">"カレンダー"</string>
   <string name="preferences_use_home_tz_descrip">"旅行中も自宅のタイムゾーンでカレンダーと予定時間を表示する"</string>
   <string name="preferences_use_home_tz_title">"自宅のタイムゾーン"</string>
@@ -343,10 +343,10 @@
   <string name="quick_response_settings_edit_title">"クイック返信"</string>
   <string name="quick_response_settings_summary">"ゲストへメールを送るときの既定の返事を編集"</string>
   <string name="quick_response_settings_title">"クイック返信の編集"</string>
-  <string name="recommend_card_add">立即订阅</string>
-  <string name="recommend_card_adding">添加中</string>
-  <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
-  <string name="recommend_card_from">来自订阅：</string>
+  <string name="recommend_card_add">"今すぐ購読"</string>
+  <string name="recommend_card_adding">"追加中"</string>
+  <string name="recommend_card_close_hint">"似たような購読のおすすめを減らす"</string>
+  <string name="recommend_card_from">"購読から："</string>
   <string name="refresh">"更新"</string>
   <string name="repeat_activity_label">Repeat</string>
   <string name="repeat_custom_activity_label">Custom</string>
@@ -396,7 +396,7 @@
   <string name="setting_others">"その他"</string>
   <string name="setting_sms_import">导入短信事件</string>
   <string name="setting_title_about">About</string>
-  <string name="settings_calendar">Calendar</string>
+  <string name="settings_calendar">"カレンダー"</string>
   <string name="show_day_view">"日付を表示"</string>
   <string name="show_newer_events">"タップして%1$sより後の予定を表示"</string>
   <string name="show_older_events">"タップして%1$sより前の予定を表示"</string>

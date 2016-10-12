@@ -283,7 +283,7 @@
   <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_allow_notice">無料のテキストと音声サービスの再アクティベートに使用するSMSの料金が、ご契約中のキャリアから請求されます。</string>
   <string name="mx_activate_dlg_title">Miメッセージをアクティベート</string>
-  <string name="mx_activate_dlg_title_ex">"Miメッセージ&amp;ボイスをアクティベート"</string>
+  <string name="mx_activate_dlg_title_ex">Miメッセージとボイスをアクティベート</string>
   <string name="mx_activate_error_malformed_info">Miメッセージの再アクティベートが必要です。</string>
   <string name="mx_activate_error_server">"アクティベートできませんでした。"</string>
   <string name="mx_activate_error_sim_change">"SIMカードが交換されたようです。Miメッセージを再アクティベートしてください。"</string>
@@ -321,7 +321,7 @@
   <string name="mx_dspt_provision_ex">"キャリアから課金されることなく、他のMIUIユーザーにメッセージを送信したり通話できます。VoIPはWeihuiによってサポートされます。Weihuiのプライバシーポリシーを表示"</string>
   <string name="mx_dspt_provision_ex2">プライバシーポリシー</string>
   <string name="mx_enable">Miメッセージ</string>
-  <string name="mx_enable_ex">Miメッセージ&amp;ボイス</string>
+  <string name="mx_enable_ex">Miメッセージとボイス</string>
   <string name="mx_enable_popup_msg">"Miメッセージを使用すれば、無料で他のMIUIユーザーにメッセージが送れます。"</string>
   <string name="mx_filter_message_from_stranger">不明な番号からのMiメッセージをブロック</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">"不明な番号からの通常のSMSは受信出来ます。メッセージと設定から、この機能はいつでもOnまたはOffに出来ます。"</string>

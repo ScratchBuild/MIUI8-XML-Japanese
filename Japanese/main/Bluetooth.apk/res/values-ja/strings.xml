@@ -138,7 +138,7 @@
   <string name="upload_fail_line1">"ファイルは「%1$s」に送信されませんでした。"</string>
   <string name="upload_fail_line1_2">"ファイル: %1$s"</string>
   <string name="upload_fail_ok">"再試行"</string>
-  <string name="upload_fail_waiting">Ongoing send file preparation, automatic retransmission later</string>
+  <string name="upload_fail_waiting">"送信ファイルの準備を継続中、後ほど自動で再送されます"</string>
   <string name="upload_line1">"送信先: 「%1$s」"</string>
   <string name="upload_line3">"ファイル形式: %1$s（%2$s）"</string>
   <string name="upload_line5">"ファイルを送信中..."</string>

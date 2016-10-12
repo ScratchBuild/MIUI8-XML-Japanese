@@ -3,8 +3,8 @@
   <string name="add_alarm">"アラームを追加"</string>
   <string name="alarm_alert_alert_silenced">Alarm silenced after %d minutes.</string>
   <string name="alarm_alert_snooze_set">Snoozing for %d minutes.</string>
-  <string name="alarm_ascending_mode_summary">Alarm volume rises gradually</string>
-  <string name="alarm_ascending_mode_title">Ascending volume</string>
+  <string name="alarm_ascending_mode_summary">"アラーム音量を徐々に大きくする"</string>
+  <string name="alarm_ascending_mode_title">"フェードイン音量"</string>
   <string name="alarm_disabled">"オフ"</string>
   <string name="alarm_in_silent_mode_title">Alarm in silent mode</string>
   <string name="alarm_klaxon_service_desc">"時計で設定したアラーム用のサウンド再生サービスです。"</string>
@@ -56,7 +56,7 @@
   <string name="hour">"1時間"</string>
   <string name="hour_unit">Hr +</string>
   <string name="hours">"%s時間"</string>
-  <string name="keep_screen_on">Keep screen on</string>
+  <string name="keep_screen_on">"画面を点灯したままにする"</string>
   <string name="label">"ラベル"</string>
   <string name="label_pref_summary">"ラベル"</string>
   <string name="lap">"ラップ"</string>
@@ -91,7 +91,7 @@
   <string name="silent_alarm_summary">"マナーモード"</string>
   <string name="skip_alarm_date_format">%1$s(%2$s)</string>
   <string name="skip_alarm_once_hint">Turn off once on %s</string>
-  <string name="slider_text">Swipe up to silence</string>
+  <string name="slider_text">"上にスワイプで消音"</string>
   <string name="snooze_confirm_cancel">"スヌーズをキャンセル"</string>
   <string name="snooze_duration_title">"スヌーズの長さ"</string>
   <string name="start">"開始"</string>

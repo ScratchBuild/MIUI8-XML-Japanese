@@ -141,7 +141,7 @@
   <string name="description_target_search">検索</string>
   <string name="disable_notification_summary">選択されたアプリからの通知は表示されません</string>
   <string name="disable_notification_title">通知を隠す</string>
-  <string name="dismount_storage">No</string>
+  <string name="dismount_storage">いいえ</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
   <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
   <string name="dlg_error_title">USB操作失敗</string>
@@ -195,7 +195,7 @@
   <string name="media_projection_remember_text">"再度表示しない"</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="mland">Marshmallow Land</string>
-  <string name="mount_storage">Yes</string>
+  <string name="mount_storage">はい</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">通知はありません。</string>
   <string name="no_weather_description">天気情報を取得する ></string>

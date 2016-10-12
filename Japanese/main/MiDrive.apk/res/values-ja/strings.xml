@@ -106,13 +106,13 @@
   <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">Update Explorer first.</string>
   <string name="quota_info">Mi Drive: %1$s available, %2$s total</string>
-  <string name="rename_alert">"If you change this file's extension, you may not be able to open it."</string>
+  <string name="rename_alert">"このファイルの拡張子を変更した場合、それを開くことができなくなる場合があります。"</string>
   <string name="rename_failed">"同じ名前のファイルが既に存在します。"</string>
   <string name="sd_full">"SDカードがいっぱいです。"</string>
   <string name="sd_invalid">"SDカードが破損しています。"</string>
   <string name="send_to_midrive_failed">"This file type isn't supported."</string>
   <string name="slashes">/</string>
-  <string name="space_full">Not enough cloud space.</string>
+  <string name="space_full">"クラウドの空き容量が足りません。"</string>
   <string name="start_use_xiaomi_account">"Mi Driveの使用を開始"</string>
   <string name="system_alert">"インターネット接続"</string>
   <string name="terabyteShort">TB</string>
