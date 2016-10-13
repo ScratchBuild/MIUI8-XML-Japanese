@@ -13,7 +13,7 @@
   <string name="account_verify_password">"You're already using this service on another device. For security reasons, you need to verify your Mi Account on this device."</string>
   <string name="account_yellowpage_favorite">お気に入り</string>
   <string name="account_yellowpage_followed">Verified accounts</string>
-  <string name="account_yellowpage_recent">View history</string>
+  <string name="account_yellowpage_recent">履歴の表示</string>
   <string name="add_to_desktop">Add to desktop</string>
   <string name="agree">同意</string>
   <string name="agree_to_continue">続行</string>
@@ -303,7 +303,7 @@
   <string name="no_price">No price info</string>
   <string name="notify_connect_summary">インターネットへの接続時にプロンプトを表示します</string>
   <string name="notify_connect_title">インターネット接続</string>
-  <string name="open_installed_app">Open</string>
+  <string name="open_installed_app">開く</string>
   <string name="order_date_label">Order date: %1$s</string>
   <string name="order_detail">Details</string>
   <string name="order_empty_hint">No orders</string>
@@ -327,7 +327,7 @@
   <string name="packages_title">Top up mobile data</string>
   <string name="packages_wait_for_op_reply">Wait for a confirmation message from your carrier</string>
   <string name="payment_back">戻る</string>
-  <string name="payment_failed_common_problems">Error occurred during payment</string>
+  <string name="payment_failed_common_problems">支払い中にエラーが発生しました</string>
   <string name="payment_unknown_status_summary">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
   <string name="phone_event_setting_notice_text">"By using this feature you're agreeing to our %1$s and %2$s."</string>
@@ -382,7 +382,7 @@ Total: RMB %3$s"</string>
   <string name="select_package_before_buy">Select package</string>
   <string name="send_shortcut_failed">"Couldn't send"</string>
   <string name="send_shortcut_success">Placed on Home screen</string>
-  <string name="sending_shortcut">Sending…</string>
+  <string name="sending_shortcut">送信中…</string>
   <string name="service_unavailiable">Service unavailable</string>
   <string name="share">Share</string>
   <string name="shop_recommendation_format">%1$s: %2$s</string>
@@ -390,7 +390,7 @@ Total: RMB %3$s"</string>
   <string name="sim2">Sim 2</string>
   <string name="sina_share_fail">Failed to send</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
-  <string name="sina_share_pendding">Sending…</string>
+  <string name="sina_share_pendding">送信中…</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>

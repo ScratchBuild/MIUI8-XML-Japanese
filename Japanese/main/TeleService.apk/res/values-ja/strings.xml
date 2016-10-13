@@ -280,7 +280,7 @@
   <string name="cell_bc_sms_enable">緊急警報SMSは有効になっています</string>
   <string name="cell_broadcast_settings">緊急警報放送</string>
   <string name="cell_broadcast_sms">緊急警報SMS</string>
-  <string name="cf_mobile_date">Turn on mobile data and make sure WLAN is off</string>
+  <string name="cf_mobile_date">モバイルデータをオンにし、必ずWi－Fiがオフになっていることを確認</string>
   <string name="cfb_title">話し中の時は転送</string>
   <string name="cfnrc_title">繋がらない時は転送</string>
   <string name="cfnrc_title_cta">繋がらない時は転送</string>

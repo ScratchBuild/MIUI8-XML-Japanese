@@ -48,7 +48,7 @@
   <string name="comment_upload_failed">"Can't send comment"</string>
   <string name="comment_upload_hint">Thank you for your feedback!</string>
   <string name="comment_upload_not_logined">You need to sign in to your Mi Account first</string>
-  <string name="comment_upload_success">Sent</string>
+  <string name="comment_upload_success">"送信しました"</string>
   <string name="confirm_local_package_wipe_btn">Erase and update</string>
   <string name="confirm_local_package_wipe_msg">Your personal data will be erased. Make sure to back up anything you want to keep before proceeding.</string>
   <string name="confirm_local_package_wipe_title">Erase data?</string>
@@ -91,7 +91,7 @@
   <string name="important_suggestion">"プライバシーポリシーが変更されました"</string>
   <string name="install">"インストール"</string>
   <string name="install_failed">Update failed</string>
-  <string name="install_file_explorer">Install File Explorer first</string>
+  <string name="install_file_explorer">"初めにFile Explorerをインストールします"</string>
   <string name="install_local">Install local</string>
   <string name="install_qq">"Get Tencent's Weibo app"</string>
   <string name="internal_build">Internal</string>
@@ -133,8 +133,8 @@
   <string name="notification_fail_msg">Try downloading full ROM</string>
   <string name="notification_load_body_alpha">Get the latest updates for your device.</string>
   <string name="notification_load_body_dev">Get the latest updates for your device.</string>
-  <string name="notification_load_title_alpha">Sign in to your Mi Account</string>
-  <string name="notification_load_title_dev">Sign in to your Mi Account</string>
+  <string name="notification_load_title_alpha">"Mi Accountにログイン"</string>
+  <string name="notification_load_title_dev">"Mi Accountにログイン"</string>
   <string name="notification_reboot_btn">"再起動"</string>
   <string name="notification_reboot_seccess_des">Tap to view update info.</string>
   <string name="notification_reboot_seccess_title">Device updated</string>
@@ -198,8 +198,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="share_update_content_unsign">"I've updated MIUI to %1$s! For the detailed changelog, go to %2$s"</string>
   <string name="sina_share_fail">Failed to send</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
-  <string name="sina_share_pendding">Sending…</string>
-  <string name="sina_share_success">Sent</string>
+  <string name="sina_share_pendding">"送信中…"</string>
+  <string name="sina_share_success">"送信しました"</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
   <string name="sogou_uninstall_msg">Sogou keyboard (Mi Edition) is no longer compatible with MIUI 7. Switch keyboards or update to a newer version of Sogou.</string>
@@ -209,10 +209,10 @@ http://zhushou.xiaomi.com"</string>
   <string name="space_not_enough_msg">"Your device is too full to download this update. Clean up your device's storage and try again."</string>
   <string name="space_not_enough_title">"十分な空き領域がありません"</string>
   <string name="stable_build">Stable</string>
-  <string name="submit">Send</string>
-  <string name="submit_fail">"Can't send"</string>
-  <string name="submit_progress">Sending…</string>
-  <string name="submit_success">Sent</string>
+  <string name="submit">"送信"</string>
+  <string name="submit_fail">"送信できません"</string>
+  <string name="submit_progress">"送信中…"</string>
+  <string name="submit_success">"送信しました"</string>
   <string name="test">Test</string>
   <string name="timer_title">Device will reboot in %d seconds.</string>
   <string name="title_toast_auto">Updates will download automatically</string>
