@@ -36,6 +36,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="device_settings_category_title">"ショートカットを消去"</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
+  <string name="entrance_setting">Opening search</string>
   <string name="google_app_label">"Google検索"</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -49,7 +50,6 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="menu_help">"ヘルプ"</string>
   <string name="menu_settings">"検索設定"</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした"</string>
-  <string name="provider_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
   <string name="recent_apps">"最近使ったアプリ"</string>
   <string name="recently_shortcut_label">"最近使ったショートカット"</string>
   <string name="remove_from_history">"検索履歴からこの項目を消去しますか？"</string>
@@ -74,6 +74,8 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="settings_description">Names of installed apps</string>
   <string name="show_more">"もっと表示"</string>
   <string name="suggest_open_app_failed">"このアプリを開けませんでした"</string>
+  <string name="swipe_up_summary">Swipe up to open global search</string>
+  <string name="swipe_up_title">Swipe up</string>
   <string name="system_search_category_title">"電話"</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>

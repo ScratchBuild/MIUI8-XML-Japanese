@@ -286,6 +286,7 @@
   <string name="cfnrc_title_cta">繋がらない時は転送</string>
   <string name="cfnry_title">不在の時は転送</string>
   <string name="cfu_title">常に転送</string>
+  <string name="change_data_preference_4g_only_prompt">Looks like you have a 4G only SIM card. Set it as default for mobile data?</string>
   <string name="change_default_data_card">デフォルトのモバイルデータSIM</string>
   <string name="change_default_data_card_summary">SIMカードが変更されたようです。モバイルデータ接続のために、このSIMカードをデフォルトに設定しますか？</string>
   <string name="change_num">更新</string>
@@ -741,7 +742,8 @@
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_summary_default_card">このカードは、現在ご利用中のデフォルトのSIMとして設定されています。このカードの使用を中止した場合、電話の発信やモバイルデータ接続の使用が出来なくなります。他のSIMカードをデフォルトのカードとして設定した後で、このSIMカードの使用を中止出来ます。</string>
   <string name="msim_disable_sim_card_summary_non_default_card">電話の発信やモバイルデータ接続の使用が出来ません。SIMカード%sの使用を中止しますか？</string>
-  <string name="msim_disable_sim_card_title">SIMカードの使用を中止</string>
+  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Don't restrict your secondary SIM in emergency callback mode."</string>  
+<string name="msim_disable_sim_card_title">SIMカードの使用を中止</string>
   <string name="msim_enable_sim">"オンにする"</string>
   <string name="msim_general_setting">"設定"</string>
   <string name="msim_has_been_disabled">(無効)</string>

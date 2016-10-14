@@ -36,11 +36,6 @@
   <string name="notification_download_success_more">%1$d downloaded</string>
   <string name="notification_need_wifi_for_size">"Wi-Fi必須のサイズです。"</string>
   <string name="notification_paused_in_background">"バックグラウンド一時停止"</string>
-  <string name="notify_disabled_net_by_app">"セキュリティアプリによってインターネット接続が制限されています"</string>
-  <string name="notify_install_guide_forward_text">"開く"</string>
-  <string name="notify_install_guide_msg">"正常にインストールされました"</string>
-  <string name="notify_install_guide_title">"%sが正常にインストールされました"</string>
-  <string name="notify_only_wifi_download">Wi-Fiを待っています</string>
   <string name="paused_waiting_for_network">"ネットワークを待っています"</string>
   <string name="permdesc_accessAllDownloads">"システム上の任意のアプリにより開始されたすべてのダウンロードの表示と変更をアプリに許可します。"</string>
   <string name="permdesc_downloadCacheNonPurgeable">"ダウンロードマネージャーで領域が不足しているときに、自動的に削除できないダウンロードキャッシュへのファイルのダウンロードをアプリに許可します。"</string>

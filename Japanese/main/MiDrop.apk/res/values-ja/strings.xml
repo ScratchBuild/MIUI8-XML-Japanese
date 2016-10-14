@@ -101,5 +101,5 @@
   <string name="title_activity_reception">ReceptionActivity</string>
   <string name="transfer_interrupt">"転送が中断されました"</string>
   <string name="transmission_click_send">send</string>
-  <string name="transmission_connect">"Couldn't find recipient​"</string>
+  <string name="transmission_connect">"Couldn't find recipient?"</string>
 </resources>

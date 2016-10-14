@@ -8,9 +8,11 @@
   <string name="alert_message_delete">"%1$sを削除しますか？"</string>
   <string name="alert_message_delete_note">"このノートを削除しますか？"</string>
   <string name="alert_message_edit_anyway">"このノートを編集した場合、内容の一部が失われる可能性があります。"</string>
+  <string name="alert_message_restore">"Could't open this note. Restore it to edit its content."</string>
   <string name="alert_title_delete">"ノートを削除しますか？"</string>
   <string name="alert_title_edit_anyway">"このノートにはサポートされていないコンテンツが含まれています"</string>
   <string name="alert_title_hidden_note">Received a hidden note reminder</string>
+  <string name="alert_title_restore">Restore note</string>
   <string name="all_folder_name">"すべてのノート"</string>
   <string name="all_terms">"%1$s と %2$s"</string>
   <string name="app_name">"ノート"</string>
@@ -104,6 +106,7 @@
   <string name="pref_title_font_size">"文字サイズ"</string>
   <string name="pref_title_note_style">"スタイル"</string>
   <string name="pref_title_recover_help">"ノートの復元"</string>
+  <string name="pref_title_show_root_folder_in_homepage">Show quick notes in homepage</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Quick delete</string>
   <string name="recover_notes_hint">"エラーが発生しました、ノートを復元するには i.mi.com へアクセスしてください。"</string>
   <string name="redo">"やり直し"</string>

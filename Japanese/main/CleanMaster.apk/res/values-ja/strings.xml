@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Ads</string>
   <string name="activity_title_apk">Packages</string>
   <string name="activity_title_brightness_image">Under and overexposed</string>
@@ -31,9 +32,10 @@
   <string name="apk_status_install">Installed</string>
   <string name="apk_status_installed_old">Old version</string>
   <string name="apk_status_uninstalled">Not installed</string>
+  <string name="apk_title_alipay_plugin">支付宝插件</string>
   <string name="app_install_tips_go_to">"開く"</string>
   <string name="app_install_tips_install_success">Installed %1$s successfully</string>
-  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
+  <string name="app_name">JunkEngine</string>
   <string name="apps_sort_type_item_size">Size</string>
   <string name="apps_sort_type_item_time">Frequently used</string>
   <string name="apps_sort_type_title">Sort</string>
@@ -79,6 +81,7 @@
   <string name="button_text_unselect_pic">Deselect</string>
   <string name="button_text_view_detail">"詳細"</string>
   <string name="button_text_view_file">File</string>
+  <string name="buy_a_new_phone">Storage Upgrade</string>
   <string name="buy_immediately">Buy</string>
   <string name="buy_traffic_pack">Buy more data</string>
   <string name="byteShort">B</string>
@@ -251,8 +254,76 @@
   <string name="installed">Installed</string>
   <string name="installing">Installing</string>
   <string name="item_title_process_mode">Choose an action</string>
+  <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
+  <string name="junk_tag_RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
+  <string name="junk_tag_RF_DemoVideo_LG">LG手机演示用视频</string>
+  <string name="junk_tag_RF_DemoVideo_MIUI">小米手机品牌展示视频</string>
+  <string name="junk_tag_RF_DemoVideo_Samsung">三星手机演示用视频</string>
+  <string name="junk_tag_RF_DemoVideo_Sony">索尼手机演示用视频</string>
   <string name="junk_tag_RF_EmptyFolders">Empty folders</string>
   <string name="junk_tag_RF_ImageThumbnails">Gallery Thumbnails</string>
+  <string name="junk_tag_RF_LibsDirFiles">无用的数据文件</string>
+  <string name="junk_tag_RF_LogFiles">日志文件</string>
+  <string name="junk_tag_RF_LostDirFiles">无用的系统文件</string>
+  <string name="junk_tag_RF_MFCacheDirFiles">无用的缓存文件</string>
+  <string name="junk_tag_RF_TaobaoLogFiles">手机淘宝的日志文件</string>
+  <string name="junk_tag_RF_TempFiles">临时文件</string>
+  <string name="junk_tag_RF_WechatDownload">微信下载表情时的临时文件</string>
+  <string name="junk_tag_big_file_from_name_album">相册</string>
+  <string name="junk_tag_big_file_from_name_baidu">百度地图</string>
+  <string name="junk_tag_big_file_from_name_baofeng">暴风影音</string>
+  <string name="junk_tag_big_file_from_name_bluetoothfiles">蓝牙目录</string>
+  <string name="junk_tag_big_file_from_name_camerafiles">系统相册目录</string>
+  <string name="junk_tag_big_file_from_name_downloads">下载目录</string>
+  <string name="junk_tag_big_file_from_name_fmt">来自%s</string>
+  <string name="junk_tag_big_file_from_name_musicfiles">音乐目录</string>
+  <string name="junk_tag_big_file_from_name_sdcard">存储卡根目录</string>
+  <string name="junk_tag_big_file_from_name_videofiles">视频目录</string>
+  <string name="junk_tag_big_file_mergedfile_desc_aura">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_baidumap">它是百度地图下载的地图，&lt;font color=#d64438 &gt;清理后需要重新下载才能离线使用&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_baofeng">这是暴风影音下载的视频，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_downloader">它是使用Downloader下载的文件，&lt;font color=#d64438 &gt;清理后文件会被删除&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_duokan">这是多看阅读中的我的书架书籍，&lt;font color=#d64438 &gt;清理后将无法查看&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_goapk">这是安智市场中下载的安装包，&lt;font color=#d64438 &gt;清理后将无法使用&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_googletransfer">它是翻译下载的离线语言包，&lt;font color=#d64438 &gt;清理后需要联网重新下载才能离线使用&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_navitel">它是Navitel下载的地图，&lt;font color=#d64438 &gt;清理后下载的 地图会被删除，需要联网重新下载&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_sygic">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_ucbrowser">这是UC Browser的可离线阅读的小说，&lt;font color=#d64438 &gt;清理后可离线阅读的小说会被删除&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_vk">它是使用VK播放音乐的时候缓存的语音文件，&lt;font color=#d64438 &gt;清理后不能离线收听&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_desc_yandex">它是使用Яндекс.Маркет下载的所有地图，&lt;font color=#d64438 &gt;清理后不能离线使用&lt;/font&gt;</string>
+  <string name="junk_tag_big_file_mergedfile_name_aura">下载的地图(Sygic)</string>
+  <string name="junk_tag_big_file_mergedfile_name_downloader">下载的文件(Downloader)</string>
+  <string name="junk_tag_big_file_mergedfile_name_duokan">我的书架书籍(多看)</string>
+  <string name="junk_tag_big_file_mergedfile_name_goapk">下载的安装包(安智市场)</string>
+  <string name="junk_tag_big_file_mergedfile_name_googletransfer">下载的离线语言包(Google 翻译)</string>
+  <string name="junk_tag_big_file_mergedfile_name_navitel">下载的地图(Navitel)</string>
+  <string name="junk_tag_big_file_mergedfile_name_sygic">下载的地图(Sygic)</string>
+  <string name="junk_tag_big_file_mergedfile_name_ucbrowser">可离线阅读的小说(UC浏览器)</string>
+  <string name="junk_tag_big_file_mergedfile_name_vk">保存的语音文件(VK播放)</string>
+  <string name="junk_tag_big_file_mergedfile_name_yandex">下载的地图(Yandex)</string>
+  <string name="junk_tag_big_file_type_apk">%1$s安装包(V%2$s)</string>
+  <string name="junk_tag_big_file_type_font">[字体]%1$s</string>
+  <string name="junk_tag_big_file_type_gamedata_obb">%1$s的数据包</string>
+  <string name="junk_tag_big_file_type_map_baidu">%1$s离线地图</string>
+  <string name="junk_tag_junk_android_data_2nd_card_left_overs">软件卸载后残留文件</string>
+  <string name="junk_tag_junk_big_name_android_data_google_file">翻译数据文件</string>
+  <string name="junk_tag_junk_big_name_c_thumbnails">相册缩略图</string>
+  <string name="junk_tag_junk_big_name_d_100media">录制的视频</string>
+  <string name="junk_tag_junk_big_name_d_thumbnails">相册缩略图</string>
+  <string name="junk_tag_junk_big_name_demovideo">功能演示视频</string>
+  <string name="junk_tag_junk_big_name_downloadmanager">下载的文件</string>
+  <string name="junk_tag_junk_big_name_llogs">系统无用日志文件</string>
+  <string name="junk_tag_junk_big_name_mi_userbook">小米功能新手引导</string>
+  <string name="junk_tag_junk_big_name_miui_gallerydemovideo">小米功能演示视频</string>
+  <string name="junk_tag_junk_big_name_s_dic">三星字典的词库</string>
+  <string name="junk_tag_junk_big_name_s_movie">三星自带视频</string>
+  <string name="junk_tag_junk_big_name_samsung_video">三星自带视频</string>
+  <string name="junk_tag_junk_big_name_smt">语音识别数据文件</string>
+  <string name="junk_tag_junk_big_name_sys_rom">系统包软件</string>
+  <string name="junk_tag_junk_big_name_tencent_qqfile">QQ接收的文件</string>
+  <string name="junk_tag_junk_big_name_thumbnails">手机图片缩略图</string>
+  <string name="junk_tag_junk_big_name_whatsapp_media_video">whatsapp视频文件</string>
+  <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">GDC推送日志</string>
   <string name="just_now">"ちょうど今"</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">None</string>
@@ -310,7 +381,6 @@
   <string name="pref_category_title_garbage_cleanup_check">Notifications</string>
   <string name="pref_category_title_other_clean_settings">Additional settings</string>
   <string name="pref_content_cleanup_white_list_none">None</string>
-  <string name="pref_section_auto_clean_and_alert">Clean automatically</string>
   <string name="pref_summary_auto_clean_and_alert">Schedule cleaner to run automatically</string>
   <string name="pref_summary_auto_update_cleanup_db">Last updated %s</string>
   <string name="pref_summary_cleanup_white_list">Prevent selected apps from being cleaned up</string>
@@ -321,17 +391,15 @@
   <string name="pref_summary_garbage_process_mode">Set notifications for when cleaner runs</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Upload and compare unknown file names with online definitions</string>
   <string name="pref_title_apps_cleanup_size">​When cache size reaches</string>
-  <string name="pref_title_auto_clean_and_alert">Clean automatically</string>
   <string name="pref_title_auto_clean_content_choose">Choose items to clean</string>
   <string name="pref_title_auto_update_cleanup_db">Update automatically</string>
   <string name="pref_title_choose_engine">Definitions</string>
+  <string name="pref_title_clean_alert">Clean automatically</string>
   <string name="pref_title_cleanup_white_list">Exceptions</string>
   <string name="pref_title_expand_cache_group">Show cached items</string>
-  <string name="pref_title_garbage_auto_clean_content">Items to clean</string>
   <string name="pref_title_garbage_cleanup_check_size">Trash size limit</string>
   <string name="pref_title_garbage_cleanup_check_time">Schedule</string>
   <string name="pref_title_garbage_cleanup_size">Trash size limit</string>
-  <string name="pref_title_garbage_process_mode">Notifications</string>
   <string name="pref_title_manual_check_cleanup_db_update">Check for updates</string>
   <string name="pref_title_open_optimizer_cloud_scan">Upload file names</string>
   <string name="pref_title_open_optimizer_memory_scan">Scan app memory</string>
@@ -353,6 +421,8 @@
   <string name="recommend_news">Recommended sources</string>
   <string name="recommend_the_following">Take the following actions to get the most out of your device</string>
   <string name="recommended">Featured</string>
+  <string name="remain_item_name_n7p"/>
+  <string name="remain_item_name_pamp"/>
   <string name="safety_check_detail">%1$d times, earned %2$d points</string>
   <string name="safety_rank">Ahead of %d%% MIUI users in terms of safety</string>
   <string name="sc_allow_network_dialog_button">Allow</string>
@@ -377,6 +447,7 @@
   <string name="summary_delete_large_file">Delete selected files permanently?</string>
   <string name="summary_delete_video">&gt;Delete selected videos permanently?</string>
   <string name="summary_optimizer">"This feature uploads folder names to update Cheetah Mobile's online database and requires your device's ID."</string>
+  <string name="sys_cache_on_sdcard_item_name">"キャッシュ"</string>
   <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Upload folder names</string>
   <string name="there_is_no">Everything looks good, come back later</string>
@@ -433,6 +504,7 @@
   <string name="unlike">No thanks</string>
   <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">Virus scan</string>
+  <string name="vungle_ad_name">"Vungle広告"</string>
   <string name="white_list_ad_header">Ad files: %d</string>
   <string name="white_list_apk_header">Install packages: %d</string>
   <string name="white_list_cache_header">Cached files: %d</string>

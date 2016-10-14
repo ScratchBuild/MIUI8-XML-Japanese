@@ -18,8 +18,8 @@
   <string name="acct_not_synced">"このアカウントは同期されていないため、カレンダーが最新ではない可能性があります。"</string>
   <string name="acessibility_selected_marker_description">"選択した予定"</string>
   <string name="action_label">"戻る"</string>
+  <string name="action_text_card_manager">订阅频道</string>
   <string name="action_text_new_event">"新しい予定"</string>
-  <string name="action_text_online">"購読を管理"</string>
   <string name="action_text_today">"今日"</string>
   <string name="ad_card_connecting">"接続中"</string>
   <string name="ad_card_download_count">%1$s人下载</string>
@@ -85,8 +85,8 @@
   <string name="card_detail_dialog_title">"購読を行いますか？"</string>
   <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
   <string name="card_detail_title">"購読の詳細"</string>
-  <string name="card_manager">"カードの管理"</string>
-  <string name="card_manager_subtitle">点击订阅内容，完成订阅</string>
+  <string name="card_manager">"購読の管理"</string>
+  <string name="card_manager_no_data">没有订阅卡片 :)</string>
   <string name="card_title_change">换一换</string>
   <string name="change_response_title">"出欠状況を変更"</string>
   <string name="check_reminded_text">"アラームを表示"</string>
@@ -344,7 +344,7 @@
   <string name="quick_response_settings_summary">"ゲストへメールを送るときの既定の返事を編集"</string>
   <string name="quick_response_settings_title">"クイック返信の編集"</string>
   <string name="recommend_card_add">"今すぐ購読"</string>
-  <string name="recommend_card_adding">"追加中"</string>
+  <string name="recommend_card_adding">"購読中"</string>
   <string name="recommend_card_close_hint">"似たような購読のおすすめを減らす"</string>
   <string name="recommend_card_from">"購読から："</string>
   <string name="refresh">"更新"</string>
@@ -412,7 +412,18 @@
   <string name="subscribe_card">立即订阅</string>
   <string name="subscribe_card_more_default_text">"もっと"</string>
   <string name="subscribe_card_recommend_default_text">推荐订阅</string>
-  <string name="subscribe_card_success">订阅“%1$s”成功</string>
+  <string name="subscribe_card_success">订阅成功，可在首页查看</string>
+  <string name="subscribe_card_success_for_homepage">订阅“%1$s”成功</string>
+  <string name="subscribe_channel_click_hint">订阅后可阅读</string>
+  <string name="subscribe_channel_footer_button">订阅管理</string>
+  <string name="subscribe_channel_footer_desc">查看已订阅的内容，或进入管理进行退订</string>
+  <string name="subscribe_channel_footer_title">已订阅</string>
+  <string name="subscribe_channel_footer_view">查看</string>
+  <string name="subscribe_channel_hint">"订阅适合自己的功能或服务，订阅后会展示在首页，
+你还可以在订阅后添加提醒，不错过每一个精彩！"</string>
+  <string name="subscribe_channel_subscribe">订阅</string>
+  <string name="subscribe_channel_subscribing">订阅中</string>
+  <string name="subscribe_channel_title">订阅频道</string>
   <string name="subscribe_description_card_default_title">订阅简介</string>
   <string name="subscribe_description_card_more_cut">收起</string>
   <string name="subscribe_description_card_more_launch">展开</string>

@@ -157,7 +157,9 @@
   <string name="notif_restore_content">Restoring user data</string>
   <string name="notif_restore_title">Restore data</string>
   <string name="notif_trans_receiving_completed">Data received successfully</string>
+  <string name="notif_trans_receiving_failed">Data received failed</string>
   <string name="notif_trans_sending_completed">Data sent successfully</string>
+  <string name="notif_trans_sending_failed">Data sent failed</string>
   <string name="page_loading">"読み込み中…"</string>
   <string name="progress_backup_hint">"バックアップ中…"</string>
   <string name="progress_restore_hint">Restoring…</string>

@@ -38,7 +38,10 @@
   <string name="attach_take_photo">写真撮影</string>
   <string name="attach_video">動画</string>
   <string name="audio_download_failed">"音声をダウンロードできませんでした"</string>
+  <string name="audio_message_expired">This voice message has expired.</string>
+  <string name="audio_message_mx_offline">"Couldn't download audio. Mi Message is offline or isn't available."</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">No network connection or wrong SIM card is installed. Install the SIM card from which the message was sent and connect to the network.</string>
   <string name="back_to_message_list">メッセージのリストへ戻る</string>
   <string name="batch_adding_progress_message">"追加中..."</string>
   <string name="batch_delete_confirm_dialog_message">選択した%1$s件のメッセージを削除しますか？</string>
@@ -388,7 +391,7 @@
   <string name="pref_other_title">詳細設定</string>
   <string name="pref_show_blocked_messages_summary">スレッドリストでブロックしたSMSを表示</string>
   <string name="pref_show_sms_template_in_summary">SMSメッセージでワンタイムパスワードを自動的に認識</string>
-  <string name="pref_show_sms_template_summary">認証コードを自動でコピーして入力する</string>
+  <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
   <string name="pref_sms_theme_title">テーマ設定</string>
   <string name="pref_summary_allow_si_sl_push">メッセージがウェブサイトからコンテンツをダウンロードするのを許可</string>
