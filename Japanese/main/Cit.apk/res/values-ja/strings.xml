@@ -82,8 +82,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
 "</string>
   <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
-  <string name="cit_battery_temp_fail">Battery temperature is not normal (value=%d)</string>
-  <string name="cit_battery_temp_pass">Battery temperature is normal</string>
+  <string name="cit_battery_temp_fail">バッテリーの温度は異常です (値=%d)</string>
+  <string name="cit_battery_temp_pass">バッテリーの温度は正常です</string>
   <string name="cit_batterylight_blue">Blue</string>
   <string name="cit_batterylight_green">Green</string>
   <string name="cit_batterylight_red">Red</string>
@@ -110,7 +110,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 
 1.Tap the calibration button below to start OIS calibration.
 2.There will be a calibration pass label to indicate the ois has been calibrated"</string>
-  <string name="cit_camera_sdcard_error">"Can't take photo. SD card is full."</string>
+  <string name="cit_camera_sdcard_error">写真を撮影できません。SDカードがいっぱいです。</string>
   <string name="cit_charger_plugin_check_summary">When USB charger is connected the text \"Charging via USB/AC\" should be displayed below.</string>
   <string name="cit_charger_plugin_check_title">充電器(接続済み)</string>
   <string name="cit_charger_plugout_check_summary">When USB charger is disconnected the text \"USB/AC charger disconnected\" should be displayed below.</string>
@@ -147,11 +147,11 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 4.The photo you took should be displayed below. Tap Delete to complete the test."</string>
   <string name="cit_front_camera_check_title">フロントカメラ</string>
   <string name="cit_get_signature_failed">get signature FAILED</string>
-  <string name="cit_gps_check_summary">The corresponding GPS info should be displayed below.</string>
+  <string name="cit_gps_check_summary">"GPSに対応する情報は以下に表示されます。"</string>
   <string name="cit_gps_check_title">GPS</string>
-  <string name="cit_gps_disabled">"GPS hasn't started
+  <string name="cit_gps_disabled">"GPSは停止しています
 
-Touch the screen to start GPS…"</string>
+GPSを起動するには画面をタッチ…"</string>
   <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
   <string name="cit_gps_location">Location: %s</string>
   <string name="cit_gps_satellite_count">Satellite count: %d</string>
