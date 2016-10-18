@@ -39,7 +39,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Generic_HideSystemApp">"システムアプリを非表示"</string>
   <string name="Generic_InvalidInput">Entry invalid</string>
   <string name="Generic_Loading">"読み込み中…"</string>
-  <string name="Generic_MonitoredApp">Watching (%1$d)</string>
+  <string name="Generic_MonitoredApp">"監視中 (%1$d)"</string>
   <string name="Generic_Operating">"作業中…"</string>
   <string name="Generic_Optimize">Optimize</string>
   <string name="Generic_Service_Disabled">Off</string>
@@ -270,7 +270,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Su_Package_Forbidden2">"doesn't have root access."</string>
   <string name="Su_Unavailable">Root access is unavailable in this version of MIUI. You need to flash the developer build of MIUI in order to give root access.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart permission</string>
-  <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
+  <string name="SysOpt_Boost_AutoStart_Group">"自動起動"</string>
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">"バックグラウンド"</string>
   <string name="app_name">Permission manager</string>

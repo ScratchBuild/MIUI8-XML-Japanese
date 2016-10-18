@@ -24,9 +24,9 @@
   <string name="button_front_camera_title">Make a selfie</string>
   <string name="button_normal_video_title">Record video</string>
   <string name="camera_disabled">"カメラが無効になっています"</string>
-  <string name="camera_error_title">Camera error</string>
+  <string name="camera_error_title">"カメラのエラー"</string>
   <string name="camera_label">"カメラ"</string>
-  <string name="camera_mode_options">Modes</string>
+  <string name="camera_mode_options">"モード"</string>
   <string name="camera_setting">"カメラ"</string>
   <string name="camera_settings_label">"カメラ"</string>
   <string name="camera_snap_mode_title">Quick snap mode</string>
@@ -38,9 +38,9 @@
   <string name="confirm_location_alert">Remember photo locations</string>
   <string name="confirm_location_message">Tag your photos and videos with the locations where they are taken. Other apps can access this information along with your saved images.</string>
   <string name="confirm_location_title">Remember photo locations?</string>
-  <string name="confirm_recording_fail_calling_alert">"Can't record during call."</string>
-  <string name="confirm_recording_fail_recorder_busy_alert">"Another app may already be using the device's microphone to record."</string>
-  <string name="confirm_recording_fail_title">"Can't record"</string>
+  <string name="confirm_recording_fail_calling_alert">"通話中に録音することはできません。"</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">"別のアプリが既にデバイスのマイクを録音するために使用中です。"</string>
+  <string name="confirm_recording_fail_title">"録音できません"</string>
   <string name="confirm_restore_message">"カメラのデフォルト設定を復元しますか？"</string>
   <string name="confirm_restore_title">"デフォルト設定を復元"</string>
   <string name="dialog_ok">OK</string>

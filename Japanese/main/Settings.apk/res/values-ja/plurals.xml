@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%s apps can't show notifications"</item>
-        <item quantity="one">"1 app can't show notifications"</item>
+        <item quantity="other">"%s個のアプリが通知を表示することができません"</item>
+        <item quantity="one">"1個のアプリが通知を表示することができません"</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s apps can show notifications</item>
-        <item quantity="one">1 app can show notifications</item>
+        <item quantity="other">"%s個のアプリが通知を表示することができます"</item>
+        <item quantity="one">"1個のアプリが通知を表示することができます"</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">"デベロッパーになるまであと%1$dステップです。"</item>
@@ -70,7 +70,7 @@
     </plurals>
     <plurals name="domain_urls_apps_summary">
         <item quantity="other">"%d個のアプリが対応リンクを開くことが可能"</item>
-        <item quantity="zero">No app can open any supported link</item>
+        <item quantity="zero">"対応リンクを開けるアプリがありません"</item>
         <item quantity="one">"1個のアプリが対応リンクを開くことが可能"</item>
     </plurals>
     <plurals name="high_power_count">

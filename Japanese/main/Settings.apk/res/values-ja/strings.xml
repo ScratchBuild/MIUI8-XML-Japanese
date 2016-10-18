@@ -82,7 +82,7 @@
   <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
   <string name="accessibility_work_account_title">仕事用アカウント - %s</string>
   <string name="account_add">追加</string>
-  <string name="account_autostar_label">Autostart</string>
+  <string name="account_autostar_label">自動起動</string>
   <string name="account_list">その他のアカウント</string>
   <string name="account_settings">アカウントの設定</string>
   <string name="account_settings_menu_auto_sync">データの自動同期</string>
@@ -446,9 +446,9 @@
   <string name="bearer">ベアラー</string>
   <string name="bind_xiaomi_account_cancel">キャンセル</string>
   <string name="bind_xiaomi_account_confirm">追加</string>
-  <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it."</string>
-  <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
-  <string name="binded_xiaomi_summary">Current account: %s</string>
+  <string name="bind_xiaomi_account_dialog_summery">Mi Account %s を追加しようとしています。パスワードを忘れた場合、それをリセットするにはこのアカウントを使用することができます。</string>
+  <string name="bind_xiaomi_account_success">Mi Accountが正常に追加されました</string>
+  <string name="binded_xiaomi_summary">現在のアカウント: %s</string>
   <string name="ble_scan_notify_text">位置情報の精度を向上させるため、BluetoothがOFFの場合でもシステムのアプリやサービスはBluetoothデバイスを検出できます。この設定は、LINK_BEGINスキャンの設定LINK_ENDで変更できます。</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
@@ -1111,7 +1111,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_status">端末の状態</string>
   <string name="device_status_activity_title">端末の状態</string>
   <string name="device_status_summary">電話番号、電波状態など</string>
-  <string name="dial_application_title">Dial</string>
+  <string name="dial_application_title">ダイヤル</string>
   <string name="dial_pad_tones_title">ダイヤルパッドの操作音</string>
   <string name="dialog_content_login">アップデートのためにMiアカウントにログインしますか？</string>
   <string name="dialog_no">いいえ</string>
@@ -1229,8 +1229,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="drive_mode_auto_sms_reply_content">ただ今運転中です。後ほど掛け直します。</string>
   <string name="drive_mode_auto_sms_reply_content_title">クイックレスポンス</string>
   <string name="drive_mode_calling_auto_sms_reply">折り返し掛ける</string>
-  <string name="drive_mode_invert_stop_report">Turn phone over to silence</string>
-  <string name="drive_mode_only_contact_reply">Only reply to Contacts</string>
+  <string name="drive_mode_invert_stop_report">電話を裏返すと消音</string>
+  <string name="drive_mode_only_contact_reply">連絡先にのみ返信</string>
   <string name="drive_mode_phone_report">着信情報</string>
   <string name="drive_mode_settings">ドライブモード設定</string>
   <string name="drive_mode_sms_auto_sms_reply">SMSを返す</string>
@@ -1406,7 +1406,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Smaller</string>
-  <string name="font_size_summary">ホームスクリーン、通知シェード、ダイヤラー、システムメニュー用のフォントサイズを変更します</string>
+  <string name="font_size_summary">ホーム画面、通知シェード、ダイヤラー、システムメニュー用のフォントサイズを変更します</string>
   <string name="font_size_summary1">システムのテキストが小さすぎる場合、試してみてください</string>
   <string name="font_size_summary2">Lite mode.</string>
   <string name="forbidden_switch_apn_string">選択したAPN設定は現在のネットワークタイプと一致しません</string>
@@ -1426,8 +1426,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="forget">切断</string>
   <string name="forget_password_button_text"><u>パスワードを忘れた場合</u></string>
   <string name="forget_pattern">&lt;u&gt;Forgot pattern?&lt;/u&gt;</string>
-  <string name="forget_privacy_password_setting">Add Mi Account</string>
-  <string name="forget_privacy_password_summary">Use Mi Account to reset your password</string>
+  <string name="forget_privacy_password_setting">Mi Accountを追加</string>
+  <string name="forget_privacy_password_summary">Mi Accountを使用してパスワードをリセット</string>
   <string name="forget_wifi_message">お使いの携帯電話は自動的でこのネットワークに接続しなくなります。</string>
   <string name="found_new_version">利用可能なアップデート</string>
   <string name="fp_nav_center_back_to_home_title">ホーム画面に戻るにはホームボタンをタップ</string>
@@ -1522,7 +1522,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="header_category_system">システム</string>
   <string name="header_category_wireless_networks">無線とネットワーク</string>
   <string name="header_data_and_synchronization">データと同期</string>
-  <string name="heavy_weight_stop_description">このアプリを安全に停止できません。停止すると、現在の作業が一部失われるおそれがあります。</string>
+  <string name="heavy_weight_stop_description">このアプリを安全に停止できません。停止すると、現在の作業が一部失われる恐れがあります。</string>
   <string name="help_label">ヘルプとフィードバック</string>
   <string name="help_uri_about"/>
   <string name="help_uri_accessibility"/>
@@ -2213,7 +2213,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="nfc_quick_toggle_summary">端末が他のデバイスと接触したときのデータ交換を許可する</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">セキュアエレメントの位置</string>
-  <string name="nfc_se_wallet_title">Default wallet</string>
+  <string name="nfc_se_wallet_title">既定のウォレット</string>
   <string name="night_mode_auto">自動</string>
   <string name="night_mode_no">ライト</string>
   <string name="night_mode_summary">%s</string>
@@ -2223,7 +2223,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_application">なし</string>
   <string name="no_applications">アプリはありません。</string>
   <string name="no_battery_summary">前回のフル充電から電池を使用していません</string>
-  <string name="no_connected_devices">No connected devices</string>
+  <string name="no_connected_devices">接続されたデバイスはありません</string>
   <string name="no_data_usage">データ通信の使用はありません</string>
   <string name="no_default_apps">既定のアプリがありません。</string>
   <string name="no_device_admins">有効なデバイス管理者がいません</string>
@@ -2417,7 +2417,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_dtmf_tone_enable_title">設定/音とバイブレーション/Dial pad tones</string>
   <string name="path_edge_handgrip">設定/エッジコントロール</string>
   <string name="path_equalizer">設定/音とバイブレーション/Audio settings/イコライザー</string>
-  <string name="path_fluency_mode">設定/電池とパフォーマンス/System animations</string>
+  <string name="path_fluency_mode">設定/電池とパフォーマンス/システムアニメーション</string>
   <string name="path_font_settings">設定/ディスプレイ/System font</string>
   <string name="path_force_touch">設定/その他の設定/3D Touch</string>
   <string name="path_gesture_wakeup_title">設定/ディスプレイ/Double tap screen to wake</string>
@@ -2435,7 +2435,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_local_backup_section_title">設定/その他の設定/バックアップとリセット/Local backups</string>
   <string name="path_location_settings_title">設定/その他の設定/プライバシー/Location</string>
   <string name="path_lock_sounds_enable_title">設定/音とバイブレーション/Screen lock sound</string>
-  <string name="path_manage_device_admin">設定/その他の設定/プライバシー/Device administrators</string>
+  <string name="path_manage_device_admin">設定/その他の設定/プライバシー/デバイス管理者</string>
   <string name="path_manage_notification_access_title">設定/その他の設定/プライバシー/Notification access</string>
   <string name="path_master_clear_title">設定/その他の設定/バックアップとリセット/Factory data reset</string>
   <string name="path_music_audio_effect_optimize">設定/音とバイブレーション/Audio settings</string>
@@ -2444,7 +2444,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_music_headset_settings">設定/その他の設定/ヘッドフォンとオーディオエフェクト</string>
   <string name="path_music_mi_effect_title">設定/音とバイブレーション/Audio settings/Mi Sound Enhancer</string>
   <string name="path_network_settings">設定/SIMカードとモバイルネットワーク</string>
-  <string name="path_networks_title">設定/SIMカードとモバイルネットワーク/Mobile networks</string>
+  <string name="path_networks_title">設定/SIMカードとモバイルネットワーク/モバイルネットワーク</string>
   <string name="path_nfc_se_route_title">設定/More/Secure element position</string>
   <string name="path_notification_app_list_settings">設定/通知とステータスバー/App notifications</string>
   <string name="path_notification_sound">設定/音とバイブレーション/Default notification sound</string>
@@ -2674,7 +2674,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="priority_storage_summary">データを保存する場所を選択</string>
   <string name="priority_storage_title">ストレージ設定</string>
   <string name="privacy_applock">App lock</string>
-  <string name="privacy_childmode">Child mode</string>
+  <string name="privacy_childmode">キッズモード</string>
   <string name="privacy_file">ファイル</string>
   <string name="privacy_gallery">写真</string>
   <string name="privacy_mms">メッセージ</string>
@@ -3068,7 +3068,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_brightness">明るさ;Screen brightness;Display brightness</string>
   <string name="search_button_light_timeout">ボタンライトの点灯を維持する;Button lights</string>
   <string name="search_calendar_sound_title">カレンダー音;calendar ringtone;calendar</string>
-  <string name="search_children_mode_settings">Child mode;Lock sms;Parental controls;Child parental;Restrict SMS</string>
+  <string name="search_children_mode_settings">キッズモード;Lock sms;Parental controls;Child parental;Restrict SMS</string>
   <string name="search_children_mode_title">キッズモード;Child;Parental controls</string>
   <string name="search_choose_timezone">タイムゾーンを選択;Time zone;Time zones</string>
   <string name="search_cloud_backup_settings_section_title">バックアップの設定;Backup;Back up;Backups</string>
@@ -3104,7 +3104,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_key">ボタン;キー</string>
   <string name="search_lab_functions_title">Beta features;Lab function</string>
   <string name="search_label">設定</string>
-  <string name="search_language">言語と入力;Language;Language and input;Input;Keyboard</string>
+  <string name="search_language">言語と入力;言語;入力;キーボード</string>
   <string name="search_language_picker_title">言語</string>
   <string name="search_led">LED;Notification light;LED light</string>
   <string name="search_legal_information">Legal information</string>
@@ -3112,7 +3112,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_local_backup_section_title">ローカルバックアップ</string>
   <string name="search_location_settings_title">位置情報;位置情報サービス;GPS</string>
   <string name="search_lock_sounds_enable_title">画面ロックの音;Turn on Screen lock sound</string>
-  <string name="search_manage_device_admin">端末管理者;Admin;Administrator</string>
+  <string name="search_manage_device_admin">デバイス管理者;Admin;Administrator</string>
   <string name="search_manage_notification_access_title">通知アクセス;Notifications;Notification permissions</string>
   <string name="search_master_clear_title">ファクトリーリセット</string>
   <string name="search_menu">検索設定</string>
@@ -3168,7 +3168,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_sound_settings">Sound;Volumes;vibration;Suppress noise;noise suppression</string>
   <string name="search_status_bar">Notifications &amp; status bar;Notifications;Status bar</string>
   <string name="search_status_bar_settings_custom_carrier">キャリア名を編集;キャリア名</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">ロック画面に表示;show on lockscreen</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">ロック画面に表示</string>
   <string name="search_status_bar_settings_show_carrier">キャリア名を表示;キャリア名</string>
   <string name="search_status_bar_settings_show_network_speed">接続速度を表示;接続速度</string>
   <string name="search_status_bar_settings_show_notification_icon">通知アイコンを表示;notification icons;show notification icons</string>
@@ -3711,15 +3711,15 @@ PINが正しくない可能性があります。"</string>
   <string name="summary_range_verbal_combination">%1$s to %2$s</string>
   <string name="supl_not_set">&lt;未設定></string>
   <string name="supplicant_state_label">申請者の状態:</string>
-  <string name="suspension_ball_enable">Quick ball shortcut</string>
-  <string name="suspension_ball_enable_desc">Turn Quick ball on and off using the shortcut</string>
-  <string name="suw_back_button_label">Back</string>
+  <string name="suspension_ball_enable">Quick ballのショートカット</string>
+  <string name="suspension_ball_enable_desc">ショートカットを使用してQuick ballのオン/オフを切り替える</string>
+  <string name="suw_back_button_label">戻る</string>
   <string name="suw_more_button_label">More</string>
-  <string name="suw_next_button_label">Next</string>
+  <string name="suw_next_button_label">次へ</string>
   <string name="switch_off_text">OFF</string>
   <string name="switch_on_text">ON</string>
-  <string name="switch_screen_button_order">Mirror buttons</string>
-  <string name="switch_screen_button_order_desc">Mirror Back and Menu buttons</string>
+  <string name="switch_screen_button_order">ボタンの入れ替え</string>
+  <string name="switch_screen_button_order_desc">戻るとメニューボタンを入れ替える</string>
   <string name="symbols_not_allowed_for_password">パスワードに記号は使用出来ません</string>
   <string name="sync_active">同期有効</string>
   <string name="sync_automatically">データの自動更新</string>
@@ -4146,7 +4146,7 @@ PINが正しくない可能性があります。"</string>
   <string name="virus_scanner_select_multi">1セット以上のウイルス定義を選択すると、インストールとスキャンの実行速度が低下します。</string>
   <string name="virus_scanner_select_single">信頼のおけるソースのウイルス定義のみ使用</string>
   <string name="virus_scanner_select_trust_lib">ウイルス定義を選択</string>
-  <string name="virus_scanner_title">ウィルススキャナー</string>
+  <string name="virus_scanner_title">ウイルススキャナー</string>
   <string name="virus_scanner_update_lib">ウイルス定義を更新</string>
   <string name="voice_category">音声</string>
   <string name="voice_input_output_settings">音声入出力</string>
@@ -4727,7 +4727,7 @@ PINが正しくない可能性があります。"</string>
   <string name="zen_mode_when_every_night">毎日の夜間</string>
   <string name="zen_mode_when_never">設定しない</string>
   <string name="zen_mode_when_weeknights">平日の夜間</string>
-  <string name="zen_schedule_rule_enabled_toast">Automatic rule set to turn on Do Not Disturb during specified times</string>
+  <string name="zen_schedule_rule_enabled_toast">自動ルールでは、指定された時間帯に夜間モードをオンにするよう設定します</string>
   <string name="zen_schedule_rule_type_name">時間ルール</string>
   <string name="zone_auto">タイムゾーンの自動設定</string>
   <string name="zone_auto_summaryOff">ネットワークから提供されたタイムゾーンを使用する</string>

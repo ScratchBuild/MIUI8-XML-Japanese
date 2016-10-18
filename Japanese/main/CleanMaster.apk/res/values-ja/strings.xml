@@ -18,7 +18,7 @@
   <string name="activity_title_residual">Residuals</string>
   <string name="activity_title_scanfinish">Scan complete</string>
   <string name="activity_title_screenshot">"スクリーンショット"</string>
-  <string name="activity_title_settings">Settings</string>
+  <string name="activity_title_settings">"設定"</string>
   <string name="activity_title_similar_image">Duplicate photos</string>
   <string name="activity_title_similar_image_group">Delete duplicates</string>
   <string name="activity_title_tedious_image">Accidental photos</string>
@@ -44,8 +44,8 @@
   <string name="auto_clean_switch_on">On</string>
   <string name="auto_cleaner_open">Turn on</string>
   <string name="back">"戻る"</string>
-  <string name="browser_scan_history_desc">Browser History</string>
-  <string name="browser_search_history_desc">Searched items</string>
+  <string name="browser_scan_history_desc">"ブラウザ履歴"</string>
+  <string name="browser_search_history_desc">"検索アイテム"</string>
   <string name="btn_text_done">"完了"</string>
   <string name="btn_text_quick_cleanup">Clean up</string>
   <string name="btn_text_quick_cleanup_apk">Delete selected APKs %1$s</string>
@@ -99,7 +99,7 @@
   <string name="clear_bigfiles">Delete big files, duplicate photos, and other useless items</string>
   <string name="clear_immediately">Clean now</string>
   <string name="clear_safe_notify">Security notification bar</string>
-  <string name="clip_board_history_desc">Copied/cut contents</string>
+  <string name="clip_board_history_desc">"コピー/切り取りした内容"</string>
   <string name="clipboard">"クリップボード"</string>
   <string name="close">"閉じる"</string>
   <string name="confirm_auto_cleaner">OK</string>
@@ -182,7 +182,7 @@
   <string name="garbage_cleanup_detail">%1$d times, cleaned %2$s</string>
   <string name="garbage_month">Cleaned %s this month</string>
   <string name="gigabyteShort">GB</string>
-  <string name="go_to">Proceed</string>
+  <string name="go_to">"続行"</string>
   <string name="goto_set">Set</string>
   <string name="grabage_rank_title">Cleaned today</string>
   <string name="harass_detail">Blocked %1$d SMS and %2$d calls</string>
@@ -404,9 +404,9 @@
   <string name="pref_title_open_optimizer_cloud_scan">Upload file names</string>
   <string name="pref_title_open_optimizer_memory_scan">Scan app memory</string>
   <string name="privacy_app_desc">"アカウントとパスワード"</string>
-  <string name="privacy_app_desc_message">Account, passwords, and messages</string>
-  <string name="privacy_app_desc_search">Account, passwords, and search history</string>
-  <string name="privacy_app_desc_setting">Account, passwords, and settings</string>
+  <string name="privacy_app_desc_message">"アカウント、パスワード、およびメッセージ"</string>
+  <string name="privacy_app_desc_search">"アカウント、パスワード、および検索履歴"</string>
+  <string name="privacy_app_desc_setting">"アカウント、パスワード、および設定"</string>
   <string name="privacy_appdata_chrome_history_des">Visited websites</string>
   <string name="privacy_browser_desc">Searched items</string>
   <string name="privacy_cache_desc">Account, password, history, settings and more</string>
@@ -469,7 +469,7 @@
   <string name="title_delete_deepclean">Delete</string>
   <string name="title_delete_large_file">Delete big files</string>
   <string name="title_of_app_manage">"アプリ"</string>
-  <string name="title_of_auto_launch_manage">Autostart</string>
+  <string name="title_of_auto_launch_manage">"自動起動"</string>
   <string name="title_of_cloud_service">Cloud services</string>
   <string name="title_of_garbage_cloud_scan">Cloud scan</string>
   <string name="title_of_garbage_data_set">Cleaner database updates</string>
@@ -503,7 +503,7 @@
   <string name="traffic_top">TOP 5 data consuming apps</string>
   <string name="unlike">"結構です"</string>
   <string name="update_date_format">MM/dd/yyyy</string>
-  <string name="virus_scan">Virus scan</string>
+  <string name="virus_scan">"ウイルススキャン"</string>
   <string name="vungle_ad_name">"Vungle広告"</string>
   <string name="white_list_ad_header">Ad files: %d</string>
   <string name="white_list_apk_header">Install packages: %d</string>

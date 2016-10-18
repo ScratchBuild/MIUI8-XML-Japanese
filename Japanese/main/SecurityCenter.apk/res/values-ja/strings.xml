@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="SMS_and_MMS">SMS and MMS</string>
-  <string name="Setting_lock">Settings</string>
-  <string name="Settings_title_anti_spam">Blocklist settings</string>
-  <string name="Settings_title_anti_virus">Virus scan settings</string>
-  <string name="Settings_title_garbage_cleanup">Cleaner settings</string>
-  <string name="Settings_title_network_assistants">Data usage settings</string>
-  <string name="Settings_title_power_center">Battery settings</string>
+  <string name="Setting_lock">"設定"</string>
+  <string name="Settings_title_anti_spam">"ブロックリストの設定"</string>
+  <string name="Settings_title_anti_virus">"ウイルススキャンの設定"</string>
+  <string name="Settings_title_garbage_cleanup">"クリーナーの設定"</string>
+  <string name="Settings_title_network_assistants">"データ使用の設定"</string>
+  <string name="Settings_title_power_center">"バッテリーの設定"</string>
   <string name="ac_enable_title">Turn on App lock</string>
   <string name="ac_enter_applock">Enter App lock</string>
   <string name="ac_firstUseApplock_subTitle">Use better system-level security tools</string>
@@ -24,15 +24,15 @@ or enter App lock password"</string>
   <string name="action_button_text_60">Fix</string>
   <string name="action_button_text_60_80">Fix</string>
   <string name="action_button_text_80_100">Optimize</string>
-  <string name="activity_title_antispam">Blocklist</string>
-  <string name="activity_title_antivirus">Virus scan</string>
-  <string name="activity_title_apps_manager">Apps</string>
-  <string name="activity_title_auto_start_manager">Autostart</string>
+  <string name="activity_title_antispam">"ブロックリスト"</string>
+  <string name="activity_title_antivirus">"ウイルススキャン"</string>
+  <string name="activity_title_apps_manager">"アプリ"</string>
+  <string name="activity_title_auto_start_manager">"自動起動"</string>
   <string name="activity_title_create_shortcut">"ショートカットを管理"</string>
-  <string name="activity_title_default_apps_manager">Default apps</string>
-  <string name="activity_title_garbage_cleanup">Cleaner</string>
+  <string name="activity_title_default_apps_manager">"既定のアプリ"</string>
+  <string name="activity_title_garbage_cleanup">"クリーナー"</string>
   <string name="activity_title_license_manager">Permissions</string>
-  <string name="activity_title_memory">Memory</string>
+  <string name="activity_title_memory">"メモリ"</string>
   <string name="activity_title_network_speed_detail">Connection</string>
   <string name="activity_title_networkassistants">Data usage</string>
   <string name="activity_title_notification_bar_manager">Notifications</string>
@@ -50,8 +50,8 @@ or enter App lock password"</string>
   <string name="activity_title_settings">"設定"</string>
   <string name="activity_title_system">"システム"</string>
   <string name="activity_title_trash">"キャッシュ"</string>
-  <string name="activity_title_virus">Virus</string>
-  <string name="activity_title_virus_detail">Virus detail</string>
+  <string name="activity_title_virus">"ウイルス"</string>
+  <string name="activity_title_virus_detail">"ウイルスの詳細"</string>
   <string name="activity_title_virus_settings">"設定"</string>
   <string name="adb_install_no_network">Connect to the network and try again</string>
   <string name="adb_install_open">Allowing…</string>
@@ -80,7 +80,7 @@ or enter App lock password"</string>
   <string name="antivirus_more_engine_dialog_title">Attention</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_none_engine_dialog_title">Choose definitions</string>
-  <string name="antivirus_privacy_dialog_cloudscan">Upload app names and details</string>
+  <string name="antivirus_privacy_dialog_cloudscan">"アプリ名と詳細をアップロード"</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Upload and scan app names and details using online virus definitions.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">"This feature encrypts and uploads your device's ID to Avast, AVL and Tencent's servers (%s)."</string>
@@ -98,7 +98,7 @@ or enter App lock password"</string>
   <string name="app_check_reason_wakeup_alarm">Lock screen is woken frequently</string>
   <string name="app_check_reason_wifi_scan">Frequent WLAN scans</string>
   <string name="app_check_sub_title_text">Optimize apps to resolve battery issues</string>
-  <string name="app_detail">Details</string>
+  <string name="app_detail">"詳細"</string>
   <string name="app_install_intercept">Block installation</string>
   <string name="app_mobile">Mobile</string>
   <string name="app_name">App lock</string>
@@ -137,10 +137,10 @@ or enter App lock password"</string>
   <string name="auto_task_condition_time_duration_text">From %1$s to %2$s</string>
   <string name="auto_task_condition_time_pick_title">Set timer</string>
   <string name="auto_task_condition_time_text">At %s</string>
-  <string name="auto_task_dialog_button_close">Done</string>
-  <string name="auto_task_edit_abandon_change">Discard changes?</string>
+  <string name="auto_task_dialog_button_close">"完了"</string>
+  <string name="auto_task_edit_abandon_change">"変更を破棄しますか？"</string>
   <string name="auto_task_edit_activity_title">My automated tasks</string>
-  <string name="auto_task_edit_adandon_button_text">Discard</string>
+  <string name="auto_task_edit_adandon_button_text">"破棄"</string>
   <string name="auto_task_edit_choose_condition_title">Select condition</string>
   <string name="auto_task_edit_choose_new_operation">Add action</string>
   <string name="auto_task_edit_choose_operation_title">Select action</string>
@@ -336,8 +336,8 @@ or enter App lock password"</string>
   <string name="clean_immediately">Clear</string>
   <string name="cleaned">Cleared</string>
   <string name="cmcc_app_check_dialog_message">Restart your device to complete repair.</string>
-  <string name="cmcc_app_check_dialog_negative">Later</string>
-  <string name="cmcc_app_check_dialog_positive">Restart now</string>
+  <string name="cmcc_app_check_dialog_negative">"後で"</string>
+  <string name="cmcc_app_check_dialog_positive">"今すぐ再起動"</string>
   <string name="cmcc_app_check_dialog_title">System repaired</string>
   <string name="confirmSecondSpacePassword">Confirm Second space password</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Adding Mi Account</string>
@@ -460,11 +460,11 @@ or enter App lock password"</string>
   <string name="fingerprint_verify_succeed">Fingerprint verified</string>
   <string name="fingerprint_verify_try_agin">"Couldn't scan fingerprint, try again"</string>
   <string name="firewall_activity_lable">Restrict data usage by app</string>
-  <string name="firewall_applist">Apps</string>
+  <string name="firewall_applist">"アプリ"</string>
   <string name="firewall_fragment_nonesys_listempty">Empty</string>
   <string name="firewall_fragment_sys_listempty">Empty</string>
   <string name="firewall_fragment_tab_title_nonsys">Installed</string>
-  <string name="firewall_fragment_tab_title_sys">System</string>
+  <string name="firewall_fragment_tab_title_sys">"システム"</string>
   <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
   <string name="firewall_network_restrict_notify_mobile">mobile data</string>
   <string name="firewall_network_restrict_notify_title">"%1$s can't use %2$s"</string>
@@ -488,13 +488,13 @@ or enter App lock password"</string>
   <string name="gateway_exception_title">Test router</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to_setting_fingerprint">"設定"</string>
-  <string name="handle_bar_title_apps">Apps</string>
-  <string name="handle_bar_title_paysms">Messages</string>
-  <string name="handle_bar_title_system">System</string>
-  <string name="handle_bar_title_wifi">WLAN</string>
-  <string name="handle_text_cache">Cache</string>
-  <string name="handle_text_memory">Memory</string>
-  <string name="handle_text_system">System</string>
+  <string name="handle_bar_title_apps">"アプリ"</string>
+  <string name="handle_bar_title_paysms">"メッセージ"</string>
+  <string name="handle_bar_title_system">"システム"</string>
+  <string name="handle_bar_title_wifi">"Wi-Fi"</string>
+  <string name="handle_text_cache">"キャッシュ"</string>
+  <string name="handle_text_memory">"メモリ"</string>
+  <string name="handle_text_system">"システム"</string>
   <string name="header_info_scan_progress">%d%%</string>
   <string name="help_label">"ヘルプ"</string>
   <string name="hide_mode_app_background_setting_text">App battery saver</string>
@@ -552,7 +552,7 @@ or enter App lock password"</string>
   <string name="install_sucess">Installed %s successfully</string>
   <string name="install_title">Install via USB</string>
   <string name="installed">Installed</string>
-  <string name="installing">Installing</string>
+  <string name="installing">"インストール中"</string>
   <string name="international_roaming_setting">Overseas roaming</string>
   <string name="international_roaming_whitelist_count">%d apps can use mobile data when roaming</string>
   <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
@@ -561,7 +561,7 @@ or enter App lock password"</string>
   <string name="item_install_monitor">Install monitor</string>
   <string name="item_mms">Filter unwanted messages</string>
   <string name="item_usb_debug">USB debugging</string>
-  <string name="item_virus">Virus</string>
+  <string name="item_virus">"ウイルス"</string>
   <string name="item_virus_lib">Update virus definitions automatically</string>
   <string name="keywords_antispam">Blocklist;Block;Black list;Smart blocklist;Fraud;Sales;Agents</string>
   <string name="keywords_antivirus">Virus;Risk;Antivirus;Scan</string>
@@ -669,7 +669,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="main_traffic_used">%s used</string>
   <string name="main_traffic_used_only">%s used</string>
   <string name="main_traffic_used_text">used</string>
-  <string name="manual_handle_title">AVAILABLE FEATURES</string>
+  <string name="manual_handle_title">"利用可能な機能"</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">Set data usage</string>
   <string name="manual_item_white_list_summary">Prevent selected apps from being optimized</string>
@@ -682,12 +682,12 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_item_about_content">Version %s</string>
   <string name="menu_item_about_summary">Version %s</string>
   <string name="menu_item_about_title">About</string>
-  <string name="menu_item_app_details">Details</string>
+  <string name="menu_item_app_details">"詳細"</string>
   <string name="menu_item_app_permissions_control">Permission manager</string>
   <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
   <string name="menu_item_force_stop">"強制停止"</string>
-  <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
-  <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
+  <string name="menu_item_notification_antispam_text_avail">"ブロックリスト"</string>
+  <string name="menu_item_notification_antispam_text_normal">"ブロックリスト"</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">"エラー"</string>
   <string name="menu_item_notification_power_text">Power</string>
@@ -696,14 +696,14 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_item_shortcut_summary">Place features on your Home screen</string>
   <string name="menu_item_shortcut_title">"ショートカットを管理"</string>
   <string name="menu_item_uninstall">"アンインストール"</string>
-  <string name="menu_item_virus_cloud_scan_summary">Upload app names and details and scan using online virus definitions</string>
+  <string name="menu_item_virus_cloud_scan_summary">"アプリ名と詳細をアップロードし、オンラインのウイルス定義を使用してスキャンします"</string>
   <string name="menu_item_virus_cloud_scan_title">Online definitions</string>
   <string name="menu_item_virus_install_monitor_summary">Check apps for viruses before installing</string>
   <string name="menu_item_virus_install_monitor_title">Scan before installing</string>
   <string name="menu_item_virus_lib_auto_update_summary">Updated on %s</string>
-  <string name="menu_text_antispam">Blocklist</string>
-  <string name="menu_text_antivirus">Virus scan</string>
-  <string name="menu_text_garbage_cleanup">Cleaner</string>
+  <string name="menu_text_antispam">"ブロックリスト"</string>
+  <string name="menu_text_antivirus">"ウイルススキャン"</string>
+  <string name="menu_text_garbage_cleanup">"クリーナー"</string>
   <string name="menu_text_garbage_cleanup_danger">%s over</string>
   <string name="menu_text_license_manager">Permissions</string>
   <string name="menu_text_networkassistants">Data usage</string>
@@ -819,7 +819,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_purchase">Buy</string>
   <string name="optimize_result_button_purchase_flow">View all</string>
   <string name="optimize_result_button_realname_now">Verify</string>
-  <string name="optimize_result_button_see_detaills">Details</string>
+  <string name="optimize_result_button_see_detaills">"詳細"</string>
   <string name="optimize_result_button_to_open">Turn on</string>
   <string name="optimize_result_button_to_set">Set</string>
   <string name="optimize_result_button_update_now">Update</string>
@@ -912,12 +912,12 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_center_title">Power</string>
   <string name="power_consume_other">Other</string>
   <string name="power_consume_rank_hardware">Hardware</string>
-  <string name="power_consume_rank_software">Apps</string>
+  <string name="power_consume_rank_software">"アプリ"</string>
   <string name="power_consume_rank_title">Battery use</string>
   <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
   <string name="power_consume_total_software">Apps: %1$d%%</string>
-  <string name="power_customize_giveup_change">Abandon changes?</string>
-  <string name="power_dialog_cancel">Cancel</string>
+  <string name="power_customize_giveup_change">"変更を破棄しますか？"</string>
+  <string name="power_dialog_cancel">"キャンセル"</string>
   <string name="power_dialog_ok">OK</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_mode_choose_summary_change">Something changed in the configuration</string>
@@ -1025,23 +1025,23 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_version">Version %s</string>
   <string name="pref_warning_values">Data usage warning level</string>
   <string name="pref_whitelist_setting">Data roaming exceptions</string>
-  <string name="preferred_app_entries_browser">Browser</string>
-  <string name="preferred_app_entries_camera">Camera</string>
-  <string name="preferred_app_entries_dial">Dial</string>
-  <string name="preferred_app_entries_email">Email</string>
-  <string name="preferred_app_entries_gallery">Gallery</string>
-  <string name="preferred_app_entries_launcher">Launcher</string>
+  <string name="preferred_app_entries_browser">"ブラウザ"</string>
+  <string name="preferred_app_entries_camera">"カメラ"</string>
+  <string name="preferred_app_entries_dial">"ダイヤル"</string>
+  <string name="preferred_app_entries_email">"メール"</string>
+  <string name="preferred_app_entries_gallery">"ギャラリー"</string>
+  <string name="preferred_app_entries_launcher">"ランチャー"</string>
   <string name="preferred_app_entries_messaging">Messaging</string>
   <string name="preferred_app_entries_music">Music</string>
-  <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=%s&gt; Terms of Service&lt;/a&gt;."</string>
+  <string name="privacy_declare_dialog_message">"このサービスを利用することで、Operaの&lt;a href=%s&gt;利用規約&lt;/a&gt;に同意したことになります。"</string>
   <string name="privacy_declare_dialog_title">"利用規約"</string>
   <string name="privacy_mode_dialog_title">"ゲストモード"</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
   <string name="privacy_prompt_traffic_adjust_message">"This feature needs to encrypt and send your device's IMEI, phone number, and carrier information to Mi's servers in order get data usage stats from your carrier."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
-  <string name="privacy_prompt_upload">Upload</string>
+  <string name="privacy_prompt_upload">"アップロード"</string>
   <string name="process_kernel_label">Android</string>
-  <string name="process_mediaserver_label">Media server</string>
+  <string name="process_mediaserver_label">"メディアサーバー"</string>
   <string name="promotion">Ad</string>
   <string name="prompt_input_time_illegal">"Can't set this time, change it and try again"</string>
   <string name="protection_category_dangerous_title">Risks (%d)</string>
@@ -1065,13 +1065,13 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="reject_all">Restrict all</string>
   <string name="reject_countdown">Deny (%d)</string>
   <string name="reject_usb_install">Denied installation of the following apps via USB</string>
-  <string name="renew_ip">Retry</string>
+  <string name="renew_ip">"再試行"</string>
   <string name="repair">"修復"</string>
   <string name="repair_loading_text">"読み込み中…"</string>
   <string name="replace_dns">Replace DNS automatically</string>
-  <string name="resource_antispam">Blocklist</string>
-  <string name="resource_antivirus">Virus scan</string>
-  <string name="resource_cleanmaster">Cleaner</string>
+  <string name="resource_antispam">"ブロックリスト"</string>
+  <string name="resource_antivirus">"ウイルススキャン"</string>
+  <string name="resource_cleanmaster">"クリーナー"</string>
   <string name="resource_monthreport">Security report</string>
   <string name="resource_networkassistant_1">Data usage</string>
   <string name="resource_networkassistant_2">Calibrate data plan</string>
@@ -1129,7 +1129,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="safe_result_item_info_wifi_dns">DNS server secure</string>
   <string name="safe_result_item_info_wifi_encryption">WLAN encrypted</string>
   <string name="safe_result_item_info_wifi_fake">Not fake</string>
-  <string name="safepay_alert_dialog_button_continue">Continue</string>
+  <string name="safepay_alert_dialog_button_continue">"続行"</string>
   <string name="safepay_alert_dialog_button_risk">Fix</string>
   <string name="safepay_alert_dialog_button_unknown">Check again</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Risk found! Interrupt current payment!&lt;/font&gt;</string>
@@ -1154,7 +1154,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="security_app_lock">App lock</string>
   <string name="security_scan_card_clean_now">Scan</string>
   <string name="security_scan_optimizing">Optimizing…</string>
-  <string name="see_detail">Details</string>
+  <string name="see_detail">"詳細"</string>
   <string name="select_pattern">Select pattern</string>
   <string name="set_applock_password">Set password</string>
   <string name="setting_privacy_password">Set App lock password</string>
@@ -1166,23 +1166,23 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="settings_category_other">"その他の設定"</string>
   <string name="settings_category_overheat">Heating</string>
   <string name="settings_choice_no_notification">Off</string>
-  <string name="settings_power_save_ontime_title">Schedule</string>
+  <string name="settings_power_save_ontime_title">"スケジュール"</string>
   <string name="settings_title_payment_security">Payment security settings</string>
   <string name="settings_title_permission">Permissions settings</string>
   <string name="show_traffic_dialog_message">Your data usage info will be displayed in the notification shade. You can turn this feature on or off anytime in Data usage &gt; Settings</string>
   <string name="show_traffic_dialog_title">Show usage in notification shade</string>
   <string name="showpattern">"パターンを表示"</string>
   <string name="shutdown_cancel_reminder">"Didn't power off"</string>
-  <string name="shutdown_cancel_reminder_detail">"Device didn't power off because you were in the middle of a call"</string>
+  <string name="shutdown_cancel_reminder_detail">"通話中だったため、デバイスの電源をオフにできませんでした"</string>
   <string name="shutdown_time">Off at %1$s</string>
   <string name="shutdown_time_day">Off in %1$dd at %2$s</string>
   <string name="shutdown_time_day_tomorrow">Off tomorrow at %1$s</string>
-  <string name="signal_exception_summary">"Can't connect to network in this area."</string>
-  <string name="signal_exception_title">Test signal strength</string>
+  <string name="signal_exception_summary">"この地域ではネットワークに接続できません。"</string>
+  <string name="signal_exception_title">"信号強度テスト"</string>
   <string name="sim_location_diagnostic">Location diagnostics</string>
   <string name="sim_location_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
   <string name="sim_location_error_notify_message">Tap to change SIM location.</string>
-  <string name="sim_location_error_notify_title">SIM card error</string>
+  <string name="sim_location_error_notify_title">"SIMカードのエラー"</string>
   <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
   <string name="sorted_button">Sort by</string>
   <string name="sorted_dialog_title">Sort by</string>
@@ -1247,7 +1247,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_telecom_operator">Get your monthly data usage stats from your carrier</string>
   <string name="summary_usb">Prevent malware from being transmitted via USB</string>
   <string name="summary_virus">Remove viruses to keep your device secure</string>
-  <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
+  <string name="summary_virus_cloudscan">"アプリ名と詳細をアップロードし、オンラインのウイルス定義を使用してスキャンします"</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
   <string name="sys_app_prot_cracked_confirm">Got it</string>
@@ -1269,7 +1269,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_brand_error_notification_summary">Tap to adjust network type</string>
   <string name="tc_diagnostic_brand_error_notification_title">Wrong network type</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier brand&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_complete">Done</string>
+  <string name="tc_diagnostic_complete">"完了"</string>
   <string name="tc_diagnostic_fragment_default">"About diagnostics
 1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
 2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
@@ -1300,11 +1300,11 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Carrier diagnostics</string>
-  <string name="tc_diagnostic_upload_button">Report</string>
-  <string name="tc_diagnostic_upload_no_network">Thank you for your feedback! Your report will be submitted when you connect to network.</string>
-  <string name="tc_diagnostic_upload_success">Thank you for your feedback!</string>
-  <string name="tc_sms_report_direction">SMS inquiry code</string>
-  <string name="tc_sms_report_do_report">Send</string>
+  <string name="tc_diagnostic_upload_button">"報告"</string>
+  <string name="tc_diagnostic_upload_no_network">"ご意見ありがとうございます！ あなたの報告はネットワークに接続したときに送信されます。"</string>
+  <string name="tc_diagnostic_upload_success">"ご意見ありがとうございます！"</string>
+  <string name="tc_sms_report_direction">"SMS問い合わせコード"</string>
+  <string name="tc_sms_report_do_report">"送信"</string>
   <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
   <string name="tc_sms_report_get_sms">Get SMS</string>
   <string name="tc_sms_report_get_sms2">Get SMS</string>
@@ -1336,7 +1336,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_sms_report_title_calltime">Report data usage bug</string>
   <string name="tc_sms_report_toast_text">Getting info…</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
-  <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
+  <string name="tc_sms_report_upload_when_net">"ご意見ありがとうございます！"</string>
   <string name="ten_percent_total_pkg">%s (10%% of monthly data)</string>
   <string name="text_button">Got it</string>
   <string name="text_day"/>
@@ -1404,7 +1404,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="toast_flow_notification">Turned on data usage notifications</string>
   <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
   <string name="toast_lockscreen_glogin_empty_password">Password required</string>
-  <string name="toast_network_eror">"Can't connect to network"</string>
+  <string name="toast_network_eror">"ネットワークに接続できません"</string>
   <string name="toast_network_switch">This app can connect to the internet</string>
   <string name="toast_reject_sms_read_permission_success">Set successfully</string>
   <string name="toast_root_apply_accept">Root access granted to %s</string>
@@ -1434,20 +1434,20 @@ Your plan's monthly off-peak data usage limit is %1$s. You haven't set an off-pe
 Your plan's monthly peak-time data usage limit is %1$s. This is different from the %2$s limit you set manually."</string>
   <string name="traffic_config_alert_package">"
 Rolled over extra data"</string>
-  <string name="traffic_config_alert_setted">Settings applied</string>
+  <string name="traffic_config_alert_setted">"設定を適用しました"</string>
   <string name="traffic_config_alert_title">%s Correction</string>
-  <string name="traffic_correction_failed">"Can't get info"</string>
+  <string name="traffic_correction_failed">"情報を取得できません"</string>
   <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
   <string name="traffic_correction_success">Data usage updated</string>
-  <string name="traffic_correction_success_notify_message">Tap to view details.</string>
+  <string name="traffic_correction_success_notify_message">"詳細を表示するにはタップ。"</string>
   <string name="traffic_limit_error_alert_body">Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Mark extra data as top-up package?</string>
   <string name="traffic_limit_error_alert_package">"
 
 Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
-  <string name="traffic_over_purchase_body">Tap to view details.</string>
+  <string name="traffic_over_purchase_body">"詳細を表示するにはタップ。"</string>
   <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Data limit exceeded</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>

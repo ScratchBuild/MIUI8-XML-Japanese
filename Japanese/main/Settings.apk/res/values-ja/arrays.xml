@@ -32,10 +32,6 @@
         <item>結合表示</item>
         <item>分割表示</item>
     </string-array>
-    <string-array name="status_bar_style_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="timezone_filters">
         <item>アメリカ</item>
         <item>ヨーロッパ</item>
@@ -54,15 +50,6 @@
         <item>10分</item>
         <item>オフにしない</item>
     </string-array>
-    <string-array name="screen_timeout_values">
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>2147483647</item>
-    </string-array>
     <string-array name="dream_timeout_entries">
         <item>起動しない</item>
         <item>15秒</item>
@@ -72,16 +59,6 @@
         <item>5分</item>
         <item>10分</item>
         <item>30分</item>
-    </string-array>
-    <string-array name="dream_timeout_values">
-        <item>0</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>今すぐ</item>
@@ -93,17 +70,6 @@
         <item>5分</item>
         <item>10分</item>
         <item>30分</item>
-    </string-array>
-    <string-array name="lock_after_timeout_values">
-        <item>0</item>
-        <item>5000</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>小</item>
@@ -130,30 +96,12 @@
         <item>非常に高速</item>
         <item>最高速</item>
     </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-    </string-array>
     <string-array name="tts_pitch_entries">
         <item>非常に低い</item>
         <item>低い</item>
         <item>標準</item>
         <item>高い</item>
         <item>非常に高い</item>
-    </string-array>
-    <string-array name="tts_pitch_values">
-        <item>50</item>
-        <item>80</item>
-        <item>100</item>
-        <item>120</item>
-        <item>150</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -220,11 +168,6 @@
         <item>電源接続時にのみ使用する</item>
         <item>使用しない</item>
     </string-array>
-    <string-array name="wifi_sleep_policy_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="data_usage_data_range">
         <item>過去30日間</item>
         <item>使用サイクルを設定...</item>
@@ -233,11 +176,6 @@
         <item>自動</item>
         <item>5 GHzのみ</item>
         <item>2.4 GHzのみ</item>
-    </string-array>
-    <string-array name="wifi_frequency_band_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>使用時間</item>
@@ -277,21 +215,10 @@
         <item>CHAP</item>
         <item>PAPまたはCHAP</item>
     </string-array>
-    <string-array name="apn_auth_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="apn_protocol_entries">
         <item>IPv4</item>
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
-    </string-array>
-    <string-array name="apn_protocol_values">
-        <item>IP</item>
-        <item>IPV6</item>
-        <item>IPV4V6</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>指定なし</item>
@@ -311,45 +238,16 @@
         <item>IS95B</item>
         <item>IS95A</item>
     </string-array>
-    <string-array name="bearer_values">
-        <item>0</item>
-        <item>14</item>
-        <item>15</item>
-        <item>11</item>
-        <item>10</item>
-        <item>9</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-        <item>13</item>
-        <item>12</item>
-        <item>8</item>
-        <item>7</item>
-        <item>6</item>
-        <item>5</item>
-        <item>4</item>
-    </string-array>
     <string-array name="mvno_type_entries">
         <item>None</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
     </string-array>
-    <string-array name="mvno_type_values">
-        <item></item>
-        <item>spn</item>
-        <item>imsi</item>
-        <item>gid</item>
-    </string-array>
     <string-array name="app_install_location_entries">
         <item>内部端末ストレージ</item>
         <item>リムーバブルSDカード</item>
         <item>システムで判断する</item>
-    </string-array>
-    <string-array name="app_install_location_values">
-        <item>device</item>
-        <item>sdcard</item>
-        <item>auto</item>
     </string-array>
     <string-array name="app_ops_categories">
         <item>位置情報</item>
@@ -467,11 +365,6 @@
         <item>中</item>
         <item>長め</item>
     </string-array>
-    <string-array name="long_press_timeout_selector_values">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-    </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>デフォルト</item>
         <item>Sans-serif</item>
@@ -483,30 +376,12 @@
         <item>草書体</item>
         <item>スモールキャピタル</item>
     </string-array>
-    <string-array name="captioning_typeface_selector_values">
-        <item></item>
-        <item>sans-serif</item>
-        <item>sans-serif-condensed</item>
-        <item>sans-serif-monospace</item>
-        <item>serif</item>
-        <item>serif-monospace</item>
-        <item>casual</item>
-        <item>cursive</item>
-        <item>sans-serif-smallcaps</item>
-    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>極小</item>
         <item>小</item>
         <item>標準</item>
         <item>大</item>
         <item>極大</item>
-    </string-array>
-    <string-array name="captioning_font_size_selector_values">
-        <item>0.25</item>
-        <item>0.5</item>
-        <item>1.0</item>
-        <item>1.5</item>
-        <item>2.0</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>デフォルト</item>
@@ -516,93 +391,12 @@
         <item>浮き彫り</item>
         <item>沈み彫り</item>
     </string-array>
-    <integer-array name="captioning_edge_type_selector_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="captioning_color_selector_values">
-        <item>0xffffff</item>
-        <item>0xffffffff</item>
-        <item>0xff000000</item>
-        <item>0xffff0000</item>
-        <item>0xffffff00</item>
-        <item>0xff00ff00</item>
-        <item>0xff00ffff</item>
-        <item>0xff0000ff</item>
-        <item>0xffff00ff</item>
-        <item>0xff000055</item>
-        <item>0xff0000aa</item>
-        <item>0xff005500</item>
-        <item>0xff005555</item>
-        <item>0xff0055aa</item>
-        <item>0xff0055ff</item>
-        <item>0xff00aa00</item>
-        <item>0xff00aa55</item>
-        <item>0xff00aaaa</item>
-        <item>0xff00aaff</item>
-        <item>0xff00ff55</item>
-        <item>0xff00ffaa</item>
-        <item>0xff550000</item>
-        <item>0xff550055</item>
-        <item>0xff5500aa</item>
-        <item>0xff5500ff</item>
-        <item>0xff555500</item>
-        <item>0xff555555</item>
-        <item>0xff5555aa</item>
-        <item>0xff5555ff</item>
-        <item>0xff55aa00</item>
-        <item>0xff55aa55</item>
-        <item>0xff55aaaa</item>
-        <item>0xff55aaff</item>
-        <item>0xff55ff00</item>
-        <item>0xff55ff55</item>
-        <item>0xff55ffaa</item>
-        <item>0xff55ffff</item>
-        <item>0xffaa0000</item>
-        <item>0xffaa0055</item>
-        <item>0xffaa00aa</item>
-        <item>0xffaa00ff</item>
-        <item>0xffaa5500</item>
-        <item>0xffaa5555</item>
-        <item>0xffaa55aa</item>
-        <item>0xffaa55ff</item>
-        <item>0xffaaaa00</item>
-        <item>0xffaaaa55</item>
-        <item>0xffaaaaaa</item>
-        <item>0xffaaaaff</item>
-        <item>0xffaaff00</item>
-        <item>0xffaaff55</item>
-        <item>0xffaaffaa</item>
-        <item>0xffaaffff</item>
-        <item>0xffff0055</item>
-        <item>0xffff00aa</item>
-        <item>0xffff5500</item>
-        <item>0xffff5555</item>
-        <item>0xffff55aa</item>
-        <item>0xffff55ff</item>
-        <item>0xffffaa00</item>
-        <item>0xffffaa55</item>
-        <item>0xffffaaaa</item>
-        <item>0xffffaaff</item>
-        <item>0xffffff55</item>
-        <item>0xffffffaa</item>
-    </integer-array>
     <string-array name="captioning_opacity_selector_titles">
         <item>25%</item>
         <item>50%</item>
         <item>75%</item>
         <item>100%</item>
     </string-array>
-    <integer-array name="captioning_opacity_selector_values">
-        <item>0x40ffffff</item>
-        <item>0x80ffffff</item>
-        <item>0xc0ffffff</item>
-        <item>0xffffffff</item>
-    </integer-array>
     <string-array name="captioning_preset_selector_titles">
         <item>アプリのデフォルトを使用</item>
         <item>黒地に白</item>
@@ -611,14 +405,6 @@
         <item>青地に黄色</item>
         <item>カスタム</item>
     </string-array>
-    <integer-array name="captioning_preset_selector_values">
-        <item>4</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>-1</item>
-    </integer-array>
     <string-array name="select_logd_size_titles">
         <item>64K</item>
         <item>256K</item>
@@ -631,13 +417,6 @@
         <item>256K</item>
         <item>1M</item>
     </string-array>
-    <string-array name="select_logd_size_values">
-        <item>65536</item>
-        <item>262144</item>
-        <item>1048576</item>
-        <item>4194304</item>
-        <item>16777216</item>
-    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>64K/ログバッファ</item>
         <item>256K/ログバッファ</item>
@@ -649,11 +428,6 @@
         <item>チェックしない</item>
         <item>DRMコンテンツのみをチェック</item>
         <item>常にチェック</item>
-    </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>HDCPチェックを使用しない</item>
@@ -669,15 +443,6 @@
         <item>アニメーションスケール5x</item>
         <item>アニメーションスケール10x</item>
     </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>アニメーションオフ</item>
         <item>アニメーションスケール.5x</item>
@@ -687,15 +452,6 @@
         <item>アニメーションスケール5x</item>
         <item>アニメーションスケール10x</item>
     </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>アニメーションオフ</item>
         <item>アニメーションスケール.5x</item>
@@ -704,15 +460,6 @@
         <item>アニメーションスケール2x</item>
         <item>アニメーションスケール5x</item>
         <item>アニメーションスケール10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>なし</item>
@@ -728,61 +475,26 @@
         <item>4K (アップスケール、セキュア)</item>
         <item>720p, 1080p (デュアルスクリーン)</item>
     </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142,secure</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,secure</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,secure</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320,secure</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,secure</item>
-        <item>1280x720/213;1920x1080/320</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>なし</item>
         <item>Logcat</item>
         <item>Systrace (画像)</item>
         <item>glGetErrorでのスタック呼び出し</item>
     </string-array>
-    <string-array name="enable_opengl_traces_values">
-        <item>0</item>
-        <item>1</item>
-        <item>systrace</item>
-        <item>error</item>
-    </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>オフ</item>
         <item>非矩形クリップ領域を青で描画</item>
         <item>テスト済み描画コマンドを緑でハイライト表示</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>OFF</item>
         <item>バーとして画面に表示</item>
         <item>adb shell dumpsys gfxinfoを使用</item>
     </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>true</item>
-    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>OFF</item>
         <item>オーバードロー領域の表示</item>
         <item>第二色弱の方向けの領域の表示</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_values">
-        <item>false</item>
-        <item>show</item>
-        <item>show_deuteranomaly</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>標準の上限</item>
@@ -791,14 +503,6 @@
         <item>プロセスの上限: 2</item>
         <item>プロセスの上限: 3</item>
         <item>プロセスの上限: 4</item>
-    </string-array>
-    <string-array name="app_process_limit_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
     </string-array>
     <string-array name="vpn_types">
         <item>PPTP</item>
@@ -831,13 +535,6 @@
         <item>Chimp</item>
         <item>Monkey</item>
     </string-array>
-    <string-array name="user_content_ratings_values">
-        <item>5</item>
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-    </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>確認する</item>
         <item>許可しない</item>
@@ -849,23 +546,6 @@
         <item>かなり不足</item>
         <item>残りわずか</item>
     </string-array>
-    <string-array name="daltonizer_type_values">
-        <item>12</item>
-        <item>11</item>
-        <item>13</item>
-    </string-array>
-    <string-array name="simulate_color_space_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
-    </string-array>
-    <integer-array name="battery_saver_trigger_values">
-        <item>0</item>
-        <item>5</item>
-        <item>15</item>
-    </integer-array>
     <string-array name="proc_stats_memory_states">
         <item>標準</item>
         <item>やや不足</item>
@@ -896,26 +576,9 @@
         <item>ピンク</item>
         <item>レッド</item>
     </string-array>
-    <string-array name="usb_configuration_values">
-        <item>none</item>
-        <item>mtp</item>
-        <item>ptp</item>
-        <item>rndis</item>
-        <item>audio_source</item>
-        <item>midi</item>
-    </string-array>
-    <string-array name="night_mode_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>WLAN preferred</item>
         <item>Cellular preferred</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>2</item>
-        <item>1</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>"無効"</item>
@@ -923,41 +586,20 @@
         <item>"標準"</item>
         <item>"弱め"</item>
     </string-array>
-    <string-array name="haptic_feedback_level_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="media_feedback_level_entries">
         <item>"強め"</item>
         <item>"標準"</item>
         <item>"弱め"</item>
-    </string-array>
-    <string-array name="media_feedback_level_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graphical</item>
         <item>Percentage</item>
         <item>Top bar</item>
     </string-array>
-    <string-array name="battery_indicator_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>"接続時に確認"</item>
         <item>"充電のみ"</item>
         <item>"SDカードをマウント"</item>
-    </string-array>
-    <string-array name="usb_connection_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2秒</item>
@@ -968,33 +610,6 @@
         <item>7秒</item>
         <item>8秒</item>
         <item>9秒</item>
-    </string-array>
-    <string-array name="led_freq_values">
-        <item>2000</item>
-        <item>3000</item>
-        <item>4000</item>
-        <item>5000</item>
-        <item>6000</item>
-        <item>7000</item>
-        <item>8000</item>
-        <item>9000</item>
-    </string-array>
-    <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
-    <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Blue</item>
@@ -1012,23 +627,6 @@
         <item>Cyan</item>
         <item>White</item>
         <item>Violet</item>
-    </string-array>
-    <string-array name="always_enabled_app_list">
-        <item>com.android.providers.applications</item>
-        <item>com.android.providers.calendar</item>
-        <item>com.android.providers.contacts</item>
-        <item>com.android.providers.downloads</item>
-        <item>com.android.providers.drm</item>
-        <item>com.android.providers.media</item>
-        <item>com.android.providers.telephony</item>
-        <item>com.android.providers.userdictionary</item>
-        <item>com.miui.providers.userbook</item>
-        <item>com.miui.providers.weather</item>
-        <item>com.miui.yellowpage</item>
-        <item>com.miui</item>
-        <item>com.android.htmlviewer</item>
-        <item>com.google.android.packageinstaller</item>
-        <item>com.miui.core</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
@@ -1053,17 +651,9 @@
         <item>左側にメニューボタン、右側に戻るボタン</item>
         <item>左側に戻るボタン、右側にメニューボタン</item>
 	</string-array>
-	<string-array name="screen_key_position_action_value">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="screen_key_press_action">
         <item>最近使ったアプリを表示</item>
         <item>メニューを表示</item>
-    </string-array>
-    <string-array name="screen_key_press_action_value">
-        <item>recent_panel</item>
-        <item>show_menu</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>なし</item>
@@ -1074,36 +664,16 @@
         <item>クイック検索を起動</item>
         <item>メニューを表示</item>
     </string-array>
-    <string-array name="screen_key_long_press_action_value">
-        <item>none</item>
-        <item>recent_panel</item>
-        <item>voice_assistant</item>
-        <item>google_now</item>
-        <item>close_app</item>
-        <item>quick_search</item>
-        <item>show_menu</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5秒</item>
         <item>1.0秒</item>
         <item>1.5秒</item>
         <item>2.0秒</item>
     </string-array>
-    <string-array name="screen_key_long_press_timeout_value">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-        <item>2000</item>
-    </string-array>
     <string-array name="long_press_volume_down_action">
         <item>None</item>
         <item>Quick snap mode (select in Camera)</item>
         <item>Public transportation shortcuts</item>
-    </string-array>
-    <string-array name="long_press_volume_down_action_value">
-        <item>one</item>
-        <item>Street-snap</item>
-        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1秒</item>
@@ -1112,14 +682,6 @@
         <item>10秒</item>
         <item>20秒</item>
         <item>常に点灯</item>
-    </string-array>
-    <string-array name="button_light_timeout_value">
-        <item>1000</item>
-        <item>2000</item>
-        <item>5000</item>
-        <item>10000</item>
-        <item>20000</item>
-        <item>-1</item>
     </string-array>
     <integer-array name="font_size_preference_preview_size">
         <item>14</item>
@@ -1179,19 +741,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>"Increase display's contrast"</item>
         <item>Contrast will remain constant</item>
     </string-array>
-    <string-array name="perms_hips_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="perm_hips_action">
         <item>許可</item>
         <item>確認</item>
         <item>拒否</item>
-    </string-array>
-    <string-array name="startup_hips_values">
-        <item>2</item>
-        <item>0</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>許可</item>
@@ -1208,10 +761,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="phone_call_noise_suppression_title">
         <item>Single mic noise suppression</item>
         <item>Dual mic noise suppression</item>
-    </string-array>
-    <string-array name="phone_call_noise_suppression_values">
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="change_security_lock_picker_key">
         <item>facial</item>
@@ -1233,19 +782,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="wifi_ssid_type_entries">
         <item>自動で接続する</item>
         <item>手動で接続する</item>
-    </string-array>
-    <string-array name="wifi_connect_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="wifi_ssid_type_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="nfc_se_route_values">
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -1314,10 +850,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>内部ストレージ</item>
         <item>外部ストレージ</item>
     </string-array>
-    <string-array name="priority_storage_value">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>非常に遅い</item>
         <item>遅い</item>
@@ -1325,53 +857,23 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>速い</item>
         <item>非常に速い</item>
     </string-array>
-    <string-array name="tts_rate_xunfei_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-    </string-array>
     <string-array name="whetstone_level_entries">
         <item>Off</item>
         <item>Low</item>
         <item>Middle</item>
         <item>High</item>
     </string-array>
-    <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>ホームネットワーク</item>
         <item>すべてのネットワーク</item>
-    </string-array>
-    <string-array name="agps_si_mode_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="agps_si_mode_entries">
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>HOT</item>
@@ -1382,18 +884,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>4.5インチ</item>
         <item>4.0インチ</item>
         <item>3.5インチ</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
-    </string-array>
-    <string-array name="lock_screen_secure_after_timeout_values">
-        <item>0</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>すぐ</item>
@@ -1417,10 +907,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_resolution_entries">
         <item>最高 (2K)</item>
         <item>標準 (720p)</item>
-    </string-array>
-    <string-array name="screen_resolution_values">
-        <item>1440</item>
-        <item>720</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
@@ -1631,26 +1117,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>30秒</item>
         <item>1分</item>
     </string-array>
-    <string-array name="anr_record_interval_values">
-        <item>10</item>
-        <item>20</item>
-        <item>30</item>
-        <item>60</item>
-    </string-array>
     <string-array name="screen_button_style">
         <item>Left hand style</item>
         <item>Right hand style</item>
     </string-array>
-    <integer-array name="alarm_repeat_type_values">
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="alarm_repeat_type">
         <item>毎日</item>
         <item>平日</item>
