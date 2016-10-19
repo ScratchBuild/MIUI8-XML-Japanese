@@ -128,8 +128,8 @@
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="chooseUsbActivity">USBデバイスのためのアプリを選択してください</string>
-  <string name="connected_via_passpoint">Connected via %1$s</string>
-  <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
+  <string name="connected_via_passpoint">"%1$s経由で接続しました"</string>
+  <string name="connected_via_wfa">"Wi-Fiアシスタント経由で接続しました"</string>
   <string name="data_usage_disabled_dialog">"指定したデータ使用量に達しました。データ通信を再度有効にすると、通信事業者より料金を追加請求される場合があります。"</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3Gデータ通信無効</string>
   <string name="data_usage_disabled_dialog_4g_title">4Gデータ通信無効</string>
@@ -142,8 +142,8 @@
   <string name="disable_notification_summary">選択されたアプリからの通知は表示されません</string>
   <string name="disable_notification_title">通知を隠す</string>
   <string name="dismount_storage">いいえ</string>
-  <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
-  <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
+  <string name="dlg_confirm_kill_storage_users_text">"USBストレージをONにすると、使用中のアプリの一部が停止し、USBストレージをOFFにするまで使用できなくなる場合があります。"</string>
+  <string name="dlg_confirm_kill_storage_users_title">"USBストレージをONにする"</string>
   <string name="dlg_error_title">USB操作失敗</string>
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">"自動車モードです"</string>

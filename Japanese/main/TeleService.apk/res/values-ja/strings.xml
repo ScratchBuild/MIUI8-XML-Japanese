@@ -333,7 +333,7 @@
   <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
   <string name="creat_account_error">"アカウントを作成出来ませんでした。もう一度試しますか？"</string>
   <string name="creating_account">アカウントの作成中...</string>
-  <string name="cursorError">Cursor error</string>
+  <string name="cursorError">"カーソルエラー"</string>
   <string name="data_enable_summary">"モバイルデータの使用を許可"</string>
   <string name="data_enabled">"データ通信を有効にする"</string>
   <string name="deactivate_all">すべてキャンセル</string>
@@ -430,7 +430,7 @@
   <string name="editContact">編集</string>
   <string name="edit_fdn_contact">発信番号制限の編集</string>
   <string name="emergencyDialerIconLabel">緊急通報</string>
-  <string name="emergency_action_launch_hint">Touch again to open</string>
+  <string name="emergency_action_launch_hint">開くにはもう一度タップ</string>
   <string name="emergency_broadcast_disable">緊急ブロードキャストは無効になっています</string>
   <string name="emergency_broadcast_enable">緊急ブロードキャストは有効になっています</string>
   <string name="emergency_call_area_code_edit_dialog_button">発信</string>
@@ -552,7 +552,7 @@
   <string name="importToFDNfromContacts">連絡先からインポート</string>
   <string name="important_attention">注意</string>
   <string name="importingSimContacts">SIMの連絡先をインポート中</string>
-  <string name="ims_settings">IMS Settings</string>
+  <string name="ims_settings">IMS設定</string>
   <string name="incall_error_call_failed">発信できません。</string>
   <string name="incall_error_emergency_only">ご加入の通信サービスがありません</string>
   <string name="incall_error_local_low_battery">Call is failed due to low battery.</string>
@@ -953,8 +953,8 @@
   <string name="phoneIconLabel">電話</string>
   <string name="phone_accounts">通話アカウント設定</string>
   <string name="phone_accounts_add_sip_account">SIPアカウントを追加</string>
-  <string name="phone_accounts_all_calling_accounts">All calling accounts</string>
-  <string name="phone_accounts_all_calling_accounts_summary">Select which accounts can make calls</string>
+  <string name="phone_accounts_all_calling_accounts">すべての通話アカウント</string>
+  <string name="phone_accounts_all_calling_accounts_summary">どのアカウントが通話できるようにするかを選択</string>
   <string name="phone_accounts_ask_every_time">最初に確認する</string>
   <string name="phone_accounts_choose_accounts">アカウントを選択</string>
   <string name="phone_accounts_configure_account_settings">アカウントを設定</string>
@@ -1254,8 +1254,8 @@
   <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>
   <string name="sp_unlock_success">SIM Service Provider unlock successful.</string>
   <string name="sports_news_settings">スポーツニュース</string>
-  <string name="status_hint_label_incoming_wifi_call">Incoming WLAN call</string>
-  <string name="status_hint_label_wifi_call">WLAN call</string>
+  <string name="status_hint_label_incoming_wifi_call">Wi-Fi通話着信</string>
+  <string name="status_hint_label_wifi_call">Wi-Fi通話</string>
   <string name="stk_cc_ss_to_dial_error">SSリクエストはDIALリクエストに変更されました。</string>
   <string name="stk_cc_ss_to_ss_error">SSリクエストは新しいSSリクエストに変更されました。</string>
   <string name="stk_cc_ss_to_ussd_error">SSリクエストはUSSDリクエストに変更されました。</string>
@@ -1334,13 +1334,13 @@
   <string name="throttle_status_subtext">"%1$s（%2$d٪）/ 期間最大値%3$s\n次の期間は%4$d日で始まります（%5$s）"</string>
   <string name="throttle_time_frame">データ使用期間</string>
   <string name="throttle_time_frame_subtext">"サイクルの%1$dを経過\n次の期間は%2$d日で始まります（%3$s）"</string>
-  <string name="time_end">To</string>
+  <string name="time_end">終了</string>
   <string name="time_end_hour">time end hour</string>
   <string name="time_end_minute">time end minute</string>
   <string name="time_formate_am">AM</string>
   <string name="time_formate_pm">PM</string>
   <string name="time_interval_char">:</string>
-  <string name="time_start">From</string>
+  <string name="time_start">開始</string>
   <string name="time_start_hour">time start hour</string>
   <string name="time_start_minute">time start minute</string>
   <string name="title_country">ロケール</string>
@@ -1382,8 +1382,8 @@
   <string name="verified">認証しました</string>
   <string name="verify_fialed">"認証出来ませんでした"</string>
   <string name="verifying">認証中...</string>
-  <string name="vibrate_after_connected_summary">Vibrate when answers</string>
-  <string name="vibrate_after_connected_title">Vibrating after connected</string>
+  <string name="vibrate_after_connected_summary">応答時にバイブレーションする</string>
+  <string name="vibrate_after_connected_title">接続後にバイブレーション</string>
   <string name="vm_change_failed">"ボイスメール番号を変更できませんでした。\nこの問題が続くようであれば携帯通信会社にお問い合わせください。"</string>
   <string name="vm_changed">ボイスメールの番号が変更されました。</string>
   <string name="voice_privacy">音声のプライバシー</string>

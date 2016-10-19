@@ -8,8 +8,8 @@
   <string name="change_default_dialer_dialog_title">"既定の電話アプリを変更しますか？"</string>
   <string name="change_default_dialer_no_previous_app_set_text">"%sを既定の電話アプリとして使用しますか？"</string>
   <string name="change_default_dialer_with_previous_app_set_text">"%1$sを%2$sの代わりに既定の電話アプリとして使用しますか？"</string>
-  <string name="dial_conference_fail_prompt">"Can't dial conference directly because current network doesn't support VoLTE."</string>
-  <string name="dial_vt_fail_prompt">"Current network doesn't support VoLTE. Switch to regular voice call?"</string>
+  <string name="dial_conference_fail_prompt">"現在のネットワークはVoLTEをサポートしていないため、直接グループ通話に発信することはできません。"</string>
+  <string name="dial_vt_fail_prompt">"現在のネットワークはVoLTEをサポートしていません。通常の音声通話に切り替えますか？"</string>
   <string name="duplicate_video_call_not_allowed">"通話は現在追加できません。"</string>
   <string name="enable_account_preference_title">"通話アカウント"</string>
   <string name="handle_restricted">RESTRICTED</string>

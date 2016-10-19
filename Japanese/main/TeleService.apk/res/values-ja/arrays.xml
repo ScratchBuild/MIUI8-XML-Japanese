@@ -16,10 +16,10 @@
         <item>表示</item>
     </string-array>
     <string-array name="call_barring_outgoing_display_values">
-        <item>Off</item>
-        <item>Roaming call barring</item>
-        <item>International call barring</item>
-        <item>Outgoing call barring</item>
+        <item>オフ</item>
+        <item>ローミング通話制限</item>
+        <item>国際通話制限</item>
+        <item>発信通話制限</item>
     </string-array>
     <string-array name="call_barring_outgoing_values">
         <item>-1</item>

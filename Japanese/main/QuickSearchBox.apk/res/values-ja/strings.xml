@@ -74,8 +74,8 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="settings_description">Names of installed apps</string>
   <string name="show_more">"もっと表示"</string>
   <string name="suggest_open_app_failed">"このアプリを開けませんでした"</string>
-  <string name="swipe_up_summary">Swipe up to open global search</string>
-  <string name="swipe_up_title">Swipe up</string>
+  <string name="swipe_up_summary">"グローバル検索を開くには上にスワイプ"</string>
+  <string name="swipe_up_title">"上にスワイプ"</string>
   <string name="system_search_category_title">"電話"</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
