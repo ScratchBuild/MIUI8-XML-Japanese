@@ -101,7 +101,7 @@
   <string name="my_gifts_received">"受取済み"</string>
   <string name="no_data">"ネットワークに接続できません"</string>
   <string name="online_no_network">"ネットワークに接続できません"</string>
-  <string name="online_search_hint">Search for online resources</string>
+  <string name="online_search_hint">"オンラインリソースを検索"</string>
   <string name="present_local_themes">"ダウンロード済み"</string>
   <string name="present_online_themes">Get more themes for free</string>
   <string name="provision_default_theme_title">Default</string>
@@ -121,7 +121,7 @@
   <string name="resource_alarm_default">"アラーム"</string>
   <string name="resource_app_name">Resource Browser</string>
   <string name="resource_apply">"適用"</string>
-  <string name="resource_apply_trial">Try now</string>
+  <string name="resource_apply_trial">"今すぐ試す"</string>
   <string name="resource_back">"戻る"</string>
   <string name="resource_buy">"購入"</string>
   <string name="resource_can_not_selected">"%1$s can't be selected"</string>
@@ -185,9 +185,9 @@
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">"ダウンロード"</string>
-  <string name="resource_download_notification_title_many">%1$s themes downloaded</string>
-  <string name="resource_download_notification_title_one">Theme downloaded</string>
-  <string name="resource_download_trial">Try for free</string>
+  <string name="resource_download_notification_title_many">"%1$s個のテーマをダウンロードしました"</string>
+  <string name="resource_download_notification_title_one">"テーマをダウンロードしました"</string>
+  <string name="resource_download_trial">"無料で試す"</string>
   <string name="resource_downloaded_title">"保存済みのテーマ"</string>
   <string name="resource_downloading">"ダウンロード中"</string>
   <string name="resource_exchange">"引き換え"</string>
@@ -230,7 +230,7 @@
   <string name="resource_no_network_text">"ネットワークに接続できません。"</string>
   <string name="resource_no_result">"何も見つかりませんでした"</string>
   <string name="resource_notification_default">"通知音"</string>
-  <string name="resource_on_trial">Trying: %1$s</string>
+  <string name="resource_on_trial">"試用中: %1$s"</string>
   <string name="resource_online">Online</string>
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
   <string name="resource_pack_discount_info">Savings: %1$s</string>
@@ -242,7 +242,7 @@
   <string name="resource_price_free">"無料"</string>
   <string name="resource_price_unit"> Mi Credits</string>
   <string name="resource_purchase_common_error">Operation Failed.please try again.</string>
-  <string name="resource_purchase_continue_to_pay">Continue to pay %s</string>
+  <string name="resource_purchase_continue_to_pay">"%sの支払いを継続"</string>
   <string name="resource_purchase_getting_order">"注文情報を取得中…"</string>
   <string name="resource_purchase_verifying_payment">"支払情報を検証中…"</string>
   <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
@@ -279,7 +279,7 @@
   <string name="resource_tab_to_view">"表示するにはタップ。"</string>
   <string name="resource_tip_select_none">None selected</string>
   <string name="resource_title">"詳細"</string>
-  <string name="resource_title_category">Categories</string>
+  <string name="resource_title_category">"カテゴリー"</string>
   <string name="resource_title_hot_subject">Popular</string>
   <string name="resource_title_local">Offline</string>
   <string name="resource_title_rank">Top charts</string>
@@ -363,7 +363,7 @@
   <string name="theme_import_from_sdcard">"インポート"</string>
   <string name="theme_is_external_priority_storage">"SDカードに保存"</string>
   <string name="theme_is_external_priority_storage_summary">"テーマアプリはこの設定を適用するため、今すぐ再起動します。"</string>
-  <string name="theme_multiple_button_title_customize">Customize</string>
+  <string name="theme_multiple_button_title_customize">"カスタマイズ"</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">"いいえ"</string>
   <string name="theme_precast_create_notification_content">"新しいテーマを表示するにはタップ。"</string>
@@ -383,7 +383,7 @@
   <string name="theme_user_agreement_exit">"終了"</string>
   <string name="theme_user_agreement_remind_again">"利用規約を表示"</string>
   <string name="theme_user_agreement_remind_never">"二度と表示しない"</string>
-  <string name="theme_user_agreement_remind_summary">Show the Terms of Use pop-up every time you open the Themes app. This setting will take effect after you reboot your device.</string>
+  <string name="theme_user_agreement_remind_summary">"テーマアプリを開くたびに利用規約をポップアップで表示します。この設定はお使いのデバイスを再起動した後に有効になります。"</string>
   <string name="theme_user_agreement_title">"利用規約"</string>
   <string name="theme_yes">"はい"</string>
   <string name="title_component">Customize theme</string>
