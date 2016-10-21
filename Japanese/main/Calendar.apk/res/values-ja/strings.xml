@@ -421,8 +421,8 @@
   <string name="subscribe_channel_footer_view">查看</string>
   <string name="subscribe_channel_hint">"订阅适合自己的功能或服务，订阅后会展示在首页，
 你还可以在订阅后添加提醒，不错过每一个精彩！"</string>
-  <string name="subscribe_channel_subscribe">订阅</string>
-  <string name="subscribe_channel_subscribing">订阅中</string>
+  <string name="subscribe_channel_subscribe">"購読"</string>
+  <string name="subscribe_channel_subscribing">"購読中"</string>
   <string name="subscribe_channel_title">订阅频道</string>
   <string name="subscribe_description_card_default_title">订阅简介</string>
   <string name="subscribe_description_card_more_cut">收起</string>
@@ -464,11 +464,11 @@
   <string name="travel_carriage_number_text">Car</string>
   <string name="travel_eta_advice">%2$s minute drive to %1$s.</string>
   <string name="travel_ets_advice">Drive to %2$s before %1$s.</string>
-  <string name="travel_event_add_successfully">Event created</string>
-  <string name="travel_event_add_unsuccessfully">"Couldn't create event"</string>
-  <string name="travel_event_added">Event created</string>
-  <string name="travel_event_delete_successfully">Event deleted</string>
-  <string name="travel_event_delete_unsuccessfully">"Couldn't delete event"</string>
+  <string name="travel_event_add_successfully">"予定を作成しました"</string>
+  <string name="travel_event_add_unsuccessfully">"予定を作成できませんでした"</string>
+  <string name="travel_event_added">"予定を作成しました"</string>
+  <string name="travel_event_delete_successfully">"予定を削除しました"</string>
+  <string name="travel_event_delete_unsuccessfully">"予定を削除できませんでした"</string>
   <string name="travel_event_title_flight">Flight: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Train: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Train: %1$s %2$s</string>
@@ -486,9 +486,9 @@
   <string name="travel_seat_number_text">"座席番号"</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>
-  <string name="unsubscribe_card">退订</string>
-  <string name="unsubscribe_card_success">退订“%1$s”成功</string>
-  <string name="unsubscribing_card">退订中</string>
+  <string name="unsubscribe_card">"購読解除"</string>
+  <string name="unsubscribe_card_success">"「%1$s」の購読解除に成功しました"</string>
+  <string name="unsubscribing_card">"購読解除中"</string>
   <string name="user_notice_button_exit">"終了"</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">"二度と表示しない"</string>
@@ -503,6 +503,7 @@
   <string name="weekly">"毎週 %s"</string>
   <string name="when_label">"日時"</string>
   <string name="widget_events">"次の予定"</string>
+  <string name="widget_get_weather_info">"天気情報を取得 &gt;"</string>
   <string name="widget_no_events">"予定なし"</string>
   <string name="widget_select_style">"スタイルを選択"</string>
   <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>

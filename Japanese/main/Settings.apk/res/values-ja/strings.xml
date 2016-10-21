@@ -2640,7 +2640,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="preferred_network_type_title">優先ネットワークタイプ</string>
   <string name="preferred_sms_settings">このアプリがテキスト編集用の標準アプリとして設定されます。</string>
   <string name="preferred_sms_title">デフォルトのメッセージアプリ</string>
-  <string name="preferred_sms_warning_message">Using \"%1$s\" as your default messaging app may increase mobile data usage or put your personal data at risk.</string>
+  <string name="preferred_sms_warning_message">Using \"%1$s\" as your default messaging app may increase mobile data usage or put your personal data at risk, and can not use RCS.</string>
   <string name="preferred_sms_warning_use_system">使用しない</string>
   <string name="print_blocked_state_title_template">%1$sをブロックしました</string>
   <string name="print_cancel">キャンセル</string>

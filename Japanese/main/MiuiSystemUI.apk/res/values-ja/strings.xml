@@ -175,6 +175,7 @@
 付属の充電器を使用してください。"</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">表示</string>
+  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">"通信サービスなし"</string>
   <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
@@ -196,6 +197,10 @@
   <string name="megabyte_per_second">M/s</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">はい</string>
+  <string name="nav_guide_cancel">Ignore</string>
+  <string name="nav_guide_message">You can use gestures to hide/show screen button after setting.</string>
+  <string name="nav_guide_ok">Settings</string>
+  <string name="nav_guide_title">Hide screen buttons</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">通知はありません。</string>
   <string name="no_weather_description">天気情報を取得する ></string>

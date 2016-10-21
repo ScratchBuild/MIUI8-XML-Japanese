@@ -306,9 +306,11 @@
   <string name="st_sub_title_whiteblack_list_group">Blocklist</string>
   <string name="st_sum_call_wait">Your away message will also be played as a busy signal for incoming calls.</string>
   <string name="st_summary_blacklist_numbers">Block calls and massages using numbers and area codes</string>
+  <string name="st_summary_blacklist_numbers_international">Block calls and massages using numbers</string>
   <string name="st_summary_keywords_blacklist">Add keywords to block messages</string>
   <string name="st_summary_special_numbers">Block flagged phone numbers</string>
   <string name="st_summary_whitelist_numbers">Allow calls and messages from specific numbers and areas</string>
+  <string name="st_summary_whitelist_numbers_international">Allow calls and messages from specific numbers</string>
   <string name="st_title_adblock_group">Ad blocker</string>
   <string name="st_title_adblock_setting">Ad blocker settings</string>
   <string name="st_title_addblacklist">Add to blocklist</string>

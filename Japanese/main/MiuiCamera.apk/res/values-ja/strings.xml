@@ -355,8 +355,8 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_show_gender_age_title">Age &amp; gender</string>
   <string name="pref_camera_snap_enable_title">Quick snap mode</string>
   <string name="pref_camera_snap_entry_off">Off</string>
-  <string name="pref_camera_snap_entry_take_movie">When the display is off, press &amp; hold the Volume Down button to start recording video. Release it to stop.</string>
-  <string name="pref_camera_snap_entry_take_picture">When the display is off, press &amp; hold the Volume Down button to start burst shooting photos. Release it to stop.</string>
+  <string name="pref_camera_snap_entry_take_movie">Hold Volume down to record video. Release to stop.</string>
+  <string name="pref_camera_snap_entry_take_picture">Hold Volume down to burst shoot photos. Release to stop.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Can't use Quick snap mode while \"Wake with Volume buttons\" is on."</string>
   <string name="pref_camera_snap_value_off">Off</string>
   <string name="pref_camera_snap_value_take_movie">Movie</string>
