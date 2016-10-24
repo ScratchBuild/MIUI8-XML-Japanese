@@ -23,7 +23,7 @@
   <string name="Call_PREFIX">Prefix blocklist</string>
   <string name="Call_PRIVATE_CALL">Private calls</string>
   <string name="MALICIOUS_URL">Malicious URL</string>
-  <string name="NACaddnumcontent">Enter phone number</string>
+  <string name="NACaddnumcontent">"電話番号を入力"</string>
   <string name="NACaddnumtitle">Add phone number to exceptions</string>
   <string name="PAST_BLOCK">Previously blocked</string>
   <string name="Phonepass">Allow calls</string>
@@ -50,7 +50,7 @@
   <string name="address_choose_hint">%1$s, %2$s, and %3$d other locations</string>
   <string name="addwhitelist">Add to exceptions</string>
   <string name="all_address_choose_hint">"この地域のすべての番号"</string>
-  <string name="antispam_notificaiton_type_show_all">All numbers</string>
+  <string name="antispam_notificaiton_type_show_all">"すべての番号"</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Non-blocklist numbers</string>
   <string name="antispam_notificaiton_type_show_none">Never</string>
   <string name="antispam_notification_setting_title">Notifications</string>
@@ -183,7 +183,7 @@
   <string name="menu_bl_clear">Clear blocklist</string>
   <string name="menu_bl_remove">Unblock</string>
   <string name="menu_bl_sms_log">View blocked SMS</string>
-  <string name="menu_call">Dial</string>
+  <string name="menu_call">"ダイヤル"</string>
   <string name="menu_clear_all_call">Clear blocked calls</string>
   <string name="menu_clear_all_sms">Delete blocked SMS</string>
   <string name="menu_clear_current_call">Clear all calls from this number</string>
@@ -296,7 +296,7 @@
   <string name="st_mute_all">Silence calls and messages</string>
   <string name="st_mute_block">Silence calls and block messages</string>
   <string name="st_mute_title">"Don't ring or vibrate"</string>
-  <string name="st_other_setting_group">Other settings</string>
+  <string name="st_other_setting_group">"その他の設定"</string>
   <string name="st_settings_name">Blocklist settings</string>
   <string name="st_show_block_notification">Show blocked notification</string>
   <string name="st_show_num_keyword">" keywords"</string>

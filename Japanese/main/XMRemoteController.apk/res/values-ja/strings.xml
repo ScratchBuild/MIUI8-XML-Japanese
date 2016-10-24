@@ -679,7 +679,7 @@ To activate your account, follow the
   <string name="passport_register_restricted_title">"Can't use this phone number"</string>
   <string name="passport_reject_recycle_account">Nope</string>
   <string name="passport_relogin">Sign in again</string>
-  <string name="passport_relogin_notice">You need to sign in again</string>
+  <string name="passport_relogin_notice">"もう一度ログインする必要があります"</string>
   <string name="passport_remove_confirm">Sign out</string>
   <string name="passport_remove_unactivated_account_notice">"Your account hasn't been activated."</string>
   <string name="passport_resend_active_email">Resend email</string>
@@ -774,7 +774,7 @@ To activate your account, follow the
   <string name="refreshing">Refreshing…</string>
   <string name="refreshing_no_point">Refreshing…</string>
   <string name="refreshing_retry">"Couldn't load, try again"</string>
-  <string name="release_to_refresh">Release to refresh</string>
+  <string name="release_to_refresh">"指を離して更新"</string>
   <string name="rematch">Pair again</string>
   <string name="remote_controller_name">Mi Remote</string>
   <string name="remove_fav_channel">Unfavorite</string>

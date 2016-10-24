@@ -3803,7 +3803,7 @@ PINが正しくない可能性があります。"</string>
   <string name="touch_sensitive_title">手袋モード</string>
   <string name="touch_sensitive_turn_off_cancel">キャンセル</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
-  <string name="touch_sensitive_turn_off_summary">同様にポケットダイアル防止機能もオフにしますか？</string>
+  <string name="touch_sensitive_turn_off_summary">同様にポケットダイヤル防止機能もオフにしますか？</string>
   <string name="touch_sensitive_turn_off_title">手袋モードはOFFです</string>
   <string name="touch_sounds_title">タッチ操作音</string>
   <string name="touch_title">Touch</string>

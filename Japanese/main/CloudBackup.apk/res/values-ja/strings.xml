@@ -26,11 +26,11 @@
   <string name="click_try_to_restore_again">Tap to try again</string>
   <string name="cloud_app_backup_success">Finished backing up apps</string>
   <string name="cloud_app_check_data">Talking to Mi Cloud…</string>
-  <string name="cloud_app_current_device">Current device</string>
+  <string name="cloud_app_current_device">"現在のデバイス"</string>
   <string name="cloud_app_dont_restore">Set up as new device</string>
   <string name="cloud_app_no_data">No backups</string>
   <string name="cloud_app_no_network">ネットワークに接続できません</string>
-  <string name="cloud_app_other_devices">Other devices</string>
+  <string name="cloud_app_other_devices">"他のデバイス"</string>
   <string name="cloud_app_restore_app_and_data">Set up your device</string>
   <string name="cloud_app_restore_data">Personal data and previously installed apps will appear on your device automatically</string>
   <string name="cloud_app_restore_error">"Couldn't restore"</string>
@@ -88,7 +88,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="managespace_delete_backup">Delete backup</string>
   <string name="managespace_total_space">Total space: %s</string>
   <string name="menu_item_managespace">Manage space</string>
-  <string name="menu_item_sort">Sort by</string>
+  <string name="menu_item_sort">"並べ替え"</string>
   <string name="menu_item_sort_name">Name</string>
   <string name="menu_item_sort_size">Size</string>
   <string name="miui_device_name">Android</string>

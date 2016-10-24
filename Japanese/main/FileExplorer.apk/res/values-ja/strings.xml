@@ -119,10 +119,10 @@
   <string name="decrypting">Decrypting…</string>
   <string name="delete_dialog_button">"削除"</string>
   <string name="delete_error">"Couldn't delete files, try again"</string>
-  <string name="delete_file">Delete this file?</string>
+  <string name="delete_file">"このファイルを削除しますか？"</string>
   <string name="delete_file_error">"Couldn't delete file"</string>
   <string name="delete_files">Delete %1$d files?</string>
-  <string name="delete_folder">Delete this folder?</string>
+  <string name="delete_folder">"このフォルダを削除しますか？"</string>
   <string name="delete_folders">Delete %1$d folders?</string>
   <string name="delete_video">Delete</string>
   <string name="delete_video_dialog_tip">"You won't be able to restore the video after you delete it."</string>
@@ -145,7 +145,7 @@
   <string name="download_fail">"ダウンロードできませんでした"</string>
   <string name="downloaded_sticker_str">Downloaded</string>
   <string name="downloading">Downloading</string>
-  <string name="editor_commend">Edit</string>
+  <string name="editor_commend">"編集"</string>
   <string name="empty_comment">"Comment can't be empty"</string>
   <string name="enable_documentsui">Turn on %s in Settings > Installed apps first</string>
   <string name="enable_sd_card">Insert SD card or disable USB mass storage.</string>
@@ -158,7 +158,7 @@
   <string name="error_contains_sharer_path">"Can't encrypt files in folder /MIUI/Gallery/cloud/sharer. Move files to another directory and try again."</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
   <string name="error_info_cant_send_folder">"Can't send this type of file."</string>
-  <string name="error_open_file_failed_no_app_found">No app was found to handle this action.</string>
+  <string name="error_open_file_failed_no_app_found">"この操作を処理するためのアプリが見つかりませんでした。"</string>
   <string name="extended_storage_file_can_not_open">"Can't open file. Copy file to internal storage first."</string>
   <string name="extract">"解凍"</string>
   <string name="fail_to_create_folder">"十分な空き領域が無いか、フォルダが既に存在します。"</string>
@@ -180,7 +180,7 @@
   <string name="file_not_exist">"File doesn't exist"</string>
   <string name="flow_setting">Settings</string>
   <string name="folder_name_empty">Folder name cannot be empty</string>
-  <string name="folder_name_illegal">Invalid folder name</string>
+  <string name="folder_name_illegal">"無効なフォルダ名"</string>
   <string name="follow_fail">"Couldn't follow, try again later"</string>
   <string name="follow_tip_1">Follow me to watch more videos</string>
   <string name="follow_tip_2">Follow me to watch more videos</string>
@@ -254,7 +254,7 @@
   <string name="menu_item_midrop">Mi Drop</string>
   <string name="menu_item_router">Router</string>
   <string name="menu_item_search">Search</string>
-  <string name="menu_item_sort">Sort by</string>
+  <string name="menu_item_sort">"並べ替え"</string>
   <string name="menu_item_sort_add_time">"Created "</string>
   <string name="menu_item_sort_by_added_time">Added</string>
   <string name="menu_item_sort_date">Date modified</string>
@@ -273,7 +273,7 @@
   <string name="midrop_msg_1">Turn on Mi Drop on the other device</string>
   <string name="midrop_msg_2">When Mi Drop is on, you can search for devices nearby and send files</string>
   <string name="midrop_send_files">Choose files to send</string>
-  <string name="mobile_network_dialog_cancle">Cancel</string>
+  <string name="mobile_network_dialog_cancle">"キャンセル"</string>
   <string name="mobile_network_dialog_confirm">OK</string>
   <string name="mobile_network_dialog_tip">"Use your mobile data connection to view this page? You'll receive regular mobile data charges from your carrier."</string>
   <string name="mobile_network_dialog_tip2">"You'll receive regular mobile data charges from your carrier while streaming videos using your mobile data connection."</string>
@@ -285,7 +285,7 @@
   <string name="move_to">Move to…</string>
   <string name="msg_notify_setting">Notification settings</string>
   <string name="msg_set_password">Set password first</string>
-  <string name="name_empty">You must enter a name.</string>
+  <string name="name_empty">"名前を入力する必要があります。"</string>
   <string name="need_read_storage_permission">"Explorer needs to access your device's internal storage to work as designed."</string>
   <string name="network_dialog_checkbox_tip">"二度と表示しない"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
@@ -329,7 +329,7 @@
   <string name="one_account_bind_needed">Add at least one account</string>
   <string name="online_not_support">"Can't view this file at the moment."</string>
   <string name="only_wifi">Download when connected to WLAN</string>
-  <string name="open_app">Open</string>
+  <string name="open_app">"開く"</string>
   <string name="open_private_folder">Release to view hidden folders</string>
   <string name="operation_add_fav">Adding to favorites…</string>
   <string name="operation_cancel">"キャンセル"</string>
@@ -341,8 +341,8 @@
   <string name="operation_decompressing">Extracting…</string>
   <string name="operation_del_fav">Removing from favorites…</string>
   <string name="operation_delete">"削除"</string>
-  <string name="operation_delete_confirm_message">Delete?</string>
-  <string name="operation_delete_confirm_message_folder">"All folder contents will be deleted. "</string>
+  <string name="operation_delete_confirm_message">"削除しますか？"</string>
+  <string name="operation_delete_confirm_message_folder">"すべてのフォルダの内容が削除されます。"</string>
   <string name="operation_deleting">"削除中…"</string>
   <string name="operation_favorite">Favorite</string>
   <string name="operation_hide_sys">"隠しファイルを非表示"</string>
@@ -385,9 +385,9 @@
   <string name="phone_get_code_tip">Too many attempts to get the code today</string>
   <string name="phone_has_used_tip">This phone is associated with an existing account, try a different one.</string>
   <string name="phone_login_title">Phone</string>
-  <string name="phone_num">Phone number</string>
-  <string name="phone_num_et_hint">Enter phone number</string>
-  <string name="phone_num_format_tip">Invalid phone number</string>
+  <string name="phone_num">"電話番号"</string>
+  <string name="phone_num_et_hint">"電話番号を入力"</string>
+  <string name="phone_num_format_tip">"無効な電話番号"</string>
   <string name="phone_send_code">Get code</string>
   <string name="phone_send_code_again">Get code again</string>
   <string name="phone_send_code_tip">Send again in %1$ds</string>
@@ -405,8 +405,8 @@
   <string name="phone_storage_video_title">Videos: </string>
   <string name="phone_storage_zip_title">Archives: </string>
   <string name="phone_valid_code_tip">The code has been entered too many times, try to get a new one</string>
-  <string name="pick_file">Choose files</string>
-  <string name="pick_folder">Choose folder</string>
+  <string name="pick_file">"ファイルを選択"</string>
+  <string name="pick_folder">"フォルダを選択"</string>
   <string name="popup_msg_qq">Share this video with your QQ friends.</string>
   <string name="popup_msg_wx">Share this video to your WeChat friends.</string>
   <string name="port_range">Port must be between 1024–65535</string>
@@ -438,7 +438,7 @@
   <string name="report_porn">Pornography</string>
   <string name="report_violence">Violence</string>
   <string name="request_timeout">Network request timed out</string>
-  <string name="reset_password">Change password</string>
+  <string name="reset_password">"パスワードを変更"</string>
   <string name="restoring">Restoring…</string>
   <string name="rlv_closing">Closing…</string>
   <string name="rlv_last_refreshing_time">Updated %1$s</string>
@@ -449,11 +449,11 @@
   <string name="rlv_release_to_close">Release to close</string>
   <string name="rlv_release_to_refresh">"指を離して更新"</string>
   <string name="save_to_local">"ダウンロード"</string>
-  <string name="search_app">Apps &amp; folders</string>
+  <string name="search_app">"アプリとフォルダ"</string>
   <string name="search_app_more">More</string>
-  <string name="search_description">Search all files on device</string>
-  <string name="search_empty_view_hint">"Couldn't find anything"</string>
-  <string name="search_error_hint">Search</string>
+  <string name="search_description">"デバイス上のすべてのファイルを検索"</string>
+  <string name="search_empty_view_hint">"何も見つかりませんでした"</string>
+  <string name="search_error_hint">"検索"</string>
   <string name="search_file_type_apk">Apk</string>
   <string name="search_file_type_doc">Doc</string>
   <string name="search_file_type_music">Music</string>

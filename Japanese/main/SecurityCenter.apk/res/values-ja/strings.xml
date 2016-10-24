@@ -415,7 +415,7 @@ or enter App lock password"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Stop payment security check?</string>
   <string name="dialog_msg_stop_virus_scan">"Stop virus scan before it's finished?"</string>
-  <string name="dialog_roaming_apps_sorted_title">Sort by</string>
+  <string name="dialog_roaming_apps_sorted_title">"並べ替え"</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">Overseas roaming</string>
   <string name="dialog_title_attention">Attention</string>
@@ -1184,8 +1184,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sim_location_error_notify_message">Tap to change SIM location.</string>
   <string name="sim_location_error_notify_title">"SIMカードのエラー"</string>
   <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
-  <string name="sorted_button">Sort by</string>
-  <string name="sorted_dialog_title">Sort by</string>
+  <string name="sorted_button">"並べ替え"</string>
+  <string name="sorted_dialog_title">"並べ替え"</string>
   <string name="sp_back_title_text_zero">Secure</string>
   <string name="sp_monitored_apps_count_zero">No payment apps are protected</string>
   <string name="sp_monitored_apps_list_title">Monitoring settings</string>
