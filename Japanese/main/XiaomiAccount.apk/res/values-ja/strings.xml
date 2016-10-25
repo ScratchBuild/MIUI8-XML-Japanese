@@ -320,9 +320,9 @@ To activate your account, follow the
   <string name="passport_verification_failed">Authentication failed</string>
   <string name="passport_verify">"認証"</string>
   <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
-  <string name="passport_wrong_captcha">The code you entered is incorrect</string>
+  <string name="passport_wrong_captcha">"入力したコードが正しくありません"</string>
   <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
-  <string name="passport_wrong_vcode">The code you entered is incorrect</string>
+  <string name="passport_wrong_vcode">"入力したコードが正しくありません"</string>
   <string name="phone_activated">%s activated</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="qq">QQ</string>

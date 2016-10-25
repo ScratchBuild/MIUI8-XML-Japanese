@@ -577,8 +577,8 @@
         <item>レッド</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
-        <item>WLAN preferred</item>
-        <item>Cellular preferred</item>
+        <item>Wi-Fi優先</item>
+        <item>モバイル優先</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>"無効"</item>

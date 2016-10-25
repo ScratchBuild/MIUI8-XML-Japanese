@@ -21,7 +21,7 @@
   <string name="access_control_no_back_footer">[icon]をタッチして終了</string>
   <string name="access_control_password_title">パスワード</string>
   <string name="access_control_recording_intro_header">アンロックパターンを描いてください:</string>
-  <string name="access_control_reset_by_account">パスワードをリセットするには、Miアカウントにログインして下さい</string>
+  <string name="access_control_reset_by_account">パスワードをリセットするには、Miアカウントにログインしてください</string>
   <string name="access_point_names">アクセスポイント名</string>
   <string name="accessibility_captioning_title">字幕</string>
   <string name="accessibility_category_personal">個人用プロファイルアカウント</string>
@@ -651,22 +651,22 @@
   <string name="bluetooth_visibility_timeout">表示のタイムアウト</string>
   <string name="bootloader">Fastboot mode</string>
   <string name="bootloader_apply_step_1">Fastboot modeをオンにしますか？</string>
-  <string name="bootloader_apply_step_2">端末がロックされているときFastboot modeでコンピューターに接続している場合</string>
+  <string name="bootloader_apply_step_2">端末がロックされていても、Fastboot modeでコンピュータに接続した場合</string>
   <string name="bootloader_apply_step_3">端末上のデータ（例えば、パスワード、メッセージ）は、許可なしでアクセスすることができます。</string>
   <string name="bootloader_apply_step_4">これは、データの漏洩や損失、あるいは修復不可能なハードウェアの損傷につながる可能性があります。</string>
   <string name="bootloader_apply_step_5">Fastboot modeをオンにする前に、使用方法を理解しているか確認してください。</string>
   <string name="bootloader_apply_title">重要な警告</string>
-  <string name="bootloader_device_bind_already">Added successfully. Mi Account is associated with this device now.</string>
-  <string name="bootloader_device_bind_fail">"Couldn't verify, wait a minute or two and try again"</string>
-  <string name="bootloader_device_bind_msg">Preparing to add account and device…</string>
-  <string name="bootloader_device_bind_no_account">Sign in to your Mi Account first</string>
-  <string name="bootloader_device_bind_no_network">Connect to the network and try again</string>
-  <string name="bootloader_locked_answer_1">"We lock devices to make sure they are secure and your personal info isn't disclosed to third parties. If you need to enter Fastboot mode and flash your device, you can unlock it."</string>
-  <string name="bootloader_locked_answer_1_warning">"Remember: You won't be able to use \"Find device\" after the phone is unlocked."</string>
-  <string name="bootloader_locked_answer_2">"Tap the button below to associate your Mi Account with this device. Then go to MIUI website to download the unlock tool and install it on your computer. Here's the address:"</string>
-  <string name="bootloader_locked_check_status">Add account and device</string>
-  <string name="bootloader_locked_question_1">Why should devices be locked?</string>
-  <string name="bootloader_locked_question_2">I understand the risks, but still want to unlock my device.</string>
+  <string name="bootloader_device_bind_already">"正常に追加されました。Mi Accountは現在、このデバイスに関連付けられています。"</string>
+  <string name="bootloader_device_bind_fail">確認できませんでした、しばらくしてからもう一度お試しください</string>
+  <string name="bootloader_device_bind_msg">アカウントとデバイスの追加を準備中…</string>
+  <string name="bootloader_device_bind_no_account">初めにMi Accountにログインしてください</string>
+  <string name="bootloader_device_bind_no_network">ネットワークに接続して、再試行してください</string>
+  <string name="bootloader_locked_answer_1">我々はあなたの個人情報が安全に保たれ、第三者に開示されないようにするためにデバイスをロックしています。もしあなたがFastboot modeに切り替えてお使いのデバイスをフラッシュする必要がある場合、あなたはそれをアンロックすることができます。</string>
+  <string name="bootloader_locked_answer_1_warning">忘れずに: デバイスがアンロックされた後、\"Find device\"を使うことはできません。</string>
+  <string name="bootloader_locked_answer_2">以下のボタンをタップすることで、あなたのMi Accountとこのデバイスを関連付けます。MIUIのウェブサイトにアクセスしてアンロックツールをダウンロードし、お使いのコンピュータにインストールしてください。アドレスはこちら:</string>
+  <string name="bootloader_locked_check_status">アカウントとデバイスの追加</string>
+  <string name="bootloader_locked_question_1">なぜデバイスをロックする必要がありますか？</string>
+  <string name="bootloader_locked_question_2">リスクを理解しました、それでもデバイスのアンロックを希望します。</string>
   <string name="bootloader_status">Mi Unlock status</string>
   <string name="bootloader_status_locked">Locked</string>
   <string name="bootloader_status_locked_info">This device is locked</string>
@@ -836,9 +836,9 @@
   <string name="confirm_fingerprint_icon_content_description">続行するには指紋認証を使用してください。</string>
   <string name="confirm_fingerprint_msg">指をセンサーに当ててください</string>
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
-  <string name="confirm_privacy_password">Enter Privacy protection password</string>
-  <string name="confirm_privacy_password_fingerprint">Scan fingerprint or enter Privacy protection password</string>
-  <string name="confirm_privacy_password_instruction">This password protects messages, photos, and contacts.</string>
+  <string name="confirm_privacy_password">プライバシー保護のパスワードを入力</string>
+  <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護のパスワードを入力</string>
+  <string name="confirm_privacy_password_instruction">このパスワードはメッセージ、写真、および連絡先を保護します。</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">ネットワークに接続</string>
   <string name="connected_via_passpoint">%1$s経由で接続しました</string>
@@ -1620,7 +1620,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="install_unknown_applications">提供元不明のアプリのインストールを許可する</string>
   <string name="install_unknown_applications_title">アプリの提供元がGoogle Play以外でもインストールする</string>
   <string name="install_whole_rom">ROMをダウンロード</string>
-  <string name="instruction_privacy_password">This password protects the following items</string>
+  <string name="instruction_privacy_password">このパスワードは以下の項目を保護します</string>
   <string name="instruction_title">説明書</string>
   <string name="insufficient_storage">十分な空き容量がありません。</string>
   <string name="intent_sender_account_label">アカウント:</string>
@@ -1924,7 +1924,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockscreen_glogin_checking_password">確認中…</string>
   <string name="lockscreen_glogin_password_hint">パスワード</string>
   <string name="lockscreen_glogin_submit_button">ログイン</string>
-  <string name="long_press_volume_down">音量[-]ボタンを長押し</string>
+  <string name="long_press_volume_down">音量[－]ボタンを長押し</string>
   <string name="lte_ram_dump_off">LTE RAMダンプをオフにする</string>
   <string name="lte_ram_dump_on">LTE RAMダンプをオンにする</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -2105,7 +2105,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="msd_install_download_zhushou">"Mi Phone Managerをダウンロードしました"</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">次へ</string>
-  <string name="msd_install_retry">もしコンピューターから端末を検出できない場合、次の手順を試して下さい:</string>
+  <string name="msd_install_retry">もしコンピュータから端末を検出できない場合、次の手順を試してください:</string>
   <string name="msd_install_retry_connect">USBケーブルを接続し直す。</string>
   <string name="msd_install_retry_reinstall">ドライバーを再インストールする。</string>
   <string name="msd_install_retry_reinstall_mac">最初にAndroid File Transferをインストールし、実行します。</string>
@@ -2615,7 +2615,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="pref_button_light_summary">メニュー、ホーム、戻るボタンのライトを点灯する</string>
   <string name="pref_edge_handgrip">エッジコントロール</string>
   <string name="pref_operational_key">ナビゲーションボタン</string>
-  <string name="pref_volume_launch_camera_summary">"音量[-]ボタンを2回押すとカメラを起動します"</string>
+  <string name="pref_volume_launch_camera_summary">"音量[－]ボタンを2回押すとカメラを起動します"</string>
   <string name="pref_volume_launch_camera_title">高速カメラ起動</string>
   <string name="pref_volume_wake_summary">音量ボタンを押すと端末が復帰します</string>
   <string name="pref_volume_wake_title">音量ボタンで復帰</string>
@@ -3366,7 +3366,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="show_touches_summary">タップを視覚表示する</string>
   <string name="show_user_info_on_lockscreen_label">ロック画面にユーザー情報を表示</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
-  <string name="shut_down_find_device_network_failure_content">「デバイスを探す」機能をOFFに出来ませんでした。お使いの携帯端末がインターネットに接続していることを確認して下さい。</string>
+  <string name="shut_down_find_device_network_failure_content">「デバイスを探す」機能をOFFに出来ませんでした。お使いの携帯端末がインターネットに接続していることを確認してください。</string>
   <string name="shut_down_find_device_network_failure_title">ネットワークに接続出来ません</string>
   <string name="shuting_down_find_device">「デバイスを探す」機能をOFF...</string>
   <string name="silent_mode_title">マナーモード</string>
@@ -4051,7 +4051,7 @@ PINが正しくない可能性があります。"</string>
   <string name="user_dict_settings_context_menu_edit_title">編集</string>
   <string name="user_dict_settings_edit_dialog_title">語句の編集</string>
   <string name="user_dict_settings_empty_text">"単語リストに登録がありません。
-追加ボタン[+]をタップすると単語を追加できます。"</string>
+追加ボタン[＋]をタップすると単語を追加できます。"</string>
   <string name="user_dict_settings_more_languages">その他の言語...</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">単語リスト</string>
@@ -4441,7 +4441,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_remembered">保存済み</string>
   <string name="wifi_required_info_text">セットアップを完了するには、タブレットでWi-Fiに接続する必要があります。セットアップ後にモバイルデータ通信とWi-Fiを切り替えられます。</string>
   <string name="wifi_rssi_threshold_check">RSSI閾値を有効</string>
-  <string name="wifi_rssi_threshold_check_summary">受信強度が低い場合には、認証サーバーに接続しないで下さい</string>
+  <string name="wifi_rssi_threshold_check_summary">受信強度が低い場合には、認証サーバーに接続しないでください</string>
   <string name="wifi_save">保存</string>
   <string name="wifi_saved_access_points_label">保存済みネットワーク</string>
   <string name="wifi_saved_access_points_titlebar">保存済みネットワーク</string>
@@ -4519,7 +4519,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_share">公衆無線LANの共有</string>
   <string name="wifi_share_action_turn_off">ネットワークの共有を停止</string>
   <string name="wifi_share_action_turn_on">公衆無線LANを共有</string>
-  <string name="wifi_share_action_turn_on_summary">共有するには、Miアカウントにログインして下さい。</string>
+  <string name="wifi_share_action_turn_on_summary">共有するには、Miアカウントにログインしてください。</string>
   <string name="wifi_share_add">自分の公衆無線LANネットワークを共有</string>
   <string name="wifi_share_add_summary">"公衆無線LANネットワークを共有すると、
 あなたも、他のユーザーの公衆無線LANネットワークを使用することが出来ます。"</string>
@@ -4535,7 +4535,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_share_notification_summary">MIUIは、公衆無線LANネットワークにあなたを接続しました。</string>
   <string name="wifi_share_other_network">その他のネットワーク</string>
   <string name="wifi_share_qrcode_finish">OK</string>
-  <string name="wifi_share_qrcode_summary">共有するには、上のQRコードをスキャンして下さい</string>
+  <string name="wifi_share_qrcode_summary">共有するには、上のQRコードをスキャンしてください</string>
   <string name="wifi_share_qrcode_title">Wi-Fiネットワークを共有</string>
   <string name="wifi_share_show_network">ネットワークを表示</string>
   <string name="wifi_share_summary1">MIUIユーザーが相互に公衆無線LANネットワーク（カフェ、レストラン、ホテルなど）を共有することができます。</string>
@@ -4593,19 +4593,19 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_wapi_as_cert">認証サーバー証明書</string>
   <string name="wifi_wapi_cert_cancel_button">キャンセル</string>
   <string name="wifi_wapi_cert_create_subdir">新規フォルダ作成</string>
-  <string name="wifi_wapi_cert_delet_subdir">適切な証明書を選択して下さい</string>
+  <string name="wifi_wapi_cert_delet_subdir">適切な証明書を選択してください</string>
   <string name="wifi_wapi_cert_install">WAPIの証明書をインストール</string>
   <string name="wifi_wapi_cert_install_button">インストール</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">SDカードに認証サーバー証明書がありません。</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">認証サーバー証明書のフォーマットが不正です</string>
-  <string name="wifi_wapi_cert_mgmt_as_name_is_empty">認証サーバー証明書の名前を入力して下さい</string>
+  <string name="wifi_wapi_cert_mgmt_as_name_is_empty">認証サーバー証明書の名前を入力してください</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">フォルダを作成出来ませんでした</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">同じ名前のフォルダが既にあります</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">フォルダ名を入力して下さい</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">フォルダ名を入力してください</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">WAPI証明書</string>
-  <string name="wifi_wapi_cert_mgmt_user_dont_exist">ユーザー証明書の名前を入力して下さい</string>
+  <string name="wifi_wapi_cert_mgmt_user_dont_exist">ユーザー証明書の名前を入力してください</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">ユーザー証明書のフォーマットが不正です</string>
-  <string name="wifi_wapi_cert_mgmt_user_name_is_empty">ユーザー証明書の名前を入力して下さい</string>
+  <string name="wifi_wapi_cert_mgmt_user_name_is_empty">ユーザー証明書の名前を入力してください</string>
   <string name="wifi_wapi_cert_uninstall">WAPI証明書をアンインストール</string>
   <string name="wifi_wapi_cert_uninstall_button">アンインストール</string>
   <string name="wifi_wapi_certification_dont_exist">入力したネットワークパスワードが正しくありません。</string>
@@ -4639,7 +4639,7 @@ PINが正しくない可能性があります。"</string>
   <string name="work_profile_usage_access_warning">このアプリによる使用量へのアクセス許可をOFFにしても、管理者は引き続き仕事用プロファイル内のアプリのデータ使用量をトラッキングできます。</string>
   <string name="work_sim_title">仕事用SIM</string>
   <string name="wps_category">WPS</string>
-  <string name="wps_connect_summary">ルーターがWPSをサポートしていて利用可能な状態か確認して下さい。</string>
+  <string name="wps_connect_summary">ルーターがWPSをサポートしていて利用可能な状態か確認してください。</string>
   <string name="wps_connect_title">WPSプッシュボタン</string>
   <string name="write_settings">システム設定の変更</string>
   <string name="write_settings_description">この権限により、アプリはシステム設定の変更ができるようになります。</string>
