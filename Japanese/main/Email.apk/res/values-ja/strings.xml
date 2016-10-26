@@ -186,8 +186,8 @@
   <string name="attachment_list_search_hint">"添付ファイルを検索"</string>
   <string name="attachment_mgr_name">"添付ファイル"</string>
   <string name="attachment_not_exists">The attachment is not available!</string>
-  <string name="attachment_open_SecurityException_hint">You may not have permission to open this file or the file may be damaged.</string>
-  <string name="attachment_open_SecurityException_title">"Can't open file"</string>
+  <string name="attachment_open_SecurityException_hint">"ファイルを開く権限を持っていないか、ファイルが破損している可能性があります。"</string>
+  <string name="attachment_open_SecurityException_title">"ファイルを開けません"</string>
   <string name="attachment_stop_all">"停止"</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
@@ -207,7 +207,7 @@
   <string name="body_forward_email_text">[Forward]</string>
   <string name="body_hint">"メールを作成"</string>
   <string name="body_inline_pic_text">[Picture]</string>
-  <string name="bottom_bar_more_quickreply">Quick reply</string>
+  <string name="bottom_bar_more_quickreply">"クイック返信"</string>
   <string name="bottom_bar_more_share">Share</string>
   <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
@@ -787,7 +787,7 @@
   <string name="quick_reply_hint">Reply to %1$d people</string>
   <string name="quick_reply_hint_bcc">(In BCC)</string>
   <string name="quick_reply_hint_cc">(In CC)</string>
-  <string name="quick_reply_hint_reply_only_from">Quick reply (sender only)</string>
+  <string name="quick_reply_hint_reply_only_from">"クイック返信 (送信者のみ)"</string>
   <string name="quick_responses_empty_view">"クイック返信がありません。"</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"></string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
@@ -823,7 +823,7 @@
   <string name="refreshing_done">"完了"</string>
   <string name="release_to_refresh">"指を離して更新"</string>
   <string name="remote_search_result">%s results on server</string>
-  <string name="remove_account">Remove account</string>
+  <string name="remove_account">"アカウントを削除"</string>
   <string name="remove_folder">Remove from %1$s</string>
   <string name="remove_star">Unstar</string>
   <string name="reply">Reply</string>
@@ -841,7 +841,7 @@
   <string name="request_permission_activity">Permission Request</string>
   <string name="respond_inline">"   Respond inline"</string>
   <string name="save_action">"保存"</string>
-  <string name="save_attachment">Save</string>
+  <string name="save_attachment">"保存"</string>
   <string name="save_draft_failed">"下書きの保存に失敗しました"</string>
   <string name="save_power_summary">Set power saving time</string>
   <string name="save_power_title">Battery saver</string>
@@ -878,7 +878,7 @@
   <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate\n\u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
   <string name="ser_resp_err_map_landing_more_failure">Too many unsuccessful sign in attempts</string>
   <string name="ser_resp_err_map_landing_too_frequently">Too many sign in attempts</string>
-  <string name="ser_resp_err_map_mailbox_locked">Email account is password protected</string>
+  <string name="ser_resp_err_map_mailbox_locked">"メールアカウントはパスワードで保護されています"</string>
   <string name="ser_resp_err_map_mailbox_not_open">No email accounts</string>
   <string name="ser_resp_err_map_max_connections">Too many connection attempts</string>
   <string name="ser_resp_err_map_nouser">"User doesn't exist"</string>
@@ -888,7 +888,7 @@
   <string name="ser_resp_err_map_ssl">"Choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
   <string name="set_network">Set network</string>
   <string name="setting_default_lable"/>
-  <string name="settings_activity_title">Settings</string>
+  <string name="settings_activity_title">"設定"</string>
   <string name="share_choose">"共有するファイルを選択"</string>
   <string name="sharing">"共有"</string>
   <string name="shortcut_name_title">Name folder shortcut</string>

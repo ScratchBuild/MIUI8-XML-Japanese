@@ -18,7 +18,7 @@
   <string name="add_automatically_alert_msg">Add photos from \"%1$s\" to this album automatically?</string>
   <string name="add_automatically_alert_title">Add photos automatically</string>
   <string name="add_sharer">Add member</string>
-  <string name="add_to_album">Add to album</string>
+  <string name="add_to_album">"アルバムに追加"</string>
   <string name="add_to_album_bulk_result">Error (%d)</string>
   <string name="add_to_album_exist">This photo already exists</string>
   <string name="add_to_album_failed">"Couldn't add to album"</string>
@@ -41,7 +41,7 @@
   <string name="adjust_saturation">"彩度"</string>
   <string name="adjust_sharpen">Sharpen</string>
   <string name="adjust_vignette">Vignette</string>
-  <string name="album_already_exists">An album with the same name already exists</string>
+  <string name="album_already_exists">"同じ名前のアルバムが既に存在します"</string>
   <string name="album_already_forced_top">Already on top</string>
   <string name="album_camera_name">"カメラ"</string>
   <string name="album_detail_clear_local_page_empty">No backed up photos or videos to delete</string>
@@ -77,11 +77,11 @@
   <string name="alert_secret_album_enter">Got it</string>
   <string name="alert_secret_album_message">Pull down from the top of your Albums page to view hidden album.</string>
   <string name="alert_secret_album_title">How to view hidden album</string>
-  <string name="all_video_album_display_name">"すべてのビデオ"</string>
+  <string name="all_video_album_display_name">"すべての動画"</string>
   <string name="already_create_baby_album">Baby album already exists in Mi Cloud.</string>
   <string name="app_name">"ギャラリー"</string>
-  <string name="app_name_view_picture">View photos</string>
-  <string name="app_name_view_video">View videos</string>
+  <string name="app_name_view_picture">"写真を表示"</string>
+  <string name="app_name_view_video">"動画を表示"</string>
   <string name="apply">"適用"</string>
   <string name="aspect_ratio_format" formatted="false">%d:%d</string>
   <string name="aspect_ratio_free">Custom</string>
@@ -94,7 +94,7 @@
   <string name="auto_update_off">Off</string>
   <string name="auto_update_on">On</string>
   <string name="auto_upload_before_share_message">Back up this album to Mi Cloud before sharing</string>
-  <string name="auto_upload_before_share_title">Hint</string>
+  <string name="auto_upload_before_share_title">"ヒント"</string>
   <string name="auto_upload_disable_tip">Sync with Mi Cloud is off</string>
   <string name="auto_upload_disable_toast_long_press_menu">Sync with Mi Cloud is off, go to other albums to view</string>
   <string name="auto_upload_enable_toast_long_press_menu">Sync with Mi Cloud is on, go to Albums to view</string>
@@ -180,7 +180,7 @@
   <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sure these are &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? These people will be moved to \"%2$s\" album. </Data>" "</string>
   <string name="confirm_recommandation_multiple_faces_not">" "<Data>" Sure these aren't &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
   <string name="contact_tip">"連絡先"</string>
-  <string name="context_menu_add_contact">Add to contacts</string>
+  <string name="context_menu_add_contact">"連絡先に追加"</string>
   <string name="context_menu_copy">"コピー"</string>
   <string name="context_menu_copy_notice">"クリップボードにコピーしました"</string>
   <string name="create_baby_album">Create a Baby album</string>
@@ -220,13 +220,13 @@
   <string name="delete_origin">Delete items from original album</string>
   <string name="delete_other_shared_images">"Can't delete photos shared by others"</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d deleted, %2$d saved</string>
-  <string name="delete_third_party_photo">Delete this photo?</string>
-  <string name="delete_third_party_video">Delete this video?</string>
+  <string name="delete_third_party_photo">"この写真を削除しますか？"</string>
+  <string name="delete_third_party_video">"この動画を削除しますか？"</string>
   <string name="delete_to_trash_tips">You can view recently deleted photos in Settings > Trash bin</string>
   <string name="deny">Reject</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
-  <string name="detail_title">Detail info</string>
+  <string name="detail_title">"詳細情報"</string>
   <string name="disable_auto_upload_tip">"New and deleted photos won't be synced with Mi Cloud. This album will be moved to other albums."</string>
   <string name="disable_auto_upload_title">Turn off sync with Mi Cloud</string>
   <string name="do_not_remind_me">"二度と表示しない"</string>
@@ -317,7 +317,7 @@ Take more photos of your friends!"</string>
   <string name="finish_fill_baby">"作成"</string>
   <string name="flash_off">"フラッシュOFF"</string>
   <string name="flash_on">"フラッシュON"</string>
-  <string name="gallery_setting">Settings</string>
+  <string name="gallery_setting">"設定"</string>
   <string name="gallery_sync_disable_toast">Sync is off for Gallery</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
   <string name="gif_tip">GIF</string>
@@ -361,7 +361,7 @@ Take more photos of your friends!"</string>
   <string name="invite_sharer_relation_tip">"%1$s's relative"</string>
   <string name="invite_sharer_title">"Invite %1$s's %2$s"</string>
   <string name="invite_tip">"Share your baby's photos"</string>
-  <string name="is">Yes</string>
+  <string name="is">"はい"</string>
   <string name="kick_owner_user_positive_button_text">Remove</string>
   <string name="kick_owner_user_title">Remove this person?</string>
   <string name="kick_sharer">Remove shared viewer</string>
@@ -402,7 +402,7 @@ Take more photos of your friends!"</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face_album_name">More people</string>
   <string name="move_to_other_albums_tip">Sync with Mi Cloud will be turned off if you move this album to other albums. Move now?</string>
-  <string name="must_pick_file">Select a photo</string>
+  <string name="must_pick_file">"写真を選択"</string>
   <string name="name_split">,</string>
   <string name="need_to_turn_on_network">"Device isn't connected to the internet"</string>
   <string name="need_to_turn_on_sync">Turn on sync with Mi Cloud</string>
@@ -415,7 +415,7 @@ Take more photos of your friends!"</string>
   <string name="new_album_invalid_prefix">"Don't use \".\" or \"_\" in the beginning of the album's name."</string>
   <string name="next">"次へ"</string>
   <string name="no">"いいえ"</string>
-  <string name="no_map_app">No app was found to handle this action</string>
+  <string name="no_map_app">"この操作を処理するためのアプリが見つかりませんでした"</string>
   <string name="no_network_connected">No network detected</string>
   <string name="not_ask_any_more">"Don't ask again for \"%s\" answers"</string>
   <string name="not_is">No</string>
@@ -425,7 +425,7 @@ Take more photos of your friends!"</string>
   <string name="open">Turn on</string>
   <string name="open_public_message">Create URL to share with your friends</string>
   <string name="open_public_title">Share</string>
-  <string name="operation_add_album">Add to album</string>
+  <string name="operation_add_album">"アルバムに追加"</string>
   <string name="operation_add_picture">Add items</string>
   <string name="operation_add_secret">Hide</string>
   <string name="operation_delete">"削除"</string>
@@ -467,7 +467,7 @@ Take more photos of your friends!"</string>
   <string name="people_page_unname">Unnamed</string>
   <string name="pet_album_display_name">Pet photos</string>
   <string name="petabyteShort">PB</string>
-  <string name="photo">Photos</string>
+  <string name="photo">"写真"</string>
   <string name="photo_edit_file_not_exits_tip">Download photo before editing</string>
   <string name="photo_editor_saving">"保存中…"</string>
   <string name="photo_page_save_uri_image_fail">"Couldn't save to Gallery"</string>
@@ -674,7 +674,7 @@ Take more photos of your friends!"</string>
   <string name="video_editor_filter_rouge">Rouge</string>
   <string name="video_editor_filter_sunny">Sunny</string>
   <string name="video_editor_invalid_trim_arguments">Should be longer than 1 second</string>
-  <string name="video_editor_loading_plugin">Loading…</string>
+  <string name="video_editor_loading_plugin">"読み込み中…"</string>
   <string name="video_editor_loading_warning_msg">"Due to an encoding error, some features and previews may be unavailable during the editing process. This won't affect the final video file, though."</string>
   <string name="video_editor_loading_warning_title">Encoding error</string>
   <string name="video_editor_more">Advanced</string>
