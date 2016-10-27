@@ -2,7 +2,7 @@
 <resources>
   <string name="abc_action_bar_home_description">"ホームに移動"</string>
   <string name="abc_action_bar_up_description">"上に移動"</string>
-  <string name="abc_action_menu_overflow_description">More</string>
+  <string name="abc_action_menu_overflow_description">"もっと"</string>
   <string name="abc_action_mode_done">"完了"</string>
   <string name="abc_action_mode_select_all">"すべて選択"</string>
   <string name="accept_cookies_confirm_message">"この機能をオフにするといくつかのウェブサイトが正常に動作しない恐れがあります。"</string>
@@ -48,13 +48,13 @@
   <string name="action_menu_useful_page_added">Added to start page</string>
   <string name="actionbar_share">"共有"</string>
   <string name="actionbar_web_search">"ウェブ検索"</string>
-  <string name="adblock_force_updating_rules_toast">Updating Ad blocker</string>
+  <string name="adblock_force_updating_rules_toast">"Ad blockerを更新中"</string>
   <string name="adblock_notification">%d ads blocked</string>
-  <string name="adblock_rules_not_updated_toast">"Couldn't update"</string>
+  <string name="adblock_rules_not_updated_toast">"更新できませんでした"</string>
   <string name="adblock_rules_restore">Unblock</string>
-  <string name="adblock_rules_updated_toast">Updated successfully</string>
-  <string name="adblock_websites_settings_empyt_hint">"You haven't blocked any sites."</string>
-  <string name="adblock_websites_settings_title">Blocked sites</string>
+  <string name="adblock_rules_updated_toast">"正常に更新されました"</string>
+  <string name="adblock_websites_settings_empyt_hint">"ブロックしたサイトはありません。"</string>
+  <string name="adblock_websites_settings_title">"ブロック済みのサイト"</string>
   <string name="add_bookmark_group">Add group</string>
   <string name="add_bookshelf_popup_text">Added to bookshelf</string>
   <string name="add_new_bookmark">"ブックマークを追加"</string>
@@ -90,9 +90,9 @@
   <string name="autologin_bar_text">"次のアカウントでログイン"</string>
   <string name="back_button_label">"戻る"</string>
   <string name="block">"ブロック"</string>
-  <string name="block_ads_choice_block">Block</string>
+  <string name="block_ads_choice_block">"ブロック"</string>
   <string name="block_ads_choice_continue">"続行"</string>
-  <string name="block_ads_message">Do you want to block messages from this website?</string>
+  <string name="block_ads_message">"このウェブサイトからのメッセージをブロックしますか？"</string>
   <string name="block_ads_title">Content may contain ads</string>
   <string name="bookmark_add_to">Add to</string>
   <string name="bookmark_btn_select_all">"すべて選択"</string>
@@ -150,7 +150,7 @@
   <string name="color_picker_button_cyan">Cyan</string>
   <string name="color_picker_button_green">Green</string>
   <string name="color_picker_button_magenta">Magenta</string>
-  <string name="color_picker_button_more">More</string>
+  <string name="color_picker_button_more">"もっと"</string>
   <string name="color_picker_button_red">Red</string>
   <string name="color_picker_button_set">Set</string>
   <string name="color_picker_button_white">White</string>
@@ -435,7 +435,7 @@ Pages you view won't appear in history."</string>
   <string name="miuishare_publish">Send</string>
   <string name="miuishare_share_done">Shared</string>
   <string name="miuishare_share_editor_title">Share</string>
-  <string name="miuishare_title_more">More</string>
+  <string name="miuishare_title_more">"もっと"</string>
   <string name="miuishare_title_share">Share</string>
   <string name="miuishare_wechat_timeline_title">WeChat timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
@@ -492,8 +492,8 @@ Pages you view won't appear in history."</string>
   <string name="pref_category_hint">"カテゴリー"</string>
   <string name="pref_check_security_url_summary">"Send website URL to Mi's servers to check if it's secure"</string>
   <string name="pref_check_security_url_title">Check URL security</string>
-  <string name="pref_clear_adblock_statistics">Clear Ad blocker history</string>
-  <string name="pref_clear_adblock_statistics_dlg">Clear blocked ad count?</string>
+  <string name="pref_clear_adblock_statistics">"Ad blockerの履歴を消去しますか？"</string>
+  <string name="pref_clear_adblock_statistics_dlg">"広告のブロック数を消去しますか？"</string>
   <string name="pref_clear_all_data_dlg">"保存されたすべてのデータを削除しますか？"</string>
   <string name="pref_clear_all_data_title">"すべて消去"</string>
   <string name="pref_clear_data_title">"データを消去"</string>
@@ -613,7 +613,7 @@ Pages you view won't appear in history."</string>
   <string name="quicklinks_most_visited_title">Add to start page</string>
   <string name="readmode_already_add_to_bookshelf">Added to bookshelf</string>
   <string name="readmode_battery">Battery </string>
-  <string name="readmode_login">Sign in</string>
+  <string name="readmode_login">"ログイン"</string>
   <string name="readmode_login_message">You need to sign in to read more.</string>
   <string name="readmode_page_load_error">"Can't load page"</string>
   <string name="readmode_page_loading">"読み込み中…"</string>
@@ -639,11 +639,11 @@ Pages you view won't appear in history."</string>
   <string name="return_to_homepage">Go back to start page</string>
   <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">None</string>
-  <string name="router_download_exist">This file already exists</string>
+  <string name="router_download_exist">"ファイルが既に存在します"</string>
   <string name="router_download_failed">"ダウンロードできませんでした"</string>
   <string name="router_download_success">"正常にダウンロードされました"</string>
   <string name="same_bookmarks_warning">"このページはブックマーク済みです"</string>
-  <string name="same_folder_name_warning">A group with the same name already exists</string>
+  <string name="same_folder_name_warning">"同じ名前のグループが既に存在します"</string>
   <string name="save_button_text">"保存"</string>
   <string name="save_dialog_title">"保存"</string>
   <string name="save_file">Save %s files</string>
@@ -766,7 +766,7 @@ Pages you view won't appear in history."</string>
   <string name="url_suggest_indicator_bookmark">"ブックマーク/履歴"</string>
   <string name="url_suggest_indicator_hoturl">Popular</string>
   <string name="url_suggest_indicator_mostvisited">Most visited</string>
-  <string name="use_cellular_network_alert_message">"Wi-Fi isn't available. Use your mobile data connection instead?"</string>
+  <string name="use_cellular_network_alert_message">"Wi-Fiが利用できません。代わりにモバイルデータを使用して接続しますか？"</string>
   <string name="use_cellular_network_alert_title">Data usage</string>
   <string name="user_defined_webpage">Add to start page</string>
   <string name="user_defined_webpage_title">Add to start page</string>
@@ -795,7 +795,7 @@ Pages you view won't appear in history."</string>
   <string name="video_collect_success">Favorited</string>
   <string name="video_download_complete">"ダウンロード完了".</string>
   <string name="video_download_empty">No videos</string>
-  <string name="video_download_error">Error</string>
+  <string name="video_download_error">"エラー"</string>
   <string name="video_download_error_http_gone">"Couldn't find file"</string>
   <string name="video_download_exists">Download already exists.</string>
   <string name="video_download_fail">Failed</string>
@@ -809,7 +809,7 @@ Pages you view won't appear in history."</string>
   <string name="video_download_unsupport">Not supported</string>
   <string name="video_download_wait_for_wifi">Waiting for Wi-Fi</string>
   <string name="video_downloaded_group">Downloaded</string>
-  <string name="video_downloading_group">Downloading</string>
+  <string name="video_downloading_group">"ダウンロード中"</string>
   <string name="video_edit">"編集"</string>
   <string name="video_float_window">Pop-up</string>
   <string name="video_float_window_playing">Playing video</string>

@@ -8,11 +8,11 @@
   <string name="alert_message_delete">"%1$sを削除しますか？"</string>
   <string name="alert_message_delete_note">"このノートを削除しますか？"</string>
   <string name="alert_message_edit_anyway">"このノートを編集した場合、内容の一部が失われる可能性があります。"</string>
-  <string name="alert_message_restore">"Could't open this note. Restore it to edit its content."</string>
+  <string name="alert_message_restore">"このノートを開くことができませんでした。内容を編集するために復元します。"</string>
   <string name="alert_title_delete">"ノートを削除しますか？"</string>
   <string name="alert_title_edit_anyway">"このノートにはサポートされていないコンテンツが含まれています"</string>
   <string name="alert_title_hidden_note">Received a hidden note reminder</string>
-  <string name="alert_title_restore">Restore note</string>
+  <string name="alert_title_restore">"ノートを復元"</string>
   <string name="all_folder_name">"すべてのノート"</string>
   <string name="all_terms">"%1$s と %2$s"</string>
   <string name="app_name">"ノート"</string>
@@ -40,7 +40,7 @@
   <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
   <string name="dlg_title_password_reset">"パスワードを更新"</string>
   <string name="dlg_title_set_password">"パスワードを設定"</string>
-  <string name="dlg_title_use_privacy_password">Use Privacy protection password</string>
+  <string name="dlg_title_use_privacy_password">"プライバシー保護のパスワードを使用"</string>
   <string name="dlg_unhide_message">Unhiding…</string>
   <string name="empty_folder_hint">"フォルダがありません
 フォルダを作成するには＋をタップ"</string>

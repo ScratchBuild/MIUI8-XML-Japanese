@@ -21,12 +21,12 @@
   <string name="cold_dews">寒露</string>
   <string name="cta_button_continue">Agree</string>
   <string name="cta_button_quit">Exit</string>
-  <string name="cta_check_reminder">"Don't show again"</string>
+  <string name="cta_check_reminder">"二度と表示しない"</string>
   <string name="cta_message_license">By using this product, you agree to the terms stated in our Terms of Service and Privacy Policy.</string>
   <string name="cta_message_permission">This app needs to %2$s to work normally.</string>
   <string name="cta_permission_and"> and </string>
   <string name="cta_permission_delimiter">, </string>
-  <string name="cta_title">Terms of Use</string>
+  <string name="cta_title">"利用規約"</string>
   <string name="day_following_good_friday">耶穌受難節翌日</string>
   <string name="daydream">Daydream</string>
   <string name="def_alarm_alert">/system/media/audio/alarms/Daydream.ogg</string>

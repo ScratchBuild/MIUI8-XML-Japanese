@@ -54,7 +54,7 @@ Last backed up on %2$s"</string>
   <string name="cloud_storage_is_full">Full</string>
   <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
-  <string name="connect_network">Connect to WLAN or insert a SIM card</string>
+  <string name="connect_network">Wi－Fiに接続するか、SIMカードを挿入</string>
   <string name="connect_wlan">Wi-Fiに接続</string>
   <string name="contact">連絡先</string>
   <string name="deskclock_backup">Clocks Back up</string>
@@ -70,7 +70,7 @@ Last backed up on %2$s"</string>
   <string name="enable_sync">同期</string>
   <string name="enable_sync_dspt">同期しない</string>
   <string name="error_data_in_transfer">Sync will finish in %s hours.</string>
-  <string name="error_data_in_transfer_title">Mi Cloud unavailable</string>
+  <string name="error_data_in_transfer_title">Mi Cloudが利用できません</string>
   <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
   <string name="error_network">ネットワークに接続できません</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>
@@ -151,8 +151,8 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_account_question">Does the Mi Account ID: %s belong to you?</string>
   <string name="micloud_confusion_account_title">Mi Account</string>
   <string name="micloud_confusion_alert_message">%s is changing Mi Account info.</string>
-  <string name="micloud_confusion_alert_negative">Later</string>
-  <string name="micloud_confusion_alert_positive">Details</string>
+  <string name="micloud_confusion_alert_negative">後で</string>
+  <string name="micloud_confusion_alert_positive">詳細</string>
   <string name="micloud_confusion_alert_title">Another device is modifying your account</string>
   <string name="micloud_confusion_cancel">キャンセル</string>
   <string name="micloud_confusion_check_account_title">Sign in to your Mi Account to reactivate Mi Cloud.</string>
@@ -178,7 +178,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_battery_low_title">Battery is low</string>
   <string name="micloud_detail_depend_wifi_message">Please connect to WLAN or check the sync settings.</string>
   <string name="micloud_detail_depend_wifi_title">Need WLAN</string>
-  <string name="micloud_detail_do_not_sync">"Don't sync"</string>
+  <string name="micloud_detail_do_not_sync">同期しない</string>
   <string name="micloud_detail_download_syncing">ダウンロード中 %s</string>
   <string name="micloud_detail_fail">"Can't sync"</string>
   <string name="micloud_detail_force_sync">今すぐ同期</string>
@@ -348,7 +348,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_sync_alert_dialog_message">Sync your photos, contacts, notes, and more across all your devices.</string>
   <string name="micloud_sync_alert_dialog_negative">キャンセル</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
-  <string name="micloud_sync_alert_dialog_title">Use Mi Cloud</string>
+  <string name="micloud_sync_alert_dialog_title">Mi Cloudを使用</string>
   <string name="micloud_sync_off">Sync with Mi Cloud is off</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s used | %s remaining"</string>
@@ -394,7 +394,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="network_unconnected">ネットワークに接続していません</string>
   <string name="next">"次へ"</string>
   <string name="noRemind">"Don't remind me"</string>
-  <string name="no_sim">No SIM card detected</string>
+  <string name="no_sim">"SIMカードが検出できません"</string>
   <string name="one_sync_item_close">%d is off</string>
   <string name="open_micloud_sync">Turn on sync with Mi Cloud</string>
   <string name="other_settings">その他の設定</string>
@@ -451,12 +451,12 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're connected to a WLAN network"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
   <string name="success_upgraded_space">%s added</string>
-  <string name="sync_dspt">Sync</string>
+  <string name="sync_dspt">同期</string>
   <string name="sync_dspt_entrance_provision">"Sync your photos, contacts, call history, and messages across all your devices. Access the things you sync from any browser at %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Learn more</string>
-  <string name="sync_dspt_entrance_provision_confirm_close">"Don't use"</string>
+  <string name="sync_dspt_entrance_provision_confirm_close">使用しない</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's built-in apps need Mi Cloud to back up your photos, contacts, notes, and more. Mi Cloud is free and ready to use out of the box."</string>
-  <string name="sync_dspt_entrance_provision_confirm_open">Use Mi Cloud</string>
+  <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloudを使用</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Don't use Mi Cloud?"</string>
   <string name="sync_dspt_entrance_provision_skip">Skip this step</string>
   <string name="sync_dspt_provision">"Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
@@ -482,7 +482,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_sub_dspt">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="sync_sub_dspt_provision">Sync photos, contacts, music, apps, and more across all your devices</string>
   <string name="sync_sub_int_dspt">Your carrier may charge for an international SMS message used to activate this service.</string>
-  <string name="title_reg">Create Mi Account</string>
+  <string name="title_reg">Mi Accountを作成</string>
   <string name="total_space_upgraded_to">Total space:%s</string>
   <string name="trying_to_connect_to_network">ネットワークに接続しています…</string>
   <string name="unactivated_user">ログアウト</string>

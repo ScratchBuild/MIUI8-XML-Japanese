@@ -73,7 +73,7 @@
   <string name="category_type_other">Other</string>
   <string name="category_video">Videos</string>
   <string name="category_zip">Archives</string>
-  <string name="change_sticker">Choose another sticker</string>
+  <string name="change_sticker">"別のステッカーを選択"</string>
   <string name="choose_report_comment_reason">Why are you reporting this comment?</string>
   <string name="choose_report_reason">Why are you reporting this video clip?</string>
   <string name="clean_hint">Tap to free up space</string>
@@ -99,8 +99,8 @@
   <string name="data_consumption_cancel">"終了"</string>
   <string name="data_consumption_checkbox_hint">"二度と表示しない"</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
-  <string name="data_consumption_message1">Device should be connected to the internet to view popular stickers and videos.</string>
+  <string name="data_consumption_message">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
+  <string name="data_consumption_message1">"人気のステッカーや動画を表示するには、インターネットへの接続が必要です。"</string>
   <string name="data_consumption_title">"インターネット接続"</string>
   <string name="decompress_cancel">"キャンセル"</string>
   <string name="decompress_confirm">"解凍"</string>
@@ -143,8 +143,8 @@
   <string name="dlg_error_unmount_text">"USBストレージのマウントを解除できませんでした。"</string>
   <string name="download">"ダウンロード"</string>
   <string name="download_fail">"ダウンロードできませんでした"</string>
-  <string name="downloaded_sticker_str">Downloaded</string>
-  <string name="downloading">Downloading</string>
+  <string name="downloaded_sticker_str">"ダウンロード済み"</string>
+  <string name="downloading">"ダウンロード中"</string>
   <string name="editor_commend">"編集"</string>
   <string name="empty_comment">"Comment can't be empty"</string>
   <string name="enable_documentsui">Turn on %s in Settings > Installed apps first</string>
@@ -169,16 +169,16 @@
   <string name="favorite_screen_cap">"スクリーンショット"</string>
   <string name="female">"女性"</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
-  <string name="file_info_canread">Readable: </string>
-  <string name="file_info_canwrite">Writable: </string>
-  <string name="file_info_ishidden">Hidden: </string>
-  <string name="file_info_location">Location: </string>
-  <string name="file_info_modified">Last modified: </string>
-  <string name="file_info_size">Size: </string>
+  <string name="file_info_canread">"読み取り: "</string>
+  <string name="file_info_canwrite">"書き込み: "</string>
+  <string name="file_info_ishidden">"非表示: "</string>
+  <string name="file_info_location">"パス: "</string>
+  <string name="file_info_modified">"更新日: "</string>
+  <string name="file_info_size">"サイズ: "</string>
   <string name="file_loading">"読み込み中…"</string>
   <string name="file_name_invalid">"File names can't contain the following characters: /\\:*?&lt;>"</string>
   <string name="file_not_exist">"File doesn't exist"</string>
-  <string name="flow_setting">Settings</string>
+  <string name="flow_setting">"設定"</string>
   <string name="folder_name_empty">Folder name cannot be empty</string>
   <string name="folder_name_illegal">"無効なフォルダ名"</string>
   <string name="follow_fail">"Couldn't follow, try again later"</string>
@@ -210,7 +210,7 @@
   <string name="homepage_tab_recent">Recent</string>
   <string name="hot_app">Popular apps</string>
   <string name="hot_comments">Popular comments</string>
-  <string name="hot_sticker">Stickers</string>
+  <string name="hot_sticker">"ステッカー"</string>
   <string name="hot_video">Videos</string>
   <string name="hot_video_load_more">More ></string>
   <string name="hottest_sticker_str">Popular</string>
@@ -227,8 +227,8 @@
   <string name="like_toast_1">Such videos will be recommended to you more often.</string>
   <string name="like_toast_2">View the videos you liked in your profile.</string>
   <string name="like_toast_3">Sign in to view the videos you liked in your profile.</string>
-  <string name="load_more">View more</string>
-  <string name="load_sticker_fail">"Couldn't load sticker"</string>
+  <string name="load_more">"もっと表示"</string>
+  <string name="load_sticker_fail">"ステッカーを読み込めませんでした"</string>
   <string name="loading">"読み込み中…"</string>
   <string name="local_image">Images</string>
   <string name="local_music">Audio files</string>
@@ -237,8 +237,8 @@
   <string name="login_account_bind_skip">Skip</string>
   <string name="login_account_bind_tip">A good nickname and avatar will make your videos more popular</string>
   <string name="login_account_bind_title">Add a third party account</string>
-  <string name="login_account_bind_wx">Use WeChat</string>
-  <string name="login_account_bind_xm">Use Mi Account</string>
+  <string name="login_account_bind_wx">"WeChatを使用"</string>
+  <string name="login_account_bind_xm">"Mi Accountを使用"</string>
   <string name="login_expired">Session expired, sign in again</string>
   <string name="login_failed_tip">"Couldn't sign in, try again later"</string>
   <string name="login_success_tip">Signed in successfully</string>
@@ -252,8 +252,8 @@
   <string name="menu_item_cleanup">Clean up</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Mi Drop</string>
-  <string name="menu_item_router">Router</string>
-  <string name="menu_item_search">Search</string>
+  <string name="menu_item_router">"ルーター"</string>
+  <string name="menu_item_search">"検索"</string>
   <string name="menu_item_sort">"並べ替え"</string>
   <string name="menu_item_sort_add_time">"Created "</string>
   <string name="menu_item_sort_by_added_time">Added</string>
@@ -269,7 +269,7 @@
   <string name="message_reply_prefix">Reply</string>
   <string name="message_reply_suffix">": "</string>
   <string name="message_title">My messages</string>
-  <string name="mi_router_label">Router</string>
+  <string name="mi_router_label">"ルーター"</string>
   <string name="midrop_msg_1">Turn on Mi Drop on the other device</string>
   <string name="midrop_msg_2">When Mi Drop is on, you can search for devices nearby and send files</string>
   <string name="midrop_send_files">Choose files to send</string>
@@ -283,7 +283,7 @@
   <string name="move_icon_to_desktop_hint">Create a Home screen shortcut for Explorer to manage files more efficiently.</string>
   <string name="move_icon_to_desktop_success">Shortcut added to Home screen.</string>
   <string name="move_to">Move to…</string>
-  <string name="msg_notify_setting">Notification settings</string>
+  <string name="msg_notify_setting">"通知設定"</string>
   <string name="msg_set_password">Set password first</string>
   <string name="name_empty">"名前を入力する必要があります。"</string>
   <string name="need_read_storage_permission">"Explorer needs to access your device's internal storage to work as designed."</string>
@@ -301,7 +301,7 @@
   <string name="no_enough_storage_indication">"Device's storage space is full."</string>
   <string name="no_enough_storage_title">Not enough space</string>
   <string name="no_file">Empty</string>
-  <string name="no_login_btn_text">Sign in</string>
+  <string name="no_login_btn_text">"ログイン"</string>
   <string name="no_message">No messages</string>
   <string name="no_new_content_tip">All items are up to date</string>
   <string name="no_recent_files">No recent files</string>
@@ -376,7 +376,7 @@
   <string name="partial_repair_done">Restored some files successfully</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">"内部ストレージ"</string>
-  <string name="phone_bind_skip">Skip</string>
+  <string name="phone_bind_skip">"スキップ"</string>
   <string name="phone_bind_tip">Add phone number to participate in rankings and win awards</string>
   <string name="phone_bind_title">Add phone number</string>
   <string name="phone_btn_str">Phone</string>
@@ -450,7 +450,7 @@
   <string name="rlv_release_to_refresh">"指を離して更新"</string>
   <string name="save_to_local">"ダウンロード"</string>
   <string name="search_app">"アプリとフォルダ"</string>
-  <string name="search_app_more">More</string>
+  <string name="search_app_more">"もっと"</string>
   <string name="search_description">"デバイス上のすべてのファイルを検索"</string>
   <string name="search_empty_view_hint">"何も見つかりませんでした"</string>
   <string name="search_error_hint">"検索"</string>
@@ -477,7 +477,7 @@
   <string name="select_volume">Select volume</string>
   <string name="send_comment">Send</string>
   <string name="send_error">"コメントを追加できませんでした"</string>
-  <string name="send_sticker">Send sticker</string>
+  <string name="send_sticker">"ステッカーを送信"</string>
   <string name="send_to_qq">Send to QQ</string>
   <string name="send_to_weixin">Send to WeChat</string>
   <string name="server_control_advanced_settings">FTP settings</string>
@@ -487,7 +487,7 @@
   <string name="set_pattern">Password was upgraded</string>
   <string name="set_pattern_btn">Set</string>
   <string name="set_pattern_msg">Set your password again. Privacy protection password also works for photos and messages.</string>
-  <string name="setting">Settings</string>
+  <string name="setting">"設定"</string>
   <string name="setting_account_bind">Add account</string>
   <string name="setting_message_notify">Notifications</string>
   <string name="share_success">Shared successfully</string>
@@ -505,7 +505,7 @@
   <string name="shared_sticker_suffix">Sticker at %s</string>
   <string name="shared_sticker_use_tip">"You can send the stickers you saved from chats just like you send images.
 (GIFs can be added to Custom in WeChat Stickers)."</string>
-  <string name="shared_sticker_use_tip_title">How to use stickers</string>
+  <string name="shared_sticker_use_tip_title">"ステッカーの使用方法"</string>
   <string name="shared_str">Shared by %s</string>
   <string name="smb_loading">"読み込み中…"</string>
   <string name="sort_size_asc">Smaller to bigger</string>
@@ -623,7 +623,7 @@
   <string name="user_setting_followed_msg_tip">"You'll be notified when people start following you"</string>
   <string name="user_setting_hot_comment">Notifications about featured comments</string>
   <string name="user_setting_hot_comment_tip">Receive notifications when your comments are featured</string>
-  <string name="user_setting_logout">Sign out</string>
+  <string name="user_setting_logout">"ログアウト"</string>
   <string name="user_setting_new_comment">Notifications about new comments</string>
   <string name="user_setting_new_comment_tip">"You'll be notified about replies to your comments and videos"</string>
   <string name="user_setting_new_liked">Notifications about likes</string>
@@ -657,7 +657,7 @@
   <string name="video_parse_success">Parsed successfully</string>
   <string name="video_parse_timeout">An error occurred, try again</string>
   <string name="video_parsing_btn">Parsing</string>
-  <string name="video_play_failed">Unknown error</string>
+  <string name="video_play_failed">"不明なエラー"</string>
   <string name="video_publish_hint">A good description will help other people find your video</string>
   <string name="video_publish_hint2">Description</string>
   <string name="video_recommend_upload">Recommended</string>
@@ -686,7 +686,7 @@
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Video at %s</string>
   <string name="weixin_not_installed">"WeChat isn't installed"</string>
-  <string name="weixin_sticker_tag_str">Stickers</string>
+  <string name="weixin_sticker_tag_str">"ステッカー"</string>
   <string name="welcome_to_my_page">Welcome to my homepage</string>
   <string name="welcome_to_my_page_1">Follow me!</string>
   <string name="welcome_to_my_page_2">Follow me!</string>
