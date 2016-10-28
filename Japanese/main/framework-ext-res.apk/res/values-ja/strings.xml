@@ -79,10 +79,10 @@
   <string name="resource_select">"選択"</string>
   <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
   <string name="screen_button_notification_title">Navigation buttons are turned off</string>
-  <string name="screen_on_proximity_sensor_hint">"この機能をオフにするには、戻るボタンと音量[＋]ボタンを同時に押してください。"</string>
+  <string name="screen_on_proximity_sensor_hint">"この機能をオフにするには、音量[＋]ボタンと戻るボタンを同時に押してください。"</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">"この機能をオフにするには、音量[＋]ボタンを押してください。"</string>
-  <string name="screen_on_proximity_sensor_summary">"画面のオレンジ色の領域を覆わないでください"</string>
-  <string name="screen_on_proximity_sensor_title">"ポケットダイヤルを防止する"</string>
+  <string name="screen_on_proximity_sensor_summary">"イヤホンの領域を覆わないでください"</string>
+  <string name="screen_on_proximity_sensor_title">"ポケットモード"</string>
   <string name="screen_paper_mode_enter_toast">"読書モードが有効です。この機能を無効にするには、設定 &gt; ディスプレイ &gt; 読書モード を開いてください。"</string>
   <string name="screen_rotation_freeze_message">"自動回転は無効です。"</string>
   <string name="screenshot_gesture_detect_alert_button">Turn on in the Settings</string>

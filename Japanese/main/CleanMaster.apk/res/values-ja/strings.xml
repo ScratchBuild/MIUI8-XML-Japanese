@@ -153,6 +153,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Cleaner engine has been corrupted.</string>
   <string name="dialog_msg_stop_scan">Stop the ongoing clean up scan?</string>
   <string name="dialog_msg_uninstall_apps">Uninstall these apps?</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Uninstall these apps?（including clone apps）?</string>
   <string name="dialog_ok_add_white_list_error">Got it</string>
   <string name="dialog_title_add_white_list_error">Attention</string>
   <string name="dialog_title_backup_and_uninstall_apps">Backup and uninstall</string>
@@ -501,7 +502,6 @@
   <string name="total_clean">Total cleaned: %s</string>
   <string name="total_clean_text">Clear</string>
   <string name="traffic_top">TOP 5 data consuming apps</string>
-  <string name="unlike">"結構です"</string>
   <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">"ウイルススキャン"</string>
   <string name="vungle_ad_name">"Vungle広告"</string>

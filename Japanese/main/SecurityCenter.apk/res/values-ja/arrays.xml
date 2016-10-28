@@ -81,6 +81,9 @@
         <item>0</item>
         <item>2</item>
     </string-array>
+    <string-array name="long_add_menu">
+        <item>"例外に追加"</item>
+    </string-array>
     <integer-array name="pc_time_choice_items">
         <item>1</item>
         <item>5</item>

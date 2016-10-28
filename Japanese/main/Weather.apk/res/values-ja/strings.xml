@@ -51,6 +51,7 @@
   <string name="button_exit">"終了"</string>
   <string name="button_not_allow">"キャンセル"</string>
   <string name="button_sure_abandon">"変更を破棄しますか？"</string>
+  <string name="change_alert">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="close">"閉じる"</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">"読み込み中..."</string>

@@ -92,6 +92,7 @@
   <string name="note_link_select">"テキストを選択"</string>
   <string name="note_link_tel">"発信"</string>
   <string name="note_link_web">"ブラウザで表示"</string>
+  <string name="note_sort_way">"ノートの並び替え方法を選択してください"</string>
   <string name="notealert_enter">"ノートを開く"</string>
   <string name="notealert_ok">"却下"</string>
   <string name="notelist_menu_new">"ノートを追加"</string>

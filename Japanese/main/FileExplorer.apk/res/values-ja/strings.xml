@@ -408,7 +408,7 @@
   <string name="pick_file">"ファイルを選択"</string>
   <string name="pick_folder">"フォルダを選択"</string>
   <string name="popup_msg_qq">Share this video with your QQ friends.</string>
-  <string name="popup_msg_wx">Share this video to your WeChat friends.</string>
+  <string name="popup_msg_wx">Share this video with your WeChat friends.</string>
   <string name="port_range">Port must be between 1024–65535</string>
   <string name="private_files">Hidden</string>
   <string name="private_folder">Hidden folders</string>
@@ -520,7 +520,7 @@
   <string name="storage_sd_card">"SDカード"</string>
   <string name="storage_usb">"USBストレージ"</string>
   <string name="storage_warning">"外部ストレージを使用できません"</string>
-  <string name="swap_tip_1">"左右を入れ替える"</string>
+  <string name="swap_tip_1">Swipe left or right</string>
   <string name="swap_tip_2">to watch other videos</string>
   <string name="sys_size_enable">" available"</string>
   <string name="tab_category">"カテゴリー"</string>
@@ -618,22 +618,22 @@
   <string name="user_not_video_btn_text">Upload the first video</string>
   <string name="user_recommend_follow">Recommended profiles</string>
   <string name="user_setting_follow_new_msg">Notifications from the people you follow</string>
-  <string name="user_setting_follow_new_msg_tip">Receive notifications about new videos</string>
+  <string name="user_setting_follow_new_msg_tip">"You'll be notified about new videos"</string>
   <string name="user_setting_followed_msg">Notifications about followers</string>
   <string name="user_setting_followed_msg_tip">"You'll be notified when people start following you"</string>
   <string name="user_setting_hot_comment">Notifications about featured comments</string>
-  <string name="user_setting_hot_comment_tip">Receive notifications when your comments are featured</string>
+  <string name="user_setting_hot_comment_tip">"You'll be notified when your comments are featured"</string>
   <string name="user_setting_logout">"ログアウト"</string>
   <string name="user_setting_new_comment">Notifications about new comments</string>
   <string name="user_setting_new_comment_tip">"You'll be notified about replies to your comments and videos"</string>
   <string name="user_setting_new_liked">Notifications about likes</string>
   <string name="user_setting_new_liked_tip">"You'll be notified when people like your comments or videos"</string>
   <string name="user_setting_play_num">Notifications about views</string>
-  <string name="user_setting_play_num_tip">Receive notifications about the number of views your videos get</string>
+  <string name="user_setting_play_num_tip">"You'll be notified about the number of views your videos get"</string>
   <string name="user_setting_topic_new_msg">Notifications about topics</string>
   <string name="user_setting_topic_new_msg_tip">"You'll be notified about new videos in topics you follow"</string>
   <string name="user_setting_video_has_hot_comment">Notifications about popular comments</string>
-  <string name="user_setting_video_has_hot_comment_tip">Receive notifications when your videos get popular comments</string>
+  <string name="user_setting_video_has_hot_comment_tip">"You'll be notified when your videos get popular comments"</string>
   <string name="user_sex">"性別"</string>
   <string name="user_sign">Signature</string>
   <string name="user_topic_text">My topics</string>
@@ -700,13 +700,13 @@
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">"はい"</string>
   <string name="yesterday">"昨日"</string>
-  <string name="youliao_ad_msg">"Now upgraded to full version APP, have more fun!
-Watching with 170 million Mi fans."</string>
-  <string name="youliao_ad_title">Hot video has been upgraded to full version now!</string>
+  <string name="youliao_ad_msg">"Have fun with\"Youliao\"!
+Join 170 million Mi Fans!"</string>
+  <string name="youliao_ad_title">Popular videos have been upgraded!</string>
   <string name="youliao_ad_update">Update</string>
-  <string name="youliao_dialog_msg">"Hot video has been upgraded to \"Youliao\", 
-now upgraded to full version APP, watching more."</string>
-  <string name="youliao_dialog_title">No interested videos?</string>
+  <string name="youliao_dialog_msg">"Popular videos were replaced with \"Youliao\" 
+which is an app dedicated to bringing you more fun!"</string>
+  <string name="youliao_dialog_title">No interesting videos?</string>
   <string name="zero">0</string>
   <string name="zero_comment">No comments</string>
 </resources>

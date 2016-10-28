@@ -349,6 +349,7 @@
   <string name="band_mode_title">GSM/UMTSバンドの設定</string>
   <string name="baseband_version">ベースバンドバージョン</string>
   <string name="batch_delete_saved_network">Delete saved network: %s?</string>
+  <string name="batch_delete_saved_networks">選択したすべてのネットワークを削除</string>
   <string name="battery_action_app_details">アプリ情報</string>
   <string name="battery_action_app_settings">アプリの設定</string>
   <string name="battery_action_bluetooth">Bluetoothの設定</string>
@@ -1269,7 +1270,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_service_password_reason">%1$sをONにするとデータの暗号化に影響するため、パスワードの確認が必要となります。</string>
   <string name="enable_service_pattern_reason">%1$sをONにするとデータの暗号化に影響するため、パターンの確認が必要となります。</string>
   <string name="enable_service_pin_reason">%1$sをONにするとデータの暗号化に影響するため、PINの確認が必要となります。</string>
-  <string name="enable_service_title">%1$sを利用しますか？</string>
+  <string name="enable_service_title">The service will perform these actions:</string>
   <string name="enable_snapshot_screenlock">戻るボタンの長押しで写真を撮影</string>
   <string name="enable_terminal_summary">ローカルシェルアクセスを提供するターミナルアプリを有効にします</string>
   <string name="enable_terminal_title">ローカルターミナル</string>
@@ -2123,6 +2124,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="multi_touch_points_preference">この設定は、端末を再起動した後に有効になります</string>
   <string name="music_audio_effect_optimize">オーディオ設定</string>
   <string name="music_audio_effect_optimize_summary">Dirac、ヘッドフォン、その他のオーディオ設定</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac、HD Sound、ヘッドフォン、その他のオーディオ設定</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac、Hi-Fi、ヘッドフォン、その他のオーディオ設定</string>
   <string name="music_audio_effect_settings">エフェクト設定</string>
   <string name="music_dirac_control">音質を最適化</string>
@@ -2147,6 +2149,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_dolby_mode_off">Off</string>
   <string name="music_equalizer">イコライザー</string>
   <string name="music_equalizer_summary">音楽の種類ごとに個別のレベルを調節します</string>
+  <string name="music_hd_title">HD Sound audio</string>
   <string name="music_headphone_settings">ヘッドフォンの種類の選択</string>
   <string name="music_headset_button_settings">ボタンの割り当て</string>
   <string name="music_headset_calibrate">ボタンの割り当て</string>
@@ -2166,7 +2169,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_headset_settings">ヘッドフォンとオーディオエフェクト</string>
   <string name="music_hifi_summary">ノイズと歪みを低減し、音質を向上させます</string>
   <string name="music_hifi_title">Hi-Fiオーディオ</string>
-  <string name="music_hifi_volume">Hi-Fiボリューム</string>
   <string name="music_mi_effect_summary">スピーカー利用時にMi Sound Enhancerを使用する</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
@@ -2947,8 +2949,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_key_press_action">トリガ機能</string>
   <string name="screen_locking_sounds_title">画面ロック音</string>
   <string name="screen_never_timeout_title">スリープにしない</string>
-  <string name="screen_on_proximity_sensor_summary">ポケットに入れたら自動でロックする</string>
-  <string name="screen_on_proximity_sensor_title">ポケットダイヤルを防止する</string>
+  <string name="screen_on_proximity_sensor_summary">ポケットに入れたらタッチジェスチャーをロックする</string>
+  <string name="screen_on_proximity_sensor_title">ポケットモード</string>
   <string name="screen_optimize">コントラスト</string>
   <string name="screen_paper_mode_adjust_level">強さ</string>
   <string name="screen_paper_mode_apps_loading">読み込み中…</string>
@@ -3036,7 +3038,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="sdcard_unmount">SDカードのマウント解除</string>
   <string name="se_route_ese">Embedded secure element</string>
   <string name="se_route_uicc">SIMカードのセキュアエレメント</string>
-  <string name="se_wallet_ese">Mi Wallet allows you to use Mi Pay and NFC transport card.</string>
+  <string name="se_wallet_ese">Mi Pay and NFC transport card</string>
   <string name="se_wallet_hce">Use HCE Wallet</string>
   <string name="search_about">About phone;Model number;Android version;MIUI version;CPU;RAM;Internal memory;Baseband version;Kernel version;Build number</string>
   <string name="search_accelerometer">画面の自動回転</string>
@@ -3803,7 +3805,7 @@ PINが正しくない可能性があります。"</string>
   <string name="touch_sensitive_title">手袋モード</string>
   <string name="touch_sensitive_turn_off_cancel">キャンセル</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
-  <string name="touch_sensitive_turn_off_summary">同様にポケットダイヤル防止機能もオフにしますか？</string>
+  <string name="touch_sensitive_turn_off_summary">同様にポケットモードもオフにしますか？</string>
   <string name="touch_sensitive_turn_off_title">手袋モードはOFFです</string>
   <string name="touch_sounds_title">タッチ操作音</string>
   <string name="touch_title">Touch</string>

@@ -130,7 +130,6 @@
   <string name="day_view_new_event_hint">"新しい予定を追加"</string>
   <string name="default_reminder_mode">"リマインダー"</string>
   <string name="delete_calendar">"購読解除"</string>
-  <string name="delete_label">"削除"</string>
   <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
   <string name="delete_this_event_title">"この予定を削除しますか？"</string>
   <string name="delete_topic_dialog_title">确认要退订\"%s\"吗？</string>

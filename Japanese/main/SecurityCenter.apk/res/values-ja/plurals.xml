@@ -60,6 +60,23 @@
         <item quantity="other">%d items can be optimized</item>
         <item quantity="one">%d item can be optimized</item>
     </plurals>
+    <plurals name="people">
+        <item quantity="other">Downloaded by %1$d people</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Downloaded by %1$d people</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Downloaded by %1$d people</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d views</item>
+        <item quantity="zero">%1$d views</item>
+        <item quantity="one">%1$d views</item>
+        <item quantity="two">%1$d views</item>
+        <item quantity="few">%1$d views</item>
+        <item quantity="many">%1$d views</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d items secure</item>
         <item quantity="one">%1$d item secure</item>
@@ -95,6 +112,22 @@
     <plurals name="summary_app_update">
         <item quantity="other">Updates available for %d apps.</item>
         <item quantity="one">Update available for %d app.</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d risks,</item>
+        <item quantity="one">%d risk,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d trojans,</item>
+        <item quantity="one">%d trojan,</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+        <item quantity="other">%d risks</item>
+        <item quantity="one">%d risk</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+        <item quantity="other">%d​ risks found, fix now</item>
+        <item quantity="one">%d risk found, fix now</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d apps contain privacy risks</item>
@@ -140,6 +173,10 @@
         <item quantity="other">%d apps found</item>
         <item quantity="zero">0 app found</item>
         <item quantity="one">%d app found</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">One item</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s payment risks</item>

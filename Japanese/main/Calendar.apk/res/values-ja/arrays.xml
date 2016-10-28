@@ -334,16 +334,17 @@
         <item>1</item>
         <item>0</item>
     </integer-array>
+    <string-array name="summary_card_text_chain">
+        <item>【订阅频道】订阅适合你的日历功能或服务</item>
+        <item>【订阅频道】来定制属于你的独家小米日历</item>
+        <item>【订阅频道】为你量身定制的日历功能和服务</item>
+        <item>【订阅频道】发现不一样的日历功能和服务</item>
+    </string-array>
     <string-array name="quick_response_defaults">
         <item>"数分遅れています。"</item>
         <item>"10分ほどで着きます。"</item>
         <item>"先に始めていてください。"</item>
         <item>"申し訳ありませんが、行けません。日程を変更する必要があります。"</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Always</item>
-        <item>Only when ringer is silenced</item>
-        <item>Never</item>
     </string-array>
     <string-array name="prefValues_alerts_vibrateWhen">
         <item>always</item>
@@ -494,5 +495,10 @@
         <item>Never</item>
         <item>Time</item>
         <item>Count</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Always</item>
+        <item>Only when ringer is silenced</item>
+        <item>Never</item>
     </string-array>
 </resources>
