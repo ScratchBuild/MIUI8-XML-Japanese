@@ -50,7 +50,7 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">気圧</string>
   <string name="pressure_unit">hPa</string>
-  <string name="shake_enter_tip">8の字に振るってください</string>
+  <string name="shake_enter_tip">8の字に振ってください</string>
   <string name="using_camera_confirm_cancel">終了</string>
   <string name="using_camera_confirm_ok">同意</string>
 </resources>

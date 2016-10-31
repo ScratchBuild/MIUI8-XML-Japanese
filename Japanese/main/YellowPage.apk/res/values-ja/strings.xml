@@ -14,7 +14,7 @@
   <string name="account_yellowpage_favorite">お気に入り</string>
   <string name="account_yellowpage_followed">Verified accounts</string>
   <string name="account_yellowpage_recent">履歴の表示</string>
-  <string name="add_to_desktop">Add to desktop</string>
+  <string name="add_to_desktop">ホーム画面に追加</string>
   <string name="agree">同意</string>
   <string name="agree_to_continue">続行</string>
   <string name="agree_to_turn_on">同意</string>
@@ -108,7 +108,7 @@
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_and_send">Tracking and sending</string>
   <string name="express_inquiry_button_text">Track</string>
-  <string name="express_inquiry_clipboard_number_message">Track copied number?</string>
+  <string name="express_inquiry_clipboard_number_message">コピーされた番号を追跡しますか？</string>
   <string name="express_inquiry_data_owner_prefix">"Tracking info provided by "</string>
   <string name="express_inquiry_data_owner_suffix"/>
   <string name="express_inquiry_delete_warning_multiple">Delete %d entries?</string>
@@ -139,7 +139,7 @@
   <string name="express_inquiry_status_return">Return</string>
   <string name="express_inquiry_status_sign_out">Rejected</string>
   <string name="express_inquiry_status_unknown">不明</string>
-  <string name="express_inquiry_trace">Track</string>
+  <string name="express_inquiry_trace">"追跡"</string>
   <string name="express_inquiry_trace_device_login_notice">"You're using this service on another device. If you want to receive order's status from this device, you need to verify your Mi Account."</string>
   <string name="express_inquiry_trace_success">Tracking</string>
   <string name="express_inquiry_trace_user_notice_content">"We'll let you know when your order's status changes."</string>
@@ -195,7 +195,7 @@
   <string name="expresss_inquiry_all_logistics">すべて</string>
   <string name="expresss_inquiry_frequently_used_logistics">Frequently used</string>
   <string name="follow_label">Follow %1$s</string>
-  <string name="follow_processing">processing</string>
+  <string name="follow_processing">処理中</string>
   <string name="follow_success">Now following %1$s.</string>
   <string name="fraud_number_online_identification">Block unwanted calls</string>
   <string name="gallery">ギャラリー</string>
@@ -384,7 +384,7 @@ Total: RMB %3$s"</string>
   <string name="send_shortcut_success">Placed on Home screen</string>
   <string name="sending_shortcut">送信中…</string>
   <string name="service_unavailiable">Service unavailable</string>
-  <string name="share">Share</string>
+  <string name="share">共有</string>
   <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
@@ -398,7 +398,7 @@ Total: RMB %3$s"</string>
   <string name="tag_follow_status">tag_follow_status</string>
   <string name="tag_follow_yp_id">tag_follow_yp_id</string>
   <string name="title_activity_di_di_web">DiDi</string>
-  <string name="toast_finish_delete_call_log">Call history deleted</string>
+  <string name="toast_finish_delete_call_log">通話履歴を削除しました</string>
   <string name="toast_text_copied">テキストをコピーしました</string>
   <string name="try_again">再試行</string>
   <string name="turn_off_hint_title">Turn off Caller ID?</string>

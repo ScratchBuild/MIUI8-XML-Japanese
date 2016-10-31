@@ -59,12 +59,12 @@
   <string name="dialog_confirm_delete_downloads_message">Delete %d tasks?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Delete these tasks</string>
   <string name="dialog_failed_body">Do you want to retry downloading the file later or delete it from the queue?</string>
-  <string name="dialog_file_already_exists">Cannot download. The destination file already exists.</string>
-  <string name="dialog_file_missing_body">The downloaded file cannot be found.</string>
-  <string name="dialog_file_missing_title">Fail to open file</string>
+  <string name="dialog_file_already_exists">"ダウンロードできません。ファイルが既に存在します。"</string>
+  <string name="dialog_file_missing_body">"ダウンロードしたファイルが見つかりません。"</string>
+  <string name="dialog_file_missing_title">"ファイルを開けません"</string>
   <string name="dialog_insufficient_space_on_cache">Cannot finish download. There is not enough space on internal download storage.</string>
   <string name="dialog_insufficient_space_on_external">Cannot finish download. There is not enough space on external storage.</string>
-  <string name="dialog_media_not_found">Cannot download. The external media is not available.</string>
+  <string name="dialog_media_not_found">"ダウンロードできません。外部メディアは使用できません。"</string>
   <string name="dialog_msg_disabled_net">%1$s restricted downloads in the current network. Tap Network settings to go to the Security app.</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_title_disabled_net">Internet access</string>
@@ -98,7 +98,7 @@
   <string name="download_list_open_xl_title">Xunlei download accelerator</string>
   <string name="download_list_title_browser">"ダウンロード"</string>
   <string name="download_no_application">No apps that support this format</string>
-  <string name="download_no_application_title">Cannot open file</string>
+  <string name="download_no_application_title">"ファイルを開けません"</string>
   <string name="download_num_size">%1$s | %2$s</string>
   <string name="download_paused">Download paused</string>
   <string name="download_pending">Download pending</string>
@@ -238,7 +238,7 @@ across all your devices with Xunlei"</string>
   <string name="privacy_tip_cancel">"キャンセル"</string>
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
-  <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+  <string name="privacy_tip_title">"Xunlei Acceleratorを使用しますか？"</string>
   <string name="quit_btn">"終了"</string>
   <string name="rank">Rankings</string>
   <string name="rank_data_empty">No rankings</string>
@@ -286,10 +286,10 @@ across all your devices with Xunlei"</string>
   <string name="search_hot_variety">Entertainment</string>
   <string name="search_hotwords">Keywords</string>
   <string name="search_hotwords_switch">Switch</string>
-  <string name="search_input_empty_toast">Search or enter URL</string>
-  <string name="search_input_hint">Search or enter URL</string>
+  <string name="search_input_empty_toast">"キーワードまたはURLを入力"</string>
+  <string name="search_input_hint">"キーワードまたはURLを入力"</string>
   <string name="search_nonetwork_prompt">"ネットワーク接続を確認して、もう一度やり直してください"</string>
-  <string name="search_nonetwork_refresh">Refresh</string>
+  <string name="search_nonetwork_refresh">"更新"</string>
   <string name="search_recommend_empty">No items</string>
   <string name="search_vif_empty">No recommended items</string>
   <string name="search_vif_score_text">Rating: %1$s</string>
@@ -326,7 +326,7 @@ across all your devices with Xunlei"</string>
   <string name="sniff_result_num_website_suffix">websites</string>
   <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; items | Source: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Size: %1$s</string>
-  <string name="sniff_search_install">Install</string>
+  <string name="sniff_search_install">"インストール"</string>
   <string name="sniff_shortcut_cloudconfig_btn">Got it</string>
   <string name="sniff_shortcut_cloudconfig_context">Updating source…</string>
   <string name="sniff_shortcut_cloudconfig_title">"読み込み中…"</string>

@@ -18,7 +18,7 @@
   <string name="account_security_dialog_title">"セキュリティの更新"</string>
   <string name="account_security_policy_explanation_fmt">"Android搭載携帯のセキュリティ機能の一部に対するリモートコントロールをサーバー%sに許可する必要があります。"</string>
   <string name="account_security_title">"端末のセキュリティ"</string>
-  <string name="account_set_up_change_type_note">If you need to switch between POP3 and IMAP settings, delete your account and create a new one with your desired settings.</string>
+  <string name="account_set_up_change_type_note">"POP3とIMAPの設定を切り替えたい場合には、アカウント設定を削除して新たに作成し直す必要があります。"</string>
   <string name="account_setting">"アカウント"</string>
   <string name="account_setting_keywords">"アカウント;メールアカウント"</string>
   <string name="account_settings_action">"アカウントの設定"</string>
@@ -166,7 +166,7 @@
   <string name="att_download_failed_network_slow">"接続速度が遅すぎます、後でもう一度試してください"</string>
   <string name="att_download_failed_permission_denied">"外部ストレージにアクセスするための権限がありません"</string>
   <string name="att_download_failed_title">"添付ファイルをダウンロードできません"</string>
-  <string name="att_file_not_exists">"Couldn't find %s"</string>
+  <string name="att_file_not_exists">"%sが見つかりませんでした"</string>
   <string name="att_mgr_no_attachment">"添付ファイルなし。"</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Name</string>
@@ -208,7 +208,7 @@
   <string name="body_hint">"メールを作成"</string>
   <string name="body_inline_pic_text">[Picture]</string>
   <string name="bottom_bar_more_quickreply">"クイック返信"</string>
-  <string name="bottom_bar_more_share">Share</string>
+  <string name="bottom_bar_more_share">"共有"</string>
   <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">"リマインダー"</string>
@@ -222,7 +222,7 @@
   <string name="cc_heading">"Cc: "</string>
   <string name="change_folders_selection_dialog_title">"フォルダを変更"</string>
   <string name="change_sync_settings">"同期設定を変更"</string>
-  <string name="changepw_dialog_tips">Re-enter password for %s</string>
+  <string name="changepw_dialog_tips">"%sのパスワードを再入力"</string>
   <string name="chat_item_msg_people_unit">"人"</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"サーバー設定を確認しています…"</string>
@@ -262,7 +262,7 @@
   <string name="contact_edit_set_black_list_title">"ブロックリストに追加"</string>
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
   <string name="contact_edit_title_phone_contact">Phone contacts list</string>
-  <string name="contact_in_filter_call_phone_str">Call from %s</string>
+  <string name="contact_in_filter_call_phone_str">"%sからの着信"</string>
   <string name="contact_in_filter_title">"送信者"</string>
   <string name="contact_info_string">Show contact information for %1$s</string>
   <string name="contact_info_string_default">"連絡先の情報を表示"</string>
@@ -609,7 +609,7 @@
   <string name="message_details_title">"メッセージの詳細"</string>
   <string name="message_discarded">"下書きを破棄"</string>
   <string name="message_invite_accept">Yes</string>
-  <string name="message_invite_calendar_view">View in Calendar</string>
+  <string name="message_invite_calendar_view">"カレンダーで表示"</string>
   <string name="message_invite_decline">No</string>
   <string name="message_invite_tentative">Maybe</string>
   <string name="message_invite_title">Calendar invite</string>

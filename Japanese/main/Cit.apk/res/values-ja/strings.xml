@@ -380,7 +380,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="error_sdcard_access">Unable to access system space!</string>
   <string name="keyboard">KEY</string>
   <string name="lcminfo">LCM information</string>
-  <string name="magnetic_info_hint">Please rotate the device like 8 shape</string>
+  <string name="magnetic_info_hint">8の字を描くように端末を振ってください</string>
   <string name="mic1_spk_loop">Mic speak Loop</string>
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">MIC＆ SPK</string>

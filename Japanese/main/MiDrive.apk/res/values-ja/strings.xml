@@ -46,7 +46,7 @@
   <string name="files">"ファイル"</string>
   <string name="finished">"完了"</string>
   <string name="folder_exist">"フォルダは既に存在します。"</string>
-  <string name="folder_name_empty">"フォルダ名を空にすることはできません"</string>
+  <string name="folder_name_empty">"フォルダ名は空にすることはできません"</string>
   <string name="folder_name_illegal">"無効なフォルダ名"</string>
   <string name="folder_name_invalid">"フォルダ名には次の文字を含めることはできません: /\\:*?&lt;&gt;"</string>
   <string name="gigabyteShort">GB</string>
@@ -110,7 +110,7 @@
   <string name="rename_failed">"同じ名前のファイルが既に存在します。"</string>
   <string name="sd_full">"SDカードがいっぱいです。"</string>
   <string name="sd_invalid">"SDカードが破損しています。"</string>
-  <string name="send_to_midrive_failed">"This file type isn't supported."</string>
+  <string name="send_to_midrive_failed">"このファイルタイプはサポートされていません。"</string>
   <string name="slashes">/</string>
   <string name="space_full">"クラウドの空き容量が足りません。"</string>
   <string name="start_use_xiaomi_account">"Mi Driveの使用を開始"</string>
@@ -124,9 +124,9 @@
   <string name="upload_file_to_midrive">"Mi Driveにファイルをアップロード"</string>
   <string name="uploading">"アップロード中"</string>
   <string name="vip_info">VIP: %1$s</string>
-  <string name="wait_net">Waiting for network</string>
-  <string name="wait_sdcard">Waiting for SD card…</string>
-  <string name="wait_wifi">Waiting for WLAN</string>
+  <string name="wait_net">"ネットワーク接続を待っています"</string>
+  <string name="wait_sdcard">"SDカードを待っています…"</string>
+  <string name="wait_wifi">"Wi-Fi接続を待っています"</string>
   <string name="waiting">"待機中"</string>
   <string name="wangpan_root_path">My drive</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>

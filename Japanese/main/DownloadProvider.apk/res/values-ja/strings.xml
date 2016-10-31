@@ -56,9 +56,9 @@
   <string name="privacy_tip_cancel">"キャンセル"</string>
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
-  <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+  <string name="privacy_tip_title">"Xunlei Acceleratorを使用しますか？"</string>
   <string name="recommended_file_size_download_in_mobile">Use %s of mobile data to download this file?</string>
-  <string name="recommended_no_file_size_download_in_mobile">Use your mobile data connection to download this file?</string>
+  <string name="recommended_no_file_size_download_in_mobile">"このファイルをダウンロードするためにモバイルデータ接続を使用しますか？"</string>
   <string name="root_downloads">"ダウンロード"</string>
   <string name="task_already_exist">"タスクがすでに存在します"</string>
   <string name="warning_tip_cancel">"ダウンロード"</string>

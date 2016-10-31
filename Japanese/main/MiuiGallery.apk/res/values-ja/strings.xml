@@ -48,7 +48,7 @@
   <string name="album_detail_page_empty">No photos or videos</string>
   <string name="album_faces_name">People</string>
   <string name="album_member">Album members %s</string>
-  <string name="album_name">Album name</string>
+  <string name="album_name">"アルバム名"</string>
   <string name="album_others_share_baby_info_format">Baby album from %s</string>
   <string name="album_others_share_info_format">From %s</string>
   <string name="album_owner_share">"共有済み"</string>
@@ -135,7 +135,6 @@
   <string name="by_others">"その他"</string>
   <string name="by_sms">"SMS"</string>
   <string name="byteShort">B</string>
-  <string name="camera360_sdk_key">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</string>
   <string name="camera_360_description">Powered by Camera360</string>
   <string name="camera_needs_auto_backup_tip">Camera album must be backed up</string>
   <string name="camera_path">/DCIM/Camera</string>
@@ -163,10 +162,10 @@
   <string name="cloud_screenshots_display_name">"スクリーンショット"</string>
   <string name="cloud_settings">Gallery backups</string>
   <string name="cloud_space_full_button_text">Get more Mi Cloud storage</string>
-  <string name="cloudfolder_cannot_start_with">"Album name can't start with '%s'"</string>
-  <string name="cloudfolder_contain_invalidate_char">"Album name can't contain '%s'"</string>
-  <string name="cloudfolder_name_cannot_empty">Enter an album name</string>
-  <string name="cloudfolder_name_reserved">Album name is reserved</string>
+  <string name="cloudfolder_cannot_start_with">"アルバム名は'%s'で始めることはできません"</string>
+  <string name="cloudfolder_contain_invalidate_char">"アルバム名は'%s'を含めることはできません"</string>
+  <string name="cloudfolder_name_cannot_empty">"アルバム名"</string>
+  <string name="cloudfolder_name_reserved">"アルバム名は予約済みです"</string>
   <string name="collaps_people">Hide</string>
   <string name="confirm">"確認"</string>
   <string name="confirm_download_video_message">Finish downloading this video to start watching. Download will resume when WLAN is available.</string>
@@ -222,7 +221,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d deleted, %2$d saved</string>
   <string name="delete_third_party_photo">"この写真を削除しますか？"</string>
   <string name="delete_third_party_video">"この動画を削除しますか？"</string>
-  <string name="delete_to_trash_tips">You can view recently deleted photos in Settings > Trash bin</string>
+  <string name="delete_to_trash_tips">You can view recently deleted photos in Settings > "ゴミ箱"</string>
   <string name="deny">Reject</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -454,7 +453,7 @@ Take more photos of your friends!"</string>
   <string name="operation_show_in_photos_tab">Show in Photos</string>
   <string name="operation_show_on_map">Show on map</string>
   <string name="operation_slide_show">"スライドショーを開始"</string>
-  <string name="operation_successful">Done</string>
+  <string name="operation_successful">"完了"</string>
   <string name="operation_too_often">Whoa there! Too many requests are being made from your IP address. Wait a minute or two and try again.</string>
   <string name="operation_unforce_top">Unpin</string>
   <string name="operation_unhide">Unhide</string>
@@ -468,10 +467,10 @@ Take more photos of your friends!"</string>
   <string name="pet_album_display_name">Pet photos</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">"写真"</string>
-  <string name="photo_edit_file_not_exits_tip">Download photo before editing</string>
+  <string name="photo_edit_file_not_exits_tip">"編集する前に写真をダウンロード"</string>
   <string name="photo_editor_saving">"保存中…"</string>
-  <string name="photo_page_save_uri_image_fail">"Couldn't save to Gallery"</string>
-  <string name="photo_page_save_uri_image_ok">Photo saved to Gallery</string>
+  <string name="photo_page_save_uri_image_fail">"ギャラリーに保存できませんでした"</string>
+  <string name="photo_page_save_uri_image_ok">"写真をギャラリーに保存しました"</string>
   <string name="pick_from_contact">"連絡先から選択"</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="picker_cancel_download">"ダウンロードをキャンセル"</string>
@@ -487,7 +486,7 @@ Take more photos of your friends!"</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
   <string name="picker_title_format">You can select %d photos</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
-  <string name="picker_title_unlimit">Select photos</string>
+  <string name="picker_title_unlimit">"写真を選択"</string>
   <string name="preparing_data">"読み込み中…"</string>
   <string name="projection_checkbox_text">Remember this display</string>
   <string name="projection_device_connection_failed">"Couldn't connect projector"</string>
@@ -553,7 +552,7 @@ Take more photos of your friends!"</string>
   <string name="secret_album_set_pc_password_dialog_title">"新しいパスワードを設定"</string>
   <string name="secret_reason_space_full">Cloud albums are full</string>
   <string name="secret_reason_too_large">"ファイルが大きすぎます"</string>
-  <string name="secret_reason_type_not_support">"This file type isn't supported"</string>
+  <string name="secret_reason_type_not_support">"このファイルタイプはサポートされていません"</string>
   <string name="secret_reason_unknow_reasons">"不明なエラー"</string>
   <string name="select_item_face">"Is this '%s'?"</string>
   <string name="select_origin_tip">Original file (%s)</string>
@@ -562,7 +561,7 @@ Take more photos of your friends!"</string>
   <string name="send_too_many_files_error">Can send up to %d items at a time</string>
   <string name="set_as_baby_lock_wallpaper">Set as Lock screen wallpaper</string>
   <string name="set_as_wallpaper_description">This image is a thumbnail, download the original?</string>
-  <string name="set_as_wallpaper_title">Set as wallpaper</string>
+  <string name="set_as_wallpaper_title">"壁紙に設定"</string>
   <string name="set_face_group_toast_msg_new_user">Hold a person to merge or ignore them.</string>
   <string name="set_face_group_toast_msg_old_user">"Hold a person's photo to create groups (Family, Friends, Classmates, etc.)"</string>
   <string name="set_face_group_toast_title_new_user">Suggestion</string>
@@ -595,7 +594,7 @@ Take more photos of your friends!"</string>
   <string name="slimming">Optimizing…</string>
   <string name="start_debug">Debug Gallery</string>
   <string name="start_to_use_face_albumset">Sort by people</string>
-  <string name="sticker">Sticker</string>
+  <string name="sticker">"ステッカー"</string>
   <string name="storage_no_space">"空きスペースがありません"</string>
   <string name="sub_discard_confirm_message">"変更を保存しますか？"</string>
   <string name="sub_discard_negative_btn">"破棄"</string>
@@ -623,7 +622,7 @@ Take more photos of your friends!"</string>
   <string name="to_enable_sync_dialog_positive_button_text">Go to Settings</string>
   <string name="to_enable_sync_dialog_title">Sync</string>
   <string name="too_many_recipients">"Can't add more than %2$s recipients (You've currently added %1$s)."</string>
-  <string name="trash_bin">Trash bin</string>
+  <string name="trash_bin">"ゴミ箱"</string>
   <string name="trash_bin_summary">Browse backed up photos which were deleted recently</string>
   <string name="try_to_send">Send</string>
   <string name="turn_off_and_move">Turn off and move</string>
@@ -631,7 +630,7 @@ Take more photos of your friends!"</string>
   <string name="turn_on_sync">Turn on sync</string>
   <string name="unpublish_failed">"Couldn't unpublish"</string>
   <string name="unpublish_succeeded">Album unpublished</string>
-  <string name="unpublishing">Canceling…</string>
+  <string name="unpublishing">"キャンセル中…"</string>
   <string name="user_agree">"同意"</string>
   <string name="user_agreement2">"利用規約"</string>
   <string name="user_agreement4">"プライバシーポリシー"</string>
@@ -709,7 +708,7 @@ Take more photos of your friends!"</string>
   <string name="welcome_to_slim">Optimize local storage</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>
   <string name="who_is_this">Who is it?</string>
-  <string name="xiaomi_account_not_exists_toast">"Mi Account doesn't exist"</string>
+  <string name="xiaomi_account_not_exists_toast">"Mi Accountは存在しません"</string>
   <string name="yes">"はい"</string>
   <string name="you_are">"You're the baby's"</string>
 </resources>

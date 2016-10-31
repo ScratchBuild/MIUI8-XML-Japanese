@@ -47,7 +47,7 @@
   <string name="birthday_calendar_display_name">"誕生日のリマインダー"</string>
   <string name="birthday_event_description">"今日は%1$sの%4$s！"</string>
   <string name="birthday_event_description_a_week_ago">"1週間前"</string>
-  <string name="birthday_event_description_a_week_later">One week until</string>
+  <string name="birthday_event_description_a_week_later">"1週間後"</string>
   <string name="birthday_event_description_day_after_tomorrow">"明後日は"</string>
   <string name="birthday_event_description_day_before_yesterday">The day before yesterday was</string>
   <string name="birthday_event_description_days_ago">%1$s days since</string>
@@ -476,8 +476,8 @@
   <string name="travel_item_reminder_overdue">Reminder</string>
   <string name="travel_item_trafic">Traffic</string>
   <string name="travel_item_virtual_sim">Mi Virtual SIM</string>
-  <string name="travel_item_weather_forecast">Destination forecast</string>
-  <string name="travel_item_weather_now">Destination weather</string>
+  <string name="travel_item_weather_forecast">"旅行先の予報"</string>
+  <string name="travel_item_weather_now">"旅行先の天気"</string>
   <string name="travel_load_failed">"読み込み失敗"</string>
   <string name="travel_loaded">Powered by Veryzhun</string>
   <string name="travel_loading">"読み込み中…"</string>
