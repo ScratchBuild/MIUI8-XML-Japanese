@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_not_found">この操作を扱うアプリがありません</string>
+  <string name="back_to_message_list">メッセージ一覧へ戻る</string>
+  <string name="confirm_delete_all_conversations">すべてのスレッドを削除しますか？</string>
+  <string name="confirm_delete_conversation">このスレッド全体を削除しますか？</string>
+  <string name="confirm_delete_group_message">グループメッセージを削除しますか？</string>
+  <string name="confirm_delete_locked_message">この保護されたメッセージを削除しますか？</string>
+  <string name="confirm_delete_message">このメッセージを削除しますか？</string>
+  <string name="confirm_dialog_locked_title">保護されたメッセージを削除しますか？</string>
+  <string name="confirm_dialog_title">削除しますか？</string>
+  <string name="copy_message_text">コピー</string>
+  <string name="copy_message_text_success">テキストをコピーしました</string>
+  <string name="delete">削除</string>
+  <string name="delete_message">削除</string>
+  <string name="from_label">"From: "</string>
+  <string name="menu_forward">転送</string>
+  <string name="menu_lock">Star</string>
+  <string name="menu_unlock">Unstar</string>
+  <string name="message_details_title">メッセージの詳細</string>
+  <string name="message_type_label">"Type: "</string>
+  <string name="received_label">"Received: "</string>
+  <string name="sent_label">"Sent: "</string>
+  <string name="sms_card_partner_label">"SMS card partner: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="text_message">Text message</string>
+  <string name="view_message_details">詳細を表示</string>
+</resources>

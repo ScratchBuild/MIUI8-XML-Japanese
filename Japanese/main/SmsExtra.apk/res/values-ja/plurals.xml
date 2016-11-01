@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">選択した&lt;g id="number" example="15">%1$s&lt;/g>件のスレッドを削除しますか？</item>
+        <item quantity="one">このスレッドを削除しますか？</item>
+    </plurals>
+</resources>
