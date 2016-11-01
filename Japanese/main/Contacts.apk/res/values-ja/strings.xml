@@ -15,7 +15,7 @@
   <string name="addPeopleToGroup">"メンバーを追加するにはグループを編集します。"</string>
   <string name="add_2sec_pause">"2秒間の停止を追加"</string>
   <string name="add_account">"アカウントを追加"</string>
-  <string name="add_blacklist">Block</string>
+  <string name="add_blacklist">"ブロック"</string>
   <string name="add_blacklist_dialog_message">"この電話番号からの通話やメッセージをブロックしますか？"</string>
   <string name="add_blacklist_dialog_title">"この電話番号をブロックしますか？"</string>
   <string name="add_connection_button">"連絡先を招待"</string>
@@ -83,10 +83,10 @@
   <string name="call_other">電話</string>
   <string name="call_other_fax">Call fax</string>
   <string name="call_pager">Call pager</string>
-  <string name="call_problem_report">Report an issue</string>
+  <string name="call_problem_report">"問題を報告"</string>
   <string name="call_radio">Call radio</string>
   <string name="call_record_setting_miui">Record settings</string>
-  <string name="call_settings">Settings</string>
+  <string name="call_settings">"設定"</string>
   <string name="call_sim1_menu_title">Dial on SIM 1</string>
   <string name="call_sim2_menu_title">Dial on SIM 2</string>
   <string name="call_telex">Call telex</string>
@@ -343,7 +343,7 @@ Contact cards are turned off"</string>
   <string name="deselect_all">"すべて選択を解除"</string>
   <string name="details_list_group_header_other">"その他"</string>
   <string name="device_bluetooth_title">"連絡先を転送"</string>
-  <string name="device_brand_title">Choose a brand</string>
+  <string name="device_brand_title">"ブランドを選択"</string>
   <string name="device_import_account_dialog_title">"アカウントを選択"</string>
   <string name="device_import_account_dialog_title_suffix">"
 (found %1$s contacts)"</string>
@@ -355,7 +355,7 @@ Contact cards are turned off"</string>
   <string name="device_import_progress_message">"インポート中…"</string>
   <string name="device_import_progress_toast">"%1$d件の連絡先をインポートしました"</string>
   <string name="device_import_title">"インポート"</string>
-  <string name="device_list_title">Choose a phone</string>
+  <string name="device_list_title">"番号を選択"</string>
   <string name="device_other_guide">"If your phone isn't listed, follow the steps below"</string>
   <string name="device_other_title">Other phone</string>
   <string name="device_paired_dialog_message">"連絡先を読み込み中…"</string>
@@ -364,14 +364,14 @@ Contact cards are turned off"</string>
   <string name="device_pairing_dialog_title">Pair devices</string>
   <string name="device_version_header_bluetooth">Make sure Bluetooth is on</string>
   <string name="device_version_header_no_bluetooth">Import contacts using SIM card</string>
-  <string name="device_version_title">Choose a model</string>
-  <string name="dial">Dial</string>
+  <string name="device_version_title">"モデルを選択"</string>
+  <string name="dial">"ダイヤル"</string>
   <string name="dialerDialpadHintText">Dial to add a call</string>
   <string name="dialerIconLabel">履歴</string>
   <string name="dialerKeyboardHintText">ダイヤルにキーボードを使用する</string>
   <string name="dialer_addAnotherCall">"別の通話を追加"</string>
-  <string name="dialer_copy_view_delete_description">Clear copied number</string>
-  <string name="dialer_digits_copy_number_label">Copied number</string>
+  <string name="dialer_copy_view_delete_description">"コピーした番号を消去"</string>
+  <string name="dialer_digits_copy_number_label">"コピーした番号"</string>
   <string name="dialer_empty_text_loading">"読み込み中…"</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">"連絡先が見つかりません"</string>
@@ -400,7 +400,7 @@ Contact cards are turned off"</string>
   <string name="display_sim_contacts">"SIMの連絡先を表示"</string>
   <string name="display_ungrouped">ほかのすべての連絡先</string>
   <string name="display_warn_remove_ungrouped">Removing \"%s\" from sync will also remove any ungrouped contacts from sync.</string>
-  <string name="duplicate_group_name">"その名前のグループ名は既に存在します"A group with that name already exists</string>
+  <string name="duplicate_group_name">"その名前のグループ名は既に存在します"</string>
   <string name="editContactDescription">"連絡先を編集"</string>
   <string name="editContactNameExpandCloseDescription">Collapse name</string>
   <string name="editContactNameExpandOpenDescription">Expand name</string>
@@ -462,7 +462,7 @@ Contact cards are turned off"</string>
   <string name="force_touch_miprofile">Contact card</string>
   <string name="force_touch_new_contact">New contact</string>
   <string name="foundTooManyContacts">%d件以上見つかりました。</string>
-  <string name="fraud_more_indemnity">More</string>
+  <string name="fraud_more_indemnity">"もっと"</string>
   <string name="frequentList">"よく使う連絡先"</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">名前</string>
@@ -591,23 +591,23 @@ Contact cards are turned off"</string>
   <string name="lunar_leap">闰</string>
   <string name="lunar_yue">月</string>
   <string name="make_primary">"この選択を保存"</string>
-  <string name="map_custom">View %s address</string>
-  <string name="map_home">View home address</string>
-  <string name="map_other">View address</string>
-  <string name="map_work">View work address</string>
+  <string name="map_custom">"%sの住所を表示"</string>
+  <string name="map_home">"自宅の住所を表示"</string>
+  <string name="map_other">"住所を表示"</string>
+  <string name="map_work">"職場の住所を表示"</string>
   <string name="meid">"MEID: "</string>
   <string name="meid_invalid">"無効なMEID"</string>
   <string name="menuMoreDescription">More</string>
   <string name="menu_accounts">アカウント</string>
   <string name="menu_addStar">"お気に入りに追加"</string>
-  <string name="menu_bar_group_add">Add</string>
+  <string name="menu_bar_group_add">"追加"</string>
   <string name="menu_bar_group_batch_copy">グループへコピーする</string>
   <string name="menu_bar_group_batch_edit">Multiple contacts</string>
   <string name="menu_bar_group_batch_move">グループへ移動する</string>
   <string name="menu_bar_group_batch_remove">グループを削除する</string>
   <string name="menu_bar_group_delete">Delete</string>
   <string name="menu_bar_group_rename">Rename</string>
-  <string name="menu_bar_group_ringtone">Ringtone</string>
+  <string name="menu_bar_group_ringtone">"着信音"</string>
   <string name="menu_bar_group_ringtone_largeui">"着信音"</string>
   <string name="menu_bar_group_sms">SMS</string>
   <string name="menu_call">"連絡先に発信"</string>
@@ -621,7 +621,7 @@ Contact cards are turned off"</string>
   <string name="menu_deleteContact">"削除"</string>
   <string name="menu_deleteGroup">"削除"</string>
   <string name="menu_dial_ip_number">Dial IP call</string>
-  <string name="menu_dialpad_text">Dial pad</string>
+  <string name="menu_dialpad_text">"ダイヤルパッド"</string>
   <string name="menu_discard">"変更を破棄"</string>
   <string name="menu_display_all">"すべて表示"</string>
   <string name="menu_display_selected">"選択した連絡先を表示"</string>
@@ -714,7 +714,7 @@ Contact cards are turned off"</string>
   <string name="missing_required_permission">You have disabled a required permission.</string>
   <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
   <string name="more_call_logs">Listen to all your call recordings at mi.com/micloud</string>
-  <string name="move_and_resize">Move and resize</string>
+  <string name="move_and_resize">"移動とリサイズ"</string>
   <string name="multi_number_menu_call">Call</string>
   <string name="multi_number_menu_delete">Delete</string>
   <string name="multi_number_menu_group">New group</string>
@@ -815,9 +815,9 @@ To add a contact to your list of favorites:
 • どのウェブブラウザからもアクセスできます。
 • 連絡先を安全にバックアップできます。"</string>
   <string name="no_contact_details">この連絡先の追加情報はありません。</string>
-  <string name="no_contact_in_other_phone">No contacts detected</string>
+  <string name="no_contact_in_other_phone">"連絡先が検出できません"</string>
   <string name="no_contacts_dialog_message">"Contacts may be stored on your SIM card. Try importing them from your SIM card to your phone's internal storage and then try again."</string>
-  <string name="no_contacts_dialog_title">"Can't find contacts"</string>
+  <string name="no_contacts_dialog_title">"連絡先が見つかりません"</string>
   <string name="no_contacts_selected">No contacts selected.</string>
   <string name="no_sdcard_message">"SDカードが見つかりません。"</string>
   <string name="no_voip_contacts">No Mi Voice contacts</string>
@@ -829,14 +829,14 @@ To add a contact to your list of favorites:
   <string name="notification_action_voicemail_play">"再生"</string>
   <string name="notification_new_voicemail_ticker">"%1$sからの新しいボイスメール"</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-  <string name="openDialKeyboard">Dial pad</string>
+  <string name="openDialKeyboard">"ダイヤルパッド"</string>
   <string name="open_contact">View contact</string>
-  <string name="open_dial_pad_description">Open dial pad</string>
-  <string name="option_delete_contact">Delete</string>
-  <string name="option_delete_group">Delete</string>
-  <string name="option_edit_contact">Edit</string>
-  <string name="option_not_in_group">Remove</string>
-  <string name="option_not_star">Remove from favorites</string>
+  <string name="open_dial_pad_description">"ダイヤルパッドを開く"</string>
+  <string name="option_delete_contact">"削除"</string>
+  <string name="option_delete_group">"削除"</string>
+  <string name="option_edit_contact">"編集"</string>
+  <string name="option_not_in_group">"削除"</string>
+  <string name="option_not_star">"お気に入りから削除"</string>
   <string name="option_rename_group">Rename</string>
   <string name="option_send_to_desktop">"ホーム画面に設置"</string>
   <string name="option_send_to_others">Forward</string>
@@ -853,18 +853,18 @@ To add a contact to your list of favorites:
   <string name="path_contacts_setting">システムアプリ/連絡先</string>
   <string name="path_display_only_phones">システムアプリ/連絡先/Display preferences/Hide incomplete numbers</string>
   <string name="path_display_sim_contacts">システムアプリ/連絡先/Display preferences/Show SIM contacts</string>
-  <string name="path_export_to_sdcard">システムアプリ/連絡先/Import/Export contacts/Export from storage</string>
-  <string name="path_export_to_sim">システムアプリ/連絡先/Import/Export contacts/Export from SIM card</string>
-  <string name="path_import_export">システムアプリ/連絡先/Import/Export contacts</string>
-  <string name="path_import_from_other_phone">システムアプリ/連絡先/Import/Export contacts/Import from other phone</string>
-  <string name="path_import_from_sdcard">システムアプリ/連絡先/Import/Export contacts/Import from storage</string>
-  <string name="path_import_from_sim">システムアプリ/連絡先/Import/Export contacts/Import from SIM card</string>
+  <string name="path_export_to_sdcard">システムアプリ/連絡先/インポート/Export contacts/Export from storage</string>
+  <string name="path_export_to_sim">システムアプリ/連絡先/インポート/Export contacts/Export from SIM card</string>
+  <string name="path_import_export">システムアプリ/連絡先/インポート/Export contacts</string>
+  <string name="path_import_from_other_phone">システムアプリ/連絡先/インポート/Export contacts/Import from other phone</string>
+  <string name="path_import_from_sdcard">システムアプリ/連絡先/インポート/Export contacts/Import from storage</string>
+  <string name="path_import_from_sim">システムアプリ/連絡先/インポート/Export contacts/Import from SIM card</string>
   <string name="path_key_photo_word">システムアプリ/連絡先/Assign contact photos</string>
-  <string name="path_key_rebuild_t9_index_title">システムアプリ/連絡先/Organize contacts/Rebuild index data</string>
+  <string name="path_key_rebuild_t9_index_title">システムアプリ/連絡先/Organize contacts/インデックスデータを再構築</string>
   <string name="path_key_sim_manage">システムアプリ/連絡先/Organize contacts/SIMカード</string>
   <string name="path_preference_contacts_filter">システムアプリ/連絡先/Display preferences/Configure contact lists</string>
   <string name="path_remove_duplicate">システムアプリ/連絡先/Organize contacts/Merge duplicate contacts</string>
-  <string name="path_share_visible_contacts">システムアプリ/連絡先/Import/Export contacts/Share contacts</string>
+  <string name="path_share_visible_contacts">システムアプリ/連絡先/インポート/Export contacts/Share contacts</string>
   <string name="path_sim_capacity">システムアプリ/連絡先/SIM card storage</string>
   <string name="path_simple_mode">システムアプリ/連絡先/Display photos and info</string>
   <string name="path_smart_group_title">システムアプリ/連絡先/Display preferences/Smart groups</string>
@@ -911,9 +911,9 @@ To add a contact to your list of favorites:
   <string name="pref_key_photo">"写真"</string>
   <string name="pref_key_photo_word_summary">Automatically assign a picture to contacts without one</string>
   <string name="pref_key_photo_word_title">Assign contact photos</string>
-  <string name="pref_key_rebuild_t9_index_message">Rebuild index to resolve search issues</string>
-  <string name="pref_key_rebuild_t9_index_title">Rebuild index data</string>
-  <string name="pref_key_sim_manage">SIM cards</string>
+  <string name="pref_key_rebuild_t9_index_message">"検索の問題を解決するためにインデックスを再構築"</string>
+  <string name="pref_key_rebuild_t9_index_title">"インデックスデータを再構築"</string>
+  <string name="pref_key_sim_manage">"SIMカード"</string>
   <string name="pref_key_sim_manage1">Set up SIM card 1</string>
   <string name="pref_key_sim_manage2">Set up SIM card 2</string>
   <string name="pref_rcs_backup_restore_title">"バックアップと復元設定"</string>
@@ -996,7 +996,7 @@ To add a contact to your list of favorites:
   <string name="readingSimContacts">"SIMカードを読み込み中…"</string>
   <string name="reading_vcard_canceled_title">vCardデータの読み込みがキャンセルされました</string>
   <string name="reading_vcard_failed_title">"vCardデータを読み込みできませんでした"</string>
-  <string name="rebuild_t9_index_dialog_message">Rebuilding…</string>
+  <string name="rebuild_t9_index_dialog_message">"再構築中…"</string>
   <string name="recent">"最近"</string>
   <string name="recentCallsIconLabel">通話履歴</string>
   <string name="recentCalls_addToContact">連絡先に追加</string>
@@ -1015,12 +1015,12 @@ To add a contact to your list of favorites:
   <string name="refresh">"更新"</string>
   <string name="relationLabelsGroup">関係</string>
   <string name="removePhoto">"写真を削除"</string>
-  <string name="remove_blacklist">Unblock</string>
-  <string name="remove_blacklist_dialog_message">Show calls and messages from this number?</string>
-  <string name="remove_blacklist_dialog_title">Unblock this phone number?</string>
-  <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts.
+  <string name="remove_blacklist">"解除"</string>
+  <string name="remove_blacklist_dialog_message">"この番号からの着信とメッセージを表示しますか？"</string>
+  <string name="remove_blacklist_dialog_title">"この電話番号のブロックを解除しますか？"</string>
+  <string name="remove_duplicate">"MIUIは重複した連絡先を見つけて統合するために役立ちます。
 
- To begin, tap the Merge icon at the bottom of your screen."</string>
+ 始めるには、画面下部にある統合アイコンをタップしてください。"</string>
   <string name="restore_nickname">Restore</string>
   <string name="ret_sign">"
 "</string>
@@ -1031,7 +1031,7 @@ To add a contact to your list of favorites:
   <string name="savingDisplayGroups">"表示オプションを保存しています…"</string>
   <string name="scan">"スキャン"</string>
   <string name="scan_duplicate_message">%1$d contacts with identical info</string>
-  <string name="scan_merge">Searching for duplicate contacts…</string>
+  <string name="scan_merge">"重複する連絡先を検索しています…"</string>
   <string name="scan_qrcode_card_hint1">"上記のQRコードをスキャンしてください"</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">理由: \"%s\"</string>
@@ -1074,13 +1074,13 @@ To add a contact to your list of favorites:
   <string name="send_to_voicemail_checkbox">"ボイスメールに自動転送する"</string>
   <string name="separatorJoinAggregateAll">"すべての連絡先"</string>
   <string name="separatorJoinAggregateSuggestions">"連絡先候補"</string>
-  <string name="service_more">More</string>
+  <string name="service_more">"もっと"</string>
   <string name="service_provider">Directory</string>
   <string name="service_provider_detail">Directory details</string>
   <string name="set_data_package">Set data plan first</string>
   <string name="set_default">"デフォルトに設定"</string>
   <string name="set_photo_failed_msg">"Couldn't assign picture."</string>
-  <string name="share_error">"This contact can't be shared"</string>
+  <string name="share_error">"この連絡先は共有することができません"</string>
   <string name="share_over_limit">"Can't share over 1000 contacts"</string>
   <string name="share_via">"連絡先の共有ツール"</string>
   <string name="share_visible_contacts">"連絡先を共有"</string>
@@ -1100,7 +1100,7 @@ To add a contact to your list of favorites:
   <string name="sim_card_no_free_space_title">SIM card full</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">"すべて選択を解除"</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">"すべて選択"</string>
-  <string name="sim_contact_existing">Contact already exists</string>
+  <string name="sim_contact_existing">"連絡先が既に存在します"</string>
   <string name="sim_contact_invalid">Invalid SIM contact</string>
   <string name="sim_contact_search_error">"エラーが発生しました"</string>
   <string name="sim_contacts">SIM card contacts</string>
@@ -1258,7 +1258,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"Balance and data couldn't be verified, try again later."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Balance and data have been verified</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
-  <string name="yellowpage_navigation_more_items">More</string>
+  <string name="yellowpage_navigation_more_items">"もっと"</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
   <string name="yellowpage_navigation_no_content">"何も見つかりませんでした"</string>
   <string name="yellowpage_navigation_search_city_name_hint">"都市"</string>

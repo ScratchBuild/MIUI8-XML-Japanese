@@ -410,7 +410,7 @@
   <string name="battery_info_temperature_label">電池温度:</string>
   <string name="battery_info_temperature_units">°C</string>
   <string name="battery_info_uptime">起動してからの時間:</string>
-  <string name="battery_info_voltage_label">蓄電池電圧:</string>
+  <string name="battery_info_voltage_label">電池電圧:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">電池残量</string>
   <string name="battery_light_summary">充電中は通知LEDを点灯します</string>

@@ -7,7 +7,7 @@
   <string name="back">"戻る"</string>
   <string name="btn_clear_records">Delete recordings (%d items)</string>
   <string name="button_queue_for_wifi">Wait</string>
-  <string name="button_start_now">Download</string>
+  <string name="button_start_now">"ダウンロード"</string>
   <string name="call_record">Recorded calls</string>
   <string name="choose_call_records_count">%d items</string>
   <string name="clear_records">Delete synced recordings</string>
@@ -46,8 +46,8 @@
   <string name="message_file_size_error">Recording has reached the maximum length supported by %s</string>
   <string name="network_tip_dialog_cancel">"キャンセル"</string>
   <string name="network_tip_dialog_content">Speech recognition engine needs to connect to the internet to work normally.</string>
-  <string name="network_tip_dialog_ok">Allow</string>
-  <string name="network_tip_dialog_title">Internet connection is required</string>
+  <string name="network_tip_dialog_ok">"許可する"</string>
+  <string name="network_tip_dialog_title">"インターネット接続が必要です"</string>
   <string name="new_record_name">New recording</string>
   <string name="no_file">Empty</string>
   <string name="notification_message_all_paused">"Wi-Fi接続を待っています。"</string>
@@ -123,7 +123,7 @@
   <string name="share">"共有"</string>
   <string name="share_dialog_title">Share using</string>
   <string name="sound_recorder_settings">"設定"</string>
-  <string name="speech_recognition_complete">Complete</string>
+  <string name="speech_recognition_complete">"完了"</string>
   <string name="speech_recognition_running_tip">Running</string>
   <string name="start">"再開"</string>
   <string name="status_bar_back">Tap to return to Recorder</string>

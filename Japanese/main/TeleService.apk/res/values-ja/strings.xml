@@ -760,8 +760,8 @@
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_summary_default_card">このカードは、現在ご利用中のデフォルトのSIMとして設定されています。このカードの使用を中止した場合、電話の発信やモバイルデータ接続の使用が出来なくなります。他のSIMカードをデフォルトのカードとして設定した後で、このSIMカードの使用を中止出来ます。</string>
   <string name="msim_disable_sim_card_summary_non_default_card">電話の発信やモバイルデータ接続の使用が出来ません。SIMカード%sの使用を中止しますか？</string>
-  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Don't restrict your secondary SIM in emergency callback mode."</string>  
-<string name="msim_disable_sim_card_title">SIMカードの使用を中止</string>
+  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Don't restrict your secondary SIM in emergency callback mode."</string>
+  <string name="msim_disable_sim_card_title">SIMカードの使用を中止</string>
   <string name="msim_enable_sim">"オンにする"</string>
   <string name="msim_general_setting">"設定"</string>
   <string name="msim_has_been_disabled">(無効)</string>
@@ -1432,7 +1432,7 @@
   <string name="volte_switch_title">"VoLTEを有効にする"</string>
   <string name="wait_prompt_str">"次の番号を送信しますか？\n"</string>
   <string name="whole_calls">全通話</string>
-  <string name="wifi_calling">WLAN calling</string>
+  <string name="wifi_calling">"Wi-Fi通話"</string>
   <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wild_prompt_str">"ワイルド文字を置換:"</string>
   <string name="wrong_password">入力されたパスワードが違います</string>

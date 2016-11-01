@@ -43,8 +43,8 @@
   <string name="colon">": "</string>
   <string name="confirm_delete_all_call_log_title">通話履歴を削除しますか？</string>
   <string name="confirm_delete_call_log_title">通話履歴を削除しますか？</string>
-  <string name="confirm_to_add_blacklist">Block this number?</string>
-  <string name="confirm_to_remove_blacklist">Unblock this number?</string>
+  <string name="confirm_to_add_blacklist">この番号をブロックしますか？</string>
+  <string name="confirm_to_remove_blacklist">この番号のブロックを解除しますか？</string>
   <string name="confirm_to_send_to_desktop">Place %s on Home screen?</string>
   <string name="contact_detail_calllog_call_note_tips">Call notes</string>
   <string name="contact_detail_calllog_call_record_tips">Recorded calls</string>
@@ -255,7 +255,7 @@
   <string name="menu_add_to_favorite">Favorites</string>
   <string name="menu_call_ip_number">Dial IP call</string>
   <string name="menu_copy_text">クリップボードにコピー</string>
-  <string name="menu_correct_yellow_page">Report an issue</string>
+  <string name="menu_correct_yellow_page">問題を報告</string>
   <string name="menu_delete_call_log">通話履歴を削除</string>
   <string name="menu_delete_one">通話履歴から削除</string>
   <string name="menu_enroll_in_yellow_page">Sign up for Caller ID</string>
@@ -282,7 +282,7 @@
   <string name="miuishare_title_share">Share</string>
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="more_coupons">All coupons</string>
+  <string name="more_coupons">すべてのクーポン</string>
   <string name="more_express_numbers">More express numbers</string>
   <string name="navigation_search_all_cities">All cities</string>
   <string name="navigation_search_automatically_positioned_city">Current city</string>
@@ -323,7 +323,7 @@
   <string name="packages_pay_success">Message sent</string>
   <string name="packages_select_sim_cards_summmary">Browse recommended data packages</string>
   <string name="packages_select_sim_cards_title">SIMカードを選択</string>
-  <string name="packages_select_to_buy_title">Select package</string>
+  <string name="packages_select_to_buy_title">パッケージを選択</string>
   <string name="packages_title">Top up mobile data</string>
   <string name="packages_wait_for_op_reply">Wait for a confirmation message from your carrier</string>
   <string name="payment_back">戻る</string>

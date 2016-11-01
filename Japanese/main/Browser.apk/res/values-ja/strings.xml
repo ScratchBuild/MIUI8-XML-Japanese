@@ -51,7 +51,7 @@
   <string name="adblock_force_updating_rules_toast">"Ad blockerを更新中"</string>
   <string name="adblock_notification">%d ads blocked</string>
   <string name="adblock_rules_not_updated_toast">"更新できませんでした"</string>
-  <string name="adblock_rules_restore">Unblock</string>
+  <string name="adblock_rules_restore">"解除"</string>
   <string name="adblock_rules_updated_toast">"正常に更新されました"</string>
   <string name="adblock_websites_settings_empyt_hint">"ブロックしたサイトはありません。"</string>
   <string name="adblock_websites_settings_title">"ブロック済みのサイト"</string>
@@ -131,8 +131,8 @@
   <string name="clear_search_history">Clear history</string>
   <string name="clear_video_download">Clear videos</string>
   <string name="clip_dialog_title">"コピーしたURLを開きますか？"</string>
-  <string name="close_ads_choice_no">Allow</string>
-  <string name="close_ads_choice_yes">Block</string>
+  <string name="close_ads_choice_no">"許可する"</string>
+  <string name="close_ads_choice_yes">"ブロック"</string>
   <string name="close_ads_message">"Block content from this website? You can view sites you've blocked in Settings &gt; Advanced &gt; Blocked sites."</string>
   <string name="close_ads_title">"コンテンツをブロックしますか？"</string>
   <string name="close_all_tab_alert_message">"現在開いているすべてのタブを閉じますか？"</string>
@@ -491,8 +491,8 @@ Pages you view won't appear in history."</string>
   <string name="pref_adblock_title">Ad blocker</string>
   <string name="pref_auto_update_under_wifi">"Wi-Fi使用時にアップデート"</string>
   <string name="pref_category_hint">"カテゴリー"</string>
-  <string name="pref_check_security_url_summary">"Send website URL to Mi's servers to check if it's secure"</string>
-  <string name="pref_check_security_url_title">Check URL security</string>
+  <string name="pref_check_security_url_summary">"ウェブサイトが安全かを確認するため、MiサーバーにURLを送信する"</string>
+  <string name="pref_check_security_url_title">"URLの安全性を確認"</string>
   <string name="pref_clear_adblock_statistics">"Ad blockerの履歴を消去しますか？"</string>
   <string name="pref_clear_adblock_statistics_dlg">"広告のブロック数を消去しますか？"</string>
   <string name="pref_clear_all_data_dlg">"保存されたすべてのデータを削除しますか？"</string>
@@ -673,7 +673,7 @@ Pages you view won't appear in history."</string>
   <string name="search_hint">キーワードまたはURLを入力</string>
   <string name="search_keyword_browser">"ブラウザ"</string>
   <string name="search_label">"ブラウザ"</string>
-  <string name="search_path_browser">Settings/Installed apps/Browser</string>
+  <string name="search_path_browser">"設定/Installed apps/ブラウザ"</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">"ブックマークとウェブ履歴"</string>
   <string name="search_shipin">Video</string>
@@ -697,7 +697,7 @@ Pages you view won't appear in history."</string>
   <string name="senddesktop">"ホーム画面"</string>
   <string name="sendstartpage">Start page</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to make sure it's secure. You can turn this feature off anytime in Settings."</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"このウェブサイトが安全かを確認するため、XiaomiのサーバーにURLが送信されます。[設定]からいつでもこの機能をオフにすることができます。"</string>
   <string name="show_security_tip_dialog_title">"利用規約"</string>
   <string name="show_weather_location_getter_tip_dialog_description">Weather services need your location info to provide you with up-to-date weather information in your browser. You can turn this feature off in Settings.</string>
   <string name="sign_in_to" formatted="false">"%s1に\"%s2\"でログイン"</string>
@@ -733,7 +733,7 @@ Pages you view won't appear in history."</string>
   <string name="suggest_access_item_singer_pop">%d popular songs</string>
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_item_delete_text">"削除"</string>
-  <string name="suggest_open_app_failed">"Couldn't open this app"</string>
+  <string name="suggest_open_app_failed">"このアプリを開くことができませんでした"</string>
   <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
   <string name="switch_proxy_dialog_title">Network hijacking</string>
   <string name="tab_hotpage">News Feed</string>
@@ -796,7 +796,7 @@ Pages you view won't appear in history."</string>
   <string name="video_download_complete">"ダウンロード完了".</string>
   <string name="video_download_empty">No videos</string>
   <string name="video_download_error">"エラー"</string>
-  <string name="video_download_error_http_gone">"Couldn't find file"</string>
+  <string name="video_download_error_http_gone">"ファイルが見つかりませんでした"</string>
   <string name="video_download_exists">Download already exists.</string>
   <string name="video_download_fail">Failed</string>
   <string name="video_download_failed">"ダウンロードできませんでした"</string>
