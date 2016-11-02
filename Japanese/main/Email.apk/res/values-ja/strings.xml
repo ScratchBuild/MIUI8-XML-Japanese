@@ -6,14 +6,10 @@
   <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"このユーザー名はアカウント「%s」で既に使用しています。"</string>
   <string name="account_duplicate_dlg_title">"重複するアカウント"</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">"同じ名前のアカウントが既に存在します"</string>
   <string name="account_options_sync_title">"同期"</string>
-  <string name="account_password_spaces_error">"This password starts or ends with one or more
-        space characters. Many servers don't support passwords with spaces."</string>
+  <string name="account_password_spaces_error">"このパスワードは1文字以上の空白文字で開始または終了しています。
+        多くのサーバーではパスワードに空白文字をサポートしていません。"</string>
   <string name="account_security_dialog_content_fmt">"%sのセキュリティ設定を更新する必要があります。"</string>
   <string name="account_security_dialog_title">"セキュリティの更新"</string>
   <string name="account_security_policy_explanation_fmt">"Android搭載携帯のセキュリティ機能の一部に対するリモートコントロールをサーバー%sに許可する必要があります。"</string>
@@ -31,8 +27,8 @@
   <string name="account_settings_enforced_label">"適用済みポリシー"</string>
   <string name="account_settings_enforced_summary">"なし"</string>
   <string name="account_settings_incoming_summary">"ユーザー名、パスワードなど受信サーバーを設定する"</string>
-  <string name="account_settings_login_dialog_content_fmt">"The username or password for %s is incorrect.
- Update them now?"</string>
+  <string name="account_settings_login_dialog_content_fmt">"%sのユーザー名またはパスワードが正しくありません。
+今すぐ更新しますか？"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"%sにログインできませんでした。サーバーからの応答: %s"</string>
   <string name="account_settings_login_dialog_title">"ログインできません"</string>
   <string name="account_settings_mail_check_frequency_label">"同期頻度"</string>
@@ -80,7 +76,7 @@
   <string name="account_setup_failed_certificate_required">"クライアント証明書が必要です。クライアント証明書を使用してサーバーに接続しますか？"</string>
   <string name="account_setup_failed_check_credentials_message">"サーバーからエラーが返されました。ユーザー名とパスワードを確認してもう一度お試しください。"</string>
   <string name="account_setup_failed_dlg_auth_message">"ユーザー名またはパスワードが正しくありません。"</string>
-  <string name="account_setup_failed_dlg_bar_title">Ways to sign in to %s</string>
+  <string name="account_setup_failed_dlg_bar_title">"%sへのログイン方法"</string>
   <string name="account_setup_failed_dlg_certificate_message">"サーバーへの安全な接続を確立できません。"</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"サーバーへの安全な接続を確立できません。\n（%s）"</string>
   <string name="account_setup_failed_dlg_device_locked">"\"ログインできませんでした。このアカウントはロックされています。\"​"</string>
@@ -194,7 +190,6 @@
   <string name="attachment_unknown">%s file</string>
   <string name="attachment_video">Video</string>
   <string name="attachments_header">"添付ファイル"</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">After deleting a message, view…</string>
   <string name="auto_advance_label">Delete message flow</string>
   <string name="auto_advance_summary">Choose which message to scroll to after deleting a message</string>

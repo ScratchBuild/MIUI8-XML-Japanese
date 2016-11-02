@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="dirty_contacts_count">
-        <item quantity="other">%d contacts</item>
-        <item quantity="one">%d contact</item>
+        <item quantity="other">%d件の連絡先</item>
+        <item quantity="one">%d件の連絡先</item>
     </plurals>
     <plurals name="dirty_mms_count">
-        <item quantity="other">%d messages</item>
-        <item quantity="one">%d message</item>
+        <item quantity="other">%d件のメッセージ</item>
+        <item quantity="one">%d件のメッセージ</item>
     </plurals>
     <plurals name="dirty_note_count">
-        <item quantity="other">%d notes</item>
-        <item quantity="one">%d note</item>
+        <item quantity="other">%d個のノート</item>
+        <item quantity="one">%d個のノート</item>
     </plurals>
     <plurals name="dirty_image_count">
-        <item quantity="other">%d photos</item>
-        <item quantity="one">%d photo</item>
+        <item quantity="other">%d枚の写真</item>
+        <item quantity="one">%d枚の写真</item>
     </plurals>
 </resources>

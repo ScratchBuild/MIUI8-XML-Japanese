@@ -41,7 +41,7 @@
   <string name="audio_message_expired">"この音声メッセージは期限切れです。"</string>
   <string name="audio_message_mx_offline">"音声をダウンロードできませんでした。Mi Messageがオフラインか、または利用できません。"</string>
   <string name="audio_playing_seconds">%d\"</string>
-  <string name="audio_sim_card_mismatching">No network connection or wrong SIM card is installed. Install the SIM card from which the message was sent and connect to the network.</string>
+  <string name="audio_sim_card_mismatching">ネットワーク接続がないかSIMカードがインストールされていません。メッセージを送信したSIMカードをインストールし、ネットワークに接続します。</string>
   <string name="back_to_message_list">メッセージのリストへ戻る</string>
   <string name="batch_adding_progress_message">"追加中..."</string>
   <string name="batch_delete_confirm_dialog_message">選択した%1$s件のメッセージを削除しますか？</string>
@@ -242,7 +242,7 @@
   <string name="menu_send_as_common">SMSとして送信</string>
   <string name="menu_unlock">スターを外す</string>
   <string name="menu_view_contact">連絡先を表示</string>
-  <string name="menu_yellowpage">sを表示</string>
+  <string name="menu_yellowpage">%sを表示</string>
   <string name="message_class_label">"メッセージクラス: "</string>
   <string name="message_contact">"連絡先: "</string>
   <string name="message_details_title">メッセージの詳細</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">"バックアップが完了していません。とにかく停止しますか？"</string>
-  <string name="abort_restore_confirm">"リストアが完了していません。とにかく停止しますか？"</string>
+  <string name="abort_restore_confirm">"復元が完了していません。とにかく停止しますか？"</string>
   <string name="account_contact_backup_info">Google Account, Mi Account, and Contacts data</string>
   <string name="account_login">"ログイン"</string>
   <string name="account_summary">Backup Google Account, Mi Account, and other user data</string>
@@ -77,7 +77,7 @@
   <string name="current_phone_location">Phone</string>
   <string name="current_sim">Current SIM card</string>
   <string name="custom_progress">%d items</string>
-  <string name="data_item_desc">Data</string>
+  <string name="data_item_desc">"データ"</string>
   <string name="data_no_enough_space_message">"お使いのデバイスの内部メモリに十分な空き領域がありません。"</string>
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
   <string name="delete">"削除"</string>
@@ -97,13 +97,13 @@
   <string name="enable_encrypt_title">Encrypt backups</string>
   <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s. To restore, delete the current account and sign in as %2$s.</string>
   <string name="err_authentication_failed">"認証に失敗しました"</string>
-  <string name="err_bakfile_broken">"Can't use this backup."</string>
+  <string name="err_bakfile_broken">"このバックアップは使用できません。"</string>
   <string name="err_filesystem_mount">"Can't access router storage"</string>
   <string name="err_low_storage">"十分な空き領域がありません"</string>
   <string name="err_router_disconnected">"Check your router's connection and try again."</string>
   <string name="err_router_files_delete">"Couldn't delete backup files on router"</string>
   <string name="err_unknown">"不明なエラー"</string>
-  <string name="err_version_too_old">Backup file is too old.</string>
+  <string name="err_version_too_old">"バックアップが古すぎます。"</string>
   <string name="err_version_unsupported">"Backup version isn't supported."</string>
   <string name="every_day">"毎日"</string>
   <string name="exchange_account">"アカウントの切り替え"</string>
@@ -137,8 +137,8 @@
   <string name="local_select_sysdata">"システム"</string>
   <string name="local_select_userapp">"アプリ"</string>
   <string name="local_select_video">"動画"</string>
-  <string name="miliao_account_guide">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
-  <string name="miliao_account_login">Sign in with Mi Talk</string>
+  <string name="miliao_account_guide">"Mi Cloudへログインすることで、テーマストアやその他のXiaomiサービスを、どこからでも使用することができます。"</string>
+  <string name="miliao_account_login">"Mi Talkでログイン"</string>
   <string name="mms_title">Multimedia messaging</string>
   <string name="multi_select_title">%1$s selected</string>
   <string name="multi_user_mode_backup_message">"Can't use Backup in Multi-user mode. Turn off Multi-user mode to continue."</string>
@@ -162,25 +162,25 @@
   <string name="notif_trans_sending_failed">Data sent failed</string>
   <string name="page_loading">"読み込み中…"</string>
   <string name="progress_backup_hint">"バックアップ中…"</string>
-  <string name="progress_restore_hint">Restoring…</string>
+  <string name="progress_restore_hint">"復元中…"</string>
   <string name="prompt_reading">"読み取り中…"</string>
   <string name="prompt_sending">"アップロード中…"</string>
   <string name="prompt_writing">"保存中…"</string>
   <string name="read_encrypt_fail">"Couldn't read encrypted backup"</string>
   <string name="refresh">"更新"</string>
   <string name="remote_receive">Receive</string>
-  <string name="restore">Restore</string>
-  <string name="restore_backup">Restore</string>
+  <string name="restore">"復元"</string>
+  <string name="restore_backup">"復元"</string>
   <string name="restore_contact">Restore contacts</string>
   <string name="restore_contact_content">Restoring may create duplicate contacts.</string>
   <string name="restore_contacts_hit">You may need to sign in again to view restored data.</string>
   <string name="restore_counts">Restore:</string>
   <string name="restore_data">Choose items to restore</string>
-  <string name="restore_failed">"Couldn't restore"</string>
+  <string name="restore_failed">"復元できませんでした"</string>
   <string name="restore_finished">Restored successfully</string>
   <string name="restore_is_running">Restoring device</string>
   <string name="restore_launcher_layout_hit">Restore launcher settings</string>
-  <string name="restore_progress">Restoring…</string>
+  <string name="restore_progress">"復元中…"</string>
   <string name="restore_report">Restore details</string>
   <string name="restore_telephony_hit">Restoring will restart the Phone app.</string>
   <string name="retry">"再試行"</string>
@@ -204,26 +204,26 @@
   <string name="select_backup_item">Choose items</string>
   <string name="select_storage_location">Choose backup location</string>
   <string name="service_stoped">"サービスが停止しました"</string>
-  <string name="settings_summary">Phone and messaging settings</string>
+  <string name="settings_summary">"通話とメッセージの設定"</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
-  <string name="sms_title">Messaging</string>
-  <string name="software_backup_info">App data</string>
+  <string name="sms_title">"メッセージ"</string>
+  <string name="software_backup_info">"アプリのデータ"</string>
   <string name="st_antispam_mode_blacklist_state">11112121</string>
   <string name="st_antispam_mode_only_all_deny_state">10000000</string>
   <string name="st_antispam_mode_only_contacts_state">11110000</string>
   <string name="st_antispam_mode_only_whitelist_state">11000000</string>
   <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="start_backup">"バックアップ"</string>
-  <string name="start_restore">Restore</string>
+  <string name="start_restore">"復元"</string>
   <string name="state_mounting">Accessing router storage…</string>
   <string name="state_waiting">"読み込み中…"</string>
   <string name="succeed">"完了"</string>
   <string name="summary_err_backup_encrypting">"Mi Accountにログイン。"</string>
   <string name="summary_err_backup_no_network">"ネットワークに接続できませんでした"</string>
-  <string name="summary_err_restore_encrypting">"Couldn't restore. Make sure this backup was made using your Mi Account."</string>
+  <string name="summary_err_restore_encrypting">"復元できませんでした。 このバックアップがお使いのMi Accountで作成されたことを確認してください。"</string>
   <string name="summary_err_restore_no_network">"ネットワークに接続できませんでした"</string>
   <string name="system_backup">"バックアップ"</string>
   <string name="system_backup_info">"システム設定とホーム画面のレイアウト"</string>
@@ -255,12 +255,12 @@
   <string name="task_service_not_launched">"Task hasn't started yet"</string>
   <string name="task_stopped_exception">Restore canceled</string>
   <string name="total_num">%d items,</string>
-  <string name="trans_backingup">Backing up …</string>
-  <string name="trans_backingup_no_items">Syncing…</string>
-  <string name="trans_calculating">Calculating…</string>
-  <string name="trans_calculating_app_sd_size">Calculating size: %s</string>
-  <string name="trans_calculating_base_size">Calculating data size</string>
-  <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
+  <string name="trans_backingup">"バックアップ中…"</string>
+  <string name="trans_backingup_no_items">"同期中…"</string>
+  <string name="trans_calculating">"計算中…"</string>
+  <string name="trans_calculating_app_sd_size">"計算中サイズ: %s"</string>
+  <string name="trans_calculating_base_size">"データサイズを計算中"</string>
+  <string name="trans_cancel_confirm">"転送の処理中です、今すぐ停止しますか？"</string>
   <string name="trans_cancelling">"キャンセル中…"</string>
   <string name="trans_connect_failed_message">"Couldn't connect, try again or reboot device. On the other device, go to Settings &gt; Additional Settings &gt; Mi Mover, tap [I'm a sender], or launch Mi Mover again after reboot."</string>
   <string name="trans_connect_failed_title">"接続できませんでした"</string>
@@ -273,7 +273,7 @@
   <string name="trans_detail_category_userdata">"アプリ"</string>
   <string name="trans_device_disconnected">"デバイスが切断されました"</string>
   <string name="trans_generate_qr_code_failed">"QRコードを作成できませんでした"</string>
-  <string name="trans_main_tutor">Move contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
+  <string name="trans_main_tutor">"連絡先、通話履歴、メッセージ、ホーム画面のレイアウト、アプリ、設定およびその他を、新しいデバイスへ移動します"</string>
   <string name="trans_my_device">My device</string>
   <string name="trans_native_no_space">"このデバイス上に十分な空き領域がありません。
 Clear at least %s."</string>
@@ -303,7 +303,7 @@ Tap [I'm a recipient] to create a QR code"</string>
 Don't turn off WLAN Hotspot.
 Keep devices close to each other."</string>
   <string name="trans_receiving_completed">Received successfully</string>
-  <string name="trans_restoring">Restoring…</string>
+  <string name="trans_restoring">"復元中…"</string>
   <string name="trans_restoring_no_items">Syncing items</string>
   <string name="trans_retry">"再試行"</string>
   <string name="trans_scan_invalid_qrcode">"QRコードが無効です"</string>

@@ -59,13 +59,13 @@ Last backed up on %2$s"</string>
   <string name="contact">連絡先</string>
   <string name="deskclock_backup">Clocks Back up</string>
   <string name="detect_sim_card">Search for SIM card</string>
-  <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
-  <string name="disable_find_device_success">Find device is off.</string>
+  <string name="disable_find_device_error">"Find deviceをオフにすることができません。%1$s"</string>
+  <string name="disable_find_device_success">"Find deviceはオフです。"</string>
   <string name="due_date_format">yyyy/MM/dd</string>
   <string name="enableAll">すべて同期</string>
   <string name="enable_cloud_service_notification">You need to activate Mi Cloud</string>
-  <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
-  <string name="enable_find_device_success">Find device is on.</string>
+  <string name="enable_find_device_error">"Find deviceをオンにすることができません。%1$s"</string>
+  <string name="enable_find_device_success">"Find deviceはオンです。"</string>
   <string name="enable_micloud">Mi Cloudを使用</string>
   <string name="enable_sync">同期</string>
   <string name="enable_sync_dspt">同期しない</string>
@@ -115,7 +115,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">About RMB 143 per year</string>
-  <string name="header_cloud_backup_settings">Back up and restore</string>
+  <string name="header_cloud_backup_settings">"バックアップと復元"</string>
   <string name="header_cloud_restore_summary">Reinstall apps and restore Home screen layout and system settings from a backup in Mi Cloud</string>
   <string name="header_data_and_synchronization">データと同期</string>
   <string name="header_find_device_settings">Find device</string>
@@ -136,7 +136,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="micloud_all_sub_2_intl_sms">2 international text messages will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_2_sms">2 regular text messages will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_resend_sms">"When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="micloud_battery_low_notification_message">Connect charger to sync</string>
+  <string name="micloud_battery_low_notification_message">"同期するには充電器に接続してください"</string>
   <string name="micloud_battery_low_notification_title">Low battery</string>
   <string name="micloud_buy_member">Mi Cloudメンバーシップを購入</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
@@ -303,8 +303,8 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
   <string name="micloud_notif_content_memory_low">十分な空き領域がありません。</string>
   <string name="micloud_notif_content_multi_user_error">You signed in with the same account as in First space.</string>
-  <string name="micloud_notif_content_sync_finish">Account</string>
-  <string name="micloud_notif_content_sync_not_finish">Detail</string>
+  <string name="micloud_notif_content_sync_finish">"アカウント"</string>
+  <string name="micloud_notif_content_sync_not_finish">"詳細"</string>
   <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
   <string name="micloud_notif_title_battery_low">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">Content copied to clipboard</string>
@@ -389,7 +389,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_with_voip">"Call other MIUI devices for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
   <string name="mx_dspt_provision_with_voip2">プライバシーポリシー</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
-  <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
+  <string name="mx_sub_dspt_provision_with_voip">"インターネット通話"</string>
   <string name="mx_voip_dspt">Mi Voice</string>
   <string name="network_unconnected">ネットワークに接続していません</string>
   <string name="next">"次へ"</string>

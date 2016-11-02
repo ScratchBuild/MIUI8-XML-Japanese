@@ -36,7 +36,7 @@
   <string name="dlg_move_message">"移動中…"</string>
   <string name="dlg_quick_delete_title">Quick delete</string>
   <string name="dlg_restore_message">"復元中…"</string>
-  <string name="dlg_stick_message">Pinning…</string>
+  <string name="dlg_stick_message">"ピン留め中…"</string>
   <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
   <string name="dlg_title_password_reset">"パスワードを更新"</string>
   <string name="dlg_title_set_password">"パスワードを設定"</string>

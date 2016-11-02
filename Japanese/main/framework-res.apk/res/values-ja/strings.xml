@@ -625,8 +625,8 @@ To unpin, press and hold Home and the Power button at the same time."</string>
 To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lock_to_app_exit">画面固定を解除しました</string>
   <string name="lock_to_app_start">画面を固定しました</string>
-  <string name="lock_to_app_toast">この画面の固定を解除するには[戻る]と[最近]を同時に押し続けます。</string>
-  <string name="lock_to_app_toast_accessible">この画面の固定を解除するには[最近]を押し続けます。</string>
+  <string name="lock_to_app_toast">この画面の固定を解除するにはホームボタンと電源ボタンを同時に押し続けます。</string>
+  <string name="lock_to_app_toast_accessible">この画面の固定を解除するにはホームボタンと電源ボタンを同時に押し続けます。</string>
   <string name="lock_to_app_toast_locked">アプリは固定されています。この端末では固定を解除できません。</string>
   <string name="lock_to_app_unlock_password">オフライン再生を解除する前にパスワードの入力を求める</string>
   <string name="lock_to_app_unlock_pattern">画面固定を解除する前にロック解除パターンの入力を求める</string>

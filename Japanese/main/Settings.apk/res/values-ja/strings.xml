@@ -787,7 +787,7 @@
   <string name="choose_voice_input_title">音声入力の選択</string>
   <string name="cleaner">クリーナー</string>
   <string name="clear_activities">設定を消去</string>
-  <string name="clear_activities_summary">Use this app for some operations by default</string>
+  <string name="clear_activities_summary">いくつかのデフォルト操作でこのアプリを使用します</string>
   <string name="clear_adb_keys">USBデバッグの許可の取り消し</string>
   <string name="clear_cache_btn_text">キャッシュを消去</string>
   <string name="clear_data_dlg_text">このアプリのすべてのデータ（ファイル、設定、アカウント、データベースを含む）が完全に削除されます。</string>
@@ -1240,10 +1240,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="drive_mode_voice_report">テキスト読み上げ出力</string>
   <string name="dtmf_tone_enable_title">ダイヤルパッドのタッチ操作音</string>
   <string name="edge_mode_back">戻る</string>
-  <string name="edge_mode_back_summary">Double tap the edge of your phone to go back</string>
+  <string name="edge_mode_back_summary">戻るにはお使いの端末のエッジをダブルタップします</string>
   <string name="edge_mode_clean">システムキャッシュをクリアする</string>
   <string name="edge_mode_clean_summary">両方のエッジをスライドさせるとシステムキャッシュをクリアします</string>
-  <string name="edge_mode_guide_title">Touch the highlighted area to use edge controls</string>
+  <string name="edge_mode_guide_title">エッジコントロールを使用するには強調表示された領域をタップ</string>
   <string name="edge_mode_notification_summary">Tap to learn more.</string>
   <string name="edge_mode_notification_title">エッジコントロールを使用する</string>
   <string name="edge_mode_photo">写真を撮る</string>
@@ -2101,7 +2101,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="msd_driver_download_xp_url">ドライバの取得 http://zhushou.mi.com/</string>
   <string name="msd_help_summary">"端末に接続できませんか？
 使用しているOSを選んでください:"</string>
-  <string name="msd_help_title">Help</string>
+  <string name="msd_help_title">ヘルプ</string>
   <string name="msd_install">ドライバーを再インストールしますか？</string>
   <string name="msd_install_download_zhushou">"Mi Phone Managerをダウンロードしました"</string>
   <string name="msd_install_finish">OK</string>
@@ -2416,17 +2416,17 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_dndm_vip_call_setting_title">設定/Do not disturb/Exceptions</string>
   <string name="path_dndm_wristband">設定/Do not disturb/Activate with Mi Band</string>
   <string name="path_do_not_disturb_settings">設定/Do not disturb</string>
-  <string name="path_dtmf_tone_enable_title">設定/音とバイブレーション/Dial pad tones</string>
+  <string name="path_dtmf_tone_enable_title">設定/音とバイブレーション/ダイヤルパッドの操作音</string>
   <string name="path_edge_handgrip">設定/エッジコントロール</string>
   <string name="path_equalizer">設定/音とバイブレーション/Audio settings/イコライザー</string>
   <string name="path_fluency_mode">設定/電池とパフォーマンス/システムアニメーション</string>
-  <string name="path_font_settings">設定/ディスプレイ/System font</string>
+  <string name="path_font_settings">設定/ディスプレイ/システムフォント</string>
   <string name="path_force_touch">設定/その他の設定/3D Touch</string>
   <string name="path_gesture_wakeup_title">設定/ディスプレイ/Double tap screen to wake</string>
   <string name="path_gps_settings">設定/その他の設定/プライバシー/Location</string>
   <string name="path_handy_mode_settings">設定/その他の設定/片手操作モード</string>
   <string name="path_home_key">設定/その他の設定/ボタン/Home</string>
-  <string name="path_key_settings">設定/その他の設定/Buttons</string>
+  <string name="path_key_settings">設定/その他の設定/ボタン</string>
   <string name="path_lab_functions_title">設定/その他の設定/Beta features</string>
   <string name="path_language_picker_title">設定/その他の設定/言語と入力/言語</string>
   <string name="path_language_settings">設定/その他の設定/言語と入力</string>
@@ -2932,8 +2932,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="saved_wifi_delete">削除</string>
   <string name="scan_list_label">スキャン結果:</string>
   <string name="screen">画面</string>
-  <string name="screen_button">Screen buttons</string>
-  <string name="screen_button_tips">Swipe down to hide screen buttons</string>
+  <string name="screen_button">画面ボタン</string>
+  <string name="screen_button_tips">画面ボタンを非表示にするには下にスワイプ</string>
   <string name="screen_color_and_optimize">色とコントラスト</string>
   <string name="screen_color_and_optimize_disabled">読書モードで色温度の調整はできません</string>
   <string name="screen_color_temperature">色</string>
@@ -2981,7 +2981,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
 
 2. 固定する画面を開きます。
 
-3. [最近]をタップします。
+3. [履歴]をタップします。
 
 4. 固定アイコンをタップします。"</string>
   <string name="screen_pinning_title">画面の固定</string>
@@ -3316,7 +3316,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="set_password_action">パスワードの設定</string>
   <string name="set_password_message">端末のロック解除するのと同様に、チャイルドモードをオフにするためのパスワードを設定します。</string>
   <string name="set_password_title">パスワードを設定</string>
-  <string name="setting_privacy_password">Set Privacy protection password</string>
+  <string name="setting_privacy_password">プライバシー保護のパスワードを設定</string>
   <string name="settings_backup">設定をバックアップ</string>
   <string name="settings_backup_summary">設定をバックアップ</string>
   <string name="settings_button">設定</string>

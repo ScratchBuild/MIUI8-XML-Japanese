@@ -54,7 +54,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_back_up_share_activity_confirm">Upgrade</string>
   <string name="cloud_back_up_share_activity_discription">Get more storage space, daily backups, and more.</string>
   <string name="cloud_back_up_share_activity_title">Upgrade Mi Account</string>
-  <string name="cloud_back_up_task">Backing up…</string>
+  <string name="cloud_back_up_task">"バックアップ中…"</string>
   <string name="cloud_backup_detail_frequence">"バックアップのスケジュール"</string>
   <string name="cloud_backup_detail_frequence_day">Back up every %1$s</string>
   <string name="cloud_backup_detail_manage">"バックアップの管理"</string>
@@ -65,11 +65,11 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
   <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
-  <string name="cloud_restore_task">Restoring…</string>
+  <string name="cloud_restore_task">"復元中…"</string>
   <string name="cloud_task_in_process">"Stop %s and delete this backup? You can't reverse this action."</string>
-  <string name="confirm_restore">Restore</string>
+  <string name="confirm_restore">"復元"</string>
   <string name="confirm_restore_summary">Home screen will restart and apps will be downloaded automatically when connected to WLAN</string>
-  <string name="confirm_restore_title">Restore</string>
+  <string name="confirm_restore_title">"復元"</string>
   <string name="customization">&lt;u&gt;カスタマイズ&lt;/u&gt;</string>
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
   <string name="deskclock_backup">Alarm clock</string>
@@ -118,9 +118,9 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="retry">再試行</string>
   <string name="self_phone">This phone</string>
   <string name="settings_backup">システム設定</string>
-  <string name="start_backup_to_micloud">Back up apps to Mi Cloud</string>
+  <string name="start_backup_to_micloud">"Mi Cloudへアプリをバックアップ"</string>
   <string name="start_recover">Restore %s</string>
   <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
-  <string name="wait_icon_download">Downloading apps icon</string>
+  <string name="wait_icon_download">"アプリアイコンをダウンロード中"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

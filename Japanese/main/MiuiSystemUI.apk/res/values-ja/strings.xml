@@ -197,10 +197,10 @@
   <string name="megabyte_per_second">M/s</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">はい</string>
-  <string name="nav_guide_cancel">Ignore</string>
-  <string name="nav_guide_message">You can use gestures to hide/show screen button after setting.</string>
-  <string name="nav_guide_ok">Settings</string>
-  <string name="nav_guide_title">Hide screen buttons</string>
+  <string name="nav_guide_cancel">無視</string>
+  <string name="nav_guide_message">設定後に画面ボタンの表示/非表示を行うジェスチャーを使うことができます。</string>
+  <string name="nav_guide_ok">設定</string>
+  <string name="nav_guide_title">画面ボタンの非表示</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">通知はありません。</string>
   <string name="no_weather_description">天気情報を取得する ></string>
@@ -247,8 +247,8 @@
   <string name="saved_network">Saved by %1$s</string>
   <string name="screen_button_notification_text">表示をさせるにはホームボタンと電源ボタンを同時に押してください。</string>
   <string name="screen_button_notification_title">ナビゲーションボタンが非表示になりました</string>
-  <string name="screen_pinning_description">固定を解除するまで画面が常に表示されるようになります。[戻る]と[最近]を同時に押し続けると固定が解除されます。</string>
-  <string name="screen_pinning_description_accessible">固定を解除するまで画面が常に表示されるようになります。[最近]を押し続けると固定が解除されます。</string>
+  <string name="screen_pinning_description">固定を解除するまで画面が常に表示されるようになります。ホームボタンと電源ボタンを同時に押し続けると固定が解除されます。</string>
+  <string name="screen_pinning_description_accessible">固定を解除するまで画面が常に表示されるようになります。ホームボタンと電源ボタンを同時に押し続けると固定が解除されます。</string>
   <string name="screen_pinning_negative">いいえ</string>
   <string name="screen_pinning_positive">はい</string>
   <string name="screen_pinning_title">画面が固定されました</string>
@@ -307,7 +307,7 @@ EEEE"</string>
   <string name="status_bar_volte_label">HD</string>
   <string name="task_access_locked_app_msg">アプリロックをオン</string>
   <string name="title_usb_accessory">USBアクセサリ</string>
-  <string name="torch_activity_hint">Hold [icon] to turn on torch at the lock screen</string>
+  <string name="torch_activity_hint">ロック画面で[icon]を長押しするとライトを点灯します</string>
   <string name="torch_activity_name">ライト</string>
   <string name="torch_closed">ライトをオフ</string>
   <string name="torch_opened">ライトをオン</string>
@@ -342,7 +342,7 @@ EEEE"</string>
   <string name="usb_storage_stop_notification_title">USBストレージの停止</string>
   <string name="usb_storage_stop_title">USBストレージは使用中です</string>
   <string name="usb_storage_title">USB接続</string>
-  <string name="user_guide_for_notification">Swipe down with one finger to pull down the notification shade</string>
+  <string name="user_guide_for_notification">通知シェードを表示するには、1本の指で下にスワイプします</string>
   <string name="user_guide_for_toggle">トグルリストは水平方向にスクロールが可能です</string>
   <string name="user_guide_for_toggle_list">トグルの管理</string>
   <string name="vpn_text">タッチして設定を確認します。</string>
