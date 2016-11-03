@@ -26,6 +26,10 @@
   <string name="app_name_miuiringtone">Ringtone</string>
   <string name="app_name_miuiwallpaper">Wallpapers</string>
   <string name="app_name_screenshot">Screenshots</string>
+  <string name="auto_play">Play automatically when connected to WLAN</string>
+  <string name="auto_play_later">Later</string>
+  <string name="auto_play_now">Turn on</string>
+  <string name="auto_play_toast">Videos will play automatically. You can change that in settings.</string>
   <string name="backup_cancel">"Don't back up"</string>
   <string name="backup_checkbox_msg">Back up automatically</string>
   <string name="backup_confirm">Back up now</string>
@@ -76,6 +80,20 @@
   <string name="change_sticker">"別のステッカーを選択"</string>
   <string name="choose_report_comment_reason">Why are you reporting this comment?</string>
   <string name="choose_report_reason">Why are you reporting this video clip?</string>
+  <string name="claim_no_video">No videos to claim</string>
+  <string name="claim_operation_too_frequently">Too many attempts! Try again later.</string>
+  <string name="claim_remind_dialog_cancel">View other videos</string>
+  <string name="claim_remind_dialog_confirm">Stay</string>
+  <string name="claim_remind_dialog_message">"You won't be able to claim this video if you return"</string>
+  <string name="claim_remind_dialog_title">Attention</string>
+  <string name="claim_video">Claim</string>
+  <string name="claim_video_already_claimed">This video has been claimed, be faster next time!</string>
+  <string name="claim_video_already_locked">Claimed</string>
+  <string name="claim_video_failure">"Couldn't claim, try again"</string>
+  <string name="claim_video_locking">Claiming…</string>
+  <string name="claim_video_over">Too many claims for today, come back tomorrow!</string>
+  <string name="claim_video_success">Claimed successfully</string>
+  <string name="claim_video_unlogin">Sign in to claim videos</string>
   <string name="clean_hint">Tap to free up space</string>
   <string name="click_to_switch_volume">"内部ストレージとSDカードを切り替えるにはタップ"</string>
   <string name="click_to_switch_volume_pad">"内部ストレージとSDカードを切り替えるにはタップ"</string>
@@ -224,6 +242,7 @@
   <string name="interest_recommend">Recommended videos</string>
   <string name="just_now">"ちょうど今"</string>
   <string name="kilobyteShort">KB</string>
+  <string name="kuaipan_label">Kuaipan</string>
   <string name="like_toast_1">Such videos will be recommended to you more often.</string>
   <string name="like_toast_2">View the videos you liked in your profile.</string>
   <string name="like_toast_3">Sign in to view the videos you liked in your profile.</string>
@@ -276,7 +295,6 @@
   <string name="mobile_network_dialog_cancle">"キャンセル"</string>
   <string name="mobile_network_dialog_confirm">OK</string>
   <string name="mobile_network_dialog_tip">"Use your mobile data connection to view this page? You'll receive regular mobile data charges from your carrier."</string>
-  <string name="mobile_network_dialog_tip2">"You'll receive regular mobile data charges from your carrier while streaming videos using your mobile data connection."</string>
   <string name="mobile_network_dialog_title">Mobile data warning</string>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Can't cut"</string>
@@ -302,6 +320,7 @@
   <string name="no_enough_storage_title">Not enough space</string>
   <string name="no_file">Empty</string>
   <string name="no_login_btn_text">"ログイン"</string>
+  <string name="no_login_str">Not signed in</string>
   <string name="no_message">No messages</string>
   <string name="no_new_content_tip">All items are up to date</string>
   <string name="no_recent_files">No recent files</string>
@@ -362,6 +381,11 @@
   <string name="operation_show_sys">"隠しファイルを表示"</string>
   <string name="operation_unfavorite">Unfavorite</string>
   <string name="origin_name">%1$s: </string>
+  <string name="original_user_qq_group">Join Talent team QQ group</string>
+  <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; joined the community</string>
+  <string name="original_user_signal">Talent team</string>
+  <string name="original_user_title">Congratulations on becoming a member of the Talent team!</string>
+  <string name="original_user_verify">• Thank you for sticking around!</string>
   <string name="other_user_fans_tab">Fans</string>
   <string name="other_user_follow_tab">Following</string>
   <string name="other_user_liked_topic_tip">No topics</string>
@@ -429,6 +453,8 @@
   <string name="rename_failed">"Can't rename %1$s"</string>
   <string name="repair_done">Restored</string>
   <string name="repair_error">"Couldn't restore"</string>
+  <string name="repair_error_no_media">"Couldn't restore, please select at least one media file."</string>
+  <string name="repair_error_no_order">"Couldn't restore, please delete or decrypt %s and try again"</string>
   <string name="repair_file">Restore encrypted files</string>
   <string name="reply_success">Comment added</string>
   <string name="report_abuse">Abuse</string>
@@ -524,13 +550,16 @@
   <string name="swap_tip_2">"他の動画を再生します"</string>
   <string name="sys_size_enable">" available"</string>
   <string name="tab_category">"カテゴリー"</string>
+  <string name="tab_claim">Claim</string>
   <string name="tab_common_app">"アプリとフォルダ"</string>
+  <string name="tab_discover">Discover</string>
   <string name="tab_follow">Following</string>
+  <string name="tab_homepage">Home</string>
   <string name="tab_hottest_video">Popular</string>
   <string name="tab_local">LOCAL</string>
+  <string name="tab_mine">Profile</string>
   <string name="tab_more">More</string>
   <string name="tab_newest_video">New</string>
-  <string name="tab_profile">Profile</string>
   <string name="tab_ranking_list">Ranking list</string>
   <string name="tab_source">Apps</string>
   <string name="terabyteShort">TB</string>
@@ -546,7 +575,7 @@
   <string name="tools">TOOLS</string>
   <string name="topic_follow">Follow</string>
   <string name="topic_followed">Following</string>
-  <string name="topic_message">%1$s: %2$s</string>
+  <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
   <string name="topic_winners">Previous winners</string>
   <string name="transfer_done">Files moved successfully.</string>
   <string name="transfer_private_data">Moving hidden folders from SD card…</string>
@@ -651,6 +680,14 @@
   <string name="video_data_consumption_dialog_message">Uploading will require %1$s of mobile data</string>
   <string name="video_data_consumption_dialog_title">Mobile data warning</string>
   <string name="video_description">Video description</string>
+  <string name="video_encrypt_fans_btn">Become a fan</string>
+  <string name="video_encrypt_fans_text">Only fans can watch this video</string>
+  <string name="video_encrypt_follow_fail">"Couldn't follow"</string>
+  <string name="video_encrypt_follow_success">Followed %s</string>
+  <string name="video_encrypt_login_btn">Sign in</string>
+  <string name="video_encrypt_login_text">Sign in to play this video</string>
+  <string name="video_operation_need_fans">Follow the person who made the video to do this</string>
+  <string name="video_operation_need_login">Sign in to do this</string>
   <string name="video_parse_btn">Start</string>
   <string name="video_parse_error_unknown">"This link isn't supported, try a different one."</string>
   <string name="video_parse_hint">Supported services: WeChat, Weibo, Youku.</string>
@@ -670,7 +707,6 @@
   <string name="video_topic_hint">Search</string>
   <string name="video_upload_btn">Next</string>
   <string name="video_upload_btn_hint">MP4 videos should be 3s~10min long</string>
-  <string name="video_upload_hint">Upload promoted videos to earn more points.</string>
   <string name="video_upload_item_more">More (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">Upload KuaiShou videos to get more fans.</string>
@@ -708,5 +744,4 @@ Join 170 million Mi Fans!"</string>
 which is an app dedicated to bringing you more fun!"</string>
   <string name="youliao_dialog_title">No interesting videos?</string>
   <string name="zero">0</string>
-  <string name="zero_comment">No comments</string>
 </resources>

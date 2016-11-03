@@ -8,6 +8,7 @@
   <string name="close_panel">"Quick ballを閉じる"</string>
   <string name="customize_entries">"ショートカットを選択"</string>
   <string name="enable_touch_assistant">"Quick ballを開く"</string>
+  <string name="enabled_for_pad_hint">Work when \"Block navigation buttons in landscape\" is turned on</string>
   <string name="function_settings">"ショートカットの設定"</string>
   <string name="hide_touch_assistant">"自動的に非表示"</string>
   <string name="hide_touch_assistant_intro">"選択したアプリでQuick ballを非表示にする。"</string>
@@ -31,6 +32,7 @@
   <string name="name_screenshot">"スクリーンショット"</string>
   <string name="name_wechat_payment_code">WeChat payment</string>
   <string name="name_wechat_scan">WeChat scanner</string>
+  <string name="not_working">%s (Not working)</string>
   <string name="open_panel">"Quick ballを開く"</string>
   <string name="pay_entry_dialog_title_select">Select app to open</string>
   <string name="pay_entry_dialog_title_setting">Set app</string>

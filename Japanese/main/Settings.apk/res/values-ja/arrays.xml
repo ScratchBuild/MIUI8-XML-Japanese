@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+        <item>結合表示</item>
+        <item>分割表示</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>スキャン中...</item>
@@ -27,10 +31,6 @@
         <item>失敗しました</item>
         <item>ブロック中</item>
         <item>接続不良により一時的に無効</item>
-    </string-array>
-    <string-array name="status_bar_style_entries">
-        <item>結合表示</item>
-        <item>分割表示</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>アメリカ</item>

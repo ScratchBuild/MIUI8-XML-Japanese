@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_package_delete_confirm_title">Important Warning</string>
   <string name="add_frequent_phrases">"よく使うフレーズを追加"</string>
   <string name="all_call_livetalk_enable">Using top-up package for domestic and international calls</string>
   <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic or %2$s international</string>
@@ -18,6 +19,11 @@
   <string name="auto_start_warning_allow">"許可"</string>
   <string name="auto_start_warning_deny">"拒否"</string>
   <string name="auto_start_warning_title">"%sの自動起動を許可しますか？"</string>
+  <string name="button_text_cancel">Cancel</string>
+  <string name="button_text_delete">Delete</string>
+  <string name="button_text_delete_timer">Delete (%d)</string>
+  <string name="button_text_next_step">Next</string>
+  <string name="button_text_next_step_timer">Next (%d)</string>
   <string name="call_record_or">" または "</string>
   <string name="call_record_sample_prefix_miui">Call</string>
   <string name="caller_info_name_delimiter">" または "</string>
@@ -66,6 +72,9 @@
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
   <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
   <string name="miui">miui</string>
+  <string name="package_delete_confirm_step_1">Delete %s?</string>
+  <string name="package_delete_confirm_step_2">Deleting this app may cause your system to become unstable.</string>
+  <string name="package_delete_confirm_step_3">"You won't be able to open this app after you delete it."</string>
   <string name="paste">"貼り付け"</string>
   <string name="perm_send_push_dspt">Allow Mi push messages</string>
   <string name="perm_send_push_lab">Send push message</string>

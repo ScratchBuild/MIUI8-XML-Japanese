@@ -189,7 +189,9 @@
   <string name="notification_action_answer_video">"ビデオ"</string>
   <string name="notification_action_answer_voice">"音声"</string>
   <string name="notification_action_dismiss">"拒否"</string>
+  <string name="notification_action_earpiece">Earpiece</string>
   <string name="notification_action_end_call">"通話終了"</string>
+  <string name="notification_action_speaker">Speaker</string>
   <string name="notification_dialing">"発信中"</string>
   <string name="notification_incoming_call">"通話着信"</string>
   <string name="notification_incoming_video_call">"ビデオハングアウト着信"</string>

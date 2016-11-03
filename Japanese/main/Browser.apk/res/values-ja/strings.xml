@@ -354,6 +354,7 @@ Pages you view won't appear in history."</string>
   <string name="local_bookmarks">"ローカル"</string>
   <string name="login_failed_toast">"ログインできませんでした、更新してもう一度お試しください"</string>
   <string name="low_memory_error">"メモリ不足のため、直前の操作を完了することができません"</string>
+  <string name="low_memory_toast">"Can't use Browser because of low memory"</string>
   <string name="max_tabs_warning">"タブ数が上限に達しました"</string>
   <string name="maximum_input_alert">"2048文字以上は入力できません"</string>
   <string name="media_error_action_refresh">"更新"</string>

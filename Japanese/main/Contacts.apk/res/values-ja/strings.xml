@@ -274,7 +274,7 @@ Contact cards are turned off"</string>
   <string name="custom_list_filter">Define custom view</string>
   <string name="custom_nickname_hint">"ニックネームを入力"</string>
   <string name="data_already_used">Used data</string>
-  <string name="data_charge">Top up mobile data</string>
+  <string name="data_charge">Top up data</string>
   <string name="data_left">Remaining data</string>
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
@@ -508,7 +508,7 @@ Contact cards are turned off"</string>
   <string name="ic_menu_back">"戻る"</string>
   <string name="ic_menu_done">"完了"</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">"IMEI: "</string>
+  <string name="imei">IMEI</string>
   <string name="imei_invalid">"無効なIMEI"</string>
   <string name="import_all_sim_entries_miui">"すべての連絡先をインポート"</string>
   <string name="import_all_vcard_string">全てのvCardファイルをインポートする</string>
@@ -595,7 +595,7 @@ Contact cards are turned off"</string>
   <string name="map_home">"自宅の住所を表示"</string>
   <string name="map_other">"住所を表示"</string>
   <string name="map_work">"職場の住所を表示"</string>
-  <string name="meid">"MEID: "</string>
+  <string name="meid">MEID</string>
   <string name="meid_invalid">"無効なMEID"</string>
   <string name="menuMoreDescription">More</string>
   <string name="menu_accounts">アカウント</string>

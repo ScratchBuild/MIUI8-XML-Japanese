@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="download_finished">
-        <item quantity="other">&amp;lt;font color=\"red\">%d songs&amp;lt;/font> downloaded</item>
-        <item quantity="one">&amp;lt;font color==\"red\">%d song&amp;lt;/font> downloaded</item>
+        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloaded</item>
+        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloaded</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&amp;lt;font color=\"red\">%d songs&amp;lt;/font> downloading</item>
-        <item quantity="one">&amp;lt;font color==\"red\">%d song&amp;lt;/font> downloading</item>
+        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloading</item>
+        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloading</item>
     </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d songs found</item>
         <item quantity="one">%d song found</item>
-    </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">"You can only download %d Premium Songs this month. Upgrade your Premium Song Pack to download more. "</item>
-    </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">" You can only download %d Premium Songs this month. Still download selected songs?"</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d days remaining</item>
@@ -65,10 +59,6 @@
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d songs removed from playlist</item>
         <item quantity="one">Song removed from playlist</item>
-    </plurals>
-    <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">1 song</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Player will stop in %d minutes</item>

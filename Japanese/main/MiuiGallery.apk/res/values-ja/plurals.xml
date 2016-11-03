@@ -120,6 +120,14 @@
         <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
         <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up</item>
     </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d photos</item>
+        <item quantity="one">1 photo</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d videos</item>
+        <item quantity="one">1 video</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d photos waiting to back up</item>
         <item quantity="one">1 photo waiting to back up</item>

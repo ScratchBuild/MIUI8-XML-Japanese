@@ -121,6 +121,7 @@
   <string name="find_device_account_error">"Can't get status due to account error"</string>
   <string name="find_device_activate_account">Activate account</string>
   <string name="find_device_bad_response_error">"Can't get status due to server error, try again later"</string>
+  <string name="find_device_display_id">Unlock number: %s</string>
   <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again."</string>
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
   <string name="find_device_interrupted">Action was interrupted, try again later</string>
@@ -156,6 +157,8 @@
   <string name="micloud_space_info">%s available</string>
   <string name="mili_center">Mi Credits</string>
   <string name="mipay_center">Mi Wallet</string>
+  <string name="miui_provision_find_status_text">"This device is associated with an existing Mi Account (%1$s), enter password to verify the device.
+(Unlock number: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>

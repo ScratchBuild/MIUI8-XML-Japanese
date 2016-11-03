@@ -3,6 +3,7 @@
   <string name="Accounts_settings_title">アカウント</string>
   <string name="aaid_info">"
 広告識別子は、お使いのデバイスに固有の永続的なIDです。ベンダーは、あなたにより役立つ内容の広告を選択するために広告識別子を使用します。"</string>
+  <string name="about_phone_enter_xiaomi_net">Learn more</string>
   <string name="about_settings">端末情報</string>
   <string name="about_settings_summary">端末情報、規約、バージョン情報</string>
   <string name="ac_enable_summary">個々のアプリのパスワードを設定</string>
@@ -303,6 +304,8 @@
   <string name="auto_disable_screenbuttons_auto">常に無効</string>
   <string name="auto_disable_screenbuttons_cancel">キャンセル</string>
   <string name="auto_disable_screenbuttons_no">無効にしない</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">When your device is in landscape mode, the navigation buttons will be blocked</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Block navigation buttons in landscape</string>
   <string name="auto_disable_screenbuttons_summary">選択したアプリを使用している時、自動でナビゲーションボタンを無効にします。 ナビゲーションボタンをダブルタップすると再度有効になります。</string>
   <string name="auto_disable_screenbuttons_title">自動的にナビゲーションボタンを無効にする</string>
   <string name="auto_launch_disable_text">設定されていません。</string>
@@ -799,6 +802,7 @@
   <string name="close_gesture">Close using gesture</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにします</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
+  <string name="cmcc_hardware_version">Hardware version</string>
   <string name="color_black">黒</string>
   <string name="color_blue">青</string>
   <string name="color_calibration_none">Native</string>
@@ -817,6 +821,7 @@
   <string name="color_white">白</string>
   <string name="color_yellow">黄</string>
   <string name="common_settings">クイック設定</string>
+  <string name="complete_parameters">All specs</string>
   <string name="complete_settings">一般設定</string>
   <string name="computing_size">計算中...</string>
   <string name="config_charging_function_name">充電中</string>
@@ -1082,17 +1087,20 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="development_settings_not_available">デベロッパー向けオプションはこのユーザーには表示されません</string>
   <string name="development_settings_summary">アプリ開発オプションを設定する</string>
   <string name="development_settings_title">開発者向けオプション</string>
+  <string name="device_actionbar_title">All specs</string>
   <string name="device_admin_add_title">デバイス管理者</string>
   <string name="device_admin_settings_title">デバイス管理の設定</string>
   <string name="device_admin_status">この管理者は有効であり、アプリ%1$sに次の操作を許可します:</string>
   <string name="device_admin_title">デバイス管理</string>
   <string name="device_admin_warning">この管理者を有効にすると、次の操作をアプリ%1$sに許可することになります:</string>
+  <string name="device_complete_parameters">Complete</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deca-core</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
   <string name="device_cpu6_info">Hexa-core</string>
   <string name="device_cpu8_info">Octa-core</string>
+  <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">端末名を編集</string>
   <string name="device_feedback">この端末についてフィードバックを送信</string>
   <string name="device_info_default">不明</string>
@@ -1101,7 +1109,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_info_settings">端末の状態</string>
   <string name="device_internal_memory">内部ストレージ</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">View more</string>
   <string name="device_miui_version">MIUIバージョン</string>
+  <string name="device_miui_version_update">MIUI update is available</string>
   <string name="device_name">端末名</string>
   <string name="device_name_input_error">端末名を保存できませんでした</string>
   <string name="device_name_input_hint">端末名を入力</string>
@@ -1109,6 +1119,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_picker">Bluetoothデバイスの選択</string>
   <string name="device_reset_title">端末をリセット</string>
   <string name="device_sd_memory">SDカード</string>
+  <string name="device_share_loading">Creating image</string>
   <string name="device_status">端末の状態</string>
   <string name="device_status_activity_title">端末の状態</string>
   <string name="device_status_summary">電話番号、電波状態など</string>
@@ -2040,6 +2051,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="memory_use_running_format">%1$s/%2$s</string>
   <string name="memory_use_summary">過去3時間の平均メモリ使用量: %1$s</string>
   <string name="menu_cancel">破棄</string>
+  <string name="menu_check">Experience</string>
   <string name="menu_delete">APNを削除</string>
   <string name="menu_duration_12h">12時間</string>
   <string name="menu_duration_1d">1日</string>
@@ -2056,6 +2068,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="menu_proc_stats_type_foreground">フォアグラウンド</string>
   <string name="menu_restore">初期設定にリセット</string>
   <string name="menu_save">保存</string>
+  <string name="menu_share">Share</string>
   <string name="menu_show_percentage">割合を表示</string>
   <string name="menu_show_system">システムを表示</string>
   <string name="menu_stats_last_unplugged">電池使用時間: %1$s</string>
@@ -2175,6 +2188,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="musicfx_title">サウンド効果</string>
   <string name="mvno_match_data">MVNO値</string>
   <string name="mvno_type">MVNOの種類</string>
+  <string name="my_device">My device</string>
   <string name="nearby_wifi">利用可能なネットワーク</string>
   <string name="need_reboot_now">アップデートをインストールするため再起動します。</string>
   <string name="network_assistant">データ使用量</string>
@@ -2299,6 +2313,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="optimization_close">電源オフと再起動</string>
   <string name="optimization_open">電源オン</string>
   <string name="other_advanced_settings">その他の設定</string>
+  <string name="other_device_info">Others</string>
   <string name="other_personal_settings">その他の設定</string>
   <string name="other_relative">その他</string>
   <string name="other_sound_settings">その他の音</string>
@@ -2823,6 +2838,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="radio_info_smsc_refresh_label">更新</string>
   <string name="radio_info_smsc_update_label">更新</string>
   <string name="radio_info_toggle_dns_check_label">DNSチェックを切り替え</string>
+  <string name="rank_title">Rankings</string>
   <string name="rarely_running">たまに実行（%s）</string>
   <string name="really_remove_account_message">このアカウントを削除すると、メール、連絡先などのすべてのデータも携帯端末から削除されます。</string>
   <string name="really_remove_account_title">アカウントを削除しますか？</string>
@@ -2830,6 +2846,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="receiver_clean">空き容量を確保</string>
   <string name="recent_location_requests_summary">位置情報にアクセスを要求しているアプリを表示</string>
   <string name="recent_location_requests_title">位置情報アクセス</string>
+  <string name="recommend_item_1">Phone case</string>
+  <string name="recommend_item_2">Mi Band</string>
+  <string name="recommend_item_3">Power bank</string>
+  <string name="recommend_item_4">Earphones</string>
+  <string name="recommend_item_title">Recommendations</string>
   <string name="recompute_size">サイズを再計算中...</string>
   <string name="record_anr_in_background">Record background ANR cases</string>
   <string name="regulatory_info_text"/>
@@ -3661,6 +3682,7 @@ PINが正しくない可能性があります。"</string>
 
 "<b>"フォーマットを行うと、現在^1に保存されているすべてのデータが消去されます。"</b>"データの喪失を防ぐため、バックアップを取ることを検討してください。"</string>
   <string name="storage_wizard_format_confirm_public_title">外部ストレージとしてフォーマット</string>
+  <string name="storage_wizard_format_confirm_third_body">The ^1 is being formatted</string>
   <string name="storage_wizard_format_confirm_title">内部ストレージとしてフォーマット</string>
   <string name="storage_wizard_format_progress_body">フォーマット中は^1を取り外さないでください。</string>
   <string name="storage_wizard_format_progress_title">^1をフォーマット中…</string>
@@ -4662,6 +4684,7 @@ PINが正しくない可能性があります。"</string>
   <string name="xiaomi_router_notif_title">Mi WiFiルーター通知</string>
   <string name="xspace">デュアルアプリ</string>
   <string name="yes">はい</string>
+  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">"夜間モードへのアクセスをリクエストしたインストール済みアプリはありません"</string>
   <string name="zen_access_warning_dialog_summary">"アプリは夜間モードのON/OFFを切り替えたり、関連する設定を変更したりできるようになります。"</string>
   <string name="zen_access_warning_dialog_title">"%1$sの夜間モードへのアクセスを許可しますか？"</string>
