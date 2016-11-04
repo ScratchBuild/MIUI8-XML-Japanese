@@ -76,21 +76,9 @@
         <item>When device is locked or after exiting app</item>
         <item>When device is locked​ or in 1 minute after exiting app</item>
     </string-array>
-    <string-array name="lock_mode_value">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
-    </string-array>
     <string-array name="long_add_menu">
         <item>"例外に追加"</item>
     </string-array>
-    <integer-array name="pc_time_choice_items">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>30</item>
-        <item>0</item>
-    </integer-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>"1分後"</item>
         <item>"5分後"</item>
@@ -111,29 +99,4 @@
         <item>Weekdays</item>
         <item>Custom</item>
     </string-array>
-    <integer-array name="pc_choice_dialog_over_heat_values">
-        <item>40</item>
-        <item>42</item>
-        <item>45</item>
-        <item>48</item>
-        <item>0</item>
-    </integer-array>
-    <integer-array name="pc_choice_dialog_battery_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
 </resources>

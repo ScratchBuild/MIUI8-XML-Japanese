@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="record_type_values">
-        <item>audio/mpeg</item>
-        <item>audio/amr</item>
-    </string-array>
     <string-array name="record_type_entries">
         <item>MP3</item>
         <item>AMR</item>
@@ -23,12 +19,6 @@
         <item>Interview</item>
         <item>HD</item>
     </string-array>
-    <string-array name="record_scenes_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
     <string-array name="record_scenes_summaries">
         <item>Record through 2 channels, listen to stereo sound in the earphones</item>
         <item>"Move the mic closer to the sound's source for better quality"</item>
@@ -40,19 +30,9 @@
         <item>"標準"</item>
         <item>"低音質"</item>
     </string-array>
-    <string-array name="record_quality_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="record_quality_summaries">
         <item>MP3, ~192kbit/s, ~90MB/h</item>
         <item>MP3, ~100kbit/s, ~45MB/h</item>
         <item>MP3, ~75kbit/s, ~32MB/h</item>
-    </string-array>
-    <string-array name="record_locale_language">
-        <item>fa</item>
-        <item>ar</item>
-        <item>bn</item>
     </string-array>
 </resources>

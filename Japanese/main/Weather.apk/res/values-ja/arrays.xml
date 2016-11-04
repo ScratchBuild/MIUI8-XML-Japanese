@@ -101,21 +101,6 @@
         <item>"西"</item>
         <item>"北東"</item>
     </string-array>
-    <string-array name="wind_power">
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-    </string-array>
     <string-array name="aqi_value">
         <item>"良好"</item>
         <item>"中程度"</item>

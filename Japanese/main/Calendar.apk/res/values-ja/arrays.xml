@@ -6,47 +6,11 @@
         <item>"SMS"</item>
         <item>"アラーム"</item>
     </string-array>
-    <integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="reminder_minutes_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </integer-array>
-    <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>"ユーザーの言語/地域での既定の設定"</item>
         <item>"土曜日"</item>
         <item>"日曜日"</item>
         <item>"月曜日"</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_values">
-        <item>-1</item>
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Marshall Islands</item>
@@ -134,102 +98,11 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
-    <string-array name="timezone_values">
-        <item>Pacific/Majuro</item>
-        <item>Pacific/Midway</item>
-        <item>Pacific/Honolulu</item>
-        <item>America/Anchorage</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Tijuana</item>
-        <item>America/Phoenix</item>
-        <item>America/Chihuahua</item>
-        <item>America/Denver</item>
-        <item>America/Costa_Rica</item>
-        <item>America/Chicago</item>
-        <item>America/Mexico_City</item>
-        <item>America/Regina</item>
-        <item>America/Bogota</item>
-        <item>America/New_York</item>
-        <item>America/Caracas</item>
-        <item>America/Barbados</item>
-        <item>America/Halifax</item>
-        <item>America/Manaus</item>
-        <item>America/Santiago</item>
-        <item>America/St_Johns</item>
-        <item>America/Sao_Paulo</item>
-        <item>America/Argentina/Buenos_Aires</item>
-        <item>America/Godthab</item>
-        <item>America/Montevideo</item>
-        <item>Atlantic/South_Georgia</item>
-        <item>Atlantic/Azores</item>
-        <item>Atlantic/Cape_Verde</item>
-        <item>Africa/Casablanca</item>
-        <item>Europe/London</item>
-        <item>Europe/Amsterdam</item>
-        <item>Europe/Belgrade</item>
-        <item>Europe/Brussels</item>
-        <item>Europe/Sarajevo</item>
-        <item>Africa/Windhoek</item>
-        <item>Africa/Brazzaville</item>
-        <item>Asia/Amman</item>
-        <item>Europe/Athens</item>
-        <item>Asia/Beirut</item>
-        <item>Africa/Cairo</item>
-        <item>Europe/Helsinki</item>
-        <item>Asia/Jerusalem</item>
-        <item>Europe/Minsk</item>
-        <item>Africa/Harare</item>
-        <item>Asia/Baghdad</item>
-        <item>Europe/Moscow</item>
-        <item>Asia/Kuwait</item>
-        <item>Africa/Nairobi</item>
-        <item>Asia/Tehran</item>
-        <item>Asia/Baku</item>
-        <item>Asia/Tbilisi</item>
-        <item>Asia/Yerevan</item>
-        <item>Asia/Dubai</item>
-        <item>Asia/Kabul</item>
-        <item>Asia/Karachi</item>
-        <item>Asia/Oral</item>
-        <item>Asia/Yekaterinburg</item>
-        <item>Asia/Calcutta</item>
-        <item>Asia/Colombo</item>
-        <item>Asia/Katmandu</item>
-        <item>Asia/Almaty</item>
-        <item>Asia/Rangoon</item>
-        <item>Asia/Krasnoyarsk</item>
-        <item>Asia/Bangkok</item>
-        <item>Asia/Shanghai</item>
-        <item>Asia/Hong_Kong</item>
-        <item>Asia/Irkutsk</item>
-        <item>Asia/Kuala_Lumpur</item>
-        <item>Australia/Perth</item>
-        <item>Asia/Taipei</item>
-        <item>Asia/Seoul</item>
-        <item>Asia/Tokyo</item>
-        <item>Asia/Yakutsk</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Darwin</item>
-        <item>Australia/Brisbane</item>
-        <item>Australia/Hobart</item>
-        <item>Australia/Sydney</item>
-        <item>Asia/Vladivostok</item>
-        <item>Pacific/Guam</item>
-        <item>Asia/Magadan</item>
-        <item>Pacific/Auckland</item>
-        <item>Pacific/Fiji</item>
-        <item>Pacific/Tongatapu</item>
-    </string-array>
     <string-array name="availability">
         <item>"予定あり"</item>
         <item>"予定なし"</item>
         <item>"仮承諾"</item>
     </string-array>
-    <integer-array name="availability_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="visibility">
         <item>"既定"</item>
         <item>"限定公開"</item>
@@ -253,87 +126,14 @@
         <item>"これ以降の予定"</item>
         <item>"すべての予定"</item>
     </string-array>
-    <integer-array name="delete_repeating_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="change_response_labels">
         <item>"この予定のみ"</item>
         <item>"繰り返す予定すべて"</item>
     </string-array>
-    <array name="account_birthday">
-        <item>#ffe99080</item>
-        <item>#b3d5a198</item>
-        <item>#fffcefef</item>
-        <item>#ffce7e6f</item>
-    </array>
-    <array name="account_xiaomi">
-        <item>#ff31aeaa</item>
-        <item>#b355c3bf</item>
-        <item>#ffe9f5f5</item>
-        <item>#ff349a97</item>
-    </array>
-    <array name="account_preset1">
-        <item>#ffb69dd0</item>
-        <item>#b3bfa5db</item>
-        <item>#fff6f1fa</item>
-        <item>#ffa894be</item>
-    </array>
-    <array name="account_preset2">
-        <item>#fff0a16f</item>
-        <item>#b3d88c5b</item>
-        <item>#fffdf3ec</item>
-        <item>#ffe4884d</item>
-    </array>
-    <array name="account_preset3">
-        <item>#ff64bce1</item>
-        <item>#b33aadd2</item>
-        <item>#ffe2f5fb</item>
-        <item>#ff5bb5db</item>
-    </array>
-    <array name="account_preset4">
-        <item>#ff88c984</item>
-        <item>#b37dc07a</item>
-        <item>#fff1faf1</item>
-        <item>#ff91c58e</item>
-    </array>
-    <array name="action_bar_colors">
-        <item>#ff7d97e1</item>
-        <item>#ff27bbd0</item>
-        <item>#ff8cc061</item>
-        <item>#ff3fbc7d</item>
-        <item>#ff11b599</item>
-        <item>#fff38f3a</item>
-        <item>#ffeb6e4a</item>
-        <item>#ffdd5a62</item>
-        <item>#ffe8774d</item>
-        <item>#ffe29255</item>
-        <item>#ff579ee0</item>
-        <item>#ff9b88d0</item>
-    </array>
-    <array name="month_today_colors">
-        <item>#ff809be8</item>
-        <item>#ff2ec2d7</item>
-        <item>#ff99ce6d</item>
-        <item>#ff46c987</item>
-        <item>#ff15bb9e</item>
-        <item>#fff49d52</item>
-        <item>#fff4734d</item>
-        <item>#ffea646b</item>
-        <item>#ffed7d54</item>
-        <item>#ffe8995d</item>
-        <item>#ff5ea4e6</item>
-        <item>#ffab99de</item>
-    </array>
     <string-array name="fortune_gender">
         <item>男</item>
         <item>女</item>
     </string-array>
-    <integer-array name="fortune_gender_values">
-        <item>1</item>
-        <item>0</item>
-    </integer-array>
     <string-array name="summary_card_text_chain">
         <item>【订阅频道】订阅适合你的日历功能或服务</item>
         <item>【订阅频道】来定制属于你的独家小米日历</item>
@@ -379,24 +179,6 @@
         <item>"2日前"</item>
         <item>"1週間前"</item>
     </string-array>
-    <integer-array name="online_reminder_minutes_values">
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </integer-array>
-    <integer-array name="online_reminder_minutes_values_allday">
-        <item>0</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>4320</item>
-        <item>10080</item>
-    </integer-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>"3時間前"</item>
         <item>"4時間前"</item>
@@ -404,13 +186,6 @@
         <item>"6時間前"</item>
         <item>"1日前"</item>
     </string-array>
-    <integer-array name="travel_reminder_minutes_values">
-        <item>180</item>
-        <item>240</item>
-        <item>300</item>
-        <item>360</item>
-        <item>1440</item>
-    </integer-array>
     <string-array name="repeat_frequency_spinner">
         <item>day</item>
         <item>week</item>

@@ -21,21 +21,10 @@
         <item>国際通話制限</item>
         <item>発信通話制限</item>
     </string-array>
-    <string-array name="call_barring_outgoing_values">
-        <item>-1</item>
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="call_barring_incoming_display_values">
         <item>オフ</item>
         <item>ローミング</item>
         <item>すべて</item>
-    </string-array>
-    <string-array name="call_barring_incoming_values">
-        <item>-2</item>
-        <item>4</item>
-        <item>3</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>英語</item>
@@ -46,111 +35,18 @@
         <item>中国語</item>
         <item>ヘブライ語</item>
     </string-array>
-    <string-array name="list_language_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>
-    <string-array name="enabled_networks_except_gsm_values">
-        <item>9</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="enabled_networks_except_lte_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="enabled_networks_except_gsm_lte_values">
-        <item>0</item>
-    </string-array>
-    <string-array name="enabled_networks_values">
-        <item>9</item>
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="enabled_networks_cdma_values">
-        <item>8</item>
-        <item>4</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
-    <string-array name="enabled_networks_cdma_no_lte_values">
-        <item>4</item>
-        <item>5</item>
-    </string-array>
-    <string-array name="enabled_networks_cdma_only_lte_values">
-        <item>8</item>
-        <item>10</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Home only</item>
         <item>Automatic</item>
-    </string-array>
-    <string-array name="cdma_system_select_values">
-        <item>0</item>
-        <item>2</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
     </string-array>
-    <string-array name="cdma_subscription_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="tty_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="dtmf_tone_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="absent_num">
-        <item>ABSENT NUMBER</item>
-        <item>ABSENTNUMBER</item>
-    </string-array>
     <string-array name="voicemail_notification_vibrate_when_values">
         <item>常に</item>
         <item>サイレントモード時</item>
         <item>バイブレーションしない</item>
-    </string-array>
-    <string-array name="t9_indexing_method_entry_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="missed_call_notify_times_entry_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
-    <string-array name="connect_disconnect_vibrate_entry_values">
-        <item>100</item>
-        <item>50</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="call_waiting_tone_entry_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="auto_answer_delay_entry_values">
-        <item>0</item>
-        <item>3</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
-    <string-array name="cdma_call_waiting_entry_values">
-        <item>1</item>
-        <item>0</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
@@ -164,79 +60,4 @@
         <item>LTE</item>
         <item>トリプルモード</item>
     </string-array>
-    <string-array name="uplmn_prefer_network_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="ivr_type_settings_values">
-        <item>cm_1</item>
-        <item>cm_2</item>
-        <item>cm_3</item>
-        <item>cu_1</item>
-        <item>cu_2</item>
-        <item>cu_3</item>
-        <item>ct_1</item>
-        <item>ct_2</item>
-    </string-array>
-    <integer-array name="support_networktypes_cdma_master">
-        <item>10</item>
-        <item>8</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="support_networktypes_cdma_vice">
-        <item>10</item>
-        <item>8</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="support_networktypes_gsm_master">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="support_networktypes_gsm_vice">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cm">
-        <item>16</item>
-        <item>1</item>
-        <item>13</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cm">
-        <item>17</item>
-        <item>16</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cu">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cu">
-        <item>9</item>
-        <item>0</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_gsm">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cdma">
-        <item>7</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cdma">
-        <item>10</item>
-        <item>8</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="network_mode_all_lte">
-        <item>10</item>
-        <item>8</item>
-        <item>20</item>
-    </integer-array>
 </resources>

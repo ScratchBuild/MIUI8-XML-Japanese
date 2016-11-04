@@ -10,11 +10,6 @@
         <item>携帯を探す</item>
         <item>MiKeyを探す</item>
     </string-array>
-    <string-array name="ble_packages">
-        <item></item>
-        <item>com.xiaomi.hm.health</item>
-        <item></item>
-    </string-array>
     <string-array name="ble_package_names">
         <item></item>
         <item>Mi Fit</item>
