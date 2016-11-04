@@ -178,7 +178,7 @@
   <string name="callFailed_user_not_member_of_CUG"/>
   <string name="callUnanswered_forwarded">Call unanswered and forwarded</string>
   <string name="call_advanced_setting_title">"詳細設定"</string>
-  <string name="call_background_default">Default</string>
+  <string name="call_background_default">デフォルト</string>
   <string name="call_background_lock_wallpaper">ロック画面の壁紙</string>
   <string name="call_background_setting">Call background</string>
   <string name="call_barring">発着信制限</string>
@@ -200,8 +200,8 @@
   <string name="call_record_auto_whitelist_summary">%d件の番号</string>
   <string name="call_record_auto_whitelist_summary_for_one">1件の番号</string>
   <string name="call_record_loading_content">読込中...</string>
-  <string name="call_record_off_summary">Off</string>
-  <string name="call_record_on_summary">On</string>
+  <string name="call_record_off_summary">オフ</string>
+  <string name="call_record_on_summary">オン</string>
   <string name="call_record_setting">通話録音</string>
   <string name="call_record_whitelist_custom">選択した番号</string>
   <string name="call_recording_notification_message">タップして再生</string>
@@ -518,8 +518,8 @@
   <string name="exportAllcontatsFailed">"Couldn't export all contacts to SIM"</string>
   <string name="exportAllcontatsNoContacts">No contacts found to export to SIM</string>
   <string name="exportAllcontatsSuccess">Successfully exported all contacts to SIM</string>
-  <string name="exportContactScreen">Export phone contacts to SIM</string>
-  <string name="exportContacts">Exporting contacts to SIM card…</string>
+  <string name="exportContactScreen">SIMカードに連絡先をエクスポート</string>
+  <string name="exportContacts">SIMカードに連絡先をエクスポート中…</string>
   <string name="fake_phone_activity_infoText_text">偽装着信番号</string>
   <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
   <string name="fake_phone_activity_placeCall_text">偽装着信</string>
@@ -565,7 +565,7 @@
   <string name="help_view">ヘルプ</string>
   <string name="hintName">名前</string>
   <string name="hintPhonenumber">電話番号</string>
-  <string name="home_screen_shortcut">Home screen shortcut</string>
+  <string name="home_screen_shortcut">ホーム画面のショートカット</string>
   <string name="importAllSimEntries">すべてインポート</string>
   <string name="importSimEntry">インポート</string>
   <string name="importToFDNfromContacts">連絡先からインポート</string>

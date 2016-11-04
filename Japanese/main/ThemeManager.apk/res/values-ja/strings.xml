@@ -20,7 +20,7 @@
   <string name="backup_theme_success_message">"現在のテーマ設定がバックアップされました。"</string>
   <string name="browser_local_resource">Local resources</string>
   <string name="change_host_hint">Change host</string>
-  <string name="change_wallpaper">Wallpaper</string>
+  <string name="change_wallpaper">"壁紙"</string>
   <string name="close">"閉じる"</string>
   <string name="component_backup_preference_title">Back up theme</string>
   <string name="component_category_finest_title">GENERAL</string>
@@ -38,7 +38,7 @@
   <string name="description_uploadtime">Update</string>
   <string name="description_version">"バージョン"</string>
   <string name="description_version_szie">"バージョン: %1$s サイズ: %2$s"</string>
-  <string name="desktop_wallpaper">Home screen</string>
+  <string name="desktop_wallpaper">"ホーム画面"</string>
   <string name="dev_options">"開発者向けオプション"</string>
   <string name="dev_options_summary">Web resources</string>
   <string name="download_failed">"ダウンロードに失敗"</string>
@@ -94,7 +94,7 @@
   <string name="lockscreen_magazine_system_title">Offline</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_wallpaper">Lock screen</string>
-  <string name="lockstyle_personal_settings">Customize</string>
+  <string name="lockstyle_personal_settings">"カスタマイズ"</string>
   <string name="mi_wallpaper">MIUI wallpaper</string>
   <string name="multi_sim_ringtone_settings_dialog_message">"着信音はSIMカード1とSIMカード2の両方へ同時に適用されます。"</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Got it</string>

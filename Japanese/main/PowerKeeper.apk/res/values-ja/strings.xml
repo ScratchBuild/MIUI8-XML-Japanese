@@ -15,11 +15,11 @@
   <string name="alter_message_switch_mode_message">When you switch modes, your previous settings will no longer apply to this app.</string>
   <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">"アプリを選択"</string>
-  <string name="app_list_total">%d apps</string>
+  <string name="app_list_total">"%d アプリ"</string>
   <string name="app_name">Battery saver</string>
   <string name="background">App is running in background</string>
   <string name="config_description">"MIUI can identify apps with specific background processes (e.g., messaging and navigation apps, media players), and apply Battery saver in a way that won't influence important background activity."</string>
-  <string name="config_mode_title">Background settings</string>
+  <string name="config_mode_title">"バックグラウンド設定"</string>
   <string name="config_no_restrict_description">"Battery saver doesn't restrict app's activity"</string>
   <string name="config_no_restrict_title">No restrictions</string>
   <string name="config_restrict_function_description">"Some features (e.g., push notifications) may be affected, but apps won't be closed"</string>
@@ -30,8 +30,8 @@
 Battery saver will treat important apps selectively."</string>
   <string name="config_suggest_suffix_title">"MIUIBattery saver (推奨)"</string>
   <string name="config_suggest_title">MIUI Battery saver</string>
-  <string name="disabled">Off</string>
-  <string name="empty_title_apps_container_list">No apps</string>
+  <string name="disabled">"オフ"</string>
+  <string name="empty_title_apps_container_list">"アプリなし"</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
   <string name="foreground_change">App is running in foreground</string>
   <string name="fragment_nonesys_listempty">No installed apps</string>
@@ -44,7 +44,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="hide_mode_ultimate_desc">Ultimate mode is on. The apps in the background will be frozen. Turn off Battery saver to exit Ultimate mode.</string>
   <string name="high">"パフォーマンス"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
-  <string name="invalid_size_value">"Couldn't get package size."</string>
+  <string name="invalid_size_value">"パッケージサイズを取得できませんでした。"</string>
   <string name="location_disable_description">Apps in the background can only access location services for a brief period of time while continuous access is restricted</string>
   <string name="location_disable_title">Restrict</string>
   <string name="location_enable_description">Apps can use location services in the background</string>
@@ -59,7 +59,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="mode_export">"エクスポート"</string>
   <string name="mode_import">"インポート"</string>
   <string name="mode_settings">"設定"</string>
-  <string name="movie">Movie</string>
+  <string name="movie">"動画"</string>
   <string name="new_group_name">Customer mode</string>
   <string name="no_applications">Empty</string>
   <string name="none">"プロセスなし"</string>
@@ -89,9 +89,9 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_config_data_connect_summary">Allow apps to connect to the network in the background</string>
   <string name="power_config_data_connect_title">"データ接続"</string>
   <string name="power_config_disable_description">"MIUI won't restrict background activities"</string>
-  <string name="power_config_disable_title">Off</string>
+  <string name="power_config_disable_title">"オフ"</string>
   <string name="power_config_enhance_description">MIUI will restrict all background activity when possible</string>
-  <string name="power_config_enhance_title">On</string>
+  <string name="power_config_enhance_title">"オン"</string>
   <string name="power_config_event_delete">"削除"</string>
   <string name="power_config_idle_notification_summary">Only show first notification from app</string>
   <string name="power_config_idle_notification_title">Only show first notification</string>
@@ -104,7 +104,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_config_mode_title">Power saving modes</string>
   <string name="power_config_phone_charging_title">"充電中"</string>
   <string name="power_config_phone_idle_title">"アイドル"</string>
-  <string name="power_config_select_apps_empty">Tap to select apps</string>
+  <string name="power_config_select_apps_empty">"アプリを選択するにはタップ"</string>
   <string name="power_config_select_apps_title">"アプリ"</string>
   <string name="power_config_title">"設定"</string>
   <string name="power_config_ultimate_description">MIUI will freeze apps in the background</string>
@@ -121,8 +121,8 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_dialog_lcd_mode_title">Screen mode</string>
   <string name="power_dialog_new_event_fail">"新しいイベントを追加できませんでした"</string>
   <string name="power_dialog_ok">OK</string>
-  <string name="power_dialog_power_keeper_disable">Turn off Battery saver?</string>
-  <string name="power_dialog_power_keeper_enable">Turn on Battery saver?</string>
+  <string name="power_dialog_power_keeper_disable">"Battery saverをオフにしますか？"</string>
+  <string name="power_dialog_power_keeper_enable">"Battery saverをオンにしますか？"</string>
   <string name="power_dialog_screen_brightness_title">"画面の明るさ"</string>
   <string name="power_event_user_define_title">"新しいイベント"</string>
   <string name="power_event_view_event_title">"トリガー"</string>
@@ -151,7 +151,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="set_cpufreq_max">"CPU周波数を最大にする"</string>
   <string name="set_lcd_mode">Screen mode</string>
   <string name="settings_safetylegal_activity_loading">"読み込み中…"</string>
-  <string name="still">Picture</string>
+  <string name="still">"写真"</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">"名前"</string>
 </resources>

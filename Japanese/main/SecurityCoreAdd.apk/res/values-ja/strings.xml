@@ -135,7 +135,7 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="privacyContactsTitle">Private messages and contacts</string>
   <string name="private_sms_show_sub_title">Messaging data will be shared between the two spaces​</string>
   <string name="private_sms_show_title">Private messages are shown in Second space</string>
-  <string name="private_space_setting">Manage</string>
+  <string name="private_space_setting">"管理"</string>
   <string name="public_app">Both spaces</string>
   <string name="removeSuccess">Deleted successfully</string>
   <string name="remove_second_space_msg">All Second space app data will be lost after you delete Second space. Delete Second space now?</string>

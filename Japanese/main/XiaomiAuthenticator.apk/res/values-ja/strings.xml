@@ -7,7 +7,7 @@
   <string name="activation_page">Not activated</string>
   <string name="activation_page_btn_txt">Activate</string>
   <string name="activation_page_info">Sign in to your Mi Account to activate Secure Sign-in</string>
-  <string name="add_account_menu_item">Add account</string>
+  <string name="add_account_menu_item">"アカウントを追加"</string>
   <string name="app_name">Xiaomi Authenticator</string>
   <string name="app_name_lockpattern">LockPattern</string>
   <string name="app_name_short">Authenticator</string>
@@ -15,7 +15,7 @@
   <string name="authenticator_invalid_title">Account：%1$s security token has expired.</string>
   <string name="authenticator_page_reactivation">Reactivate</string>
   <string name="button_add_account">Add an account</string>
-  <string name="button_add_account_manual_entry">Manually add account</string>
+  <string name="button_add_account_manual_entry">"手動でアカウントを追加"</string>
   <string name="button_add_account_scan_barcode">Scan barcode</string>
   <string name="button_back">"戻る"</string>
   <string name="button_exit_howitworks_flow">"終了"</string>
@@ -29,8 +29,8 @@
   <string name="check_code_title">Integrity check value</string>
   <string name="continue_btn">"続行"</string>
   <string name="copy_to_clipboard">"クリップボードにコピー"</string>
-  <string name="correct_enter_password">The password you entered is correct</string>
-  <string name="correct_enter_update_password">The password you entered is correct</string>
+  <string name="correct_enter_password">"入力したパスワードが正しくありません"</string>
+  <string name="correct_enter_update_password">"入力したパスワードが正しくありません"</string>
   <string name="counter_pin">Get code</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Your data has been successfully imported from the deprecated Xiaomi Authenticator app. It is now safe to uninstall the prior version of the app by clicking below.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Import succeeded</string>
@@ -81,7 +81,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="lockpattern_recording_incorrect_too_short">"少なくとも%dつの点を結んでください:"</string>
   <string name="lockpattern_recording_inprogress">"描き終わりの点で指を離します"</string>
   <string name="lockpattern_recording_intro_header">"ロック解除パターンを入力:"</string>
-  <string name="lockpattern_redraw_button_text">Redraw</string>
+  <string name="lockpattern_redraw_button_text">"再描画"</string>
   <string name="lockpattern_retry_text">Reset pattern password</string>
   <string name="lockpattern_settings_help_how_to_record">"ロック解除パターンの描き方"</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"%d秒後にもう一度お試しください。"</string>
@@ -109,7 +109,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="privacy_preference_title">"プライバシーポリシー"</string>
   <string name="progress_loading">"読み込み中…"</string>
   <string name="remove_Xiaomi_account_dialog_message">Removing this account will &lt;b&gt;remove your ability&lt;/b&gt; to generate codes, however, it will &lt;b&gt;not&lt;/b&gt; turn off 2-step verification. This may prevent you from signing into your account. &lt;p&gt; Before removing: &lt;ul&gt; &lt;li&gt;Turn off 2-step verification for this account, or&lt;/li&gt; &lt;li&gt;Ensure you have an alternate mechanism for generating codes.&lt;/li&gt; &lt;/ul&gt;</string>
-  <string name="remove_account">Remove account</string>
+  <string name="remove_account">"アカウントを削除"</string>
   <string name="remove_account_dialog_message">"Removing this account will remove your ability to generate codes. This may prevent you from signing into your account.
 
 Before removing:

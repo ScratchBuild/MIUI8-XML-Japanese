@@ -26,10 +26,10 @@
   <string name="app_name_miuiringtone">Ringtone</string>
   <string name="app_name_miuiwallpaper">Wallpapers</string>
   <string name="app_name_screenshot">Screenshots</string>
-  <string name="auto_play">Play automatically when connected to WLAN</string>
-  <string name="auto_play_later">Later</string>
-  <string name="auto_play_now">Turn on</string>
-  <string name="auto_play_toast">Videos will play automatically. You can change that in settings.</string>
+  <string name="auto_play">"Wi-Fiに接続されたときに自動で再生する"</string>
+  <string name="auto_play_later">"後で"</string>
+  <string name="auto_play_now">"オンにする"</string>
+  <string name="auto_play_toast">"動画は自動で再生されます。これは[設定]から変更することができます。"</string>
   <string name="backup_cancel">"Don't back up"</string>
   <string name="backup_checkbox_msg">Back up automatically</string>
   <string name="backup_confirm">Back up now</string>
@@ -320,7 +320,7 @@
   <string name="no_enough_storage_title">Not enough space</string>
   <string name="no_file">Empty</string>
   <string name="no_login_btn_text">"ログイン"</string>
-  <string name="no_login_str">Not signed in</string>
+  <string name="no_login_str">"ログインしていません"</string>
   <string name="no_message">No messages</string>
   <string name="no_new_content_tip">All items are up to date</string>
   <string name="no_recent_files">No recent files</string>
@@ -684,7 +684,7 @@
   <string name="video_encrypt_fans_text">Only fans can watch this video</string>
   <string name="video_encrypt_follow_fail">"Couldn't follow"</string>
   <string name="video_encrypt_follow_success">Followed %s</string>
-  <string name="video_encrypt_login_btn">Sign in</string>
+  <string name="video_encrypt_login_btn">"ログイン"</string>
   <string name="video_encrypt_login_text">Sign in to play this video</string>
   <string name="video_operation_need_fans">Follow the person who made the video to do this</string>
   <string name="video_operation_need_login">Sign in to do this</string>

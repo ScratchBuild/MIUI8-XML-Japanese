@@ -469,7 +469,7 @@ Take more photos of your friends!"</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">"写真"</string>
   <string name="photo_edit_file_not_exits_tip">"編集する前に写真をダウンロード"</string>
-  <string name="photo_editor_label">Edit</string>
+  <string name="photo_editor_label">"編集"</string>
   <string name="photo_editor_saving">"保存中…"</string>
   <string name="photo_page_save_uri_image_fail">"ギャラリーに保存できませんでした"</string>
   <string name="photo_page_save_uri_image_ok">"写真をギャラリーに保存しました"</string>
@@ -692,7 +692,7 @@ Take more photos of your friends!"</string>
   <string name="video_editor_text">Text</string>
   <string name="video_editor_text_edit_end">Credits</string>
   <string name="video_editor_text_edit_input_end_hint">Enter credits</string>
-  <string name="video_editor_text_edit_input_hint">Tap here to edit</string>
+  <string name="video_editor_text_edit_input_hint">"終了するにはここをタップ"</string>
   <string name="video_editor_text_edit_input_open_hint">Enter title</string>
   <string name="video_editor_text_edit_start">Title</string>
   <string name="video_editor_text_input_empty_tips">"Looks like you haven't entered text yet"</string>

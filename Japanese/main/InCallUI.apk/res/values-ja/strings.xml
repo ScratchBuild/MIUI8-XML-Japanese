@@ -36,7 +36,7 @@
   <string name="call_button_tools_text">Features</string>
   <string name="call_contacts_deny_permission_msg">"You denied read contacts permission, can't show contacts info."</string>
   <string name="call_description_recording">Recording…</string>
-  <string name="call_extension_conference_mode">Conference mode</string>
+  <string name="call_extension_conference_mode">"グループ通話モード"</string>
   <string name="call_record_button_label">Recording %s</string>
   <string name="call_record_wait_label">Waiting</string>
   <string name="call_recording_deny_permission_msg">"You denied record permission, can't record."</string>
@@ -81,7 +81,7 @@
   <string name="conference_callers_exceeded">Callers in conference exceeded</string>
   <string name="contacts_icon_label">"連絡先"</string>
   <string name="default_area_code_setting">Default area code</string>
-  <string name="description_image_button_answer">Answer</string>
+  <string name="description_image_button_answer">"応答"</string>
   <string name="description_image_button_dialpad">"ダイヤルパッド"</string>
   <string name="description_image_button_eight">"8"</string>
   <string name="description_image_button_five">"5"</string>
@@ -156,7 +156,7 @@
   <string name="jeejen_toggle_dialpad_text">Dialpad</string>
   <string name="keep_wait_call_back">Keep waiting</string>
   <string name="livetalk_dial">Using Top-up package</string>
-  <string name="livetalk_hangup">Hang up</string>
+  <string name="livetalk_hangup">"電話を切る"</string>
   <string name="livetalk_left_minute">"残り%s分"</string>
   <string name="manageConferenceLabel">"グループ通話オプション"</string>
   <string name="miprofile_stranger_card">"不明"</string>
@@ -167,8 +167,8 @@
   <string name="modify_call_option_vt">VT</string>
   <string name="modify_call_option_vt_rx">Video receive</string>
   <string name="modify_call_option_vt_tx">Video transmit</string>
-  <string name="modify_call_prompt_no">No</string>
-  <string name="modify_call_prompt_yes">Yes</string>
+  <string name="modify_call_prompt_no">"いいえ"</string>
+  <string name="modify_call_prompt_yes">"はい"</string>
   <string name="msim_select_default_time_left">"(%d秒)"</string>
   <string name="network_error_message">Current network is unstable. Switching to regular call for which you might be charged by the carrier.</string>
   <string name="network_error_title">Unstable network</string>
@@ -189,9 +189,9 @@
   <string name="notification_action_answer_video">"ビデオ"</string>
   <string name="notification_action_answer_voice">"音声"</string>
   <string name="notification_action_dismiss">"拒否"</string>
-  <string name="notification_action_earpiece">Earpiece</string>
+  <string name="notification_action_earpiece">"受話器"</string>
   <string name="notification_action_end_call">"通話終了"</string>
-  <string name="notification_action_speaker">Speaker</string>
+  <string name="notification_action_speaker">"スピーカー"</string>
   <string name="notification_dialing">"発信中"</string>
   <string name="notification_incoming_call">"通話着信"</string>
   <string name="notification_incoming_video_call">"ビデオハングアウト着信"</string>
@@ -206,7 +206,7 @@
   <string name="onscreenEndCallText">"通話を終了"</string>
   <string name="onscreen_add_call_text">Add call</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
-  <string name="onscreen_audio_mode_conference">Conference</string>
+  <string name="onscreen_audio_mode_conference">"グループ通話"</string>
   <string name="onscreen_audio_mode_handset">"ハンズフリー"</string>
   <string name="onscreen_audio_mode_headset">"ヘッドフォン"</string>
   <string name="onscreen_audio_mode_speaker">"スピーカー"</string>

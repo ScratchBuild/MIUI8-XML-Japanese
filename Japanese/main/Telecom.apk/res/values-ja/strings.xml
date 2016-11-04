@@ -48,7 +48,7 @@
   <string name="unknown">"通知不可能"</string>
   <string name="userCallActivityLabel">"電話"</string>
   <string name="video_call_not_allowed_if_tty_enabled">"ビデオハングアウトを行うにはTTYモードを無効にしてください。"</string>
-  <string name="voice_dial_out">Voice call</string>
+  <string name="voice_dial_out">"音声通話"</string>
   <string name="voice_report_incoming_call">"通話着信"</string>
   <string name="voice_report_unknown_num">"不明な番号"</string>
 </resources>

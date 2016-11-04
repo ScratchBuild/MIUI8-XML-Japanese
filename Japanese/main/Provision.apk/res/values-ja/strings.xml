@@ -45,7 +45,7 @@
 View the selected keyboard's Privacy Policy."</string>
   <string name="provision_inputmethod_policy_description1">"プライバシーポリシー"</string>
   <string name="setting_locale">"地域を設定中…"</string>
-  <string name="shut_down">Shut down</string>
+  <string name="shut_down">"シャットダウン"</string>
   <string name="sim_card_detecting">Checking for SIM card…</string>
   <string name="sim_card_detecting_title">Check for SIM card</string>
   <string name="sim_card_detection">Insert SIM card</string>

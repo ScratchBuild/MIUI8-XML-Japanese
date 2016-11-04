@@ -256,7 +256,7 @@
   <string name="app_sees_restricted_accounts_and_controlled_by">このアプリはアカウントにアクセスする場合があります。%1$sが制御しています</string>
   <string name="app_special_disable_dlg_text">このアプリを無効にすると、他のアプリが意図されたとおりに動作しなくなる可能性があります。データも削除されます。</string>
   <string name="app_special_disable_dlg_title">データを削除し、アプリを無効にしますか？</string>
-  <string name="app_switch_key">Recents</string>
+  <string name="app_switch_key">履歴</string>
   <string name="app_usage_preference">アプリの使用状況の設定</string>
   <string name="application_forbid_auto_startup">Stop %s from starting in background</string>
   <string name="application_info_label">アプリ情報</string>
@@ -405,7 +405,7 @@
   <string name="battery_info_status_charging_usb">USBで充電しています</string>
   <string name="battery_info_status_charging_wireless">無線で充電しています</string>
   <string name="battery_info_status_discharging">充電していません</string>
-  <string name="battery_info_status_full">Full</string>
+  <string name="battery_info_status_full">充電完了</string>
   <string name="battery_info_status_label">充電状況</string>
   <string name="battery_info_status_not_charging">充電していません</string>
   <string name="battery_info_status_unknown">不明</string>
@@ -802,7 +802,7 @@
   <string name="close_gesture">Close using gesture</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにします</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
-  <string name="cmcc_hardware_version">Hardware version</string>
+  <string name="cmcc_hardware_version">ハードウェアバージョン</string>
   <string name="color_black">黒</string>
   <string name="color_blue">青</string>
   <string name="color_calibration_none">Native</string>
@@ -821,7 +821,7 @@
   <string name="color_white">白</string>
   <string name="color_yellow">黄</string>
   <string name="common_settings">クイック設定</string>
-  <string name="complete_parameters">All specs</string>
+  <string name="complete_parameters">すべてのスペック</string>
   <string name="complete_settings">一般設定</string>
   <string name="computing_size">計算中...</string>
   <string name="config_charging_function_name">充電中</string>
@@ -1087,7 +1087,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="development_settings_not_available">デベロッパー向けオプションはこのユーザーには表示されません</string>
   <string name="development_settings_summary">アプリ開発オプションを設定する</string>
   <string name="development_settings_title">開発者向けオプション</string>
-  <string name="device_actionbar_title">All specs</string>
+  <string name="device_actionbar_title">すべてのスペック</string>
   <string name="device_admin_add_title">デバイス管理者</string>
   <string name="device_admin_settings_title">デバイス管理の設定</string>
   <string name="device_admin_status">この管理者は有効であり、アプリ%1$sに次の操作を許可します:</string>
@@ -2068,7 +2068,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="menu_proc_stats_type_foreground">フォアグラウンド</string>
   <string name="menu_restore">初期設定にリセット</string>
   <string name="menu_save">保存</string>
-  <string name="menu_share">Share</string>
+  <string name="menu_share">共有</string>
   <string name="menu_show_percentage">割合を表示</string>
   <string name="menu_show_system">システムを表示</string>
   <string name="menu_stats_last_unplugged">電池使用時間: %1$s</string>
@@ -2313,7 +2313,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="optimization_close">電源オフと再起動</string>
   <string name="optimization_open">電源オン</string>
   <string name="other_advanced_settings">その他の設定</string>
-  <string name="other_device_info">Others</string>
+  <string name="other_device_info">その他</string>
   <string name="other_personal_settings">その他の設定</string>
   <string name="other_relative">その他</string>
   <string name="other_sound_settings">その他の音</string>
@@ -2838,7 +2838,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="radio_info_smsc_refresh_label">更新</string>
   <string name="radio_info_smsc_update_label">更新</string>
   <string name="radio_info_toggle_dns_check_label">DNSチェックを切り替え</string>
-  <string name="rank_title">Rankings</string>
+  <string name="rank_title">ランキング</string>
   <string name="rarely_running">たまに実行（%s）</string>
   <string name="really_remove_account_message">このアカウントを削除すると、メール、連絡先などのすべてのデータも携帯端末から削除されます。</string>
   <string name="really_remove_account_title">アカウントを削除しますか？</string>
