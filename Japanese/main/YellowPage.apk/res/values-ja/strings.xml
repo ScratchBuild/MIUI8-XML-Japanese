@@ -163,7 +163,7 @@
   <string name="express_order_state_ordered">Ordered</string>
   <string name="express_order_state_picked">Picked</string>
   <string name="express_order_state_picking_failed">"Couldn't pick"</string>
-  <string name="express_order_state_processing">Processing</string>
+  <string name="express_order_state_processing">"処理中"</string>
   <string name="express_order_state_signed">Signed</string>
   <string name="express_order_state_transporting">Transporting</string>
   <string name="express_order_state_unknown">不明</string>
@@ -211,7 +211,7 @@
   <string name="general_menu_delete_recent">Delete recent</string>
   <string name="general_menu_unfavorite">Remove from favorites</string>
   <string name="general_menu_unfollow">Unfollow</string>
-  <string name="general_no_yellow_page">List is empty</string>
+  <string name="general_no_yellow_page">リストは空です</string>
   <string name="general_recent_title">Recent</string>
   <string name="general_unfollow_hint">Stop following %1$s?</string>
   <string name="general_yellow_page_title">General</string>
@@ -376,10 +376,10 @@ Total: RMB %3$s"</string>
   <string name="remind_another_time">次回から表示しない</string>
   <string name="remind_user_confirm">OK</string>
   <string name="remind_user_suspect_number_message">Be careful: Always verify the identity of the caller by phone or video before sharing your personal information.</string>
-  <string name="remind_user_suspect_number_title">Suspicious number</string>
+  <string name="remind_user_suspect_number_title">不審な番号</string>
   <string name="rmb">RMB</string>
   <string name="scan">Scan</string>
-  <string name="select_package_before_buy">Select package</string>
+  <string name="select_package_before_buy">パッケージを選択</string>
   <string name="send_shortcut_failed">"Couldn't send"</string>
   <string name="send_shortcut_success">Placed on Home screen</string>
   <string name="sending_shortcut">送信中…</string>
@@ -429,7 +429,7 @@ Total: RMB %3$s"</string>
   <string name="yellow_page_website">公式ウェブサイト</string>
   <string name="yellowpage_navigation_network_location_enable">許可</string>
   <string name="yellowpage_navigation_network_location_enable_later">後で</string>
-  <string name="yellowpage_navigation_network_location_enabled">Location access is on. You can turn it off anytime in Settings.</string>
+  <string name="yellowpage_navigation_network_location_enabled">位置情報アクセスがオンです。[設定]でいつでもオフにすることができます。</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Yellow pages to access your location info.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">位置情報アクセス</string>
 </resources>

@@ -268,7 +268,7 @@
   <string name="contact_select">"連絡先を選択"</string>
   <string name="content_description">%1$s about %2$s, %3$s on %4$s, %5$s</string>
   <string name="content_description_today">%1$s about %2$s, %3$s at %4$s, %5$s</string>
-  <string name="contextmenu_add">Add to Contacts</string>
+  <string name="contextmenu_add">"連絡先に追加"</string>
   <string name="contextmenu_add_contact">Add contact</string>
   <string name="contextmenu_call">Call</string>
   <string name="contextmenu_copy">"コピー"</string>
@@ -610,8 +610,8 @@
   <string name="message_invite_title">Calendar invite</string>
   <string name="message_saved">"メッセージは下書きとして保存されました。"</string>
   <string name="message_view_attachment_background_load">"送信前に転送メッセージの添付ファイルがダウンロードされます。"</string>
-  <string name="mibill_privacy_policy_button1">Later</string>
-  <string name="mibill_privacy_policy_button2">Agree</string>
+  <string name="mibill_privacy_policy_button1">"後で"</string>
+  <string name="mibill_privacy_policy_button2">"同意"</string>
   <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
   <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our "<a href="https://www.mipay.com/res/doc/eula/email.html">Terms of Service</a></string>
   <string name="mibill_privacy_policy_title">Manage bills automatically</string>
@@ -625,7 +625,7 @@
   <string name="network_error">No connection</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="network_try_again">Check network connection and try again</string>
-  <string name="network_unavailable">Network not available</string>
+  <string name="network_unavailable">"ネットワークが利用できません"</string>
   <string name="new_incoming_messages_one">New message from %s. Show.</string>
   <string name="new_messages">%1$d new messages</string>
   <string name="next_action">"次へ"</string>
@@ -707,12 +707,12 @@
   <string name="photo_load_failed">"画像を読み込めませんでした"</string>
   <string name="photo_view_count" formatted="false">%d of %d</string>
   <string name="please_fill_in_your_mailbox_information2">Enter your mailbox info</string>
-  <string name="policy_app_blacklist">Disallow specified apps</string>
-  <string name="policy_app_whitelist">Allow only specified apps</string>
+  <string name="policy_app_blacklist">"特定のアプリを許可しない"</string>
+  <string name="policy_app_whitelist">"特定のアプリのみ許可する"</string>
   <string name="policy_bluetooth_restricted">Restrict Bluetooth usage</string>
   <string name="policy_calendar_age">"同期するカレンダーの予定の数を制限する"</string>
   <string name="policy_dont_allow_attachments">"添付ファイルを許可しない"</string>
-  <string name="policy_dont_allow_browser">"Don't allow browsers"</string>
+  <string name="policy_dont_allow_browser">"ブラウザを許可しない"</string>
   <string name="policy_dont_allow_camera">"端末のカメラの使用を許可しない"</string>
   <string name="policy_dont_allow_consumer_email">"Don't allow consumer email"</string>
   <string name="policy_dont_allow_html">"HTMLメールを許可しない"</string>

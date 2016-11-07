@@ -535,12 +535,12 @@ Contact cards are turned off"</string>
   <string name="import_to_xiaomi_account_title">"Mi Accountにインポート</string>
   <string name="import_vcard_description">"Import contacts from your phone's internal storage"</string>
   <string name="import_vcard_dialog_message">"vCardをインポートしますか？"</string>
-  <string name="import_weibo_dialog_title">Import Weibo contacts</string>
+  <string name="import_weibo_dialog_title">"Weiboの連絡先をインポート"</string>
   <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
   <string name="import_weibo_error_no_network">"ネットワークに接続できません. Check your data connection and try again."</string>
   <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Mi Account.</string>
   <string name="import_weibo_error_unknown">"不明なエラー"</string>
-  <string name="import_weibo_error_user_cancel">Import canceled</string>
+  <string name="import_weibo_error_user_cancel">"インポートをキャンセルしました"</string>
   <string name="import_weibo_fetch_followers">"連絡先を読み込み中…"</string>
   <string name="import_weibo_notification_title_done">"%s件の連絡先を更新しました"</string>
   <string name="import_weibo_progress_name">Matching \"%1$s\"…</string>
@@ -597,7 +597,7 @@ Contact cards are turned off"</string>
   <string name="map_work">"職場の住所を表示"</string>
   <string name="meid">MEID</string>
   <string name="meid_invalid">"無効なMEID"</string>
-  <string name="menuMoreDescription">More</string>
+  <string name="menuMoreDescription">"もっと"</string>
   <string name="menu_accounts">アカウント</string>
   <string name="menu_addStar">"お気に入りに追加"</string>
   <string name="menu_bar_group_add">"追加"</string>
@@ -605,8 +605,8 @@ Contact cards are turned off"</string>
   <string name="menu_bar_group_batch_edit">Multiple contacts</string>
   <string name="menu_bar_group_batch_move">グループへ移動する</string>
   <string name="menu_bar_group_batch_remove">グループを削除する</string>
-  <string name="menu_bar_group_delete">Delete</string>
-  <string name="menu_bar_group_rename">Rename</string>
+  <string name="menu_bar_group_delete">"削除"</string>
+  <string name="menu_bar_group_rename">"名前を変更"</string>
   <string name="menu_bar_group_ringtone">"着信音"</string>
   <string name="menu_bar_group_ringtone_largeui">"着信音"</string>
   <string name="menu_bar_group_sms">SMS</string>
@@ -670,7 +670,7 @@ Contact cards are turned off"</string>
   <string name="miprofile_contact_verifying">Verifying</string>
   <string name="miprofile_edit_title">"プロフィールを編集"</string>
   <string name="miprofile_error_accept_self">"Can't exchange your own contact card"</string>
-  <string name="miprofile_error_no_miaccount">Sign in to your Mi Account</string>
+  <string name="miprofile_error_no_miaccount">Mi Accountにログイン"</string>
   <string name="miprofile_error_not_opened">Turn off contact cards</string>
   <string name="miprofile_error_not_set">"Your contact card hasn't been synced to the server"</string>
   <string name="miprofile_error_unknown">"不明なエラー"</string>
@@ -716,10 +716,10 @@ Contact cards are turned off"</string>
   <string name="more_call_logs">Listen to all your call recordings at mi.com/micloud</string>
   <string name="move_and_resize">"移動とリサイズ"</string>
   <string name="multi_number_menu_call">Call</string>
-  <string name="multi_number_menu_delete">Delete</string>
+  <string name="multi_number_menu_delete">"削除"</string>
   <string name="multi_number_menu_group">New group</string>
-  <string name="multi_number_menu_message">Message</string>
-  <string name="multi_number_title">Conference call</string>
+  <string name="multi_number_menu_message">"メッセージ"</string>
+  <string name="multi_number_title">"グループ通話"</string>
   <string name="multipleContactDeleteConfirmation">"この連絡先を削除すると、複数のアカウント情報が削除されます。"</string>
   <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete info from multiple accounts.</string>
   <string name="my_phone_not_provider_bluetooth">"My phone doesn't have Bluetooth"</string>
@@ -837,7 +837,7 @@ To add a contact to your list of favorites:
   <string name="option_edit_contact">"編集"</string>
   <string name="option_not_in_group">"削除"</string>
   <string name="option_not_star">"お気に入りから削除"</string>
-  <string name="option_rename_group">Rename</string>
+  <string name="option_rename_group">"名前を変更"</string>
   <string name="option_send_to_desktop">"ホーム画面に設置"</string>
   <string name="option_send_to_others">Forward</string>
   <string name="option_view_contact">View</string>

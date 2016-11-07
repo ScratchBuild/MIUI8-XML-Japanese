@@ -78,7 +78,7 @@
   <string name="confirm_delete_SIM_message">SIMカードからこのメッセージを削除しますか？</string>
   <string name="confirm_delete_all_SIM_messages">SIMカードのすべてのメッセージを削除しますか？</string>
   <string name="confirm_delete_all_conversations">全てのスレッドを削除しますか？</string>
-  <string name="confirm_delete_conversation">この全スレッドを削除しますか?</string>
+  <string name="confirm_delete_conversation">この全スレッドを削除しますか？</string>
   <string name="confirm_delete_group_message">グループメッセージを削除しますか？</string>
   <string name="confirm_delete_locked_message">ロックされているこのメッセージを削除しますか？</string>
   <string name="confirm_delete_message">このメッセージを削除しますか？</string>

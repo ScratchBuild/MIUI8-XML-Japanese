@@ -82,8 +82,8 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_config_bg_data_delay_time_title">Restrict background data</string>
   <string name="power_config_choose_apps">"アプリを選択"</string>
   <string name="power_config_confirm_event_delete">"この設定を削除しますか？"</string>
-  <string name="power_config_cpu_freq_dialog_title">CPU frequency</string>
-  <string name="power_config_cpu_freq_title">CPU frequency</string>
+  <string name="power_config_cpu_freq_dialog_title">"CPU周波数"</string>
+  <string name="power_config_cpu_freq_title">"CPU周波数"</string>
   <string name="power_config_cpu_mode_dialog_title">CPU mode</string>
   <string name="power_config_cpu_mode_title">CPU mode</string>
   <string name="power_config_data_connect_summary">Allow apps to connect to the network in the background</string>

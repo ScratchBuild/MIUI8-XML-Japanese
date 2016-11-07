@@ -38,7 +38,7 @@
   <string name="err_type_hardware">"ハードウェア"</string>
   <string name="err_type_hardware_summary">"ボタン、充電、センサー、その他。"</string>
   <string name="err_type_more">More</string>
-  <string name="err_type_nonsystemapp">Other apps</string>
+  <string name="err_type_nonsystemapp">"その他のアプリ"</string>
   <string name="err_type_power_consuming">Power usage</string>
   <string name="err_type_reboot">"再起動"</string>
   <string name="err_type_signal">"ネットワーク"</string>
@@ -51,7 +51,7 @@
   <string name="err_type_xiaomi_service">"カスタマーサービス"</string>
   <string name="error_no_connection">"ネットワークに接続できませんでした"</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s issue \"%2$s\"</string>
-  <string name="feedback_collect_log_failed">"Couldn't get logs"</string>
+  <string name="feedback_collect_log_failed">"ログを取得できませんでした"</string>
   <string name="feedback_description">Description</string>
   <string name="feedback_description_bugreport_hint">In some cases (…) my phone misbehaves (…).</string>
   <string name="feedback_description_label">Description</string>
@@ -76,7 +76,7 @@
   <string name="feedback_status_commit_succ_title">"送信されました"</string>
   <string name="feedback_status_commit_uploading_title">"送信中…"</string>
   <string name="feedback_status_more">"詳細"</string>
-  <string name="feedback_status_processing">Processing…</string>
+  <string name="feedback_status_processing">"処理中…"</string>
   <string name="feedback_status_recorded">Received feedback</string>
   <string name="feedback_status_replyed">Replied</string>
   <string name="feedback_status_reresolved">Resolved</string>
@@ -140,7 +140,7 @@
   <string name="michat_message_error_network">"ネットワークに接続できませんでした"</string>
   <string name="michat_message_join_again">"Glad you're back!"</string>
   <string name="michat_message_robot_welcome">"My name is Mi Bunny. I'm an online support robot."</string>
-  <string name="michat_message_send_error_network">"Couldn't send, check network connection"</string>
+  <string name="michat_message_send_error_network">"送信できません、ネットワーク接続を確認してください"</string>
   <string name="michat_motto">Mi Support is ready to help</string>
   <string name="michat_msg_image_upload_error">"Couldn't send image, try again later"</string>
   <string name="michat_msg_input_info">Describe your issue briefly</string>
@@ -227,7 +227,7 @@
   <string name="tab_title_chat">FAQ</string>
   <string name="tab_title_my_reports">My reports</string>
   <string name="tab_title_report">"フィードバック"</string>
-  <string name="title_nonsystem_app">Other apps</string>
+  <string name="title_nonsystem_app">"その他のアプリ"</string>
   <string name="title_system_app">MIUI apps</string>
   <string name="toast_description_required">You need to write a description</string>
   <string name="toast_feedback_collect_store">Collecting logs…</string>

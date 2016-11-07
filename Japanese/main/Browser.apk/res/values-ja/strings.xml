@@ -372,7 +372,7 @@ Pages you view won't appear in history."</string>
   <string name="media_player_error_title">"Can't play video"</string>
   <string name="media_player_loading_video">Loading video</string>
   <string name="menu_addtodesk">"ホーム画面に追加"</string>
-  <string name="menu_exit_nightmode">Exit</string>
+  <string name="menu_exit_nightmode">"終了"</string>
   <string name="menu_hv_swap">V/H screen</string>
   <string name="menu_nightmode">Night mode</string>
   <string name="menu_preferences">"設定"</string>
@@ -839,7 +839,7 @@ Pages you view won't appear in history."</string>
   <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
   <string name="voice_title">Say your command…</string>
-  <string name="voice_title_distinguish">Processing…</string>
+  <string name="voice_title_distinguish">"処理中…"</string>
   <string name="voice_title_listening">Listening…</string>
   <string name="voice_title_please">Begin speaking…</string>
   <string name="voice_title_speech_again">"Couldn't understand you"</string>

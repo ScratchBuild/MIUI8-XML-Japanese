@@ -366,7 +366,7 @@
   <string name="operation_favorite">Favorite</string>
   <string name="operation_hide_sys">"隠しファイルを非表示"</string>
   <string name="operation_info">"詳細"</string>
-  <string name="operation_like">"お気に入りへ追加"</string>
+  <string name="operation_like">"お気に入りに追加"</string>
   <string name="operation_move">"切り取り"</string>
   <string name="operation_moving">"移動中…"</string>
   <string name="operation_other_apps">"他のアプリで開く"</string>
