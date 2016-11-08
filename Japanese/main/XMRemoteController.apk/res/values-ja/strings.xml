@@ -15,7 +15,7 @@
   <string name="abc_searchview_description_query">Search query</string>
   <string name="abc_searchview_description_search">"検索"</string>
   <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
+  <string name="abc_searchview_description_voice">"音声検索"</string>
   <string name="abc_shareactionprovider_share_with">Share with</string>
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
@@ -36,7 +36,7 @@
   <string name="add_device_match_desc_center">2. Tap the button</string>
   <string name="add_device_match_desc_top">1. Point your Mi device at your %1$s</string>
   <string name="add_device_remote">Add %1$s remote</string>
-  <string name="add_fav_channel">Add to favorites</string>
+  <string name="add_fav_channel">"お気に入りに追加"</string>
   <string name="add_fav_channel_hint">Add more favorite channels</string>
   <string name="add_more">Add more IR devices</string>
   <string name="add_new_control">"リモコンの追加"</string>
@@ -145,7 +145,7 @@
   <string name="choose_key_to_fix">Choose the button to fix</string>
   <string name="circlepad_slide_tips">Use the touch wheel to adjust the volume</string>
   <string name="click_to_expend">Expand</string>
-  <string name="click_to_login">Sign in</string>
+  <string name="click_to_login">"ログイン"</string>
   <string name="click_to_retry">Tap to try again</string>
   <string name="click_to_shrink">Minimize</string>
   <string name="close">Off</string>
@@ -279,7 +279,7 @@
   <string name="episode_title">Episode %1$d</string>
   <string name="episodes_list">Selected episodes</string>
   <string name="error_input_dialogue_guide">Please enter the 4-digit code</string>
-  <string name="exit">Exit</string>
+  <string name="exit">"終了"</string>
   <string name="external_app">Install app</string>
   <string name="external_photo">View photos</string>
   <string name="external_video">Play video</string>
@@ -386,16 +386,16 @@
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Living room</string>
   <string name="loading_brand">Getting info…</string>
-  <string name="loading_brand_info">Just a sec…</string>
-  <string name="loading_device_type_info">Just a sec…</string>
-  <string name="loading_get">Just a sec…</string>
-  <string name="loading_hint">Just a sec…</string>
-  <string name="loading_ir_data">Just a sec…</string>
+  <string name="loading_brand_info">"読み込み中…"</string>
+  <string name="loading_device_type_info">"読み込み中…"</string>
+  <string name="loading_get">"読み込み中…"</string>
+  <string name="loading_hint">"読み込み中…"</string>
+  <string name="loading_ir_data">"読み込み中…"</string>
   <string name="loading_more">Loading more</string>
   <string name="locate_current_place">Find current location</string>
   <string name="location_select">Rename device</string>
-  <string name="login">Sign in</string>
-  <string name="login_directly">Sign in</string>
+  <string name="login">"ログイン"</string>
+  <string name="login_directly">"ログイン"</string>
   <string name="login_done">Signed in</string>
   <string name="login_failed">"ログインできませんでした"</string>
   <string name="login_failed_tips">"Could't get account info"</string>
@@ -643,8 +643,8 @@ To activate your account, follow the
   <string name="passport_login_instead_reg_with_email">"このメールアドレスを使用"</string>
   <string name="passport_login_notice">"ログイン中…"</string>
   <string name="passport_login_short">"ログイン"</string>
-  <string name="passport_login_title">Sign in to your Mi Account</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Sign in with email address or Mi Account ID&lt;/u&gt;</string>
+  <string name="passport_login_title">"Mi Accountでログイン"</string>
+  <string name="passport_login_with_email_or_id">&lt;u&gt;メールアドレスまたはMi Account IDでログイン&lt;/u&gt;</string>
   <string name="passport_next">"次へ"</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
   <string name="passport_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
@@ -735,7 +735,7 @@ To activate your account, follow the
   <string name="press_to_match">Tap to pair</string>
   <string name="prev_remote">Previous remote</string>
   <string name="privacy_content">"Read Xiaomi's "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Privacy Policy&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;User Agreement&lt;/a&gt; before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
-  <string name="privacy_nohit">"Don't show again"</string>
+  <string name="privacy_nohit">"二度と表示しない"</string>
   <string name="privacy_title">Terms and Conditions</string>
   <string name="program_booking_book_filter_book_status">Booking status</string>
   <string name="program_booking_book_filter_not_booked">Not booked</string>
@@ -771,8 +771,8 @@ To activate your account, follow the
   <string name="rc_name">Remote</string>
   <string name="recover">Restore from Mi Cloud</string>
   <string name="recovering">Restoring…</string>
-  <string name="refreshing">Refreshing…</string>
-  <string name="refreshing_no_point">Refreshing…</string>
+  <string name="refreshing">"更新中…"</string>
+  <string name="refreshing_no_point">"更新中…"</string>
   <string name="refreshing_retry">"Couldn't load, try again"</string>
   <string name="release_to_refresh">"指を離して更新"</string>
   <string name="rematch">Pair again</string>

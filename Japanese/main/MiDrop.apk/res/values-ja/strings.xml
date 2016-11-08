@@ -45,7 +45,7 @@
   <string name="notif_send_progress">Sending to %1$s…</string>
   <string name="notif_send_success">Sent to %1$s</string>
   <string name="notif_send_success_multi">Sent to %1$d people</string>
-  <string name="receiver_accept">Accept</string>
+  <string name="receiver_accept">"受け取る"</string>
   <string name="receiver_apk_file_current">Receiving %2$d​ apps from %1$s</string>
   <string name="receiver_apk_file_num">%2$d​ apps from %1$s</string>
   <string name="receiver_audio_file_current">Receiving %2$d​ songs from %1$s​​</string>
@@ -57,7 +57,7 @@
   <string name="receiver_file_num">%2$d files from %1$s</string>
   <string name="receiver_in_progress_summary">Wait until current transfer is finished to send new files</string>
   <string name="receiver_in_progress_title">"送信中…"</string>
-  <string name="receiver_insufficient_storage">Not enough memory</string>
+  <string name="receiver_insufficient_storage">"十分な空き領域がありません"</string>
   <string name="receiver_insufficient_storage_cannot_send">"Can't send: not enough memory"</string>
   <string name="receiver_interrupt_summary">"ファイルの受信中はWi-Fiをオフにしないでください"</string>
   <string name="receiver_interrupt_summary_v21">"ファイルの受信中はWi-Fiホットスポットをオフにしないでください"</string>
@@ -65,7 +65,7 @@
   <string name="receiver_notification_turn_on_help">Turn on to find devices and send files.</string>
   <string name="receiver_pic_file_current">Receiving %2$d images from %1$s</string>
   <string name="receiver_pic_file_num">%2$d images from %1$s</string>
-  <string name="receiver_reject">Decline</string>
+  <string name="receiver_reject">"拒否する"</string>
   <string name="receiver_succeed_ok">OK</string>
   <string name="receiver_succeed_view">View file</string>
   <string name="receiver_transfer_interrupt">"Transfer interrupted, don't turn off WLAN hotspot during transfer"</string>

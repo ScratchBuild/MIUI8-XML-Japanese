@@ -5,7 +5,7 @@
   <string name="DOWNLOAD_UNIT_KB">KB</string>
   <string name="DOWNLOAD_UNIT_MB">MB</string>
   <string name="DOWNLOAD_UNIT_TB">TB</string>
-  <string name="Only_the_wifi">Only use Wi-Fi</string>
+  <string name="Only_the_wifi">"Wi-Fiのみ使用"</string>
   <string name="about">About</string>
   <string name="action_settings">"設定"</string>
   <string name="ad_mark">AD</string>
@@ -24,7 +24,7 @@
   <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei Account</string>
   <string name="auth_fail">"Couldn't get authorization"</string>
-  <string name="bind_xunlei_account">Add Xunlei Account</string>
+  <string name="bind_xunlei_account">"Xunlei Accountを追加"</string>
   <string name="bt_download">"ダウンロード"</string>
   <string name="bt_path_not_exit">"This path doesn't exist"</string>
   <string name="bt_restart_dialog_message">Restart all downloads in the BT folder?</string>
@@ -204,7 +204,7 @@ across all your devices with Xunlei"</string>
   <string name="notify_disabled_net_by_app">Internet access restricted</string>
   <string name="notify_not_support">"Such notifications aren't supported, update now"</string>
   <string name="notify_only_wifi_download">Waiting for Wi-Fi</string>
-  <string name="one_month">1 month</string>
+  <string name="one_month">"1ヶ月"</string>
   <string name="only_support_torrent">Only torrent files are supported</string>
   <string name="open">"開く"</string>
   <string name="open_download">"開く"</string>
@@ -261,7 +261,7 @@ across all your devices with Xunlei"</string>
   <string name="resume_download">Resume</string>
   <string name="retry_after_network_available">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="retry_download">"再試行"</string>
-  <string name="revert_default">Restore default settings</string>
+  <string name="revert_default">"デフォルト設定を復元"</string>
   <string name="revert_download_path">Use default downloads location?</string>
   <string name="save_path">"Save downloads to: "</string>
   <string name="save_text">Save ￥%1$s</string>
@@ -347,7 +347,7 @@ across all your devices with Xunlei"</string>
   <string name="sniff_terms_msg_bold_new">Terms of Service</string>
   <string name="sniff_terms_reject">Decline</string>
   <string name="sniff_terms_title">Attention</string>
-  <string name="sniff_text_sniff_next_page">Continue &gt;</string>
+  <string name="sniff_text_sniff_next_page">"続行 &gt;"</string>
   <string name="sniff_vip_tip_speedup">You can try speed boost once for free</string>
   <string name="sniff_vip_tip_vip">Xunlei can keep boosting your speed</string>
   <string name="start_analysis">Check now</string>
@@ -385,7 +385,7 @@ across all your devices with Xunlei"</string>
   <string name="turn_off_xunlei_tips">Xunlei download acceleration is off</string>
   <string name="turn_off_xunlei_title">Turn off Xunlei</string>
   <string name="unbind_xunlei_2_success">Xunlei Account added</string>
-  <string name="unbind_xunlei_success">Signed out of Xunlei Account</string>
+  <string name="unbind_xunlei_success">"Xunlei Accountからログアウトしました"</string>
   <string name="unit_cn_hundredmillions">00M</string>
   <string name="unit_cn_tenthousands">0K</string>
   <string name="unit_en_billion">B</string>
@@ -421,14 +421,14 @@ Accelerate downloads across all your devices."</string>
   <string name="xl_privilege_support">Multiple devices</string>
   <string name="xl_privilege_title">Xunlei membership</string>
   <string name="xl_validate_title">Valid until:  </string>
-  <string name="xl_vip_annual">Year: %1$s Mi Credits × 12</string>
+  <string name="xl_vip_annual">"1年: %1$s Mi Credits × 12"</string>
   <string name="xl_vip_combo">Plans</string>
-  <string name="xl_vip_month">Month: %1$s Mi Credits × 1</string>
+  <string name="xl_vip_month">"1ヶ月: %1$s Mi Credits × 1"</string>
   <string name="xl_vip_open">Purchase</string>
   <string name="xl_vip_overdue">Expired</string>
   <string name="xl_vip_pay">Extend</string>
-  <string name="xl_vip_quarter">Quarter: %1$s Mi Credits × 3</string>
-  <string name="xl_vip_semiannual">6 months: %1$s Mi Credits × 6</string>
+  <string name="xl_vip_quarter">"3ヶ月: %1$s Mi Credits × 3"</string>
+  <string name="xl_vip_semiannual">"6ヶ月: %1$s Mi Credits × 6"</string>
   <string name="xunlei_account_has_unbind_message">Xunlei Account removed</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
@@ -436,8 +436,8 @@ Accelerate downloads across all your devices."</string>
   <string name="xunlei_close_tips_content">Xunlei download accelerator.</string>
   <string name="xunlei_close_tips_title">Accelerate your downloads</string>
   <string name="xunlei_gaosu">Xunlei download accelerator</string>
-  <string name="xunlei_member_annual_fee">1 year</string>
-  <string name="xunlei_member_one_month">1 month</string>
+  <string name="xunlei_member_annual_fee">"1年"</string>
+  <string name="xunlei_member_one_month">"1ヶ月"</string>
   <string name="xunlei_open_info">Use Xunlei Engine to open such links?</string>
   <string name="xunlei_speed_service">Xunlei download accelerator</string>
   <string name="xunlei_switch">Xunlei download engine</string>

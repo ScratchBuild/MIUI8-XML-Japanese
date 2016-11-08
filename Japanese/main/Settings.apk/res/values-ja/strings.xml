@@ -2398,10 +2398,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_apn_settings">設定/SIMカードとモバイルネットワーク/アクセスポイント名</string>
   <string name="path_app_invisible">設定/その他の設定/Beta features/App Invisible</string>
   <string name="path_app_permission">設定/パーミッション</string>
-  <string name="path_app_switch_key">設定/その他の設定/ボタン/Recents</string>
+  <string name="path_app_switch_key">設定/その他の設定/ボタン/履歴</string>
   <string name="path_application_lock">設定/アプリのロック</string>
   <string name="path_applications_settings">設定/Installed apps</string>
-  <string name="path_back_key">設定/その他の設定/ボタン/Back</string>
+  <string name="path_back_key">設定/その他の設定/ボタン/戻る</string>
   <string name="path_battery_indicator_settings">設定/電池とパフォーマンス/Battery indicator</string>
   <string name="path_battery_settings">設定/電池とパフォーマンス</string>
   <string name="path_bluetooth_device_name">設定/Bluetooth/端末名</string>
@@ -2433,21 +2433,21 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_do_not_disturb_settings">設定/Do not disturb</string>
   <string name="path_dtmf_tone_enable_title">設定/音とバイブレーション/ダイヤルパッドの操作音</string>
   <string name="path_edge_handgrip">設定/エッジコントロール</string>
-  <string name="path_equalizer">設定/音とバイブレーション/Audio settings/イコライザー</string>
+  <string name="path_equalizer">設定/音とバイブレーション/オーディオ設定/イコライザー</string>
   <string name="path_fluency_mode">設定/電池とパフォーマンス/システムアニメーション</string>
   <string name="path_font_settings">設定/ディスプレイ/システムフォント</string>
   <string name="path_force_touch">設定/その他の設定/3D Touch</string>
   <string name="path_gesture_wakeup_title">設定/ディスプレイ/Double tap screen to wake</string>
   <string name="path_gps_settings">設定/その他の設定/プライバシー/Location</string>
   <string name="path_handy_mode_settings">設定/その他の設定/片手操作モード</string>
-  <string name="path_home_key">設定/その他の設定/ボタン/Home</string>
+  <string name="path_home_key">設定/その他の設定/ボタン/ホーム</string>
   <string name="path_key_settings">設定/その他の設定/ボタン</string>
   <string name="path_lab_functions_title">設定/その他の設定/Beta features</string>
   <string name="path_language_picker_title">設定/その他の設定/言語と入力/言語</string>
   <string name="path_language_settings">設定/その他の設定/言語と入力</string>
   <string name="path_led_settings">設定/その他の設定/Notification light</string>
   <string name="path_legal_information">設定/端末情報/法的情報</string>
-  <string name="path_legal_user_agreement">設定/端末情報/法的情報/Terms of Service</string>
+  <string name="path_legal_user_agreement">設定/端末情報/法的情報/利用規約</string>
   <string name="path_local_auto_backup_section_title">設定/その他の設定/バックアップとリセット/Auto backups</string>
   <string name="path_local_backup_section_title">設定/その他の設定/バックアップとリセット/Local backups</string>
   <string name="path_location_settings_title">設定/その他の設定/プライバシー/Location</string>
@@ -2455,11 +2455,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_manage_device_admin">設定/その他の設定/プライバシー/デバイス管理者</string>
   <string name="path_manage_notification_access_title">設定/その他の設定/プライバシー/Notification access</string>
   <string name="path_master_clear_title">設定/その他の設定/バックアップとリセット/Factory data reset</string>
-  <string name="path_music_audio_effect_optimize">設定/音とバイブレーション/Audio settings</string>
-  <string name="path_music_headset_calibrate">設定/音とバイブレーション/Audio settings/ボタンの割り当て</string>
-  <string name="path_music_headset_mode_settings">設定/音とバイブレーション/Audio settings/Headphone remote buttons</string>
+  <string name="path_music_audio_effect_optimize">設定/音とバイブレーション/オーディオ設定</string>
+  <string name="path_music_headset_calibrate">設定/音とバイブレーション/オーディオ設定/ボタンの割り当て</string>
+  <string name="path_music_headset_mode_settings">設定/音とバイブレーション/オーディオ設定/Headphone remote buttons</string>
   <string name="path_music_headset_settings">設定/その他の設定/ヘッドフォンとオーディオエフェクト</string>
-  <string name="path_music_mi_effect_title">設定/音とバイブレーション/Audio settings/Mi Sound Enhancer</string>
+  <string name="path_music_mi_effect_title">設定/音とバイブレーション/オーディオ設定/Mi Sound Enhancer</string>
   <string name="path_network_settings">設定/SIMカードとモバイルネットワーク</string>
   <string name="path_networks_title">設定/SIMカードとモバイルネットワーク/モバイルネットワーク</string>
   <string name="path_nfc_se_route_title">設定/More/Secure element position</string>
@@ -2510,7 +2510,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_status_bar_settings_style">設定/通知とステータスバー/通知とトグルの配置</string>
   <string name="path_status_bar_settings_toggle_collapse_after_clicked">設定/通知とステータスバー/タップ後に折り畳む</string>
   <string name="path_status_sim">設定/端末情報/SIM status</string>
-  <string name="path_storage_settings">設定/ストレージ/Cleaner</string>
+  <string name="path_storage_settings">設定/ストレージ/クリーナー</string>
   <string name="path_sync_settings">設定/同期</string>
   <string name="path_system_app_settings">設定/システムアプリ</string>
   <string name="path_tether_restriction_nfc_enable_title">設定/More/NFC</string>
@@ -3682,7 +3682,7 @@ PINが正しくない可能性があります。"</string>
 
 "<b>"フォーマットを行うと、現在^1に保存されているすべてのデータが消去されます。"</b>"データの喪失を防ぐため、バックアップを取ることを検討してください。"</string>
   <string name="storage_wizard_format_confirm_public_title">外部ストレージとしてフォーマット</string>
-  <string name="storage_wizard_format_confirm_third_body">The ^1 is being formatted</string>
+  <string name="storage_wizard_format_confirm_third_body">^1はフォーマットされています</string>
   <string name="storage_wizard_format_confirm_title">内部ストレージとしてフォーマット</string>
   <string name="storage_wizard_format_progress_body">フォーマット中は^1を取り外さないでください。</string>
   <string name="storage_wizard_format_progress_title">^1をフォーマット中…</string>
@@ -4653,8 +4653,8 @@ PINが正しくない可能性があります。"</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">ウィンドウアニメスケール</string>
   <string name="wireless_networks_settings_title">無線とネットワーク</string>
-  <string name="wireless_off">Off</string>
-  <string name="wireless_on">On</string>
+  <string name="wireless_off">オフ</string>
+  <string name="wireless_on">オン</string>
   <string name="wizard_back">戻る</string>
   <string name="wizard_finish">終了</string>
   <string name="wizard_next">次へ</string>

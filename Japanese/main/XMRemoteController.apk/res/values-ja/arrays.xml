@@ -12,13 +12,13 @@
         <item>No. Currently you can use Mi 4, Mi 4c, and Redmi Note 2 as IR remotes.</item>
     </string-array>
     <string-array name="epg_week_tab">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>日</item>
+        <item>月</item>
+        <item>火</item>
+        <item>水</item>
+        <item>木</item>
+        <item>金</item>
+        <item>土</item>
     </string-array>
     <string-array name="question">
         <item>Why does my phone keep searching for wireless devices?</item>
@@ -26,9 +26,9 @@
         <item>Can I use Mi 3, Mi 2, and Redmi as an IR remote?</item>
     </string-array>
     <string-array name="assistant_tab">
-        <item>Video</item>
-        <item>Screenshots</item>
-        <item>App</item>
+        <item>ビデオ</item>
+        <item>スクリーンショット</item>
+        <item>アプリ</item>
     </string-array>
     <string-array name="epg_channel_tab">
         <item>Complete</item>

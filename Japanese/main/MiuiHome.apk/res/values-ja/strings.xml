@@ -91,7 +91,7 @@
   <string name="failed_to_drop">"移動できません"</string>
   <string name="failed_to_drop_widget_invalid">"ウィジェットが無効です"</string>
   <string name="failed_to_drop_widget_nospace">"ホーム画面に空きスペースがありません"</string>
-  <string name="failed_to_load_image">"Can't load image"</string>
+  <string name="failed_to_load_image">"画像を読み込めませんでした"</string>
   <string name="folder_name">"フォルダ"</string>
   <string name="frame_load_failed">"フレームが読み込めません"</string>
   <string name="free_style_apps_title">"アプリを選択"</string>
@@ -136,9 +136,9 @@
   <string name="gadget_weather_low_temp">Low temp</string>
   <string name="gadget_weather_theme_type">Gadget type</string>
   <string name="gadget_weather_time_format">"M月d日 EEEE"</string>
-  <string name="gadget_weather_title">Weather</string>
-  <string name="gadget_weather_title_14">Weather</string>
-  <string name="gadget_weather_title_24">Weather</string>
+  <string name="gadget_weather_title">"天気"</string>
+  <string name="gadget_weather_title_14">"天気"</string>
+  <string name="gadget_weather_title_24">"天気"</string>
   <string name="global_search_hint">"検索"</string>
   <string name="group_folder">New folder</string>
   <string name="group_live_folders">Folders</string>

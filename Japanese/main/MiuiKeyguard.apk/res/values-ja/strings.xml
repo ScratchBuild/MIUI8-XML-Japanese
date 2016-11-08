@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_enter_lock_wallpaper">Tap to open Wallpaper Carousel</string>
+  <string name="accessibility_enter_lock_wallpaper">"Wallpaper Carouselを開くにはタップ"</string>
   <string name="click_to_enter_text">"表示するにはタップ"</string>
   <string name="confirm_pin_msg">"もう一度PINコードを入力してください"</string>
   <string name="custom_lock_wallpaper_enter">Enter</string>
@@ -41,16 +41,16 @@
   <string name="lock_screen_date_12">"M月d日 EEEE"</string>
   <string name="lock_wallpaper_enter">Enter</string>
   <string name="lock_wallpaper_learn_more">More</string>
-  <string name="lockscreen_access_pattern_cell_added">Cell added</string>
-  <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
-  <string name="lockscreen_access_pattern_detected">Pattern completed</string>
-  <string name="lockscreen_access_pattern_start">Pattern started</string>
+  <string name="lockscreen_access_pattern_cell_added">"セルを追加しました"</string>
+  <string name="lockscreen_access_pattern_cleared">"パターンを消去しました"</string>
+  <string name="lockscreen_access_pattern_detected">"パターンの描画が完了しました"</string>
+  <string name="lockscreen_access_pattern_start">"パターンの描画を開始しました"</string>
   <string name="lockscreen_charging_msg">"充電中"</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly entered your password %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Mi Account sign-in.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"端末のロック解除に%d回失敗しました。あと%d回失敗すると、端末は工場出荷状態にリセットされ、ユーザーのデータはすべて失われます。"</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"ロック解除パターンの入力を%d回間違えました。あと%d回間違えると、携帯端末のロック解除にGoogleへのログインが必要になります。
 
- Try again in %d seconds."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
+%d秒後にもう一度お試しください。"</string>
+  <string name="lockscreen_failed_attempts_now_wiping">"端末のロック解除を%d回失敗しました。端末を工場出荷状態にリセットします。"</string>
   <string name="lockscreen_glogin_checking_password">"確認中…"</string>
   <string name="lockscreen_glogin_invalid_input">"ユーザー名かパスワードが無効です。"</string>
   <string name="lockscreen_glogin_password_hint">"パスワード"</string>

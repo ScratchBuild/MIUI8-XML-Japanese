@@ -19,7 +19,7 @@
   <string name="add_automatically_alert_title">Add photos automatically</string>
   <string name="add_sharer">Add member</string>
   <string name="add_to_album">"アルバムに追加"</string>
-  <string name="add_to_album_bulk_result">Error (%d)</string>
+  <string name="add_to_album_bulk_result">"エラー (%d)"</string>
   <string name="add_to_album_exist">This photo already exists</string>
   <string name="add_to_album_failed">"Couldn't add to album"</string>
   <string name="add_to_album_success">Added to album</string>
@@ -224,7 +224,7 @@
   <string name="delete_third_party_photo">"この写真を削除しますか？"</string>
   <string name="delete_third_party_video">"この動画を削除しますか？"</string>
   <string name="delete_to_trash_tips">You can view recently deleted photos in Settings > "ゴミ箱"</string>
-  <string name="deny">Reject</string>
+  <string name="deny">"拒否"</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">"詳細情報"</string>
@@ -424,7 +424,7 @@ Take more photos of your friends!"</string>
   <string name="not_remind_any_more">"二度と表示しない"</string>
   <string name="open">Turn on</string>
   <string name="open_public_message">Create URL to share with your friends</string>
-  <string name="open_public_title">Share</string>
+  <string name="open_public_title">"共有"</string>
   <string name="operation_add_album">"アルバムに追加"</string>
   <string name="operation_add_picture">Add items</string>
   <string name="operation_add_secret">Hide</string>
@@ -450,7 +450,7 @@ Take more photos of your friends!"</string>
   <string name="operation_send">"送る"</string>
   <string name="operation_set_contact_photo">"連絡先の写真として設定"</string>
   <string name="operation_set_wallpaper">"壁紙として設定"</string>
-  <string name="operation_share">Share</string>
+  <string name="operation_share">"共有"</string>
   <string name="operation_show_in_photos_tab">Show in Photos</string>
   <string name="operation_show_on_map">Show on map</string>
   <string name="operation_slide_show">"スライドショーを開始"</string>
