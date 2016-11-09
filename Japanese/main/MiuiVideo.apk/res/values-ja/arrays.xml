@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_list_entries">
+        <item>Test server</item>
+        <item>Online server</item>
+    </string-array>
+    <string-array name="version_list_entries">
+        <item>安定板</item>
+        <item>開発版</item>
+    </string-array>
+</resources>
