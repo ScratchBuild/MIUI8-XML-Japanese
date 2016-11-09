@@ -16,7 +16,7 @@
   <string name="bugreport_feedback_from">From: %s</string>
   <string name="bugreport_tool_log">"バグレポートを作成"</string>
   <string name="bugreport_tool_log_toast">Log saved to %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">"バグレポートを作成中 (数分かかります)"</string>
   <string name="cta_cancel">"キャンセル"</string>
   <string name="cta_confirm">OK</string>
   <string name="cta_dialog_content">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
@@ -104,7 +104,7 @@
   <string name="max_error">Your %1$s should be shorter.</string>
   <string name="menu_copy">"コピー"</string>
   <string name="message_label">"メッセージ"</string>
-  <string name="michat_app_name">Online support</string>
+  <string name="michat_app_name">"オンラインサポート"</string>
   <string name="michat_artificial_customer_phone">4001005678</string>
   <string name="michat_artificial_customer_phone_dial_error">"If you can't call the 400 hotline, dial %1$s using a different phone"</string>
   <string name="michat_artificial_customer_text">Support personnel</string>
@@ -136,7 +136,7 @@
   <string name="michat_kefu_welcome">Welcome to Xiaomi online support!</string>
   <string name="michat_lose_artificial">A network error occurred, you left the chat</string>
   <string name="michat_menu_copy_text">"コピー"</string>
-  <string name="michat_message_copy_info">Copied to clipboard</string>
+  <string name="michat_message_copy_info">"クリップボードにコピーしました"</string>
   <string name="michat_message_error_network">"ネットワークに接続できませんでした"</string>
   <string name="michat_message_join_again">"Glad you're back!"</string>
   <string name="michat_message_robot_welcome">"My name is Mi Bunny. I'm an online support robot."</string>
@@ -194,7 +194,7 @@
   <string name="network_unavailable_dialog_title">"ネットワークに接続できませんでした"</string>
   <string name="non_system_app_select">Downloaded apps</string>
   <string name="nothing">--</string>
-  <string name="packaging_dialog_content">Creating report…</string>
+  <string name="packaging_dialog_content">"レポートを作成中…"</string>
   <string name="pic_not_exist">"This image doesn't exist"</string>
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Your feedback along with error logs will be sent to Mi's servers."</string>
@@ -215,7 +215,7 @@
   <string name="second_position">3#</string>
   <string name="section_description">Description</string>
   <string name="section_err_type">Bug type</string>
-  <string name="section_screenshot">Screenshot</string>
+  <string name="section_screenshot">"スクリーンショット"</string>
   <string name="submit_dialog_cancel">"キャンセル"</string>
   <string name="submit_dialog_confirm">"送信"</string>
   <string name="submit_dialog_content">Your feedback along with attachments and logs will be sent to MIUI’s servers. It may contain personal information.</string>

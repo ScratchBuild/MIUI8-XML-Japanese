@@ -38,7 +38,7 @@
   <string name="app_name">JunkEngine</string>
   <string name="apps_sort_type_item_size">Size</string>
   <string name="apps_sort_type_item_time">Frequently used</string>
-  <string name="apps_sort_type_title">Sort</string>
+  <string name="apps_sort_type_title">"並べ替え"</string>
   <string name="authorize_detail">Blocked %d apps</string>
   <string name="auto_clean_switch_off">Off</string>
   <string name="auto_clean_switch_on">On</string>
@@ -162,7 +162,7 @@
   <string name="dialog_title_esc_cleanmaster">Exit Cleaner</string>
   <string name="dialog_title_load_cleanup_engine_error">Something went wrong</string>
   <string name="dialog_title_stop_scan">Stop scanning</string>
-  <string name="dialog_title_uninstall_apps">Uninstall</string>
+  <string name="dialog_title_uninstall_apps">"アンインストール"</string>
   <string name="download">"ダウンロード"</string>
   <string name="downloading">"ダウンロード中"</string>
   <string name="empty">" "</string>
@@ -339,7 +339,7 @@
   <string name="low_memory_clean_dialog_title">"十分な空き領域がありません"</string>
   <string name="low_memory_warning_dialog_cancel_button">"キャンセル"</string>
   <string name="low_memory_warning_dialog_msg">Free up space on your device to continue</string>
-  <string name="low_memory_warning_dialog_ok_button">Clear</string>
+  <string name="low_memory_warning_dialog_ok_button">"消去"</string>
   <string name="low_memory_warning_dialog_title">"十分な空き領域がありません"</string>
   <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Clean up</string>
@@ -360,7 +360,7 @@
   <string name="net_assistant_title">Used %s of mobile data this month</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="news_change">Change</string>
-  <string name="no_network">"Couldn't connect to network, try again later"</string>
+  <string name="no_network">"ネットワークに接続できませんでした、try again later"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="notification_summary_after_auto_cleanup">Cleaned %s.</string>
   <string name="notification_summary_of_garbage_cleanup">Your trash is over %s.</string>
@@ -500,7 +500,7 @@
   <string name="toast_selecte_group_restore_succeed">Photos restored</string>
   <string name="toast_uninstall_success">Uninstall complete</string>
   <string name="total_clean">Total cleaned: %s</string>
-  <string name="total_clean_text">Clear</string>
+  <string name="total_clean_text">"消去"</string>
   <string name="traffic_top">TOP 5 data consuming apps</string>
   <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">"ウイルススキャン"</string>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cache_sort_type">
-        <item>Size</item>
-        <item>Name</item>
+        <item>サイズ順</item>
+        <item>名前順</item>
     </string-array>
     <string-array name="large_file_sort_type">
-        <item>Size</item>
-        <item>Name</item>
+        <item>サイズ順</item>
+        <item>名前順</item>
     </string-array>
     <string-array name="installed_app_sort_type">
         <item>Most used</item>
@@ -38,24 +38,24 @@
     </string-array>
     <string-array name="video_clean_menu">
         <item>Clean up this file</item>
-        <item>Open</item>
+        <item>開く</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Clean up</item>
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Clean up</item>
-        <item>Install this app</item>
+        <item>このアプリをインストール</item>
         <item>View in folder</item>
     </string-array>
     <string-array name="long_add_menu">
-        <item>Add to exceptions</item>
+        <item>例外に追加</item>
     </string-array>
     <string-array name="long_add_app_menu">
-        <item>Add app to exceptions</item>
+        <item>アプリを例外に追加</item>
     </string-array>
     <string-array name="app_clean_menu">
-        <item>Uninstall</item>
+        <item>アンインストール</item>
     </string-array>
     <string-array name="auto_alert_apps_time">
         <item>Every 7 days</item>

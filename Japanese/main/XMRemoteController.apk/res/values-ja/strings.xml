@@ -522,14 +522,14 @@ Then answer the question"</string>
   <string name="my_notification">Notifications</string>
   <string name="my_room">My room</string>
   <string name="my_room_underline">My room</string>
-  <string name="my_setting">Settings</string>
+  <string name="my_setting">"設定"</string>
   <string name="network_diagnosis">Test network</string>
   <string name="network_no_connection">"ネットワークに接続できません。ネットワーク接続を確認してもう一度やり直してください。"</string>
   <string name="network_ok">No problems detected</string>
   <string name="network_unstable">· You have a stable connection</string>
   <string name="next_remote">Next remote</string>
-  <string name="next_step">Next</string>
-  <string name="no">No</string>
+  <string name="next_step">"次へ"</string>
+  <string name="no">"いいえ"</string>
   <string name="no_backup">Nothing to back up</string>
   <string name="no_brand_service">Brand currently not available</string>
   <string name="no_current_play">"Now playing: - "</string>
@@ -537,7 +537,7 @@ Then answer the question"</string>
   <string name="no_introduction">No description</string>
   <string name="no_ir_other_support">You can still use your device to control your Mi TV or Mi Box over Wi-Fi.</string>
   <string name="no_ir_support">No IR devices found</string>
-  <string name="no_network">"· Couldn't connect to the network"</string>
+  <string name="no_network">"· ネットワークに接続できませんでした"</string>
   <string name="no_program">No content here</string>
   <string name="no_qq">Install QQ first</string>
   <string name="no_save_brand_service">Add this remote again</string>
@@ -789,7 +789,7 @@ To activate your account, follow the
   <string name="room_guide_tips">"Control multiple devices
  
 directly from your Lock screen"</string>
-  <string name="save">Save</string>
+  <string name="save">"保存"</string>
   <string name="save_share_tips">Like the app? You can rate it.</string>
   <string name="save_share_title">Save the remote on this device?</string>
   <string name="scaning">Searching…</string>
@@ -823,7 +823,7 @@ directly from your Lock screen"</string>
   <string name="screen_shot_unselect">unselect</string>
   <string name="screen_shot_wx_friend">WeChat friends</string>
   <string name="screen_shot_wx_friend_circle">Circle of friends</string>
-  <string name="screenshot">Screenshot</string>
+  <string name="screenshot">"スクリーンショット"</string>
   <string name="screenshot_failed">"Couldn't capture screen"</string>
   <string name="screenshot_failed_and_check_connection">"Couldn't capture screen, check connected devices"</string>
   <string name="screenshot_not_support_adb_devices">Screenshots not supported for this device</string>
@@ -914,10 +914,10 @@ directly from your Lock screen"</string>
   <string name="show_all_episodes">All episodes</string>
   <string name="show_remote_when_lock_screen">Show controls on Lock screen</string>
   <string name="similar">Related</string>
-  <string name="skip">Skip</string>
+  <string name="skip">"スキップ"</string>
   <string name="sleep">Sleep</string>
   <string name="somthing_wrong">Having problems?</string>
-  <string name="sorry">Error</string>
+  <string name="sorry">"エラー"</string>
   <string name="speech_init_failed">Tap to install iFly voice engine</string>
   <string name="speed_up_channel_switch">Switch channels on some set-top boxes faster</string>
   <string name="splash_add_device_des">Start by adding some devices</string>
@@ -959,7 +959,7 @@ directly from your Lock screen"</string>
   <string name="to_qq_maintext">Join our QQ group and send us feedback</string>
   <string name="to_qq_subtext">QQ group: 532652329</string>
   <string name="today">"今日"</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">"明日"</string>
   <string name="tune_from_first_channel">Tune from first channel</string>
   <string name="turn_off">Turn off</string>
   <string name="turn_off_timeing_time_tip">AC will be turned off at %1$s</string>
@@ -973,7 +973,7 @@ directly from your Lock screen"</string>
   <string name="udt_conn_error">Device not connected</string>
   <string name="udt_timeout_error">Timeout. Please check your network connection</string>
   <string name="udt_version_error">Version error，please update to the latest version</string>
-  <string name="unknown">Unknown</string>
+  <string name="unknown">"不明"</string>
   <string name="unkown_device_input_hint">Enter device model</string>
   <string name="unkown_device_main">"Can't pair this device."</string>
   <string name="unkown_device_sub">Send us details about this device so that we can support it later on</string>

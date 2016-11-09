@@ -187,7 +187,7 @@
   <string name="file_width_height">"サイズ:"</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="force_touch_new_message_title">新規メッセージ</string>
-  <string name="forward_from">"転送 from:"</string>
+  <string name="forward_from">"転送元:"</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">%1$sからメッセージを%2$sへアップロードしますか？</string>
   <string name="found_old_messages_title">他のSIMカードからメッセージをアップロードしますか？</string>

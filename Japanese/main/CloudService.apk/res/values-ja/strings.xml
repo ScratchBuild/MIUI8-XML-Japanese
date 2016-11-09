@@ -46,7 +46,7 @@ Last backed up on %2$s"</string>
   <string name="cloud_back_up_title">Back up device</string>
   <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
   <string name="cloud_find_device">Find Device</string>
-  <string name="cloud_restore_title">Restore from backup</string>
+  <string name="cloud_restore_title">バックアップから復元</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
@@ -116,7 +116,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">About RMB 143 per year</string>
   <string name="header_cloud_backup_settings">"バックアップと復元"</string>
-  <string name="header_cloud_restore_summary">Reinstall apps and restore Home screen layout and system settings from a backup in Mi Cloud</string>
+  <string name="header_cloud_restore_summary">"Mi Cloudのバックアップからアプリの再インストール、ホーム画面のレイアウト、システム設定を復元します"</string>
   <string name="header_data_and_synchronization">データと同期</string>
   <string name="header_find_device_settings">Find device</string>
   <string name="i_know">OK</string>
@@ -180,7 +180,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_depend_wifi_title">Need WLAN</string>
   <string name="micloud_detail_do_not_sync">同期しない</string>
   <string name="micloud_detail_download_syncing">ダウンロード中 %s</string>
-  <string name="micloud_detail_fail">"Can't sync"</string>
+  <string name="micloud_detail_fail">"同期できません"</string>
   <string name="micloud_detail_force_sync">今すぐ同期</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_lastest_with_off">Synced</string>
@@ -276,7 +276,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_syncing">同期中…</string>
   <string name="micloud_main_title_master_sync_off">Auto-sync is off</string>
   <string name="micloud_main_title_not_synced">Not synced</string>
-  <string name="micloud_main_title_sync_fail">"Can't sync"</string>
+  <string name="micloud_main_title_sync_fail">"同期できません"</string>
   <string name="micloud_main_title_sync_off">Sync off</string>
   <string name="micloud_main_title_sync_on_wifi">Use WLAN</string>
   <string name="micloud_main_update_space">Get more storage space.</string>
@@ -306,16 +306,16 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_content_sync_finish">"アカウント"</string>
   <string name="micloud_notif_content_sync_not_finish">"詳細"</string>
   <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
-  <string name="micloud_notif_title_battery_low">"Can't sync with Mi Cloud"</string>
+  <string name="micloud_notif_title_battery_low">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_clipboard_push">Content copied to clipboard</string>
   <string name="micloud_notif_title_depend_wifi">Items waiting to sync: %d</string>
-  <string name="micloud_notif_title_master_depend_wifi">"Can't sync with Mi Cloud"</string>
-  <string name="micloud_notif_title_memory_low">"Can't sync with Mi Cloud"</string>
-  <string name="micloud_notif_title_multi_user_error">"Can't sync with Mi Cloud"</string>
+  <string name="micloud_notif_title_master_depend_wifi">"Mi Cloudと同期できません"</string>
+  <string name="micloud_notif_title_memory_low">"Mi Cloudと同期できません"</string>
+  <string name="micloud_notif_title_multi_user_error">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_sync_finish">Synced</string>
   <string name="micloud_notif_title_sync_not_finish">"Some items haven't been synced"</string>
   <string name="micloud_notif_title_sync_progress">同期中</string>
-  <string name="micloud_notif_title_sync_with_off">Sync with Mi Cloud</string>
+  <string name="micloud_notif_title_sync_with_off">"Mi Cloudと同期"</string>
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">続行</string>
   <string name="micloud_request_permission_confirm">Got it</string>
@@ -344,15 +344,15 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_storage_expires_soon_title">Mi Cloud storage expires soon</string>
   <string name="micloud_storage_expires_very_soon_title">Mi Cloud storage expires soon</string>
   <string name="micloud_storage_full">Cloud is full</string>
-  <string name="micloud_storage_usage" formatted="false">Used %s/Total space %s</string>
+  <string name="micloud_storage_usage" formatted="false">"使用 %s/合計 %s"</string>
   <string name="micloud_sync_alert_dialog_message">Sync your photos, contacts, notes, and more across all your devices.</string>
   <string name="micloud_sync_alert_dialog_negative">キャンセル</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Mi Cloudを使用</string>
   <string name="micloud_sync_off">Sync with Mi Cloud is off</string>
-  <string name="micloud_title_dspt" formatted="false">"%s total
- %s used | %s remaining"</string>
-  <string name="micloud_title_dspt_remain">%s remaining</string>
+  <string name="micloud_title_dspt" formatted="false">"%s 合計
+ %s 使用 | %s 残り"</string>
+  <string name="micloud_title_dspt_remain">"%s 残り"</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit"</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
@@ -393,7 +393,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_voip_dspt">Mi Voice</string>
   <string name="network_unconnected">ネットワークに接続していません</string>
   <string name="next">"次へ"</string>
-  <string name="noRemind">"Don't remind me"</string>
+  <string name="noRemind">"二度と表示しない"</string>
   <string name="no_sim">"SIMカードが検出できません"</string>
   <string name="one_sync_item_close">%d is off</string>
   <string name="open_micloud_sync">Turn on sync with Mi Cloud</string>
@@ -411,7 +411,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="pref_title_sync_contacts_title">Sync contacts</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Only use WLAN to sync photos</string>
   <string name="privacy_policy">プライバシーポリシー</string>
-  <string name="recommend_open_all_sync">Sync all items</string>
+  <string name="recommend_open_all_sync">"すべてのアイテムを同期"</string>
   <string name="remind_later">後で</string>
   <string name="restoreSync">今すぐ同期</string>
   <string name="search_cloudbackup_pref">Cloud Backup</string>
@@ -426,11 +426,11 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="settings_backup_title">Back up system settings</string>
   <string name="share_cancel">共有をキャンセルしました</string>
   <string name="share_failed">共有できませんでした</string>
-  <string name="share_miliao_not_installed">Mi Talk is not installed.</string>
+  <string name="share_miliao_not_installed">"Mi Talkはインストールされていません。"</string>
   <string name="share_success">Shared</string>
-  <string name="share_weibo_not_installed">Weibo is not installed.</string>
-  <string name="share_weixin_not_installed">WeChat is not installed.</string>
-  <string name="short_cut_desc">Add Mi Cloud icon to Home screen?</string>
+  <string name="share_weibo_not_installed">"Weiboはインストールされていません。"</string>
+  <string name="share_weixin_not_installed">"WeChatはインストールされていません。"</string>
+  <string name="short_cut_desc">"ホーム画面にMi Cloudのアイコンを追加しますか？"</string>
   <string name="sina_share_fail">Failed to send</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
   <string name="sina_share_pendding">Sending…</string>
@@ -441,13 +441,13 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="some_sync_item_close">%d are off</string>
   <string name="soundrecorder_sync_only_in_wifi">Only use WLAN to sync</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
-  <string name="soundrecorder_sync_records">Sync with Mi Cloud</string>
+  <string name="soundrecorder_sync_records">"Mi Cloudと同期"</string>
   <string name="start_micloud">開始</string>
   <string name="storage">ストレージ</string>
   <string name="sub_alert_notif_content">Turn on sync with Mi Cloud to back up your data</string>
   <string name="sub_alert_notif_dspt_add">Items waiting to sync: %s</string>
   <string name="sub_alert_notif_dspt_no">Synced</string>
-  <string name="sub_alert_notif_title">Sync with Mi Cloud</string>
+  <string name="sub_alert_notif_title">"Mi Cloudと同期"</string>
   <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're connected to a WLAN network"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
   <string name="success_upgraded_space">%s added</string>

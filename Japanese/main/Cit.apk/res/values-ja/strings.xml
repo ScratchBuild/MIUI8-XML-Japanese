@@ -164,7 +164,7 @@ GPSを起動するには画面をタッチ…"</string>
   <string name="cit_headset_button_check_summary">When headphones are connected, press the buttons on the headphone remote (often located on the cord). The corresponding text on screen should turn green.</string>
   <string name="cit_headset_button_check_title">Headphone buttons</string>
   <string name="cit_headset_button_click">ヘッドセットのボタンを押してください</string>
-  <string name="cit_headset_button_current">Current button: %s</string>
+  <string name="cit_headset_button_current">現在のボタン: %s</string>
   <string name="cit_headset_button_fast_forward">早送り</string>
   <string name="cit_headset_button_next">次へ</string>
   <string name="cit_headset_button_pass">合格</string>

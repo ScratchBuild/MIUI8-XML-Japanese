@@ -347,8 +347,8 @@
   <string name="recommend_card_close_hint">"似たような購読のおすすめを減らす"</string>
   <string name="recommend_card_from">"購読から："</string>
   <string name="refresh">"更新"</string>
-  <string name="repeat_activity_label">Repeat</string>
-  <string name="repeat_custom_activity_label">Custom</string>
+  <string name="repeat_activity_label">"繰り返し"</string>
+  <string name="repeat_custom_activity_label">"カスタム"</string>
   <string name="repeat_custom_prompt">every %1$s on %2$s</string>
   <string name="repeat_custom_prompt_daily">every %1$s</string>
   <string name="repeat_custom_prompt_sentence">Event will repeat %1$s</string>

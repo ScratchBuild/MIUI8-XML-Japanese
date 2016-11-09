@@ -21,7 +21,7 @@
   <string name="action">"ログイン"</string>
   <string name="action_menu_account_not_login">"ログインしていません"</string>
   <string name="action_menu_account_not_login_hint">"Mi Cloudと同期するにはログインしてください"</string>
-  <string name="action_menu_bookshelf">Bookshelf</string>
+  <string name="action_menu_bookshelf">"本棚"</string>
   <string name="action_menu_current_version">Current version</string>
   <string name="action_menu_text_add_bookmark">Add bookmark</string>
   <string name="action_menu_text_bandwidth">Data saver</string>
@@ -56,7 +56,7 @@
   <string name="adblock_websites_settings_empyt_hint">"ブロックしたサイトはありません。"</string>
   <string name="adblock_websites_settings_title">"ブロック済みのサイト"</string>
   <string name="add_bookmark_group">Add group</string>
-  <string name="add_bookshelf_popup_text">Added to bookshelf</string>
+  <string name="add_bookshelf_popup_text">"本棚に追加"</string>
   <string name="add_favorites_to">Add favorites to</string>
   <string name="add_new_bookmark">"ブックマークを追加"</string>
   <string name="add_new_quicklink">Add to start page</string>
@@ -613,7 +613,7 @@ Pages you view won't appear in history."</string>
   <string name="quicklinks_most_visited">Add to start page</string>
   <string name="quicklinks_most_visited_subtitle">Show recently visited sites in new tab</string>
   <string name="quicklinks_most_visited_title">Add to start page</string>
-  <string name="readmode_already_add_to_bookshelf">Added to bookshelf</string>
+  <string name="readmode_already_add_to_bookshelf">"本棚に追加しました"</string>
   <string name="readmode_battery">Battery </string>
   <string name="readmode_login">"ログイン"</string>
   <string name="readmode_login_message">You need to sign in to read more.</string>

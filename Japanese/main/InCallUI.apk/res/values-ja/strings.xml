@@ -5,7 +5,7 @@
   <string name="antispam_local_marked">Local marked</string>
   <string name="antispam_marked_count">Reported by %1$d MIUI users</string>
   <string name="antispam_marked_title">%1$s</string>
-  <string name="antispam_notification_title">Unknown number</string>
+  <string name="antispam_notification_title">"不明な番号"</string>
   <string name="antispam_provider">Identified by %s</string>
   <string name="areacode_set_default">"デフォルトとして設定"</string>
   <string name="callFailed_cb_enabled">"You can't make outgoing calls while call barring is on."</string>
@@ -29,7 +29,7 @@
   <string name="callFailed_server_unreachable">"Can't reach server"</string>
   <string name="callFailed_simError">SIM card error</string>
   <string name="callFailed_timedOut">No response from server</string>
-  <string name="callFailed_unobtainable_number">Invalid number</string>
+  <string name="callFailed_unobtainable_number">"無効な番号"</string>
   <string name="callFailed_userBusy">Line busy</string>
   <string name="callUnanswered_forwarded">Forwarded unanswered call</string>
   <string name="call_button_dialer_text">Keyboard</string>
@@ -184,7 +184,7 @@
   <string name="not_activate_sim_card_content_title">Phone number isnt verified</string>
   <string name="not_activate_sim_card_content_with_operator">Verify SIM %1$s (%2$s) to make a call using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
   <string name="not_support_message">Cant call this number. Switching to regular call for which you might be charged by the carrier.</string>
-  <string name="not_support_title">This number isnt supported</string>
+  <string name="not_support_title">"この番号はサポートされていません"</string>
   <string name="notification_action_accept">"同意する"</string>
   <string name="notification_action_answer_video">"ビデオ"</string>
   <string name="notification_action_answer_voice">"音声"</string>
@@ -230,10 +230,10 @@
   <string name="private_num">"非通知"</string>
   <string name="respond_via_sms_custom_message">"カスタム返信を作成..."</string>
   <string name="select_audio_dialog_title">Select answering mode</string>
-  <string name="select_one_sim_title">Can only use SIM %1$d</string>
+  <string name="select_one_sim_title">"SIM %1$dのみ使用できます"</string>
   <string name="select_sim_hint">"Can't use SIM %2$d, while SIM %1$d is in use."</string>
   <string name="select_voice_call_sim">"SIMカードを選択"</string>
-  <string name="separate_from_conference">Separate call</string>
+  <string name="separate_from_conference">"通話を分割"</string>
   <string name="sip_call_not_support_record">"Can't record SIP calls"</string>
   <string name="suspect_info">"個人情報に注意してください。"</string>
   <string name="time_left_livetalk">"(%d秒)"</string>
