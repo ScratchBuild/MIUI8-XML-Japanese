@@ -35,7 +35,7 @@
   <string name="callrecordview_item_op_time_missed">Not connected</string>
   <string name="callrecordview_item_op_time_only_minutes">%d分</string>
   <string name="callrecordview_item_op_time_only_seconds">%d秒</string>
-  <string name="callrecordview_item_op_time_rejected">Rejected</string>
+  <string name="callrecordview_item_op_time_rejected">拒否</string>
   <string name="callrecordview_item_op_time_short_incoming">"着信: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"発信: "</string>
   <string name="check_network">ネットワーク設定</string>
@@ -45,7 +45,7 @@
   <string name="confirm_delete_call_log_title">通話履歴を削除しますか？</string>
   <string name="confirm_to_add_blacklist">この番号をブロックしますか？</string>
   <string name="confirm_to_remove_blacklist">この番号のブロックを解除しますか？</string>
-  <string name="confirm_to_send_to_desktop">Place %s on Home screen?</string>
+  <string name="confirm_to_send_to_desktop">ホーム画面に%sを設置しますか？</string>
   <string name="contact_detail_calllog_call_note_tips">Call notes</string>
   <string name="contact_detail_calllog_call_record_tips">Recorded calls</string>
   <string name="content_desc_send_sms">Send SMS</string>
@@ -221,7 +221,7 @@
   <string name="group_name_enroll"/>
   <string name="group_name_gallery">Gallery</string>
   <string name="group_name_management">Manage</string>
-  <string name="group_name_more">Other</string>
+  <string name="group_name_more">その他</string>
   <string name="group_name_service">Services</string>
   <string name="group_name_shop_info">Information</string>
   <string name="group_name_shop_recommendation">Nearby</string>
@@ -337,7 +337,7 @@
   <string name="pull_to_refresh_pull_label">画面を引っ張って</string>
   <string name="pull_to_refresh_refreshing_label">読み込み中…</string>
   <string name="pull_to_refresh_release_label">指を離して更新</string>
-  <string name="quick_yellow_page_tab_call_log">Call history</string>
+  <string name="quick_yellow_page_tab_call_log">通話履歴</string>
   <string name="quick_yellow_page_tab_phones">Phone</string>
   <string name="recharge_actual_price">Price:</string>
   <string name="recharge_charge_range">Price: RMB %1$s-%2$s</string>
@@ -345,8 +345,8 @@
   <string name="recharge_follow_name">Top up</string>
   <string name="recharge_history">Top-up history</string>
   <string name="recharge_history_empty">Empty</string>
-  <string name="recharge_input_phone_title">Enter phone number (China Mobile, China Unicom, or China Telecom)</string>
-  <string name="recharge_my_phone_number">Phone number</string>
+  <string name="recharge_input_phone_title">電話番号を入力 (China Mobile, China Unicom, or China Telecom)</string>
+  <string name="recharge_my_phone_number">電話番号</string>
   <string name="recharge_order_actual_price">¥%s</string>
   <string name="recharge_order_id">Order #:</string>
   <string name="recharge_order_original_price">RMB %s</string>
@@ -380,10 +380,10 @@ Total: RMB %3$s"</string>
   <string name="rmb">RMB</string>
   <string name="scan">Scan</string>
   <string name="select_package_before_buy">パッケージを選択</string>
-  <string name="send_shortcut_failed">"Couldn't send"</string>
-  <string name="send_shortcut_success">Placed on Home screen</string>
+  <string name="send_shortcut_failed">送信できませんでした</string>
+  <string name="send_shortcut_success">ホーム画面に設置しました</string>
   <string name="sending_shortcut">送信中…</string>
-  <string name="service_unavailiable">Service unavailable</string>
+  <string name="service_unavailiable">サービスは利用できません</string>
   <string name="share">共有</string>
   <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">Sim 1</string>

@@ -6,7 +6,7 @@
   <string name="abc_action_bar_up_description">"上に移動"</string>
   <string name="abc_action_menu_overflow_description">"その他のオプション"</string>
   <string name="abc_action_mode_done">"完了"</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
+  <string name="abc_activity_chooser_view_see_all">"すべてを見る"</string>
   <string name="abc_activitychooserview_choose_application">"アプリを選択"</string>
   <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
@@ -164,7 +164,7 @@
   <string name="controller_list">Remotes</string>
   <string name="cool_mode">Cool</string>
   <string name="create_shortcut">Add shortcut</string>
-  <string name="create_shortcut_cancel">No thanks</string>
+  <string name="create_shortcut_cancel">"結構です"</string>
   <string name="create_shortcut_confirm">Create</string>
   <string name="create_shortcut_done">Created successfully</string>
   <string name="current_place">"Current location: "</string>
@@ -280,9 +280,9 @@
   <string name="episodes_list">Selected episodes</string>
   <string name="error_input_dialogue_guide">Please enter the 4-digit code</string>
   <string name="exit">"終了"</string>
-  <string name="external_app">Install app</string>
-  <string name="external_photo">View photos</string>
-  <string name="external_video">Play video</string>
+  <string name="external_app">"アプリをインストール"</string>
+  <string name="external_photo">"写真を表示"</string>
+  <string name="external_video">"動画を再生"</string>
   <string name="extra_keys">Extra buttons</string>
   <string name="fail_add_controller_photo">Add remote photo</string>
   <string name="fail_add_device_photo">Add device photo</string>
@@ -333,7 +333,7 @@
   <string name="hot_apps">Popular</string>
   <string name="hot_mode">Heat</string>
   <string name="hot_videos">Popular</string>
-  <string name="hour">hrs</string>
+  <string name="hour">"時間"</string>
   <string name="humidity">Humidity:</string>
   <string name="humidity_frame">%1$d%%</string>
   <string name="increase">Up</string>
@@ -396,14 +396,14 @@
   <string name="location_select">Rename device</string>
   <string name="login">"ログイン"</string>
   <string name="login_directly">"ログイン"</string>
-  <string name="login_done">Signed in</string>
+  <string name="login_done">"ログインしました"</string>
   <string name="login_failed">"ログインできませんでした"</string>
   <string name="login_failed_tips">"Could't get account info"</string>
   <string name="login_thirdparty">Other ways to sign in</string>
   <string name="login_wxfailed_tips">"Could't get account info, try again later"</string>
-  <string name="logining">Signing in…</string>
+  <string name="logining">"ログイン中…"</string>
   <string name="logout">"ログアウト"</string>
-  <string name="logout_done">Signed out</string>
+  <string name="logout_done">"ログアウトしました"</string>
   <string name="management_app_management">"アプリ"</string>
   <string name="management_settings">"設定"</string>
   <string name="management_video_favor">History &amp; favorites</string>
@@ -411,7 +411,7 @@
   <string name="match_ac_intro_mode">Release when AC changes to cooling mode</string>
   <string name="match_ac_intro_power">Release when AC powers off</string>
   <string name="match_ac_name_mode">Cooling</string>
-  <string name="match_ac_name_power">Power off</string>
+  <string name="match_ac_name_power">"電源オフ"</string>
   <string name="match_ch_inc">Does it switch to the next channel?</string>
   <string name="match_chl_dec">Does it switch to the previous channel?</string>
   <string name="match_count_frame">Pair %1$d/%2$d remote</string>
@@ -431,7 +431,7 @@ Go back to continue"</string>
   <string name="match_fail_model_hint">Enter remote model number</string>
   <string name="match_failed">No more items, go back or try again</string>
   <string name="match_fan_intro_open">Release when fan powers on</string>
-  <string name="match_fan_name_open">Power on</string>
+  <string name="match_fan_name_open">"電源オン"</string>
   <string name="match_guide_main_frame">Point your device at %1$s</string>
   <string name="match_guide_sub_frame">Paired %1$d buttons</string>
   <string name="match_intro_power">Release when device powers on</string>
@@ -443,7 +443,7 @@ Then answer the question"</string>
   <string name="match_mibox_first">Mi TV found</string>
   <string name="match_mibox_sencond">· Control your Mi TV with this device.</string>
   <string name="match_mibox_third">· Add other Mi devices automatically</string>
-  <string name="match_name_power">Power</string>
+  <string name="match_name_power">"電源"</string>
   <string name="match_number_default">Do number buttons work?</string>
   <string name="match_power_confirm_tip_frame">Is %1$s on?</string>
   <string name="match_power_main_tip_frame">Is %1$s on?</string>
@@ -502,7 +502,7 @@ Then answer the question"</string>
   <string name="milink_screenshot_done">TV screenshot made successfully</string>
   <string name="milink_screenshot_pic">Screenshots</string>
   <string name="milink_view_screenshot">Saved to Gallery, tap to view</string>
-  <string name="minute">min</string>
+  <string name="minute">"分"</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Assistant version %1$s</string>
   <string name="mode">Mode</string>
@@ -857,7 +857,7 @@ directly from your Lock screen"</string>
   <string name="setting_version">Mi Remote version %1$s</string>
   <string name="share">"共有"</string>
   <string name="share_action_cancel">"キャンセル"</string>
-  <string name="share_action_confirm">Send</string>
+  <string name="share_action_confirm">"送信"</string>
   <string name="share_address_desc">Your actual location will help people nearby to see your shared remotes</string>
   <string name="share_address_hint">Enter your actual location</string>
   <string name="share_address_title">Actual location (recommended)</string>
@@ -933,7 +933,7 @@ directly from your Lock screen"</string>
   <string name="stop_auto_tune">Stop auto tune</string>
   <string name="stop_diagnosis">Stop</string>
   <string name="study_room">Study</string>
-  <string name="submit">Submit</string>
+  <string name="submit">"送信"</string>
   <string name="submit_fail_retry">"Couldn't submit device info. Wait a minute or two and try again."</string>
   <string name="succeed_content">Added %3$s %4$s successfully.</string>
   <string name="succeed_finish">"完了"</string>
@@ -985,7 +985,7 @@ directly from your Lock screen"</string>
   <string name="upgrade_current_version">Current version %1s</string>
   <string name="upgrade_download">Download app</string>
   <string name="upgrade_found_new_version">Update available (%1s)</string>
-  <string name="upgrade_later">Not now</string>
+  <string name="upgrade_later">"後で"</string>
   <string name="upgrade_loading">"ダウンロード中…"</string>
   <string name="upgrade_log">"What's new"</string>
   <string name="upgrade_now">Update</string>
@@ -993,7 +993,7 @@ directly from your Lock screen"</string>
   <string name="upgrading">Updating…</string>
   <string name="use_tv_power_key">"Use %1$s's power button
 To change, long press TV's power button"</string>
-  <string name="user_title">Profile</string>
+  <string name="user_title">"プロフィール"</string>
   <string name="vendor_kookong">Kookong</string>
   <string name="vendor_peel">Peel</string>
   <string name="vendor_yaokan">Yaokan</string>
@@ -1012,7 +1012,7 @@ To change, long press TV's power button"</string>
   <string name="video_comment_reply_empty">Comments can not be empty</string>
   <string name="video_comment_reply_failed">Reply failed</string>
   <string name="video_count_info">Total video count: %d</string>
-  <string name="video_detial_unfold">Details</string>
+  <string name="video_detial_unfold">"詳細"</string>
   <string name="video_director_label">"Director: "</string>
   <string name="video_favor">favor</string>
   <string name="video_filter_all">Filter all</string>
@@ -1027,7 +1027,7 @@ To change, long press TV's power button"</string>
   <string name="video_name_intro">Summary</string>
   <string name="video_name_recommend">Featured</string>
   <string name="video_name_score">Reviews</string>
-  <string name="video_play">Play</string>
+  <string name="video_play">"再生"</string>
   <string name="video_play_count_label">"Views: "</string>
   <string name="video_search_hint">Please enter a movie, actor name</string>
   <string name="video_search_title">Found %d</string>
@@ -1040,7 +1040,7 @@ To change, long press TV's power button"</string>
   <string name="voice_engine_ifly_fail">"Couldn't recognize voice"</string>
   <string name="voice_record_start">Record voice</string>
   <string name="voice_resolving">Recognizing voice…</string>
-  <string name="volume">﻿Volume</string>
+  <string name="volume">﻿"音量"</string>
   <string name="weather_out">Outside temperature:</string>
   <string name="wechat_account">WeChat account</string>
   <string name="wifi_rc_create_help">How to add a Wi-Fi remote?</string>

@@ -737,7 +737,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_text_license_manager">Permissions</string>
   <string name="menu_text_networkassistants">Data usage</string>
   <string name="menu_text_networkassistants_danger">"%s 超過"</string>
-  <string name="menu_text_networkassistants_remain">%s left</string>
+  <string name="menu_text_networkassistants_remain">"%s 残り"</string>
   <string name="menu_text_power_manager">Battery usage</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Battery %s</string>

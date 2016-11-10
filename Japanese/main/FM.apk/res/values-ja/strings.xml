@@ -11,7 +11,7 @@
   <string name="context_menu_title">%sMHz</string>
   <string name="dialog_sleep_title">"スリープタイマーをセット"</string>
   <string name="exit_fm">"終了"</string>
-  <string name="fm_has_turned_off">"FMラジオをオフにする"</string>
+  <string name="fm_has_turned_off">"FMラジオはオフになっています"</string>
   <string name="fmradio_clear_confirm_msg">"すべてのプリセットが削除されます。"</string>
   <string name="frequency_mhz_fomart">%sMHz</string>
   <string name="group_favor">"プリセット"</string>

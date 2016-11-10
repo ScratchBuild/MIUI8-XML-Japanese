@@ -30,11 +30,11 @@
   <string name="auto_play_later">"後で"</string>
   <string name="auto_play_now">"オンにする"</string>
   <string name="auto_play_toast">"動画は自動で再生されます。これは[設定]から変更することができます。"</string>
-  <string name="backup_cancel">"Don't back up"</string>
+  <string name="backup_cancel">"バックアップしない"</string>
   <string name="backup_checkbox_msg">Back up automatically</string>
-  <string name="backup_confirm">Back up now</string>
+  <string name="backup_confirm">"今すぐバックアップ"</string>
   <string name="backup_success_cancel">OK</string>
-  <string name="backup_success_confirm">View</string>
+  <string name="backup_success_confirm">"表示"</string>
   <string name="backup_success_message">Backed up to %1$s</string>
   <string name="backup_success_title">Backed up</string>
   <string name="backup_title">Back up chat videos?</string>

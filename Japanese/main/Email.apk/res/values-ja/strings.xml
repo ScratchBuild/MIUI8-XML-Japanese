@@ -285,7 +285,7 @@
   <string name="contextmenu_sharelink">"リンクを共有"</string>
   <string name="contextmenu_sms_dot">SMS…</string>
   <string name="conversation_content_provider">Conversation Content Provider</string>
-  <string name="conversation_folder_moved">Moved to %1$s</string>
+  <string name="conversation_folder_moved">"%1$sに移動しました"</string>
   <string name="conversation_item_mark_read">"既読"</string>
   <string name="conversation_item_mark_unread">"未読"</string>
   <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
@@ -296,9 +296,9 @@
   <string name="copy_number">"電話番号をコピー"</string>
   <string name="create_action">"新規作成"</string>
   <string name="custom_from_account_label">Send mail as:</string>
-  <string name="date_heading">"Date: "</string>
+  <string name="date_heading">"日付: "</string>
   <string name="date_message_received">%1$s %2$s</string>
-  <string name="date_message_received_today">Today, %1$s</string>
+  <string name="date_message_received_today">"今日, %1$s"</string>
   <string name="default_">DEFAULT</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
@@ -316,8 +316,8 @@
   <string name="device_admin_label">"メール"</string>
   <string name="device_not_activiey_lint1">Device manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work with Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Can't auto-receive new messages. Sync is off."</string>
-  <string name="dialog_auto_sync_setting_no_open">"Can't auto-receive new messages. Sync is off."</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"新着メッセージを自動受信できません。同期はオフです。"</string>
+  <string name="dialog_auto_sync_setting_no_open">"新着メッセージを自動受信できません。同期はオフです。"</string>
   <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="dialog_insufficient_space_on_external">"添付ファイルをダウンロードできません。外部ストレージに十分な空き領域がありません。"</string>
@@ -328,10 +328,10 @@
   <string name="dismiss_tip_hover_text">Dismiss tip</string>
   <string name="disturb_switch">Do not disturb</string>
   <string name="done">"完了"</string>
-  <string name="done_action">Done</string>
-  <string name="donot_disturb_endtime_title">To</string>
-  <string name="donot_disturb_starttime_title">From</string>
-  <string name="donot_disturb_summary">Notifications for emails that arrive will be silenced</string>
+  <string name="done_action">"完了"</string>
+  <string name="donot_disturb_endtime_title">"終了時間"</string>
+  <string name="donot_disturb_starttime_title">"開始時間"</string>
+  <string name="donot_disturb_summary">"受信した新着メールの通知は消音されます"</string>
   <string name="donot_disturb_title">"夜間モード"</string>
   <string name="downlaod_cancel_confirm_download">"停止"</string>
   <string name="downlaod_cancel_continue_download">"停止できません"</string>
@@ -364,7 +364,7 @@
   <string name="email_sina">Sina Mail</string>
   <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"アカウントが見つかりませんでした"</string>
-  <string name="empty_email_tip">"Can't send blank message"</string>
+  <string name="empty_email_tip">"空のメールは送信できません"</string>
   <string name="empty_spam">Empty Spam</string>
   <string name="empty_spam_dialog_title">Empty Spam?</string>
   <string name="empty_trash">"ゴミ箱を空にする"</string>
@@ -379,7 +379,7 @@
   <string name="exchange_name">Corporate</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">"受信者の詳細を展開"</string>
-  <string name="fail_get_email_message">Get message failed.</string>
+  <string name="fail_get_email_message">"メッセージを取得できませんでした。"</string>
   <string name="failed">"画像を読み込めませんでした"</string>
   <string name="failed_read_phone_state_permission">"Allow access to device's status"</string>
   <string name="failed_read_write_calendar_permission">Allow access to Calendar</string>
@@ -443,8 +443,8 @@
   <string name="from_heading">"From: "</string>
   <string name="general_preference_confirm_delete_label">"削除前に確認する"</string>
   <string name="general_preference_confirm_send_label">"送信前に確認する"</string>
-  <string name="general_preference_str_auto_translation">Quick translation</string>
-  <string name="general_preference_str_auto_translation_prompt">Copy corresponding content to see translation result</string>
+  <string name="general_preference_str_auto_translation">"クイック翻訳"</string>
+  <string name="general_preference_str_auto_translation_prompt">"対応するコンテンツをコピーして翻訳結果を表示する"</string>
   <string name="general_preference_text_zoom_dialog_title">"メッセージの文字サイズ"</string>
   <string name="general_preference_text_zoom_huge">"極大"</string>
   <string name="general_preference_text_zoom_label">"メッセージの文字サイズ"</string>
@@ -471,7 +471,7 @@
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">"全員に返信"</string>
   <string name="imap_name">IMAP</string>
-  <string name="imap_password_error">Password for incoming mail server is incorrect</string>
+  <string name="imap_password_error">"受信メールサーバーのパスワードが間違っています"</string>
   <string name="info_actionbar_normal_detail">"詳細"</string>
   <string name="info_actionbar_subscribe">News feed</string>
   <string name="info_item_from">From </string>
@@ -550,11 +550,11 @@
 %s "</string>
   <string name="meeting_allday">"
         When:
-%s (all day)
+%s (終日)
     "</string>
   <string name="meeting_allday_recurring">"
         When:
-%s (all day, recurring)
+%s (終日、繰り返し)
     "</string>
   <string name="meeting_canceled">"
         Canceled:
@@ -564,7 +564,7 @@
 %s "</string>
   <string name="meeting_recurring">"
         When:
-%s (recurring)
+%s (繰り返し)
     "</string>
   <string name="meeting_tentative">"
         Tentative:
@@ -585,16 +585,16 @@
   <string name="menu_att_mgr_order_name">Sort by name</string>
   <string name="menu_att_mgr_order_rev_date">Sort by date received</string>
   <string name="menu_att_mgr_order_size">Sort by size</string>
-  <string name="menu_change_folders">Move</string>
-  <string name="menu_compose">Compose</string>
+  <string name="menu_change_folders">"移動"</string>
+  <string name="menu_compose">"作成"</string>
   <string name="menu_discovery">Discover</string>
   <string name="menu_folder_options">Sync options</string>
   <string name="menu_move_to">Move to</string>
   <string name="menu_move_to_inbox">Move to Inbox</string>
-  <string name="menu_photo_save_all">Save all</string>
-  <string name="menu_photo_share">Share</string>
-  <string name="menu_photo_share_all">Share all</string>
-  <string name="menu_resend_all">Resend all</string>
+  <string name="menu_photo_save_all">"すべて保存"</string>
+  <string name="menu_photo_share">"共有"</string>
+  <string name="menu_photo_share_all">"すべて共有"</string>
+  <string name="menu_resend_all">"すべて再送"</string>
   <string name="menu_search">"検索"</string>
   <string name="menu_settings">"設定"</string>
   <string name="merged_mailbox_compose_select_account">"アカウントの選択"</string>

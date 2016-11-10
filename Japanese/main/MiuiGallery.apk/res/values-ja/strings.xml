@@ -125,8 +125,8 @@
   <string name="backup_detail_page_title">Mi Cloud backups</string>
   <string name="backup_only_in_wifi">Only use Wi‑Fi to back up photos and videos</string>
   <string name="backup_only_in_wifi_summary">Never use mobile data to back up photos or videos</string>
-  <string name="backup_waiting_button_text">Back up now</string>
-  <string name="backuping">Backing up %1$d/%2$d</string>
+  <string name="backup_waiting_button_text">"今すぐバックアップ"</string>
+  <string name="backuping">"バックアップ中 %1$d/%2$d"</string>
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
   <string name="begin_share_toast">Create a separate album for this kid before sharing?</string>
   <string name="blank_app_name"/>
@@ -705,10 +705,10 @@ Take more photos of your friends!"</string>
   <string name="view_baby_album">View Baby album</string>
   <string name="view_by_gallery_tip">MIUI Gallery</string>
   <string name="view_face_album">View album</string>
-  <string name="view_queuing_status">Check status</string>
-  <string name="welcome_to_micloud">Welcome to Mi Cloud</string>
+  <string name="view_queuing_status">"状態を確認"</string>
+  <string name="welcome_to_micloud">"Mi Cloudへようこそ"</string>
   <string name="welcome_to_slim">Optimize local storage</string>
-  <string name="where_is_barcode">"Where's the QR code?"</string>
+  <string name="where_is_barcode">"QRコードはどこですか？"</string>
   <string name="who_is_this">Who is it?</string>
   <string name="xiaomi_account_not_exists_toast">"Mi Accountは存在しません"</string>
   <string name="yes">"はい"</string>
