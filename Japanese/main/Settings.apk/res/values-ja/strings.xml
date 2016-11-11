@@ -275,6 +275,7 @@
   <string name="apply_now_button_text">アップデート</string>
   <string name="apply_password_to_category_title">ロック解除を要求</string>
   <string name="apply_update_fail">アップデートできませんでした</string>
+  <string name="approve_title">Verification</string>
   <string name="apps_storage">アプリのストレージ</string>
   <string name="apps_with_restrictions_header">制限のあるアプリ</string>
   <string name="apps_with_restrictions_settings_button">アプリの設定を展開</string>
@@ -2411,6 +2412,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_brightness_settings">設定/ディスプレイ/明るさ</string>
   <string name="path_button_light_timeout">設定/その他の設定/ボタン/Keep button lights on</string>
   <string name="path_calendar_sound_title">設定/音とバイブレーション/カレンダー音</string>
+  <string name="path_camera_key_action_shortcut_screenshot">Settings/Additional settings/Screenshot</string>
   <string name="path_children_mode_settings">設定/その他の設定/Child mode</string>
   <string name="path_choose_timezone">設定/その他の設定/日付と時刻/タイムゾーンを選択</string>
   <string name="path_cloud_backup_settings_section_title">設定/その他の設定/バックアップとリセット/バックアップ設定</string>
@@ -2433,6 +2435,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_do_not_disturb_settings">設定/Do not disturb</string>
   <string name="path_dtmf_tone_enable_title">設定/音とバイブレーション/ダイヤルパッドの操作音</string>
   <string name="path_edge_handgrip">設定/エッジコントロール</string>
+  <string name="path_enable_adb">Settings/Additional settings/Developer options/USB debugging</string>
   <string name="path_equalizer">設定/音とバイブレーション/オーディオ設定/イコライザー</string>
   <string name="path_fluency_mode">設定/電池とパフォーマンス/システムアニメーション</string>
   <string name="path_font_settings">設定/ディスプレイ/システムフォント</string>
@@ -2472,6 +2475,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_other_advanced_settings">設定/その他の設定</string>
   <string name="path_owner_info_settings">設定/ロック画面とパスワード/所有者情報</string>
   <string name="path_page_layout_settings">設定/ディスプレイ/Text size</string>
+  <string name="path_permission_settings_title">Settings/Permissions/App permissions</string>
   <string name="path_pointer_speed">設定/その他の設定/言語と入力/ポインタの速度</string>
   <string name="path_power_checker">設定/その他の設定/Beta features/Power Checker</string>
   <string name="path_power_hide_mode_title">設定/電池とパフォーマンス/Manage apps battery usage</string>
@@ -3091,6 +3095,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_brightness">明るさ;Screen brightness;Display brightness</string>
   <string name="search_button_light_timeout">ボタンライトの点灯を維持する;Button lights</string>
   <string name="search_calendar_sound_title">カレンダー音;calendar ringtone;calendar</string>
+  <string name="search_camera_key_action_shortcut_screenshot">Screenshot</string>
   <string name="search_children_mode_settings">キッズモード;Lock sms;Parental controls;Child parental;Restrict SMS</string>
   <string name="search_children_mode_title">キッズモード;Child;Parental controls</string>
   <string name="search_choose_timezone">タイムゾーンを選択;Time zone;Time zones</string>
@@ -3100,7 +3105,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_credentials_install">ストレージからのインストール;Direct install;Install APK</string>
   <string name="search_date_time">日付と時刻;日付;時刻</string>
   <string name="search_description">検索設定</string>
-  <string name="search_development_settings">開発者向けオプション</string>
+  <string name="search_development_settings">開発者向けオプション;Assist</string>
   <string name="search_device_name">端末名</string>
   <string name="search_device_status">Status</string>
   <string name="search_display">Display;Screen;Ambient light;Pocket;Pocket dial;Color temperature;Color;Colors;Saturation;Auto-rotate;Auto rotate;Auto rotate;Rotate screen;Brightness;Font;Fonts;Font size</string>
@@ -3115,6 +3120,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_dtmf_tone_enable_title">ダイヤルパッドのタッチ操作音;Dial pad touch tones;touch tones;touch sounds;dialer tones;dialer sounds</string>
   <string name="search_edge_handgrip">エッジコントロール</string>
   <string name="search_empty">検索結果はありません</string>
+  <string name="search_enable_adb">USB debugging</string>
   <string name="search_equalizer">イコライザー</string>
   <string name="search_fluency_mode">システムアニメーション</string>
   <string name="search_font">システムフォント;フォント;フォントサイズ</string>
@@ -3156,6 +3162,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_other_advanced_settings">Additional settings;More settings</string>
   <string name="search_owner_info_settings">所有者情報</string>
   <string name="search_page_layout_settings">テキストサイズ;Font size;Small font;Big font;Medium font;XXL font;Huge font;Font sizes</string>
+  <string name="search_permission_settings_title">App permissions</string>
   <string name="search_pointer_speed">ポインタの速度</string>
   <string name="search_power_checker">パワーチェッカー</string>
   <string name="search_power_hide_mode_title">アプリの電池使用量を管理;App battery usage;Battery usage;Battery stats</string>

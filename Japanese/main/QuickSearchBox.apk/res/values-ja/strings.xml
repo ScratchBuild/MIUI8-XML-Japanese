@@ -24,7 +24,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="corpus_hint_apps">"アプリを検索"</string>
   <string name="corpus_label_apps">"アプリ"</string>
   <string name="corpus_label_global">"すべて"</string>
-  <string name="corpus_label_web">"ウェブ"</string>
+  <string name="corpus_label_web">Search apps, music, videos, yellow page…</string>
   <string name="corpus_selection_heading">"検索"</string>
   <string name="cta_declaration">"この機能が正常に作動するためには、インターネットへの接続、端末の位置情報へのアクセス、通話履歴や連絡先を表示する必要があります。"</string>
   <string name="cta_declaration_ignore">"二度と表示しない"</string>

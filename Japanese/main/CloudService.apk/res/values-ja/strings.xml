@@ -369,6 +369,10 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
   <string name="micloud_web_discription_international">Visit www.mi.com/micloud</string>
   <string name="micloud_website">Mi Cloud items</string>
+  <string name="micloud_wipe_data_confirm_label">Remove data from Mi Cloud</string>
+  <string name="micloud_wipe_data_confirm_title">Remove items synced with Mi Cloud from the phone after you sign out?</string>
+  <string name="micloud_wipe_data_remove">Remove</string>
+  <string name="micloud_wipe_data_retain">Leave</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">About RMB 80 per year</string>
@@ -504,7 +508,11 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="view_storage_title">Storage space</string>
   <string name="virtual_sim_desc">Turn on Mi SIM to locate device without a SIM card</string>
   <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
+  <string name="wipe_data_dialog_button_check_sync">Check if synced</string>
+  <string name="wipe_data_dialog_msg">"%s weren't synced and will stay on your phone."</string>
+  <string name="wipe_data_dialog_msg_and_on">, and some other items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>

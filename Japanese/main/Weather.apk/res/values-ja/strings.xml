@@ -19,6 +19,7 @@
   <string name="activity_main_one_alert"/>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">"%1$s前に更新"</string>
+  <string name="activity_main_update_time_expire">Data expired</string>
   <string name="activity_main_update_time_right_now">"少し"</string>
   <string name="activity_weathermain_locationg">Locating…</string>
   <string name="activity_weathermain_locationg_error">"Can't locate"</string>
@@ -52,7 +53,6 @@
   <string name="button_not_allow">"キャンセル"</string>
   <string name="button_sure_abandon">"変更を破棄しますか？"</string>
   <string name="change_alert">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
-  <string name="close">"閉じる"</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">"読み込み中..."</string>
   <string name="daily_forcast_drawer_on_bottom">"隠す"</string>
@@ -76,7 +76,6 @@
   <string name="first_start_network_title">"インターネット接続と位置情報アクセス"</string>
   <string name="global_aqi">AQI: %1$s %2$s</string>
   <string name="gps_hint">"現在地"</string>
-  <string name="hide_topic">"隠す"</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">"現在"</string>
   <string name="hourly_forecast_title">"1時間ごとの予報"</string>

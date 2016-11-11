@@ -60,9 +60,6 @@
   <string name="dialog_delay_update_msg">"Your device will reboot to apply updates when it's on and the battery is at least 30% charged"</string>
   <string name="dialog_delay_update_title">Update is available</string>
   <string name="dialog_delay_update_tonight">Update tonight</string>
-  <string name="dialog_reboot_message">"MIUI is about to update. This process may take 5-20 minutes. Keep your device powered on, and don't reboot it while it's updating."</string>
-  <string name="dialog_reboot_title">System update</string>
-  <string name="dialog_reboot_yes">Update</string>
   <string name="download_again">"再試行"</string>
   <string name="download_cancel">"キャンセル"</string>
   <string name="download_current_rom">Reboot to apply update</string>

@@ -131,6 +131,10 @@
         <item quantity="other">%1$d people</item>
         <item quantity="one">%1$d person</item>
     </plurals>
+    <plurals name="livetalk_unit">
+        <item quantity="other">Minutes</item>
+        <item quantity="one">Minute</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Rang %d times</item>
         <item quantity="one">Rang %d time</item>

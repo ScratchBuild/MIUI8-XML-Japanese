@@ -16,4 +16,32 @@
         <item quantity="other">%d枚の写真</item>
         <item quantity="one">%d枚の写真</item>
     </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d call history records</item>
+        <item quantity="one">%d call history record</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d records</item>
+        <item quantity="one">%d record</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d song</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d browser items</item>
+        <item quantity="one">%d browser item</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d calendar items</item>
+        <item quantity="one">%d calendar item</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d blocklist entries</item>
+        <item quantity="one">%d blocklist entry</item>
+    </plurals>
 </resources>

@@ -577,6 +577,11 @@ Contact cards are turned off"</string>
   <string name="list_filter_customize">Customize</string>
   <string name="list_filter_phones">All contacts with phone numbers</string>
   <string name="list_filter_single">"連絡先"</string>
+  <string name="live_talk_switch_on_toast">Live talk has been enabled</string>
+  <string name="livetalk_charge">Charge</string>
+  <string name="livetalk_left">Remaining livetalk</string>
+  <string name="livetalk_switch_on">Switch on</string>
+  <string name="livetalk_title">Live talk</string>
   <string name="loading_accounts">"読み込み中…"</string>
   <string name="loading_group_members">"読み込み中…"</string>
   <string name="loading_groups">"読み込み中…"</string>

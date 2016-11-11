@@ -38,6 +38,7 @@
   <string name="factorialDesc">階乗</string>
   <string name="from_unit_en">Kilometer per hour</string>
   <string name="from_unit_short">km/h</string>
+  <string name="home_title_calculator">Calculator</string>
   <string name="item_title_aa_payment">Split the bill</string>
   <string name="item_title_area_conversion">Area</string>
   <string name="item_title_calculator">Calculator</string>
@@ -112,11 +113,13 @@
   <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">Accumulation fund</string>
   <string name="tax_annual_bonus_hint">Enter your bonus before tax</string>
+  <string name="tax_annual_bonus_number">Bonus</string>
   <string name="tax_birth">Birth</string>
   <string name="tax_cal_method_annual">Annual bonus calculation</string>
   <string name="tax_cal_method_fixed_salary">Income tax calculation</string>
   <string name="tax_cal_method_format">Personal input: %s</string>
   <string name="tax_city">City</string>
+  <string name="tax_city_error">Enter correct city</string>
   <string name="tax_city_located">Location</string>
   <string name="tax_city_picker">City</string>
   <string name="tax_endowment">Retirement fund</string>
@@ -131,6 +134,8 @@
   <string name="tax_individual_income_tax_result">Results</string>
   <string name="tax_injury">Injury</string>
   <string name="tax_insurance_and_fund">Insurance</string>
+  <string name="tax_last_salary_hint">Enter your income</string>
+  <string name="tax_last_salary_number">Income</string>
   <string name="tax_medical">Medical</string>
   <string name="tax_param_error">Enter correct insurance rates</string>
   <string name="tax_result_real_get">After tax</string>
@@ -212,7 +217,7 @@
   <string name="unit_data_display_velocity_mps">Meter per second</string>
   <string name="unit_data_display_velocity_nmiph">Knot</string>
   <string name="unit_data_display_volume_cl">Centiliter</string>
-  <string name="unit_data_display_volume_cu.af">Acre foot</string>
+  <string name="unit_data_display_volume_cu.af">Acre-foot</string>
   <string name="unit_data_display_volume_cu.cm">Cubic centimeter</string>
   <string name="unit_data_display_volume_cu.dm">Cubic decimeter</string>
   <string name="unit_data_display_volume_cu.ft">Cubic foot</string>

@@ -196,6 +196,7 @@
   <string name="found_wild_messages_guide_sync_not_started">まだ同期を開始していません</string>
   <string name="found_wild_messages_title">Mi CloudからSMSメッセージを同期</string>
   <string name="from_label">"From: "</string>
+  <string name="from_pkg_name">From the app:</string>
   <string name="group_message">グループメッセージ</string>
   <string name="group_message_failed_title">"%d人に送信できませんでした。"</string>
   <string name="group_resend_message">再送信 (%d)</string>

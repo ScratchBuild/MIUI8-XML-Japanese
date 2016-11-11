@@ -84,6 +84,8 @@
   <string name="reset">"リセット"</string>
   <string name="revert">"元に戻す"</string>
   <string name="set_alarm">"アラームを設定"</string>
+  <string name="setting_alarm_arriving_summary">Send a notification before ringing</string>
+  <string name="setting_alarm_arriving_title">Notification before ringing</string>
   <string name="settings">"設定"</string>
   <string name="shutdown_alarm_disable_summary">Alarm will not ring after powered off</string>
   <string name="shutdown_alarm_enable_summary">Alarm will ring after powered off</string>

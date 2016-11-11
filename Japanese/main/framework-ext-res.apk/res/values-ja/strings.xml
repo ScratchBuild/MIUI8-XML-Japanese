@@ -28,6 +28,7 @@
   <string name="call_record_sample_prefix_miui">Call</string>
   <string name="caller_info_name_delimiter">" または "</string>
   <string name="cancel_action">"キャンセル"</string>
+  <string name="configure_input_methods">Choose keyboards</string>
   <string name="copy">"コピー"</string>
   <string name="cut">"切り取り"</string>
   <string name="default_name">Default</string>
@@ -147,6 +148,7 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">"ホットスポット"</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="translation_more">More</string>
   <string name="translation_query_error">"Couldn't find results"</string>
   <string name="translation_query_error_network">"ネットワークに接続できませんでした。設定を確認して、もう一度やり直してください"</string>
   <string name="turn_off">"オフにする"</string>

@@ -412,6 +412,7 @@
   <string name="video_plugin">Video plug-in</string>
   <string name="video_plugin_downloading">"ダウンロード中 (%1$s)"</string>
   <string name="video_plugin_prepare">"読み込み中…"</string>
+  <string name="video_pre_play_tip">You can free preview play %1$d minutes，play complete please &lt;Data&gt;&amp;lt;font color=#04b4fd&amp;gt;purchase immediately &amp;gt;&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="video_vip">vip</string>
   <string name="vip_package">vip package</string>
   <string name="vip_rights">Vip rights and interests</string>

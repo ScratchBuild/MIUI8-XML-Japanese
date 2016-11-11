@@ -96,7 +96,7 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">None</string>
-  <string name="clear_bigfiles">Delete big files, duplicate photos, and other useless items</string>
+  <string name="clear_bigfiles">Delete big files, duplicate photos, and other obsolete items</string>
   <string name="clear_immediately">Clean now</string>
   <string name="clear_safe_notify">Security notification bar</string>
   <string name="clip_board_history_desc">"コピー/切り取りした内容"</string>
@@ -169,12 +169,13 @@
   <string name="empty_content_no_ignore_image">Empty</string>
   <string name="empty_content_no_privacy">Empty</string>
   <string name="empty_content_no_similar_image">No photos</string>
-  <string name="empty_title_ad">No ad files found</string>
+  <string name="empty_title_ad">No obsolete files found</string>
   <string name="empty_title_apk">No install packages found</string>
   <string name="empty_title_garbage_cache">Nothing to clear</string>
   <string name="empty_title_garbage_white_list">Hold items to add them to exceptions.</string>
   <string name="empty_title_installed_apps">Empty</string>
   <string name="empty_title_large_files">Empty</string>
+  <string name="empty_title_photos">No photos found</string>
   <string name="empty_title_residual">No residuals found</string>
   <string name="empty_title_video">No videos to delete​</string>
   <string name="flow_rank_title">Data usage</string>
@@ -189,7 +190,7 @@
   <string name="harass_detail">Blocked %1$d SMS and %2$d calls</string>
   <string name="header_optimizer">By using this feature, you are agreeing to %s.</string>
   <string name="hint_clean_select_items">Deleting duplicates…</string>
-  <string name="hints_ad_header_left">Ad files</string>
+  <string name="hints_ad_header_left">Obsolete files</string>
   <string name="hints_apk_header_left">Packages</string>
   <string name="hints_apk_version">Version %s</string>
   <string name="hints_app_uninstall_residual">Clean up residual uninstall files?</string>
@@ -505,7 +506,7 @@
   <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">"ウイルススキャン"</string>
   <string name="vungle_ad_name">"Vungle広告"</string>
-  <string name="white_list_ad_header">Ad files: %d</string>
+  <string name="white_list_ad_header">Obsolete files: %d</string>
   <string name="white_list_apk_header">Install packages: %d</string>
   <string name="white_list_cache_header">Cached files: %d</string>
   <string name="white_list_large_file_header">Big files and videos: %d</string>
