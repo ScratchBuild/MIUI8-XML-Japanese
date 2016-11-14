@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activate_xiaomi_account">Activate this device</string>
-  <string name="adding_or_updating_account">Updating account…</string>
+  <string name="adding_or_updating_account">"アカウントを更新中…"</string>
   <string name="app_name">Find device</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Couldn't unlock. %s."</string>
@@ -17,7 +17,7 @@
   <string name="find_device">Find device</string>
   <string name="find_device_crash">Find device closed unexpectedly.</string>
   <string name="find_device_error_account_sys_timeout">"Couldn't connect to Mi Account. "</string>
-  <string name="find_device_error_account_unknown_error">Mi Account error (%s).</string>
+  <string name="find_device_error_account_unknown_error">"Mi Accountエラー (%s)。"</string>
   <string name="find_device_error_network">ネットワークエラー。</string>
   <string name="find_device_error_password_changed">Account password has been recently changed.</string>
   <string name="find_device_error_server">サーバーエラー (%s)。</string>
@@ -44,12 +44,12 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="passport_verify">Verify</string>
   <string name="password">パスワード</string>
   <string name="phone_locked">This device may be associated with existing Mi Account (%s). Sign in to activate this device.</string>
-  <string name="stop_on_empty_captcha">"Captcha can't be blank"</string>
-  <string name="stop_on_empty_password">"Password can't be blank"</string>
+  <string name="stop_on_empty_captcha">"Captchaは空白にできません"</string>
+  <string name="stop_on_empty_password">"パスワードは空白にできません"</string>
   <string name="time_correction_failure">"Can't correct time. %s"</string>
   <string name="time_correction_success">Time corrected</string>
   <string name="unlock">Activate</string>
-  <string name="unlock_access_denied">Access denied</string>
+  <string name="unlock_access_denied">"アクセスが拒否されました"</string>
   <string name="unlock_bad_authentication">無効なユーザ名またはパスワード</string>
   <string name="unlock_error_abort">"ユーザーによってキャンセル"</string>
   <string name="unlock_error_device_id">"Can't get device ID"</string>

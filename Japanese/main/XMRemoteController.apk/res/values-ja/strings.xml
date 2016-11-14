@@ -76,7 +76,7 @@
   <string name="app_installing">"インストール中…"</string>
   <string name="app_lastest">Latest</string>
   <string name="app_listitem_installing">"インストール中"</string>
-  <string name="app_listitem_waiting">Waiting for installation</string>
+  <string name="app_listitem_waiting">"インストールを待機中"</string>
   <string name="app_local">Local</string>
   <string name="app_manager_get_data_failed">"Couldn't get app info"</string>
   <string name="app_manager_no_data">No apps found</string>
@@ -565,7 +565,7 @@ Then answer the question"</string>
   <string name="other">"その他"</string>
   <string name="outdoor_temp_unknown">Unknown</string>
   <string name="partner">Support</string>
-  <string name="passport_access_denied">Access denied</string>
+  <string name="passport_access_denied">"アクセスが拒否されました"</string>
   <string name="passport_account_hint_text">Email address or Mi Account ID</string>
   <string name="passport_account_identity_title">Verify your identity</string>
   <string name="passport_account_name">Account: %1$s</string>
@@ -915,7 +915,7 @@ directly from your Lock screen"</string>
   <string name="show_remote_when_lock_screen">Show controls on Lock screen</string>
   <string name="similar">Related</string>
   <string name="skip">"スキップ"</string>
-  <string name="sleep">Sleep</string>
+  <string name="sleep">"スリープ"</string>
   <string name="somthing_wrong">Having problems?</string>
   <string name="sorry">"エラー"</string>
   <string name="speech_init_failed">Tap to install iFly voice engine</string>
@@ -979,18 +979,18 @@ directly from your Lock screen"</string>
   <string name="unkown_device_sub">Send us details about this device so that we can support it later on</string>
   <string name="unkown_device_title">"Couldn't get device info"</string>
   <string name="unset">Not set</string>
-  <string name="updated_at">Last update: %1$s ago</string>
+  <string name="updated_at">"最終更新: %1$s前"</string>
   <string name="updated_just_now">Just updated</string>
   <string name="upgrade_already_latest">No updates available</string>
   <string name="upgrade_current_version">Current version %1s</string>
-  <string name="upgrade_download">Download app</string>
+  <string name="upgrade_download">"アプリをダウンロード"</string>
   <string name="upgrade_found_new_version">Update available (%1s)</string>
   <string name="upgrade_later">"後で"</string>
   <string name="upgrade_loading">"ダウンロード中…"</string>
   <string name="upgrade_log">"What's new"</string>
   <string name="upgrade_now">Update</string>
   <string name="upgrade_title_frame">%1s</string>
-  <string name="upgrading">Updating…</string>
+  <string name="upgrading">"更新中…"</string>
   <string name="use_tv_power_key">"Use %1$s's power button
 To change, long press TV's power button"</string>
   <string name="user_title">"プロフィール"</string>

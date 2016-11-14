@@ -11,8 +11,8 @@
         <item quantity="one">電話番号のある連絡先1件</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d contacts</item>
-        <item quantity="one">1 contact</item>
+        <item quantity="other">%d件の連絡先</item>
+        <item quantity="one">1件の連絡先</item>
     </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">%d件見つかりました</item>
@@ -87,8 +87,8 @@
         <item quantity="one">Found %1$d item</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
+        <item quantity="other">%1$d件のお気に入り</item>
+        <item quantity="one">%1$d件のお気に入り</item>
     </plurals>
     <plurals name="pick_recent_contacts_list_title">
         <item quantity="other">%1$d recent contacts</item>
@@ -132,8 +132,8 @@
         <item quantity="one">%1$d person</item>
     </plurals>
     <plurals name="livetalk_unit">
-        <item quantity="other">Minutes</item>
-        <item quantity="one">Minute</item>
+        <item quantity="other">分</item>
+        <item quantity="one">分</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Rang %d times</item>

@@ -323,8 +323,8 @@
   <string name="theme_batch_update_all">Update all</string>
   <string name="theme_batch_update_dlg_content">Update %1$s and %2$d other themes now?</string>
   <string name="theme_batch_update_dlg_content_single">Update %1$s now?</string>
-  <string name="theme_batch_update_dlg_title">Update theme</string>
-  <string name="theme_batch_updating_text">Updating (%1$d)</string>
+  <string name="theme_batch_update_dlg_title">"テーマを更新"</string>
+  <string name="theme_batch_updating_text">"更新中 (%1$d)"</string>
   <string name="theme_bug_report">"フィードバック"</string>
   <string name="theme_changed_failed_message">"テーマを適用できません"</string>
   <string name="theme_changed_message">"テーマを適用しました"</string>

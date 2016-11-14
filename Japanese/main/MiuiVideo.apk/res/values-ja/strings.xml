@@ -60,8 +60,8 @@
   <string name="buy_vip">buy vip</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_favorite_success">Unstarred</string>
-  <string name="check_app_version">Checking for updates…</string>
-  <string name="check_network">"Can't connect to the network"</string>
+  <string name="check_app_version">"アップデートの確認中…"</string>
+  <string name="check_network">"ネットワークに接続できません"</string>
   <string name="clarity_high">High</string>
   <string name="clarity_standard">Standard</string>
   <string name="clarity_supper">Super</string>
@@ -194,7 +194,7 @@
   <string name="join_alert_title">"ベータテストに参加"</string>
   <string name="join_hint">"招待コードを入力"</string>
   <string name="key_back_down_toast">"終了するには戻るボタンをもう一度タップ"</string>
-  <string name="lastrefresh">Last update</string>
+  <string name="lastrefresh">"最終更新"</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="live">Live</string>

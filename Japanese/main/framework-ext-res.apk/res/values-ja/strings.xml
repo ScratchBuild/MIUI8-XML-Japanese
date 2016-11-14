@@ -28,7 +28,7 @@
   <string name="call_record_sample_prefix_miui">Call</string>
   <string name="caller_info_name_delimiter">" または "</string>
   <string name="cancel_action">"キャンセル"</string>
-  <string name="configure_input_methods">Choose keyboards</string>
+  <string name="configure_input_methods">"キーボードの選択"</string>
   <string name="copy">"コピー"</string>
   <string name="cut">"切り取り"</string>
   <string name="default_name">Default</string>
@@ -81,7 +81,7 @@
   <string name="perm_send_push_lab">Send push message</string>
   <string name="permdesc_manageLocationPolicy">Allows the app to manage location policies and define app-specific rules.</string>
   <string name="permlab_manageLocationPolicy">Location access</string>
-  <string name="reboot_confirm_title">Reboot device now?</string>
+  <string name="reboot_confirm_title">"デバイスを今すぐ再起動しますか？"</string>
   <string name="reboot_info_auto_boot">Device is scheduled to power on at %s</string>
   <string name="reboot_info_shutdown_alarm">Alarm will sound at %s</string>
   <string name="reboot_progress">Rebooting…</string>
@@ -109,7 +109,7 @@
   <string name="securespaces_extension_hidden_serviceName"/>
   <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
   <string name="securespaces_extension_read_cross_space_contacts_serviceName"/>
-  <string name="security_permission_denied_text">Access denied</string>
+  <string name="security_permission_denied_text">"アクセスが拒否されました"</string>
   <string name="security_permission_failed_text">"エラーが発生しました、後ほど再試行してください"</string>
   <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
   <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>

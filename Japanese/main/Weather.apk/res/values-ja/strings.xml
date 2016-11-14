@@ -19,7 +19,7 @@
   <string name="activity_main_one_alert"/>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">"%1$s前に更新"</string>
-  <string name="activity_main_update_time_expire">Data expired</string>
+  <string name="activity_main_update_time_expire">"データ期限切れ"</string>
   <string name="activity_main_update_time_right_now">"少し"</string>
   <string name="activity_weathermain_locationg">Locating…</string>
   <string name="activity_weathermain_locationg_error">"Can't locate"</string>

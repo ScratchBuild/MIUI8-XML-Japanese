@@ -271,11 +271,11 @@ Contact cards are turned off"</string>
   <string name="create_qrcode_fail_message">"QRコードを作成できません"</string>
   <string name="create_voip_shortcut_success">"ショートカットを作成しました"</string>
   <string name="customLabelPickerTitle">"新しいラベル名"</string>
-  <string name="custom_list_filter">Define custom view</string>
+  <string name="custom_list_filter">"カスタムビューを定義"</string>
   <string name="custom_nickname_hint">"ニックネームを入力"</string>
-  <string name="data_already_used">Used data</string>
+  <string name="data_already_used">"使用データ"</string>
   <string name="data_charge">Top up data</string>
-  <string name="data_left">Remaining data</string>
+  <string name="data_left">"残りデータ"</string>
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
   <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
@@ -351,7 +351,7 @@ Contact cards are turned off"</string>
   <string name="device_import_local_account">Local account</string>
   <string name="device_import_message">"インポート中"</string>
   <string name="device_import_progress_begin_message">"インポート中…"</string>
-  <string name="device_import_progress_end_message">Imported</string>
+  <string name="device_import_progress_end_message">"インポートしました"</string>
   <string name="device_import_progress_message">"インポート中…"</string>
   <string name="device_import_progress_toast">"%1$d件の連絡先をインポートしました"</string>
   <string name="device_import_title">"インポート"</string>
@@ -458,7 +458,7 @@ Contact cards are turned off"</string>
   <string name="favoritesFrequentCalled">よくする通話</string>
   <string name="favoritesFrequentContacted">よく使う連絡先</string>
   <string name="favorites_list_empty">"お気に入りはありません"</string>
-  <string name="firewall_setting">Blocklist</string>
+  <string name="firewall_setting">"ブロックリスト"</string>
   <string name="force_touch_miprofile">Contact card</string>
   <string name="force_touch_new_contact">New contact</string>
   <string name="foundTooManyContacts">%d件以上見つかりました。</string>

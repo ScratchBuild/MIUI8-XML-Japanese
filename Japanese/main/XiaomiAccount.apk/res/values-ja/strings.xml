@@ -138,7 +138,7 @@
   <string name="io_error_title">"ネットワークを確認"</string>
   <string name="just_a_second">"読み込み中…"</string>
   <string name="loading_micloud_sync_data">"読み込み中…"</string>
-  <string name="local_device">(this device)</string>
+  <string name="local_device">"(このデバイス)"</string>
   <string name="locating_current_location">Locating</string>
   <string name="location_service_not_working">Location service not working</string>
   <string name="login_check_find_device">Getting device security info…</string>
@@ -169,7 +169,7 @@
   <string name="notify_network_restricted_content_mobile_network">"Mi Account's internet access is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_title">"Mi Account couldn't connect to the network"</string>
   <string name="other_devices_title">"その他のデバイス"</string>
-  <string name="passport_access_denied">Access denied</string>
+  <string name="passport_access_denied">"アクセスが拒否されました"</string>
   <string name="passport_account_hint_text">"メールアドレスまたはMi Account ID"</string>
   <string name="passport_account_identity_title">Verify your identity</string>
   <string name="passport_account_label">Mi Account</string>
@@ -295,9 +295,9 @@ To activate your account, follow the
   <string name="passport_retry">"再試行"</string>
   <string name="passport_select_reg_ways_title">Other ways to sign up</string>
   <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
-  <string name="passport_setting">Setting up…</string>
+  <string name="passport_setting">"設定中…"</string>
   <string name="passport_skip_login">"スキップ"</string>
-  <string name="passport_skip_register">Skip Sign-up</string>
+  <string name="passport_skip_register">"登録をスキップ"</string>
   <string name="passport_skip_setup_account_msg">You can set up a Mi Account later in Settings.</string>
   <string name="passport_skip_setup_account_title">Skip setup</string>
   <string name="passport_title_reg">Create an account</string>

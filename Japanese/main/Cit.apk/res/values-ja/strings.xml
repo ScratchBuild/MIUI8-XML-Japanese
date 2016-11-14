@@ -82,8 +82,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
 "</string>
   <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
-  <string name="cit_battery_check_summary">Device battery statistics</string>
-  <string name="cit_battery_check_title">Battery info</string>
+  <string name="cit_battery_check_summary">デバイスのバッテリー統計</string>
+  <string name="cit_battery_check_title">バッテリー情報</string>
   <string name="cit_battery_temp_fail">バッテリーの温度は異常です (値=%d)</string>
   <string name="cit_battery_temp_pass">バッテリーの温度は正常です</string>
   <string name="cit_batterylight_blue">Blue</string>

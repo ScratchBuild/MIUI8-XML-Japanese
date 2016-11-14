@@ -322,7 +322,7 @@
   <string name="no_login_btn_text">"ログイン"</string>
   <string name="no_login_str">"ログインしていません"</string>
   <string name="no_message">No messages</string>
-  <string name="no_new_content_tip">All items are up to date</string>
+  <string name="no_new_content_tip">"すべての項目が最新の状態です"</string>
   <string name="no_recent_files">No recent files</string>
   <string name="no_topic">No topics</string>
   <string name="no_wifi">No network detected</string>

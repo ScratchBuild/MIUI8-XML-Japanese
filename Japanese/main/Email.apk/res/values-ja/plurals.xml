@@ -57,8 +57,8 @@
         <item quantity="one">下書き</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d messages will be permanently deleted.</item>
-        <item quantity="one">%1$d message will be permanently deleted.</item>
+        <item quantity="other">%1$d件のメッセージは完全に削除されます。</item>
+        <item quantity="one">%1$d件のメッセージは完全に削除されます。</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">Move %1$d conversations</item>

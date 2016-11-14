@@ -110,7 +110,7 @@ or enter App lock password"</string>
   <string name="app_name_securitycenter">Security</string>
   <string name="app_not_installed_toast">"App isn't installed on your device."</string>
   <string name="app_version">Version</string>
-  <string name="app_wifi">WLAN</string>
+  <string name="app_wifi">"Wi-Fi"</string>
   <string name="apps_item_sign_dialog_content">"%s's signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data."</string>
   <string name="apps_item_sign_dialog_title">Install official app</string>
   <string name="apps_item_sign_install_button_text">Replace</string>
@@ -235,9 +235,9 @@ or enter App lock password"</string>
   <string name="bind_xiaomi_account_cancel">"キャンセル"</string>
   <string name="bind_xiaomi_account_confirm">"追加"</string>
   <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it. Account will be removed automatically if you sign out."</string>
-  <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
+  <string name="bind_xiaomi_account_success">"Mi Accountが正常に追加されました"</string>
   <string name="bind_xiaomi_account_summary">Use Mi Account to reset your password</string>
-  <string name="bind_xiaomi_account_title">Add Mi Account</string>
+  <string name="bind_xiaomi_account_title">"Mi Accountを追加"</string>
   <string name="booster_immediately">Boost</string>
   <string name="boot_reminder">Power on your device at a scheduled time</string>
   <string name="boot_time">On at %1$s</string>
@@ -1170,7 +1170,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="safe_result_item_info_system_antivirus">Protection from the phishing viruses</string>
   <string name="safe_result_item_info_system_root">Root secure</string>
   <string name="safe_result_item_info_system_scan">Payment monitoring is on</string>
-  <string name="safe_result_item_info_system_version">MIUI is up to date</string>
+  <string name="safe_result_item_info_system_version">"MIUIは最新の状態です"</string>
   <string name="safe_result_item_info_wifi_arp">No ARP attacks</string>
   <string name="safe_result_item_info_wifi_connection">WLAN connected</string>
   <string name="safe_result_item_info_wifi_dns">DNS server secure</string>

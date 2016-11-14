@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_denied">Access denied</string>
-  <string name="account">Account</string>
+  <string name="access_denied">"アクセスが拒否されました"</string>
+  <string name="account">アカウント</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
   <string name="activate">Activate</string>
   <string name="activate_finddevice">Connect to the network to activate device</string>
@@ -253,8 +253,8 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_network_abnormal">ネットワークに接続できません</string>
   <string name="micloud_main_network_error">ネットワークに接続できません</string>
   <string name="micloud_main_not_sync">Items waiting to sync: %d</string>
-  <string name="micloud_main_query_error_message">"Can't confirm if sync is complete for some services"</string>
-  <string name="micloud_main_query_error_title">"Couldn't get info about sync progress"</string>
+  <string name="micloud_main_query_error_message">一部のサービスでは同期が完了したかを確認できません</string>
+  <string name="micloud_main_query_error_title">同期の進行状況を取得できません</string>
   <string name="micloud_main_set_internet">ネットワーク</string>
   <string name="micloud_main_space_full">クラウドストレージがいっぱいです</string>
   <string name="micloud_main_space_full_title">十分な空き領域がありません、同期が一時停止しました</string>
@@ -264,7 +264,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_suggest_setting">設定を変更、またはWi-Fiに接続</string>
   <string name="micloud_main_suggest_sync">すべてを同期できませんでした</string>
   <string name="micloud_main_sync_exception">同期エラー</string>
-  <string name="micloud_main_sync_init">Getting info</string>
+  <string name="micloud_main_sync_init">情報の取得中</string>
   <string name="micloud_main_sync_now">今すぐ同期</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
@@ -369,10 +369,10 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
   <string name="micloud_web_discription_international">Visit www.mi.com/micloud</string>
   <string name="micloud_website">Mi Cloud items</string>
-  <string name="micloud_wipe_data_confirm_label">Remove data from Mi Cloud</string>
-  <string name="micloud_wipe_data_confirm_title">Remove items synced with Mi Cloud from the phone after you sign out?</string>
-  <string name="micloud_wipe_data_remove">Remove</string>
-  <string name="micloud_wipe_data_retain">Leave</string>
+  <string name="micloud_wipe_data_confirm_label">"Mi Cloudからデータを削除"</string>
+  <string name="micloud_wipe_data_confirm_title">"ログアウトした後、端末からMi Cloudと同期したアイテムを削除しますか？"</string>
+  <string name="micloud_wipe_data_remove">"削除"</string>
+  <string name="micloud_wipe_data_retain">"保持"</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">About RMB 80 per year</string>

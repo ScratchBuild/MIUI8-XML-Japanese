@@ -299,7 +299,7 @@
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="config_disable_cdma_activation_code">false</string>
   <string name="config_world_mode"/>
-  <string name="confirm">Confirm</string>
+  <string name="confirm">確認</string>
   <string name="confirmPin2Label">新しいPIN2の確認</string>
   <string name="confirmPinLabel">新しいPINを確認</string>
   <string name="confirm_password_label">新しいパスワードの確認</string>
@@ -450,7 +450,7 @@
   <string name="enable">ONにする</string>
   <string name="enable_antispam_strange_summary">知らない番号からの着信は、最初の着信音をミュートします。</string>
   <string name="enable_antispam_strange_title">最初の着信音をミュート</string>
-  <string name="enable_button_text">Next</string>
+  <string name="enable_button_text">次へ</string>
   <string name="enable_disable_administrative">Administrative</string>
   <string name="enable_disable_advertisements">広告</string>
   <string name="enable_disable_atr">各地の交通情報</string>
@@ -655,7 +655,7 @@
   <string name="livetalk_add_white_list_info">直接ダイヤルする番号を追加</string>
   <string name="livetalk_common_problem">FAQ</string>
   <string name="livetalk_enable_switch">プリペイドプラン</string>
-  <string name="livetalk_manual">Operation Manual</string>
+  <string name="livetalk_manual">操作マニュアル</string>
   <string name="livetalk_name">プリペイドプランにチャージ</string>
   <string name="livetalk_package_introduction_text">"どの電話とでも格安通話チャージして通話を始めましょう"</string>
   <string name="livetalk_provider">%1$s提供</string>
@@ -683,7 +683,7 @@
   <string name="managed_roaming_title">ローミングの管理</string>
   <string name="managed_roaming_title_sub">ローミングの管理 (SUB%d)</string>
   <string name="menu_add">連絡先を追加</string>
-  <string name="menu_add_numbers">Add number</string>
+  <string name="menu_add_numbers">番号を追加</string>
   <string name="menu_delete">連絡先を削除</string>
   <string name="menu_edit">連絡先を編集</string>
   <string name="messageCFB">通話中着信の転送番号</string>
@@ -746,7 +746,7 @@
   <string name="multi_category_disable">複数カテゴリは無効になっています</string>
   <string name="multi_category_enable">複数カテゴリは有効になっています</string>
   <string name="name">名前</string>
-  <string name="name_hint_text">Name</string>
+  <string name="name_hint_text">名前</string>
   <string name="national_disable">国内ニュースは無効になっています</string>
   <string name="national_enable">国内ニュースは有効になっています</string>
   <string name="network_1x">1x</string>
@@ -839,9 +839,9 @@
   <string name="operator_remain_mins">キャリアプランの残り時間</string>
   <string name="operator_remain_mins_value">%1$s分</string>
   <string name="optional_summary">&lt;オプション></string>
-  <string name="order_error_network">Loading failed, network unavailable.</string>
-  <string name="order_error_retry">Retry</string>
-  <string name="order_error_unknown">Loading failed, unknown error.</string>
+  <string name="order_error_network">読み込みに失敗しました、ネットワークが利用できません。</string>
+  <string name="order_error_retry">再試行</string>
+  <string name="order_error_unknown">読み込みに失敗しました、不明なエラーです。</string>
   <string name="order_id">注文ID: %1$s</string>
   <string name="order_price">%1$s RMB</string>
   <string name="order_time">%1$s分</string>
@@ -1157,7 +1157,7 @@
   <string name="set_smsc_address_timeout">接続時間切れ</string>
   <string name="set_smsc_address_title">ショートメッセージサービスセンター (SMSC)</string>
   <string name="set_time_period">Set time period</string>
-  <string name="setting">Setting</string>
+  <string name="setting">設定</string>
   <string name="settings_label">"ネットワーク設定"</string>
   <string name="sim1_no_activated">"SIMカード1を認証出来ませんでした"</string>
   <string name="sim2_no_activated">"SIMカード2を認証出来ませんでした"</string>

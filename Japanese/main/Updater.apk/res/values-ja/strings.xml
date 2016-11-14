@@ -5,7 +5,7 @@
   <string name="active_xiaomi_account_msg">To activate your Mi Account, go to https://account.xiaomi.com/pass/serviceLogin.</string>
   <string name="active_xiaomi_account_title">Activate Mi Account</string>
   <string name="app_name">Updater</string>
-  <string name="apply_title">Updating (%s)</string>
+  <string name="apply_title">"更新中 (%s)"</string>
   <string name="apply_update_dialog_cancel_button">"キャンセル"</string>
   <string name="apply_update_dialog_update_button">Update</string>
   <string name="auto_agree_clause">Privacy Policy updated</string>
@@ -105,7 +105,7 @@
   <string name="miui_summary_no_new_version">No updates available</string>
   <string name="miui_summary_now_version">"ネットーワークに接続できません"</string>
   <string name="miui_summary_slogan">"  Simplify your life  "</string>
-  <string name="miui_summary_updating">"  Updating…  "</string>
+  <string name="miui_summary_updating">"  更新中…  "</string>
   <string name="monthly_build">Monthly</string>
   <string name="my_best_update">Best update</string>
   <string name="my_expect_update">Expectations</string>
@@ -144,9 +144,9 @@
   <string name="notification_uncrypt_title_hm">Reboot to apply update</string>
   <string name="notification_uncrypting">Decrypting update…</string>
   <string name="notification_update_new_version">Update available</string>
-  <string name="notification_update_now">Update now</string>
-  <string name="notification_updating">Updating…</string>
-  <string name="on_checking">Checking…</string>
+  <string name="notification_update_now">"今すぐ更新"</string>
+  <string name="notification_updating">"更新中…"</string>
+  <string name="on_checking">"確認中…"</string>
   <string name="open_now">"はい"</string>
   <string name="particular_build">Particular</string>
   <string name="pause">Pause</string>
