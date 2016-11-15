@@ -90,8 +90,8 @@
   <string name="operation_moving_detail">"移動中 (%1$d/%2$d)"</string>
   <string name="operation_paste">"貼り付け"</string>
   <string name="operation_pasting">"貼り付け中…"</string>
-  <string name="operation_pause">Pause</string>
-  <string name="operation_pause_all">Pause all</string>
+  <string name="operation_pause">"中断"</string>
+  <string name="operation_pause_all">"すべて中断"</string>
   <string name="operation_refresh">"更新"</string>
   <string name="operation_rename">"名前を変更"</string>
   <string name="operation_rename_message">"フォルダ名を変更"</string>

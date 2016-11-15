@@ -24,8 +24,8 @@
   <string name="button_delay_update_reboot">Reboot &amp; update</string>
   <string name="button_text_check">Check for updates</string>
   <string name="button_text_later_reboot">"後で"</string>
-  <string name="button_text_reboot">Reboot now</string>
-  <string name="button_text_reboot_hm">Reboot now</string>
+  <string name="button_text_reboot">"今すぐ再起動"</string>
+  <string name="button_text_reboot_hm">"今すぐ再起動"</string>
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Stop downloading update?</string>
   <string name="cancel_download_buton_text">"キャンセル"</string>
@@ -69,8 +69,8 @@
   <string name="download_full">Download full</string>
   <string name="download_success_reboot_immediately">Reboot to apply update</string>
   <string name="download_title">"ダウンロード中 (%s)"</string>
-  <string name="download_title_first">Getting info…</string>
-  <string name="download_title_full_download">Getting info…</string>
+  <string name="download_title_first">"情報を取得中…"</string>
+  <string name="download_title_full_download">"情報を取得中…"</string>
   <string name="edit_comment">Add comments</string>
   <string name="edit_comment_title">Edit comment</string>
   <string name="edit_text_default">Write a comment</string>
@@ -83,7 +83,7 @@
   <string name="fourgrid_notificaiont">"ステータスバーに表示"</string>
   <string name="get_auto">"モバイルネットワークまたはWi-Fiを使用"</string>
   <string name="get_current">Get current</string>
-  <string name="get_update_error">"Can't get update info"</string>
+  <string name="get_update_error">"更新情報を取得できません"</string>
   <string name="go_on_download">"ダウンロード"</string>
   <string name="important_suggestion">"プライバシーポリシーが変更されました"</string>
   <string name="install">"インストール"</string>
@@ -149,11 +149,11 @@
   <string name="on_checking">"確認中…"</string>
   <string name="open_now">"はい"</string>
   <string name="particular_build">Particular</string>
-  <string name="pause">Pause</string>
+  <string name="pause">"中断"</string>
   <string name="pm_root_acquired_button">Root access</string>
   <string name="pm_root_acquired_notification_title">Getting root access</string>
   <string name="pm_root_acquired_rooting">Getting root access %s</string>
-  <string name="pm_root_checking">Checking system info…</string>
+  <string name="pm_root_checking">"システム情報を確認中…"</string>
   <string name="pm_root_fail_button_retry">"再試行"</string>
   <string name="pm_root_fail_msg">"This app couldn't get root access. Try again."</string>
   <string name="pm_root_fail_service_busy">Wait until your device has finished updating and try again.</string>
@@ -185,8 +185,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_installfail_title_full">"Can't update"</string>
   <string name="set_network_msg">To download this update, connect to a WLAN network.</string>
   <string name="set_network_root_msg">To get root access, connect to a WLAN network.</string>
-  <string name="set_network_title">Connect to WLAN</string>
-  <string name="set_only_wifi">Use WLAN only</string>
+  <string name="set_network_title">"Wi-Fiに接続"</string>
+  <string name="set_only_wifi">"Wi-Fiのみ使用"</string>
   <string name="share">"共有"</string>
   <string name="share_qq">"Tencent Weiboに投稿"</string>
   <string name="share_sina">"Sina Weiboに投稿"</string>

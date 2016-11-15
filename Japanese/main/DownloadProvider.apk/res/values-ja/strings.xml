@@ -63,7 +63,7 @@
   <string name="task_already_exist">"タスクがすでに存在します"</string>
   <string name="warning_tip_cancel">"ダウンロード"</string>
   <string name="warning_tip_content">"You're no longer connected to Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
-  <string name="warning_tip_ok">Pause</string>
+  <string name="warning_tip_ok">"中断"</string>
   <string name="warning_tip_title">Data usage warning</string>
   <string name="wifi_recommended_body" formatted="false">"この%sのダウンロードを今すぐ行うと、電池消費量やデータ通信量が増え、通信プランによっては携帯通信会社の料金が発生します。\n\n[%s]をタップすると、次回Wi-Fiネットワーク接続時にダウンロードを行います。"</string>
   <string name="wifi_recommended_title">"キューに登録して後でダウンロードしますか？"</string>

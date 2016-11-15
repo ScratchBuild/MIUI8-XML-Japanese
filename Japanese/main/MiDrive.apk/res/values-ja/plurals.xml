@@ -137,7 +137,7 @@
         <item quantity="many">"%1$d日"</item>
     </plurals>
     <plurals name="des_running_trans">
-        <item quantity="other">"%1$d files haven't been transferred."</item>
-        <item quantity="one">"%1$d files hasn't been transferred."</item>
+        <item quantity="other">"%1$d個のファイルが転送されていません。"</item>
+        <item quantity="one">"%1$d個のファイルが転送されていません。"</item>
     </plurals>
 </resources>

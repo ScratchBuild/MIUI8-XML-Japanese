@@ -278,7 +278,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_title_not_synced">Not synced</string>
   <string name="micloud_main_title_sync_fail">"同期できません"</string>
   <string name="micloud_main_title_sync_off">Sync off</string>
-  <string name="micloud_main_title_sync_on_wifi">Use WLAN</string>
+  <string name="micloud_main_title_sync_on_wifi">Wi-Fiを使用</string>
   <string name="micloud_main_update_space">Get more storage space.</string>
   <string name="micloud_main_wlan_sync_data_count">Items waiting to sync: %d</string>
   <string name="micloud_member">Mi Cloud membership</string>

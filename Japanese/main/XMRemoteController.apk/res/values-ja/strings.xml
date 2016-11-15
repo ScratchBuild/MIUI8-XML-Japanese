@@ -424,9 +424,9 @@ Go back to continue"</string>
   <string name="match_dvd_intro_pause">Release when DVD playback pauses</string>
   <string name="match_dvd_intro_play">Release when DVD starts playing</string>
   <string name="match_dvd_intro_stop">Release when DVD playback stops</string>
-  <string name="match_dvd_name_pause">Pause</string>
-  <string name="match_dvd_name_play">Play</string>
-  <string name="match_dvd_name_stop">Stop</string>
+  <string name="match_dvd_name_pause">"一時停止"</string>
+  <string name="match_dvd_name_play">"再生"</string>
+  <string name="match_dvd_name_stop">"停止"</string>
   <string name="match_fail_frame">"Couldn't pair remote %1$d"</string>
   <string name="match_fail_model_hint">Enter remote model number</string>
   <string name="match_failed">No more items, go back or try again</string>
@@ -740,12 +740,12 @@ To activate your account, follow the
   <string name="program_booking_book_filter_book_status">Booking status</string>
   <string name="program_booking_book_filter_not_booked">Not booked</string>
   <string name="program_booking_channel_filter_all_channels">All Channels</string>
-  <string name="program_booking_date_filter_day_0">Today</string>
-  <string name="program_booking_date_filter_day_1">Tomorrow</string>
+  <string name="program_booking_date_filter_day_0">"今日"</string>
+  <string name="program_booking_date_filter_day_1">"明日"</string>
   <string name="program_booking_date_filter_day_2">Day after tomorrow</string>
   <string name="program_booking_date_filter_friday">Friday</string>
   <string name="program_booking_date_filter_monday">Monday</string>
-  <string name="program_booking_date_filter_next">Next</string>
+  <string name="program_booking_date_filter_next">"次へ"</string>
   <string name="program_booking_date_filter_saturday">Saturday</string>
   <string name="program_booking_date_filter_sunday">Sunday</string>
   <string name="program_booking_date_filter_thursday">Thursday</string>
@@ -756,7 +756,7 @@ To activate your account, follow the
   <string name="program_booking_time_filter_day">During the day</string>
   <string name="program_booking_time_filter_night">At night</string>
   <string name="program_booking_time_filter_whole_day">All day</string>
-  <string name="projection_failed_for_disconnect">Devices not connected</string>
+  <string name="projection_failed_for_disconnect">"デバイスが接続されていません"</string>
   <string name="province">Province</string>
   <string name="pull_down_refresh">Pull down to refresh</string>
   <string name="pull_to_refresh">Pull down to refresh</string>
@@ -836,8 +836,8 @@ directly from your Lock screen"</string>
   <string name="search_history_empty">No search history</string>
   <string name="search_more_failed">"Couldn't load results"</string>
   <string name="search_no_result">No results</string>
-  <string name="search_page_all_app_result">View all</string>
-  <string name="search_page_clear_history">Clear History</string>
+  <string name="search_page_all_app_result">"すべて表示"</string>
+  <string name="search_page_clear_history">"履歴を消去"</string>
   <string name="search_rank">Search by rank</string>
   <string name="search_video_app_hint">"検索"</string>
   <string name="seconds">"秒"</string>
@@ -931,7 +931,7 @@ directly from your Lock screen"</string>
   <string name="stb_power">STB on/off</string>
   <string name="steps">Attempt #%d</string>
   <string name="stop_auto_tune">Stop auto tune</string>
-  <string name="stop_diagnosis">Stop</string>
+  <string name="stop_diagnosis">"停止"</string>
   <string name="study_room">Study</string>
   <string name="submit">"送信"</string>
   <string name="submit_fail_retry">"Couldn't submit device info. Wait a minute or two and try again."</string>

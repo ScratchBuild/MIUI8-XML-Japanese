@@ -34,7 +34,7 @@
   <string name="cannot_connect_camera_once">"カメラに接続できません"</string>
   <string name="cannot_connect_camera_twice">"カメラに接続できません。お使いの端末を再起動してください。"</string>
   <string name="cannot_connect_camera_volte_call">Video call is ongoing, please try later.</string>
-  <string name="cannot_move_warning_message">Taking photo, keep the device still</string>
+  <string name="cannot_move_warning_message">"写真を撮影中です、端末を静止したままにしてください"</string>
   <string name="confirm_location_alert">Remember photo locations</string>
   <string name="confirm_location_message">Tag your photos and videos with the locations where they are taken. Other apps can access this information along with your saved images.</string>
   <string name="confirm_location_title">Remember photo locations?</string>
@@ -51,9 +51,9 @@
 The object shouldn't be further than 2 meters."</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">"Couldn't start audio capture"</string>
-  <string name="face_analyze_info">Age: %2$s (%1$s)</string>
-  <string name="face_analyze_info_female">Female</string>
-  <string name="face_analyze_info_male">Male</string>
+  <string name="face_analyze_info">"年齢: %2$s (%1$s)"</string>
+  <string name="face_analyze_info_female">"女性"</string>
+  <string name="face_analyze_info_male">"男性"</string>
   <string name="face_beauty_advanced">Pro</string>
   <string name="face_beauty_age_alias_0_7">0-7</string>
   <string name="face_beauty_age_alias_18_30">18-30</string>
@@ -247,7 +247,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_volumekey_function_entry_volume">"音量"</string>
   <string name="pref_camera_volumekey_function_entry_zoom">"ズーム"</string>
   <string name="pref_camera_volumekey_function_title">"音量ボタンの機能"</string>
-  <string name="pref_camera_watermark_title">Add time stamp in photo</string>
+  <string name="pref_camera_watermark_title">"写真にタイムスタンプを追加"</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Cloudy</string>
   <string name="pref_camera_whitebalance_entry_daylight">Daylight</string>

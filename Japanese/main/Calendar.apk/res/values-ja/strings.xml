@@ -18,12 +18,12 @@
   <string name="acct_not_synced">"このアカウントは同期されていないため、カレンダーが最新ではない可能性があります。"</string>
   <string name="acessibility_selected_marker_description">"選択した予定"</string>
   <string name="action_label">"戻る"</string>
-  <string name="action_text_card_manager">订阅频道</string>
+  <string name="action_text_card_manager">"チャンネルを購読"</string>
   <string name="action_text_new_event">"新しい予定"</string>
   <string name="action_text_today">"今日"</string>
   <string name="ad_card_connecting">"接続中"</string>
-  <string name="ad_card_download_count">%1$s人下载</string>
-  <string name="ad_card_download_count_million">%1$s万人下载</string>
+  <string name="ad_card_download_count">"%1$s人がダウンロード"</string>
+  <string name="ad_card_download_count_million">"%1$s万人がダウンロード"</string>
   <string name="ad_card_downloading">"ダウンロード中"</string>
   <string name="ad_card_install">"今すぐインストール"</string>
   <string name="ad_card_installed">"インストール済み"</string>
@@ -132,7 +132,7 @@
   <string name="delete_calendar">"購読解除"</string>
   <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
   <string name="delete_this_event_title">"この予定を削除しますか？"</string>
-  <string name="delete_topic_dialog_title">确认要退订\"%s\"吗？</string>
+  <string name="delete_topic_dialog_title">"%sを解除しますか？"</string>
   <string name="delete_topic_success">退订\"%s\"成功</string>
   <string name="deleting_calendar">退订中</string>
   <string name="departure">"出発"</string>
@@ -151,7 +151,7 @@
   <string name="drop_down_list_header_loading_text">"読み込み中…"</string>
   <string name="drop_down_list_header_pull_text">"画面を引っ張って"</string>
   <string name="drop_down_list_header_release_text">"指を離して更新"</string>
-  <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
+  <string name="dropdown_delete_button_desc">"受信者から%sを削除する"</string>
   <string name="edit_event_all_day_label">"終日"</string>
   <string name="edit_event_calendar_label">"カレンダー"</string>
   <string name="edit_event_confirm_message">"変更を破棄しますか？"</string>
@@ -414,7 +414,7 @@
   <string name="subscribe_card_success">订阅成功，可在首页查看</string>
   <string name="subscribe_card_success_for_homepage">订阅“%1$s”成功</string>
   <string name="subscribe_channel_click_hint">订阅后可阅读</string>
-  <string name="subscribe_channel_footer_button">订阅管理</string>
+  <string name="subscribe_channel_footer_button">"購読の管理"</string>
   <string name="subscribe_channel_footer_desc">查看已订阅的内容，或进入管理进行退订</string>
   <string name="subscribe_channel_footer_title">已订阅</string>
   <string name="subscribe_channel_footer_view">查看</string>
@@ -457,7 +457,7 @@
   <string name="today_train_event">Train</string>
   <string name="tomorrow">"明日"</string>
   <string name="tomorrow_at_time_fmt">"明日の%s"</string>
-  <string name="topic_dialog_title">退订订阅</string>
+  <string name="topic_dialog_title">退订订阅<ｓｘ/string>
   <string name="topic_list_header_label">订阅列表</string>
   <string name="travel_airport">"空港"</string>
   <string name="travel_carriage_number_text">Car</string>

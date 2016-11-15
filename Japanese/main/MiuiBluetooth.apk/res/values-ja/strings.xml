@@ -41,8 +41,8 @@
   <string name="ok_button">OK</string>
   <string name="progress_scanning">Searching…</string>
   <string name="reset_function_msg">Resetting this feature may prevent %1$s from working normally.</string>
-  <string name="some_app_taking">(%1$s is already using this feature)</string>
-  <string name="unbind_device_alert_cancel">Cancel</string>
+  <string name="some_app_taking">"(%1$sが既にこの機能を使用しています)"</string>
+  <string name="unbind_device_alert_cancel">"キャンセル"</string>
   <string name="unbind_device_alert_content">Lost connection with %1$s. To save battery, unpair this device now.</string>
   <string name="unbind_device_alert_ok">Unpair</string>
   <string name="unbind_device_alert_title">Unpair device</string>

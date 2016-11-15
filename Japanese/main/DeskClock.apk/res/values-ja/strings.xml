@@ -77,7 +77,7 @@
   <string name="minute">"1分"</string>
   <string name="minutes">"%s分"</string>
   <string name="more_settings">"その他の設定"</string>
-  <string name="never">Once</string>
+  <string name="never">"一度だけ"</string>
   <string name="oneshot_alarm">Delete after goes off</string>
   <string name="pause">"停止"</string>
   <string name="remind_ringtone">Ringtone</string>
@@ -101,7 +101,7 @@
   <string name="stat_repeat_everyday">"毎日"</string>
   <string name="stat_repeat_legal_off_day">法定节假日</string>
   <string name="stat_repeat_legal_workday">法定工作日</string>
-  <string name="stat_repeat_none">一次性</string>
+  <string name="stat_repeat_none">"一度だけ"</string>
   <string name="stat_repeat_self_define">"カスタム"</string>
   <string name="stat_repeat_weekdays">"平日（月～金）"</string>
   <string name="stat_repeat_weekends">"週末"</string>
