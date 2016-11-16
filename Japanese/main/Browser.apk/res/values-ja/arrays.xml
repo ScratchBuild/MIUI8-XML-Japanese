@@ -39,6 +39,6 @@
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>"削除"</item>
-        <item>No thanks</item>
+        <item>"結構です"</item>
     </string-array>
 </resources>

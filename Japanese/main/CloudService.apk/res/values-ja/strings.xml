@@ -290,8 +290,8 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_member_net_error_alert_message">"You don't have an internet connection."</string>
   <string name="micloud_member_net_error_alert_title">ネットワークに接続できません</string>
   <string name="micloud_member_pay_fail_toast">"Couldn't complete payment"</string>
-  <string name="micloud_member_pay_miid_error_toast">Account error</string>
-  <string name="micloud_member_pay_order_error_toast">Data error</string>
+  <string name="micloud_member_pay_miid_error_toast">アカウントエラー</string>
+  <string name="micloud_member_pay_order_error_toast">データエラー</string>
   <string name="micloud_member_refresh_button">更新</string>
   <string name="micloud_member_webload_fail_error_message">ネットワークエラー</string>
   <string name="micloud_member_webload_fail_toast_4xx">"Couldn't load page"</string>
@@ -331,8 +331,8 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_setting_sms_summary">"SMSとMMSメッセージ"</string>
   <string name="micloud_setting_wifi_summary">"Wi-Fi設定"</string>
   <string name="micloud_single_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
-  <string name="micloud_space_applist_detail">Manage apps on your Home screen</string>
-  <string name="micloud_space_applist_title">Manage apps</string>
+  <string name="micloud_space_applist_detail">"ホーム画面のアプリを管理"</string>
+  <string name="micloud_space_applist_title">"アプリを管理"</string>
   <string name="micloud_space_duokan_detail">Download and manage ebooks with the Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
@@ -411,9 +411,9 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="phone_number_may_required_dspt_provision">"This service may require your phone number. "</string>
   <string name="phone_number_required_dspt_provision">"This service requires your phone number. "</string>
   <string name="photo">写真</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
-  <string name="pref_title_sync_contacts_title">Sync contacts</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Only use WLAN to sync photos</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"Wi-Fiネットワークに接続している場合にのみ、連絡先のプロフィール写真を同期する"</string>
+  <string name="pref_title_sync_contacts_title">"連絡先を同期"</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">"写真の同期はWi-Fiのみ使用する"</string>
   <string name="privacy_policy">プライバシーポリシー</string>
   <string name="recommend_open_all_sync">"すべてのアイテムを同期"</string>
   <string name="remind_later">後で</string>
@@ -443,7 +443,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
   <string name="sms">Messages</string>
   <string name="some_sync_item_close">%d are off</string>
-  <string name="soundrecorder_sync_only_in_wifi">Only use WLAN to sync</string>
+  <string name="soundrecorder_sync_only_in_wifi">"同期はWi-Fiのみ使用する"</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
   <string name="soundrecorder_sync_records">"Mi Cloudと同期"</string>
   <string name="start_micloud">開始</string>

@@ -12,7 +12,7 @@
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
   <string name="birthday">"誕生日"</string>
-  <string name="check_phone_error_title">Sync is off</string>
+  <string name="check_phone_error_title">"同期はオフです"</string>
   <string name="check_phone_io_error">"ネットワークに接続できません"</string>
   <string name="chinese_day_1">初一</string>
   <string name="chinese_day_10">初十</string>
@@ -110,8 +110,8 @@
   <string name="empty"/>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
-  <string name="error_forbidden">Sync has been turned off due to problems with your Mi Account.</string>
-  <string name="error_not_acceptable">Sync has been turned off.</string>
+  <string name="error_forbidden">"Mi Accountに問題があるため、同期はオフになっています。"</string>
+  <string name="error_not_acceptable">"同期はオフです。"</string>
   <string name="error_title">"同期できません"</string>
   <string name="error_unauthorized">Sync has been turned off due to too many sign-in attempts.</string>
   <string name="evening">PM</string>

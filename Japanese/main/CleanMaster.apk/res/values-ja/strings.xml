@@ -11,7 +11,7 @@
   <string name="activity_title_garbage_cleanup">"クリーナー"</string>
   <string name="activity_title_ignored_image">Ignored</string>
   <string name="activity_title_image_gallery">Delete duplicates</string>
-  <string name="activity_title_large_file">Big files</string>
+  <string name="activity_title_large_file">"大きいファイル"</string>
   <string name="activity_title_main">"クリーナー"</string>
   <string name="activity_title_news">News</string>
   <string name="activity_title_privacy_cache">"プライバシーキャッシュ"</string>
@@ -435,9 +435,9 @@
   <string name="set_immediately">Set</string>
   <string name="seton_immediately">Turn on</string>
   <string name="share">"共有"</string>
-  <string name="similar_image_desc">Delete similar photos</string>
-  <string name="similar_image_empty">No duplicates found</string>
-  <string name="similar_image_scaning">Checking…</string>
+  <string name="similar_image_desc">"類似の写真を削除する"</string>
+  <string name="similar_image_empty">"重複は見つかりませんでした"</string>
+  <string name="similar_image_scaning">確認中…</string>
   <string name="similar_image_title">"写真"</string>
   <string name="sms">SMS/MMS</string>
   <string name="sponsored">Sponsored</string>
@@ -472,8 +472,8 @@
   <string name="title_delete_large_file">"大きいファイルを削除"</string>
   <string name="title_of_app_manage">"アプリ"</string>
   <string name="title_of_auto_launch_manage">"自動起動"</string>
-  <string name="title_of_cloud_service">Cloud services</string>
-  <string name="title_of_garbage_cloud_scan">Cloud scan</string>
+  <string name="title_of_cloud_service">"クラウドサービス"</string>
+  <string name="title_of_garbage_cloud_scan">"クラウドスキャン"</string>
   <string name="title_of_garbage_data_set">Cleaner database updates</string>
   <string name="title_of_network_speed_set">"ステータスバーに接続速度を表示"</string>
   <string name="title_of_operators_set">"携帯通信会社の設定"</string>
@@ -495,7 +495,7 @@
   <string name="toast_network_switch">"このアプリはインターネットに接続することができます"</string>
   <string name="toast_removed_from_white_list">" 例外から削除しました"</string>
   <string name="toast_resolve_apk_error">Resolve apk error</string>
-  <string name="toast_scaning_similar_image">Checking photos…</string>
+  <string name="toast_scaning_similar_image">"写真を確認中…"</string>
   <string name="toast_select_image_need_delete">"削除する写真を選択してください"</string>
   <string name="toast_select_white_need_remove">"削除する項目を選択してください"</string>
   <string name="toast_selecte_group_restore_succeed">"写真を復元しました"</string>
