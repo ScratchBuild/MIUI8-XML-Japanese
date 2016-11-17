@@ -89,6 +89,7 @@
   <string name="count_ge_media">%d videos</string>
   <string name="count_ji_quan">All %d Eps</string>
   <string name="count_qi">Ep. %s</string>
+  <string name="create_tencent_shortcut_message">Has created a Tencent Video Shortcut on the DeskTop</string>
   <string name="data_buffering">"バッファリング中…"</string>
   <string name="datastream_alert_download">Using your mobile data connection to download videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="datastream_alert_hint">You can turn off data usage notifications any time in Settings.</string>
@@ -365,6 +366,7 @@
   <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
   <string name="temp_play_history_button_label">History</string>
   <string name="tencent">Tencent</string>
+  <string name="tencent_shortcut_name">蜗牛有爱情</string>
   <string name="to_be_play_label_v5">"Up next: "</string>
   <string name="toast_back_key_pressed_notice">To exit, touch Back again</string>
   <string name="toast_message_continue_play_from">Playing from </string>

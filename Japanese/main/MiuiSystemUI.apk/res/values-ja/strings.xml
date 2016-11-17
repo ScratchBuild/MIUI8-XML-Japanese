@@ -198,9 +198,9 @@
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">はい</string>
   <string name="nav_guide_cancel">無視</string>
-  <string name="nav_guide_message">設定後に画面ボタンの表示/非表示を行うジェスチャーを使うことができます。</string>
-  <string name="nav_guide_ok">設定</string>
-  <string name="nav_guide_title">画面ボタンの非表示</string>
+  <string name="nav_guide_message">ソフトボタンの表示/非表示をジェスチャーで使用。</string>
+  <string name="nav_guide_ok">設定する</string>
+  <string name="nav_guide_title">ソフトボタンの非表示</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">通知はありません。</string>
   <string name="no_weather_description">天気情報を取得する ></string>

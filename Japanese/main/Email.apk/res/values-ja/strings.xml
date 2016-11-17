@@ -17,6 +17,10 @@
   <string name="account_set_up_change_type_note">"POP3とIMAPの設定を切り替えたい場合には、アカウント設定を削除して新たに作成し直す必要があります。"</string>
   <string name="account_setting">"アカウント"</string>
   <string name="account_setting_keywords">"アカウント;メールアカウント"</string>
+  <string name="account_setting_message_body_load_complete">Full message</string>
+  <string name="account_setting_message_body_load_head_abstract">Email summary</string>
+  <string name="account_setting_message_body_load_head_only">Header only</string>
+  <string name="account_setting_message_body_load_text">Body only</string>
   <string name="account_settings_action">"アカウントの設定"</string>
   <string name="account_settings_background_attachments_label">"添付ファイルのダウンロード"</string>
   <string name="account_settings_background_attachments_summary">"Wi-Fi接続時に最近のメールの添付ファイルを自動的にダウンロード"</string>
@@ -114,7 +118,7 @@
   <string name="account_setup_options_mail_check_frequency_12hour">"12時間ごと"</string>
   <string name="account_setup_options_mail_check_frequency_1hour">"1時間ごと"</string>
   <string name="account_setup_options_mail_check_frequency_4hour">"4時間ごと"</string>
-  <string name="account_setup_options_mail_check_frequency_imap_push">"自動 (プッシュ、サーバがサポートしている場合)"</string>
+  <string name="account_setup_options_mail_check_frequency_imap_push">"自動 (プッシュ)"</string>
   <string name="account_setup_options_mail_check_frequency_never">"自動確認しない"</string>
   <string name="account_setup_options_mail_check_frequency_push">"自動（プッシュ）"</string>
   <string name="account_setup_options_mail_window_1day">"過去1日間"</string>
@@ -184,6 +188,7 @@
   <string name="attachment_not_exists">The attachment is not available!</string>
   <string name="attachment_open_SecurityException_hint">"ファイルを開く権限を持っていないか、ファイルが破損している可能性があります。"</string>
   <string name="attachment_open_SecurityException_title">"ファイルを開けません"</string>
+  <string name="attachment_size_exceed_limit">"Looks like the size exceeded the server's limit"</string>
   <string name="attachment_stop_all">"停止"</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
@@ -232,7 +237,7 @@
   <string name="colon">:</string>
   <string name="compose">"作成"</string>
   <string name="compose_attachment_number_limit">"10個以上の添付ファイルを追加することはできません"</string>
-  <string name="compose_paste_address_oob">"貼りつけた文字が長すぎるため、一部が切り捨てられました"</string>
+  <string name="compose_paste_address_oob">Too many characters</string>
   <string name="compose_picturesexceedlimits">"メッセージ内のインライン画像は5枚が上限です"</string>
   <string name="compose_send">"送信"</string>
   <string name="compose_sent">"メールを送信"</string>
@@ -250,14 +255,12 @@
   <string name="confirm_send_message_with_no_body">"メッセージの本文にテキストがありません。"</string>
   <string name="confirm_send_message_with_no_subject">"このメッセージには件名がありません。"</string>
   <string name="confirm_send_title">"メッセージを送信しますか？"</string>
-  <string name="contact_edit_set_black_list_filtering">"フィルタリング中…"</string>
   <string name="contact_edit_set_black_list_from">"この送信者からのすべてのメールをゴミ箱に移動"</string>
   <string name="contact_edit_set_black_list_receive">"この送信者からのメールをゴミ箱に移動 (新しいメールのみ)"</string>
   <string name="contact_edit_set_black_list_receive_summary">"ToまたはCcフィールドにこの受信者が含まれるメールを削除"</string>
   <string name="contact_edit_set_black_list_title">"ブロックリストに追加"</string>
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
   <string name="contact_edit_title_phone_contact">Phone contacts list</string>
-  <string name="contact_in_filter_call_phone_str">"%sからの着信"</string>
   <string name="contact_in_filter_title">"送信者"</string>
   <string name="contact_info_string">Show contact information for %1$s</string>
   <string name="contact_info_string_default">"連絡先の情報を表示"</string>
@@ -272,7 +275,7 @@
   <string name="contextmenu_add_contact">Add contact</string>
   <string name="contextmenu_call">Call</string>
   <string name="contextmenu_copy">"コピー"</string>
-  <string name="contextmenu_copylink">"URLのリンクをコピー"</string>
+  <string name="contextmenu_copylink">"URLをコピー"</string>
   <string name="contextmenu_create">Create a new contact</string>
   <string name="contextmenu_dial_dot">"発信…"</string>
   <string name="contextmenu_edit">Edit contact</string>
@@ -289,6 +292,9 @@
   <string name="conversation_item_mark_read">"既読"</string>
   <string name="conversation_item_mark_unread">"未読"</string>
   <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
+  <string name="conversation_quick_button_approve">Agree</string>
+  <string name="conversation_quick_button_disapprove">Disagree</string>
+  <string name="conversation_quick_button_received">Received</string>
   <string name="conversation_view">"スレッド表示"</string>
   <string name="conversation_view_keywords">conversation view;mail conversation</string>
   <string name="copied">"コピーしました"</string>
@@ -346,7 +352,6 @@
   <string name="download_confirm_message">Download %1$s attachments?</string>
   <string name="download_confirm_title">Download attachment</string>
   <string name="download_message_failed_for_too_large">Message is too big to download.</string>
-  <string name="download_whole_email">View the rest of the message</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_contacts">"連絡先"</string>
@@ -395,6 +400,7 @@
   <string name="file_not_found_redownload">"ファイルが見つかりませんでした"</string>
   <string name="file_rar_not_support">"暗号化されたrarファイルを開くことができません"</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
+  <string name="first_quick_default_reply">Click this shortcut, then \"%s\" will be sent to all recipients.</string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
   <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -444,7 +450,7 @@
   <string name="general_preference_confirm_delete_label">"削除前に確認する"</string>
   <string name="general_preference_confirm_send_label">"送信前に確認する"</string>
   <string name="general_preference_str_auto_translation">"クイック翻訳"</string>
-  <string name="general_preference_str_auto_translation_prompt">"対応するコンテンツをコピーして翻訳結果を表示する"</string>
+  <string name="general_preference_str_auto_translation_prompt">Copy text to see translation</string>
   <string name="general_preference_text_zoom_dialog_title">"メッセージの文字サイズ"</string>
   <string name="general_preference_text_zoom_huge">"極大"</string>
   <string name="general_preference_text_zoom_label">"メッセージの文字サイズ"</string>
@@ -472,18 +478,10 @@
   <string name="hint_quick_reply_all">"全員に返信"</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">"受信メールサーバーのパスワードが間違っています"</string>
-  <string name="info_actionbar_normal_detail">"詳細"</string>
-  <string name="info_actionbar_subscribe">News feed</string>
-  <string name="info_item_from">From </string>
+  <string name="info_actionbar_normal_detail">Promotion</string>
   <string name="info_item_hide">"隠す"</string>
-  <string name="info_loading">"読み込み中…"</string>
-  <string name="info_name_title">NEWS</string>
-  <string name="info_no_message">No articles to view</string>
-  <string name="info_no_more_message">No more items to view</string>
-  <string name="info_switch_summary">View top news</string>
-  <string name="info_switch_title">Inbox news</string>
-  <string name="info_sync_error">"Couldn't sync, try again later."</string>
-  <string name="information_subscribe_first_intro">"Looks like you're using News feed for the first time. Tell us about your interests so we could personalize your news."</string>
+  <string name="info_switch_summary">Show promotions on top of the inbox</string>
+  <string name="info_switch_title">Promotion</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
   <string name="input_password_prompt">"パスワードを入力してください"</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
@@ -496,7 +494,7 @@
   <string name="load_more">Load more</string>
   <string name="loading_conversation">"読み込み中…"</string>
   <string name="loading_conversations">"読み込み中…"</string>
-  <string name="loading_from_remote">"検索中…"</string>
+  <string name="loading_from_remote">"読み込み中…"</string>
   <string name="local_search">Local search</string>
   <string name="local_search_result">%s results in synced messages</string>
   <string name="login">"ログイン"</string>
@@ -587,6 +585,7 @@
   <string name="menu_att_mgr_order_size">Sort by size</string>
   <string name="menu_change_folders">"移動"</string>
   <string name="menu_compose">"作成"</string>
+  <string name="menu_contact_edit">"編集"</string>
   <string name="menu_discovery">Discover</string>
   <string name="menu_folder_options">Sync options</string>
   <string name="menu_move_to">Move to</string>
@@ -598,6 +597,7 @@
   <string name="menu_search">"検索"</string>
   <string name="menu_settings">"設定"</string>
   <string name="merged_mailbox_compose_select_account">"アカウントの選択"</string>
+  <string name="message_body_load_set_description">Load size for new emails when using mobile data</string>
   <string name="message_compose_insert_quick_response_list_title">"クイック返信の挿入"</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">"メッセージのデコード中にエラーが発生しました。"</string>
@@ -621,7 +621,6 @@
   <string name="move_to_selection_dialog_title">Move to another folder</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Mute</string>
-  <string name="net_check_title">"ネットワークに接続できませんでした。設定を確認して、もう一度やり直してください。"</string>
   <string name="network_error">No connection</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="network_try_again">Check network connection and try again</string>
@@ -754,7 +753,6 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Pull down to refresh</string>
-  <string name="pull_up_to_load_more">Pull up to load more</string>
   <string name="push_wps_better_confirm_download">"ダウンロード"</string>
   <string name="push_wps_better_confirm_exit">"後で"</string>
   <string name="push_wps_better_confirm_message">"この添付ファイルを開くためにWPS Officeを試す。"</string>
@@ -783,6 +781,7 @@
   <string name="quick_reply_hint_bcc">(In BCC)</string>
   <string name="quick_reply_hint_cc">(In CC)</string>
   <string name="quick_reply_hint_reply_only_from">"クイック返信 (送信者のみ)"</string>
+  <string name="quick_reply_pattern">.*审批.*|.*批准.*|.*申请.*|.*申报.*|.*请示.*|.*请求.*</string>
   <string name="quick_responses_empty_view">"クイック返信がありません。"</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"></string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
@@ -817,6 +816,7 @@
   <string name="refreshing">"更新中…"</string>
   <string name="refreshing_done">"完了"</string>
   <string name="release_to_refresh">"指を離して更新"</string>
+  <string name="remind_attachment_size_limit">Your emails should be less than %sMB</string>
   <string name="remote_search_result">%s results on server</string>
   <string name="remove_account">"アカウントを削除"</string>
   <string name="remove_folder">"%1$sから削除"</string>
@@ -859,16 +859,17 @@
   <string name="security_unsupported_ticker_fmt">"アカウント「%s」はセキュリティ要件により同期できません。"</string>
   <string name="select_attachment_type">Choose attachment from</string>
   <string name="select_no_file">"添付ファイルが選択されていません"</string>
-  <string name="selected_lable">Selected</string>
   <string name="send">"送信"</string>
   <string name="send_failed">"メッセージは送信されませんでした。"</string>
   <string name="send_feed_back">"フィードバックを送信"</string>
   <string name="send_feed_back_keywords">"フィードバックを送信"</string>
+  <string name="send_mail">"送信"</string>
   <string name="sender_whitelist_cleared">"Pictures won't be shown automatically."</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">"送信中…"</string>
   <string name="sending_message">"メッセージを送信中…"</string>
+  <string name="sending_quick_reply">Sending email \"%s\"</string>
   <string name="sent_folder_selection_title">"%sのサーバーの送信済みフォルダを選択してください"</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate\n\u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
   <string name="ser_resp_err_map_landing_more_failure">Too many unsuccessful sign in attempts</string>
@@ -941,13 +942,13 @@
   <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
   <string name="topic_merge">Merge themes</string>
   <string name="translation_loading">"読み込み中…"</string>
-  <string name="translation_no_result">No result found</string>
-  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_no_result">No results</string>
+  <string name="translation_pronunciation_am">AmE</string>
   <string name="translation_pronunciation_cn">Pinyin</string>
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Machine</string>
-  <string name="translation_query_failure">Search failed</string>
-  <string name="translation_technology_support">Technical Support by PowerWord</string>
+  <string name="translation_query_failure">"Couldn't find results"</string>
+  <string name="translation_technology_support">Technical support by iciba.com</string>
   <string name="trash_folder_selection_title">"%sのサーバーのゴミ箱フォルダを選択してください"</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
@@ -960,7 +961,6 @@
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
   <string name="undo">Undo</string>
   <string name="unread_string">conversation unread</string>
-  <string name="unselected_lable">More</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
@@ -993,7 +993,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
   <string name="wipe_account_fail_title">"個人情報を削除できませんでした"</string>
   <string name="wrong_password">"入力したパスワードが正しくありません"</string>
   <string name="yes">"はい"</string>
-  <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Send log using mobile data connection? If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
+  <string name="youfuli">Promotion</string>
   <string name="zip_viewer_no_file">No files.</string>
 </resources>

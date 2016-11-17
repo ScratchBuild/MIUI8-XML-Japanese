@@ -352,7 +352,7 @@
   <string name="band_mode_succeeded">成功</string>
   <string name="band_mode_title">GSM/UMTSバンドの設定</string>
   <string name="baseband_version">ベースバンドバージョン</string>
-  <string name="batch_delete_saved_network">Delete saved network: %s?</string>
+  <string name="batch_delete_saved_network">Delete saved networks: %s?</string>
   <string name="batch_delete_saved_networks">選択したすべてのネットワークを削除</string>
   <string name="battery_action_app_details">アプリ情報</string>
   <string name="battery_action_app_settings">アプリの設定</string>
@@ -637,6 +637,8 @@
   <string name="bluetooth_unlock_change_device_confirm_msg">古いデバイスは、現在のデバイスに置き換えられます。</string>
   <string name="bluetooth_unlock_change_matched_device">他のデバイスを選択</string>
   <string name="bluetooth_unlock_confirm_device_text">タッチしてロックを解除する</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Tap the button on the watch to unlock.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Tap the button on device to unlock.</string>
   <string name="bluetooth_unlock_delete_device">このデバイスを削除する</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">このデバイスを削除しますか？</string>
   <string name="bluetooth_unlock_device_matched_text">このデバイスをロック解除に使用する</string>
@@ -787,6 +789,7 @@
   <string name="children_mode_title">キッズモード</string>
   <string name="choose_assist_title">アシストアプリの選択</string>
   <string name="choose_profile">プロファイルの選択</string>
+  <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">タイムゾーンの選択</string>
   <string name="choose_voice_input_title">音声入力の選択</string>
   <string name="cleaner">クリーナー</string>
@@ -1469,6 +1472,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="free_xiaomi_wifi_connect_summary">タップして%1$sへ接続</string>
   <string name="frequently_fragment_delete">削除</string>
   <string name="frequently_fragment_tempty">使用頻度の高い項目は、ここに表示されます</string>
+  <string name="full_transparent_smarrcover_title">Transparent front cover</string>
   <string name="fullbackup_data_summary">"端末のデータ（Wi-Fiのパスワードや通話履歴など）とアプリのデータ（アプリで保存された設定やファイルなど）を自動的にリモートでバックアップします。
 
 自動バックアップをONにすると、端末のデータとアプリのデータは定期的にリモートで保存されます。アプリのデータとしては、連絡先、メッセージ、写真など、機密と見なされるデータを含め、（デベロッパーの設定に基づいて）アプリで保存されたすべてのデータがバックアップされる可能性があります。"</string>
@@ -1726,6 +1730,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="large_font">大</string>
   <string name="last_synced">最終同期日時: %1$s</string>
   <string name="last_time_used_label">前回の使用</string>
+  <string name="lattice_smartcover_title">Lattice front cover</string>
   <string name="launch_by_default">既定で開く</string>
   <string name="launch_defaults_none">既定の設定なし</string>
   <string name="launch_defaults_some">一部デフォルトを設定</string>
@@ -2138,7 +2143,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="multi_touch_points_preference">この設定は、端末を再起動した後に有効になります</string>
   <string name="music_audio_effect_optimize">オーディオ設定</string>
   <string name="music_audio_effect_optimize_summary">Dirac、ヘッドフォン、その他のオーディオ設定</string>
-  <string name="music_audio_effect_optimize_summary_with_hd">Dirac、HD Sound、ヘッドフォン、その他のオーディオ設定</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac、Hi-Fi、ヘッドフォン、その他のオーディオ設定</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac、Hi-Fi、ヘッドフォン、その他のオーディオ設定</string>
   <string name="music_audio_effect_settings">エフェクト設定</string>
   <string name="music_dirac_control">音質を最適化</string>
@@ -2258,6 +2263,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_updates_warning">お使いのシステムは最新です</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">周辺ノイズの低減</string>
+  <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">未インストール</string>
   <string name="notes_privacy_password_role_instruction">プライベートなノートはここに保存されます。</string>
   <string name="notification_app_settings_button">通知設定</string>
@@ -3478,6 +3484,9 @@ PINが正しくない可能性があります。"</string>
   <string name="slot_number">（スロット%1$d）</string>
   <string name="slot_status_title">IMEI情報</string>
   <string name="small_font">小</string>
+  <string name="smallwindow_smartcover_title">Transparent front cover</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">smart cover lock or unlock screen</string>
+  <string name="smartcover_sensitive_summary">lock or unlock the phone easily with smart cover</string>
   <string name="smartcover_sensitive_title">スマートカバーモード</string>
   <string name="sms_application_title">SMSアプリ</string>
   <string name="sms_change_default_dialog_text">SMSアプリとして%2$sの代わりに%1$sを使用しますか？</string>

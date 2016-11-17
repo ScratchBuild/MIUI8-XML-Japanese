@@ -17,7 +17,7 @@
   <string name="auto_dialog_msg_check_again">"You must agree to our updated Privacy Policy before you can update your system. "</string>
   <string name="auto_dialog_title_check_again">Cancel update?</string>
   <string name="auto_update">Update automatically</string>
-  <string name="auto_update_sum">Download updates automatically when connected to WLAN</string>
+  <string name="auto_update_sum">Download updates when connected to WLAN and install at night</string>
   <string name="autosetmode">"設定"</string>
   <string name="best_update">Best update so far</string>
   <string name="boot_recovery">Reboot to Recovery mode?</string>

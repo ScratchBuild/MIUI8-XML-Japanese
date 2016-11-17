@@ -66,7 +66,7 @@
   <string name="flash_lable">Flash</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Import contact</string>
-  <string name="impunity_declaration_content">このアプリが正常に動作するには、インターネットへの接続が必要です。</string>
+  <string name="impunity_declaration_content">このアプリが正常に動作するには、インターネットへの接続と位置情報サービスへのアクセスが必要です。</string>
   <string name="impunity_declaration_negative_text">終了</string>
   <string name="impunity_declaration_positive_text">許可</string>
   <string name="impunity_declaration_title">利用規約</string>

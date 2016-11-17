@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d are off</item>
+        <item quantity="one">%d is off</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Items waiting to sync: %d</item>
+        <item quantity="one">Item waiting to sync: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d items waiting to sync</item>
+        <item quantity="one">%d item waiting to sync</item>
+    </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d件の連絡先</item>
         <item quantity="one">%d件の連絡先</item>

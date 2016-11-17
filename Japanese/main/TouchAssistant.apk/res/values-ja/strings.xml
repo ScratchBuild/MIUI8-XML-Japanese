@@ -17,6 +17,8 @@
   <string name="motion_behavior">"動作の割り当て"</string>
   <string name="name_alipay_payment_code">Alipay payment</string>
   <string name="name_alipay_scan">Alipay scanner</string>
+  <string name="name_all_mipay_cards">Mi Pay</string>
+  <string name="name_handy_mode">Handy Mode</string>
   <string name="name_long_press_power_key">"電源ボタンを長押し"</string>
   <string name="name_memory_clean">"キャッシュのクリア"</string>
   <string name="name_music_next_song">"次の曲"</string>
@@ -30,12 +32,16 @@
   <string name="name_quick_search">"検索</string>
   <string name="name_scan_to_pay">Scan to pay</string>
   <string name="name_screenshot">"スクリーンショット"</string>
+  <string name="name_trans_cards">Transport card</string>
   <string name="name_wechat_payment_code">WeChat payment</string>
   <string name="name_wechat_scan">WeChat scanner</string>
+  <string name="nfc_all_mipay_card_not_in_use">"Mi Pay isn't activated"</string>
+  <string name="nfc_trans_card_not_in_use">"Transport card isn't activated"</string>
   <string name="not_working">%s (Not working)</string>
   <string name="open_panel">"Quick ballを開く"</string>
   <string name="pay_entry_dialog_title_select">Select app to open</string>
   <string name="pay_entry_dialog_title_setting">Set app</string>
+  <string name="pref_category_mipay">NFC shortcuts</string>
   <string name="pref_category_others">"その他"</string>
   <string name="pref_category_quick_pay">Quick pay</string>
   <string name="pref_category_quick_settings">"クイック設定"</string>

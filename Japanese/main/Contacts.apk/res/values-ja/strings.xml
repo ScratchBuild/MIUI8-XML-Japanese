@@ -406,7 +406,7 @@ Contact cards are turned off"</string>
   <string name="editContactNameExpandOpenDescription">Expand name</string>
   <string name="editGroupDescription">"グループの編集"</string>
   <string name="edit_contact">"連絡先の編集"</string>
-  <string name="edit_contact_card_title">Edit contact card</string>
+  <string name="edit_contact_card_title">Select items to share</string>
   <string name="edit_contact_photo">"連絡先の写真を編集"</string>
   <string name="email">"メール"</string>
   <string name="emailLabelsGroup">"メール"</string>
@@ -1260,8 +1260,8 @@ Choose one of the following options:"</string>
   <string name="yellowPageNavigationIconLabel">Yellow pages</string>
   <string name="yellowPageNavigationLabel">Yellow pages</string>
   <string name="yellowpage_navigation_ad_hint">Ad</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">"Balance and data couldn't be verified, try again later."</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">Balance and data have been verified</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"Balance and mobile data couldn't be verified, try again later."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Balance and mobile data have been verified</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">"もっと"</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>

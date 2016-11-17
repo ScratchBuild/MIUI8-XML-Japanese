@@ -60,7 +60,7 @@
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"切り取りできませんでした"</string>
   <string name="move_failed_retry">"Can't cut, wait %1$s and try again"</string>
-  <string name="need_get_accounts_permission">"Mi Driveが正常に動作するにはアカウントへのアクセス許可が必要です。"</string>
+  <string name="need_get_accounts_permission">"Mi Driveが正常に動作するにはアカウントへのアクセスが必要です。"</string>
   <string name="never_notify">"次回から表示しない"</string>
   <string name="no_app_found_to_open_file">"この操作を処理するためのアプリが見つかりませんでした。"</string>
   <string name="no_more_space">"十分な空き領域がありません。"</string>

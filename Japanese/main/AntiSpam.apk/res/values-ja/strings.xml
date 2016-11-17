@@ -305,12 +305,12 @@
   <string name="st_sub_title_customize_mode_name">"名前"</string>
   <string name="st_sub_title_whiteblack_list_group">"ブロックリスト"</string>
   <string name="st_sum_call_wait">Your away message will also be played as a busy signal for incoming calls.</string>
-  <string name="st_summary_blacklist_numbers">Block calls and messages using numbers and area codes</string>
-  <string name="st_summary_blacklist_numbers_international">Block calls and messages using numbers</string>
+  <string name="st_summary_blacklist_numbers">Block calls and messages from specific numbers and areas</string>
+  <string name="st_summary_blacklist_numbers_international">Block calls and messages from specific numbers and areas</string>
   <string name="st_summary_keywords_blacklist">Add keywords to block messages</string>
   <string name="st_summary_special_numbers">Block flagged phone numbers</string>
   <string name="st_summary_whitelist_numbers">Allow calls and messages from specific numbers and areas</string>
-  <string name="st_summary_whitelist_numbers_international">Allow calls and messages from specific numbers</string>
+  <string name="st_summary_whitelist_numbers_international">Allow calls and messages from specific numbers and areas</string>
   <string name="st_title_adblock_group">Ad blocker</string>
   <string name="st_title_adblock_setting">Ad blocker settings</string>
   <string name="st_title_addblacklist">"ブロックリストに追加"</string>
@@ -353,7 +353,7 @@
   <string name="tab_block_log_unKnowNumber">Private number</string>
   <string name="tab_call">Calls</string>
   <string name="tab_sms">SMS</string>
-  <string name="tab_title">AntiSpam</string>
+  <string name="tab_title">"ブロックリスト"</string>
   <string name="toast_keyword_blank">"キーワードを入力してください"</string>
   <string name="toast_keyword_exist">"キーワードを追加しました"</string>
   <string name="toast_keyword_invalid">"無効なキーワードです"</string>

@@ -162,7 +162,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">"スクリーンショット"</string>
   <string name="cloud_settings">Gallery backups</string>
-  <string name="cloud_space_full_button_text">Get more Mi Cloud storage</string>
+  <string name="cloud_space_full_button_text">Get more storage</string>
   <string name="cloudfolder_cannot_start_with">"アルバム名は'%s'で始めることはできません"</string>
   <string name="cloudfolder_contain_invalidate_char">"アルバム名は'%s'を含めることはできません"</string>
   <string name="cloudfolder_name_cannot_empty">"アルバム名"</string>

@@ -108,6 +108,9 @@
   <string name="download_share_dialog">Share via</string>
   <string name="download_speed">Download speed:</string>
   <string name="download_spend_time">Time</string>
+  <string name="download_status_continue">"再開"</string>
+  <string name="download_status_fail">"再試行"</string>
+  <string name="download_status_paused">"中断"</string>
   <string name="download_success">"完了"</string>
   <string name="download_title">"ダウンロード"</string>
   <string name="download_title_sorted_by_date">"ダウンロード - 日付順"</string>

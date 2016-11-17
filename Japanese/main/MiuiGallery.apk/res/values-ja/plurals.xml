@@ -113,8 +113,8 @@
         <item quantity="one">Sync is off. %1$d item is waiting to be backed up</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud is full. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Mi Cloud is full. %1$d item is waiting to be backed up</item>
+        <item quantity="other">"Can't back up %1$d items"</item>
+        <item quantity="one">"Can't back up %1$d item"</item>
     </plurals>
     <plurals name="local_space_full">
         <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
