@@ -353,7 +353,7 @@
   <string name="no">キャンセル</string>
   <string name="no_block_button_msg">ブロックを解除</string>
   <string name="no_conversations">スレッドがありません</string>
-  <string name="no_delivery_report">No delivery report</string>
+  <string name="no_delivery_report">配達レポートなし</string>
   <string name="no_subject">(件名なし)</string>
   <string name="no_subject_view">(件名なし)</string>
   <string name="non_english_subject_limit">上限13文字まで</string>

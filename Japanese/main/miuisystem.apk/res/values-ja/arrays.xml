@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cta_permission_names">
-        <item>access network</item>
-        <item>read SMS</item>
-        <item>modify SMS</item>
-        <item>receive SMS</item>
-        <item>send SMS</item>
-        <item>call phone</item>
-        <item>read contacts</item>
-        <item>modify contacts</item>
-        <item>read call log</item>
-        <item>modify call log</item>
-        <item>access camera</item>
-        <item>access location</item>
+        <item>ネットワーク</item>
+        <item>SMSの読み取り</item>
+        <item>SMSの書き込み</item>
+        <item>SMSの受信</item>
+        <item>SMSの送信</item>
+        <item>通話の発信</item>
+        <item>連絡先の読み取り</item>
+        <item>連絡先の変更</item>
+        <item>通話履歴の読み取り</item>
+        <item>通話履歴の変更</item>
+        <item>カメラ</item>
+        <item>位置情報</item>
     </string-array>
 </resources>

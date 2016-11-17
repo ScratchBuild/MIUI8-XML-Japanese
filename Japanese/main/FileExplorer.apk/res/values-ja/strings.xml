@@ -253,7 +253,7 @@
   <string name="local_music">Audio files</string>
   <string name="local_video">Video files</string>
   <string name="login">"ログイン"</string>
-  <string name="login_account_bind_skip">Skip</string>
+  <string name="login_account_bind_skip">"スキップ"</string>
   <string name="login_account_bind_tip">A good nickname and avatar will make your videos more popular</string>
   <string name="login_account_bind_title">Add a third party account</string>
   <string name="login_account_bind_wx">"WeChatを使用"</string>
@@ -316,8 +316,8 @@
   <string name="no_app_tags">Empty</string>
   <string name="no_comment">No comments</string>
   <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
-  <string name="no_enough_storage_indication">"Device's storage space is full."</string>
-  <string name="no_enough_storage_title">Not enough space</string>
+  <string name="no_enough_storage_indication">"デバイスのストレージがいっぱいです。"</string>
+  <string name="no_enough_storage_title">"十分な空き領域がありません"</string>
   <string name="no_file">Empty</string>
   <string name="no_login_btn_text">"ログイン"</string>
   <string name="no_login_str">"ログインしていません"</string>
@@ -327,7 +327,7 @@
   <string name="no_topic">No topics</string>
   <string name="no_wifi">No network detected</string>
   <string name="no_wifi_hint">No connection</string>
-  <string name="not_installed_documentsui">DocumentsUI not installed</string>
+  <string name="not_installed_documentsui">"DocumentsUIがインストールされていません"</string>
   <string name="notif_server_starting">Starting FTP server…</string>
   <string name="notif_title">FTP server is running</string>
   <string name="notification_content_hint">"表示するにはタップ"</string>
@@ -594,7 +594,7 @@
   <string name="unreviewed_video_cannot_share">Videos should be reviewed before sharing</string>
   <string name="update">Update</string>
   <string name="update_failed">"Couldn't save, try again"</string>
-  <string name="update_loading">Saving…</string>
+  <string name="update_loading">"保存中…"</string>
   <string name="upload_avatar_camera">Camera</string>
   <string name="upload_avatar_failed">"Couldn't upload, try again"</string>
   <string name="upload_avatar_loading">Uploading…</string>
@@ -704,7 +704,7 @@
   <string name="video_tag_search_hint">Customize topic</string>
   <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Select topic</string>
-  <string name="video_topic_hint">Search</string>
+  <string name="video_topic_hint">"検索"</string>
   <string name="video_upload_btn">Next</string>
   <string name="video_upload_btn_hint">MP4 videos should be 3s~10min long</string>
   <string name="video_upload_item_more">More (%1$s)</string>

@@ -14,9 +14,9 @@
         <item>"インタビュー"</item>
     </string-array>
     <string-array name="hd_record_scenes_entries">
-        <item>Music</item>
-        <item>Voice</item>
-        <item>Interview</item>
+        <item>"音楽"</item>
+        <item>"音声"</item>
+        <item>"インタビュー"</item>
         <item>HD</item>
     </string-array>
     <string-array name="record_scenes_summaries">

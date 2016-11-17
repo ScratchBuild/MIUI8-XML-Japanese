@@ -156,8 +156,8 @@
   <string name="common_use">Frequently used</string>
   <string name="confirm">OK</string>
   <string name="confirm_on">﻿OK</string>
-  <string name="connect_to_retry">"Can't connect to the network. Check your connection and try again."</string>
-  <string name="connected">Connected</string>
+  <string name="connect_to_retry">"ネットワークに接続できませんでした。ネットワーク接続を確認して、もう一度やり直してください。"</string>
+  <string name="connected">"接続済み"</string>
   <string name="continue_to_add_other_rc">Add more devices</string>
   <string name="control_vol_by_cellphone">Use device to control volume</string>
   <string name="controller_invalid">"This remote doesn't exist"</string>
@@ -172,7 +172,7 @@
   <string name="current_stb">"Current: "</string>
   <string name="current_version_frame">Current version %s</string>
   <string name="current_version_latest">No updates available</string>
-  <string name="data_request_error">"Couldn't get info"</string>
+  <string name="data_request_error">"情報を取得できませんでした"</string>
   <string name="day">d</string>
   <string name="day_string">日</string>
   <string name="decrease">Down</string>
@@ -315,7 +315,7 @@
   <string name="get_backup_failed">"Couldn't fix, try again"</string>
   <string name="get_backup_succeed">Restored successfully. Total: %1$d | Current: %2$d| Restored: %3$d</string>
   <string name="get_data_fail_tips">"Couldn't get data, try again"</string>
-  <string name="get_info_failed">"Couldn't get info"</string>
+  <string name="get_info_failed">"情報を取得できませんでした"</string>
   <string name="get_location_fail_tip">"Couldn't set location, choose a city"</string>
   <string name="guid_one">· Connect the set-top box/TV to the same Wi-Fi network as your phone.</string>
   <string name="guid_three">"· Some controls may not be available if your TV or set-top box doesn't support Android"</string>
@@ -417,8 +417,8 @@
   <string name="match_count_frame">Pair %1$d/%2$d remote</string>
   <string name="match_count_tip_frame">"ボタンのテスト (%1$d/%2$d)"</string>
   <string name="match_data">Pairing info</string>
-  <string name="match_data_error_tips">"Couldn't get info
-Go back to continue"</string>
+  <string name="match_data_error_tips">"情報を取得できませんでした
+続行するには戻る"</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Do direction buttons work?</string>
   <string name="match_dvd_intro_pause">Release when DVD playback pauses</string>
@@ -525,7 +525,7 @@ Then answer the question"</string>
   <string name="my_setting">"設定"</string>
   <string name="network_diagnosis">Test network</string>
   <string name="network_no_connection">"ネットワークに接続できません。ネットワーク接続を確認してもう一度やり直してください。"</string>
-  <string name="network_ok">No problems detected</string>
+  <string name="network_ok">"問題は検出されませんでした"</string>
   <string name="network_unstable">· You have a stable connection</string>
   <string name="next_remote">Next remote</string>
   <string name="next_step">"次へ"</string>
@@ -544,8 +544,8 @@ Then answer the question"</string>
   <string name="no_video">"Couldn't find the content you want"</string>
   <string name="none">Empty</string>
   <string name="none_apk_note">No installation file</string>
-  <string name="not_login">Not signed in</string>
-  <string name="not_respond">No response</string>
+  <string name="not_login">"ログインしていません"</string>
+  <string name="not_respond">"応答なし"</string>
   <string name="not_updated_yet">"Haven't updated yet"</string>
   <string name="notification_found_device_text">Try controlling this device with your phone!</string>
   <string name="notification_found_device_title">Found new device: %1$s</string>
@@ -564,9 +564,9 @@ Then answer the question"</string>
   <string name="oscillation">Oscillation</string>
   <string name="other">"その他"</string>
   <string name="outdoor_temp_unknown">Unknown</string>
-  <string name="partner">Support</string>
+  <string name="partner">"サポート"</string>
   <string name="passport_access_denied">"アクセスが拒否されました"</string>
-  <string name="passport_account_hint_text">Email address or Mi Account ID</string>
+  <string name="passport_account_hint_text">"メールアドレスまたはMi Account ID"</string>
   <string name="passport_account_identity_title">Verify your identity</string>
   <string name="passport_account_name">Account: %1$s</string>
   <string name="passport_account_not_activated">"Account hasn't been activated"</string>
@@ -575,7 +575,7 @@ Then answer the question"</string>
   <string name="passport_activing_account">Activating…</string>
   <string name="passport_area_code_hot">FREQUENTLY USED</string>
   <string name="passport_area_code_title">Country code</string>
-  <string name="passport_bad_authentication">Invalid username or password</string>
+  <string name="passport_bad_authentication">"ユーザー名かパスワードが無効です"</string>
   <string name="passport_btn_return">"戻る"</string>
   <string name="passport_button_cancel">"キャンセル"</string>
   <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
@@ -587,7 +587,7 @@ Then answer the question"</string>
 
 To activate your account, follow the 
  link we've sent to your inbox."</string>
-  <string name="passport_completed">Finish</string>
+  <string name="passport_completed">"完了"</string>
   <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">"はい"</string>
   <string name="passport_delete_account">"ログアウト"</string>
