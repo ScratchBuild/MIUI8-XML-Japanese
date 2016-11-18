@@ -96,7 +96,7 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">None</string>
-  <string name="clear_bigfiles">大きいファイルを削除, duplicate photos, and other obsolete items</string>
+  <string name="clear_bigfiles">"大きいファイル、重複した写真、その他の古いアイテムを削除"</string>
   <string name="clear_immediately">Clean now</string>
   <string name="clear_safe_notify">Security notification bar</string>
   <string name="clip_board_history_desc">"コピー/切り取りした内容"</string>
@@ -158,7 +158,7 @@
   <string name="dialog_title_add_white_list_error">Attention</string>
   <string name="dialog_title_backup_and_uninstall_apps">"バックアップとアンインストール"</string>
   <string name="dialog_title_check_all">"すべて選択"</string>
-  <string name="dialog_title_delete_image">Delete selected images</string>
+  <string name="dialog_title_delete_image">"選択した写真を削除"</string>
   <string name="dialog_title_esc_cleanmaster">"クリーナーを終了"</string>
   <string name="dialog_title_load_cleanup_engine_error">Something went wrong</string>
   <string name="dialog_title_stop_scan">Stop scanning</string>
@@ -333,8 +333,8 @@
   <string name="last_check_canceled">Previous scan was canceled</string>
   <string name="load_only_under_wlan">Load news when connected to WLAN</string>
   <string name="login_immediately">"ログイン"</string>
-  <string name="long_click_dialog_summary">Long press to add to exceptions.</string>
-  <string name="long_click_dialog_title">Notice</string>
+  <string name="long_click_dialog_summary">"長押しすると例外に追加されます。"</string>
+  <string name="long_click_dialog_title">"お知らせ"</string>
   <string name="low_memory_clean_dialog_msg">Clear at least 100MB files first</string>
   <string name="low_memory_clean_dialog_ok_button">OK</string>
   <string name="low_memory_clean_dialog_title">"十分な空き領域がありません"</string>

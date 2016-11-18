@@ -352,7 +352,7 @@
   <string name="band_mode_succeeded">成功</string>
   <string name="band_mode_title">GSM/UMTSバンドの設定</string>
   <string name="baseband_version">ベースバンドバージョン</string>
-  <string name="batch_delete_saved_network">Delete saved networks: %s?</string>
+  <string name="batch_delete_saved_network">"保存したネットワークを削除: %s?"</string>
   <string name="batch_delete_saved_networks">選択したすべてのネットワークを削除</string>
   <string name="battery_action_app_details">アプリ情報</string>
   <string name="battery_action_app_settings">アプリの設定</string>
@@ -789,7 +789,7 @@
   <string name="children_mode_title">キッズモード</string>
   <string name="choose_assist_title">アシストアプリの選択</string>
   <string name="choose_profile">プロファイルの選択</string>
-  <string name="choose_smartcover_type">Choose case type</string>
+  <string name="choose_smartcover_type">ケースの種類を選択</string>
   <string name="choose_timezone">タイムゾーンの選択</string>
   <string name="choose_voice_input_title">音声入力の選択</string>
   <string name="cleaner">クリーナー</string>
@@ -3362,7 +3362,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="settings_license_activity_unavailable">ライセンスの読み込み中に問題が発生しました。</string>
   <string name="settings_safetylegal_activity_loading">読み込み中...</string>
   <string name="settings_safetylegal_activity_title">安全に関する情報</string>
-  <string name="settings_safetylegal_activity_unreachable">データ接続されていません。この情報を表示するにはインターネットに接続されているパソコンから%sにアクセスしてください。</string>
+  <string name="settings_safetylegal_activity_unreachable">データ接続されていません。今すぐこの情報を表示するには、インターネットに接続されているパソコンから%sにアクセスしてください。</string>
   <string name="settings_safetylegal_title">安全に関する情報</string>
   <string name="settings_shortcut">設定をショートカットとする</string>
   <string name="settings_toggle_position_divider_list">バーの上に配置したトグルは有効です</string>

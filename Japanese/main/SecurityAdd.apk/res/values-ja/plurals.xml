@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d個のゲームを追加しました</item>
+        <item quantity="one">%d個のゲームを追加しました</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">"Haven't added %d games"</item>
+        <item quantity="one">"Haven't added %d game"</item>
+    </plurals>
+</resources>

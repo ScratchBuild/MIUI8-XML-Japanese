@@ -17,10 +17,10 @@
   <string name="account_set_up_change_type_note">"POP3とIMAPの設定を切り替えたい場合には、アカウント設定を削除して新たに作成し直す必要があります。"</string>
   <string name="account_setting">"アカウント"</string>
   <string name="account_setting_keywords">"アカウント;メールアカウント"</string>
-  <string name="account_setting_message_body_load_complete">Full message</string>
-  <string name="account_setting_message_body_load_head_abstract">Email summary</string>
-  <string name="account_setting_message_body_load_head_only">Header only</string>
-  <string name="account_setting_message_body_load_text">Body only</string>
+  <string name="account_setting_message_body_load_complete">"完全なメッセージ"</string>
+  <string name="account_setting_message_body_load_head_abstract">"メールの要約"</string>
+  <string name="account_setting_message_body_load_head_only">"ヘッダーのみ"</string>
+  <string name="account_setting_message_body_load_text">"本文のみ"</string>
   <string name="account_settings_action">"アカウントの設定"</string>
   <string name="account_settings_background_attachments_label">"添付ファイルのダウンロード"</string>
   <string name="account_settings_background_attachments_summary">"Wi-Fi接続時に最近のメールの添付ファイルを自動的にダウンロード"</string>
@@ -237,7 +237,7 @@
   <string name="colon">:</string>
   <string name="compose">"作成"</string>
   <string name="compose_attachment_number_limit">"10個以上の添付ファイルを追加することはできません"</string>
-  <string name="compose_paste_address_oob">Too many characters</string>
+  <string name="compose_paste_address_oob">"文字数が多すぎます"</string>
   <string name="compose_picturesexceedlimits">"メッセージ内のインライン画像は5枚が上限です"</string>
   <string name="compose_send">"送信"</string>
   <string name="compose_sent">"メールを送信"</string>
@@ -292,9 +292,9 @@
   <string name="conversation_item_mark_read">"既読"</string>
   <string name="conversation_item_mark_unread">"未読"</string>
   <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
-  <string name="conversation_quick_button_approve">Agree</string>
-  <string name="conversation_quick_button_disapprove">Disagree</string>
-  <string name="conversation_quick_button_received">Received</string>
+  <string name="conversation_quick_button_approve">"同意する"</string>
+  <string name="conversation_quick_button_disapprove">"同意しない"</string>
+  <string name="conversation_quick_button_received">"受信済み"</string>
   <string name="conversation_view">"スレッド表示"</string>
   <string name="conversation_view_keywords">conversation view;mail conversation</string>
   <string name="copied">"コピーしました"</string>
@@ -869,7 +869,7 @@
   <string name="senders_split_token">, </string>
   <string name="sending">"送信中…"</string>
   <string name="sending_message">"メッセージを送信中…"</string>
-  <string name="sending_quick_reply">Sending email \"%s\"</string>
+  <string name="sending_quick_reply">"メッセージを送信中 \"%s\""</string>
   <string name="sent_folder_selection_title">"%sのサーバーの送信済みフォルダを選択してください"</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate\n\u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
   <string name="ser_resp_err_map_landing_more_failure">Too many unsuccessful sign in attempts</string>
@@ -877,7 +877,7 @@
   <string name="ser_resp_err_map_mailbox_locked">"メールアカウントはパスワードで保護されています"</string>
   <string name="ser_resp_err_map_mailbox_not_open">No email accounts</string>
   <string name="ser_resp_err_map_max_connections">Too many connection attempts</string>
-  <string name="ser_resp_err_map_nouser">"User doesn't exist"</string>
+  <string name="ser_resp_err_map_nouser">"ユーザーが存在しません"</string>
   <string name="ser_resp_err_map_or">"%1$s または %2$s"</string>
   <string name="ser_resp_err_map_pserr">"ユーザー名かパスワードが間違っています"</string>
   <string name="ser_resp_err_map_serclosed">%s server closed</string>
@@ -959,14 +959,14 @@
     between the web, your other devices, and your %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
-  <string name="undo">Undo</string>
-  <string name="unread_string">conversation unread</string>
+  <string name="undo">"元に戻す"</string>
+  <string name="unread_string">"未読のスレッド"</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="upload_log">Upload logs</string>
-  <string name="upload_log_failed">"Couldn't send logs"</string>
+  <string name="upload_log_failed">"ログを送信できませんでした"</string>
   <string name="upload_log_no">"キャンセル"</string>
   <string name="upload_log_success">"Sent successfully, we'll get back to you soon."</string>
   <string name="upload_log_title">Send error logs to help us improve Mail</string>
@@ -974,7 +974,7 @@
   <string name="upload_logs">Upload logs</string>
   <string name="upload_logs_keywords">upload logs</string>
   <string name="uploading_logs">"読み込み中…"</string>
-  <string name="validation_failed_prompt">"Can't verify account, check server settings for %s"</string>
+  <string name="validation_failed_prompt">"アカウントを確認できません、%sのサーバー設定を確認してください"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>

@@ -52,7 +52,7 @@
   <string name="bind_phone_success_tip">"電話番号が正常に追加されました"</string>
   <string name="bind_success_tip">"正常に追加されました"</string>
   <string name="byteShort">B</string>
-  <string name="can_not_send_with_too_many">"Can't send that many items at once"</string>
+  <string name="can_not_send_with_too_many">"一度に複数のアイテムを送信できません"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_error">"Couldn't remove, try again"</string>
   <string name="cancel_operation">Cancel operation</string>
@@ -531,7 +531,7 @@
   <string name="setting">"設定"</string>
   <string name="setting_account_bind">Add account</string>
   <string name="setting_message_notify">Notifications</string>
-  <string name="setting_shortcut">Add Home screen shortcut</string>
+  <string name="setting_shortcut">"ホーム画面にショートカットを追加"/string>
   <string name="share_from_youliao">（From#有料# @有料Video）丨</string>
   <string name="share_success">Shared successfully</string>
   <string name="share_tip_1">Thanks for sharing, follow me to watch more videos</string>

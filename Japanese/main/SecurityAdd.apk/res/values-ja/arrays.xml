@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_start_setting">
+        <item>ホワイトリストのみ許可する</item>
+        <item>すべての自動起動を禁止する</item>
+    </string-array>
+</resources>

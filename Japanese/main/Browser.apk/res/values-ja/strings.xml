@@ -406,7 +406,7 @@ Pages you view won't appear in history."</string>
   <string name="miuichromium_error_page_diagnose">Network diagnostics</string>
   <string name="miuichromium_error_page_diagnose_banner">Network diagnostics</string>
   <string name="miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
-  <string name="miuichromium_error_page_diagnose_connection">"Couldn't connect to network"</string>
+  <string name="miuichromium_error_page_diagnose_connection">"ネットワークに接続できませんでした"</string>
   <string name="miuichromium_error_page_diagnose_dns">Looks like the URL is incorrect</string>
   <string name="miuichromium_error_page_diagnose_protocol">Network protocol error</string>
   <string name="miuichromium_error_page_diagnose_proxy_server">Proxy server error</string>
@@ -617,7 +617,7 @@ Pages you view won't appear in history."</string>
   <string name="readmode_battery">Battery </string>
   <string name="readmode_login">"ログイン"</string>
   <string name="readmode_login_message">You need to sign in to read more.</string>
-  <string name="readmode_page_load_error">"Can't load page"</string>
+  <string name="readmode_page_load_error">"ページを読み込めません"</string>
   <string name="readmode_page_loading">"読み込み中…"</string>
   <string name="readmode_pay">Buy chapter</string>
   <string name="readmode_pay_message">You need to pay to read the next chapter.</string>
