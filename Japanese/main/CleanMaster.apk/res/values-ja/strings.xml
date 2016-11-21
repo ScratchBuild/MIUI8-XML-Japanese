@@ -89,7 +89,7 @@
   <string name="cache_title_empty_folder2">"空のフォルダ"</string>
   <string name="cache_title_system_cache">"システムキャッシュ"</string>
   <string name="cached_garbage">"キャッシュ"</string>
-  <string name="call_log">Call Logs</string>
+  <string name="call_log">"通話履歴"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="clean_content_all">"すべて"</string>
   <string name="clean_content_one">1 item</string>
@@ -135,9 +135,9 @@
   <string name="deepclean_normal_title">Clean automatically</string>
   <string name="deepclean_similar_ignore">Ignore</string>
   <string name="deepclean_similar_summary_empty">Everything looks good, no photos to delete</string>
-  <string name="deepclean_size_summary_less">The device is running out of free space</string>
-  <string name="deepclean_size_summary_more">Enough storage space available</string>
-  <string name="deepclean_size_summary_normal">Storage space available</string>
+  <string name="deepclean_size_summary_less">"デバイスの空き領域が不足しています"</string>
+  <string name="deepclean_size_summary_more">"十分なストレージ領域が利用可能"</string>
+  <string name="deepclean_size_summary_normal">"ストレージ領域が利用可能"</string>
   <string name="deepclean_size_summary_not_enough">Not enough space</string>
   <string name="deepclean_title_large_file">"大きいファイルを削除"</string>
   <string name="deepclean_title_uninstall_apps">Rarely used apps</string>
@@ -188,7 +188,7 @@
   <string name="goto_set">Set</string>
   <string name="grabage_rank_title">Cleaned today</string>
   <string name="harass_detail">Blocked %1$d SMS and %2$d calls</string>
-  <string name="header_optimizer">By using this feature, you are agreeing to %s.</string>
+  <string name="header_optimizer">"この機能を利用することで、%sに同意したことになります。"</string>
   <string name="hint_clean_select_items">Deleting duplicates…</string>
   <string name="hints_ad_header_left">Obsolete files</string>
   <string name="hints_apk_header_left">Packages</string>

@@ -13,16 +13,16 @@
   <string name="__leak_canary_share_leak">Share info</string>
   <string name="__leak_canary_share_with">Share with…</string>
   <string name="__leak_canary_toast_heap_dump">Dumping memory, app will freeze. Brrrr.</string>
-  <string name="accept">Accept</string>
+  <string name="accept">"同意する"</string>
   <string name="accept_or_deny">%1$s shared the album %2$s with you.</string>
   <string name="add_automatically_alert_msg">Add photos from \"%1$s\" to this album automatically?</string>
   <string name="add_automatically_alert_title">Add photos automatically</string>
   <string name="add_sharer">Add member</string>
   <string name="add_to_album">"アルバムに追加"</string>
   <string name="add_to_album_bulk_result">"エラー (%d)"</string>
-  <string name="add_to_album_exist">This photo already exists</string>
-  <string name="add_to_album_failed">"Couldn't add to album"</string>
-  <string name="add_to_album_success">Added to album</string>
+  <string name="add_to_album_exist">"この写真は既に存在します"</string>
+  <string name="add_to_album_failed">"アルバムに追加できませんでした"</string>
+  <string name="add_to_album_success">"アルバムに追加しました"</string>
   <string name="add_to_album_tip">Cloud photos</string>
   <string name="add_to_secret_exist">Photo already exists in hidden album</string>
   <string name="add_to_secret_fail">"Couldn't add to hidden album"</string>
@@ -32,7 +32,7 @@
   <string name="add_to_share_album_not_delete">"Can't delete photo from Shared Album"</string>
   <string name="adding">Adding…</string>
   <string name="adding_recipients">Adding recipients…</string>
-  <string name="adding_to_album">Adding photos…</string>
+  <string name="adding_to_album">"写真を追加中…"</string>
   <string name="adjust">Enhance</string>
   <string name="adjust_auto">Auto</string>
   <string name="adjust_blur">Blur</string>
@@ -89,7 +89,7 @@
   <string name="aspect_ratio_origin">Original</string>
   <string name="aspect_ratio_square">1:1</string>
   <string name="associate_face_album">"アルバムを選択"</string>
-  <string name="auto_backup_introduce">Back up photos and videos automatically (Mi Account is required)</string>
+  <string name="auto_backup_introduce">"写真や動画を自動的にバックアップする (Mi Accountが必要)"</string>
   <string name="auto_update_face">Add photos automatically</string>
   <string name="auto_update_face_summary">Automatically match and add photos to Baby album</string>
   <string name="auto_update_off">Off</string>
@@ -123,8 +123,8 @@
   <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conviniently browse, sort, edit, and share photos and videos on all your devices.</string>
   <string name="backup_automatically_title">Back up automatically</string>
   <string name="backup_detail_page_title">Mi Cloud backups</string>
-  <string name="backup_only_in_wifi">Only use Wi‑Fi to back up photos and videos</string>
-  <string name="backup_only_in_wifi_summary">Never use mobile data to back up photos or videos</string>
+  <string name="backup_only_in_wifi">"写真や動画のバックアップにはWi-Fiのみ使用"</string>
+  <string name="backup_only_in_wifi_summary">"写真や動画のバックアップにモバイルデータを使用しない"</string>
   <string name="backup_waiting_button_text">"今すぐバックアップ"</string>
   <string name="backuping">"バックアップ中 %1$d/%2$d"</string>
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
@@ -167,7 +167,7 @@
   <string name="cloudfolder_contain_invalidate_char">"アルバム名は'%s'を含めることはできません"</string>
   <string name="cloudfolder_name_cannot_empty">"アルバム名"</string>
   <string name="cloudfolder_name_reserved">"アルバム名は予約済みです"</string>
-  <string name="collaps_people">Hide</string>
+  <string name="collaps_people">"隠す"</string>
   <string name="confirm">"確認"</string>
   <string name="confirm_download_video_message">Finish downloading this video to start watching. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
@@ -223,7 +223,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d deleted, %2$d saved</string>
   <string name="delete_third_party_photo">"この写真を削除しますか？"</string>
   <string name="delete_third_party_video">"この動画を削除しますか？"</string>
-  <string name="delete_to_trash_tips">You can view recently deleted photos in Settings > "ゴミ箱"</string>
+  <string name="delete_to_trash_tips">"最近削除した写真は、設定 &gt; ゴミ箱から表示することができます"</string>
   <string name="deny">"拒否"</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -286,7 +286,7 @@ Take more photos of your friends!"</string>
   <string name="face_album_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
   <string name="face_album_rename_hint">"名前を入力"</string>
   <string name="face_album_use_tip">Automatically sort photos by the people that are in them.</string>
-  <string name="face_albumset_loading_data">Loading data…</string>
+  <string name="face_albumset_loading_data">"データの読み込み中…"</string>
   <string name="face_choose_tip">Choose from existing album</string>
   <string name="face_move_dialog_title">Choose an album</string>
   <string name="fail_hint">"Couldn't complete operation"</string>
@@ -355,7 +355,7 @@ Take more photos of your friends!"</string>
   <string name="input_baby_name">"名前を入力"</string>
   <string name="input_baby_nick_name">"ニックネームを入力"</string>
   <string name="input_nickname_toast">"赤ちゃんの名前を入力"</string>
-  <string name="input_or_select_a_name">Enter or select a name</string>
+  <string name="input_or_select_a_name">"名前を入力または選択"</string>
   <string name="invalid_invition_url">Invalid invitation URL</string>
   <string name="invalid_recipient_message">The recipient names you entered are invalid</string>
   <string name="invite_sharer_confirm_button_text">Invite</string>
@@ -372,7 +372,7 @@ Take more photos of your friends!"</string>
   <string name="limit_height">Height should be > 0</string>
   <string name="limit_width">Width should be > 0</string>
   <string name="loading_dual_tip">Loading dual photo…</string>
-  <string name="loading_fail">"Couldn't download"</string>
+  <string name="loading_fail">"ダウンロードできませんでした"</string>
   <string name="loading_fail_sync_off">Turn on sync with Mi Cloud to download</string>
   <string name="loading_fail_sync_off_message">"Couldn't load photos, sync with Mi Cloud is off."</string>
   <string name="loading_gif">Downloading GIF…</string>
@@ -427,7 +427,7 @@ Take more photos of your friends!"</string>
   <string name="open_public_title">"共有"</string>
   <string name="operation_add_album">"アルバムに追加"</string>
   <string name="operation_add_picture">Add items</string>
-  <string name="operation_add_secret">Hide</string>
+  <string name="operation_add_secret">"隠す"</string>
   <string name="operation_delete">"削除"</string>
   <string name="operation_detail">"詳細"</string>
   <string name="operation_disable_auto_upload">Turn off sync with Mi Cloud</string>
@@ -438,7 +438,7 @@ Take more photos of your friends!"</string>
   <string name="operation_enter_delete_local">Delete backed up photos and videos from device</string>
   <string name="operation_failed">"Couldn't complete operation"</string>
   <string name="operation_force_top">Pin</string>
-  <string name="operation_hide">Hide</string>
+  <string name="operation_hide">"隠す"</string>
   <string name="operation_in_process">"処理中…"</string>
   <string name="operation_move_to_other_albums">Move to other albums</string>
   <string name="operation_not_show_in_photos_tab">"Don't show in Photos"</string>
@@ -604,7 +604,7 @@ Take more photos of your friends!"</string>
   <string name="success_create_quick_icon_on_desk">Created successfully</string>
   <string name="sync_album_in_proecess">"アルバムを同期中…"</string>
   <string name="sync_battery_low">Low battery</string>
-  <string name="sync_cloud_space_full">Not enough space in Mi Cloud</string>
+  <string name="sync_cloud_space_full">"Mi Cloudに十分な空き領域がありません"</string>
   <string name="sync_diabled_toast">Sync is off</string>
   <string name="sync_off_button_text">Turn on sync</string>
   <string name="system_album">System album</string>

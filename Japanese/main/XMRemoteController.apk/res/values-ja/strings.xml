@@ -45,9 +45,9 @@
   <string name="add_new_tv_power_only">Add TV power switch…</string>
   <string name="adjust_auto_tune_interval">Automatically adjust channel change interval</string>
   <string name="agree">"同意"</string>
-  <string name="airkan_disconnect">Devices not connected</string>
-  <string name="airkan_disconnect_display_name">Devices not connected</string>
-  <string name="airrc_device_not_connected">Not connected</string>
+  <string name="airkan_disconnect">"デバイスが接続されていません"</string>
+  <string name="airkan_disconnect_display_name">"デバイスが接続されていません"</string>
+  <string name="airrc_device_not_connected">"接続されていません"</string>
   <string name="all">"すべて"</string>
   <string name="all_brand">"すべてのブランド"</string>
   <string name="all_catogory_name">"すべて"</string>
@@ -65,9 +65,9 @@
   <string name="app_detail_install_fortv">Install TV</string>
   <string name="app_detail_no_comments">"レビューなし。"</string>
   <string name="app_detail_recomments_title_text">"関連アプリ"</string>
-  <string name="app_detail_title_info">Summary</string>
+  <string name="app_detail_title_info">"概要"</string>
   <string name="app_detail_title_recomment">"関連アプリ"</string>
-  <string name="app_exit_tip">Tap Back button again to exit</string>
+  <string name="app_exit_tip">"戻るボタンをもう一度タップすると終了"</string>
   <string name="app_frequency_little">Rarely</string>
   <string name="app_frequency_more">Often</string>
   <string name="app_frequency_normal">Sometimes</string>
@@ -113,7 +113,7 @@
   <string name="bind_stb_dlg_agree">Pair</string>
   <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="brand_device">%1$s %2$s</string>
-  <string name="brand_search_box_hint">Select manufacturer</string>
+  <string name="brand_search_box_hint">"メーカーを選択"</string>
   <string name="brand_title_all">"すべて"</string>
   <string name="brand_title_hot">Popular</string>
   <string name="brand_title_other">"その他"</string>
@@ -193,8 +193,8 @@
   <string name="dialog_install_assistant_content">Install Mi Screen cast to get the most out of your Mi TV or Mi Box</string>
   <string name="dining_room">Dining room</string>
   <string name="download_assistant">Screen cast</string>
-  <string name="download_path_fail">"Couldn't download. Check your device's SD card or USB drive."</string>
-  <string name="download_times">Downloads: %1$d</string>
+  <string name="download_path_fail">"ダウンロードできませんでした。デバイスのSDカードまたはUSBドライブを確認してください。"</string>
+  <string name="download_times">"ダウンロード: %1$d"</string>
   <string name="downloading">"ダウンロード中…"</string>
   <string name="dpad_down">Down</string>
   <string name="dpad_left">Left</string>
@@ -206,7 +206,7 @@
   <string name="edit_controller">"リモコンの編集"</string>
   <string name="edit_ir_device">"デバイスの名前を変更"</string>
   <string name="eject">﻿Eject</string>
-  <string name="empty_name_tip">Give a name to this remote</string>
+  <string name="empty_name_tip">"リモコンに名前をつける"</string>
   <string name="epg_add_fav_bind_stb_dlg">Add favorite to STB</string>
   <string name="epg_all_channels">All channels</string>
   <string name="epg_book_all">Book all</string>
@@ -342,7 +342,7 @@
   <string name="input_dialogue_guide1">Install non-authorized App</string>
   <string name="input_dialogue_guide2">Please enter the code shown on the TV</string>
   <string name="input_dialogue_ok_button">Continue installation</string>
-  <string name="input_source">Input source</string>
+  <string name="input_source">"入力ソース"</string>
   <string name="input_speech_button">Press &amp; hold, then speak your command</string>
   <string name="input_tip">The codes expire after 15 minutes</string>
   <string name="install_failed">"Couldn't install %s"</string>
@@ -1025,7 +1025,7 @@ To change, long press TV's power button"</string>
   <string name="video_history_yestoday">"昨日"</string>
   <string name="video_name_actor">Cast</string>
   <string name="video_name_director">Director</string>
-  <string name="video_name_intro">Summary</string>
+  <string name="video_name_intro">"概要"</string>
   <string name="video_name_recommend">Featured</string>
   <string name="video_name_score">Reviews</string>
   <string name="video_play">"再生"</string>

@@ -154,7 +154,7 @@
   <string name="shopping_searching">検索中…</string>
   <string name="shopping_title">製品の写真を撮る</string>
   <string name="shopping_vendor_info">Powered by Taobao</string>
-  <string name="spaceIsLow_content">Not enough space on internal storage. Free up some space.</string>
+  <string name="spaceIsLow_content">"内部ストレージに十分な空き領域がありません。空き領域を確保してください。"</string>
   <string name="study_report_title">Report</string>
   <string name="study_rotate_picture">Processing the photo</string>
   <string name="study_scan_result">Result</string>
