@@ -63,7 +63,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_backup_detail_state_summary">Apps, Home screen and system settings</string>
   <string name="cloud_backup_detail_time">Last backup: %1$s</string>
   <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
-  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Mi Cloudからバックアップを選択</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
   <string name="cloud_restore_task">"復元中…"</string>
   <string name="cloud_task_in_process">"Stop %s and delete this backup? You can't reverse this action."</string>
@@ -75,7 +75,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="deskclock_backup">Alarm clock</string>
   <string name="desktop_downloading">ダウンロード中</string>
   <string name="desktop_installing">インストール中</string>
-  <string name="desktop_recovering">Restoring</string>
+  <string name="desktop_recovering">復元中</string>
   <string name="desktop_wait_wifi">待機中</string>
   <string name="desktop_waiting">待機中</string>
   <string name="device_delete_prompt">Delete backup of %s?</string>
@@ -93,8 +93,8 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="menu_item_sort_size">Size</string>
   <string name="miui_device_name">Android</string>
   <string name="name_model">"%1$s's %2$s"</string>
-  <string name="open_wifi">Turn WLAN on now</string>
-  <string name="open_wifi_description">Connect to a WLAN network to restore app</string>
+  <string name="open_wifi">今すぐWi-Fiをオンにする</string>
+  <string name="open_wifi_description">Wi-Fiネットワークに接続してアプリを復元する</string>
   <string name="open_wifi_setting">Wi-Fi設定</string>
   <string name="process_whole_recovery">復元中 \"%s\"</string>
   <string name="provision_arrow_back">&lt;</string>
@@ -109,7 +109,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="recovering">復元中 %s</string>
   <string name="remove_task_in_process">削除中…</string>
   <string name="remove_task_unfinished">削除が完了していません</string>
-  <string name="restore_data_summary">This feature requires an internet connection.</string>
+  <string name="restore_data_summary">この機能にはインターネットへの接続が必要です。</string>
   <string name="restore_from_cloud">Restore from Mi Cloud backup</string>
   <string name="restore_from_this_device">Restore using this backup</string>
   <string name="restore_home_screen_apps">Restore from Mi Cloud backup</string>

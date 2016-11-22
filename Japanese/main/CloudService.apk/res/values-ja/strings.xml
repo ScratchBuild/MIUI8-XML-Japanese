@@ -71,7 +71,7 @@ Last backed up on %2$s"</string>
   <string name="enable_sync_dspt">同期しない</string>
   <string name="error_data_in_transfer">Sync will finish in %s hours.</string>
   <string name="error_data_in_transfer_title">Mi Cloudが利用できません</string>
-  <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
+  <string name="error_forbidden">Mi Accoutに問題があるため、同期が無効になっています。</string>
   <string name="error_network">ネットワークに接続できません</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>
   <string name="error_server">サーバーエラー</string>
@@ -98,7 +98,7 @@ Last backed up on %2$s"</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
   <string name="find_device_reading_status">Loading status…</string>
-  <string name="find_device_reading_status_failure">"Couldn't load status."</string>
+  <string name="find_device_reading_status_failure">"ステータスを読み込めませんでした。"</string>
   <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS may be sent automatically to reactivate this feature.</string>
   <string name="find_device_service_summary">"Locate your device and lock it remotely in case it's lost."</string>
   <string name="find_device_service_summary_international">"Locate your device and lock it remotely in case it's lost."</string>
@@ -290,7 +290,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_member_pay_order_error_toast">データエラー</string>
   <string name="micloud_member_refresh_button">更新</string>
   <string name="micloud_member_webload_fail_error_message">ネットワークエラー</string>
-  <string name="micloud_member_webload_fail_toast_4xx">"Couldn't load page"</string>
+  <string name="micloud_member_webload_fail_toast_4xx">"ページを読み込めませんでした"</string>
   <string name="micloud_member_webload_fail_toast_5xx">サーバーエラー</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_notif_content_battery_low">Battery is too low.</string>

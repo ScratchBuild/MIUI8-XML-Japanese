@@ -23,7 +23,7 @@
   <string name="activity_title_similar_image_group">Delete duplicates</string>
   <string name="activity_title_tedious_image">Accidental photos</string>
   <string name="activity_title_uninstall_apps">"アプリ"</string>
-  <string name="activity_title_video">Delete videos</string>
+  <string name="activity_title_video">"動画を削除"</string>
   <string name="activity_title_white_list">Exceptions</string>
   <string name="ad_install_success_dialog_lunch">"開く"</string>
   <string name="ad_install_success_dialog_title">"%1$sが正常にインストールされました。今すぐ開きますか？"</string>
@@ -52,7 +52,7 @@
   <string name="btn_text_quick_cleanup_appdata">Delete selected data %1$s</string>
   <string name="btn_text_quick_cleanup_large_file">Delete selected files %1$s</string>
   <string name="btn_text_quick_cleanup_video">Delete selected videos %1$s</string>
-  <string name="btn_text_quick_scan">Scan</string>
+  <string name="btn_text_quick_scan">"スキャン"</string>
   <string name="btn_text_stop">"停止"</string>
   <string name="button_optimizer">OK</string>
   <string name="button_text_add_to_white_list">Exception</string>
@@ -60,7 +60,7 @@
   <string name="button_text_cancel">"キャンセル"</string>
   <string name="button_text_cleanup">Clean up</string>
   <string name="button_text_delete_from_white_list">Remove</string>
-  <string name="button_text_delete_pic">Delete</string>
+  <string name="button_text_delete_pic">"削除"</string>
   <string name="button_text_deselect_all_photos">"すべて選択を解除"</string>
   <string name="button_text_group_ignore">Ignore</string>
   <string name="button_text_group_unlike">Not duplicates</string>
@@ -119,7 +119,7 @@
   <string name="deepclean_cache_header_left">Data files: %d</string>
   <string name="deepclean_cache_summary_empty">Everything looks good, no data to clear</string>
   <string name="deepclean_empty">Everything looks good</string>
-  <string name="deepclean_install_info_desc2">Delete apps to free up space</string>
+  <string name="deepclean_install_info_desc2">"空き領域を確保するためにアプリを削除"</string>
   <string name="deepclean_large_content">Delete files bigger than 10MB</string>
   <string name="deepclean_large_summary_empty">Everything looks good, no files to delete</string>
   <string name="deepclean_list_item_from_app">App Store</string>
@@ -138,7 +138,7 @@
   <string name="deepclean_size_summary_less">"デバイスの空き領域が不足しています"</string>
   <string name="deepclean_size_summary_more">"十分なストレージ領域が利用可能"</string>
   <string name="deepclean_size_summary_normal">"ストレージ領域が利用可能"</string>
-  <string name="deepclean_size_summary_not_enough">Not enough space</string>
+  <string name="deepclean_size_summary_not_enough">"空き領域がありません"</string>
   <string name="deepclean_title_large_file">"大きいファイルを削除"</string>
   <string name="deepclean_title_uninstall_apps">Rarely used apps</string>
   <string name="deepclean_video_content">Delete already viewed or unnecessary videos</string>
@@ -251,7 +251,7 @@
   <string name="hints_video_download">Downloaded videos</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
-  <string name="information_setting">News feed settings</string>
+  <string name="information_setting">"ニュースフィードの設定"</string>
   <string name="install_sucess">Installed %s successfully</string>
   <string name="installed">Installed</string>
   <string name="installing">Installing</string>
@@ -331,15 +331,15 @@
   <string name="label_image_list_none">None</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
-  <string name="load_only_under_wlan">Load news when connected to WLAN</string>
+  <string name="load_only_under_wlan">"Wi-Fi接続時にニュースを読み込む"</string>
   <string name="login_immediately">"ログイン"</string>
   <string name="long_click_dialog_summary">"長押しすると例外に追加されます。"</string>
   <string name="long_click_dialog_title">"お知らせ"</string>
-  <string name="low_memory_clean_dialog_msg">Clear at least 100MB files first</string>
+  <string name="low_memory_clean_dialog_msg">"初めに100MB以上のファイルを消去する"</string>
   <string name="low_memory_clean_dialog_ok_button">OK</string>
   <string name="low_memory_clean_dialog_title">"十分な空き領域がありません"</string>
   <string name="low_memory_warning_dialog_cancel_button">"キャンセル"</string>
-  <string name="low_memory_warning_dialog_msg">Free up space on your device to continue</string>
+  <string name="low_memory_warning_dialog_msg">"続行するにはデバイスの空き領域を確保してください"</string>
   <string name="low_memory_warning_dialog_ok_button">"消去"</string>
   <string name="low_memory_warning_dialog_title">"十分な空き領域がありません"</string>
   <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
@@ -482,7 +482,7 @@
   <string name="title_optimizer">"利用規約"</string>
   <string name="title_share_link">"URLを共有"</string>
   <string name="toast_add_white_list_success">" 例外に追加しました"</string>
-  <string name="toast_app_no_residual_on_sdcard">"App doesn't have any files stored on your SD card"</string>
+  <string name="toast_app_no_residual_on_sdcard">"アプリはSDカード上に何もファイルを保存していません"</string>
   <string name="toast_backup_is_running">Backup is already running</string>
   <string name="toast_backup_uninstall_failed">"Couldn't back up %d apps"</string>
   <string name="toast_backup_uninstall_failed2">"Couldn't back up"</string>
