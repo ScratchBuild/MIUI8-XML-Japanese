@@ -151,7 +151,7 @@
   <string name="free_high_speed_channel">Xunlei accelerator (free)</string>
   <string name="free_speedup_exp">Try Xunlei download accelerator for free</string>
   <string name="get_account_dialog_msg">"アカウント情報を取得中…"</string>
-  <string name="get_data_failed">"Couldn't get info, try again later"</string>
+  <string name="get_data_failed">"情報を取得できませんでした、後ほど再試行してください"</string>
   <string name="get_order_dialog_msg">Getting order info…</string>
   <string name="get_order_fail_msg">"Couldn't create order"</string>
   <string name="goto_global_search">Searching web for \"%1$s\"</string>
@@ -262,7 +262,7 @@ across all your devices with Xunlei"</string>
   <string name="remove_download">Remove</string>
   <string name="restart_download">Restart</string>
   <string name="resume_download">Resume</string>
-  <string name="retry_after_network_available">"Can't connect to the network. Check your data connection and try again."</string>
+  <string name="retry_after_network_available">"ネットワークに接続できませんでした。データ接続を確認してもう一度お試しください"</string>
   <string name="retry_download">"再試行"</string>
   <string name="revert_default">"デフォルト設定を復元"</string>
   <string name="revert_download_path">Use default downloads location?</string>

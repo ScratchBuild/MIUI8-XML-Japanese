@@ -71,7 +71,7 @@
   <string name="preference_tip_rename">Name recordings manually</string>
   <string name="recognition_error_cancel">Canceled</string>
   <string name="recognition_error_download_cancel">"後で"</string>
-  <string name="recognition_error_download_fail">"Couldn't download. Check network settings and try again."</string>
+  <string name="recognition_error_download_fail">"ダウンロードできませんでした。ネットワーク設定を確認してもう一度お試しください。"</string>
   <string name="recognition_error_download_msg">Download recognition engine to make this service available.</string>
   <string name="recognition_error_download_ok">"ダウンロード"</string>
   <string name="recognition_error_download_title">No recognition engine</string>

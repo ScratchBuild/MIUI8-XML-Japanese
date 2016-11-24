@@ -116,7 +116,7 @@
   <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_legacy">"従来のテーマ"</string>
   <string name="reload">"再試行"</string>
-  <string name="resource_account_abnormal_state">Account error. Wait a minute or two and try again.</string>
+  <string name="resource_account_abnormal_state">"アカウントエラー。1～2分待ってから再試行してください。"</string>
   <string name="resource_account_fail_to_add">"アカウントが追加できません"</string>
   <string name="resource_account_login">"ログイン"</string>
   <string name="resource_account_login_before_action">"今すぐMi Accountにログイン"</string>

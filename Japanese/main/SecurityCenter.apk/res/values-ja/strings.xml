@@ -55,7 +55,7 @@ or enter App lock password"</string>
   <string name="activity_title_virus_detail">"ウイルスの詳細"</string>
   <string name="activity_title_virus_settings">"設定"</string>
   <string name="activity_title_white_list">Exceptions</string>
-  <string name="adb_install_no_network">Connect to the network and try again</string>
+  <string name="adb_install_no_network">"ネットワークに接続してもう一度お試しください"</string>
   <string name="adb_install_open">Allowing…</string>
   <string name="adb_install_open_error">"Couldn't allow, check your network connection"</string>
   <string name="adb_install_reject_notiy">"Didn't allow installing %s via USB"</string>
@@ -501,8 +501,8 @@ or enter App lock password"</string>
   <string name="free_time_traffic_title">Enter off-peak data limit</string>
   <string name="free_traffic_settings">Off-peak data usage settings</string>
   <string name="garbage_clean_detail">"詳細"</string>
-  <string name="gateway_exception_summary">Check your router and try again.</string>
-  <string name="gateway_exception_summary2">"Can't connect to the server"</string>
+  <string name="gateway_exception_summary">"ルーターを確認してもう一度お試しください。"</string>
+  <string name="gateway_exception_summary2">"サーバーに接続できませんでした"</string>
   <string name="gateway_exception_title">Test router</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">"続行"</string>
@@ -804,7 +804,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="never">1 time</string>
   <string name="news_change">"変更"</string>
   <string name="next_step_button">"次へ"</string>
-  <string name="no_network">"Couldn't connect to network, try again later"</string>
+  <string name="no_network">"ネットワークに接続できませんでした、後ほど再試行してください"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="none_mi_service_app_detail">Empty</string>
   <string name="notification_battery_consume_abnormal_summary">Drained %2$s of the battery during last %1$d minutes</string>

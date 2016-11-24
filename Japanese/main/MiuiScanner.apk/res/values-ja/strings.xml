@@ -60,7 +60,7 @@
   <string name="error_minute_limit">Too many attempts within 1 minute</string>
   <string name="error_permissions">"Scanner doesn't have the permissions required for it to work normally. Go to Settings and check permissions to continue."</string>
   <string name="error_server_error">サーバーエラー</string>
-  <string name="feed_search_fail">No results, try again</string>
+  <string name="feed_search_fail">"結果がありません、もう一度お試しください"</string>
   <string name="feedback_description_camera_access">"Scanner can't connect to Camera"</string>
   <string name="feedback_description_save_photo">"Couldn't save photo or video"</string>
   <string name="flash_lable">Flash</string>

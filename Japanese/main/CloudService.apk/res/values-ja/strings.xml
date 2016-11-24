@@ -37,11 +37,11 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_back_up_button_ok">強制停止</string>
   <string name="cloud_back_up_close_info">Tap to back up.</string>
   <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
-  <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
+  <string name="cloud_back_up_network_unavailable">"削除できませんでした、Wi-Fiに接続してもう一度お試しください。"</string>
   <string name="cloud_back_up_open_info">"Back up when connected to WLAN once every %1$s
 Last backed up on %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Back up when connected to WLAN once every %1$s</string>
-  <string name="cloud_back_up_remove_success">Backup deleted</string>
+  <string name="cloud_back_up_remove_success">バックアップを削除しました</string>
   <string name="cloud_back_up_summary">Back up when connected to WLAN</string>
   <string name="cloud_back_up_title">Back up device</string>
   <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
@@ -89,7 +89,7 @@ Last backed up on %2$s"</string>
   <string name="find_device_dspt_provision_3">. You can turn this feature on or off anytime in Settings.</string>
   <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
   <string name="find_device_enabling">オンにしています…</string>
-  <string name="find_device_error_network">Check your data connection and try again.</string>
+  <string name="find_device_error_network">"データ接続を確認してもう一度お試しください。"</string>
   <string name="find_device_error_password_changed">Account password has been recently changed.</string>
   <string name="find_device_error_server">サーバーエラー</string>
   <string name="find_device_error_unknown">不明なエラー。</string>

@@ -623,7 +623,7 @@
   <string name="mute">Mute</string>
   <string name="network_error">No connection</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
-  <string name="network_try_again">Check network connection and try again</string>
+  <string name="network_try_again">"ネットワーク接続を確認してもう一度お試しください"</string>
   <string name="network_unavailable">"ネットワークが利用できません"</string>
   <string name="new_incoming_messages_one">New message from %s. Show.</string>
   <string name="new_messages">%1$d new messages</string>
@@ -668,11 +668,11 @@
   <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the server's limit."</string>
   <string name="outbox_alert_duplicate_click">Sending now…</string>
   <string name="outbox_alert_edit_resend">Edit and resend</string>
-  <string name="outbox_alert_failed_edit_resend">"Couldn't send. Edit and try again."</string>
-  <string name="outbox_alert_mailbox_not_found">Email address not found</string>
-  <string name="outbox_alert_rw_io_error">An error occurred. Wait a minute or two and try again.</string>
+  <string name="outbox_alert_failed_edit_resend">"送信できませんでした。編集してもう一度お試しください。"</string>
+  <string name="outbox_alert_mailbox_not_found">"メールアドレスが見つかりません"</string>
+  <string name="outbox_alert_rw_io_error">"不明なエラーが発生しました。1～2分待ってから再試行してください。"</string>
   <string name="outbox_alert_select_operation">Choose an action</string>
-  <string name="outbox_alert_title_sent_failed">"Couldn't send mail"</string>
+  <string name="outbox_alert_title_sent_failed">"メールを送信できませんでした"</string>
   <string name="outbox_no_mails">Empty</string>
   <string name="parase_setup_data">Getting data…</string>
   <string name="password_expire_warning_content_title">"解除パスワードの期限切れが間近"</string>

@@ -103,7 +103,7 @@
   <string name="auto_tune_running">Auto tune running…</string>
   <string name="back">"戻る"</string>
   <string name="backup">Back up</string>
-  <string name="backup_failed">"Couldn't back up, try again"</string>
+  <string name="backup_failed">"バックアップできませんでした、もう一度お試しください"</string>
   <string name="backup_succeed">Backed up successfully</string>
   <string name="backuping">"バックアップ中…"</string>
   <string name="bedroom">Bedroom</string>
@@ -146,7 +146,7 @@
   <string name="circlepad_slide_tips">Use the touch wheel to adjust the volume</string>
   <string name="click_to_expend">Expand</string>
   <string name="click_to_login">"ログイン"</string>
-  <string name="click_to_retry">Tap to try again</string>
+  <string name="click_to_retry">"タップして再試行"</string>
   <string name="click_to_shrink">Minimize</string>
   <string name="close">Off</string>
   <string name="comment_bad">So-so</string>
@@ -312,9 +312,9 @@
   <string name="gesture_pad_orietaion_tips">Swipe to move in any direction. Tap to confirm.</string>
   <string name="gesture_pad_sencond_line_tips">· Tap &amp; hold the central area of the screen to view the menu. Slide up or down to adjust volume.</string>
   <string name="gesture_pad_vol_tips">"Use phone's volume buttons to adjust the volume on the connected device"</string>
-  <string name="get_backup_failed">"Couldn't fix, try again"</string>
+  <string name="get_backup_failed">"修復できませんでした、もう一度お試しください"</string>
   <string name="get_backup_succeed">Restored successfully. Total: %1$d | Current: %2$d| Restored: %3$d</string>
-  <string name="get_data_fail_tips">"Couldn't get data, try again"</string>
+  <string name="get_data_fail_tips">"データを取得できませんでした、もう一度お試しください"</string>
   <string name="get_info_failed">"情報を取得できませんでした"</string>
   <string name="get_location_fail_tip">"Couldn't set location, choose a city"</string>
   <string name="guid_one">· Connect the set-top box/TV to the same Wi-Fi network as your phone.</string>
@@ -398,9 +398,9 @@
   <string name="login_directly">"ログイン"</string>
   <string name="login_done">"ログインしました"</string>
   <string name="login_failed">"ログインできませんでした"</string>
-  <string name="login_failed_tips">"Could't get account info"</string>
+  <string name="login_failed_tips">"アカウント情報を取得できませんでした"</string>
   <string name="login_thirdparty">Other ways to sign in</string>
-  <string name="login_wxfailed_tips">"Could't get account info, try again later"</string>
+  <string name="login_wxfailed_tips">"アカウント情報を取得できませんでした、後ほど再試行してください"</string>
   <string name="logining">"ログイン中…"</string>
   <string name="logout">"ログアウト"</string>
   <string name="logout_done">"ログアウトしました"</string>
@@ -875,7 +875,7 @@ directly from your Lock screen"</string>
   <string name="share_content_type_video_to_sina_weibo">Video</string>
   <string name="share_device_name">"Share remote's name"</string>
   <string name="share_done">Shared successfully</string>
-  <string name="share_fail">"Couldn't connect, try again"</string>
+  <string name="share_fail">"接続できませんでした、もう一度お試しください"</string>
   <string name="share_friends_cancel">"キャンセル"</string>
   <string name="share_friends_confirm">OK</string>
   <string name="share_friends_none_text">No friends found</string>
