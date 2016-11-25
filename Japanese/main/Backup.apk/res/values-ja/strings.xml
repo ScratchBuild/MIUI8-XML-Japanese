@@ -345,7 +345,7 @@ and Mi Mover is on"</string>
   <string name="wifi_title">"Wi-Fi設定"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">"Couldn't connect to Download Manager, check Download Manager status in the App Manager."</string>
+  <string name="xiaomi_connect_download_manager_fail">"ダウンロードを開始できませんでした。ダウンロードマネージャーが正常に動作することを確認してください。"</string>
   <string name="xiaomi_external_storage_unavailable">"ストレージが使用できません、SDカードを確認してください。"</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>

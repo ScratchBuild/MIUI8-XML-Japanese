@@ -18,7 +18,7 @@
   <string name="name_alipay_payment_code">Alipay payment</string>
   <string name="name_alipay_scan">Alipay scanner</string>
   <string name="name_all_mipay_cards">Mi Pay</string>
-  <string name="name_handy_mode">Handy Mode</string>
+  <string name="name_handy_mode">"片手操作モード"</string>
   <string name="name_long_press_power_key">"電源ボタンを長押し"</string>
   <string name="name_memory_clean">"キャッシュのクリア"</string>
   <string name="name_music_next_song">"次の曲"</string>

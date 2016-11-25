@@ -269,8 +269,8 @@
         <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> day</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> videos,</item>
-        <item quantity="one">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> video,</item>
+        <item quantity="other">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> videos.</item>
+        <item quantity="one">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> video.</item>
     </plurals>
     <plurals name="original_user_play_2">
         <item quantity="other">You made &lt;font color=#fc7050>%1$s&lt;/font> people happy!</item>

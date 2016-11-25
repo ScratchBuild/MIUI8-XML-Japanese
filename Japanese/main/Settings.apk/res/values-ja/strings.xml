@@ -107,13 +107,15 @@
   <string name="add_fingerprint_done_msg">指紋を使ってこのデバイスのロックを解除できるようになりました。</string>
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
   <string name="add_fingerprint_failed_retry_text">"指紋を追加できませんでした。もう一度試してください。"</string>
-  <string name="add_fingerprint_finished_button_text">OK</string>
+  <string name="add_fingerprint_finished_button_text">完了</string>
   <string name="add_fingerprint_instruction_msg">デバイスのロックを解除したり、指紋でのお支払いを確認します。</string>
   <string name="add_fingerprint_instruction_title">指紋を追加します</string>
+  <string name="add_fingerprint_name_suggest_text">Fingerprint name</string>
   <string name="add_fingerprint_put_finger_edge_msg">指紋のさまざまな部分を追加するため、少し指を移動し、再度センサーの上に当ててください。</string>
   <string name="add_fingerprint_put_finger_msg">指をセンサーに当て、振動したら離します。</string>
   <string name="add_fingerprint_put_finger_title">指紋の追加</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">少し指を移動し、指紋のさまざまな部分を追加するため、何度かセンサーの上に置きます。</string>
+  <string name="add_fingerprint_success_msg">Added successfully</string>
   <string name="add_fingerprint_text">指紋認証を追加</string>
   <string name="add_fingerprint_toast_text">指をセンサーに当ててください。</string>
   <string name="adding_profile_owner_warning">"次に進むと、ユーザーは管理者の管理対象となり、管理者は個人情報に加えて関連データも保存できるようになります。
@@ -352,7 +354,7 @@
   <string name="band_mode_succeeded">成功</string>
   <string name="band_mode_title">GSM/UMTSバンドの設定</string>
   <string name="baseband_version">ベースバンドバージョン</string>
-  <string name="batch_delete_saved_network">"保存したネットワークを削除: %s?"</string>
+  <string name="batch_delete_saved_network">"選択したネットワークを削除: %s?"</string>
   <string name="batch_delete_saved_networks">選択したすべてのネットワークを削除</string>
   <string name="battery_action_app_details">アプリ情報</string>
   <string name="battery_action_app_settings">アプリの設定</string>
@@ -705,9 +707,12 @@
   <string name="button_light_timeout">ライトの点灯時間</string>
   <string name="button_text_accept">受け入れる</string>
   <string name="button_text_accept_timer">受け入れ (%d)</string>
+  <string name="button_text_cancel">キャンセル</string>
   <string name="button_text_login">ログイン</string>
   <string name="button_text_next_step">次へ</string>
   <string name="button_text_next_step_timer">次へ (%d)</string>
+  <string name="button_text_ok">OK</string>
+  <string name="button_text_ok_timer">OK(%d)</string>
   <string name="button_text_reboot_now">再起動</string>
   <string name="button_text_reject">拒否する</string>
   <string name="cache_header_label">キャッシュ</string>
@@ -1062,6 +1067,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="debug_monitoring_category">監視</string>
   <string name="debug_networking_category">ネットワーク</string>
   <string name="debug_view_attributes">表示属性検査を有効にする</string>
+  <string name="defalut_launcher_title">既定のランチャー</string>
   <string name="default_app">（既定）</string>
   <string name="default_apps_title">既定のアプリ</string>
   <string name="default_assist_none">なし</string>
@@ -1388,9 +1394,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_add_max">最大で%d個の指紋を追加できます</string>
   <string name="fingerprint_add_title">指紋を追加</string>
   <string name="fingerprint_and_password_entrance_title">画面ロックと指紋認証</string>
+  <string name="fingerprint_apply_to_privacy_password">Privacy protection password</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">Privacy protection password protects your messages, photos, files, notes, and apps.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">画面ロック</string>
   <string name="fingerprint_enroll_button_add">別の指紋を登録</string>
   <string name="fingerprint_enroll_button_next">次へ</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Fingerprint (set Lock screen password before using it)</string>
   <string name="fingerprint_for_keyguard_disabled">指紋認証はセキュリティ設定によって無効にされています。</string>
   <string name="fingerprint_identify_input_password_msg">パスワードを入力</string>
   <string name="fingerprint_identify_msg">指紋を読み取り中…</string>
@@ -1401,6 +1410,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_list_title">指紋認証</string>
   <string name="fingerprint_lock_first">First spaceのロックを解除</string>
   <string name="fingerprint_lock_second">Second spaceのロックを解除</string>
+  <string name="fingerprint_manage">Manage fingerprints</string>
   <string name="fingerprint_manage_category_title">指紋の管理</string>
   <string name="fingerprint_not_identified_msg">指紋を読み取れませんでした、パスワードを入力してください</string>
   <string name="fingerprint_not_recognized">認識されませんでした</string>
@@ -1676,6 +1686,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keyboard_layout_picker_title">キーボードレイアウト</string>
   <string name="keyboard_settings_category">キーボードと入力方法</string>
   <string name="keyboard_settings_title">Androidキーボード</string>
+  <string name="keyguard_advance_setting_title">高度な設定</string>
   <string name="keyguard_left_function_chooser_hint_text">左側のショートカットは%sに変更しました</string>
   <string name="keyguard_left_function_chooser_title">アプリ</string>
   <string name="keyguard_left_function_title">左側</string>
@@ -1734,6 +1745,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="launch_by_default">既定で開く</string>
   <string name="launch_defaults_none">既定の設定なし</string>
   <string name="launch_defaults_some">一部デフォルトを設定</string>
+  <string name="launcher_auto_fill_empty_title">空のセルを自動で埋める</string>
+  <string name="launcher_title">Launcher</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -1842,6 +1855,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_after_timeout_summary_with_exception">スリープ開始から%1$s（%2$sがロック解除を管理している場合を除く）</string>
   <string name="lock_immediately_summary_with_exception">スリープの開始直後（%1$sがロック解除を管理している場合を除く）</string>
   <string name="lock_intro_message">Lock_intro_message</string>
+  <string name="lock_screen_cells_title">Lock Screen Cells</string>
   <string name="lock_screen_notifications_interstitial_message">端末がロックされている場合、通知をどのように表示しますか？</string>
   <string name="lock_screen_notifications_interstitial_title">通知</string>
   <string name="lock_screen_notifications_summary_disable">通知をすべて表示しない</string>
@@ -1851,6 +1865,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_secure_after_timeout_immediately_summary">直ぐにパスワードが必要になります</string>
   <string name="lock_screen_secure_after_timeout_summary">%1$sでパスワードが必要になります</string>
   <string name="lock_screen_secure_after_timeout_title">パスワードの要求</string>
+  <string name="lock_screen_signature_summary">The signature will be displayed on the Lock screen</string>
+  <string name="lock_screen_signature_title">Lock screen signature</string>
   <string name="lock_screen_unlock_show">スワイプ画面をスキップする</string>
   <string name="lock_screen_unlock_show_summary">復帰時にホーム画面かパスワード画面に直接行く</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">変更するにはタップ</string>
@@ -1952,6 +1968,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="man_add_application">自動スタートアプリを追加</string>
   <string name="manage_device_admin">端末管理者</string>
   <string name="manage_device_admin_summary">端末管理者を表示または無効にする</string>
+  <string name="manage_fingerprint_text">Manage fingerprints</string>
   <string name="manage_mobile_plan_title">モバイルプラン</string>
   <string name="manage_notification_access_summary_zero">アプリは通知を読み取ることができません</string>
   <string name="manage_notification_access_title">通知へのアクセス</string>
@@ -1976,6 +1993,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
 以下のアカウントにログインしています:
 "</string>
   <string name="master_clear_all">内部ストレージからすべてのデータを消去しますか？この操作は元に戻すことはできません！</string>
+  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Factory data reset&amp;#8221; will erase all data on your phone&lt;/b&gt;, including photos, songs, notes, and other personal data. Make sure you back up all the important items to your computer.</string>
+  <string name="master_clear_apply_step_2">Make sure all the important items are backed up to your computer. All the data on this device will be erased during the reset. &lt;b&gt;You wont be able to restore the items you havent backed up.&lt;/b&gt;</string>
+  <string name="master_clear_apply_title">Attention</string>
   <string name="master_clear_button_text">携帯端末をリセット</string>
   <string name="master_clear_confirm_title">リセットしますか？</string>
   <string name="master_clear_desc">この操作を行うと、携帯端末の以下のデータを含む<b>内部ストレージ</b>"の全データが消去されます:
@@ -2091,6 +2111,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_allow_vibrate">バイブレーション</string>
   <string name="miui_data_usage_menu_metered">モバイルホットスポット</string>
   <string name="miui_experience_optimization">MIUIの最適化をオンにします</string>
+  <string name="miui_screen_config_title">Miui Launcher Screen Config</string>
   <string name="mms_breathing_light_color_title">メッセージLEDの色</string>
   <string name="mms_breathing_light_freq_title">メッセージLEDを点滅させる</string>
   <string name="mms_privacy_password_role_instruction">プライベートな連絡先とあなたとの会話はここに保存されます。</string>
@@ -2212,6 +2233,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="networks_title">Cellular networks</string>
   <string name="never">Never</string>
   <string name="new_backup_pw_prompt">フルバックアップ用の新しいパスワードをここに入力してください</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">Add your fingerprint to unlock your device with it.</string>
+  <string name="new_password_to_new_fingerprint_dialog_negative_msg">キャンセル</string>
+  <string name="new_password_to_new_fingerprint_dialog_positive_msg">追加</string>
+  <string name="new_password_to_new_fingerprint_dialog_tittle">Add fingerprint</string>
   <string name="next_button_label">次へ</string>
   <string name="next_label">次へ</string>
   <string name="nfc_category_title">NFC</string>
@@ -2388,6 +2413,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="passwordIncorrect">入力したパスワードが正しくありません</string>
   <string name="password_entrance_title">画面ロック</string>
   <string name="password_guard">パスワード</string>
+  <string name="password_turned_off_text">Password has been turned off</string>
+  <string name="password_turned_on_text">Password has been turned on</string>
   <string name="path_about_about_settings">設定/端末情報</string>
   <string name="path_accelerometer_settings">設定/ディスプレイ/画面の自動回転</string>
   <string name="path_access_control_settings">設定/その他の設定/プライバシー/プライバシー設定</string>
@@ -2965,6 +2992,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen">画面</string>
   <string name="screen_button">画面ボタン</string>
   <string name="screen_button_tips">画面ボタンを非表示にするには下にスワイプ</string>
+  <string name="screen_cells_config_title">Screen Cells Config</string>
   <string name="screen_color_and_optimize">色とコントラスト</string>
   <string name="screen_color_and_optimize_disabled">読書モードで色温度の調整はできません</string>
   <string name="screen_color_temperature">色</string>
@@ -3485,9 +3513,9 @@ PINが正しくない可能性があります。"</string>
   <string name="slot_status_title">IMEI情報</string>
   <string name="small_font">小</string>
   <string name="smallwindow_smartcover_title">Transparent front cover</string>
-  <string name="smartcover_lock_or_unlock_screen_tittle">smart cover lock or unlock screen</string>
-  <string name="smartcover_sensitive_summary">lock or unlock the phone easily with smart cover</string>
-  <string name="smartcover_sensitive_title">スマートカバーモード</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">スマートカバーモード</string>
+  <string name="smartcover_sensitive_summary">スマートカバーを使用して端末をロックまたはロック解除する</string>
+  <string name="smartcover_sensitive_title">スマートカバー</string>
   <string name="sms_application_title">SMSアプリ</string>
   <string name="sms_change_default_dialog_text">SMSアプリとして%2$sの代わりに%1$sを使用しますか？</string>
   <string name="sms_change_default_dialog_title">SMSアプリを変更しますか？</string>
@@ -3906,8 +3934,12 @@ PINが正しくない可能性があります。"</string>
   <string name="tts_status_requires_network">%1$sではネットワーク接続が必要です</string>
   <string name="tts_status_title">デフォルトの言語のステータス</string>
   <string name="turn_off_common_password_confirm_msg">画面ロックも同様にオフになります</string>
+  <string name="turn_off_keyguard_password_alert_title">Turn off</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Turn off Lock screen password?</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"You won't be able to unlock the device with your fingerprint after turning Lock screen password off"</string>
   <string name="turn_off_radio">無線通信をOFF</string>
   <string name="turn_off_security_lock">ロックをOFF</string>
+  <string name="turn_on_keyguard_password">Turn on Lock screen password</string>
   <string name="turn_on_radio">無線通信をON</string>
   <string name="turn_on_security_lock">画面ロックを選択</string>
   <string name="under_keyguard">画面オフ</string>

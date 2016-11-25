@@ -16,6 +16,8 @@
   <string name="experimental_validate_username">"ユーザー名"</string>
   <string name="experimental_validate_warning">Thank you for helping make MIUI better!</string>
   <string name="find_device_turn_off_flight_mode">"機内モードをオフにする"</string>
+  <string name="fingerprint_add_text">The fingerprint interface was updated. Add your fingerprint again</string>
+  <string name="fingerprint_add_title">"指紋認証を追加"</string>
   <string name="fingerprint_enter_second_psw_msg">Enter Second space password after rebooting device to be able to use fingerprint recognition</string>
   <string name="fingerprint_enter_second_psw_title">Enter Second space password</string>
   <string name="fingerprint_lockout_msg">"指紋認証で再度ロックの解除を試みるには、数分間待ってください。"</string>

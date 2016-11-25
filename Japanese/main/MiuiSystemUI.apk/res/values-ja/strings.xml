@@ -273,6 +273,7 @@
   <string name="settings_toggle_position_divider_page">このバーより上の %1$d 個のトグルがアクティブ</string>
   <string name="settings_toggle_position_reset">トグルをリセット</string>
   <string name="share">共有</string>
+  <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_clock_date_format">"M月d日 EEEE"</string>
   <string name="status_bar_date_format">"M月d日
 EEEE"</string>

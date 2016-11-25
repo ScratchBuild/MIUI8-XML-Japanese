@@ -146,6 +146,7 @@
   <string name="login_guard_prompt">Require phone number verification when you sign in to your Mi Account on an unknown device or in an unknown app for the first time.</string>
   <string name="logout_failed">"ログアウトできません"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
+  <string name="mi_family">Mi Home</string>
   <string name="mi_insurance">Mi Insurance</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identity</string>

@@ -100,8 +100,8 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="find_device_reading_status">Loading status…</string>
   <string name="find_device_reading_status_failure">"ステータスを読み込めませんでした。"</string>
   <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS may be sent automatically to reactivate this feature.</string>
-  <string name="find_device_service_summary">"Locate your device and lock it remotely in case it's lost."</string>
-  <string name="find_device_service_summary_international">"Locate your device and lock it remotely in case it's lost."</string>
+  <string name="find_device_service_summary">Visit i.mi.com to locate your device and lock it remotely</string>
+  <string name="find_device_service_summary_international">Visit i.mi.com to locate your device and lock it remotely</string>
   <string name="find_device_service_title">Find device</string>
   <string name="find_device_status_ok">Find your device from anywhere at i.mi.com</string>
   <string name="find_device_status_ok_international">Find your device from anywhere at www.mi.com/micloud</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alphabet">"英字"</string>
+  <string name="alphabet">Letters</string>
   <string name="app_name">"SIM Toolkit"</string>
   <string name="button_cancel">"キャンセル"</string>
   <string name="button_no">"いいえ"</string>
@@ -9,22 +9,22 @@
   <string name="default_call_setup_msg">"通話中..."</string>
   <string name="default_close_channel_msg">"チャンネルは閉じています"</string>
   <string name="default_open_channel_msg">"チャンネルを開きますか？"</string>
-  <string name="default_receive_data_msg">"データを受信しています"</string>
-  <string name="default_send_data_msg">"データを送信しています"</string>
-  <string name="default_setup_call_msg">"発信しています"</string>
-  <string name="default_tone_dialog_msg">"トーンを再生中"</string>
+  <string name="default_receive_data_msg">"データを受信しています…"</string>
+  <string name="default_send_data_msg">"データを送信しています…"</string>
+  <string name="default_setup_call_msg">"発信しています…"</string>
+  <string name="default_tone_dialog_msg">"デフォルトの着信音"</string>
   <string name="digits">"数字 (0-9、*、#、+)"</string>
-  <string name="disable_app">"無効"</string>
-  <string name="enable_app">"有効"</string>
+  <string name="disable_app">"オフ"</string>
+  <string name="enable_app">"オン"</string>
   <string name="help">"ヘルプ"</string>
   <string name="menu_back">"戻る"</string>
   <string name="menu_end_session">"セッションを終了"</string>
-  <string name="no_sim_card_inserted">"SIMを挿入してSIM Toolkitを起動してください。"</string>
+  <string name="no_sim_card_inserted">"SIMカードを挿入してSIM Toolkitを起動してください。"</string>
   <string name="service_name">"サービス名"</string>
   <string name="sim_type_sim_name">SIM Toolkit</string>
   <string name="sim_type_uim_name">UIM Toolkit</string>
   <string name="sim_type_usim_name">USIM Toolkit</string>
-  <string name="stk_app_state">"アプリケーションの状態"</string>
+  <string name="stk_app_state">"アプリの状態"</string>
   <string name="stk_dialog_accept">"はい"</string>
   <string name="stk_dialog_reject">"いいえ"</string>
   <string name="stk_dialog_title">"SIM Toolkit"</string>

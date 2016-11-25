@@ -1194,6 +1194,7 @@ To add a contact to your list of favorites:
   <string name="toast_making_personal_copy">"個人用コピーを作成しています..."</string>
   <string name="toast_text_copied">"テキストをコピーしました"</string>
   <string name="today">"今日"</string>
+  <string name="tomorrow">"明日"</string>
   <string name="transfer_accounts">Transfer accounts</string>
   <string name="type_incoming">"着信履歴"</string>
   <string name="type_missed">"不在着信"</string>
@@ -1280,5 +1281,6 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">"ホーム画面に設置しました"</string>
   <string name="yellowpage_search_the_yellowpage">"Yellow Pageを検索"</string>
   <string name="yellowpage_user_profile">"プロフィール"</string>
+  <string name="yesterday">"昨日"</string>
   <string name="zero_items_selected">Select items</string>
 </resources>

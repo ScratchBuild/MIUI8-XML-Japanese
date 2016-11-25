@@ -47,6 +47,7 @@
   <string name="action_menu_useful_page">Add shortcut</string>
   <string name="action_menu_useful_page_added">Added to start page</string>
   <string name="actionbar_share">"共有"</string>
+  <string name="actionbar_textselection_title">"テキストの選択"</string>
   <string name="actionbar_web_search">"ウェブ検索"</string>
   <string name="adblock_force_updating_rules_toast">"Ad blockerを更新中"</string>
   <string name="adblock_notification">%d ads blocked</string>
@@ -57,7 +58,7 @@
   <string name="adblock_websites_settings_title">"ブロック済みのサイト"</string>
   <string name="add_bookmark_group">Add group</string>
   <string name="add_bookshelf_popup_text">"本棚に追加"</string>
-  <string name="add_favorites_to">Add favorites to</string>
+  <string name="add_favorites_to">"お気に入りに追加"</string>
   <string name="add_new_bookmark">"ブックマークを追加"</string>
   <string name="add_new_quicklink">Add to start page</string>
   <string name="add_ql_bm_title">"保存"</string>
@@ -84,6 +85,7 @@
   <string name="aqi_quality_index_moderate">Moderate</string>
   <string name="aqi_quality_index_pure">Excellent</string>
   <string name="aqi_quality_index_unhealthy">Unhealthy</string>
+  <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
   <string name="autofill_popup_content_description">Showing autofill popup</string>
   <string name="autologin_bar_error">"ログインに失敗しました"</string>
   <string name="autologin_bar_hide_text">"表示しない"</string>
@@ -193,9 +195,9 @@
 is about to happen"</string>
   <string name="custom_head_card_text_incognito">"You're incognito!
 Pages you view won't appear in history."</string>
-  <string name="data_traffic_prompt_change">"Using your mobile data connection to watch videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
-  <string name="data_traffic_prompt_message">"Using your mobile data connection to browse videos will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
-  <string name="data_traffic_prompt_message_short">"Using mobile data to stream video may cause you to go over your plan's data usage limit."</string>
+  <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="data_traffic_prompt_message">Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="data_traffic_prompt_message_short">Using mobile data to stream video may cause you to go over your plans data usage limit.</string>
   <string name="data_traffic_prompt_title">Data usage warning</string>
   <string name="date_picker_dialog_clear">"消去"</string>
   <string name="date_picker_dialog_other_button_label">"その他"</string>
@@ -365,12 +367,12 @@ Pages you view won't appear in history."</string>
   <string name="media_error_nomemory">"メモリ不足"</string>
   <string name="media_error_source">"Couldn't find source"</string>
   <string name="media_error_timeout">"ネットワーク接続がタイムアウトしました"</string>
-  <string name="media_error_video_not_exist">"Video doesn't exist"</string>
+  <string name="media_error_video_not_exist">"動画が存在しません"</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">"This video can't be streamed on this device."</string>
-  <string name="media_player_error_text_unknown">"This video can't be played."</string>
-  <string name="media_player_error_title">"Can't play video"</string>
-  <string name="media_player_loading_video">Loading video</string>
+  <string name="media_player_error_text_invalid_progressive_playback">"申し訳ありませんが、この動画はお使いの端末へのストリーミングは無効です。"</string>
+  <string name="media_player_error_text_unknown">"申し訳ありませんが、この動画は再生できません。"</string>
+  <string name="media_player_error_title">"動画を再生できません"</string>
+  <string name="media_player_loading_video">"動画を読み込み中"</string>
   <string name="menu_addtodesk">"ホーム画面に追加"</string>
   <string name="menu_exit_nightmode">"終了"</string>
   <string name="menu_hv_swap">V/H screen</string>
@@ -482,6 +484,8 @@ Pages you view won't appear in history."</string>
   <string name="paused_waiting_to_retry">Waiting to retry…</string>
   <string name="pay_failed_toast">"Couldn't complete payment"</string>
   <string name="pay_success_toast">Paid successfully</string>
+  <string name="permission_alert_window">"この機能を使用するには、システムオプションのディスプレイポップアップウインドウを開いてください。"</string>
+  <string name="permission_unknown">"不明なオプション"</string>
   <string name="popup_window_attempt">"このサイトにポップアップウィンドウを開くことを許可しますか？"</string>
   <string name="positive_confirm_message">Turn off anyway</string>
   <string name="pref_accessibility">"ユーザー補助"</string>
@@ -757,6 +761,7 @@ Pages you view won't appear in history."</string>
   <string name="unsecurity_url_toast">"このウェブサイトは安全ではありません"</string>
   <string name="up_to_loading_tips">"指を離して更新"</string>
   <string name="update_no_network_toast">"ネットワークに接続できません"</string>
+  <string name="updating_chrome">"Chromeを更新中..."</string>
   <string name="uploads_disabled">"ファイルのアップロードが無効になっています"</string>
   <string name="url_copy_done">"URLをクリップボードにコピーしました"</string>
   <string name="url_find_on_page_result">"ブラウザで表示"</string>

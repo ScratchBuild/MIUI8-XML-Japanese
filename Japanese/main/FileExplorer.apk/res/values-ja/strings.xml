@@ -760,7 +760,7 @@
   <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">"WeChat isn't installed"</string>
   <string name="weixin_sticker_tag_str">"ステッカー"</string>
-  <string name="welcome_to_my_page">Welcome to my homepage</string>
+  <string name="welcome_to_my_page">Welcome to my home page</string>
   <string name="welcome_to_my_page_1">Follow me!</string>
   <string name="welcome_to_my_page_2">Follow me!</string>
   <string name="wifi_state">WLAN network</string>
@@ -771,7 +771,7 @@
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">"はい"</string>
   <string name="yesterday">"昨日"</string>
-  <string name="youliao_ad_msg">"Have fun with\"Youliao\"!
+  <string name="youliao_ad_msg">"Have fun with \"Youliao\"!
 Join 170 million Mi Fans!"</string>
   <string name="youliao_ad_title">Popular videos have been upgraded!</string>
   <string name="youliao_ad_update">Update</string>

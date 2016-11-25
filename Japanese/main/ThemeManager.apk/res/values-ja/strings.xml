@@ -96,7 +96,7 @@
   <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">"カスタマイズ"</string>
   <string name="mi_wallpaper">MIUI wallpaper</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">"着信音はSIMカード1とSIMカード2の両方へ同時に適用されます。"</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">"着信音は両方のSIMカードへ同時に適用されます。"</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Got it</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"二度と表示しない"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">"互換性の問題"</string>

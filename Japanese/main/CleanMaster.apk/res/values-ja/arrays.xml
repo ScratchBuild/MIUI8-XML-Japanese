@@ -24,9 +24,9 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Show</item>
-        <item>"Don't show"</item>
-        <item>Show after</item>
+        <item>Only notify</item>
+        <item>Clear automatically</item>
+        <item>Clear and notify</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Clean up this file</item>

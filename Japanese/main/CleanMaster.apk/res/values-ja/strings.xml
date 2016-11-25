@@ -152,8 +152,8 @@
   <string name="dialog_msg_esc_cleanmaster">Stop the ongoing clean up scan?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Cleaner engine has been corrupted.</string>
   <string name="dialog_msg_stop_scan">Stop the ongoing clean up scan?</string>
-  <string name="dialog_msg_uninstall_apps">Uninstall these apps?</string>
-  <string name="dialog_msg_uninstall_apps_xspace">Uninstall these apps?（including clone apps）?</string>
+  <string name="dialog_msg_uninstall_apps">"これらのアプリをアンインストールしますか？"</string>
+  <string name="dialog_msg_uninstall_apps_xspace">"デュアルアプリを含むこれらのアプリをアンインストールしますか？"</string>
   <string name="dialog_ok_add_white_list_error">Got it</string>
   <string name="dialog_title_add_white_list_error">Attention</string>
   <string name="dialog_title_backup_and_uninstall_apps">"バックアップとアンインストール"</string>
@@ -356,7 +356,7 @@
   <string name="msg_update_error_code_unknown_error">"不明なエラー"</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">"プライバシーポリシー"</string>
-  <string name="nb_clear_set">Clear ROM, view battery and blocklist info in the notification shade</string>
+  <string name="nb_clear_set">Clear cache, view battery and blocklist info in the notification shade</string>
   <string name="net_assistant_detail">Used %1$s, saved %2$s</string>
   <string name="net_assistant_title">Used %s of mobile data this month</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>

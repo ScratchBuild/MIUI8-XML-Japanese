@@ -83,6 +83,10 @@
   <string name="remind_ringtone">Ringtone</string>
   <string name="reset">"リセット"</string>
   <string name="revert">"元に戻す"</string>
+  <string name="search_alarm_clock_keywords">Alarm;Alarm Clock;</string>
+  <string name="search_stopwatch_keywords">Stopwatch</string>
+  <string name="search_timer_keywords">Timer</string>
+  <string name="search_worldclock_keywords">Time;World Clock;Clock</string>
   <string name="set_alarm">"アラームを設定"</string>
   <string name="setting_alarm_arriving_summary">Send a notification before ringing</string>
   <string name="setting_alarm_arriving_title">Notification before ringing</string>
