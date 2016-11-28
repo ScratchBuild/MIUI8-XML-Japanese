@@ -5,8 +5,8 @@
         <item quantity="one">Found 1 item</item>
     </plurals>
     <plurals name="numberOfItemsAvailable">
-        <item quantity="other">Delete %d items?</item>
-        <item quantity="one">Delete this item?</item>
+        <item quantity="other">%d個のアイテムを削除しますか？</item>
+        <item quantity="one">このアイテムを削除しますか？</item>
     </plurals>
     <plurals name="sniff_find_result">
         <item quantity="other">Found %d results</item>

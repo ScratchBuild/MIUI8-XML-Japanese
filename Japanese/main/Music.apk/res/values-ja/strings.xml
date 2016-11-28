@@ -18,7 +18,7 @@
   <string name="action_item_play_all">"すべて再生"</string>
   <string name="action_item_remove">Remove</string>
   <string name="action_item_remove_from_favorite">Unfavorite</string>
-  <string name="action_item_send">Send</string>
+  <string name="action_item_send">"送信"</string>
   <string name="action_item_share">"共有"</string>
   <string name="action_settings">"設定"</string>
   <string name="ad_close">"閉じる"</string>

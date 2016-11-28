@@ -63,13 +63,13 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_popup_desc_sim_card_downlink">Enter current phone number to activate %s.</string>
   <string name="activate_popup_desc_voip_privacy">"プライバシーポリシー"</string>
   <string name="activate_popup_desc_voip_privacy_prefix">"VoIP service supported by Weihui. View Weihui's"</string>
-  <string name="activate_popup_title_all_gateway_failed_query_info">"Can't find number"</string>
-  <string name="activate_popup_title_all_gateway_failed_send_sms">"Can't send text message"</string>
+  <string name="activate_popup_title_all_gateway_failed_query_info">"番号が見つかりません"</string>
+  <string name="activate_popup_title_all_gateway_failed_send_sms">"SMSを送信できません"</string>
   <string name="activate_popup_title_error_device_id">"無効なIMEI"</string>
   <string name="activate_popup_title_failed_phone_error">"無効な電話番号"</string>
-  <string name="activate_popup_title_failed_query_info">"Can't find number"</string>
+  <string name="activate_popup_title_failed_query_info">"番号が見つかりません"</string>
   <string name="activate_popup_title_failed_receive_sms">"Didn't receive reply from server"</string>
-  <string name="activate_popup_title_failed_send_sms">"Can't send text message"</string>
+  <string name="activate_popup_title_failed_send_sms">"SMSを送信できません"</string>
   <string name="activate_popup_title_failed_server">"サーバーエラー"</string>
   <string name="activate_popup_title_manual">Activate %s</string>
   <string name="activate_popup_title_new_sim_card">Reactivate %s</string>

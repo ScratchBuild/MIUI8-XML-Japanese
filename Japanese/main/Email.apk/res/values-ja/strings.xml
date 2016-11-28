@@ -203,7 +203,7 @@
   <string name="battery_saver_keywords">battery saver;mail battery</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
-  <string name="blank_feedback_toast">You need to write feedback</string>
+  <string name="blank_feedback_toast">"フィードバックを記入してください"</string>
   <string name="body_forward_email_text">[Forward]</string>
   <string name="body_hint">"メールを作成"</string>
   <string name="body_inline_pic_text">[Picture]</string>
@@ -276,9 +276,9 @@
   <string name="contextmenu_call">Call</string>
   <string name="contextmenu_copy">"コピー"</string>
   <string name="contextmenu_copylink">"URLをコピー"</string>
-  <string name="contextmenu_create">Create a new contact</string>
+  <string name="contextmenu_create">"連絡先を作成"</string>
   <string name="contextmenu_dial_dot">"発信…"</string>
-  <string name="contextmenu_edit">Edit contact</string>
+  <string name="contextmenu_edit">"連絡先の編集"</string>
   <string name="contextmenu_feedback">"フィードバックを送信"</string>
   <string name="contextmenu_help">"ヘルプ"</string>
   <string name="contextmenu_map">"マップ"</string>
@@ -291,7 +291,7 @@
   <string name="conversation_folder_moved">"%1$sに移動しました"</string>
   <string name="conversation_item_mark_read">"既読"</string>
   <string name="conversation_item_mark_unread">"未読"</string>
-  <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
+  <string name="conversation_photo_welcome_text">"送信者の画像をタップして会話を選択します。"</string>
   <string name="conversation_quick_button_approve">"同意する"</string>
   <string name="conversation_quick_button_disapprove">"同意しない"</string>
   <string name="conversation_quick_button_received">"受信済み"</string>
@@ -311,7 +311,7 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">DEFAULT SETTINGS</string>
   <string name="default_signature">Sent from my Mi phone</string>
-  <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
+  <string name="del_account_questionnair_hint">"このアカウントを削除する理由を教えてください"</string>
   <string name="delete">"削除"</string>
   <string name="delete_message_flow">Delete message flow</string>
   <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>

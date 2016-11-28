@@ -48,7 +48,7 @@ Last backed up on %2$s"</string>
   <string name="cloud_find_device">Find Device</string>
   <string name="cloud_restore_title">バックアップから復元</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
-  <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
+  <string name="cloud_space_upgrade_no_quota_info">ストレージ情報を取得できませんでした</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
   <string name="cloud_storage_full">クラウドストレージがいっぱいです</string>
   <string name="cloud_storage_is_full">Full</string>
@@ -97,7 +97,7 @@ Last backed up on %2$s"</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
-  <string name="find_device_reading_status">Loading status…</string>
+  <string name="find_device_reading_status">ステータスを読み込み中…</string>
   <string name="find_device_reading_status_failure">"ステータスを読み込めませんでした。"</string>
   <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS may be sent automatically to reactivate this feature.</string>
   <string name="find_device_service_summary">Visit i.mi.com to locate your device and lock it remotely</string>
@@ -402,8 +402,8 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="passed_synced_time_min">%d分前に同期</string>
   <string name="passed_synced_time_sec">%d秒前に同期</string>
   <string name="password">パスワードを入力</string>
-  <string name="phone_number_may_required_dspt_provision">"This service may require your phone number. "</string>
-  <string name="phone_number_required_dspt_provision">"This service requires your phone number. "</string>
+  <string name="phone_number_may_required_dspt_provision">"このサービスには電話番号が必要な場合があります。 "</string>
+  <string name="phone_number_required_dspt_provision">"このサービスには電話番号が必要です。 "</string>
   <string name="photo">写真</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Wi-Fiネットワークに接続している場合にのみ、連絡先のプロフィール写真を同期する"</string>
   <string name="pref_title_sync_contacts_title">"連絡先を同期"</string>

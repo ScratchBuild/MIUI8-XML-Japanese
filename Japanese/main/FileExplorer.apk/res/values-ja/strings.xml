@@ -9,10 +9,10 @@
   <string name="ad_downloading">"読み込み中…"</string>
   <string name="add_one">+1</string>
   <string name="add_private">Hide files now</string>
-  <string name="add_private_files">Add files</string>
+  <string name="add_private_files">"ファイルを追加"</string>
   <string name="album_creator">Created by %s</string>
   <string name="album_name">Daily selection: %s</string>
-  <string name="all_topic">All topics</string>
+  <string name="all_topic">"すべてのトピック"</string>
   <string name="already_liked">"You've already starred this item"</string>
   <string name="app_name">Explorer</string>
   <string name="app_name_bluetooth">Bluetooth</string>
@@ -29,8 +29,8 @@
   <string name="auto_play">"Wi-Fiに接続されたときに自動で再生する"</string>
   <string name="auto_play_later">"後で"</string>
   <string name="auto_play_now">"オンにする"</string>
-  <string name="auto_play_recommend">Play automatically</string>
-  <string name="auto_play_recommend_tips">Start playing videos automatically</string>
+  <string name="auto_play_recommend">"自動で再生"</string>
+  <string name="auto_play_recommend_tips">"自動で動画の再生を開始する"</string>
   <string name="auto_play_toast">"動画は自動で再生されます。これは[設定]から変更することができます。"</string>
   <string name="backup_cancel">"バックアップしない"</string>
   <string name="backup_checkbox_msg">Back up automatically</string>
@@ -147,9 +147,9 @@
   <string name="delete_folder">"このフォルダを削除しますか？"</string>
   <string name="delete_folders">Delete %1$d folders?</string>
   <string name="delete_video">"削除"</string>
-  <string name="delete_video_dialog_tip">"You won't be able to restore the video after you delete it."</string>
-  <string name="delete_video_dialog_title">Delete video</string>
-  <string name="delete_video_success">Deleted successfully</string>
+  <string name="delete_video_dialog_tip">"動画を削除した後、復元することはできません。"</string>
+  <string name="delete_video_dialog_title">"動画を削除"</string>
+  <string name="delete_video_success">"正常に削除されました"</string>
   <string name="deleted_video_msg">"You're a bit late. This video was deleted."</string>
   <string name="dialog_logout_message">"今すぐログアウトしますか？"</string>
   <string name="dialog_logout_title">"ログアウト"</string>

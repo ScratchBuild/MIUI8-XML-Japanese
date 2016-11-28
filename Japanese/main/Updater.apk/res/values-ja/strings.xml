@@ -45,9 +45,9 @@
   <string name="comment_invalid">Rate this update (tap the stars)</string>
   <string name="comment_publish">"送信"</string>
   <string name="comment_sending">"送信中…"</string>
-  <string name="comment_upload_failed">"Can't send comment"</string>
+  <string name="comment_upload_failed">"コメントを送信できません"</string>
   <string name="comment_upload_hint">Thank you for your feedback!</string>
-  <string name="comment_upload_not_logined">You need to sign in to your Mi Account first</string>
+  <string name="comment_upload_not_logined">"初めにMi Accountにログインする必要があります"</string>
   <string name="comment_upload_success">"送信しました"</string>
   <string name="confirm_local_package_wipe_btn">Erase and update</string>
   <string name="confirm_local_package_wipe_msg">Your personal data will be erased. Make sure to back up anything you want to keep before proceeding.</string>
@@ -71,9 +71,9 @@
   <string name="download_title">"ダウンロード中 (%s)"</string>
   <string name="download_title_first">"情報を取得中…"</string>
   <string name="download_title_full_download">"情報を取得中…"</string>
-  <string name="edit_comment">Add comments</string>
-  <string name="edit_comment_title">Edit comment</string>
-  <string name="edit_text_default">Write a comment</string>
+  <string name="edit_comment">"コメントを追加"</string>
+  <string name="edit_comment_title">"コメントを編集"</string>
+  <string name="edit_text_default">"コメントを書く"</string>
   <string name="emegency_build">"Build "</string>
   <string name="expect">Expectations</string>
   <string name="experimental_build">Alpha</string>

@@ -47,8 +47,8 @@
   <string name="error_widget_exist_for_send_to_desktop">"このノートは既にホーム画面に設置済みです"</string>
   <string name="folder_exist">"同じ名前のフォルダが既に存在します"</string>
   <string name="force_touch_menu_add">"ノートを追加"</string>
-  <string name="format_move_notes_out_folder">Moved %1$s out</string>
-  <string name="format_move_notes_to_folder">Moved %1$s to %2$s</string>
+  <string name="format_move_notes_out_folder">"%1$sを移動しました"</string>
+  <string name="format_move_notes_to_folder">"%1$sを%2$sに移動しました"</string>
   <string name="hidden_notes_fragment_title">Hidden notes</string>
   <string name="hint_cannot_view_hidden_note_content">"Can't view content in hidden notes"</string>
   <string name="hint_foler_name">"名前"</string>

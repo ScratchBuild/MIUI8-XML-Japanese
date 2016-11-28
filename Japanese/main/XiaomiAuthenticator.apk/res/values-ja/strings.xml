@@ -14,7 +14,7 @@
   <string name="authenticator_invalid_tip">You may have turned this feature off using your desktop Browser or activated another Mi Security Token.</string>
   <string name="authenticator_invalid_title">Account：%1$s security token has expired.</string>
   <string name="authenticator_page_reactivation">Reactivate</string>
-  <string name="button_add_account">Add an account</string>
+  <string name="button_add_account">"アカウントを追加"</string>
   <string name="button_add_account_manual_entry">"手動でアカウントを追加"</string>
   <string name="button_add_account_scan_barcode">Scan barcode</string>
   <string name="button_back">"戻る"</string>
@@ -38,7 +38,7 @@
   <string name="details_patternforgotten">"Reactivate: 
 Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="empty_pin">_ _ _ _ _ _</string>
-  <string name="enter_account_label">Enter account name</string>
+  <string name="enter_account_label">"アカウント名を入力"</string>
   <string name="enter_key_hint">Enter your key</string>
   <string name="enter_key_illegal_char">Key value has illegal character</string>
   <string name="enter_key_page_add_button">"追加"</string>
@@ -46,7 +46,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="enter_key_too_short">Key value is too short</string>
   <string name="enter_pin">Enter this verification code if prompted during account sign-in:</string>
   <string name="error_empty_secret">Cannot save empty secret</string>
-  <string name="error_exists">Sorry, that name is already in use.</string>
+  <string name="error_exists">"申し訳ありませんが、その名前は既に使用されています。"</string>
   <string name="error_qr">Cannot interpret QR code.</string>
   <string name="error_title">"エラー"</string>
   <string name="error_uri">Key not recognized.</string>
@@ -62,7 +62,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="howitworks_page_verify_device_title">"Then you're signed in."</string>
   <string name="install_button">"インストール"</string>
   <string name="install_dialog_message">To scan barcodes containing keys, you must install the ZXing barcode scanner.</string>
-  <string name="install_dialog_title">Install barcode scanner?</string>
+  <string name="install_dialog_title">"バーコードスキャナーをインストールしますか？"</string>
   <string name="jump_createpattern_tip">Create a password to protect your account</string>
   <string name="jump_lockpattern_title">Attention</string>
   <string name="jump_updatepattern_tip">Create a password to protect your account</string>
@@ -132,17 +132,17 @@ Before removing:
   <string name="summary_lockpattern">Require a unique pattern lock for MiCredit</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">"利用規約"</string>
-  <string name="timesync_about_feature_preference_title">About this feature</string>
+  <string name="timesync_about_feature_preference_title">"この機能について"</string>
   <string name="timesync_about_feature_screen_details">"If you press &amp;quot;Sync now&amp;quot;, Authenticator will attempt to sync its internal clock with Google servers once. The device's Date &amp; Time settings will not be changed. &lt;p&gt; Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. &lt;p&gt; If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. &lt;p&gt; By default Authenticator uses the device's Date &amp; Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
   <string name="timesync_about_feature_screen_title">About this feature</string>
   <string name="timesync_preference_screen_summary">"Sync Authenticator's internal clock with servers"</string>
   <string name="timesync_preference_screen_title">Time correction for codes</string>
   <string name="timesync_sync_now_connectivity_error_dialog_details">"There was a problem contacting 's server. Please check your network settings and try again."</string>
-  <string name="timesync_sync_now_connectivity_error_dialog_title">Sync now</string>
-  <string name="timesync_sync_now_preference_title">Sync now</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">"今すぐ同期"</string>
+  <string name="timesync_sync_now_preference_title">"今すぐ同期"</string>
   <string name="timesync_sync_now_progress_dialog_details">Connecting to server…</string>
-  <string name="timesync_sync_now_progress_dialog_title">Sync now</string>
-  <string name="timesync_sync_now_screen_title">Sync now</string>
+  <string name="timesync_sync_now_progress_dialog_title">"今すぐ同期"</string>
+  <string name="timesync_sync_now_screen_title">"今すぐ同期"</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">"Authenticator's internal clock was not adjusted because it appears to already be in sync with servers."</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Time already correct</string>
   <string name="timesync_sync_now_time_corrected_dialog_details">"Authenticator's internal clock has been adjusted to match the time provided by servers. 
@@ -160,7 +160,7 @@ The Date &amp; Time settings on this device have not been changed."</string>
   <string name="title_myaccount">My account: %s</string>
   <string name="title_nopassword">"Don't require for small payments"</string>
   <string name="title_nopassword_dialog">Daily limit</string>
-  <string name="title_password">Password</string>
+  <string name="title_password">"パスワード"</string>
   <string name="title_password_threshold">Daily limit = ￥%1$s</string>
   <string name="title_patternforgotten">"Forget password？
 You can："</string>

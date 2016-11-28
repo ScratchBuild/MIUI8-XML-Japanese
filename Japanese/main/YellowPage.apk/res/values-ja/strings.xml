@@ -231,7 +231,7 @@
   <string name="homepage_barcode_prompt">Scan to open home page</string>
   <string name="info_divider">|</string>
   <string name="locating_fail">"Couldn't find your location"</string>
-  <string name="login_before_use">You need to sign in first</string>
+  <string name="login_before_use">初めにログインする必要があります</string>
   <string name="login_ok">ログイン</string>
   <string name="mark_number_check_choose_others">Choose others</string>
   <string name="mark_number_check_dialog_title">Mark number</string>
@@ -260,9 +260,9 @@
   <string name="menu_delete_one">通話履歴から削除</string>
   <string name="menu_enroll_in_yellow_page">Sign up for Caller ID</string>
   <string name="menu_follow_yellow_page">Follow</string>
-  <string name="menu_remove_black_list">Remove from blocklist</string>
-  <string name="menu_remove_from_favorite">Remove from favorites</string>
-  <string name="menu_save_contact">Save number to contacts</string>
+  <string name="menu_remove_black_list">ブロックリストから削除</string>
+  <string name="menu_remove_from_favorite">お気に入りから削除</string>
+  <string name="menu_save_contact">連絡先に番号を保存する</string>
   <string name="menu_unfollow_yellow_page">Unfollow</string>
   <string name="minimum_price">%d RMB min</string>
   <string name="mishop_web_payment_title">Mi Store checkout</string>
@@ -288,7 +288,7 @@
   <string name="navigation_search_automatically_positioned_city">Current city</string>
   <string name="navigation_search_default_hint">Search locations</string>
   <string name="navigation_search_hot_cities">Popular</string>
-  <string name="navigation_search_no_city_list">"Didn't find anything"</string>
+  <string name="navigation_search_no_city_list">何も見つかりませんでした</string>
   <string name="navigation_search_positioning">Locating…</string>
   <string name="navigation_search_positioning_failed">Select a city</string>
   <string name="nearby_average_price">Average %d RMB</string>
@@ -401,17 +401,17 @@ Total: RMB %3$s"</string>
   <string name="toast_finish_delete_call_log">通話履歴を削除しました</string>
   <string name="toast_text_copied">テキストをコピーしました</string>
   <string name="try_again">再試行</string>
-  <string name="turn_off_hint_title">Turn off Caller ID?</string>
+  <string name="turn_off_hint_title">Caller IDをオフにしますか？</string>
   <string name="turn_off_phone_event_hint">"You won't be able to see flag info for unknown phone numbers."</string>
   <string name="turn_off_smart_antispam_hint">"You won't be able to see flag info for incoming calls from unknown phone numbers."</string>
-  <string name="turn_on_phone_event_dialog_title">Update Caller ID database</string>
+  <string name="turn_on_phone_event_dialog_title">Caller IDのデータベースを更新</string>
   <string name="turn_on_phone_event_summary">Upload phone status of services numbers</string>
   <string name="turn_on_phone_event_title">Receive service info</string>
   <string name="turn_on_smart_antispam_hint">Identify calls from unknown numbers</string>
   <string name="turn_on_smart_antispam_summary_off">Upload and identify unknown phone numbers from call history and text messages</string>
   <string name="turn_on_smart_antispam_summary_on">Upload and identify unknown phone numbers from call history and text messages</string>
   <string name="turn_on_smart_antispam_title">Caller ID</string>
-  <string name="turn_on_yellowpage_service_title">Use Caller ID</string>
+  <string name="turn_on_yellowpage_service_title">Caller IDをオンにする</string>
   <string name="upload_and_verify_fraud_num_off">Share unwanted calls info</string>
   <string name="upload_and_verify_fraud_num_on">Share unwanted calls info</string>
   <string name="uploads_disabled">File uploads are disabled</string>
@@ -425,11 +425,11 @@ Total: RMB %3$s"</string>
   <string name="view_orders">View orders</string>
   <string name="voicemail">Voicemail</string>
   <string name="web_permission_message">%1$s needs to view your %2$s to work as designed.</string>
-  <string name="yellow_page_details">Enterprise details</string>
+  <string name="yellow_page_details">企業の詳細</string>
   <string name="yellow_page_website">公式ウェブサイト</string>
   <string name="yellowpage_navigation_network_location_enable">許可</string>
   <string name="yellowpage_navigation_network_location_enable_later">後で</string>
   <string name="yellowpage_navigation_network_location_enabled">位置情報アクセスがオンです。[設定]でいつでもオフにすることができます。</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Yellow pages to access your location info.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">検索結果を改善するため、イエローページがあなたの位置情報にアクセスすることを許可します。</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">位置情報アクセス</string>
 </resources>

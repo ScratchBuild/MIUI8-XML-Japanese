@@ -39,12 +39,12 @@
   <string name="clear_data">"消去"</string>
   <string name="complete_time">Completed:</string>
   <string name="confirm">OK</string>
-  <string name="confirm_delete_downloads_message">%d downloads will be deleted.</string>
-  <string name="confirm_delete_the_download_item_message">Delete these downloads?</string>
+  <string name="confirm_delete_downloads_message">"%d個のダウンロードが削除されます。"</string>
+  <string name="confirm_delete_the_download_item_message">"これらのダウンロードを削除しますか？"</string>
   <string name="continue_download">"続行"</string>
   <string name="copy">"コピー"</string>
   <string name="copy_info">Copied to clipboard. You can share it with friends!</string>
-  <string name="creat_task_success">Added to download queue</string>
+  <string name="creat_task_success">"ダウンロードキューに追加されました"</string>
   <string name="create_task">Create task</string>
   <string name="delete">"削除"</string>
   <string name="delete_download">"削除"</string>

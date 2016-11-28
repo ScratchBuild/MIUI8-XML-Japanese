@@ -17,7 +17,7 @@
   <string name="app_list_title">"アプリを選択"</string>
   <string name="app_list_total">"%d アプリ"</string>
   <string name="app_name">Battery saver</string>
-  <string name="background">App is running in background</string>
+  <string name="background">"アプリはバックグランドで実行されています"</string>
   <string name="config_description">"MIUI can identify apps with specific background processes (e.g., messaging and navigation apps, media players), and apply Battery saver in a way that won't influence important background activity."</string>
   <string name="config_mode_title">"バックグラウンド設定"</string>
   <string name="config_no_restrict_description">"Battery saver doesn't restrict app's activity"</string>
@@ -33,7 +33,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="disabled">"オフ"</string>
   <string name="empty_title_apps_container_list">"アプリなし"</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
-  <string name="foreground_change">App is running in foreground</string>
+  <string name="foreground_change">"アプリはフォアグラウンドで実行されています"</string>
   <string name="fragment_nonesys_listempty">No installed apps</string>
   <string name="fragment_tab_title_nonsys">Installed apps</string>
   <string name="fragment_tab_title_sys">"システムアプリ"</string>

@@ -66,9 +66,9 @@
   <string name="no_more_space">"十分な空き領域がありません。"</string>
   <string name="no_network">"ネットワークに接続できませんでした。ネットワーク接続を確認してもう一度やり直してくだい。"</string>
   <string name="no_tasks">"結構です"</string>
-  <string name="open_changed_file_message">"The file you are trying to open has been changed.
-1. Download the file again to update it.
-2. Upload it to your account."</string>
+  <string name="open_changed_file_message">"開こうとしているファイルが変更されました。
+1. 更新するには再度ダウンロードしてください。
+2. お使いのアカウントにアップロードしてください。"</string>
   <string name="open_changed_file_title">"変更を適用しました。"</string>
   <string name="operating">"処理中…"</string>
   <string name="operation_cancel">"キャンセル"</string>

@@ -45,7 +45,7 @@
   <string name="sst_no_favor_wallpaper_hint">"お気に入りの壁紙はありません"</string>
   <string name="sst_prov_enable_desc">"壁紙は以下のフォルダに追加されます
 Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/"</string>
-  <string name="sst_prov_enable_title">Turn on Wallpaper Carousel</string>
+  <string name="sst_prov_enable_title">"Wallpaper Carouselをオンにする"</string>
   <string name="sst_require_one_category_hint">"少なくとも1つのカテゴリーを選択してください"</string>
   <string name="sst_sti_desc">"壁紙の更新頻度を設定"</string>
   <string name="sst_sti_title">"更新頻度"</string>

@@ -12,8 +12,8 @@
   <string name="birthday">誕生日:</string>
   <string name="camera_error_title">Camera error</string>
   <string name="cancel">キャンセル</string>
-  <string name="choose_picture">Select QR code image</string>
-  <string name="common_retake_picture">Retake</string>
+  <string name="choose_picture">"QRコードの画像を選択"</string>
+  <string name="common_retake_picture">"撮り直す"</string>
   <string name="common_retry">再試行</string>
   <string name="common_save">保存</string>
   <string name="company">会社:</string>
@@ -41,7 +41,7 @@
   <string name="document_ocr_result_save">ノートに保存</string>
   <string name="document_ocr_result_title">Document photo</string>
   <string name="document_ocr_tip_msg">読み取り中…</string>
-  <string name="document_recognize_fail_tip">"Couldn't read document"</string>
+  <string name="document_recognize_fail_tip">"ドキュメントを読み取れませんでした"</string>
   <string name="document_rectify">Adjust</string>
   <string name="document_rectify_tip_msg">Adjusting…</string>
   <string name="document_save_succeed_tip">Document saved to %1$s</string>
