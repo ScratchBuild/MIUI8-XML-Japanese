@@ -13,12 +13,12 @@
   <string name="account_binded_phone">Phone %d</string>
   <string name="account_crop_user_avatar">Crop photo</string>
   <string name="account_empty_user_name">"Mi Accountのユーザー名を入力"</string>
-  <string name="account_error_all_space_user_name">"Name can't contain only space characters"</string>
-  <string name="account_error_longer_user_name">"Name can't exceed 20 characters"</string>
-  <string name="account_error_shorter_user_name">Name must be longer than 2 characters</string>
+  <string name="account_error_all_space_user_name">"名前に空白文字のみを使用することはできません"</string>
+  <string name="account_error_longer_user_name">"名前に20文字以上は入力できません"</string>
+  <string name="account_error_shorter_user_name">"名前は2文字以上にする必要があります"</string>
   <string name="account_error_user_birthday">"入力した誕生日は無効です"</string>
   <string name="account_has_been_set">"変更"</string>
-  <string name="account_limit_update_birthday">"Can't update birthday right now"</string>
+  <string name="account_limit_update_birthday">"誕生日を更新できません"</string>
   <string name="account_no_set">None</string>
   <string name="account_none">None</string>
   <string name="account_none_binded_info">None</string>
@@ -138,7 +138,7 @@
   <string name="just_a_second">"読み込み中…"</string>
   <string name="loading_micloud_sync_data">"読み込み中…"</string>
   <string name="local_device">"(このデバイス)"</string>
-  <string name="locating_current_location">Locating</string>
+  <string name="locating_current_location">"現在地を取得中"</string>
   <string name="location_service_not_working">Location service not working</string>
   <string name="login_check_find_device">Getting device security info…</string>
   <string name="login_check_find_device_failed_title">"Couldn't check device security info"</string>
@@ -146,7 +146,6 @@
   <string name="login_guard_prompt">Require phone number verification when you sign in to your Mi Account on an unknown device or in an unknown app for the first time.</string>
   <string name="logout_failed">"ログアウトできません"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
-  <string name="mi_family">Mi Home</string>
   <string name="mi_insurance">Mi Insurance</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identity</string>

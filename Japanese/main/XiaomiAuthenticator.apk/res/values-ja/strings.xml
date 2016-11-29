@@ -74,7 +74,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="lockpattern_need_to_confirm">"確認のためパターンを再入力"</string>
   <string name="lockpattern_need_to_confirm_wrong">Inconsistent with the previous entry, please re-enter:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Password wrong,you can enter %d times more&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;パスワードが間違っています。入力できるのはあと%d回です&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">"新しいロック解除パターン:"</string>
   <string name="lockpattern_pattern_entered_header">"パターンが記録されました。"</string>
@@ -97,14 +97,14 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="new_pattern_tip">"パスワードは4文字以上にする必要があります"</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
-  <string name="open_camera_exception_dialog_content">Problem with the system camera, you may need to restart the device.</string>
+  <string name="open_camera_exception_dialog_content">"システムカメラに問題がある場合、デバイスを再起動する必要があります。"</string>
   <string name="open_camera_exception_dialog_title">camera malfunction</string>
   <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
   <string name="opensource_preference_title">Open-source project</string>
-  <string name="original_pattern_tip">Enter unlock pattern</string>
-  <string name="password_error">The password you entered is incorrect</string>
+  <string name="original_pattern_tip">"ロック解除パターンを入力"</string>
+  <string name="password_error">"入力したパスワードが間違っています"</string>
   <string name="password_forget">Forget password?</string>
-  <string name="password_hint">Enter your Mi Account password</string>
+  <string name="password_hint">"Mi Accountのパスワードを入力"</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">"プライバシーポリシー"</string>
   <string name="progress_loading">"読み込み中…"</string>
@@ -126,7 +126,7 @@ Before removing:
   <string name="security_setting">"セキュリティ設定"</string>
   <string name="settings_menu_item">"設定"</string>
   <string name="submit">"保存"</string>
-  <string name="success_copy_to_clipboard">Has been copied to clipboard</string>
+  <string name="success_copy_to_clipboard">"クリップボードにコピーしました"</string>
   <string name="success_reset_password">Password reset successfully</string>
   <string name="success_set_password">Password created</string>
   <string name="summary_lockpattern">Require a unique pattern lock for MiCredit</string>
@@ -140,7 +140,7 @@ Before removing:
   <string name="timesync_sync_now_connectivity_error_dialog_details">"There was a problem contacting 's server. Please check your network settings and try again."</string>
   <string name="timesync_sync_now_connectivity_error_dialog_title">"今すぐ同期"</string>
   <string name="timesync_sync_now_preference_title">"今すぐ同期"</string>
-  <string name="timesync_sync_now_progress_dialog_details">Connecting to server…</string>
+  <string name="timesync_sync_now_progress_dialog_details">"サーバーに接続中…"</string>
   <string name="timesync_sync_now_progress_dialog_title">"今すぐ同期"</string>
   <string name="timesync_sync_now_screen_title">"今すぐ同期"</string>
   <string name="timesync_sync_now_time_already_correct_dialog_details">"Authenticator's internal clock was not adjusted because it appears to already be in sync with servers."</string>
@@ -151,11 +151,11 @@ The Date &amp; Time settings on this device have not been changed."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Time corrected</string>
   <string name="tip1_patternforgotten">Reinstall and reactivate</string>
   <string name="tip2_patternforgotten">Touch reset to clear account data and reactivate.</string>
-  <string name="tip_lockpattern">Your password must longer than 4 characters</string>
-  <string name="title_change_lockpattern">Configure pattern lock</string>
+  <string name="tip_lockpattern">"パスワードは4文字以上にする必要があります"</string>
+  <string name="title_change_lockpattern">"パターンロックを設定"</string>
   <string name="title_createpattern">Create password</string>
   <string name="title_forgetpattern">Forget password</string>
-  <string name="title_gesture">Pattern lock</string>
+  <string name="title_gesture">"パターンロック"</string>
   <string name="title_lockpattern">Require pattern lock</string>
   <string name="title_myaccount">My account: %s</string>
   <string name="title_nopassword">"Don't require for small payments"</string>

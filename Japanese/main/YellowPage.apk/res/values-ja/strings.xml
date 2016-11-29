@@ -30,7 +30,7 @@
   <string name="balance_inquiry_title">Balance inquiry</string>
   <string name="call">Call</string>
   <string name="callNoAnswerTimeFormat">Rang %s times</string>
-  <string name="callrecordview_item_newcontact">New contact</string>
+  <string name="callrecordview_item_newcontact">新しい連絡先</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d分%2$d秒</string>
   <string name="callrecordview_item_op_time_missed">Not connected</string>
   <string name="callrecordview_item_op_time_only_minutes">%d分</string>
@@ -48,7 +48,7 @@
   <string name="confirm_to_send_to_desktop">ホーム画面に%sを設置しますか？</string>
   <string name="contact_detail_calllog_call_note_tips">Call notes</string>
   <string name="contact_detail_calllog_call_record_tips">Recorded calls</string>
-  <string name="content_desc_send_sms">Send SMS</string>
+  <string name="content_desc_send_sms">SMSを送信</string>
   <string name="coupon_bought_count">%d bought</string>
   <string name="currency_character">RMB</string>
   <string name="custom_mark_category">Custom</string>
@@ -91,7 +91,7 @@
   <string name="express_company_phone_prefix">"Contact: "</string>
   <string name="express_company_pricing_details">Pricing details</string>
   <string name="express_contact_address">住所を入力</string>
-  <string name="express_contact_address_finding">Locating…</string>
+  <string name="express_contact_address_finding">"現在地を取得中…"</string>
   <string name="express_contact_label">Info for pickup service</string>
   <string name="express_contact_phone">電話番号を入力</string>
   <string name="express_contact_phone_finding">Getting phone number…</string>
@@ -289,7 +289,7 @@
   <string name="navigation_search_default_hint">Search locations</string>
   <string name="navigation_search_hot_cities">Popular</string>
   <string name="navigation_search_no_city_list">何も見つかりませんでした</string>
-  <string name="navigation_search_positioning">Locating…</string>
+  <string name="navigation_search_positioning">現在地を取得中…</string>
   <string name="navigation_search_positioning_failed">Select a city</string>
   <string name="nearby_average_price">Average %d RMB</string>
   <string name="nearby_no_yellow_page">No results nearby</string>
@@ -319,7 +319,7 @@
   <string name="packages_no_package">No recommended packages</string>
   <string name="packages_pay">Buy now</string>
   <string name="packages_pay_confirm">Pay now</string>
-  <string name="packages_pay_hint">Send SMS (free)</string>
+  <string name="packages_pay_hint">SMSを送信 (無料)</string>
   <string name="packages_pay_success">Message sent</string>
   <string name="packages_select_sim_cards_summmary">Browse recommended data packages</string>
   <string name="packages_select_sim_cards_title">SIMカードを選択</string>
@@ -361,8 +361,8 @@
   <string name="recharge_payment_result_progress_summary">Checking payment result…</string>
   <string name="recharge_phone">Target phone number:</string>
   <string name="recharge_phone_format">%1$s / %2$s</string>
-  <string name="recharge_phone_number_empty">"The phone number can't be empty"</string>
-  <string name="recharge_phone_number_error">The phone number you entered is invalid</string>
+  <string name="recharge_phone_number_empty">"電話番号は空にできません"</string>
+  <string name="recharge_phone_number_error">"入力した電話番号は無効です"</string>
   <string name="recharge_select_money_title">Select top-up amount</string>
   <string name="recharge_status_description">Status:</string>
   <string name="recharge_title">Top-up</string>
@@ -388,10 +388,10 @@ Total: RMB %3$s"</string>
   <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
-  <string name="sina_share_fail">Failed to send</string>
-  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
-  <string name="sina_share_pendding">送信中…</string>
-  <string name="sina_share_success">Sent</string>
+  <string name="sina_share_fail">"送信に失敗しました"</string>
+  <string name="sina_share_fail_content_repeat">"共有できませんでした、コンテンツが既に存在します…"</string>
+  <string name="sina_share_pendding">"送信中…"</string>
+  <string name="sina_share_success">"送信済み"</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
   <string name="smart_antispam">Caller ID</string>
