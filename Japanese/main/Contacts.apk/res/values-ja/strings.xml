@@ -130,7 +130,7 @@
   <string name="callrecordview_menu_recharge">Top up</string>
   <string name="callrecordview_menu_save_to_group">グループへ通話履歴を保存する</string>
   <string name="callrecordview_menu_settings">"設定"</string>
-  <string name="callrecordview_menu_show">Filter</string>
+  <string name="callrecordview_menu_show">"フィルター"</string>
   <string name="callrecordview_menu_show_accepted">"着信のみ"</string>
   <string name="callrecordview_menu_show_all">"すべての通話"</string>
   <string name="callrecordview_menu_show_called">"発信のみ"</string>
@@ -182,8 +182,8 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">"データベース情報を取得できません。"</string>
-  <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone.</string>
-  <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>
+  <string name="composer_has_no_exportable_contact">"エクスポート可能な連絡先がありません。お使いの端末に連絡先がある場合、一部のデータプロバイダが端末から連絡先のエクスポートを許可していない可能性があります。"</string>
+  <string name="composer_not_initialized">"vCard composerが正常に開始できませんでした。"</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
@@ -220,14 +220,14 @@
 Contact cards are turned off"</string>
   <string name="contact_detail_miprofile_privacy_settings">Require permission to view</string>
   <string name="contact_detail_miprofile_request">Exchange contact cards</string>
-  <string name="contact_detail_miprofile_request_fail_toast">"Couldn't send request"</string>
-  <string name="contact_detail_miprofile_request_subtitle">"Automatically update this contact's info"</string>
-  <string name="contact_detail_miprofile_request_success_toast">Request sent</string>
-  <string name="contact_detail_miprofile_save">Tap to get contact card</string>
-  <string name="contact_detail_miprofile_save_fail_toast">"Couldn't get contact card"</string>
-  <string name="contact_detail_miprofile_save_success_toast">Received contact card</string>
+  <string name="contact_detail_miprofile_request_fail_toast">"リクエストを送信できませんでした"</string>
+  <string name="contact_detail_miprofile_request_subtitle">"この連絡先の情報を自動的に更新する"</string>
+  <string name="contact_detail_miprofile_request_success_toast">"リクエストを送信しました"</string>
+  <string name="contact_detail_miprofile_save">"連絡先カードを取得するにはタップ"</string>
+  <string name="contact_detail_miprofile_save_fail_toast">"連絡先カードを取得できませんでした"</string>
+  <string name="contact_detail_miprofile_save_success_toast">"連絡先カードを受信しました"</string>
   <string name="contact_detail_miprofile_settings_header">ADDITIONAL SETTINGS</string>
-  <string name="contact_detail_miprofile_subtitle">Already exchanged cards</string>
+  <string name="contact_detail_miprofile_subtitle">"既にカードを交換済みです"</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"ネットワークに接続できません"</string>
   <string name="contact_detail_profile_switch_fail_toast">Something went wrong with our server</string>
   <string name="contact_detail_profile_switch_off">Turn off contact cards</string>
@@ -741,16 +741,16 @@ Contact cards are turned off"</string>
   <string name="name_suffix">Name suffix</string>
   <string name="next">"次へ"</string>
   <string name="next_birthday">次の誕生日: %s</string>
-  <string name="nfc_vcard_file_name">Contact received over NFC</string>
+  <string name="nfc_vcard_file_name">"NFC経由で受信した連絡先"</string>
   <string name="nicknameLabelsGroup">ニックネーム</string>
   <string name="nickname_editor_title">"ニックネームを編集"</string>
   <string name="nickname_picker_name_column">Contact name</string>
   <string name="nickname_picker_nickname_column">Title</string>
   <string name="noAccounts">"グループを作成するにはアカウントが必要です。"</string>
   <string name="noContactHelpTextAccountsInfo"/>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Restore contact data from Mi Account</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">"Mi Accountから連絡先データを復元する"</string>
   <string name="noContacts">"連絡先がありません。"</string>
-  <string name="noContactsHelpText">"You don't have any contacts to display.
+  <string name="noContactsHelpText">"表示する連絡先がありません。
 
 To add contacts, touch "<font fgcolor="#ffffffff"><b>Menu</b></font>", then touch:
 
@@ -762,7 +762,7 @@ To add contacts, touch "<font fgcolor="#ffffffff"><b>Menu</b></font>", then touc
 "</b></font></li>"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">"表示する連絡先がありません。"</string>
-  <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
+  <string name="noContactsHelpTextWithSync">"表示する連絡先がありません。 (アカウントを追加したばかりの場合、連絡先が同期されるまで数分かかることがあります。)
 
 To add contacts, touch "<font fgcolor="#ffffffff"><b>Menu</b></font>", then touch:
 
@@ -775,7 +775,7 @@ To add contacts, touch "<font fgcolor="#ffffffff"><b>Menu</b></font>", then touc
 "<li><font fgcolor="#ffffffff"><b>"Import/Export to import contacts from your SIM or SD card
 "</b></font></li>"
 "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)"</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"表示する連絡先がありません。 (アカウントを追加したばかりの場合、連絡先が同期されるまで数分かかることがあります。)"</string>
   <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
 
 To add contacts, touch "<font fgcolor="#ffffffff"><b>Menu</b></font>", then touch:
@@ -787,7 +787,7 @@ To add contacts, touch "<font fgcolor="#ffffffff"><b>Menu</b></font>", then touc
 "<li><font fgcolor="#ffffffff"><b>"Import/Export to import contacts from your SD card
 "</b></font></li>"
 "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
+  <string name="noContactsNoSimHelpTextWithSync">"表示する連絡先がありません。 (アカウントを追加したばかりの場合、連絡先が同期されるまで数分かかることがあります。)
 
 To add contacts, touch "<font fgcolor="#ffffffff"><b>Menu</b></font>", then touch:
 
@@ -835,7 +835,7 @@ To add a contact to your list of favorites:
   <string name="notification_new_voicemail_ticker">"%1$sからの新しいボイスメール"</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">"ダイヤルパッド"</string>
-  <string name="open_contact">View contact</string>
+  <string name="open_contact">"連絡先を表示"</string>
   <string name="open_dial_pad_description">"ダイヤルパッドを開く"</string>
   <string name="option_delete_contact">"削除"</string>
   <string name="option_delete_group">"削除"</string>
@@ -849,8 +849,8 @@ To add a contact to your list of favorites:
   <string name="option_view_group">View</string>
   <string name="organizationLabelsGroup">組織</string>
   <string name="organization_company_and_title">%1$s, %2$s</string>
-  <string name="other_contacts">Other contacts</string>
-  <string name="other_phone">Other phones</string>
+  <string name="other_contacts">"その他の連絡先"</string>
+  <string name="other_phone">"その他の番号"</string>
   <string name="path_batch_delete">システムアプリ/連絡先/Organize contacts/Delete batch</string>
   <string name="path_contacts_display">システムアプリ/連絡先/Display preferences</string>
   <string name="path_contacts_more">システムアプリ/連絡先/Organize contacts</string>
@@ -1115,7 +1115,7 @@ To add a contact to your list of favorites:
   <string name="sim_error_generic_failure">"エラーが発生しました"</string>
   <string name="sim_error_not_ready">Loading SIM contacts…</string>
   <string name="sim_error_number_too_long">Number is too long</string>
-  <string name="sim_error_password_error">The password you entered is incorrect</string>
+  <string name="sim_error_password_error">"入力したパスワードが間違っています"</string>
   <string name="sim_error_storage_full">SIM card storage is full</string>
   <string name="sim_error_text_too_long">Name is too long</string>
   <string name="sim_export_loading">Reading SIM card…</string>
