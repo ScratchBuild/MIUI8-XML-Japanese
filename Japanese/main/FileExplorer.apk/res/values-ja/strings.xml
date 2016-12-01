@@ -56,7 +56,7 @@
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_error">"削除できませんでした、もう一度お試しください"</string>
   <string name="cancel_operation">"操作をキャンセル"</string>
-  <string name="cancel_success">Removed successfully, all files moved to %s</string>
+  <string name="cancel_success">"正常に削除されました、すべてのファイルを%sに移動しました"</string>
   <string name="cancelled_by_user">"操作をキャンセルしました"</string>
   <string name="category">"カテゴリー"</string>
   <string name="category_all">All</string>
@@ -117,7 +117,7 @@
   <string name="copy_failed">"コピーできませんでした"</string>
   <string name="copy_text">"テキストをコピー"</string>
   <string name="copy_to">"コピー先を指定…"</string>
-  <string name="create_shortcut_success">Added shortcut successfully</string>
+  <string name="create_shortcut_success">"ショートカットを追加しました"</string>
   <string name="data_consumption_cancel">"終了"</string>
   <string name="data_consumption_checkbox_hint">"二度と表示しない"</string>
   <string name="data_consumption_confirm">OK</string>
@@ -621,7 +621,7 @@
   <string name="unlogin">Sign in first</string>
   <string name="unmount_inform_text">Unmount USB storage?</string>
   <string name="unreviewed_video_cannot_share">Videos should be reviewed before sharing</string>
-  <string name="update">Update</string>
+  <string name="update">"更新"</string>
   <string name="update_failed">"保存できませんでした、もう一度お試しください"</string>
   <string name="update_loading">"保存中…"</string>
   <string name="upload_avatar_camera">Camera</string>
@@ -650,7 +650,7 @@
   <string name="uploading_video">Uploading video…</string>
   <string name="usb_label">USB</string>
   <string name="used">Used</string>
-  <string name="user_cancel">Canceled</string>
+  <string name="user_cancel">"キャンセルしました"</string>
   <string name="user_center_title">Home</string>
   <string name="user_follow_me_title">My followers</string>
   <string name="user_follow_title">People I follow</string>
@@ -774,7 +774,7 @@
   <string name="youliao_ad_msg">"Have fun with \"Youliao\"!
 Join 170 million Mi Fans!"</string>
   <string name="youliao_ad_title">Popular videos have been upgraded!</string>
-  <string name="youliao_ad_update">Update</string>
+  <string name="youliao_ad_update">"更新"</string>
   <string name="youliao_dialog_msg">"Popular videos were replaced with \"Youliao\" 
 which is an app dedicated to bringing you more fun!"</string>
   <string name="youliao_dialog_title">No interesting videos?</string>

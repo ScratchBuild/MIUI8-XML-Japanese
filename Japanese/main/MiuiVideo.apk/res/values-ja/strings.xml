@@ -66,8 +66,8 @@
   <string name="clarity_standard">Standard</string>
   <string name="clarity_supper">Super</string>
   <string name="clarity_unknown">"不明"</string>
-  <string name="clear_cache">Clear cached images</string>
-  <string name="clear_cache_success">Cache cleared</string>
+  <string name="clear_cache">"キャッシュされた画像を消去"</string>
+  <string name="clear_cache_success">"キャッシュを消去しました"</string>
   <string name="clear_cache_summary">Clear cached images from Video app</string>
   <string name="clear_search_history">"検索履歴を消去"</string>
   <string name="click_star_rate">"星をタップして評価"</string>
@@ -219,7 +219,7 @@
   <string name="mipush_setting">Notifications</string>
   <string name="miwifi_app_download_content">"ダウンロード中…"</string>
   <string name="miwifi_app_download_title">Mi Router</string>
-  <string name="miwifi_app_update_button">Update</string>
+  <string name="miwifi_app_update_button">"更新"</string>
   <string name="miwifi_app_update_content">Update Mi Router app to use this feature.</string>
   <string name="miwifi_app_update_title">Update router?</string>
   <string name="month">Month</string>
@@ -229,7 +229,7 @@
   <string name="mycamera">My videos</string>
   <string name="myfavorite">Star</string>
   <string name="myfavorite_onlylocal">Starred</string>
-  <string name="need_upgrade_button">Update</string>
+  <string name="need_upgrade_button">"更新"</string>
   <string name="need_upgrade_summary">Update to use this feature.</string>
   <string name="need_upgrade_title">Update available</string>
   <string name="negative_comment">Dislikes</string>
@@ -400,7 +400,7 @@
   <string name="version_select_summary">Choose which version to use</string>
   <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
   <string name="video">Video</string>
-  <string name="video_app_update">Update</string>
+  <string name="video_app_update">"更新"</string>
   <string name="video_bbs">"フォーラムに参加"</string>
   <string name="video_bbs_url">Join in and help improve this app</string>
   <string name="video_count">%d videos</string>

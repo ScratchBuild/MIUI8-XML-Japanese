@@ -42,7 +42,7 @@
   <string name="force_exit_skip_message">"Can't close %1$s because it's required by the system."</string>
   <string name="fp_nav_center_action_choose_dlg_msg">You can return to your Home screen lightly tapping the Home button. Just go to Settings &gt; Additional settings &gt; Buttons and turn on Tap for Home screen.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">"後で"</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">"設定に移動"</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">"設定を開く"</string>
   <string name="fp_nav_center_action_choose_dlg_title">Quick tap for Home screen</string>
   <string name="frequent_phrases">"よく使うフレーズ"</string>
   <string name="global_actions_airplane_mode">"機内モード"</string>

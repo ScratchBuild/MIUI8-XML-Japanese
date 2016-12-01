@@ -41,7 +41,7 @@
   <string name="backup_new">"新規:"</string>
   <string name="backup_progress">"バックアップ中…"</string>
   <string name="backup_report">"詳細を表示"</string>
-  <string name="backup_update">Update</string>
+  <string name="backup_update">"更新"</string>
   <string name="batch_delete_backup_confirm">"選択したバックアップを削除しますか？"</string>
   <string name="button_backup">"バックアップ"</string>
   <string name="button_cancel">"キャンセル"</string>
@@ -64,7 +64,7 @@
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
   <string name="cloud_last_backup">"Last backed up on "</string>
-  <string name="cloud_no_backup">No backups</string>
+  <string name="cloud_no_backup">"バックアップなし"</string>
   <string name="cloud_restore_guide">To restore user data for %s, touch Restore</string>
   <string name="cloud_restore_title">Restore backup data</string>
   <string name="cloud_restore_window_title">Mi Cloud restore</string>
@@ -75,7 +75,7 @@
   <string name="current_account">Hi %s</string>
   <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">Phone</string>
-  <string name="current_sim">Current SIM card</string>
+  <string name="current_sim">"現在のSIMカード"</string>
   <string name="custom_progress">%d items</string>
   <string name="data_item_desc">"データ"</string>
   <string name="data_no_enough_space_message">"お使いのデバイスの内部メモリに十分な空き領域がありません。"</string>
@@ -230,7 +230,7 @@
   <string name="task_backup_cancel_progress">"停止中…"</string>
   <string name="task_backup_finished_local">"Backed up "</string>
   <string name="task_canceled">Backup canceled</string>
-  <string name="task_canceled_all_local">Canceled</string>
+  <string name="task_canceled_all_local">"キャンセルしました"</string>
   <string name="task_canceled_local">Backup incomplete (%s)</string>
   <string name="task_cloud_backup_cancel_dialog">"バックアップが完了していません。とにかく停止しますか？"</string>
   <string name="task_failed">"バックアップできませんでした"</string>

@@ -42,7 +42,7 @@
   <string name="ad_permission_hint">"Using Ad blocker may affect your apps' performance or prevent them from working normally."</string>
   <string name="ad_relative_setting">Related settings</string>
   <string name="ad_single_block_hint">Blocked</string>
-  <string name="ad_update_setting">Update</string>
+  <string name="ad_update_setting">"更新"</string>
   <string name="ad_update_time">"最終更新: %s"</string>
   <string name="ad_update_time_unKnown">"最終更新: 不明"</string>
   <string name="ad_update_title">"自動的に更新"</string>
@@ -83,7 +83,7 @@
   <string name="dlg_add_keyword">"キーワードを追加"</string>
   <string name="dlg_add_manual_hint">"電話番号を入力"</string>
   <string name="dlg_add_manual_ok">"追加"</string>
-  <string name="dlg_antispam_mode_delete_message">"You can't recover rules after they've been deleted."</string>
+  <string name="dlg_antispam_mode_delete_message">"削除した後、ルールの復元はできません。"</string>
   <string name="dlg_antispam_mode_delete_title">"ルールを削除しますか？"</string>
   <string name="dlg_antispam_using_mode_delete_message">"Delete the rules you're currently using and switch to back to blocklist's default rules?"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Delete the rules you're currently using and switch to back to blocklist's default rules?"</string>

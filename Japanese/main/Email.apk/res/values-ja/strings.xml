@@ -555,10 +555,10 @@
 %s (終日、繰り返し)
     "</string>
   <string name="meeting_canceled">"
-        Canceled:
+        キャンセルしました:
 %s "</string>
   <string name="meeting_declined">"
-        Declined:
+        辞退しました:
 %s "</string>
   <string name="meeting_recurring">"
         When:

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="SMS_and_MMS">SMS and MMS</string>
+  <string name="SMS_and_MMS">"SMSとMMS"</string>
   <string name="Setting_lock">"設定"</string>
   <string name="Settings_title_anti_spam">"ブロックリストの設定"</string>
   <string name="Settings_title_anti_virus">"ウイルススキャンの設定"</string>
@@ -60,7 +60,7 @@ or enter App lock password"</string>
   <string name="adb_install_open_error">"Couldn't allow, check your network connection"</string>
   <string name="adb_install_reject_notiy">"Didn't allow installing %s via USB"</string>
   <string name="adb_install_reject_notiy_desc">You can allow installing via USB in Developer options</string>
-  <string name="adb_login_xiaomi_account">Sign in to your Mi Account first</string>
+  <string name="adb_login_xiaomi_account">"初めにMi Accountにログイン"</string>
   <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Data roaming exceptions</string>
@@ -95,8 +95,8 @@ or enter App lock password"</string>
   <string name="antivirus_privacy_dialog_title">"プライバシーポリシー"</string>
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_update_db">%s</string>
-  <string name="apn_exception_summary">"Test carrier's Access Point Name configurations"</string>
-  <string name="apn_exception_title">Check APN configurations</string>
+  <string name="apn_exception_summary">"携帯通信会社のAPN設定をテストする"</string>
+  <string name="apn_exception_title">"APNの設定を確認"</string>
   <string name="app_check_no_issue">Looks like there are no battery issues. Cool!</string>
   <string name="app_check_optimize_title">Optimize background activities</string>
   <string name="app_check_reason_background_cpu">CPU background activity</string>
@@ -239,9 +239,9 @@ or enter App lock password"</string>
   <string name="begin_date">Usage reset date</string>
   <string name="bind_xiaomi_account_cancel">"キャンセル"</string>
   <string name="bind_xiaomi_account_confirm">"追加"</string>
-  <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it. Account will be removed automatically if you sign out."</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Mi Account %s を追加しようとしています。パスワードを忘れた場合、このアカウントを使用してパスワードをリセットすることができます。ログアウトするとアカウントは自動的に削除されます。"</string>
   <string name="bind_xiaomi_account_success">"Mi Accountが正常に追加されました"</string>
-  <string name="bind_xiaomi_account_summary">Use Mi Account to reset your password</string>
+  <string name="bind_xiaomi_account_summary">"Mi Accountを使用してパスワードをリセット"</string>
   <string name="bind_xiaomi_account_title">"Mi Accountを追加"</string>
   <string name="booster_immediately">Boost</string>
   <string name="boot_reminder">Power on your device at a scheduled time</string>
@@ -254,13 +254,13 @@ or enter App lock password"</string>
   <string name="btn_finish_diagnostic">OK</string>
   <string name="btn_jump">"スキップ"</string>
   <string name="btn_lock">Add lock</string>
-  <string name="btn_start_diagnostic">Test network</string>
+  <string name="btn_start_diagnostic">"ネットワークをテスト"</string>
   <string name="btn_stop_diagnostic">"停止"</string>
   <string name="btn_text_already_opened">On</string>
   <string name="btn_text_cleanup_all">Clean up</string>
   <string name="btn_text_done">"完了"</string>
   <string name="btn_text_goto_power_rank">View battery ranking</string>
-  <string name="btn_text_goto_setup">Go to Settings</string>
+  <string name="btn_text_goto_setup">"設定を開く"</string>
   <string name="btn_text_network_speed_detail">Connection</string>
   <string name="btn_text_open_now">Turn on</string>
   <string name="btn_text_optimize_manually">Optimize manually</string>
@@ -301,7 +301,7 @@ or enter App lock password"</string>
   <string name="button_text_security">"セキュリティ"</string>
   <string name="button_text_start_optimize">Check</string>
   <string name="button_text_uninstall_shortcut">"ホーム画面からショートカットを削除"</string>
-  <string name="button_text_update_now">Update</string>
+  <string name="button_text_update_now">"更新"</string>
   <string name="button_text_view">"最適化"</string>
   <string name="button_text_view_power">"表示"</string>
   <string name="buy_immediately">Buy</string>
@@ -822,7 +822,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_item">Protect selected apps with App lock</string>
   <string name="notification_subtitle">Tap to turn on</string>
-  <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
+  <string name="notification_summary_cmcc_app_check">"詳細を表示するにはタップ。"</string>
   <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
   <string name="notification_sysapp_cracked_title">Security risk is detected</string>
   <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
@@ -867,7 +867,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_see_detaills">"詳細"</string>
   <string name="optimize_result_button_to_open">Turn on</string>
   <string name="optimize_result_button_to_set">Set</string>
-  <string name="optimize_result_button_update_now">Update</string>
+  <string name="optimize_result_button_update_now">"更新"</string>
   <string name="optimize_result_summary_sucurity_risk">Some security features are off. Turn on these features to make your device more secure:</string>
   <string name="optimize_result_summary_system_default_settings">"Using default MIUI apps increases the level of the system's stability and security."</string>
   <string name="optimize_result_title_sucurity_risk">Security risks found</string>
@@ -892,7 +892,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="password_promotion_button_text">Got it</string>
   <string name="password_promotion_message">App lock is being upgraded to Privacy protection password. You can use your current Mi Account to reset it.</string>
   <string name="password_promotion_not_login_xiaomi_account_message">App lock is being upgraded to Privacy protection password. You can use your current Mi Account to reset it. Add your Mi Account to be able to do that.</string>
-  <string name="password_promotion_postbutton_text">Go to Settings</string>
+  <string name="password_promotion_postbutton_text">"設定を開く"</string>
   <string name="password_promotion_title">Privacy protection password</string>
   <string name="path_antispam">System apps/Security/Blocklist</string>
   <string name="path_antivirus">System apps/Security/Virus scan</string>

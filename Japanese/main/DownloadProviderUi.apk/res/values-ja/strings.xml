@@ -48,8 +48,8 @@
   <string name="create_task">Create task</string>
   <string name="delete">"削除"</string>
   <string name="delete_download">"削除"</string>
-  <string name="delete_downloads_records">Delete downloads</string>
-  <string name="delete_the_downloaded_file">Downloaded files will be deleted.</string>
+  <string name="delete_downloads_records">"ダウンロードを削除"</string>
+  <string name="delete_the_downloaded_file">"ダウンロードしたファイルは削除されます。"</string>
   <string name="deselect_all">"すべて選択を解除"</string>
   <string name="deselect_subfile_all">"すべて選択を解除"</string>
   <string name="determine">OK</string>
@@ -68,8 +68,8 @@
   <string name="dialog_msg_disabled_net">%1$s restricted downloads in the current network. Tap Network settings to go to the Security app.</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_title_disabled_net">Internet access</string>
-  <string name="dialog_title_not_available">Download Failed</string>
-  <string name="dialog_title_queued_body">File not yet available</string>
+  <string name="dialog_title_not_available">"ダウンロードに失敗しました"</string>
+  <string name="dialog_title_queued_body">"ファイルはまだ利用できません"</string>
   <string name="disable">Off</string>
   <string name="display_expire_netiv1">"今月"</string>
   <string name="do_not_support_url">"This type of URL isn't supported"</string>
@@ -117,7 +117,7 @@
   <string name="download_title_sorted_by_size">"ダウンロード - サイズ順"</string>
   <string name="download_wait_connect">"接続を待機中"</string>
   <string name="download_when_network_connected">"データ接続を使用してダウンロード"</string>
-  <string name="downloaded">Download complete</string>
+  <string name="downloaded">"ダウンロード完了"</string>
   <string name="downloaded_empty">Empty</string>
   <string name="downloading">"ダウンロード中…"</string>
   <string name="downloading_empty">Empty</string>
