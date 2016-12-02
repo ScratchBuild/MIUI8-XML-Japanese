@@ -7,8 +7,8 @@
   <string name="app_name">Updater</string>
   <string name="apply_title">"更新中 (%s)"</string>
   <string name="apply_update_dialog_cancel_button">"キャンセル"</string>
-  <string name="apply_update_dialog_update_button">Update</string>
-  <string name="auto_agree_clause">Privacy Policy updated</string>
+  <string name="apply_update_dialog_update_button">"更新"</string>
+  <string name="auto_agree_clause">"プライバシーポリシーが更新されました"</string>
   <string name="auto_button_examine">"表示"</string>
   <string name="auto_button_examine_immediately">"表示"</string>
   <string name="auto_button_sure_cancel">"キャンセル"</string>
@@ -26,12 +26,12 @@
   <string name="button_text_later_reboot">"後で"</string>
   <string name="button_text_reboot">"今すぐ再起動"</string>
   <string name="button_text_reboot_hm">"今すぐ再起動"</string>
-  <string name="button_text_update">Update</string>
+  <string name="button_text_update">"更新"</string>
   <string name="cancel_download">Stop downloading update?</string>
   <string name="cancel_download_buton_text">"キャンセル"</string>
   <string name="check_local_package_update_btn">Reboot and update</string>
   <string name="check_local_package_update_msg">Your device will reboot automatically to update to MIUI version %s.</string>
-  <string name="check_local_package_update_title">Update</string>
+  <string name="check_local_package_update_title">"更新"</string>
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">"Couldn't verify update package."</string>
   <string name="check_local_package_wipe_btn">Erase and update</string>
@@ -193,7 +193,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="share_update">Share update info</string>
   <string name="share_update_content_sign">"I've updated MIUI to %1$s! I was the %2$s person to update. To view the change log, go to %3$s"</string>
   <string name="share_update_content_unsign">"I've updated MIUI to %1$s! For the detailed changelog, go to %2$s"</string>
-  <string name="sina_share_fail">Failed to send</string>
+  <string name="sina_share_fail">"送信に失敗しました"</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
   <string name="sina_share_pendding">"送信中…"</string>
   <string name="sina_share_success">"送信しました"</string>

@@ -93,7 +93,7 @@
   <string name="app_size">Size: %1$s</string>
   <string name="app_sort">"並べ替え"</string>
   <string name="app_uninstall">"アンインストール"</string>
-  <string name="app_update">Update</string>
+  <string name="app_update">"更新"</string>
   <string name="app_version">Version %1$s</string>
   <string name="append_ok_key_after_num">Add confirmation button after the numeric button</string>
   <string name="application">"アプリ"</string>
@@ -101,9 +101,9 @@
   <string name="auto_tune_hint_text">Automatically change the channel after start，the phone will send a certain interval code&lt;Channel+&gt;Button</string>
   <string name="auto_tune_running">Auto tune running…</string>
   <string name="back">"戻る"</string>
-  <string name="backup">Back up</string>
+  <string name="backup">"バックアップ"</string>
   <string name="backup_failed">"バックアップできませんでした、もう一度お試しください"</string>
-  <string name="backup_succeed">Backed up successfully</string>
+  <string name="backup_succeed">"正常にバックアップされました"</string>
   <string name="backuping">"バックアップ中…"</string>
   <string name="bedroom">Bedroom</string>
   <string name="bind_stb">Continue pairing set-top box</string>
@@ -266,7 +266,7 @@
   <string name="epg_search_history">"検索履歴"</string>
   <string name="epg_search_hot_channel">Top channel searches</string>
   <string name="epg_search_hot_program">Top program searches</string>
-  <string name="epg_status_playing_text">Playing…</string>
+  <string name="epg_status_playing_text">"再生中…"</string>
   <string name="epg_status_playing_text_v5">Live</string>
   <string name="epg_stb_malfunction">This set-top box remote control does not get the correct data, please re-add or select a different remote control</string>
   <string name="epg_unbook_all">Cancel all</string>
@@ -987,7 +987,7 @@ directly from your Lock screen"</string>
   <string name="upgrade_later">"後で"</string>
   <string name="upgrade_loading">"ダウンロード中…"</string>
   <string name="upgrade_log">"What's new"</string>
-  <string name="upgrade_now">Update</string>
+  <string name="upgrade_now">"更新"</string>
   <string name="upgrade_title_frame">%1s</string>
   <string name="upgrading">"更新中…"</string>
   <string name="use_tv_power_key">"Use %1$s's power button

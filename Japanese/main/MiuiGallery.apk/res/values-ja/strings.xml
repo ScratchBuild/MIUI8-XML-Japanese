@@ -30,8 +30,8 @@
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s items can't be added to hidden album. %1$s."</string>
   <string name="add_to_secret_successful">Added to hidden album</string>
   <string name="add_to_share_album_not_delete">"Can't delete photo from Shared Album"</string>
-  <string name="adding">Adding…</string>
-  <string name="adding_recipients">Adding recipients…</string>
+  <string name="adding">"追加中…"</string>
+  <string name="adding_recipients">"受信者を追加中…"</string>
   <string name="adding_to_album">"写真を追加中…"</string>
   <string name="adjust">Enhance</string>
   <string name="adjust_auto">Auto</string>
@@ -621,7 +621,7 @@ Take more photos of your friends!"</string>
   <string name="to_count">%d total</string>
   <string name="to_enable_gallery_sync_dialog_message">Turn on sync for Gallery first</string>
   <string name="to_enable_sync_dialog_message">Turn on sync first</string>
-  <string name="to_enable_sync_dialog_positive_button_text">Go to Settings</string>
+  <string name="to_enable_sync_dialog_positive_button_text">"設定を開く"</string>
   <string name="to_enable_sync_dialog_title">Sync</string>
   <string name="too_many_recipients">"Can't add more than %2$s recipients (You've currently added %1$s)."</string>
   <string name="trash_bin">"ゴミ箱"</string>
