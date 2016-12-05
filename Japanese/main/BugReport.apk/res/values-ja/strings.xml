@@ -93,6 +93,7 @@
   <string name="feedback_submit_failed_notification_desc">"詳細を表示"</string>
   <string name="feedback_submit_failed_notification_retry">"再送信"</string>
   <string name="feedback_submit_failed_notification_title">"レポートを送信できませんでした"</string>
+  <string name="feedback_submit_hint">Report bugs every time you encounter problems to help us solve them faster.</string>
   <string name="feedback_submit_hint1">"We'll notify you about your report's progress"</string>
   <string name="feedback_submit_hint2">Go to \"My reports\" to view details</string>
   <string name="feedback_submit_succ">"正常に送信されました"</string>
@@ -272,6 +273,7 @@
   <string name="toast_module_required">Select item</string>
   <string name="toast_network_unavailable">"送信できませんでした。ネットワークに接続できません。"</string>
   <string name="toast_pending_log_collection">Still getting logs…</string>
+  <string name="toast_post_deleted">"This topic doesn't exist, was deleted, or edited."</string>
   <string name="toast_problem_class_required">"カテゴリーを選択"</string>
   <string name="toast_report_copied_to_clipboard">"レポートをクリップボードにコピーしました"</string>
   <string name="toast_report_sent_failed">"レポートを送信できません"</string>

@@ -118,7 +118,7 @@
   <string name="terabyteShort">TB</string>
   <string name="tools">"ツール"</string>
   <string name="trans_mobile_network_message">"モバイルデータを使用してファイル転送を行うと追加の料金が発生する場合があります。とにかく転送しますか？"</string>
-  <string name="trans_task">"ネットワーク転送"</string>
+  <string name="trans_task">"転送タスク"</string>
   <string name="transing">"送信中"</string>
   <string name="upload_failed">"アップロードできませんでした"</string>
   <string name="upload_file_to_midrive">"Mi Driveにファイルをアップロード"</string>

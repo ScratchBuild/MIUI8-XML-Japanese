@@ -241,12 +241,8 @@
         <item quantity="many">videos</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s videos</item>
-        <item quantity="zero">%1$s videos</item>
-        <item quantity="one">%1$s video</item>
-        <item quantity="two">%1$s videos</item>
-        <item quantity="few">%1$s videos</item>
-        <item quantity="many">%1$s videos</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> videos</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> video</item>
     </plurals>
     <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s comments</item>
@@ -283,5 +279,9 @@
     <plurals name="video_publish_watchable_hint">
         <item quantity="other">Get %1$d more followers to upgrade your status​</item>
         <item quantity="one">Get %1$d more follower to upgrade your status</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> followers</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> follower</item>
     </plurals>
 </resources>

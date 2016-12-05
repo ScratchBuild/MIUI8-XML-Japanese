@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_login_title">"アカウント"</string>
+  <string name="a_week_share_rank">Weekly rankings</string>
   <string name="action_mode_deselect_all">"すべて選択を解除"</string>
   <string name="action_mode_select_all">"すべて選択"</string>
   <string name="activity_parse_video_title">"動画のリンクを貼り付け"</string>
@@ -98,6 +98,7 @@
   <string name="claim_video_success">Claimed successfully</string>
   <string name="claim_video_unlogin">Sign in to claim videos</string>
   <string name="clean_hint">"空き容量を増やすにはタップ"</string>
+  <string name="click_to_refresh">Tap here to refresh</string>
   <string name="click_to_switch_volume">"内部ストレージとSDカードを切り替えるにはタップ"</string>
   <string name="click_to_switch_volume_pad">"内部ストレージとSDカードを切り替えるにはタップ"</string>
   <string name="comment_delete_message">"コメントは完全に削除されます。"</string>
@@ -201,7 +202,6 @@
   <string name="file_loading">"読み込み中…"</string>
   <string name="file_name_invalid">"ファイル名には次の文字を含めることはできません: /\\:*?&lt;>"</string>
   <string name="file_not_exist">"ファイルが存在しません"</string>
-  <string name="flow_setting">"設定"</string>
   <string name="folder_name_empty">"フォルダ名は空にすることはできません"</string>
   <string name="folder_name_illegal">"無効なフォルダ名"</string>
   <string name="follow_fail">"Couldn't follow, try again later"</string>
@@ -233,11 +233,12 @@
   <string name="homepage_tab_category">"カテゴリー"</string>
   <string name="homepage_tab_file_view">"ストレージ"</string>
   <string name="homepage_tab_recent">"履歴"</string>
-  <string name="hot_app">"人気のアプリ"</string>
   <string name="hot_comments">"人気のコメント"</string>
   <string name="hot_sticker">"ステッカー"</string>
+  <string name="hot_topic_str">Hot topics</string>
   <string name="hot_video">Videos</string>
   <string name="hot_video_load_more">More ></string>
+  <string name="hot_video_title">Popular videos</string>
   <string name="hottest_sticker_str">Popular</string>
   <string name="if_cancel">"この操作をキャンセルしますか？"</string>
   <string name="image_loading_error">"画像を読み込めませんでした"</string>
@@ -271,7 +272,6 @@
   <string name="login_expired">Session expired, sign in again</string>
   <string name="login_failed_tip">"ログインできませんでした、後ほど再試行してください"</string>
   <string name="login_success_tip">Signed in successfully</string>
-  <string name="login_tip">Share videos with popular topics to win awards</string>
   <string name="make_private">Hide</string>
   <string name="make_private_msg_1">Hide this file?</string>
   <string name="make_private_msg_2">Hide these files?</string>
@@ -326,6 +326,8 @@
   <string name="no_apk">Tap to get apps</string>
   <string name="no_app_tags">Empty</string>
   <string name="no_comment">No comments</string>
+  <string name="no_content">Open Explorer again to view popular videos</string>
+  <string name="no_daren_tip">Nothing here yet</string>
   <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
   <string name="no_enough_storage_indication">"デバイスのストレージがいっぱいです。"</string>
   <string name="no_enough_storage_title">"十分な空き領域がありません"</string>
@@ -358,7 +360,6 @@
   <string name="oauth_failed_tip">"Couldn't complete authorization"</string>
   <string name="one_account_bind_needed">Add at least one account</string>
   <string name="online_not_support">"Can't view this file at the moment."</string>
-  <string name="only_wifi">Download when connected to WLAN</string>
   <string name="open_app">"開く"</string>
   <string name="open_private_folder">Release to view hidden folders</string>
   <string name="operation_add_fav">"お気に入りに追加中…"</string>
@@ -408,13 +409,11 @@
   <string name="partial_cancel_successful">"Couldn't remove some files. Moved the rest of the files to %s."</string>
   <string name="partial_delete_failure">"Couldn't delete some files, try again"</string>
   <string name="partial_encrypt_success">"Couldn't hide some files, try again"</string>
-  <string name="partial_repair_done">Restored some files successfully</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">"内部ストレージ"</string>
   <string name="phone_bind_skip">"スキップ"</string>
   <string name="phone_bind_tip">Add phone number to participate in rankings and win awards</string>
   <string name="phone_bind_title">"電話番号を追加"</string>
-  <string name="phone_btn_str">Phone</string>
   <string name="phone_code_err">Phone number or verification code is incorrect</string>
   <string name="phone_code_et_hint">Enter verification code</string>
   <string name="phone_get_code_tip">Too many attempts to get the code today</string>
@@ -468,8 +467,6 @@
   <string name="rename_failed">"%1$sの名前を変更することはできません"</string>
   <string name="repair_done">Restored</string>
   <string name="repair_error">"Couldn't restore"</string>
-  <string name="repair_error_no_media">"Couldn't restore, please select at least one media file."</string>
-  <string name="repair_error_no_order">"Couldn't restore, please delete or decrypt %s and try again"</string>
   <string name="repair_file">Restore encrypted files</string>
   <string name="reply_success">Comment added</string>
   <string name="report_abuse">Abuse</string>
@@ -533,6 +530,7 @@
   <string name="setting_message_notify">Notifications</string>
   <string name="setting_shortcut">"ホーム画面にショートカットを追加"/string>
   <string name="share_from_youliao">（From#有料# @有料Video）丨</string>
+  <string name="share_rank_card_tip">Share rankings</string>
   <string name="share_success">Shared successfully</string>
   <string name="share_tip_1">Thanks for sharing, follow me to watch more videos</string>
   <string name="share_tip_2">Thanks for sharing, follow me to watch more videos</string>
@@ -568,6 +566,7 @@
   <string name="start_server">"サーバーを起動"</string>
   <string name="stay_awake_summary">"FTPを使用中はディスプレイを消灯しない"</string>
   <string name="stay_awake_title">Keep display awake</string>
+  <string name="sticker_btn_str_explore_tab">Explore tons of fun stuff!</string>
   <string name="stop_server">"サーバーを停止"</string>
   <string name="storage_cloned_app">Storage for dual apps</string>
   <string name="storage_info_detail">Available: %1$s Total: %2$s</string>
@@ -582,6 +581,7 @@
   <string name="tab_claim">Claim</string>
   <string name="tab_common_app">"アプリとフォルダ"</string>
   <string name="tab_discover">Discover</string>
+  <string name="tab_explore">Discover</string>
   <string name="tab_follow">Following</string>
   <string name="tab_homepage">Home</string>
   <string name="tab_hottest_video">Popular</string>
@@ -602,6 +602,8 @@
   <string name="title_select_volume">Select folder</string>
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
   <string name="tools">TOOLS</string>
+  <string name="top_mark">TOP</string>
+  <string name="top_videos">Share rankings</string>
   <string name="topic_follow">Follow</string>
   <string name="topic_followed">Following</string>
   <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
@@ -640,6 +642,7 @@
   <string name="upload_notification_success">Uploaded successfully</string>
   <string name="upload_notification_success_content">"Your video should be reviewed before it's shared to other people"</string>
   <string name="upload_notification_title">Uploading video</string>
+  <string name="upload_popup">Upload videos to win prizes</string>
   <string name="upload_user_photo">Upload</string>
   <string name="upload_video_failed">"Couldn't upload"</string>
   <string name="upload_video_failed_external_progress">"Couldn't upload, try another one"</string>
@@ -748,7 +751,9 @@
   <string name="video_upload_title">Select video</string>
   <string name="video_upload_wechat_hint">Upload WeChat videos to get more fans.</string>
   <string name="video_uploaded">Uploaded</string>
+  <string name="view_master_rank">View Youliao top</string>
   <string name="view_more_sticker">View more stickers</string>
+  <string name="view_top_rank">View rankings</string>
   <string name="wb_btn_bind">Weibo</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
@@ -778,5 +783,6 @@ Join 170 million Mi Fans!"</string>
   <string name="youliao_dialog_msg">"Popular videos were replaced with \"Youliao\" 
 which is an app dedicated to bringing you more fun!"</string>
   <string name="youliao_dialog_title">No interesting videos?</string>
+  <string name="youliao_master_rank">Youliao top</string>
   <string name="zero">0</string>
 </resources>

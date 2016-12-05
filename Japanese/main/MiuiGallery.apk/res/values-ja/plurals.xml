@@ -4,9 +4,13 @@
         <item quantity="other">"Don't show these people?"</item>
         <item quantity="one">"Don't show this person?"</item>
     </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%1$s photos of %2$s >></item>
-        <item quantity="one">%1$s photo of %2$s >></item>
+    <plurals name="face_count">
+        <item quantity="other">Total %d photos</item>
+        <item quantity="one">Total %d photo</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Total %d photos</item>
+        <item quantity="one">Total %d photo</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d years</item>

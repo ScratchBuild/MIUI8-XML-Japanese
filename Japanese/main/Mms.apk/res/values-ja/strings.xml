@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">ブロックリスト</string>
   <string name="activity_not_found">この操作を扱うアプリがありません</string>
   <string name="activity_not_found_uri">この操作を扱うアプリがありません</string>
@@ -377,6 +378,7 @@
   <string name="open_url_with_web">このURLをブラウザで開きますか？</string>
   <string name="over_max_mms_size">MMSが大きすぎます。</string>
   <string name="overwrite_edited_content">"今編集した内容が上書きされます。"</string>
+  <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
   <string name="phrase_confirm_delete_message">この定型文は削除されます。</string>
   <string name="phrase_empty">定型文がありません。</string>
   <string name="phrase_from">From %1s</string>
@@ -425,6 +427,7 @@
   <string name="pref_time_auto_group_disabled_summary">"現在のフォントサイズはサポートされていません"</string>
   <string name="pref_time_auto_group_summary">互いに1分以内に受信したメッセージは同じスレッドにまとめて分類する</string>
   <string name="pref_time_auto_group_title">日時で分類</string>
+  <string name="pref_title_about_smart_sms">About Smart messages partner</string>
   <string name="pref_title_allow_si_sl_push">WAPプッシュを許可(SI/SL)</string>
   <string name="pref_title_card_format">カード共有フォーマット</string>
   <string name="pref_title_delivery_reports">配達状況</string>

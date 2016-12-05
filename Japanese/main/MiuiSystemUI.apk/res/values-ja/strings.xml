@@ -183,6 +183,7 @@
   <string name="long_screenshot_processing">"処理中…"</string>
   <string name="long_screenshot_stop">完了</string>
   <string name="long_screenshot_top_msg">スクリーンショットの作成中…</string>
+  <string name="long_screenshot_top_msg_manual">Crop the screenshot and tap the button to finish</string>
   <string name="managed_profile_foreground_toast">仕事用プロファイルを使用しています</string>
   <string name="mdb_entering">開始しています…</string>
   <string name="mdb_restore_cancel">キャンセル</string>

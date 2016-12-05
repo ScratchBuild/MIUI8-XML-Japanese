@@ -3,6 +3,7 @@
   <string name="account_info">My Account</string>
   <string name="account_name_not_login">"ログイン"</string>
   <string name="account_unactivated">Account not activated</string>
+  <string name="add_resource_detail_fail">"Can't add resource"</string>
   <string name="all_resources">"すべて"</string>
   <string name="app_name">"テーマ"</string>
   <string name="apply_default_font_tip">"現在のシステムフォントを使用し続けますか？"</string>

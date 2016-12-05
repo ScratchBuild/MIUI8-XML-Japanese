@@ -104,6 +104,21 @@
   <string name="piDesc">円周率</string>
   <string name="plusDesc">足す</string>
   <string name="powerDesc">べき乗</string>
+  <string name="preference_about_calculator">About Calculator</string>
+  <string name="preference_alert_follow_wechat">Copy and paste into WeChat to follow</string>
+  <string name="preference_alert_follow_wechat_button">Copy</string>
+  <string name="preference_check_update_title">Check for updates</string>
+  <string name="preference_feedback_title">FAQ</string>
+  <string name="preference_follow_us">Follow us</string>
+  <string name="preference_follow_web_summary">www.miui.com</string>
+  <string name="preference_follow_web_title">Official website</string>
+  <string name="preference_follow_wechat_summary">MIUI</string>
+  <string name="preference_follow_wechat_title">WeChat</string>
+  <string name="preference_follow_weibo_summary">\@MIUI</string>
+  <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_settings">Settings</string>
+  <string name="preference_use_degress_summary">Substitute radians with angles in trigonometric functions</string>
+  <string name="preference_use_degress_title">Use angles</string>
   <string name="rate_data_provider">Interest rates are provided by hexun.com</string>
   <string name="rightParenDesc">右丸括弧</string>
   <string name="sinDesc">sine</string>
@@ -253,4 +268,11 @@
   <string name="unit_year">Y</string>
   <string name="unit_year_format">Year %s</string>
   <string name="wf_word_figure">Financial characters</string>
+  <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s update!</string>
 </resources>

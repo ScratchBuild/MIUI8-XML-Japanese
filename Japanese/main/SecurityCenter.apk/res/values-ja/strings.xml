@@ -78,6 +78,7 @@ or enter App lock password"</string>
   <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
   <string name="antivirus_choose_engine_settings">Virus definition settings</string>
   <string name="antivirus_choose_engine_title">Definitions</string>
+  <string name="antivirus_choose_engine_update_disable_toast">"Can't switch definitions while update is in progress"</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Delete risky apps</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Delete viruses</string>
   <string name="antivirus_monitor_clean_tips">Deleted items: %s</string>
@@ -263,6 +264,7 @@ or enter App lock password"</string>
   <string name="btn_text_goto_setup">"設定を開く"</string>
   <string name="btn_text_network_speed_detail">Connection</string>
   <string name="btn_text_open_now">Turn on</string>
+  <string name="btn_text_optimize_extend_battery_time">Add %s</string>
   <string name="btn_text_optimize_manually">Optimize manually</string>
   <string name="btn_text_optimize_now">"最適化"</string>
   <string name="btn_text_power_cleanup">Deep clean</string>
@@ -369,7 +371,7 @@ or enter App lock password"</string>
   <string name="connecting">"接続中…"</string>
   <string name="continue_install">"インストール"</string>
   <string name="convenient_mode">Unlock all apps at once</string>
-  <string name="convenient_summary">"Don't require password after 1 app has been unlocked"</string>
+  <string name="convenient_summary">Enter password once to unlock all apps</string>
   <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">"キャンセル"</string>
@@ -727,7 +729,6 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="menu_item_notification_antispam_text_avail">"ブロックリスト"</string>
   <string name="menu_item_notification_antispam_text_normal">"ブロックリスト"</string>
   <string name="menu_item_notification_garbage_text">%s</string>
-  <string name="menu_item_notification_garbage_text_error">"エラー"</string>
   <string name="menu_item_notification_power_text">Power</string>
   <string name="menu_item_notification_title">"通知シェードにメニューを表示"</string>
   <string name="menu_item_settings_title">"設定"</string>
@@ -757,6 +758,8 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="modifypassword">"パスワードの変更"</string>
   <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="month_report_month_report_switch">"月次レポートを表示"</string>
+  <string name="msg_update_error_code_success">Done</string>
+  <string name="msg_update_up">Hide</string>
   <string name="network_assistant_upgraded_body">"詳細を表示するにはタップ。"</string>
   <string name="network_assistant_upgraded_title">Updated</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
@@ -1066,6 +1069,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_declaration">Important disclaimer</string>
   <string name="pref_title_diagnostics_show_float_notification">Floating notifications</string>
   <string name="pref_title_lock_screen_memory_clean">Clean at lock screen</string>
+  <string name="pref_title_manual_check_virus_db_update">Check for updates</string>
   <string name="pref_title_mobile_traffic">Show data usage while locked</string>
   <string name="pref_title_network_diagnostics">Test network</string>
   <string name="pref_title_over_traffic_limit_warning">When exceeded</string>
@@ -1108,6 +1112,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="quick_optimize_no_issue_subtitle">Everything looks good</string>
   <string name="quick_optimize_no_issue_title">"Couldn't find battery issues"</string>
   <string name="quick_optimize_sub_summary_text">Added %sto battery life</string>
+  <string name="quick_optimize_suggest_battery_consume_too_fast">The phone is draining battery, fix it</string>
+  <string name="quick_optimize_suggest_battery_over_heat">The phone is overheating, fix it</string>
   <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
   <string name="reach_daily_limit_value_title">Daily data limit reached</string>
   <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
@@ -1280,6 +1286,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sp_toast_removed_from_sign_white_list">Removed from exceptions. Item will be scanned next time.</string>
   <string name="spinner_title">%1$s - Mobile data: %2$s</string>
   <string name="sponsored">Sponsored</string>
+  <string name="sponsored_sec_fb">Sponsored</string>
   <string name="st_title_mode_choose_group">"プロファイルを選択"</string>
   <string name="start_diagnostic_botton">"開始"</string>
   <string name="start_downloading_app">Starting download: %1$s</string>
@@ -1603,8 +1610,14 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
   <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
   <string name="use_immediately">Use</string>
+  <string name="virus_already_update">Definitions are up to date</string>
+  <string name="virus_dp_update_title">Definition updates</string>
   <string name="virus_scan">"ウイルススキャン"</string>
   <string name="virus_scan_process_pre">%</string>
+  <string name="virus_update_fail">"Could't update"</string>
+  <string name="virus_update_success">Updated successfully</string>
+  <string name="virus_update_tips_title">Connect to WLAN</string>
+  <string name="virus_wait_network_dialog_message">Updates are big.Connect to WLAN to download them</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
   <string name="warning_open_mi_sim">Turn on Mi SIM</string>
