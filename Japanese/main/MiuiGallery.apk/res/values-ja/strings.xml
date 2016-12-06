@@ -97,9 +97,9 @@
   <string name="auto_update_on">On</string>
   <string name="auto_upload_before_share_message">Back up this album to Mi Cloud before sharing</string>
   <string name="auto_upload_before_share_title">"ヒント"</string>
-  <string name="auto_upload_disable_tip">Sync with Mi Cloud is off</string>
-  <string name="auto_upload_disable_toast_long_press_menu">Sync with Mi Cloud is off, go to other albums to view</string>
-  <string name="auto_upload_enable_toast_long_press_menu">Sync with Mi Cloud is on, go to Albums to view</string>
+  <string name="auto_upload_disable_tip">"Mi Cloudとの同期はオフです"</string>
+  <string name="auto_upload_disable_toast_long_press_menu">"Mi Cloudとの同期はオフです, go to other albums to view"</string>
+  <string name="auto_upload_enable_toast_long_press_menu">"Mi Cloudとの同期はオンです, go to Albums to view"</string>
   <string name="baby_album">Baby album</string>
   <string name="baby_album_change_background">Change background photo</string>
   <string name="baby_album_needs_auto_backup_tip">"Can't turn off automatic backup for Baby album"</string>
@@ -110,10 +110,10 @@
   <string name="baby_album_sharer_recommand_face">Add existing photos of %1$s?</string>
   <string name="baby_album_sharers_page_title">Share with family</string>
   <string name="baby_birthday">"誕生日"</string>
-  <string name="baby_lock_wallpaper">Lock screen wallpaper</string>
-  <string name="baby_lock_wallpaper_cancelled">Switched to default Lock screen wallpaper</string>
-  <string name="baby_lock_wallpaper_save_settings_msg">Apply current settings?</string>
-  <string name="baby_lock_wallpaper_title">"Use baby photos as Lock screen's wallpaper"</string>
+  <string name="baby_lock_wallpaper">"ロック画面の壁紙"</string>
+  <string name="baby_lock_wallpaper_cancelled">"ロック画面の壁紙をデフォルトに切り替えました"</string>
+  <string name="baby_lock_wallpaper_save_settings_msg">"現在の設定を適用しますか？"</string>
+  <string name="baby_lock_wallpaper_title">"赤ちゃんの画像をロック画面の壁紙として使用"</string>
   <string name="baby_name_cannot_empty">"名前を入力"</string>
   <string name="baby_name_cannot_start_with">"Name can't begin with '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"Name can't contain '%s'"</string>
@@ -175,7 +175,7 @@
   <string name="confirm_face">Match</string>
   <string name="confirm_hidden_recommend_group">OK</string>
   <string name="confirm_hidden_recommend_group_message">When recommendations are turned off, you can still use \"More people who look alike\" option</string>
-  <string name="confirm_hidden_recommend_group_title">"Don't show recommendations"</string>
+  <string name="confirm_hidden_recommend_group_title">"おすすめを表示しない"</string>
   <string name="confirm_merge_face_albums">" "<Data> Merge this album with %s? </Data>" "</string>
   <string name="confirm_merge_many_face_albums">" "<Data> Merge these albums with %s? </Data>" "</string>
   <string name="confirm_not_face">No matches</string>
@@ -251,8 +251,8 @@
   <string name="download_without_wifi_title">Data usage warning</string>
   <string name="edit_baby_info">View baby info</string>
   <string name="email_picker_title">Add shared email</string>
-  <string name="empty_recommend_button_view">Back</string>
-  <string name="empty_recommend_face_page_view">No more recommendations</string>
+  <string name="empty_recommend_button_view">"戻る"</string>
+  <string name="empty_recommend_face_page_view">"おすすめはありません"</string>
   <string name="enable_auto_upload_tip">This album will be removed from other albums after you turn on.</string>
   <string name="enable_auto_upload_title">Turn on sync with Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Turn on Mi Cloud albums to view shared photos.</string>
@@ -296,8 +296,8 @@ Take more photos of your friends!"</string>
   <string name="face_choose_tip">Choose from existing album</string>
   <string name="face_confirm">This is the same person</string>
   <string name="face_move_dialog_title">Choose an album</string>
-  <string name="face_name_edit">Edit</string>
-  <string name="face_name_input">Enter name</string>
+  <string name="face_name_edit">"編集"</string>
+  <string name="face_name_input">"名前を入力"</string>
   <string name="face_recommend">Recommendations</string>
   <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">"操作を完了できませんでした"</string>
@@ -529,7 +529,7 @@ Take more photos of your friends!"</string>
   <string name="relation_text_mother">Mother</string>
   <string name="relation_with_you">Choose relationship</string>
   <string name="release_space_finish_format">Freed %s of local storage</string>
-  <string name="remind_face_recommend_confirm">Confirm</string>
+  <string name="remind_face_recommend_confirm">"確認"</string>
   <string name="remove_from_other_albums_tip">Turn on sync with Mi Cloud to move items from other albums. Move now?</string>
   <string name="remove_from_secret_fail">"Couldn't remove from hidden album"</string>
   <string name="remove_from_secret_failed_with_reason">"Can't remove from hidden album. %1$s."</string>

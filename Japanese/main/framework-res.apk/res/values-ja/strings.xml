@@ -63,7 +63,6 @@
   <string name="add_account_label">アカウントを追加</string>
   <string name="aerr_application">問題が発生したため、%1$sを終了します。</string>
   <string name="aerr_process">問題が発生したため、プロセス「%1$s」を終了します。</string>
-  <string name="aerr_title"/>
   <string name="allow">許可</string>
   <string name="alternate_eri_file">/data/eri.xml</string>
   <string name="alwaysUse">常にこの操作で使用する</string>

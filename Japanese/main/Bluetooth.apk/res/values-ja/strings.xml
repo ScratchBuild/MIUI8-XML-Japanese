@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ErrorTooManyRequests">"処理中のリクエストが多すぎるため、しばらくしてからもう一度お試しください。"</string>
-  <string name="ack_record">Ack record</string>
+  <string name="ack_record">Ackレコード</string>
   <string name="airplane_can_not_share">"機内モードでBluetooth共有は使用できません"</string>
   <string name="airplane_error_msg">"機内モードではBluetoothを使用できません。"</string>
   <string name="airplane_error_title">"機内モード"</string>
   <string name="app_name">"Bluetooth共有"</string>
-  <string name="auth_notif_message">Type session key for %1$s</string>
-  <string name="auth_notif_ticker">Obex authentication request</string>
-  <string name="auth_notif_title">Session Key</string>
+  <string name="auth_notif_message">%1$sのセッションキーを入力してください</string>
+  <string name="auth_notif_ticker">OBEX認証リクエスト</string>
+  <string name="auth_notif_title">セッションキー</string>
   <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
   <string name="bluetooth_map_settings_app_icon">"アプリアイコン"</string>
   <string name="bluetooth_map_settings_cancel">"キャンセル"</string>
@@ -18,12 +18,11 @@
   <string name="bluetooth_map_settings_save">"保存"</string>
   <string name="bluetooth_map_settings_title">"Bluetoothメッセージ共有の設定"</string>
   <string name="bluetooth_sap_notif_disconnect_button">"切断"</string>
-  <string name="bluetooth_sap_notif_disconnecting">Waiting for client to disconnect</string>
+  <string name="bluetooth_sap_notif_disconnecting">クライアントの接続解除を待機しています</string>
   <string name="bluetooth_sap_notif_force_disconnect_button">"強制切断"</string>
-  <string name="bluetooth_sap_notif_message">Request client to disconnect?</string>
-  <string name="bluetooth_sap_notif_ticker">Bluetooth SIM Access</string>
-  <string name="bluetooth_sap_notif_title">Bluetooth SIM access</string>
-  <string name="bluetooth_share_file_name">bluetooth_content_share</string>
+  <string name="bluetooth_sap_notif_message">クライアントに接続解除をリクエストしますか？</string>
+  <string name="bluetooth_sap_notif_ticker">Bluetooth SIMアクセス</string>
+  <string name="bluetooth_sap_notif_title">Bluetooth SIMアクセス</string>
   <string name="bt_enable_cancel">"キャンセル"</string>
   <string name="bt_enable_line1">"Bluetoothサービスを利用するには、まずBluetoothをONにしてください。"</string>
   <string name="bt_enable_line2">"Bluetoothを今すぐONにしますか？"</string>
@@ -40,10 +39,8 @@
   <string name="bt_toast_5">"%1$s個のファイルを「%2$s」に送信中"</string>
   <string name="bt_toast_6">"「%1$s」へのファイルの送信を停止しました"</string>
   <string name="btopp_live_folder">"Bluetoothで受信"</string>
-  <string name="defaultname">Carkit</string>
-  <string name="defaultnumber">000000</string>
-  <string name="deleteAll_record">Delete all record</string>
-  <string name="delete_record">Delete record</string>
+  <string name="deleteAll_record">すべてのレコードを削除</string>
+  <string name="delete_record">レコードを削除</string>
   <string name="download_cancel">"停止"</string>
   <string name="download_fail_line1">"ファイルの受信に失敗"</string>
   <string name="download_fail_line2">"ファイル: %1$s"</string>
@@ -77,8 +74,8 @@
   <string name="incoming_line1">"送信元"</string>
   <string name="incoming_line2">"ファイル名"</string>
   <string name="incoming_line3">"サイズ"</string>
-  <string name="insert_record">Insert record</string>
-  <string name="localPhoneName">My name</string>
+  <string name="insert_record">記録を挿入</string>
+  <string name="localPhoneName">名前</string>
   <string name="miui_transfer_history_title">"Bluetooth転送"</string>
   <string name="miui_transfer_inbound_title">"受信"</string>
   <string name="miui_transfer_outbound_title">"送信"</string>
@@ -98,11 +95,10 @@
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">"外部への転送"</string>
   <string name="outbound_noti_title">"Bluetooth共有: 送信したファイル"</string>
-  <string name="pbap_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
-  <string name="pbap_authentication_timeout_message">There was time out to input session key with %1$s</string>
-  <string name="pbap_session_key_dialog_header">Bluetooth session key required</string>
-  <string name="pbap_session_key_dialog_title">Type session key for %1$s</string>
-  <string name="permdesc_bluetoothAvrcpDataManager">Allows the app to access the BluetoothAvrcpData manager and use it to display on UI.</string>
+  <string name="pbap_acceptance_timeout_message">%1$sとの接続の承諾がタイムアウトになりました</string>
+  <string name="pbap_authentication_timeout_message">%1$sでのセッションキーの入力がタイムアウトになりました</string>
+  <string name="pbap_session_key_dialog_header">Bluetoothセッションキーが必要です</string>
+  <string name="pbap_session_key_dialog_title">%1$sのセッションキーを入力</string>
   <string name="permdesc_bluetoothShareManager">"BluetoothShareマネージャーへのアクセスとそれを利用したファイル転送をアプリに許可します。"</string>
   <string name="permdesc_bluetoothWhitelist">"Bluetooth端末によるアクセスを一時的に許可して、ユーザーの確認を受けずにその端末からこの端末にファイルを送信することをアプリに許可します。"</string>
   <string name="permlab_bluetoothAvrcpDataManager">Access avrcp metadata.</string>

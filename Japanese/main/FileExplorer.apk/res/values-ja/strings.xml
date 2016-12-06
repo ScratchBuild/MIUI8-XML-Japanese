@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="a_week_share_rank">Weekly rankings</string>
+  <string name="a_week_share_rank">"週間ランキング"</string>
   <string name="action_mode_deselect_all">"すべて選択を解除"</string>
   <string name="action_mode_select_all">"すべて選択"</string>
   <string name="activity_parse_video_title">"動画のリンクを貼り付け"</string>
@@ -98,7 +98,7 @@
   <string name="claim_video_success">Claimed successfully</string>
   <string name="claim_video_unlogin">Sign in to claim videos</string>
   <string name="clean_hint">"空き容量を増やすにはタップ"</string>
-  <string name="click_to_refresh">Tap here to refresh</string>
+  <string name="click_to_refresh">"更新するにはここをタップ"</string>
   <string name="click_to_switch_volume">"内部ストレージとSDカードを切り替えるにはタップ"</string>
   <string name="click_to_switch_volume_pad">"内部ストレージとSDカードを切り替えるにはタップ"</string>
   <string name="comment_delete_message">"コメントは完全に削除されます。"</string>
@@ -235,10 +235,10 @@
   <string name="homepage_tab_recent">"履歴"</string>
   <string name="hot_comments">"人気のコメント"</string>
   <string name="hot_sticker">"ステッカー"</string>
-  <string name="hot_topic_str">Hot topics</string>
+  <string name="hot_topic_str">"人気のトピックス"</string>
   <string name="hot_video">Videos</string>
   <string name="hot_video_load_more">More ></string>
-  <string name="hot_video_title">Popular videos</string>
+  <string name="hot_video_title">"人気の動画"</string>
   <string name="hottest_sticker_str">Popular</string>
   <string name="if_cancel">"この操作をキャンセルしますか？"</string>
   <string name="image_loading_error">"画像を読み込めませんでした"</string>
@@ -271,7 +271,7 @@
   <string name="login_account_bind_xm">"Mi Accountを使用"</string>
   <string name="login_expired">Session expired, sign in again</string>
   <string name="login_failed_tip">"ログインできませんでした、後ほど再試行してください"</string>
-  <string name="login_success_tip">Signed in successfully</string>
+  <string name="login_success_tip">"正常にログインしました"</string>
   <string name="make_private">Hide</string>
   <string name="make_private_msg_1">Hide this file?</string>
   <string name="make_private_msg_2">Hide these files?</string>
@@ -326,8 +326,8 @@
   <string name="no_apk">Tap to get apps</string>
   <string name="no_app_tags">Empty</string>
   <string name="no_comment">No comments</string>
-  <string name="no_content">Open Explorer again to view popular videos</string>
-  <string name="no_daren_tip">Nothing here yet</string>
+  <string name="no_content">"人気の動画を表示するにはもう一度Explorerを開く"</string>
+  <string name="no_daren_tip">"ここには何もありません"</string>
   <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
   <string name="no_enough_storage_indication">"デバイスのストレージがいっぱいです。"</string>
   <string name="no_enough_storage_title">"十分な空き領域がありません"</string>
@@ -530,7 +530,7 @@
   <string name="setting_message_notify">Notifications</string>
   <string name="setting_shortcut">"ホーム画面にショートカットを追加"/string>
   <string name="share_from_youliao">（From#有料# @有料Video）丨</string>
-  <string name="share_rank_card_tip">Share rankings</string>
+  <string name="share_rank_card_tip">"共有ランキング"</string>
   <string name="share_success">Shared successfully</string>
   <string name="share_tip_1">Thanks for sharing, follow me to watch more videos</string>
   <string name="share_tip_2">Thanks for sharing, follow me to watch more videos</string>
@@ -603,7 +603,7 @@
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
   <string name="tools">TOOLS</string>
   <string name="top_mark">TOP</string>
-  <string name="top_videos">Share rankings</string>
+  <string name="top_videos">"共有ランキング"</string>
   <string name="topic_follow">Follow</string>
   <string name="topic_followed">Following</string>
   <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
@@ -753,7 +753,7 @@
   <string name="video_uploaded">Uploaded</string>
   <string name="view_master_rank">View Youliao top</string>
   <string name="view_more_sticker">View more stickers</string>
-  <string name="view_top_rank">View rankings</string>
+  <string name="view_top_rank">"ランキングを表示"</string>
   <string name="wb_btn_bind">Weibo</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>

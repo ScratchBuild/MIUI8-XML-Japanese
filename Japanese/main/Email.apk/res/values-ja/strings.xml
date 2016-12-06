@@ -157,11 +157,11 @@
   <string name="add_star">Star</string>
   <string name="allread">Read all</string>
   <string name="always_bcc_myself">Always Bcc self</string>
-  <string name="always_show_images">Always show pictures from this sender</string>
+  <string name="always_show_images">この送信者からの画像を常に表示する</string>
   <string name="app_name">"メール"</string>
   <string name="application_mime_type">application/email-ls</string>
-  <string name="archive">Archive</string>
-  <string name="archived">Archived</string>
+  <string name="archive">アーカイブ</string>
+  <string name="archived">アーカイブ済み</string>
   <string name="att_download_failed_content">"このメッセージの添付ファイルをダウンロードできませんでした。"</string>
   <string name="att_download_failed_network_slow">"接続速度が遅すぎます、後でもう一度試してください"</string>
   <string name="att_download_failed_permission_denied">"外部ストレージにアクセスするための権限がありません"</string>
@@ -174,15 +174,15 @@
   <string name="att_mgr_title_order_sender">Sender</string>
   <string name="att_mgr_title_order_size">File size</string>
   <string name="attached_message">Attached message</string>
-  <string name="attachment_application_msword">Document</string>
+  <string name="attachment_application_msword">ドキュメント</string>
   <string name="attachment_application_pdf">PDF</string>
-  <string name="attachment_application_vnd_ms_excel">Spreadsheet</string>
-  <string name="attachment_application_vnd_ms_powerpoint">Presentation</string>
-  <string name="attachment_audio">Audio</string>
+  <string name="attachment_application_vnd_ms_excel">スプレッドシート</string>
+  <string name="attachment_application_vnd_ms_powerpoint">プレゼンテーション</string>
+  <string name="attachment_audio">音声</string>
   <string name="attachment_canceling">"キャンセル中…"</string>
   <string name="attachment_decoding">Unpacking attachments…</string>
   <string name="attachment_download_all">"すべてダウンロード"</string>
-  <string name="attachment_image">Image</string>
+  <string name="attachment_image">画像</string>
   <string name="attachment_list_search_hint">"添付ファイルを検索"</string>
   <string name="attachment_mgr_name">"添付ファイル"</string>
   <string name="attachment_not_exists">The attachment is not available!</string>
@@ -190,10 +190,10 @@
   <string name="attachment_open_SecurityException_title">"ファイルを開けません"</string>
   <string name="attachment_size_exceed_limit">"Looks like the size exceeded the server's limit"</string>
   <string name="attachment_stop_all">"停止"</string>
-  <string name="attachment_text">Text</string>
+  <string name="attachment_text">テキスト</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
-  <string name="attachment_unknown">%s file</string>
-  <string name="attachment_video">Video</string>
+  <string name="attachment_unknown">%sファイル</string>
+  <string name="attachment_video">動画</string>
   <string name="attachments_header">"添付ファイル"</string>
   <string name="auto_advance_help_title">After deleting a message, view…</string>
   <string name="auto_advance_label">Delete message flow</string>
@@ -215,7 +215,7 @@
   <string name="calendar_remind_gridview_pick_date">"日付を選択"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_action">"キャンセル"</string>
-  <string name="cant_move_or_change_labels">"Can't move items from multiple accounts."</string>
+  <string name="cant_move_or_change_labels">移動できません。複数のアカウントを選択しています。</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br></string>
   <string name="cc_bcc">Cc/Bcc</string>
@@ -262,7 +262,7 @@
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
   <string name="contact_edit_title_phone_contact">Phone contacts list</string>
   <string name="contact_in_filter_title">"送信者"</string>
-  <string name="contact_info_string">Show contact information for %1$s</string>
+  <string name="contact_info_string">%1$sの連絡先情報を表示</string>
   <string name="contact_info_string_default">"連絡先の情報を表示"</string>
   <string name="contact_list_add_btn">"追加"</string>
   <string name="contact_list_search_hint">"連絡先の検索"</string>
@@ -272,8 +272,8 @@
   <string name="content_description">%1$s about %2$s, %3$s on %4$s, %5$s</string>
   <string name="content_description_today">%1$s about %2$s, %3$s at %4$s, %5$s</string>
   <string name="contextmenu_add">"連絡先に追加"</string>
-  <string name="contextmenu_add_contact">Add contact</string>
-  <string name="contextmenu_call">Call</string>
+  <string name="contextmenu_add_contact">連絡先を追加</string>
+  <string name="contextmenu_call">"発信"</string>
   <string name="contextmenu_copy">"コピー"</string>
   <string name="contextmenu_copylink">"URLをコピー"</string>
   <string name="contextmenu_create">"連絡先を作成"</string>
@@ -491,7 +491,7 @@
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Search mailbox on server</string>
-  <string name="load_more">Load more</string>
+  <string name="load_more">もっと読み込む</string>
   <string name="loading_conversation">"読み込み中…"</string>
   <string name="loading_conversations">"読み込み中…"</string>
   <string name="loading_from_remote">"読み込み中…"</string>
@@ -895,7 +895,7 @@
 
 
 %s"</string>
-  <string name="silent_ringtone">Silent</string>
+  <string name="silent_ringtone">マナーモード</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>

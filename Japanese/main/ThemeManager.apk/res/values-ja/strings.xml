@@ -3,7 +3,7 @@
   <string name="account_info">My Account</string>
   <string name="account_name_not_login">"ログイン"</string>
   <string name="account_unactivated">Account not activated</string>
-  <string name="add_resource_detail_fail">"Can't add resource"</string>
+  <string name="add_resource_detail_fail">"テーマを追加できません"</string>
   <string name="all_resources">"すべて"</string>
   <string name="app_name">"テーマ"</string>
   <string name="apply_default_font_tip">"現在のシステムフォントを使用し続けますか？"</string>
@@ -240,7 +240,7 @@
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
   <string name="resource_pack_discount_info">Savings: %1$s</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">"このテーマは利用できません。"</string>
-  <string name="resource_pack_price_info">Original price: %1$s</string>
+  <string name="resource_pack_price_info">"元の価格: %1$s"</string>
   <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
   <string name="resource_present">"ギフト"</string>
   <string name="resource_price_format">(%1$s)</string>

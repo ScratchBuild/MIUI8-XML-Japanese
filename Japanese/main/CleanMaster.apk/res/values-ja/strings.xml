@@ -483,7 +483,7 @@
   <string name="title_share_link">"URLを共有"</string>
   <string name="toast_add_white_list_success">" 例外に追加しました"</string>
   <string name="toast_app_no_residual_on_sdcard">"アプリはSDカード上に何もファイルを保存していません"</string>
-  <string name="toast_backup_is_running">Backup is already running</string>
+  <string name="toast_backup_is_running">"バックアップは既に実行中です"</string>
   <string name="toast_backup_uninstall_failed">"Couldn't back up %d apps"</string>
   <string name="toast_backup_uninstall_failed2">"Couldn't back up"</string>
   <string name="toast_backup_uninstall_success">Backup and uninstall complete</string>

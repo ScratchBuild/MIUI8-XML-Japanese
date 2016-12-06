@@ -758,8 +758,8 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="modifypassword">"パスワードの変更"</string>
   <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="month_report_month_report_switch">"月次レポートを表示"</string>
-  <string name="msg_update_error_code_success">Done</string>
-  <string name="msg_update_up">Hide</string>
+  <string name="msg_update_error_code_success">"完了"</string>
+  <string name="msg_update_up">"隠す"</string>
   <string name="network_assistant_upgraded_body">"詳細を表示するにはタップ。"</string>
   <string name="network_assistant_upgraded_title">Updated</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
+  <string name="accessbility_suggestion_dropdown_opened">選択できる連絡先候補の数</string>
   <string name="accessibility_add_attendee">"参加者を追加"</string>
   <string name="accessibility_all_day">"終日"</string>
   <string name="accessibility_pick_start_date">"開始日"</string>

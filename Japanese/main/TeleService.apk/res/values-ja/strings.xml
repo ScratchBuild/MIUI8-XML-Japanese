@@ -83,7 +83,7 @@
   <string name="autoip_exception_summary">"計 %d件"</string>
   <string name="autoip_exception_summary_more">", 計%d件"</string>
   <string name="autoip_no_exceptions">"IPプレフィックスが不要な番号を追加"</string>
-  <string name="autoip_phone">Auto IP dialing</string>
+  <string name="autoip_phone">自動IPダイヤル</string>
   <string name="autoip_prefix">IPプレフィックス</string>
   <string name="autoip_prefix_summary">"キャリアのIPプレフィックスは%sです"</string>
   <string name="autoip_setting">自動IP設定</string>

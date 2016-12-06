@@ -23,7 +23,6 @@
   <string name="cta_dialog_content">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="cta_dialog_title">"インターネット接続"</string>
   <string name="cta_not_show_again">"次回から表示しない"</string>
-  <string name="default_text_view">TextView</string>
   <string name="description">Describe the issue</string>
   <string name="dialog_ask_delete">"削除"</string>
   <string name="dialog_ask_quit">"終了"</string>
@@ -93,9 +92,9 @@
   <string name="feedback_submit_failed_notification_desc">"詳細を表示"</string>
   <string name="feedback_submit_failed_notification_retry">"再送信"</string>
   <string name="feedback_submit_failed_notification_title">"レポートを送信できませんでした"</string>
-  <string name="feedback_submit_hint">Report bugs every time you encounter problems to help us solve them faster.</string>
-  <string name="feedback_submit_hint1">"We'll notify you about your report's progress"</string>
-  <string name="feedback_submit_hint2">Go to \"My reports\" to view details</string>
+  <string name="feedback_submit_hint">"問題を迅速に解決できるよう、問題が発生するたびにバグを報告してください。"</string>
+  <string name="feedback_submit_hint1">"レポートの進捗状況をお知らせします"</string>
+  <string name="feedback_submit_hint2">"詳細を表示するには\"My reports\"に移動"</string>
   <string name="feedback_submit_succ">"正常に送信されました"</string>
   <string name="feedback_submit_succ_button">"完了"</string>
   <string name="feedback_submitting">"送信中…"</string>
@@ -219,7 +218,6 @@
   <string name="network_unavailable_dialog_content">Your report will be sent when you have a data connection.</string>
   <string name="network_unavailable_dialog_title">"ネットワークに接続できませんでした"</string>
   <string name="non_system_app_select">Downloaded apps</string>
-  <string name="nothing">--</string>
   <string name="open_feedback_main">More</string>
   <string name="packaging_dialog_content">"レポートを作成中…"</string>
   <string name="pic_not_exist">"この画像は存在しません"</string>
@@ -273,7 +271,7 @@
   <string name="toast_module_required">Select item</string>
   <string name="toast_network_unavailable">"送信できませんでした。ネットワークに接続できません。"</string>
   <string name="toast_pending_log_collection">Still getting logs…</string>
-  <string name="toast_post_deleted">"This topic doesn't exist, was deleted, or edited."</string>
+  <string name="toast_post_deleted">"このトピックは存在しません、削除または編集されました。"</string>
   <string name="toast_problem_class_required">"カテゴリーを選択"</string>
   <string name="toast_report_copied_to_clipboard">"レポートをクリップボードにコピーしました"</string>
   <string name="toast_report_sent_failed">"レポートを送信できません"</string>

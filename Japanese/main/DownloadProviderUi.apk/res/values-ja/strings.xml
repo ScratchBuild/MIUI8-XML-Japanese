@@ -204,9 +204,9 @@
   <string name="no_vip_info">Get Xunlei membership to speed up downloads</string>
   <string name="no_vip_show_info">"Speed up downloads
 across all your devices with Xunlei"</string>
-  <string name="notify_disabled_net_by_app">Internet access restricted</string>
+  <string name="notify_disabled_net_by_app">"インターネット接続が制限されています"</string>
   <string name="notify_not_support">"Such notifications aren't supported, update now"</string>
-  <string name="notify_only_wifi_download">Waiting for Wi-Fi</string>
+  <string name="notify_only_wifi_download">"Wi-Fi接続を待っています"</string>
   <string name="one_month">"1ヶ月"</string>
   <string name="only_support_torrent">Only torrent files are supported</string>
   <string name="open">"開く"</string>
