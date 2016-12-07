@@ -348,7 +348,7 @@ Contact cards are turned off"</string>
   <string name="device_import_account_dialog_title_suffix">"
 (found %1$s contacts)"</string>
   <string name="device_import_failed_message">"インポートできませんでした"</string>
-  <string name="device_import_local_account">Local account</string>
+  <string name="device_import_local_account">"ローカルアカウント"</string>
   <string name="device_import_message">"インポート中"</string>
   <string name="device_import_progress_begin_message">"インポート中…"</string>
   <string name="device_import_progress_end_message">"インポートしました"</string>
@@ -420,7 +420,7 @@ Contact cards are turned off"</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">"名前を入力"</string>
   <string name="eventLabelsGroup">誕生日</string>
-  <string name="eventTypeCustom">Custom</string>
+  <string name="eventTypeCustom">"カスタム"</string>
   <string name="event_edit_field_hint_text">"日付"</string>
   <string name="expandCloseViewDescription">Collapse</string>
   <string name="expandOpenViewDescription">Expand</string>
@@ -501,7 +501,7 @@ Contact cards are turned off"</string>
   <string name="hint_more_contact">"重複する連絡先を統合"</string>
   <string name="hybrid_check_network">"ネットワーク設定"</string>
   <string name="hybrid_data_error">"エラーが発生しました"</string>
-  <string name="hybrid_locating_fail">"Couldn't find your location"</string>
+  <string name="hybrid_locating_fail">"現在地を取得できません"</string>
   <string name="hybrid_network_unavaliable">"ネットワークに接続できません"</string>
   <string name="hybrid_service_unavailiable">"サービス利用不可"</string>
   <string name="hybrid_try_again">"再試行"</string>
@@ -557,7 +557,7 @@ Contact cards are turned off"</string>
   <string name="invalid_contacts_to_save_to_group">"不明な番号を保存できません"</string>
   <string name="keep_local">"ローカルに保存"</string>
   <string name="keep_local_btn">"端末の内部ストレージを使用"</string>
-  <string name="label_custom_type">Custom</string>
+  <string name="label_custom_type">"カスタム"</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">"重複は見つかりませんでした"</string>
   <string name="label_notes">"ノート"</string>
@@ -592,7 +592,7 @@ Contact cards are turned off"</string>
   <string name="locale_change_in_progress">"言語の変更に伴い連絡先リストを更新しています。"</string>
   <string name="login_ok">"ログイン"</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
-  <string name="lunar_calendar">农历</string>
+  <string name="lunar_calendar">"太陰暦"</string>
   <string name="lunar_leap">闰</string>
   <string name="lunar_yue">月</string>
   <string name="make_primary">"この選択を保存"</string>
@@ -696,7 +696,7 @@ Contact cards are turned off"</string>
   <string name="miprofile_request_agenda_date">This person wants to exchange cards [%1$s]</string>
   <string name="miprofile_request_agenda_today">This person wants to exchange cards [Today %1$s]</string>
   <string name="miprofile_request_agenda_yesterday">This person wants to exchange cards [Yesterday %1$s]</string>
-  <string name="miprofile_request_agree">Accept</string>
+  <string name="miprofile_request_agree">"同意"</string>
   <string name="miprofile_request_agree_exchange_profile">Exchanged contact cards</string>
   <string name="miprofile_request_agreed">%1$s agreed to exchange contact cards</string>
   <string name="miprofile_request_alertdialog_message">Your card will be sent automatically after this person accepts.</string>

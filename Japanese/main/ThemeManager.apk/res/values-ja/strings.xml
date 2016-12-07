@@ -143,8 +143,8 @@
   <string name="resource_comment_bad_comments">"悪い評価"</string>
   <string name="resource_comment_current_version">Current version</string>
   <string name="resource_comment_date">%1$02d-%2$02d</string>
-  <string name="resource_comment_edit_comment">Add comments</string>
-  <string name="resource_comment_edit_comment_waiting">Checking history…</string>
+  <string name="resource_comment_edit_comment">"コメントを追加"</string>
+  <string name="resource_comment_edit_comment_waiting">"履歴の確認中…"</string>
   <string name="resource_comment_edit_text_default">Write a comment</string>
   <string name="resource_comment_edit_title">Comment about %1$s</string>
   <string name="resource_comment_entry_tips">"コメント (%1$s)"</string>
@@ -171,7 +171,7 @@
   <string name="resource_continue">"次へ"</string>
   <string name="resource_data_empty">The content is empty.</string>
   <string name="resource_default">"デフォルトの着信音"</string>
-  <string name="resource_default_name">Resource</string>
+  <string name="resource_default_name">"テーマ"</string>
   <string name="resource_delete">"削除"</string>
   <string name="resource_delete_all">Delete %1$d selected resources?</string>
   <string name="resource_delete_confirm">"テーマを削除しますか？"</string>
@@ -313,7 +313,7 @@
   <string name="sdcard_not_mounted_dialog_message">"SDカードを挿入してください\n"</string>
   <string name="sdcard_not_mounted_dialog_title">"SDカードが検出できません"</string>
   <string name="search_hint_header_text">Hot words</string>
-  <string name="selected_resource_file_invalid">"Can't use selected resource file"</string>
+  <string name="selected_resource_file_invalid">"選択したテーマファイルを使用できません"</string>
   <string name="settings">"設定"</string>
   <string name="theme_apply_audio_dialog_item_alarm">"アラーム"</string>
   <string name="theme_apply_audio_dialog_item_notification">"通知音"</string>

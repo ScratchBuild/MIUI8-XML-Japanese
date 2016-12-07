@@ -2,7 +2,7 @@
 <resources>
     <string-array name="stat_volume_button_behaviors">
         <item>无</item>
-        <item>稍后再响</item>
+        <item>"スヌーズ"</item>
         <item>关闭</item>
     </string-array>
     <string-array name="alarm_in_furture">

@@ -63,7 +63,7 @@
   <string name="playback_share_records">Share recording</string>
   <string name="preference_enable_earpiece_summary">Use receiver speaker for external playback</string>
   <string name="preference_enable_earpiece_title">Use receiver to play audio</string>
-  <string name="preference_led_indicator">Lock screen notifications</string>
+  <string name="preference_led_indicator">"ロック画面の通知"</string>
   <string name="preference_led_indicator_prompt">While recording, show status bar shortcut and pulse notification light at Lock screen</string>
   <string name="preference_record_scenes_dialog_title">Choose recording type</string>
   <string name="preference_scenes">Recording type</string>
@@ -84,7 +84,7 @@
   <string name="recognition_status_downloading">"ダウンロード中"</string>
   <string name="record_back_pressed_hint">To stop recording, touch Back again</string>
   <string name="record_download">"Mi Cloudからダウンロード"</string>
-  <string name="record_download_complete">Downloaded</string>
+  <string name="record_download_complete">"ダウンロード済み"</string>
   <string name="record_download_msg">Recordings can only be played after they have finished downloading.</string>
   <string name="record_download_msg_reload">"This recording doesn't exist."</string>
   <string name="record_downloading_notification">"ダウンロード中…"</string>
@@ -114,7 +114,7 @@
   <string name="runtime_permission_ungranted">"Can't use Recorder due to ungranted permissions"</string>
   <string name="search_app">"レコーダー"</string>
   <string name="search_enable_earpiece_title">Use receiver to play audio</string>
-  <string name="search_led_indicator">Lock screen notifications</string>
+  <string name="search_led_indicator">"ロック画面の通知"</string>
   <string name="search_led_indicator_prompt">While recording, show status bar shortcut and pulse notification light at Lock screen</string>
   <string name="search_quliaty_title">Recording quality</string>
   <string name="search_scenes">Recording type</string>

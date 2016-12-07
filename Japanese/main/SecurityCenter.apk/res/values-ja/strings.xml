@@ -632,8 +632,8 @@ or enter App lock password"</string>
   <string name="lock_screen_traffic_guide_notification_title">Tap to manage data usage.</string>
   <string name="lock_screen_traffic_notify_body">Locked for %2$s at %1$s, data used %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Buy mobile data</string>
-  <string name="lock_screen_traffic_warn_title">Lock screen notifications</string>
-  <string name="lock_screen_warning_category">Lock screen notifications</string>
+  <string name="lock_screen_traffic_warn_title">"ロック画面の通知"</string>
+  <string name="lock_screen_warning_category">"ロック画面の通知"</string>
   <string name="lock_screen_warning_switch_summary">Show warning on lock screen when data usage exceeds a certain amount</string>
   <string name="lock_screen_warning_switch_title">Show warnings on lock screen</string>
   <string name="lock_screen_warning_value">Data usage warning</string>

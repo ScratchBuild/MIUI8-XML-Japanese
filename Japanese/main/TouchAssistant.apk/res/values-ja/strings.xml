@@ -39,9 +39,9 @@
   <string name="nfc_trans_card_not_in_use">"Transport card isn't activated"</string>
   <string name="not_working">%s (Not working)</string>
   <string name="open_panel">"Quick ballを開く"</string>
-  <string name="pay_entry_dialog_title_select">Select app to open</string>
-  <string name="pay_entry_dialog_title_setting">Set app</string>
-  <string name="pref_category_mipay">NFC shortcuts</string>
+  <string name="pay_entry_dialog_title_select">"開くアプリを選択"</string>
+  <string name="pay_entry_dialog_title_setting">"アプリを設定"</string>
+  <string name="pref_category_mipay">"NFCショートカット"</string>
   <string name="pref_category_others">"その他"</string>
   <string name="pref_category_quick_pay">Quick pay</string>
   <string name="pref_category_quick_settings">"クイック設定"</string>

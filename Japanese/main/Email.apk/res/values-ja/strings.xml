@@ -209,7 +209,7 @@
   <string name="body_inline_pic_text">[Picture]</string>
   <string name="bottom_bar_more_quickreply">"クイック返信"</string>
   <string name="bottom_bar_more_share">"共有"</string>
-  <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
+  <string name="bottom_bar_no_quickreply_toast">"クイック返信なし"</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">"リマインダー"</string>
   <string name="calendar_remind_gridview_pick_date">"日付を選択"</string>
@@ -350,8 +350,8 @@
   <string name="download_cancel_confirm_title">Download this attachment?</string>
   <string name="download_complete_not_cancel">Download finished</string>
   <string name="download_confirm_message">Download %1$s attachments?</string>
-  <string name="download_confirm_title">Download attachment</string>
-  <string name="download_message_failed_for_too_large">Message is too big to download.</string>
+  <string name="download_confirm_title">"添付ファイルをダウンロード"</string>
+  <string name="download_message_failed_for_too_large">"メッセージが大きすぎてダウンロードできません。"</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_contacts">"連絡先"</string>
@@ -362,12 +362,10 @@
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Mail</string>
-  <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_setting">Mail</string>
   <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"アカウントが見つかりませんでした"</string>
   <string name="empty_email_tip">"空のメールは送信できません"</string>
   <string name="empty_spam">Empty Spam</string>
@@ -484,8 +482,6 @@
   <string name="info_switch_title">Promotion</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
   <string name="input_password_prompt">"パスワードを入力してください"</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">The address %s is invalid.</string>
   <string name="invalid_recipient_title">Recipient Error</string>
   <string name="kilobytes">%s KB</string>
@@ -642,8 +638,8 @@
   <string name="notification_action_archive">Archive</string>
   <string name="notification_action_delete">Delete</string>
   <string name="notification_action_remove_label">Remove tag</string>
-  <string name="notification_action_reply">Reply</string>
-  <string name="notification_action_reply_all">Reply all</string>
+  <string name="notification_action_reply">"返信"</string>
+  <string name="notification_action_reply_all">"全員に返信"</string>
   <string name="notification_action_undo_archive">Archived</string>
   <string name="notification_action_undo_delete">Deleted</string>
   <string name="notification_action_undo_remove_label">Tag removed</string>
@@ -821,9 +817,9 @@
   <string name="remove_account">"アカウントを削除"</string>
   <string name="remove_folder">"%1$sから削除"</string>
   <string name="remove_star">Unstar</string>
-  <string name="reply">Reply</string>
+  <string name="reply">"返信"</string>
   <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
-  <string name="reply_all">Reply all</string>
+  <string name="reply_all">"全員に返信"</string>
   <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
   <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">"フィッシングを報告"</string>
@@ -916,7 +912,6 @@
   <string name="str_select_none">"すべて選択を解除"</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">"件名"</string>
-  <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_error">"同期できませんでした。"</string>
   <string name="sync_error_message">"お使いのデバイスには同期をするための十分な空き領域がありません。"</string>
   <string name="system_account_create_failed">"アカウントを作成できませんでした。もう一度お試しください。"</string>
@@ -988,7 +983,6 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
   <string name="widget_all_mail">"すべてのメール"</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">"その他"</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wipe_account_fail_description">"許可"</string>
   <string name="wipe_account_fail_title">"個人情報を削除できませんでした"</string>
   <string name="wrong_password">"入力したパスワードが正しくありません"</string>
