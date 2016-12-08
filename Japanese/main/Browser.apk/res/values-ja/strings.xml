@@ -484,8 +484,8 @@ Pages you view won't appear in history."</string>
   <string name="paused_waiting_to_retry">Waiting to retry…</string>
   <string name="pay_failed_toast">"Couldn't complete payment"</string>
   <string name="pay_success_toast">Paid successfully</string>
-  <string name="permission_alert_window">"この機能を使用するには、システムオプションのディスプレイポップアップウインドウを開いてください。"</string>
-  <string name="permission_unknown">"不明なオプション"</string>
+  <string name="permission_alert_window">"この機能を使用するにはポップアップウインドウを許可してください。"</string>
+  <string name="permission_unknown">"不明なアクション"</string>
   <string name="popup_window_attempt">"このサイトにポップアップウィンドウを開くことを許可しますか？"</string>
   <string name="positive_confirm_message">Turn off anyway</string>
   <string name="pref_accessibility">"ユーザー補助"</string>

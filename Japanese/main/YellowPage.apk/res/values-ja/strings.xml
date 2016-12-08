@@ -114,6 +114,7 @@
   <string name="express_inquiry_delete_warning_multiple">Delete %d entries?</string>
   <string name="express_inquiry_delete_warning_single">Delete this entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
+  <string name="express_inquiry_detail">Express detail</string>
   <string name="express_inquiry_edit_logistics">Courier</string>
   <string name="express_inquiry_history">履歴</string>
   <string name="express_inquiry_history_remark">Comments</string>
@@ -187,6 +188,7 @@
   <string name="express_shortcut_name">Query or send express</string>
   <string name="express_show_all_inquiry_history">すべての問い合わせ履歴を表示</string>
   <string name="express_submit_order">Submit</string>
+  <string name="express_tail_number">尾号</string>
   <string name="express_track_order">Track</string>
   <string name="express_tracking_number">追跡番号</string>
   <string name="express_urge_order">Ping</string>

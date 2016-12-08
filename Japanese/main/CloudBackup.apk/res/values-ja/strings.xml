@@ -22,6 +22,8 @@
   <string name="button_cancel">キャンセル</string>
   <string name="button_delete">削除</string>
   <string name="button_next">次へ</string>
+  <string name="can_not_backup_in_lite_mode">"Can't back up in Lite mode"</string>
+  <string name="can_not_restore_in_lite_mode">"Can't restore in Lite mode"</string>
   <string name="cancel_recover_settings">&lt;u&gt;キャンセル&lt;/u&gt;</string>
   <string name="click_try_to_restore_again">"タップして再試行"</string>
   <string name="cloud_app_backup_success">"アプリのバックアップが完了しました"</string>
@@ -97,8 +99,6 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="open_wifi_description">Wi-Fiネットワークに接続してアプリを復元する</string>
   <string name="open_wifi_setting">Wi-Fi設定</string>
   <string name="process_whole_recovery">復元中 \"%s\"</string>
-  <string name="provision_arrow_back">&lt;</string>
-  <string name="provision_arrow_next">&gt;</string>
   <string name="query_restore_back_view">Mi Cloud backup</string>
   <string name="query_restore_description">Restore Home screen apps and settings using this backup. This will overwrite app data for duplicate apps already installed on this device. Apps not included in the backup will be moved to the last Home screen.</string>
   <string name="query_restore_summary">Found a Mi Cloud backup for this device. Restore Home screen apps and settings or use it as a new device and erase previous Mi Cloud backups?</string>

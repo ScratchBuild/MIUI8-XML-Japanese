@@ -154,6 +154,7 @@
   <string name="invalid_contact_shortcut">"無効な連絡先"</string>
   <string name="is_setting_wallpaper_message">"壁紙を設定中…"</string>
   <string name="is_system_wallpaper_message">"システムリソースは削除できません"</string>
+  <string name="launcher_not_exist">Home is stopped, please return home and try again.</string>
   <string name="like">Favorite</string>
   <string name="liked">Favorited</string>
   <string name="loading_desktop">"読み込み中…"</string>
@@ -244,7 +245,7 @@
   <string name="status_pending">"待機中"</string>
   <string name="title_select_live_folder">"フォルダを選択"</string>
   <string name="title_select_shortcut">"ショートカットを選択"</string>
-  <string name="toast_screen_icons_misplaced">Restored from other database，some icons may be misplaced</string>
+  <string name="toast_screen_icons_misplaced">Restored from other source, some icons may be misplaced</string>
   <string name="toggle_select_title">Choose toggle</string>
   <string name="toggle_title">Toggles</string>
   <string name="transformation_type_classic">Overslide</string>

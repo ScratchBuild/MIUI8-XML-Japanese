@@ -25,6 +25,8 @@
   <string name="activity_weathermain_locationg_error">"現在地を取得できません"</string>
   <string name="add_city">"追加"</string>
   <string name="alert_warning">Alert Warning</string>
+  <string name="already_voted">Has Voted</string>
+  <string name="already_voted_toast">You have already selected today</string>
   <string name="app_name">"天気"</string>
   <string name="aqi_data_source">Powered by Caiyun Weather</string>
   <string name="aqi_desc">Air Quality Index</string>
@@ -52,6 +54,7 @@
   <string name="button_exit">"終了"</string>
   <string name="button_not_allow">"キャンセル"</string>
   <string name="button_sure_abandon">"変更を破棄しますか？"</string>
+  <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">"読み込み中..."</string>
@@ -65,12 +68,13 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
   <string name="daily_forcast_whirl_wind">"つむじ風"</string>
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+  <string name="daily_forecast_detail">Forecast detail</string>
   <string name="daily_forecast_detail_date">M/d</string>
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ssz"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">"アラートの管理"</string>
-  <string name="edit_city">"編集"</string>
+  <string name="edit_city">"都市を編集"</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">"このアプリが正常に動作するには、インターネット接続と位置情報へのアクセスが必要です。"</string>
   <string name="first_start_network_title">"インターネット接続と位置情報アクセス"</string>
@@ -123,6 +127,8 @@
   <string name="network_unavailable">"ネットワークに接続できませんでした。"</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">"再試行"</string>
+  <string name="no_vote_num">%1$speople | </string>
+  <string name="no_vote_ratio">cons %1$s%%</string>
   <string name="open">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
   <string name="pressure_connect">%1$s hPa</string>
@@ -157,6 +163,7 @@
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
+  <string name="total_voted_num_text">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; people has voted"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">"明後日: %1$s"</string>
   <string name="traffic_control_today_numbers">"今日: %1$s"</string>
   <string name="traffic_control_tomorrow_numbers">"明日: %1$s"</string>
@@ -170,4 +177,6 @@
   <string name="weather_alert">"天気予報のアラート"</string>
   <string name="wind_miles_unit">%1$smph</string>
   <string name="wind_unit">%1$skm/h</string>
+  <string name="yes_vote_num"> | %1$speople</string>
+  <string name="yes_vote_ratio">pros %1$s%%</string>
 </resources>

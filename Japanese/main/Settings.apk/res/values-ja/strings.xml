@@ -456,6 +456,16 @@
   <string name="bind_xiaomi_account_dialog_summery">Mi Account %s を追加しようとしています。パスワードを忘れた場合、それをリセットするにはこのアカウントを使用することができます。</string>
   <string name="bind_xiaomi_account_success">Mi Accountが正常に追加されました</string>
   <string name="binded_xiaomi_summary">現在のアカウント: %s</string>
+  <string name="block_list_connected_devices">Connected devices</string>
+  <string name="block_list_diaglog_cancle">Cancel</string>
+  <string name="block_list_diaglog_ok">OK</string>
+  <string name="block_list_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
+  <string name="block_list_dialog_title">Disconnect now?</string>
+  <string name="block_list_no_device">No connected devices in blocklist</string>
+  <string name="block_list_remove_dialog_content">This device “%s” will be able to connect to this hotspot</string>
+  <string name="block_list_remove_dialog_title">Remove “%s” from blocklist</string>
+  <string name="block_list_summary">View devices which arent allowed to connect to this hotspot</string>
+  <string name="block_list_title">Blocklist</string>
   <string name="ble_scan_notify_text">位置情報の精度を向上させるため、BluetoothがOFFの場合でもシステムのアプリやサービスはBluetoothデバイスを検出できます。この設定は、LINK_BEGINスキャンの設定LINK_ENDで変更できます。</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
@@ -1745,8 +1755,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="launch_by_default">既定で開く</string>
   <string name="launch_defaults_none">既定の設定なし</string>
   <string name="launch_defaults_some">一部デフォルトを設定</string>
-  <string name="launcher_auto_fill_empty_title">空のセルを自動で埋める</string>
-  <string name="launcher_title">Launcher</string>
+  <string name="launcher_auto_fill_empty_title">空のセルを埋める</string>
+  <string name="launcher_title">Home screen</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -3576,7 +3586,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_app_enable_floating">フローティング通知</string>
   <string name="status_bar_app_enable_keyguard">ロック画面</string>
   <string name="status_bar_app_enable_message">バッジ</string>
-  <string name="status_bar_key_position_custom">カスタマイズしたボタンの配置</string>
+  <string name="status_bar_key_position_custom">ボタンの配置を変更</string>
   <string name="status_bar_screen_button_desc">画面ボタンを下にスワイプで非表示にする</string>
   <string name="status_bar_screen_button_key">画面ボタン</string>
   <string name="status_bar_screen_button_key_can_hide">画面ボタンは非表示にできます</string>
@@ -3848,6 +3858,7 @@ PINが正しくない可能性があります。"</string>
   <string name="testing_wifi_info">Wi-Fiネットワーク情報</string>
   <string name="tether_and_hotspot_title">テザリングとホットスポット</string>
   <string name="tether_devices_management_title">デバイスの管理</string>
+  <string name="tether_devices_max_number">Limit of connected devices</string>
   <string name="tether_settings_disabled">パーソナルホットスポットはオフです</string>
   <string name="tether_settings_title_all">テザリングとポータブルアクセスポイント</string>
   <string name="tether_settings_title_bluetooth">Bluetoothテザリング</string>
@@ -4135,7 +4146,7 @@ PINが正しくない可能性があります。"</string>
   <string name="user_dict_settings_context_menu_edit_title">編集</string>
   <string name="user_dict_settings_edit_dialog_title">語句の編集</string>
   <string name="user_dict_settings_empty_text">"単語リストに登録がありません。
-追加ボタン[＋]をタップすると単語を追加できます。"</string>
+単語を追加するには[＋]をタップ。"</string>
   <string name="user_dict_settings_more_languages">その他の言語...</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">単語リスト</string>

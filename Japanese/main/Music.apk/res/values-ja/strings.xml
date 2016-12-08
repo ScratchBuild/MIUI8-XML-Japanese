@@ -26,7 +26,7 @@
   <string name="ad_mark">AD</string>
   <string name="add_music">"曲を追加"</string>
   <string name="add_to_last_of_playlist">Add to the end of playlist</string>
-  <string name="alaka_required">"This song isn't available."</string>
+  <string name="alaka_required">You should pay for this song to listen to it</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
   <string name="all_artist">"すべてのアーティスト"</string>
