@@ -778,15 +778,15 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>手動で接続する</item>
     </string-array>
     <string-array name="preferred_app_entries">
-        <item>Launcher</item>
-        <item>Dial</item>
-        <item>Messaging</item>
-        <item>Browser</item>
-        <item>Camera</item>
-        <item>Gallery</item>
-        <item>Music</item>
-        <item>Email</item>
-        <item>Play video</item>
+        <item>ランチャー</item>
+        <item>ダイヤル</item>
+        <item>メッセージ</item>
+        <item>ブラウザ</item>
+        <item>カメラ</item>
+        <item>ギャラリー</item>
+        <item>音楽</item>
+        <item>メール</item>
+        <item>動画を再生</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>トラフィックが多いためネットワーク速度が遅くなっています</item>

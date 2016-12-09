@@ -133,7 +133,7 @@
   <string name="incall_call_type_label_sip">"SIP通話"</string>
   <string name="incall_error_supp_service_conference">"グループ通話できません。"</string>
   <string name="incall_error_supp_service_hangup">"通話を解放できません。"</string>
-  <string name="incall_error_supp_service_hold">"Can't hold calls."</string>
+  <string name="incall_error_supp_service_hold">"通話を保留できません。"</string>
   <string name="incall_error_supp_service_reject">"着信を拒否できません。"</string>
   <string name="incall_error_supp_service_separate">"通話を分割できません。"</string>
   <string name="incall_error_supp_service_switch">"通話を切り替えられません。"</string>

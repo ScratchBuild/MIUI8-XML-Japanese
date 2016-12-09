@@ -16,8 +16,7 @@
   <string name="accelerometer_title">画面の自動回転</string>
   <string name="access_control_app_entry_multiple">%sを開く</string>
   <string name="access_control_app_entry_single">アプリを開く</string>
-  <string name="access_control_need_password">%sは保護されています
-</string>
+  <string name="access_control_need_password">%sは保護されています</string>
   <string name="access_control_need_to_unlock">パスワードが必要です:</string>
   <string name="access_control_no_back_footer">[icon]をタッチして終了</string>
   <string name="access_control_password_title">パスワード</string>
@@ -115,7 +114,7 @@
   <string name="add_fingerprint_put_finger_msg">指をセンサーに当て、振動したら離します。</string>
   <string name="add_fingerprint_put_finger_title">指紋の追加</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">少し指を移動し、指紋のさまざまな部分を追加するため、何度かセンサーの上に置きます。</string>
-  <string name="add_fingerprint_success_msg">Added successfully</string>
+  <string name="add_fingerprint_success_msg">正常に追加されました</string>
   <string name="add_fingerprint_text">指紋認証を追加</string>
   <string name="add_fingerprint_toast_text">指をセンサーに当ててください。</string>
   <string name="adding_profile_owner_warning">"次に進むと、ユーザーは管理者の管理対象となり、管理者は個人情報に加えて関連データも保存できるようになります。
@@ -456,11 +455,11 @@
   <string name="bind_xiaomi_account_dialog_summery">Mi Account %s を追加しようとしています。パスワードを忘れた場合、それをリセットするにはこのアカウントを使用することができます。</string>
   <string name="bind_xiaomi_account_success">Mi Accountが正常に追加されました</string>
   <string name="binded_xiaomi_summary">現在のアカウント: %s</string>
-  <string name="block_list_connected_devices">Connected devices</string>
-  <string name="block_list_diaglog_cancle">Cancel</string>
+  <string name="block_list_connected_devices">接続済みデバイス</string>
+  <string name="block_list_diaglog_cancle">キャンセル</string>
   <string name="block_list_diaglog_ok">OK</string>
   <string name="block_list_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
-  <string name="block_list_dialog_title">Disconnect now?</string>
+  <string name="block_list_dialog_title">今すぐ切断しますか？</string>
   <string name="block_list_no_device">No connected devices in blocklist</string>
   <string name="block_list_remove_dialog_content">This device “%s” will be able to connect to this hotspot</string>
   <string name="block_list_remove_dialog_title">Remove “%s” from blocklist</string>
@@ -818,7 +817,7 @@
   <string name="clear_failed_dlg_text">アプリのデータを消去できませんでした。</string>
   <string name="clear_failed_dlg_title">データのクリア</string>
   <string name="clear_user_data_text">データを消去</string>
-  <string name="close_gesture">Close using gesture</string>
+  <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにします</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
   <string name="cmcc_hardware_version">ハードウェアバージョン</string>
@@ -1420,7 +1419,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_list_title">指紋認証</string>
   <string name="fingerprint_lock_first">First spaceのロックを解除</string>
   <string name="fingerprint_lock_second">Second spaceのロックを解除</string>
-  <string name="fingerprint_manage">Manage fingerprints</string>
+  <string name="fingerprint_manage">指紋の管理</string>
   <string name="fingerprint_manage_category_title">指紋の管理</string>
   <string name="fingerprint_not_identified_msg">指紋を読み取れませんでした、パスワードを入力してください</string>
   <string name="fingerprint_not_recognized">認識されませんでした</string>
@@ -1663,7 +1662,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="intent_sender_account_label">アカウント:</string>
   <string name="intent_sender_action_label">Action:</string>
   <string name="intent_sender_data_label">データ:</string>
-  <string name="intent_sender_resource_label">Resource:</string>qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+  <string name="intent_sender_resource_label">Resource:</string>
   <string name="intent_sender_sendbroadcast_text">ブロードキャストを送信</string>
   <string name="intent_sender_startactivity_text">アクティビティを開始</string>
   <string name="internal_format">内部ストレージの消去</string>
@@ -1978,7 +1977,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="man_add_application">自動スタートアプリを追加</string>
   <string name="manage_device_admin">端末管理者</string>
   <string name="manage_device_admin_summary">端末管理者を表示または無効にする</string>
-  <string name="manage_fingerprint_text">Manage fingerprints</string>
+  <string name="manage_fingerprint_text">指紋の管理</string>
   <string name="manage_mobile_plan_title">モバイルプラン</string>
   <string name="manage_notification_access_summary_zero">アプリは通知を読み取ることができません</string>
   <string name="manage_notification_access_title">通知へのアクセス</string>
@@ -2246,7 +2245,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="new_password_to_new_fingerprint_dialog_msg">Add your fingerprint to unlock your device with it.</string>
   <string name="new_password_to_new_fingerprint_dialog_negative_msg">キャンセル</string>
   <string name="new_password_to_new_fingerprint_dialog_positive_msg">追加</string>
-  <string name="new_password_to_new_fingerprint_dialog_tittle">Add fingerprint</string>
+  <string name="new_password_to_new_fingerprint_dialog_tittle">指紋の追加</string>
   <string name="next_button_label">次へ</string>
   <string name="next_label">次へ</string>
   <string name="nfc_category_title">NFC</string>
@@ -2298,7 +2297,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_updates_warning">お使いのシステムは最新です</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">周辺ノイズの低減</string>
-  <string name="normal_smartcover_title">Opaque front cover</string>
+  <string name="normal_smartcover_title">不透明なフロントカバー</string>
   <string name="not_installed">未インストール</string>
   <string name="notes_privacy_password_role_instruction">プライベートなノートはここに保存されます。</string>
   <string name="notification_app_settings_button">通知設定</string>
@@ -3957,12 +3956,12 @@ PINが正しくない可能性があります。"</string>
   <string name="tts_status_requires_network">%1$sではネットワーク接続が必要です</string>
   <string name="tts_status_title">デフォルトの言語のステータス</string>
   <string name="turn_off_common_password_confirm_msg">画面ロックも同様にオフになります</string>
-  <string name="turn_off_keyguard_password_alert_title">Turn off</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Turn off Lock screen password?</string>
+  <string name="turn_off_keyguard_password_alert_title">オフにする</string>
+  <string name="turn_off_keyguard_password_confirm_msg">ロック画面のパスワードをオフにしますか？</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"You won't be able to unlock the device with your fingerprint after turning Lock screen password off"</string>
   <string name="turn_off_radio">無線通信をOFF</string>
   <string name="turn_off_security_lock">ロックをOFF</string>
-  <string name="turn_on_keyguard_password">Turn on Lock screen password</string>
+  <string name="turn_on_keyguard_password">ロック画面のパスワードをオンにする</string>
   <string name="turn_on_radio">無線通信をON</string>
   <string name="turn_on_security_lock">画面ロックを選択</string>
   <string name="under_keyguard">画面オフ</string>
