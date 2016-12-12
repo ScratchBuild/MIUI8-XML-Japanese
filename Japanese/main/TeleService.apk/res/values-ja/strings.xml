@@ -30,8 +30,8 @@
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">はい</string>
   <string name="alertdialogtitle">結果</string>
-  <string name="allContactdeleteFailed">"Couldn't delete all contacts from SIM"</string>
-  <string name="allContactdeleteSuccess">Succesfully deleted all contacts from SIM</string>
+  <string name="allContactdeleteFailed">SIMカードからすべての連絡先を削除できませんでした</string>
+  <string name="allContactdeleteSuccess">SIMカードからすべての連絡先を削除しました</string>
   <string name="all_day">"終日"</string>
   <string name="always_enable_mms">"常にMMSを受信"</string>
   <string name="always_enable_mms_summary">"モバイルデータがオフでもMMSを受信します"</string>

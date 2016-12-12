@@ -17,7 +17,7 @@
   <string name="bugreport_tool_log">"バグレポートを作成"</string>
   <string name="bugreport_tool_log_toast">"ログを%sに保存しました"</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">"バグレポートを作成中 (数分かかります)"</string>
-  <string name="close_feedback_main">Hide</string>
+  <string name="close_feedback_main">"隠す"</string>
   <string name="cta_cancel">"キャンセル"</string>
   <string name="cta_confirm">OK</string>
   <string name="cta_dialog_content">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
@@ -70,7 +70,7 @@
   <string name="feedback_phone_model_label">Phone model</string>
   <string name="feedback_probability_label">Probability</string>
   <string name="feedback_remind_login_btn">"ログイン"</string>
-  <string name="feedback_report_remind_login_desc">Sign in with your Mi Account so that our engineers could contact you.</string>
+  <string name="feedback_report_remind_login_desc">"エンジニアがあなたに連絡できるよう、お使いのMi Accountにログインしてください。"</string>
   <string name="feedback_report_remind_login_desc2">"You can also view your report's progress in \"My reports\"."</string>
   <string name="feedback_retest_label">"再現手順"</string>
   <string name="feedback_select_images">"画像を追加"</string>
@@ -78,7 +78,7 @@
   <string name="feedback_select_suggestion">Suggestions</string>
   <string name="feedback_select_upload_log">"ログを追加"</string>
   <string name="feedback_status_answered">"回答済み"</string>
-  <string name="feedback_status_change_notification_title">"Your report's progress was updated"</string>
+  <string name="feedback_status_change_notification_title">"レポートの進捗状況が更新されました"</string>
   <string name="feedback_status_commit_failed_title">"レポートを送信できませんでした"</string>
   <string name="feedback_status_commit_succ_title">"送信されました"</string>
   <string name="feedback_status_commit_uploading_title">"送信中…"</string>
@@ -128,7 +128,7 @@
   <string name="michat_check_network">"ネットワーク設定を確認してください"</string>
   <string name="michat_close_text">"チャットが終了しました"</string>
   <string name="michat_comment_net_error">"ネットワークに接続できませんでした、後ほど再試行してください"</string>
-  <string name="michat_comment_submit">Rate and go back</string>
+  <string name="michat_comment_submit">"評価して戻る"</string>
   <string name="michat_comment_thx">Thank you for your feedback!</string>
   <string name="michat_customer_join">"チャットに参加"</string>
   <string name="michat_customer_quit">Support personnel left the chat</string>
@@ -169,7 +169,7 @@
   <string name="michat_queue_pos_update">There are %1$d people in front of you, wait a moment…</string>
   <string name="michat_return_to_outside">"終了"</string>
   <string name="michat_service_unavailiable">"情報を取得できませんでした、後ほど再試行してください"</string>
-  <string name="michat_skillset_business_type_title">Select service</string>
+  <string name="michat_skillset_business_type_title">"サービスを選択"</string>
   <string name="michat_skillset_product_title">Select product</string>
   <string name="michat_transfer_message">Looking for a person to help you…</string>
   <string name="michat_try_again">"再試行"</string>
@@ -188,7 +188,7 @@
   <string name="module_data">Storage &amp; Dual apps</string>
   <string name="module_desktop">Home screen &amp; settings</string>
   <string name="module_finance">Finance &amp; Mi Wallet</string>
-  <string name="module_item_less">Hide</string>
+  <string name="module_item_less">"隠す"</string>
   <string name="module_item_more">More</string>
   <string name="module_medias">Media</string>
   <string name="module_more">More</string>

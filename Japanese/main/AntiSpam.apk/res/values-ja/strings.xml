@@ -2,7 +2,7 @@
 <resources>
   <string name="ACaddnumcontent">Enter area code</string>
   <string name="ACaddnumtitle">Add phone number prefix to exceptions</string>
-  <string name="AD_ALLOW">Allow ads</string>
+  <string name="AD_ALLOW">"広告を許可する"</string>
   <string name="AD_APPInfo">App info</string>
   <string name="AD_AntiSpam">Ad blocker</string>
   <string name="AD_BLOCK">Ad blocker</string>
@@ -16,13 +16,13 @@
   <string name="AD_SCAN_BUTTON">"スキャン"</string>
   <string name="AD_TITLE_COUNT">%d apps contains adware</string>
   <string name="AD_TITLE_NON_COUNT">No adware detected</string>
-  <string name="AD_Unistall">Uninstall</string>
+  <string name="AD_Unistall">"アンインストール"</string>
   <string name="Call_ADRESS">Locale blocklist</string>
   <string name="Call_BLACKLIST">Call blocklist</string>
   <string name="Call_DEFAULT">Smart blocklist</string>
   <string name="Call_PREFIX">Prefix blocklist</string>
   <string name="Call_PRIVATE_CALL">Private calls</string>
-  <string name="MALICIOUS_URL">Malicious URL</string>
+  <string name="MALICIOUS_URL">"悪意のあるURL"</string>
   <string name="NACaddnumcontent">"電話番号を入力"</string>
   <string name="NACaddnumtitle">"電話番号を例外に追加"</string>
   <string name="PAST_BLOCK">Previously blocked</string>
@@ -40,7 +40,7 @@
   <string name="ad_install_monitor">Inspect apps for adware</string>
   <string name="ad_install_monitor_hint">Check for adware when installing apps</string>
   <string name="ad_permission_hint">"Using Ad blocker may affect your apps' performance or prevent them from working normally."</string>
-  <string name="ad_relative_setting">Related settings</string>
+  <string name="ad_relative_setting">"関連する設定"</string>
   <string name="ad_single_block_hint">Blocked</string>
   <string name="ad_update_setting">"更新"</string>
   <string name="ad_update_time">"最終更新: %s"</string>
@@ -75,7 +75,7 @@
   <string name="call_transfer_info">Block calls forwarded from unknown numbers</string>
   <string name="cancle">"キャンセル"</string>
   <string name="close_callwait">Off</string>
-  <string name="customizer_mode_user_define_name">My rules</string>
+  <string name="customizer_mode_user_define_name">"マイルール"</string>
   <string name="dlg_add_blacklist">"この番号をブロックしますか？"</string>
   <string name="dlg_add_blacklist_title">"ブロックリストに追加"</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s and %2$s other contacts are already on your exceptions list.</string>
@@ -115,7 +115,7 @@
   <string name="dlg_remove_whitelist_content">Remove these numbers from exceptions?</string>
   <string name="dlg_remove_whitelist_ing">"削除中…"</string>
   <string name="dlg_remove_whitelist_title">"削除"</string>
-  <string name="dlg_retore">Restore message to inbox?</string>
+  <string name="dlg_retore">"メッセージを受信トレイに復元しますか？"</string>
   <string name="dlg_retore_ok">"復元"</string>
   <string name="dlg_title_not_open_stranger_identify">Identify Strangers</string>
   <string name="dlg_white_address_antispam_message">Add this location to exceptions?</string>
@@ -126,7 +126,7 @@
   <string name="fw_blocked">"ブロックリスト"</string>
   <string name="fw_blocked_count">"Blocked "</string>
   <string name="fw_blocked_join">" と "</string>
-  <string name="hint_antispam_mode_edit">Custom mode</string>
+  <string name="hint_antispam_mode_edit">"カスタムモード"</string>
   <string name="im">IM</string>
   <string name="info_antispam_close">AntiSpam Off</string>
   <string name="info_antispam_current_mode">%s</string>
@@ -137,7 +137,7 @@
   <string name="info_unantispam_phone_sms">Allow calls and SMS</string>
   <string name="info_unantispam_sms">Allow SMS</string>
   <string name="label_callwait">Call waiting notification</string>
-  <string name="loding">Loading data</string>
+  <string name="loding">"データを読み込み中"</string>
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Block reported agencies</string>
   <string name="mark_agent_block">Reported as agency</string>
@@ -177,8 +177,8 @@
   <string name="menu_add">"追加"</string>
   <string name="menu_add_into_contact">Add to existing contact</string>
   <string name="menu_add_new_contact">New contact</string>
-  <string name="menu_bl_add_contact">Contacts</string>
-  <string name="menu_bl_add_manual">Add</string>
+  <string name="menu_bl_add_contact">"連絡先"</string>
+  <string name="menu_bl_add_manual">"追加"</string>
   <string name="menu_bl_call_log">View blocked calls</string>
   <string name="menu_bl_clear">"ブロックリストを消去"</string>
   <string name="menu_bl_remove">Unblock</string>
@@ -193,9 +193,9 @@
   <string name="menu_no_block">Unblock</string>
   <string name="menu_remove">"削除"</string>
   <string name="menu_report_block">Spam</string>
-  <string name="menu_restore">Restore to inbox</string>
-  <string name="menu_sms">Send message</string>
-  <string name="menu_wh_remove">Remove from exceptions</string>
+  <string name="menu_restore">"受信トレイに復元"</string>
+  <string name="menu_sms">"メッセージを送信"</string>
+  <string name="menu_wh_remove">"例外から削除"</string>
   <string name="name">"名前"</string>
   <string name="nickname">"ニックネーム"</string>
   <string name="note">"ノート"</string>
@@ -275,11 +275,11 @@
   <string name="st_block_mute">Block calls and silence messages</string>
   <string name="st_block_private_call_button">Block private numbers</string>
   <string name="st_block_setting_group">"ブロックリストの設定"</string>
-  <string name="st_block_setting_title">Calls and messages</string>
+  <string name="st_block_setting_title">"通話とメッセージ"</string>
   <string name="st_block_title">Divert to blocked log</string>
   <string name="st_block_unknown_call">Block unknown callers</string>
   <string name="st_block_unknown_sms">Block unknown messages</string>
-  <string name="st_call_group">Calls</string>
+  <string name="st_call_group">"通話"</string>
   <string name="st_common_setting_group">Filter settings</string>
   <string name="st_filter_keywords_setting_summary1">Messages from unknown numbers that contain the words in this list will be blocked.</string>
   <string name="st_filter_keywords_setting_summary2">"
@@ -301,7 +301,7 @@
   <string name="st_show_block_notification">Show blocked notification</string>
   <string name="st_show_num_keyword">" keywords"</string>
   <string name="st_show_num_number">" numbers"</string>
-  <string name="st_sms_group">Messages</string>
+  <string name="st_sms_group">"メッセージ"</string>
   <string name="st_sub_title_customize_mode_name">"名前"</string>
   <string name="st_sub_title_whiteblack_list_group">"ブロックリスト"</string>
   <string name="st_sum_call_wait">Your away message will also be played as a busy signal for incoming calls.</string>
@@ -351,7 +351,7 @@
   <string name="tab_blacklist">"ブロックリスト"</string>
   <string name="tab_block_log">Block log</string>
   <string name="tab_block_log_unKnowNumber">Private number</string>
-  <string name="tab_call">Calls</string>
+  <string name="tab_call">"通話"</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">"ブロックリスト"</string>
   <string name="toast_keyword_blank">"キーワードを入力してください"</string>

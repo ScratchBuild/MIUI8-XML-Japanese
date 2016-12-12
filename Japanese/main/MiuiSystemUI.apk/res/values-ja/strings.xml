@@ -57,7 +57,7 @@
   <string name="audio_effect_custom">設定</string>
   <string name="audio_effect_info">オーディオの最適化</string>
   <string name="audio_effect_settings">ヘッドフォンタイプを選択してください</string>
-  <string name="available_via_passpoint">Available via %1$s</string>
+  <string name="available_via_passpoint">%1$s経由で使用可能</string>
   <string name="battery_low_percent_format">残り %d%%</string>
   <string name="battery_low_title">充電をしてください</string>
   <string name="battery_profiles">バッテリープロファイルを使用する</string>
@@ -111,7 +111,7 @@
   <string name="bluetooth_profile_pbap_summary">連絡先の共有に使用</string>
   <string name="bluetooth_profile_sap">SIMアクセス</string>
   <string name="bluetooth_sap_profile_summary_connected">SIM Access Serverに接続済み</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Use for SIM access</string>
+  <string name="bluetooth_sap_profile_summary_use_for">SIMアクセスに使用</string> 
   <string name="bluetooth_tethered">Bluetoothテザリング中</string>
   <string name="call_status_dialing">"発信中"</string>
   <string name="call_status_ringing">"着信中"</string>
@@ -126,7 +126,6 @@
   <string name="camera_key_action_shortcut_title">ショートカット</string>
   <string name="camera_key_action_shortcut_wake">デバイスロック/起動</string>
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="chooseUsbActivity">USBデバイスのためのアプリを選択してください</string>
   <string name="connected_via_passpoint">"%1$s経由で接続しました"</string>
   <string name="connected_via_wfa">"Wi-Fiアシスタント経由で接続しました"</string>
@@ -268,7 +267,6 @@
   <string name="screenshot_saving_title">"スクリーンショットを保存しています…"</string>
   <string name="screenshot_send">"送る"</string>
   <string name="settings_custom_notification">通知管理</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_toggle_position">トグル管理</string>
   <string name="settings_toggle_position_divider_list">このバーより上のトグルがアクティブ</string>
   <string name="settings_toggle_position_divider_page">このバーより上の %1$d 個のトグルがアクティブ</string>
@@ -354,14 +352,14 @@ EEEE"</string>
   <string name="weather_description_no_aqi">%1$s ></string>
   <string name="weather_publish_time">%1$s 更新</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
-  <string name="wifi_disabled_generic">Disabled</string>
-  <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
-  <string name="wifi_disabled_password_failure">Authentication problem</string>
-  <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
-  <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
-  <string name="wifi_no_internet">"No Internet Access Detected, won't automatically reconnect."</string>
-  <string name="wifi_not_in_range">範囲外</string>
-  <string name="wifi_remembered">Saved</string>
+  <string name="wifi_disabled_generic">無効</string>
+  <string name="wifi_disabled_network_failure">IP設定エラー</string>
+  <string name="wifi_disabled_password_failure">認証に問題</string>
+  <string name="wifi_disabled_wifi_failure">Wi-Fi接続エラー</string>
+  <string name="wifi_fail_to_scan">ネットワークをスキャンできません</string>
+  <string name="wifi_no_internet">インターネットアクセスを検出できないため、自動的に再接続されません。</string>
+  <string name="wifi_not_in_range">圏外</string>
+  <string name="wifi_remembered">保存済み</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>
