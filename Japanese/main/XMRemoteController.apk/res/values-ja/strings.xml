@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">"ホームに移動"</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_home_description_format">%1$s、%2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s、%2$s、%3$s</string>
   <string name="abc_action_bar_up_description">"上に移動"</string>
   <string name="abc_action_menu_overflow_description">"その他のオプション"</string>
   <string name="abc_action_mode_done">"完了"</string>
-  <string name="abc_activity_chooser_view_see_all">"すべてを見る"</string>
+  <string name="abc_activity_chooser_view_see_all">"すべて表示"</string>
   <string name="abc_activitychooserview_choose_application">"アプリを選択"</string>
   <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
   <string name="abc_search_hint">"検索…"</string>
-  <string name="abc_searchview_description_clear">"履歴を消去"</string>
-  <string name="abc_searchview_description_query">Search query</string>
+  <string name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+  <string name="abc_searchview_description_query">"検索キーワード"</string>
   <string name="abc_searchview_description_search">"検索"</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
+  <string name="abc_searchview_description_submit">"検索キーワードを送信"</string>
   <string name="abc_searchview_description_voice">"音声検索"</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_shareactionprovider_share_with">"共有"</string>
+  <string name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+  <string name="abc_toolbar_collapse_description">"折りたたむ"</string>
   <string name="ac_gree">Gree AC</string>
   <string name="ac_mode_auto">Auto</string>
   <string name="ac_mode_cold">Cooling</string>
@@ -123,10 +123,10 @@
   <string name="by_position">By location</string>
   <string name="camera_shoot">"シャッター"</string>
   <string name="cancel">"キャンセル"</string>
-  <string name="cancel_select_all">Deselect</string>
-  <string name="cancel_share">Stop sharing</string>
-  <string name="cancel_share_done">Stopped sharing</string>
-  <string name="cancel_timer">Cancel timer</string>
+  <string name="cancel_select_all">"選択を解除"</string>
+  <string name="cancel_share">"共有を停止"</string>
+  <string name="cancel_share_done">"共有を停止しました"</string>
+  <string name="cancel_timer">"タイマーをキャンセル"</string>
   <string name="cannot_be_used_in_current_mode">"Can't use &lt;%1$s&gt; in the current mode"</string>
   <string name="carrier_data">Carrier info</string>
   <string name="change_to_channel">Switching [%1$s] %2$s</string>
@@ -185,7 +185,7 @@
   <string name="device_brand">"ブランド"</string>
   <string name="device_model">"モデル"</string>
   <string name="device_responsed">Device responded</string>
-  <string name="device_type">Type</string>
+  <string name="device_type">"タイプ"</string>
   <string name="diagnose">Test remote</string>
   <string name="diagnosis_intro">Test network for connectivity issues</string>
   <string name="dialog_install_assistant_content">Install Mi Screen cast to get the most out of your Mi TV or Mi Box</string>
@@ -269,7 +269,7 @@
   <string name="epg_status_playing_text">"再生中…"</string>
   <string name="epg_status_playing_text_v5">Live</string>
   <string name="epg_stb_malfunction">This set-top box remote control does not get the correct data, please re-add or select a different remote control</string>
-  <string name="epg_unbook_all">Cancel all</string>
+  <string name="epg_unbook_all">"すべてキャンセル"</string>
   <string name="epg_unbooked_str">Not scheduled</string>
   <string name="epg_user_my_booked_events">My booked events</string>
   <string name="epg_user_my_favorite_channel">Favorite channels</string>

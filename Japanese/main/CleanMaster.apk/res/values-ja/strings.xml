@@ -377,11 +377,11 @@
   <string name="phone_search">"Google検索"</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Clean automatically</string>
-  <string name="pref_category_title_auto_update_cleanup_db">Additional settings</string>
+  <string name="pref_category_title_auto_update_cleanup_db">"その他の設定"</string>
   <string name="pref_category_title_cleanup_white_list">Exceptions</string>
   <string name="pref_category_title_engine_settings">Scan definition settings</string>
   <string name="pref_category_title_garbage_cleanup_check">Notifications</string>
-  <string name="pref_category_title_other_clean_settings">Additional settings</string>
+  <string name="pref_category_title_other_clean_settings">"その他の設定"</string>
   <string name="pref_content_cleanup_white_list_none">None</string>
   <string name="pref_summary_auto_clean_and_alert">"クリーナーを自動的に実行するようスケジュールする"</string>
   <string name="pref_summary_auto_update_cleanup_db">"最終更新 %s"</string>

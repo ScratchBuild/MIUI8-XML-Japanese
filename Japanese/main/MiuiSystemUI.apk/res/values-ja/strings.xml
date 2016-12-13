@@ -164,7 +164,6 @@
   <string name="ext_media_safe_unmount_notification_title">SDカードの安全な取り出し</string>
   <string name="ext_media_unmountable_notification_message">SDカードが故障しています。再フォーマットを行ってください。</string>
   <string name="ext_media_unmountable_notification_title">故障したSDカード</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="float_incall_ignore">無視</string>
   <string name="float_incall_message">メッセージ</string>
   <string name="gps_notification_found_text">GPS測位完了</string>
@@ -224,7 +223,7 @@
   <string name="notification_otg_trackball_out">"トラックボールが切断されました"</string>
   <string name="notification_otg_unknow_in">OTGデバイスが接続されました</string>
   <string name="notification_otg_unknow_out">OTGデバイスが切断されました</string>
-  <string name="notification_template_text">" has a notification. Tap to view."</string>
+  <string name="notification_template_text">" 通知があります。表示するにはタップ。"</string>
   <string name="oldman_airplane_mode_text">機内モード</string>
   <string name="oldman_incall_text">着信</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
@@ -272,7 +271,6 @@
   <string name="settings_toggle_position_divider_page">このバーより上の %1$d 個のトグルがアクティブ</string>
   <string name="settings_toggle_position_reset">トグルをリセット</string>
   <string name="share">共有</string>
-  <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_clock_date_format">"M月d日 EEEE"</string>
   <string name="status_bar_date_format">"M月d日
 EEEE"</string>
@@ -351,7 +349,7 @@ EEEE"</string>
   <string name="vpn_title_long">%s でVPNに接続中です</string>
   <string name="weather_description_no_aqi">%1$s ></string>
   <string name="weather_publish_time">%1$s 更新</string>
-  <string name="wifi_connected_no_internet">Connected, no Internet</string>
+  <string name="wifi_connected_no_internet">接続先はインターネットに接続されていない</string>
   <string name="wifi_disabled_generic">無効</string>
   <string name="wifi_disabled_network_failure">IP設定エラー</string>
   <string name="wifi_disabled_password_failure">認証に問題</string>
@@ -363,7 +361,7 @@ EEEE"</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>
-  <string name="wifi_security_none">None</string>
+  <string name="wifi_security_none">なし</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>

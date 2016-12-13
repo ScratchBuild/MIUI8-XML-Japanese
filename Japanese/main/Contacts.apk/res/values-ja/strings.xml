@@ -189,8 +189,6 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_export_vcard_type">v30_generic</string>
-  <string name="config_import_vcard_type">既定</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"通話履歴を消去しますか？"</string>
   <string name="confirm_delete_selected_all_call_logs">"通話履歴を消去しますか？"</string>
@@ -226,7 +224,7 @@ Contact cards are turned off"</string>
   <string name="contact_detail_miprofile_save">"連絡先カードを取得するにはタップ"</string>
   <string name="contact_detail_miprofile_save_fail_toast">"連絡先カードを取得できませんでした"</string>
   <string name="contact_detail_miprofile_save_success_toast">"連絡先カードを受信しました"</string>
-  <string name="contact_detail_miprofile_settings_header">ADDITIONAL SETTINGS</string>
+  <string name="contact_detail_miprofile_settings_header">"その他の設定"</string>
   <string name="contact_detail_miprofile_subtitle">"既にカードを交換済みです"</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"ネットワークに接続できません"</string>
   <string name="contact_detail_profile_switch_fail_toast">Something went wrong with our server</string>
@@ -591,7 +589,7 @@ Contact cards are turned off"</string>
   <string name="local_search_label">"すべての連絡先"</string>
   <string name="locale_change_in_progress">"言語の変更に伴い連絡先リストを更新しています。"</string>
   <string name="login_ok">"ログイン"</string>
-  <string name="low_memory_toast">"Can't continue to use since storage is short."</string>
+  <string name="low_memory_toast">"ストレージが不足しているため、続行できません。"</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
   <string name="lunar_calendar">"太陰暦"</string>
   <string name="lunar_leap">闰</string>
@@ -618,7 +616,7 @@ Contact cards are turned off"</string>
   <string name="menu_bar_group_sms">SMS</string>
   <string name="menu_call">"連絡先に発信"</string>
   <string name="menu_callNumber">"%sに発信"</string>
-  <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
+  <string name="menu_call_ip_number">"IP通話で発信 (dial %s)"</string>
   <string name="menu_clear_frequents">よく使う項目を削除する</string>
   <string name="menu_contacts_filter">表示する連絡先</string>
   <string name="menu_copy">"コピー"</string>
@@ -626,7 +624,7 @@ Contact cards are turned off"</string>
   <string name="menu_create_contact_shortcut">"ホーム画面に配置"</string>
   <string name="menu_deleteContact">"削除"</string>
   <string name="menu_deleteGroup">"削除"</string>
-  <string name="menu_dial_ip_number">Dial IP call</string>
+  <string name="menu_dial_ip_number">"IP通話で発信"</string>
   <string name="menu_dialpad_text">"ダイヤルパッド"</string>
   <string name="menu_discard">"変更を破棄"</string>
   <string name="menu_display_all">"すべて表示"</string>
@@ -669,7 +667,7 @@ Contact cards are turned off"</string>
   <string name="miprofile_bind_account_alertdialog_message">"この機能を使用するには、あなたのMi Accountに端末の電話番号を追加する必要があります。"</string>
   <string name="miprofile_bind_account_alertdialog_positive">"番号を追加"</string>
   <string name="miprofile_bind_account_alertdialog_title">"電話番号を追加"</string>
-  <string name="miprofile_contact_add">Add</string>
+  <string name="miprofile_contact_add">"追加"</string>
   <string name="miprofile_contact_added">Added</string>
   <string name="miprofile_contact_header">Contacts with contact cards</string>
   <string name="miprofile_contact_meaasge">Local contacts</string>
@@ -831,7 +829,7 @@ To add a contact to your list of favorites:
   <string name="non_phone_caption">"電話番号"</string>
   <string name="non_phone_close">"閉じる"</string>
   <string name="none_paired">No devices are currently paired</string>
-  <string name="not_applied">"Couldn't apply"</string>
+  <string name="not_applied">"適用できませんでした"</string>
   <string name="notification_action_voicemail_play">"再生"</string>
   <string name="notification_new_voicemail_ticker">"%1$sからの新しいボイスメール"</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
@@ -846,8 +844,8 @@ To add a contact to your list of favorites:
   <string name="option_rename_group">"名前を変更"</string>
   <string name="option_send_to_desktop">"ホーム画面に設置"</string>
   <string name="option_send_to_others">Forward</string>
-  <string name="option_view_contact">View</string>
-  <string name="option_view_group">View</string>
+  <string name="option_view_contact">"表示"</string>
+  <string name="option_view_group">"表示"</string>
   <string name="organizationLabelsGroup">組織</string>
   <string name="organization_company_and_title">%1$s, %2$s</string>
   <string name="other_contacts">"その他の連絡先"</string>
@@ -876,7 +874,7 @@ To add a contact to your list of favorites:
   <string name="path_smart_group_title">システムアプリ/連絡先/Display preferences/Smart groups</string>
   <string name="path_wipe_data">システムアプリ/連絡先/Organize contacts/Clear data</string>
   <string name="payphone">公衆電話</string>
-  <string name="people">Contacts</string>
+  <string name="people">連絡先</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">"電話"</string>
@@ -934,7 +932,6 @@ To add a contact to your list of favorites:
   <string name="preference_contacts_display">Display preferences</string>
   <string name="preference_contacts_filter">Configure contact lists</string>
   <string name="preference_contacts_more">Organize contacts</string>
-  <string name="preference_dial_pad_touch_tone_default">Default</string>
   <string name="preference_dial_pad_touch_tone_human">Voice</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>
   <string name="preference_dial_pad_touch_tone_switch">Dial pad tones</string>
@@ -1216,7 +1213,7 @@ Choose one of the following options:"</string>
   <string name="upgrade_out_of_memory_retry">"アップグレードを再試行"</string>
   <string name="upgrade_out_of_memory_uninstall">"一部のアプリケーションをアンインストール"</string>
   <string name="use_photo_as_primary">"この写真を使用"</string>
-  <string name="use_photo_as_primary2">"Use %1$s's contact photo"</string>
+  <string name="use_photo_as_primary2">"%1$sの連絡先の写真に使用"</string>
   <string name="useful_numbers">Useful numbers</string>
   <string name="user_profile_contacts_list_header">Me</string>
   <string name="vcard_export_request_rejected_message">vCardのエクスポートが拒否されました。再度実行してください。</string>

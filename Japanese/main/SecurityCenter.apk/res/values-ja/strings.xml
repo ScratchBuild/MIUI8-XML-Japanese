@@ -73,7 +73,6 @@ or enter App lock password"</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
   <string name="after_the_lock_screen">"App is locked together with the screen, you can change this in App lock's settings."</string>
-  <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Choose definitions</string>
   <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
   <string name="antivirus_choose_engine_settings">Virus definition settings</string>
@@ -187,10 +186,8 @@ or enter App lock password"</string>
   <string name="auto_task_operation_no_op">"Don't select this action"</string>
   <string name="auto_task_operation_open">On</string>
   <string name="auto_task_operation_open_string">Turn on %s</string>
-  <string name="auto_task_operation_string_comma">,</string>
   <string name="auto_task_operation_string_etc">, etc.</string>
   <string name="auto_task_operation_string_modify">"編集"</string>
-  <string name="auto_task_operation_string_split">;</string>
   <string name="auto_task_operation_sync">"同期"</string>
   <string name="auto_task_operation_vibration">"バイブレーション"</string>
   <string name="auto_task_operation_wifi">"Wi-Fi"</string>
@@ -344,7 +341,6 @@ or enter App lock password"</string>
   <string name="card_main_xspace_action">Create</string>
   <string name="card_main_xspace_summary">Create dual accounts for any app</string>
   <string name="card_main_xspace_title">Dual apps</string>
-  <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Last charge "</string>
   <string name="charging_text_battery_nearly_full">Almost fully charged</string>
   <string name="charging_text_battery_perfect">Fully charged</string>
@@ -689,10 +685,8 @@ or enter App lock password"</string>
   <string name="main_primary_message_traffic_overlimit_purchase">You need to top up</string>
   <string name="main_primary_message_traffic_purchase">You need to top up</string>
   <string name="main_primary_message_traffic_warning">Approaching data usage limit</string>
-  <string name="main_secondary_message_traffic_detail_leisure">"
-Off-peak: %1$s | %2$s used"</string>
-  <string name="main_secondary_message_traffic_detail_normal">"
-Peak: %1$s%2$s | %3$s used"</string>
+  <string name="main_secondary_message_traffic_detail_leisure">"Off-peak: %1$s | %2$s used"</string>
+  <string name="main_secondary_message_traffic_detail_normal">"Peak: %1$s%2$s | %3$s used"</string>
   <string name="main_secondary_message_traffic_over">"超過 "</string>
   <string name="main_secondary_message_traffic_remain">"残り "</string>
   <string name="main_secondary_message_traffic_used_leisure">%s off-peak data used</string>
@@ -992,7 +986,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_save_mode_ontime_enabled">Schedule time to switch between modes</string>
   <string name="power_save_mode_start_time">"開始"</string>
   <string name="power_save_mode_summary" formatted="false">Monitor background processes, and turn off sync. Battery saver will turn off automatically when battery is 60% or 100% charged.</string>
-  <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary_na">To</string>
   <string name="power_save_on_time_start_time_summary_na">From</string>
   <string name="power_save_summary_text">"Turn on Battery saver to reduce apps' background activity, stop sync, and minimize system animations."</string>
@@ -1019,8 +1012,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_avaible_traffic">Data plan</string>
   <string name="pref_category_title_lock_screen_memory_clean">Clean at lock screen</string>
   <string name="pref_category_title_module_settings">Feature settings</string>
-  <string name="pref_category_title_other">Additional settings</string>
-  <string name="pref_category_title_reference_settings">Additional settings</string>
+  <string name="pref_category_title_other">"その他の設定"</string>
+  <string name="pref_category_title_reference_settings">"その他の設定"</string>
   <string name="pref_category_title_securitycenter_settings">General</string>
   <string name="pref_category_title_virus_lib_auto_update">Automatically update definitions</string>
   <string name="pref_category_title_virus_white_list">Exceptions</string>
@@ -1039,15 +1032,13 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_free_traffic_exceed_limit">Notify me when data usage reaches limit</string>
   <string name="pref_free_traffic_limit_warn">Off-peak data usage warning</string>
   <string name="pref_free_traffic_settings">Off-peak data usage settings</string>
-  <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
-  <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_leisure_no_overlay">On</string>
   <string name="pref_leisure_not_opened">Off</string>
   <string name="pref_manual_adjust">Set data usage stats manually</string>
   <string name="pref_mi_sim_settings">Mi SIM Settings</string>
   <string name="pref_month_begin_date">Usage reset date</string>
   <string name="pref_month_first_day">1</string>
-  <string name="pref_more_traffic_settings">Additional settings</string>
+  <string name="pref_more_traffic_settings">"その他の設定"</string>
   <string name="pref_new_installed_preconfig_title">"New apps' default settings"</string>
   <string name="pref_open_adjust_traffic">Update data usage every day using stats from your carrier</string>
   <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
@@ -1557,8 +1548,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
   <string name="traffic_setting_extra_pkg_summary">Adjust data plan and usage limits</string>
-  <string name="traffic_setting_extra_pkg_title">Additional settings</string>
-  <string name="traffic_setting_extra_traffic_title">Additional settings</string>
+  <string name="traffic_setting_extra_pkg_title">"その他の設定"</string>
+  <string name="traffic_setting_extra_traffic_title">"その他の設定"</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_area_dual">%s Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>

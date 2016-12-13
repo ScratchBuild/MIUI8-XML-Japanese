@@ -2419,7 +2419,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_brightness_settings">設定/ディスプレイ/明るさ</string>
   <string name="path_button_light_timeout">設定/その他の設定/ボタン/Keep button lights on</string>
   <string name="path_calendar_sound_title">設定/音とバイブレーション/カレンダー音</string>
-  <string name="path_camera_key_action_shortcut_screenshot">設定/Additional settings/スクリーンショット</string>
+  <string name="path_camera_key_action_shortcut_screenshot">設定/その他の設定/スクリーンショット</string>
   <string name="path_children_mode_settings">設定/その他の設定/Child mode</string>
   <string name="path_choose_timezone">設定/その他の設定/日付と時刻/タイムゾーンを選択</string>
   <string name="path_cloud_backup_settings_section_title">設定/その他の設定/バックアップとリセット/バックアップ設定</string>
@@ -2442,7 +2442,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_do_not_disturb_settings">設定/Do not disturb</string>
   <string name="path_dtmf_tone_enable_title">設定/音とバイブレーション/ダイヤルパッドの操作音</string>
   <string name="path_edge_handgrip">設定/エッジコントロール</string>
-  <string name="path_enable_adb">設定/Additional settings/開発者向けオプション/USBデバッグ</string>
+  <string name="path_enable_adb">設定/その他の設定/開発者向けオプション/USBデバッグ</string>
   <string name="path_equalizer">設定/音とバイブレーション/オーディオ設定/イコライザー</string>
   <string name="path_fluency_mode">設定/電池とパフォーマンス/システムアニメーション</string>
   <string name="path_font_settings">設定/ディスプレイ/システムフォント</string>

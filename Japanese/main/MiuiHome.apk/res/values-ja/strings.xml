@@ -225,9 +225,9 @@
   <string name="screen_number">%d screen</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
   <string name="select_all">"すべて選択"</string>
-  <string name="select_frame">Frame</string>
-  <string name="select_photo">Photo</string>
-  <string name="setting_wallpaper_tip">Pinch or swipe to adjust</string>
+  <string name="select_frame">"フレーム"</string>
+  <string name="select_photo">"写真"</string>
+  <string name="setting_wallpaper_tip">"ピンチまたはスワイプで調整"</string>
   <string name="settings">"設定"</string>
   <string name="settings_shortcut">"設定"</string>
   <string name="share">"共有"</string>

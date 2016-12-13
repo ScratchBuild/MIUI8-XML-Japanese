@@ -29,17 +29,6 @@
   <string name="cta_title">"利用規約"</string>
   <string name="day_following_good_friday">耶穌受難節翌日</string>
   <string name="daydream">Daydream</string>
-  <string name="def_alarm_alert">/system/media/audio/alarms/Daydream.ogg</string>
-  <string name="def_notification_sound">/system/media/audio/notifications/Fresh.ogg</string>
-  <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
-  <string name="def_ringtone_slot_1">/system/media/audio/ringtones/MI.ogg</string>
-  <string name="def_ringtone_slot_2">/system/media/audio/ringtones/MI.ogg</string>
-  <string name="def_sms_delivered_sound">/system/media/audio/notifications/MessageComplete.ogg</string>
-  <string name="def_sms_delivered_sound_slot_1">/system/media/audio/notifications/MessageComplete.ogg</string>
-  <string name="def_sms_delivered_sound_slot_2">/system/media/audio/notifications/MessageComplete.ogg</string>
-  <string name="def_sms_received_sound">/system/media/audio/notifications/MessageIncoming.ogg</string>
-  <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/MessageIncoming.ogg</string>
-  <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/MessageIncoming.ogg</string>
   <string name="delete_frequent_phrases">"よく使うフレーズを削除"</string>
   <string name="delete_frequent_phrases_confirm">"選択したよく使うフレーズを削除しますか？"</string>
   <string name="device_hongmi">Redmi</string>
@@ -93,7 +82,6 @@
   <string name="menu_add_frequent_phrases">"追加"</string>
   <string name="menu_delete">"削除"</string>
   <string name="menu_edit">"編集"</string>
-  <string name="miclassic">MiClassic</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day">国庆节</string>
   <string name="national_father_day">國父誕辰</string>
