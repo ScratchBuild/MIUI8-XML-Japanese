@@ -63,9 +63,9 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="install_button">"インストール"</string>
   <string name="install_dialog_message">To scan barcodes containing keys, you must install the ZXing barcode scanner.</string>
   <string name="install_dialog_title">"バーコードスキャナーをインストールしますか？"</string>
-  <string name="jump_createpattern_tip">Create a password to protect your account</string>
+  <string name="jump_createpattern_tip">"アカウントを保護するためのパスワードを作成"</string>
   <string name="jump_lockpattern_title">Attention</string>
-  <string name="jump_updatepattern_tip">Create a password to protect your account</string>
+  <string name="jump_updatepattern_tip">"アカウントを保護するためのパスワードを作成"</string>
   <string name="lockpassword_choose_your_pattern_header">"パターンの選択"</string>
   <string name="lockpassword_confirm_your_pattern_header">"パターンの確認"</string>
   <string name="lockpassword_input_your_pattern_header">"パターンの確認"</string>
@@ -115,10 +115,10 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
 Before removing:
 —Turn off 2-factor authentication for this account, or
 —Ensure you have an alternate mechanism for generating codes."</string>
-  <string name="remove_account_dialog_title">Remove account?</string>
-  <string name="rename">Rename</string>
-  <string name="rename_message">Rename %1$s</string>
-  <string name="resetbtn_patternforgotten">Reset</string>
+  <string name="remove_account_dialog_title">"アカウントを削除しますか？"</string>
+  <string name="rename">"名前を変更"</string>
+  <string name="rename_message">"%1$sの名前を変更"</string>
+  <string name="resetbtn_patternforgotten">"リセット"</string>
   <string name="save_key_message">Save key for</string>
   <string name="scan_barcode">Scan MiID</string>
   <string name="scan_barcode_info">Place and scan a MiID barcode inside of this viewfinder.</string>
@@ -127,8 +127,8 @@ Before removing:
   <string name="settings_menu_item">"設定"</string>
   <string name="submit">"保存"</string>
   <string name="success_copy_to_clipboard">"クリップボードにコピーしました"</string>
-  <string name="success_reset_password">Password reset successfully</string>
-  <string name="success_set_password">Password created</string>
+  <string name="success_reset_password">"パスワードが正常にリセットされました"</string>
+  <string name="success_set_password">"パスワードが作成されました"</string>
   <string name="summary_lockpattern">Require a unique pattern lock for MiCredit</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">"利用規約"</string>
@@ -153,7 +153,7 @@ The Date &amp; Time settings on this device have not been changed."</string>
   <string name="tip2_patternforgotten">Touch reset to clear account data and reactivate.</string>
   <string name="tip_lockpattern">"パスワードは4文字以上にする必要があります"</string>
   <string name="title_change_lockpattern">"パターンロックを設定"</string>
-  <string name="title_createpattern">Create password</string>
+  <string name="title_createpattern">"パスワードを作成"</string>
   <string name="title_forgetpattern">Forget password</string>
   <string name="title_gesture">"パターンロック"</string>
   <string name="title_lockpattern">Require pattern lock</string>
@@ -164,7 +164,7 @@ The Date &amp; Time settings on this device have not been changed."</string>
   <string name="title_password_threshold">Daily limit = ￥%1$s</string>
   <string name="title_patternforgotten">"Forget password？
 You can："</string>
-  <string name="title_updatepattern">Change password</string>
+  <string name="title_updatepattern">"パスワードを変更"</string>
   <string name="title_visible_pattern">Make pattern visible</string>
   <string name="type_prompt">Type of key</string>
   <string name="update_pattern_jump">&lt;u&gt;Remove password&lt;/u&gt;</string>

@@ -70,9 +70,9 @@
         <item>Weather</item>
     </string-array>
     <string-array name="presetlist_edit_category">
-        <item>Rename</item>
-        <item>Auto-select</item>
-        <item>Delete</item>
+        <item>"名前を変更"</item>
+        <item>"自動で選択"</item>
+        <item>"削除"</item>
     </string-array>
     <string-array name="regional_band_entries">
         <item>North America</item>

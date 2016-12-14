@@ -3,10 +3,10 @@
   <string name="account">"アカウント"</string>
   <string name="account_and_cloud">"アカウント"</string>
   <string name="action_item_add">"追加"</string>
-  <string name="action_item_add_song">Add to playlist</string>
+  <string name="action_item_add_song">"プレイリストに追加"</string>
   <string name="action_item_add_to_current_playlist">Current playlist</string>
   <string name="action_item_add_to_favorite_playlist">Favorite playlist</string>
-  <string name="action_item_add_to_new_playlist">New</string>
+  <string name="action_item_add_to_new_playlist">"新規"</string>
   <string name="action_item_cancel">"キャンセル"</string>
   <string name="action_item_delete">"削除"</string>
   <string name="action_item_download">"ダウンロード"</string>
@@ -27,8 +27,8 @@
   <string name="add_music">"曲を追加"</string>
   <string name="add_to_last_of_playlist">Add to the end of playlist</string>
   <string name="alaka_required">You should pay for this song to listen to it</string>
-  <string name="album_name">Album</string>
-  <string name="album_search_title">Album</string>
+  <string name="album_name">"アルバム"</string>
+  <string name="album_search_title">"アルバム"</string>
   <string name="all_artist">"すべてのアーティスト"</string>
   <string name="all_downloads">"すべてのダウンロード"</string>
   <string name="all_fileter">"すべて"</string>
@@ -153,7 +153,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_title_add_playlist">Add playlist</string>
   <string name="dialog_title_delete_tracks">"削除"</string>
   <string name="dialog_title_name_playlist">Playlist name</string>
-  <string name="dialog_title_not_available">"Couldn't download"</string>
+  <string name="dialog_title_not_available">"ダウンロードできませんでした"</string>
   <string name="dialog_title_queued_body">File not yet available</string>
   <string name="dialog_title_remove_tracks">Remove</string>
   <string name="dialog_title_track_picker">Choose songs</string>
@@ -270,7 +270,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="eq_preset_create">Create</string>
   <string name="eq_preset_format">User preset %d</string>
   <string name="eq_preset_hint">Effect name</string>
-  <string name="eq_preset_rename">Rename</string>
+  <string name="eq_preset_rename">"名前を変更"</string>
   <string name="eq_preset_select">Choose a preset</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
@@ -350,7 +350,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="japan_korea_male">Male artists (Japan/Korea)</string>
   <string name="keep_queued_download">Keep</string>
   <string name="ktv_playlist">KTV playlist</string>
-  <string name="latest_song">Play history (%d)</string>
+  <string name="latest_song">"再生履歴 (%d)"</string>
   <string name="like">Like</string>
   <string name="list_detail_title">"詳細"</string>
   <string name="list_item_play_FM_radio">Touch to play FM radio</string>
@@ -377,12 +377,12 @@ is mainly provided by Ultimate Inc."</string>
   <string name="lyric_setting">"歌詞設定"</string>
   <string name="male_artist">Male artists</string>
   <string name="max_sleep_time">90</string>
-  <string name="media_filter">Media</string>
-  <string name="menu_all_task_pause">Pause all</string>
+  <string name="media_filter">"メディア"</string>
+  <string name="menu_all_task_pause">"すべて中断"</string>
   <string name="menu_all_task_start">"すべて開始"</string>
   <string name="menu_enter_edit_mode">Editor</string>
   <string name="menu_preferences">"ダウンロード設定"</string>
-  <string name="menu_title_pause_all">Pause all</string>
+  <string name="menu_title_pause_all">"すべて中断"</string>
   <string name="menu_title_resume_all">"すべて開始"</string>
   <string name="menu_title_settings">"設定"</string>
   <string name="message_delete_playlist">Delete playlist %s?</string>
@@ -419,7 +419,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="monthly_price">Mi Credits</string>
   <string name="more">"もっと"</string>
   <string name="more_about_artist">More about %s</string>
-  <string name="more_add_song_list">Add to playlist</string>
+  <string name="more_add_song_list">"プレイリストに追加"</string>
   <string name="more_online_artist">"もっと"</string>
   <string name="more_online_billboard">"もっと"</string>
   <string name="more_online_fm">"もっと"</string>
@@ -456,7 +456,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="network_settings_error">"ネットワークに接続できません"</string>
   <string name="network_traffic">Data usage</string>
   <string name="news_mark">NEWS</string>
-  <string name="next_time">Not now</string>
+  <string name="next_time">"後で"</string>
   <string name="no_album_info">No album info</string>
   <string name="no_artist_info">No artist info</string>
   <string name="no_downloads">No downloads</string>
@@ -473,7 +473,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="no_song_downloaded">"サーバーに接続できませんでした"</string>
   <string name="normal_quality">Good</string>
   <string name="not_login">Not signed in</string>
-  <string name="not_now">Not now</string>
+  <string name="not_now">"後で"</string>
   <string name="not_selected">"曲を選択"</string>
   <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
   <string name="notif_text_engine_on">Accelerating…</string>
@@ -483,7 +483,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="notification_des_next_song">Next song: %s</string>
   <string name="notification_des_no_song">Mi Music. New every day.</string>
   <string name="notification_download_complete">"ダウンロード完了"</string>
-  <string name="notification_download_failed">"Couldn't download"</string>
+  <string name="notification_download_failed">"ダウンロードできませんでした"</string>
   <string name="notification_download_failed_more">"Couldn't download %1$d items"</string>
   <string name="notification_download_success_more">%1$d downloaded</string>
   <string name="notification_favorite_summary">"新しいリリースと最新のヒット曲に関する通知を取得する"</string>
@@ -501,7 +501,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="nowplaying_dialog_title_delete_tracks">"プレイリストから削除しますか？"</string>
   <string name="nowplaying_menu_item_delete">"削除"</string>
   <string name="ok">OK</string>
-  <string name="one_month">1 month</string>
+  <string name="one_month">"1ヶ月"</string>
   <string name="online_bill">"チャート"</string>
   <string name="online_favor">Featured</string>
   <string name="online_fm">FM</string>
@@ -510,14 +510,14 @@ is mainly provided by Ultimate Inc."</string>
   <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_playlist_is_empty">Playlist is empty</string>
-  <string name="online_recommend">Playlist</string>
+  <string name="online_recommend">"プレイリスト"</string>
   <string name="online_special">Special</string>
-  <string name="open_download">Open</string>
+  <string name="open_download">"開く"</string>
   <string name="order_pending">Awaiting confirmation</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="other_filter">"その他"</string>
   <string name="other_song_in_album">Other songs from this album</string>
-  <string name="package_filter">Packages</string>
+  <string name="package_filter">"パッケージ"</string>
   <string name="pause_download">Pause</string>
   <string name="paused_by_app">Paused</string>
   <string name="paused_in_power_save_mode">Paused when Battery saver is on</string>
@@ -605,7 +605,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="root_downloads">"ダウンロード"</string>
   <string name="save_to_playlist">Save as playlist</string>
   <string name="search_album">"アルバムを検索"</string>
-  <string name="search_for_album">Album</string>
+  <string name="search_for_album">"アルバム"</string>
   <string name="search_for_artist">"アーティスト"</string>
   <string name="search_hint">"音楽を検索"</string>
   <string name="search_lyric">"歌詞を検索"</string>
@@ -754,7 +754,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="track_list_control_download">"ダウンロード"</string>
   <string name="track_list_control_edit_add_tracks">"曲を追加"</string>
   <string name="track_list_control_edit_delete_playlist">"削除"</string>
-  <string name="track_list_control_edit_rename_playlist">Rename</string>
+  <string name="track_list_control_edit_rename_playlist">"名前を変更"</string>
   <string name="track_list_control_play">"再生"</string>
   <string name="track_main_fragment_tab_album">"アルバム"</string>
   <string name="track_main_fragment_tab_track">Songs</string>

@@ -397,7 +397,6 @@
   <string name="file_not_found">"ファイルが見つかりませんでした"</string>
   <string name="file_not_found_redownload">"ファイルが見つかりませんでした"</string>
   <string name="file_rar_not_support">"暗号化されたrarファイルを開くことができません"</string>
-  <string name="filtered_tag">" [%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Click this shortcut, then \"%s\" will be sent to all recipients.</string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
@@ -802,7 +801,7 @@
   <string name="quoted_text">Include quoted text</string>
   <string name="quoted_text_label">Quote text</string>
   <string name="re_download_message_button">Tap to download again</string>
-  <string name="re_download_message_info">"Couldn't download email"</string>
+  <string name="re_download_message_info">"メールをダウンロードできませんでした"</string>
   <string name="read_string">conversation read</string>
   <string name="recipient_needed">Add at least 1 recipient.</string>
   <string name="recipient_needed_title">Warn</string>
@@ -860,7 +859,7 @@
   <string name="send_feed_back">"フィードバックを送信"</string>
   <string name="send_feed_back_keywords">"フィードバックを送信"</string>
   <string name="send_mail">"送信"</string>
-  <string name="sender_whitelist_cleared">"Pictures won't be shown automatically."</string>
+  <string name="sender_whitelist_cleared">"写真は自動的に表示されません。"</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">"送信中…"</string>
@@ -952,8 +951,8 @@
   <string name="turn_auto_sync_on_dialog_body">"Changes you make to
     all apps and accounts, not just Gmail, will be synchronized
     between the web, your other devices, and your %1$s."</string>
-  <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
-  <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
+  <string name="turn_auto_sync_on_dialog_confirm_btn">"ONにする"</string>
+  <string name="turn_auto_sync_on_dialog_title">"自動同期をONにしますか？"</string>
   <string name="undo">"元に戻す"</string>
   <string name="unread_string">"未読のスレッド"</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>

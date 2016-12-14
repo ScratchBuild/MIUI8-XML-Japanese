@@ -53,11 +53,11 @@ to be able to view them anytime"</string>
   <string name="delete_fingerprint">"指紋認証を削除"</string>
   <string name="delete_fingerprint_desc">Second space fingerprint will be deleted together with the password</string>
   <string name="delete_phone_fingerprint">Delete Second space fingerprint</string>
-  <string name="delete_src_file">Delete files</string>
-  <string name="delete_src_photo">Delete photos</string>
+  <string name="delete_src_file">"ファイルを削除する"</string>
+  <string name="delete_src_photo">"写真を削除する"</string>
   <string name="dir_switch_out_all_photos">Second space Gallery</string>
   <string name="disable">Turn off</string>
-  <string name="dont_import">Not now</string>
+  <string name="dont_import">"後で"</string>
   <string name="enable">Turn on</string>
   <string name="err_copy_contacts">"連絡先をコピーできませんでした"</string>
   <string name="err_copy_files">"ファイルをコピーできませんでした"</string>
@@ -103,7 +103,7 @@ You can also download them separately."</string>
   <string name="loading_space">"読み込み中…"</string>
   <string name="loading_success">Loaded successfully</string>
   <string name="lock_screen_open_second_space">Enter Second space from Lock screen</string>
-  <string name="messageData">Messages</string>
+  <string name="messageData">"メッセージ"</string>
   <string name="msg_switch_file">Delete these files in First space after they are moved?</string>
   <string name="msg_switch_photo">Delete these photos in First space after they are moved?</string>
   <string name="needSetKeyguardFirst">Set First space password</string>
@@ -144,8 +144,8 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="restore_normal_show">"Don't show private messages"</string>
   <string name="restore_show_desc">"Don't show private messages in Second space. They will still be available in First space."</string>
   <string name="restore_show_toast">Not showing private messages</string>
-  <string name="retain_src_file">Keep files</string>
-  <string name="retain_src_photo">Keep photos</string>
+  <string name="retain_src_file">"ファイルを保持する"</string>
+  <string name="retain_src_photo">"写真を保持する"</string>
   <string name="scanner_fingerprint">Scanning fingerprint…</string>
   <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint
 to enter Second space from Lock screen"</string>
@@ -185,16 +185,16 @@ to enter Second space from Lock screen"</string>
   <string name="show_private_content">Show private items</string>
   <string name="show_private_msg">Show private messages</string>
   <string name="show_private_msg_summary">Show private messages​ in Second space</string>
-  <string name="spaceSetting">Settings</string>
+  <string name="spaceSetting">"設定"</string>
   <string name="startSet">Set</string>
-  <string name="startTransfer">Move</string>
+  <string name="startTransfer">"移動"</string>
   <string name="start_input_finger_print">"指紋認証を追加"</string>
   <string name="start_new_fingerprint">Add a new fingerprint</string>
   <string name="start_new_fingerprint_tips">"Use Second space fingerprint
 to enter Second space from Lock screen"</string>
   <string name="start_setting_guide_desc_title">There are a few things to set up</string>
   <string name="summary_switch_apps_settings">Select apps used in Second space</string>
-  <string name="sure_to_use">Confirm</string>
+  <string name="sure_to_use">"確認"</string>
   <string name="switchDataSummary">Move items between spaces</string>
   <string name="switch_apps_settings">App settings</string>
   <string name="switch_data_app">Move items to Second space</string>
@@ -219,7 +219,7 @@ to enter Second space from Lock screen"</string>
   <string name="switching_contacts">"連絡先を移動中…"</string>
   <string name="switching_files">"ファイルを移動中…"</string>
   <string name="switching_photos">"写真を移動中…"</string>
-  <string name="temporary_no_set">Not now</string>
+  <string name="temporary_no_set">"後で"</string>
   <string name="title_choose_app_status">Select app type</string>
   <string name="title_switch_file">Delete these files?</string>
   <string name="title_switch_photo">Delete these photos?</string>
