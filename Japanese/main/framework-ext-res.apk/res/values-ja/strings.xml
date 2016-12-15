@@ -99,16 +99,6 @@
   <string name="screenshot_gesture_detect_alert_dont_again">"二度と表示しない"</string>
   <string name="screenshot_gesture_detect_alert_msg">Swipe down with three fingers to take a screenshot?</string>
   <string name="screenshot_gesture_detect_alert_title">Three-finger screenshot</string>
-  <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
-  <string name="securespaces_extension_accelerometer_serviceName"/>
-  <string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
-  <string name="securespaces_extension_delete_userdata_serviceName"/>
-  <string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
-  <string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
-  <string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
-  <string name="securespaces_extension_hidden_serviceName"/>
-  <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
-  <string name="securespaces_extension_read_cross_space_contacts_serviceName"/>
   <string name="security_permission_denied_text">"アクセスが拒否されました"</string>
   <string name="security_permission_failed_text">"エラーが発生しました、後ほど再試行してください"</string>
   <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
@@ -147,7 +137,6 @@
   <string name="status_bar_toggle_vibrate">Vibrate</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">"ホットスポット"</string>
-  <string name="subinfo_default_name">SIM %d</string>
   <string name="translation_more">More</string>
   <string name="translation_query_error">"Couldn't find results"</string>
   <string name="translation_query_error_network">"ネットワークに接続できませんでした。設定を確認して、もう一度やり直してください"</string>
