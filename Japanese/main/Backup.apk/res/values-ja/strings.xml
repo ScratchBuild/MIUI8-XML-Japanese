@@ -2,9 +2,9 @@
 <resources>
   <string name="abort_backup_confirm">"バックアップが完了していません。とにかく停止しますか？"</string>
   <string name="abort_restore_confirm">"復元が完了していません。とにかく停止しますか？"</string>
-  <string name="account_contact_backup_info">Google Account, Mi Account, and Contacts data</string>
+  <string name="account_contact_backup_info">"Googleアカウント、Miアカウント、連絡先データ"</string>
   <string name="account_login">"ログイン"</string>
-  <string name="account_summary">Backup Google Account, Mi Account, and other user data</string>
+  <string name="account_summary">"Googleアカウント、Miアカウント、その他のユーザデータをバックアップ"</string>
   <string name="already_enable_encrypt">Encryption is already on</string>
   <string name="app_name">"バックアップ"</string>
   <string name="apps_and_data_item_desc">"アプリとデータ"</string>
@@ -58,7 +58,7 @@
   <string name="cancel_restore">"停止"</string>
   <string name="click_to_view">"タップして表示"</string>
   <string name="cloud_app_name">Mi Cloud backup</string>
-  <string name="cloud_backup_hint">To access your backups, sign in now</string>
+  <string name="cloud_backup_hint">"バックアップにアクセスするには、今すぐログイン"</string>
   <string name="cloud_backup_login">"Mi Accountにログイン"</string>
   <string name="cloud_backup_window_title">Mi Cloud backup</string>
   <string name="cloud_home_title">Mi Cloud</string>
@@ -98,10 +98,10 @@
   <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s. To restore, delete the current account and sign in as %2$s.</string>
   <string name="err_authentication_failed">"認証に失敗しました"</string>
   <string name="err_bakfile_broken">"このバックアップは使用できません。"</string>
-  <string name="err_filesystem_mount">"Can't access router storage"</string>
+  <string name="err_filesystem_mount">"ルーターのストレージにアクセスできません"</string>
   <string name="err_low_storage">"十分な空き領域がありません"</string>
-  <string name="err_router_disconnected">"Check your router's connection and try again."</string>
-  <string name="err_router_files_delete">"Couldn't delete backup files on router"</string>
+  <string name="err_router_disconnected">"ルーターとの接続を確認してもう一度お試しください。"</string>
+  <string name="err_router_files_delete">"ルーターのバックアップファイルを削除できませんでした"</string>
   <string name="err_unknown">"不明なエラー"</string>
   <string name="err_version_too_old">"バックアップが古すぎます。"</string>
   <string name="err_version_unsupported">"Backup version isn't supported."</string>
@@ -146,7 +146,7 @@
   <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
   <string name="never">Never</string>
   <string name="new_backup">"バックアップ"</string>
-  <string name="no_encrypt_password">No password</string>
+  <string name="no_encrypt_password">"パスワードなし"</string>
   <string name="no_network">"ネットワークに接続できません"</string>
   <string name="note_title">"ノート"</string>
   <string name="nothing_searched">No results.</string>
@@ -241,7 +241,7 @@
   <string name="task_pending">"待機中…"</string>
   <string name="task_post_running">"バックアップ中…"</string>
   <string name="task_pre_running">"開始中…"</string>
-  <string name="task_progress">Progress</string>
+  <string name="task_progress">"進捗状況"</string>
   <string name="task_restore_cancel_dialog">Stopping now may result in data loss.</string>
   <string name="task_restore_cancel_progress">"停止中…"</string>
   <string name="task_restore_finished_local">"Restored "</string>
@@ -351,9 +351,9 @@ and Mi Mover is on"</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
-  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Update available</string>
+  <string name="xiaomi_update_dialog_message">"バージョン %1$s の紹介
+サイズ: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"バージョン %1$s の紹介
+差分更新サイズ: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">"更新が利用可能"</string>
 </resources>

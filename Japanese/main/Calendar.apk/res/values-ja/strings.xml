@@ -186,8 +186,8 @@
   <string name="event_info_repeat">"繰り返し"</string>
   <string name="event_info_title">"予定の詳細"</string>
   <string name="event_info_title_invite">"ミーティングへの招待"</string>
-  <string name="event_info_when">"いつ"</string>
-  <string name="event_info_where">"どこ"</string>
+  <string name="event_info_when">"日時"</string>
+  <string name="event_info_where">"場所"</string>
   <string name="event_lunar_month">月</string>
   <string name="event_show_more">"その他のオプション"</string>
   <string name="event_title">"タイトル"</string>

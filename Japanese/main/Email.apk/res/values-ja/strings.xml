@@ -542,11 +542,11 @@
         Accepted:
 %s "</string>
   <string name="meeting_allday">"
-        When:
+        日時:
 %s (終日)
     "</string>
   <string name="meeting_allday_recurring">"
-        When:
+        日時:
 %s (終日、繰り返し)
     "</string>
   <string name="meeting_canceled">"
@@ -556,20 +556,20 @@
         辞退しました:
 %s "</string>
   <string name="meeting_recurring">"
-        When:
+        日時:
 %s (繰り返し)
     "</string>
   <string name="meeting_tentative">"
-        Tentative:
+        辞退:
 %s "</string>
   <string name="meeting_updated">"
         Updated:
 %s "</string>
   <string name="meeting_when">"
-        When:
+        日時:
 %s "</string>
   <string name="meeting_where">"
-        Where:
+        場所:
 %s "</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">"添付ファイル"</string>
@@ -583,8 +583,8 @@
   <string name="menu_contact_edit">"編集"</string>
   <string name="menu_discovery">Discover</string>
   <string name="menu_folder_options">Sync options</string>
-  <string name="menu_move_to">Move to</string>
-  <string name="menu_move_to_inbox">Move to Inbox</string>
+  <string name="menu_move_to">"移動"</string>
+  <string name="menu_move_to_inbox">"受信トレイに移動"</string>
   <string name="menu_photo_save_all">"すべて保存"</string>
   <string name="menu_photo_share">"共有"</string>
   <string name="menu_photo_share_all">"すべて共有"</string>
@@ -598,11 +598,11 @@
   <string name="message_decode_error">"メッセージのデコード中にエラーが発生しました。"</string>
   <string name="message_details_title">"メッセージの詳細"</string>
   <string name="message_discarded">"下書きを破棄"</string>
-  <string name="message_invite_accept">Yes</string>
+  <string name="message_invite_accept">"承諾"</string>
   <string name="message_invite_calendar_view">"カレンダーで表示"</string>
-  <string name="message_invite_decline">No</string>
-  <string name="message_invite_tentative">Maybe</string>
-  <string name="message_invite_title">Calendar invite</string>
+  <string name="message_invite_decline">"辞退"</string>
+  <string name="message_invite_tentative">"未定"</string>
+  <string name="message_invite_title">"カレンダーへの招待"</string>
   <string name="message_saved">"メッセージは下書きとして保存されました。"</string>
   <string name="message_view_attachment_background_load">"送信前に転送メッセージの添付ファイルがダウンロードされます。"</string>
   <string name="mibill_privacy_policy_button1">"後で"</string>
@@ -615,8 +615,8 @@
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Move to another folder</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
-  <string name="mute">Mute</string>
-  <string name="network_error">No connection</string>
+  <string name="mute">"ミュート"</string>
+  <string name="network_error">"接続なし"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="network_try_again">"ネットワーク接続を確認してもう一度お試しください"</string>
   <string name="network_unavailable">"ネットワークが利用できません"</string>
@@ -634,9 +634,9 @@
   <string name="no_matched_attachment">No results.</string>
   <string name="not_subject">"(件名なし)"</string>
   <string name="not_synced_title">Account not synced</string>
-  <string name="notification_action_archive">Archive</string>
-  <string name="notification_action_delete">Delete</string>
-  <string name="notification_action_remove_label">Remove tag</string>
+  <string name="notification_action_archive">"アーカイブ"</string>
+  <string name="notification_action_delete">"削除"</string>
+  <string name="notification_action_remove_label">"タグを削除"</string>
   <string name="notification_action_reply">"返信"</string>
   <string name="notification_action_reply_all">"全員に返信"</string>
   <string name="notification_action_undo_archive">Archived</string>
@@ -648,8 +648,8 @@
   <string name="oauth_login_continue">"続行"</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
-  <string name="outbox_alert_button_no_resend">"Don't send"</string>
-  <string name="outbox_alert_button_resend">Resend</string>
+  <string name="outbox_alert_button_no_resend">"送信しない"</string>
+  <string name="outbox_alert_button_resend">"再送"</string>
   <string name="outbox_alert_certificate_error">"Contact your email system's administrator and update your certificate."</string>
   <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
   <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
@@ -689,8 +689,8 @@
   <string name="path_about_send_feed_back">"Mail/設定/フィードバックを送信"</string>
   <string name="path_about_upload_logs">"メール/設定/Upload logs"</string>
   <string name="perference_change_pw_notnull_tips">"パスワードを入力してください"</string>
-  <string name="perference_change_pw_ok_tips">Password changed</string>
-  <string name="perference_setup_pop_del">Remove mail from server</string>
+  <string name="perference_change_pw_ok_tips">"パスワードを変更しました"</string>
+  <string name="perference_setup_pop_del">"サーバーからメールを削除する"</string>
   <string name="perference_setup_recv_tag">"受信メールサーバー"</string>
   <string name="perference_setup_send_tag">"送信メールサーバー"</string>
   <string name="permission_access_provider_desc">"このアプリにメールデータベース（送受信したメッセージ、ユーザー名、パスワードを含む）へのアクセスを許可します。"</string>

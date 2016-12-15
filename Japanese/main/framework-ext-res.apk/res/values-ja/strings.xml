@@ -84,7 +84,7 @@
   <string name="reboot_confirm_title">"デバイスを今すぐ再起動しますか？"</string>
   <string name="reboot_info_auto_boot">Device is scheduled to power on at %s</string>
   <string name="reboot_info_shutdown_alarm">Alarm will sound at %s</string>
-  <string name="reboot_progress">Rebooting…</string>
+  <string name="reboot_progress">"再起動しています…"</string>
   <string name="replace">Replace</string>
   <string name="resource_select">"選択"</string>
   <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
@@ -109,8 +109,8 @@
   <string name="set_password_action">"パスワードを設定"</string>
   <string name="set_password_message">"この機能を利用するにはパスワードを設定してください。"</string>
   <string name="set_password_title">"パスワードを設定"</string>
-  <string name="shutdown_confirm_title">Power off device now?</string>
-  <string name="shutdown_progress">Powering off…</string>
+  <string name="shutdown_confirm_title">"シャットダウンしますか？"</string>
+  <string name="shutdown_progress">"シャットダウン中…"</string>
   <string name="sim_added_reboot_confirm">"再起動"</string>
   <string name="sim_added_reboot_title">"SIMカードはデバイスの再起動後、有効になります。"</string>
   <string name="softap_notifif_summary">%d connected</string>
@@ -138,7 +138,7 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">"ホットスポット"</string>
   <string name="translation_more">More</string>
-  <string name="translation_query_error">"Couldn't find results"</string>
+  <string name="translation_query_error">"結果が見つかりませんでした"</string>
   <string name="translation_query_error_network">"ネットワークに接続できませんでした。設定を確認して、もう一度やり直してください"</string>
   <string name="turn_off">"オフにする"</string>
   <string name="unknown_caller">"不明な番号"</string>

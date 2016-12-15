@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="DOWNLOAD_UNIT_BIT">B</string>
-  <string name="DOWNLOAD_UNIT_GB">GB</string>
-  <string name="DOWNLOAD_UNIT_KB">KB</string>
-  <string name="DOWNLOAD_UNIT_MB">MB</string>
-  <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="Only_the_wifi">"Wi-Fiのみ使用"</string>
   <string name="about">About</string>
   <string name="action_settings">"設定"</string>
@@ -21,7 +16,6 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">"ダウンロード"</string>
-  <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei Account</string>
   <string name="auth_fail">"Couldn't get authorization"</string>
   <string name="bind_xunlei_account">"Xunlei Accountを追加"</string>
@@ -37,7 +31,7 @@
   <string name="cancle">"キャンセル"</string>
   <string name="choose_open_time">"Choose when you'd like to begin"</string>
   <string name="clear_data">"消去"</string>
-  <string name="complete_time">Completed:</string>
+  <string name="complete_time">"完了済み:"</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">"%d個のダウンロードが削除されます。"</string>
   <string name="confirm_delete_the_download_item_message">"これらのダウンロードを削除しますか？"</string>
@@ -45,7 +39,7 @@
   <string name="copy">"コピー"</string>
   <string name="copy_info">Copied to clipboard. You can share it with friends!</string>
   <string name="creat_task_success">"ダウンロードキューに追加されました"</string>
-  <string name="create_task">Create task</string>
+  <string name="create_task">"タスクを作成"</string>
   <string name="delete">"削除"</string>
   <string name="delete_download">"削除"</string>
   <string name="delete_downloads_records">"ダウンロードを削除"</string>
@@ -67,13 +61,13 @@
   <string name="dialog_media_not_found">"ダウンロードできません。外部メディアは使用できません。"</string>
   <string name="dialog_msg_disabled_net">%1$s restricted downloads in the current network. Tap Network settings to go to the Security app.</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
-  <string name="dialog_title_disabled_net">Internet access</string>
+  <string name="dialog_title_disabled_net">"インターネットアクセス"</string>
   <string name="dialog_title_not_available">"ダウンロードに失敗しました"</string>
   <string name="dialog_title_queued_body">"ファイルはまだ利用できません"</string>
   <string name="disable">Off</string>
   <string name="display_expire_netiv1">"今月"</string>
   <string name="do_not_support_url">"This type of URL isn't supported"</string>
-  <string name="doc_filter">Docs</string>
+  <string name="doc_filter">"ドキュメント"</string>
   <string name="download">"ダウンロード"</string>
   <string name="download_auth">Getting authorization…</string>
   <string name="download_complete">"完了"</string>
@@ -97,7 +91,7 @@
   <string name="download_list_open_xl_ok">OK</string>
   <string name="download_list_open_xl_title">Xunlei download accelerator</string>
   <string name="download_list_title_browser">"ダウンロード"</string>
-  <string name="download_no_application">No apps that support this format</string>
+  <string name="download_no_application">"この形式を開くためのアプリが見つかりません"</string>
   <string name="download_no_application_title">"ファイルを開けません"</string>
   <string name="download_num_size">%1$s | %2$s</string>
   <string name="download_paused">Download paused</string>
@@ -105,7 +99,7 @@
   <string name="download_queued">Queued</string>
   <string name="download_remain_time">Remaining:</string>
   <string name="download_running">In progress</string>
-  <string name="download_share_dialog">Share via</string>
+  <string name="download_share_dialog">"共有方法"</string>
   <string name="download_speed">Download speed:</string>
   <string name="download_spend_time">Time</string>
   <string name="download_status_continue">"再開"</string>
@@ -169,7 +163,7 @@
   <string name="info_flow_show">Recommended sources</string>
   <string name="input_valid_address">Enter a file path</string>
   <string name="install">"インストール"</string>
-  <string name="install_failed">"Couldn't install %1$s"</string>
+  <string name="install_failed">"%1$sをインストールできませんでした"</string>
   <string name="installing">"インストール中…"</string>
   <string name="insufficient_space">"十分な空き領域がありません"</string>
   <string name="invalid_address">"入力したファイルパスが無効です"</string>
@@ -177,7 +171,7 @@
   <string name="keep_queued_download">Keep</string>
   <string name="load_finish_hint">You can continue viewing tomorrow</string>
   <string name="loading">"読み込み中…"</string>
-  <string name="media_filter">Media</string>
+  <string name="media_filter">"メディア"</string>
   <string name="member_cost">Annual</string>
   <string name="menu_all_task_pause">"すべて中断"</string>
   <string name="menu_all_task_start">"すべて開始"</string>
@@ -218,7 +212,7 @@ across all your devices with Xunlei"</string>
   <string name="original_price">"価格"</string>
   <string name="other">"その他"</string>
   <string name="other_filter">"その他"</string>
-  <string name="package_filter">Packages</string>
+  <string name="package_filter">"パッケージ"</string>
   <string name="pause_download">Pause</string>
   <string name="paused">Paused</string>
   <string name="paused_by_app">Paused</string>
@@ -259,7 +253,7 @@ across all your devices with Xunlei"</string>
   <string name="recommend_paused">Paused</string>
   <string name="recommend_prepare">Waiting…</string>
   <string name="recommend_show_other_downloads">View popular</string>
-  <string name="remove_download">Remove</string>
+  <string name="remove_download">"削除"</string>
   <string name="restart_download">Restart</string>
   <string name="resume_download">Resume</string>
   <string name="retry_after_network_available">"ネットワークに接続できませんでした。データ接続を確認してもう一度お試しください"</string>
@@ -296,7 +290,7 @@ across all your devices with Xunlei"</string>
   <string name="search_recommend_empty">No items</string>
   <string name="search_vif_empty">No recommended items</string>
   <string name="search_vif_score_text">Rating: %1$s</string>
-  <string name="search_website">Websites</string>
+  <string name="search_website">"ウェブサイト"</string>
   <string name="search_website_more">More</string>
   <string name="select_all">"すべて選択"</string>
   <string name="select_operation_items">Choose items</string>
@@ -356,7 +350,7 @@ across all your devices with Xunlei"</string>
   <string name="start_analysis">Check now</string>
   <string name="start_download">"ダウンロード"</string>
   <string name="start_xunlei_speedup_info">Sign in to accelerate your downloads.</string>
-  <string name="starting_analysis">Getting info…</string>
+  <string name="starting_analysis">"情報を取得中…"</string>
   <string name="storage_internal">"内部ストレージ"</string>
   <string name="storage_sd_card">"SDカード"</string>
   <string name="storage_usb">"USBストレージ"</string>

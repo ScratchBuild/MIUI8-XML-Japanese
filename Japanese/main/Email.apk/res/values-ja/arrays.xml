@@ -37,19 +37,6 @@
         <item>Older message</item>
         <item>Inbox</item>
     </string-array>
-    <string-array name="prefValues_autoAdvance">
-        <item>newer</item>
-        <item>older</item>
-        <item>list</item>
-    </string-array>
-    <integer-array name="senders_lengths">
-        <item>27</item>
-        <item>27</item>
-    </integer-array>
-    <integer-array name="senders_with_attachment_lengths">
-        <item>25</item>
-        <item>25</item>
-    </integer-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
