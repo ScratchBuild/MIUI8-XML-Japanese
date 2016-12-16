@@ -43,10 +43,10 @@
   <string name="cant_remove_retained_app">"このアプリは削除できません"</string>
   <string name="cant_remove_system_app">"システムアプリは削除できません"</string>
   <string name="change_wallpaper">"変更"</string>
-  <string name="children_folder_title">Kids</string>
+  <string name="children_folder_title">"キッズモード"</string>
   <string name="children_mode_exit">Exit</string>
-  <string name="children_mode_tips_message">There is no application in child mode. Please select application.</string>
-  <string name="children_mode_tips_title">"アプリを選択してください"</string>
+  <string name="children_mode_tips_message">"キッズモードのアプリがありません。追加するアプリを選択。"</string>
+  <string name="children_mode_tips_title">"アプリを選択"</string>
   <string name="choose_wallpaper">"壁紙を選択"</string>
   <string name="chooser_wallpaper">"新しい壁紙を選択"</string>
   <string name="cloud_app_restore_title">Pending</string>
@@ -154,7 +154,7 @@
   <string name="invalid_contact_shortcut">"無効な連絡先"</string>
   <string name="is_setting_wallpaper_message">"壁紙を設定中…"</string>
   <string name="is_system_wallpaper_message">"システムリソースは削除できません"</string>
-  <string name="launcher_not_exist">Home is stopped, please return home and try again.</string>
+  <string name="launcher_not_exist">"エラーが発生しました、ホーム画面に戻りもう一度やり直してください。"</string>
   <string name="like">Favorite</string>
   <string name="liked">Favorited</string>
   <string name="loading_desktop">"読み込み中…"</string>
@@ -222,6 +222,7 @@
   <string name="recommend_apps_switch_title">Promoted apps</string>
   <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
+  <string name="screen_locked_toast">"ホーム画面のレイアウトはロックされています"</string>
   <string name="screen_number">%d screen</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
   <string name="select_all">"すべて選択"</string>

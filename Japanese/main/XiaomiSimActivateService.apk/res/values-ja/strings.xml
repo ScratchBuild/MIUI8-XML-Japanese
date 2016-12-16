@@ -15,11 +15,11 @@
   <string name="activate_feature_register_xiaomi_account">"Mi Accountの設定"</string>
   <string name="activate_feature_remote_assist">Remote assistant</string>
   <string name="activate_feature_verify_mx_token">Mi Account verification</string>
-  <string name="activate_history_cancelled">"キャンセルしました"</string>
-  <string name="activate_history_multisim_overview">Activation for SIM card %3$d %1$s. It is triggered by \"%2$s\".</string>
-  <string name="activate_history_overview">Activation for SIM card %1$s. It is triggered by \"%2$s\".</string>
+  <string name="activate_history_canceled_overview">SIM card activation was canceled. Activation is triggered by \"%1$s\".</string>
+  <string name="activate_history_multisim_canceled_overview">SIM card %2$d activation was canceled. Activation is triggered by \"%1$s\".</string>
+  <string name="activate_history_multisim_success_overview">Activated SIM card %2$d successfully. Activation is triggered by \"%1$s\".</string>
   <string name="activate_history_sms">SMS has been sent during the activation.</string>
-  <string name="activate_history_success">Successful</string>
+  <string name="activate_history_success_overview">Activated SIM card successfully. Activation is triggered by \"%1$s\".</string>
   <string name="activate_history_title">SIM card activation</string>
   <string name="activate_phone_cancel_notif_title">SIM card activation cancelled</string>
   <string name="activate_phone_cancel_notif_title_msim">SIM card %s activation cancelled</string>

@@ -120,8 +120,8 @@
   <string name="network_unavailable">"ネットワークに接続できませんでした。"</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">"再試行"</string>
-  <string name="no_vote_num">%1$speople | </string>
-  <string name="no_vote_ratio">cons %1$s%%</string>
+  <string name="no_vote_num">%1$s people | </string>
+  <string name="no_vote_ratio">Against %1$s%%</string>
   <string name="open">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
   <string name="pressure_connect">%1$s hPa</string>
@@ -170,6 +170,6 @@
   <string name="weather_alert">"天気予報のアラート"</string>
   <string name="wind_miles_unit">%1$smph</string>
   <string name="wind_unit">%1$skm/h</string>
-  <string name="yes_vote_num"> | %1$speople</string>
-  <string name="yes_vote_ratio">pros %1$s%%</string>
+  <string name="yes_vote_num"> | %1$s people</string>
+  <string name="yes_vote_ratio">For %1$s%%</string>
 </resources>

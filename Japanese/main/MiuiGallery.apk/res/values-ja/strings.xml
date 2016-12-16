@@ -77,8 +77,8 @@
   <string name="alert_secret_album_enter">Got it</string>
   <string name="alert_secret_album_message">Pull down from the top of your Albums page to view hidden album.</string>
   <string name="alert_secret_album_title">How to view hidden album</string>
-  <string name="all_faces">All photos with people</string>
-  <string name="all_items_synced">All albums have been backed to Mi Cloud</string>
+  <string name="all_faces">Photos with this person</string>
+  <string name="all_items_synced">All albums have been backed up to Mi Cloud</string>
   <string name="all_video_album_display_name">"すべての動画"</string>
   <string name="already_create_baby_album">Baby album already exists in Mi Cloud.</string>
   <string name="app_name">"ギャラリー"</string>
@@ -145,8 +145,8 @@
   <string name="cannot_remove_creator">"Can't remove creator"</string>
   <string name="cannot_send_message">"メッセージを送信できません"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
-  <string name="change_to_face_mode">Sort by people</string>
-  <string name="change_to_photo_mode">Sort by albums</string>
+  <string name="change_to_face_mode">Show face only</string>
+  <string name="change_to_photo_mode">Show full previews</string>
   <string name="choose_baby_sexy">"性別"</string>
   <string name="choose_owner_relation">Relationship</string>
   <string name="choose_people">"Choose a person's album"</string>
@@ -250,7 +250,7 @@
   <string name="download_without_wifi_title">Data usage warning</string>
   <string name="edit_baby_info">View baby info</string>
   <string name="email_picker_title">Add shared email</string>
-  <string name="empty_recommend_button_view">"戻る"</string>
+  <string name="empty_recommend_back">"戻る"</string>
   <string name="empty_recommend_face_page_view">"おすすめはありません"</string>
   <string name="enable_auto_upload_tip">This album will be removed from other albums after you turn on.</string>
   <string name="enable_auto_upload_title">"Mi Cloudとの同期をオンにする"</string>
@@ -405,7 +405,7 @@ Take more photos of your friends!"</string>
   <string name="menu_item_sort_size">"サイズ"</string>
   <string name="menu_view_contact">View contact</string>
   <string name="merge_album">"統合"</string>
-  <string name="merge_album_title">"アルバムの統合"</string>
+  <string name="merge_album_title">Merge with a person</string>
   <string name="messagelist_sender_self">Me</string>
   <string name="micloud_introduce">Back up photos and videos automatically (Mi Account is required)</string>
   <string name="more_album_hint">, etc.</string>
@@ -452,6 +452,7 @@ Take more photos of your friends!"</string>
   <string name="operation_move_to_other_albums">Move to other albums</string>
   <string name="operation_not_show_in_photos_tab">"Don't show in Photos"</string>
   <string name="operation_projection">"キャスト"</string>
+  <string name="operation_remove_face">"削除"</string>
   <string name="operation_remove_from_face_album">Remove from album</string>
   <string name="operation_remove_from_other_albums">Move from other albums</string>
   <string name="operation_remove_secret">Unhide</string>
@@ -527,11 +528,16 @@ Take more photos of your friends!"</string>
   <string name="relation_with_you">Choose relationship</string>
   <string name="release_space_finish_format">Freed %s of local storage</string>
   <string name="remind_face_recommend_confirm">"確認"</string>
+  <string name="remove_from_album_message">This photo will no longer be displayed here</string>
+  <string name="remove_from_album_title">"このアルバムから削除"</string>
+  <string name="remove_from_current_album">"このアルバムから削除"</string>
   <string name="remove_from_other_albums_tip">"Mi Cloudとの同期をオンにして他のアルバムからアイテムを移動します。今すぐ移動しますか？"</string>
   <string name="remove_from_secret_fail">"Couldn't remove from hidden album"</string>
   <string name="remove_from_secret_failed_with_reason">"Can't remove from hidden album. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items can't be removed from hidden album. %1$s."</string>
   <string name="remove_from_secret_successful">Removed from hidden album</string>
+  <string name="remove_to_album_title">Merge with</string>
+  <string name="remove_to_other_album">Merge with a different person</string>
   <string name="rename_face_album">"名前を変更"</string>
   <string name="rename_fail_msg">"名前を変更できません"</string>
   <string name="rename_from_contact">Name from contacts</string>
@@ -554,7 +560,7 @@ Take more photos of your friends!"</string>
   <string name="secret_album_password_first_use_msg">Privacy protection password will be used. It works for photos, notes, hidden folders, etc.</string>
   <string name="secret_album_password_first_use_title">Privacy protection password</string>
   <string name="secret_album_password_update_dialog_cancel">Cancel</string>
-  <string name="secret_album_password_update_dialog_msg">Privacy protection password works for, photos, notes, hidden folders, etc.</string>
+  <string name="secret_album_password_update_dialog_msg">Privacy protection password works for photos, notes, hidden folders, etc.</string>
   <string name="secret_album_password_update_dialog_ok">OK</string>
   <string name="secret_album_password_update_dialog_title">"パスワードを更新"</string>
   <string name="secret_album_password_update_first_user_dialog_msg">"プライバシー保護のパスワードは、写真、ノート、隠しフォルダ等に使用されます。"</string>

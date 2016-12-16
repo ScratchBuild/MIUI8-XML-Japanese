@@ -284,4 +284,16 @@
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> followers</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> follower</item>
     </plurals>
+    <plurals name="video_like_num">
+        <item quantity="other">%1$s likes</item>
+        <item quantity="one">%1$s like</item>
+    </plurals>
+    <plurals name="gems">
+        <item quantity="other">%1$s gems</item>
+        <item quantity="one">%1$s gem</item>
+    </plurals>
+    <plurals name="more_gems">
+        <item quantity="other">Collect &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> more gems to participate in lucky draw</item>
+        <item quantity="one">Collect &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> more gem to participate in lucky draw</item>
+    </plurals>
 </resources>

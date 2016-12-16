@@ -655,7 +655,7 @@
   <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
   <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
   <string name="outbox_alert_description_fail_authentication">Username or password is incorrect.</string>
-  <string name="outbox_alert_description_fail_network">"Couldn't connect to the network."</string>
+  <string name="outbox_alert_description_fail_network">"ネットワークに接続できませんでした。"</string>
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
   <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>

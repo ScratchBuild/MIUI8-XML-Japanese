@@ -363,7 +363,7 @@ Pages you view won't appear in history."</string>
   <string name="media_error_action_replace_video_source">"Couldn't change source"</string>
   <string name="media_error_failure">"Can't play video"</string>
   <string name="media_error_format">"Video format isn't supported"</string>
-  <string name="media_error_network_unreachable">Network Unreachable</string>
+  <string name="media_error_network_unreachable">"ネットワークに接続できませんでした"</string>
   <string name="media_error_nomemory">"メモリ不足"</string>
   <string name="media_error_source">"Couldn't find source"</string>
   <string name="media_error_timeout">"ネットワーク接続がタイムアウトしました"</string>

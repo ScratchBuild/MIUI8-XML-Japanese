@@ -610,7 +610,6 @@ To activate your account, follow the
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Fullscreen</string>
   <string name="vp_function">Settings</string>
-  <string name="vp_get_url_error">"Can't find URL for this video."</string>
   <string name="vp_hide_media_info">Hide video info</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_hint">Attention</string>
@@ -665,6 +664,7 @@ To activate your account, follow the
   <string name="vp_select_video_source">Select source</string>
   <string name="vp_skip">Skip intro and credits</string>
   <string name="vp_standard_definition">SD</string>
+  <string name="vp_start_error_msg">"この動画は再生できません"</string>
   <string name="vp_super_definition">Super</string>
   <string name="vp_time_separator">/</string>
   <string name="vp_toast_downloadapk">"ダウンロード中…"</string>
@@ -672,6 +672,7 @@ To activate your account, follow the
   <string name="vp_using_16_9">Force 16:9</string>
   <string name="vp_using_4_3">Force 4:3</string>
   <string name="vp_video_bad_network_condition">Poor internet connection. Try again later.</string>
+  <string name="vp_video_create_video_error_info">"ビデオプレイヤーの初期化エラーです、しばらくしてからもう一度お試しください。"</string>
   <string name="vp_video_invalid_cp_info">Invalid information of video provider, please restart application</string>
   <string name="vp_video_loading">&lt;CDATA&gt;Loading&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">Installing %1$s…</string>

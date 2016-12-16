@@ -181,7 +181,7 @@ or enter App lock password"</string>
   <string name="auto_task_operation_lockscreen_time">"ロック画面"</string>
   <string name="auto_task_operation_memory_clean_lockscreen">Clear memory</string>
   <string name="auto_task_operation_mobile_data">"モバイルデータ"</string>
-  <string name="auto_task_operation_modify_string">Edit%s</string>
+  <string name="auto_task_operation_modify_string">"%sを編集"</string>
   <string name="auto_task_operation_mute">Silent mode</string>
   <string name="auto_task_operation_no_op">"Don't select this action"</string>
   <string name="auto_task_operation_open">On</string>
@@ -1238,6 +1238,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sim_location_error_notify_message">Tap to change SIM location.</string>
   <string name="sim_location_error_notify_title">"SIMカードのエラー"</string>
   <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
+  <string name="skin_change_close_btn_text">"デフォルトの背景として設定"</string>
+  <string name="skin_change_close_toast">"次回セキュリティアプリを起動した時に変更が適用されます"</string>
   <string name="sorted_button">"並べ替え"</string>
   <string name="sorted_dialog_title">"並べ替え"</string>
   <string name="sp_back_title_text_zero">Secure</string>
@@ -1265,7 +1267,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sp_settings_check_item_title_virus_exception">Virus exceptions</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">No items</string>
-  <string name="sp_settings_group_title_check_item">Check multiple settings</string>
+  <string name="sp_settings_group_title_check_item">Multiple items</string>
   <string name="sp_settings_group_title_ime">Secure IME settings</string>
   <string name="sp_settings_group_title_omit">Omitted items</string>
   <string name="sp_settings_info_input_method">Using system input method in payment apps</string>
@@ -1486,8 +1488,8 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_virus_update_yes">Auto-update for virus definitions on</string>
   <string name="title_virus_yes">No viruses found</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
-  <string name="toast_add_virus_white_list_no_need_repeat">The virus exception already exists</string>
-  <string name="toast_add_virus_white_list_success">Added to exceptions. View the items in the settings.</string>
+  <string name="toast_add_virus_white_list_no_need_repeat">"この例外は既に存在します"</string>
+  <string name="toast_add_virus_white_list_success">"例外に追加しました。セキュリティ設定でアイテムを表示します。"</string>
   <string name="toast_auto_traffic_correct">Data usage is adjusted automatically</string>
   <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
   <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
@@ -1605,10 +1607,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="virus_dp_update_title">Definition updates</string>
   <string name="virus_scan">"ウイルススキャン"</string>
   <string name="virus_scan_process_pre">%</string>
-  <string name="virus_update_fail">"Could't update"</string>
+  <string name="virus_update_fail">"更新できませんでした"</string>
   <string name="virus_update_success">Updated successfully</string>
   <string name="virus_update_tips_title">Connect to WLAN</string>
-  <string name="virus_wait_network_dialog_message">Updates are big.Connect to WLAN to download them</string>
+  <string name="virus_wait_network_dialog_message">Updates are big. Connect to WLAN to download them.</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
   <string name="warning_open_mi_sim">Turn on Mi SIM</string>

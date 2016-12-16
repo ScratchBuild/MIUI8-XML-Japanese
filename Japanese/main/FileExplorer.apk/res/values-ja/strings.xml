@@ -118,6 +118,7 @@
   <string name="copy_failed">"コピーできませんでした"</string>
   <string name="copy_text">"テキストをコピー"</string>
   <string name="copy_to">"コピー先を指定…"</string>
+  <string name="count_down">Countdown: %1$s</string>
   <string name="create_shortcut_success">"ショートカットを追加しました"</string>
   <string name="data_consumption_cancel">"終了"</string>
   <string name="data_consumption_checkbox_hint">"二度と表示しない"</string>
@@ -140,6 +141,7 @@
   <string name="decrypt_error">"Couldn't decrypt"</string>
   <string name="decrypt_to">Decrypt and save to…</string>
   <string name="decrypting">Decrypting…</string>
+  <string name="default_prize_text">That goes right into my treasury!</string>
   <string name="delete_dialog_button">"削除"</string>
   <string name="delete_error">"ファイルを削除できませんでした、もう一度お試しください"</string>
   <string name="delete_file">"このファイルを削除しますか？"</string>
@@ -220,6 +222,7 @@
   <string name="ftp_transfer_secure">"セキュリティ"</string>
   <string name="ftp_username_and_passworld">"ログイン"</string>
   <string name="ftp_username_hint">"ユーザー名"</string>
+  <string name="full_gems">Exchange your gems</string>
   <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
   <string name="gbk_title">GBK</string>
   <string name="get_user_info_err">"Couldn't get info about this person"</string>
@@ -361,6 +364,8 @@
   <string name="one_account_bind_needed">Add at least one account</string>
   <string name="online_not_support">"Can't view this file at the moment."</string>
   <string name="open_app">"開く"</string>
+  <string name="open_chest">Open to get a gift</string>
+  <string name="open_chest_failed">"Couldn't open, check your network settings and try again"</string>
   <string name="open_private_folder">Release to view hidden folders</string>
   <string name="operation_add_fav">"お気に入りに追加中…"</string>
   <string name="operation_cancel">"キャンセル"</string>
@@ -452,6 +457,8 @@
   <string name="private_folder_update">Updating hidden files…</string>
   <string name="private_toast_hint2">To hide a file, press and hold it, then add it to a hidden folder.</string>
   <string name="private_toast_hint3">Pull down to view hidden folders</string>
+  <string name="prize_result_tip">Exchange</string>
+  <string name="prize_result_tip2">Gems go to your treasury</string>
   <string name="promot_enctypt_password">Enter password used to unlock your device or to turn off Child mode</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
@@ -464,6 +471,7 @@
   <string name="recommend_user">Recommended profiles</string>
   <string name="remote_video_report_success">"Thank you for your feedback! We'll follow up as soon as possible."</string>
   <string name="rename_alert">"ファイルの拡張子を変更した場合、それを開くことができない場合があります。"</string>
+  <string name="rename_alert2">The file will be hidden.</string>
   <string name="rename_failed">"%1$sの名前を変更することはできません"</string>
   <string name="repair_done">Restored</string>
   <string name="repair_error">"Couldn't restore"</string>

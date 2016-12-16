@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Don't show these people?"</item>
-        <item quantity="one">"Don't show this person?"</item>
-    </plurals>
     <plurals name="face_count">
         <item quantity="other">Total %d photos</item>
         <item quantity="one">Total %d photo</item>
@@ -109,20 +105,20 @@
         <item quantity="one">%1$d item is waiting to be backed up</item>
     </plurals>
     <plurals name="network_unsatisfied">
-        <item quantity="other">Network error. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Network error. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Network error. %1$d items are waiting to be backed up.</item>
+        <item quantity="one">Network error. %1$d item is waiting to be backed up.</item>
     </plurals>
     <plurals name="sync_off">
-        <item quantity="other">Sync is off. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Sync is off. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Sync is off. %1$d items are waiting to be backed up.</item>
+        <item quantity="one">Sync is off. %1$d item is waiting to be backed up.</item>
     </plurals>
     <plurals name="cloud_space_full">
         <item quantity="other">"Can't back up %1$d items"</item>
         <item quantity="one">"Can't back up %1$d item"</item>
     </plurals>
     <plurals name="local_space_full">
-        <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up.</item>
+        <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up.</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d photos</item>
@@ -141,8 +137,8 @@
         <item quantity="one">1 video waiting to back up</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d items waiting to back up</item>
-        <item quantity="one">1 item waiting to back up</item>
+        <item quantity="other">%1$d items waiting to be backed up</item>
+        <item quantity="one">1 item waiting to be backed up</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Backing up %1$d photos…</item>

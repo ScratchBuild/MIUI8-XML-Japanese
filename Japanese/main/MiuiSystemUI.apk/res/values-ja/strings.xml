@@ -141,6 +141,9 @@
   <string name="disable_notification_summary">選択されたアプリからの通知は表示されません</string>
   <string name="disable_notification_title">通知を隠す</string>
   <string name="dismount_storage">いいえ</string>
+  <string name="divider_menu_close">閉じる</string>
+  <string name="divider_menu_select_apps">選択</string>
+  <string name="divider_menu_swap_task">切り替え</string>
   <string name="dlg_confirm_kill_storage_users_text">"USBストレージをONにすると、使用中のアプリの一部が停止し、USBストレージをOFFにするまで使用できなくなる場合があります。"</string>
   <string name="dlg_confirm_kill_storage_users_title">"USBストレージをONにする"</string>
   <string name="dlg_error_title">USB操作失敗</string>
@@ -201,8 +204,10 @@
   <string name="nav_guide_ok">設定する</string>
   <string name="nav_guide_title">ソフトボタンの非表示</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_multi_window_app">画面分割モードで動作するアプリはありません</string>
   <string name="no_notification_tips">通知はありません。</string>
   <string name="no_weather_description">天気情報を取得する ></string>
+  <string name="not_support_multi_window">現在のアプリは画面分割モードをサポートしていません</string>
   <string name="notification_header_title">通知</string>
   <string name="notification_hidden_text">コンテンツが非表示</string>
   <string name="notification_manager">通知の管理</string>
