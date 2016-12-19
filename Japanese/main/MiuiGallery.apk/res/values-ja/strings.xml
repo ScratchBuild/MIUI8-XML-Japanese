@@ -93,8 +93,8 @@
   <string name="auto_backup_introduce">"写真や動画を自動的にバックアップする (Mi Accountが必要)"</string>
   <string name="auto_update_face">Add photos automatically</string>
   <string name="auto_update_face_summary">Automatically match and add photos to Baby album</string>
-  <string name="auto_update_off">Off</string>
-  <string name="auto_update_on">On</string>
+  <string name="auto_update_off">"オフ"</string>
+  <string name="auto_update_on">"オン"</string>
   <string name="auto_upload_before_share_message">Back up this album to Mi Cloud before sharing</string>
   <string name="auto_upload_before_share_title">"ヒント"</string>
   <string name="auto_upload_disable_tip">"Mi Cloudとの同期はオフです"</string>
@@ -108,7 +108,7 @@
   <string name="baby_album_sharer_accept_dialog_msg">"Dear %1$s's %2$s,
 %3$s's %4$s shared %5$s's album with you"</string>
   <string name="baby_album_sharer_recommand_face">Add existing photos of %1$s?</string>
-  <string name="baby_album_sharers_page_title">Share with family</string>
+  <string name="baby_album_sharers_page_title">"家族と共有"</string>
   <string name="baby_birthday">"誕生日"</string>
   <string name="baby_lock_wallpaper">"ロック画面の壁紙"</string>
   <string name="baby_lock_wallpaper_cancelled">"ロック画面の壁紙をデフォルトに切り替えました"</string>
@@ -192,8 +192,8 @@
   <string name="create_new_album">Create an album</string>
   <string name="create_new_album_failed">"Couldn't create"</string>
   <string name="create_new_face">New person</string>
-  <string name="create_quick_icon_on_desk">Create shortcut</string>
-  <string name="creating_baby_album">Creating album…</string>
+  <string name="create_quick_icon_on_desk">"ショートカットを作成"</string>
+  <string name="creating_baby_album">"アルバムを作成中…"</string>
   <string name="crop">Crop</string>
   <string name="crop_and_rotate">Adjust</string>
   <string name="crop_label">Cropped photos</string>
@@ -201,7 +201,7 @@
   <string name="custom_select_title_quickly_share">"共有"</string>
   <string name="custom_select_title_select_all">"すべて選択"</string>
   <string name="custom_select_title_select_item">"アイテムを選択"</string>
-  <string name="debugging_tip">Generating debug data</string>
+  <string name="debugging_tip">"デバッグデータの生成中"</string>
   <string name="default_album_name">New album</string>
   <string name="delete">"削除"</string>
   <string name="delete_album_failed">"アルバムを削除できません"</string>
@@ -228,8 +228,6 @@
   <string name="delete_third_party_video">"この動画を削除しますか？"</string>
   <string name="delete_to_trash_tips">"最近削除した写真は、設定 &gt; ゴミ箱から表示することができます"</string>
   <string name="deny">"拒否"</string>
-  <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
-  <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">"詳細情報"</string>
   <string name="disable_auto_upload_tip">"追加や削除された写真はMi Cloudと同期されません。このアルバムは他のアルバムに移動されます。"</string>
   <string name="disable_auto_upload_title">"Mi Cloudとの同期をオフにする"</string>
@@ -274,7 +272,7 @@
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown_host">"ネットワークに接続できませんでした。データ接続を確認して再度試してください。"</string>
   <string name="exit">"終了"</string>
-  <string name="exit_share">Exit album</string>
+  <string name="exit_share">"アルバムを終了"</string>
   <string name="exit_share_failed">"Couldn't exit %1$s"</string>
   <string name="exit_share_in_process">Exiting…</string>
   <string name="exit_share_successfully">Exited %1$s</string>
@@ -426,7 +424,7 @@ Take more photos of your friends!"</string>
   <string name="next">"次へ"</string>
   <string name="no">"いいえ"</string>
   <string name="no_map_app">"この操作を処理するためのアプリが見つかりませんでした"</string>
-  <string name="no_network_connected">No network detected</string>
+  <string name="no_network_connected">"ネットワークが見つかりません"</string>
   <string name="not_ask_any_more">"Don't ask again for \"%s\" answers"</string>
   <string name="not_is">No</string>
   <string name="not_remind_again">"二度と表示しない"</string>
@@ -445,16 +443,16 @@ Take more photos of your friends!"</string>
   <string name="operation_edit">"編集"</string>
   <string name="operation_enable_auto_upload">"Mi Cloudとの同期をオンにする"</string>
   <string name="operation_enter_delete_local">Delete backed up photos and videos from device</string>
-  <string name="operation_failed">"Couldn't complete operation"</string>
+  <string name="operation_failed">"操作を完了できませんでした"</string>
   <string name="operation_force_top">Pin</string>
   <string name="operation_hide">"隠す"</string>
   <string name="operation_in_process">"処理中…"</string>
-  <string name="operation_move_to_other_albums">Move to other albums</string>
+  <string name="operation_move_to_other_albums">"他のアルバムに移動"</string>
   <string name="operation_not_show_in_photos_tab">"Don't show in Photos"</string>
   <string name="operation_projection">"キャスト"</string>
   <string name="operation_remove_face">"削除"</string>
-  <string name="operation_remove_from_face_album">Remove from album</string>
-  <string name="operation_remove_from_other_albums">Move from other albums</string>
+  <string name="operation_remove_from_face_album">"アルバムから削除"</string>
+  <string name="operation_remove_from_other_albums">"他のアルバムから移動"</string>
   <string name="operation_remove_secret">Unhide</string>
   <string name="operation_save">"保存"</string>
   <string name="operation_send">"送る"</string>
@@ -545,7 +543,7 @@ Take more photos of your friends!"</string>
   <string name="request_qr_code_failed">"Couldn't get QR code"</string>
   <string name="request_sms_url_failed">"Couldn't get info"</string>
   <string name="request_sms_url_msg">Requesting info…</string>
-  <string name="request_sms_url_title">Hint</string>
+  <string name="request_sms_url_title">"ヒント"</string>
   <string name="reset">"リセット"</string>
   <string name="retry_to_create_album">"再試行"</string>
   <string name="retry_to_request_qr_code">"再試行"</string>
@@ -593,7 +591,7 @@ Take more photos of your friends!"</string>
   <string name="share_by_email_start">Share %1$s in background</string>
   <string name="share_by_email_successfully">Shared %1$s</string>
   <string name="share_public_url_text">"I've shared the album %1$s with you. View it at %2$s"</string>
-  <string name="share_with_family">Share with family</string>
+  <string name="share_with_family">"家族と共有"</string>
   <string name="sharer_quota_fulfiled">"You've already shared this album with the maximum number of people."</string>
   <string name="show_hidden_album_title">Show hidden albums</string>
   <string name="slideshow_interval_dialog_title">Enter interval</string>

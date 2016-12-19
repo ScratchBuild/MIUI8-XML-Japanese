@@ -113,7 +113,7 @@ or enter App lock password"</string>
   <string name="app_name">App lock</string>
   <string name="app_name_na">Data usage</string>
   <string name="app_name_securitycenter">"セキュリティ"</string>
-  <string name="app_not_installed_toast">"App isn't installed on your device."</string>
+  <string name="app_not_installed_toast">"アプリはお使いのデバイスにインストールされていません。"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">"Wi-Fi"</string>
   <string name="apps_item_sign_dialog_content">"%s's signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data."</string>
