@@ -27,8 +27,8 @@
   <string name="backup_data">Choose items to back up</string>
   <string name="backup_delete">"削除:"</string>
   <string name="backup_empty">"バックアップなし。"</string>
-  <string name="backup_empty_info">" Back up your data, settings, and apps"</string>
-  <string name="backup_empty_info_onpad">" Back up your data, settings, and apps"</string>
+  <string name="backup_empty_info">" データ、設定、アプリをバックアップする"</string>
+  <string name="backup_empty_info_onpad">" データ、設定、アプリをバックアップする"</string>
   <string name="backup_error">"バックアップできませんでした"</string>
   <string name="backup_failed">"バックアップできませんでした"</string>
   <string name="backup_file_error">"バックアップできませんでした"</string>
@@ -115,9 +115,9 @@
   <string name="files_backup_info">"SDカード上のすべてのファイル (写真、音楽、動画、アプリのデータ、その他を含む)"</string>
   <string name="findlost_contact">"連絡先を復元"</string>
   <string name="findlost_contact_online">"Mi Cloudから連絡先を復元する"</string>
-  <string name="guarded_mode_dialog_backup_message">"Backups aren't allowed in Guest mode."</string>
-  <string name="guarded_mode_dialog_title">"You're in Guest mode"</string>
-  <string name="guarded_mode_dialog_transfer_message">"Can't use Mi Mover in Guest mode."</string>
+  <string name="guarded_mode_dialog_backup_message">"ゲストモードでのバックアップは許可されていません。"</string>
+  <string name="guarded_mode_dialog_title">"あなたはゲストモードです"</string>
+  <string name="guarded_mode_dialog_transfer_message">"ゲストモードでMi Moverを使用することはできません。"</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Download the Mi Talk app and sign in.
 \u0009http://www.miliao.com
 
@@ -141,9 +141,9 @@
   <string name="miliao_account_login">"Mi Talkでログイン"</string>
   <string name="mms_title">Multimedia messaging</string>
   <string name="multi_select_title">%1$s selected</string>
-  <string name="multi_user_mode_backup_message">"Can't use Backup in Multi-user mode. Turn off Multi-user mode to continue."</string>
-  <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
-  <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
+  <string name="multi_user_mode_backup_message">"マルチユーザーモードでバックアップを使用することはできません。続行するにはマルチユーザーモードをオフにしてください。"</string>
+  <string name="multi_user_mode_dialog_message">"マルチユーザーモードでMi Moverを使用することはできません。続行するにはマルチユーザーモードをオフにしてください。"</string>
+  <string name="multi_user_mode_dialog_title">"あなたはマルチユーザーモードです"</string>
   <string name="never">Never</string>
   <string name="new_backup">"バックアップ"</string>
   <string name="no_encrypt_password">"パスワードなし"</string>
@@ -174,15 +174,15 @@
   <string name="restore_contact">Restore contacts</string>
   <string name="restore_contact_content">Restoring may create duplicate contacts.</string>
   <string name="restore_contacts_hit">You may need to sign in again to view restored data.</string>
-  <string name="restore_counts">Restore:</string>
+  <string name="restore_counts">"復元:"</string>
   <string name="restore_data">Choose items to restore</string>
   <string name="restore_failed">"復元できませんでした"</string>
   <string name="restore_finished">Restored successfully</string>
   <string name="restore_is_running">Restoring device</string>
-  <string name="restore_launcher_layout_hit">Restore launcher settings</string>
+  <string name="restore_launcher_layout_hit">"ランチャーの設定を復元する"</string>
   <string name="restore_progress">"復元中…"</string>
-  <string name="restore_report">Restore details</string>
-  <string name="restore_telephony_hit">Restoring will restart the Phone app.</string>
+  <string name="restore_report">"復元の詳細"</string>
+  <string name="restore_telephony_hit">"復元すると電話アプリが再起動します。"</string>
   <string name="retry">"再試行"</string>
   <string name="reverse_all">"すべて消去"</string>
   <string name="router_backup_hint">Keep your device powered on</string>
@@ -224,7 +224,7 @@
   <string name="system_backup_info">"システム設定とホーム画面のレイアウト"</string>
   <string name="task_backup_cancel_progress">"停止中…"</string>
   <string name="task_backup_finished_local">"Backed up "</string>
-  <string name="task_canceled">Backup canceled</string>
+  <string name="task_canceled">"バックアップがキャンセルされました"</string>
   <string name="task_canceled_all_local">"キャンセルしました"</string>
   <string name="task_canceled_local">Backup incomplete (%s)</string>
   <string name="task_cloud_backup_cancel_dialog">"バックアップが完了していません。とにかく停止しますか？"</string>
@@ -247,8 +247,8 @@
   <string name="task_running_hint">This process is already running in the background</string>
   <string name="task_running_restore_dialog">Restore is in progress. Touch OK to view.</string>
   <string name="task_running_restore_hint">This task is already running in the background</string>
-  <string name="task_service_not_launched">"Task hasn't started yet"</string>
-  <string name="task_stopped_exception">Restore canceled</string>
+  <string name="task_service_not_launched">"タスクはまだ開始されていません"</string>
+  <string name="task_stopped_exception">"復元がキャンセルされました"</string>
   <string name="total_num">%d items,</string>
   <string name="trans_backingup">"バックアップ中…"</string>
   <string name="trans_backingup_no_items">"同期中…"</string>

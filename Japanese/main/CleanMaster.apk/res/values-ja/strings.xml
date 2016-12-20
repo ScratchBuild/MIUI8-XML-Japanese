@@ -34,15 +34,15 @@
   <string name="apk_status_uninstalled">"未インストール"</string>
   <string name="apk_title_alipay_plugin">"AliPayプラグイン"</string>
   <string name="app_install_tips_go_to">"開く"</string>
-  <string name="app_install_tips_install_success">Installed %1$s successfully</string>
+  <string name="app_install_tips_install_success">"%1$sが正常にインストールされました"</string>
   <string name="app_name">JunkEngine</string>
   <string name="apps_sort_type_item_size">Size</string>
   <string name="apps_sort_type_item_time">Frequently used</string>
   <string name="apps_sort_type_title">"並べ替え"</string>
   <string name="authorize_detail">Blocked %d apps</string>
-  <string name="auto_clean_switch_off">Off</string>
-  <string name="auto_clean_switch_on">On</string>
-  <string name="auto_cleaner_open">Turn on</string>
+  <string name="auto_clean_switch_off">"オフ"</string>
+  <string name="auto_clean_switch_on">"オン"</string>
+  <string name="auto_cleaner_open">"オンにする"</string>
   <string name="back">"戻る"</string>
   <string name="browser_scan_history_desc">"ブラウザ履歴"</string>
   <string name="browser_search_history_desc">"検索アイテム"</string>
@@ -368,7 +368,7 @@
   <string name="notification_title_of_garbage_cleanup">Trash size</string>
   <string name="notify_when">Get a notification when trash size reaches 100MB</string>
   <string name="ok">OK</string>
-  <string name="open">Turn on</string>
+  <string name="open">"オンにする"</string>
   <string name="open_app">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
@@ -382,7 +382,7 @@
   <string name="pref_category_title_engine_settings">Scan definition settings</string>
   <string name="pref_category_title_garbage_cleanup_check">Notifications</string>
   <string name="pref_category_title_other_clean_settings">"その他の設定"</string>
-  <string name="pref_content_cleanup_white_list_none">None</string>
+  <string name="pref_content_cleanup_white_list_none">"なし"</string>
   <string name="pref_summary_auto_clean_and_alert">"クリーナーを自動的に実行するようスケジュールする"</string>
   <string name="pref_summary_auto_update_cleanup_db">"最終更新 %s"</string>
   <string name="pref_summary_cleanup_white_list">Prevent selected apps from being cleaned up</string>
@@ -433,7 +433,7 @@
   <string name="search_history">"検索履歴"</string>
   <string name="see_more">More</string>
   <string name="set_immediately">"設定"</string>
-  <string name="seton_immediately">Turn on</string>
+  <string name="seton_immediately">"オンにする"</string>
   <string name="share">"共有"</string>
   <string name="similar_image_desc">"類似の写真を削除する"</string>
   <string name="similar_image_empty">"重複は見つかりませんでした"</string>

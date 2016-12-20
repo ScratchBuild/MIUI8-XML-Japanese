@@ -10,7 +10,7 @@
     </string-array>
     <string-array name="installed_app_sort_type">
         <item>Most used</item>
-        <item>Size</item>
+        <item>サイズ順</item>
     </string-array>
     <string-array name="auto_clean_time">
         <item>Every day</item>

@@ -135,7 +135,7 @@
   <string name="clip_dialog_title">"コピーしたURLを開きますか？"</string>
   <string name="close_ads_choice_no">"許可する"</string>
   <string name="close_ads_choice_yes">"ブロック"</string>
-  <string name="close_ads_message">"Block content from this website? You can view sites you've blocked in Settings &gt; Advanced &gt; Blocked sites."</string>
+  <string name="close_ads_message">"このウェブサイトからのコンテンツをブロックしますか？ブロックしたサイトは 設定 &gt; 詳細設定 &gt; ブロック済みのサイト で確認できます。"</string>
   <string name="close_ads_title">"コンテンツをブロックしますか？"</string>
   <string name="close_all_tab_alert_message">"現在開いているすべてのタブを閉じますか？"</string>
   <string name="close_all_tab_alert_title">"すべてのタブを閉じる</string>
@@ -275,7 +275,7 @@ Pages you view won't appear in history."</string>
   <string name="edit_bookmark">"ブックマークを編集"</string>
   <string name="edit_quicklink">"編集"</string>
   <string name="empty_bookmark">Empty</string>
-  <string name="empty_history_hint">History is empty</string>
+  <string name="empty_history_hint">"履歴は空です"</string>
   <string name="empty_snapshot_hint">Empty</string>
   <string name="enable_geolocation_confirm_message">"この機能をオフにすると、いくつかのウェブサイトが正常に動作しない恐れがあります。"</string>
   <string name="enter_developer_mode">Enter developer mode</string>
@@ -331,7 +331,7 @@ Pages you view won't appear in history."</string>
   <string name="homepage_search_hint">"検索"</string>
   <string name="homepage_top_card_menu">Top</string>
   <string name="in_incognito">"You're incognito! Web pages you view in this tab won't appear in your browser history."</string>
-  <string name="in_secureaccess">Browser switched to Safe mode</string>
+  <string name="in_secureaccess">"ブラウザをセーフモードに切り替えました"</string>
   <string name="isReplacePage">"ファイルが既に存在します、置き換えますか？"</string>
   <string name="is_first_history_item">This is the first page in Browser history</string>
   <string name="is_first_tab">This is the first tab</string>
@@ -344,7 +344,7 @@ Pages you view won't appear in history."</string>
 このページから移動しますか？"</string>
   <string name="js_dialog_before_unload_negative_button">Stay</string>
   <string name="js_dialog_before_unload_positive_button">Leave</string>
-  <string name="js_dialog_before_unload_title">Confirm Navigation</string>
+  <string name="js_dialog_before_unload_title">"ナビゲーションの確認"</string>
   <string name="js_dialog_title">The page at \"%s\" says:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">"JavaScriptを無効にすると、いくつかのwebサイトが正しく表示されない可能性があります。"</string>
