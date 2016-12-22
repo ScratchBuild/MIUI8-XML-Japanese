@@ -37,7 +37,6 @@
   <string name="call_contacts_deny_permission_msg">"連絡先の読み取り権限が拒否されました、連絡先の情報を表示することができません。"</string>
   <string name="call_description_recording">"録音中…"</string>
   <string name="call_extension_conference_mode">"グループ通話モード"</string>
-  <string name="call_record_button_label">"録音中 %s"</string>
   <string name="call_record_wait_label">"待機中"</string>
   <string name="call_recording_deny_permission_msg">"録音の権限が拒否されました、録音できません。"</string>
   <string name="call_recording_error_low_storage">"SDカードに十分な空き領域がありません。"</string>

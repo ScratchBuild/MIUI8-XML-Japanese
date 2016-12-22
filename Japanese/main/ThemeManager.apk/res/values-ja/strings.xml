@@ -391,6 +391,7 @@
   <string name="theme_user_agreement_remind_summary">"テーマアプリを開くたびに利用規約をポップアップで表示します。この設定はお使いのデバイスを再起動した後に有効になります。"</string>
   <string name="theme_user_agreement_title">"利用規約"</string>
   <string name="theme_yes">"はい"</string>
+  <string name="third_party_pickers_activity_title">"%1$sを追加"</string>
   <string name="title_component">Customize theme</string>
   <string name="title_my_audio_resource">My ringtones</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>

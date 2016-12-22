@@ -589,7 +589,7 @@ Contact cards are turned off"</string>
   <string name="local_search_label">"すべての連絡先"</string>
   <string name="locale_change_in_progress">"言語の変更に伴い連絡先リストを更新しています。"</string>
   <string name="login_ok">"ログイン"</string>
-  <string name="low_memory_toast">"ストレージが不足しているため、続行できません。"</string>
+  <string name="low_memory_toast">"メモリ不足のため、この機能を使用できません。"</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
   <string name="lunar_calendar">"太陰暦"</string>
   <string name="lunar_leap">闰</string>
@@ -1258,7 +1258,7 @@ Choose one of the following options:"</string>
   <string name="wipe_data">"データを消去"</string>
   <string name="yellowPageNavigationIconLabel">Yellow pages</string>
   <string name="yellowPageNavigationLabel">Yellow pages</string>
-  <string name="yellowpage_fc_toast">"Can't continue to use since yellow page is crashed."</string>
+  <string name="yellowpage_fc_toast">"イエローページがクラッシュしたため、この機能を使用できません。"</string>
   <string name="yellowpage_navigation_ad_hint">Ad</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"Balance and mobile data couldn't be verified, try again later."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Balance and mobile data have been verified</string>

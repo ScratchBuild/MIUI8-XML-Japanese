@@ -114,7 +114,7 @@
   <string name="express_inquiry_delete_warning_multiple">Delete %d entries?</string>
   <string name="express_inquiry_delete_warning_single">Delete this entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
-  <string name="express_inquiry_detail">Express detail</string>
+  <string name="express_inquiry_detail">Express delivery details</string>
   <string name="express_inquiry_edit_logistics">Courier</string>
   <string name="express_inquiry_history">履歴</string>
   <string name="express_inquiry_history_remark">Comments</string>

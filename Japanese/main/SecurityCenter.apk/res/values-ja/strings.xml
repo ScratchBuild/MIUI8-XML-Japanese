@@ -854,6 +854,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_cooldown_now">Cool down</string>
   <string name="optimize_result_button_correct_now">Adjust</string>
   <string name="optimize_result_button_fix_now">"修復"</string>
+  <string name="optimize_result_button_mifi_insurance">Buy now</string>
   <string name="optimize_result_button_onekey_open">Turn on</string>
   <string name="optimize_result_button_onekey_restore">Restore</string>
   <string name="optimize_result_button_open_now">Turn on</string>
@@ -1312,6 +1313,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
+  <string name="summary_mifi_insurance">Get a 1 year replacement plan which works for the cases of hardware damage</string>
   <string name="summary_miui_update">Update available for %s.</string>
   <string name="summary_mms">Block SMS spam automatically</string>
   <string name="summary_network_switch">Allow Security app to connect to the internet</string>
@@ -1463,6 +1465,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_install_virus_yes">Installation monitor on</string>
   <string name="title_limit_traffic_per_day">Daily data usage limit</string>
   <string name="title_live_talk_purchase">Turn on Top-up package</string>
+  <string name="title_mifi_insurance">Extended warranty</string>
   <string name="title_miui_update">Update available</string>
   <string name="title_mms_no">Message filter is off</string>
   <string name="title_mms_yes">Message filter is on</string>

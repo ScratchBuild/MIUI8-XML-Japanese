@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">アカウント</string>
-  <string name="aaid_info">"
-広告識別子は、お使いのデバイスに固有の永続的なIDです。ベンダーは、あなたにより役立つ内容の広告を選択するために広告識別子を使用します。"</string>
+  <string name="about_ad_service_instructions">"広告サービスとプライバシーについて "</string>
   <string name="about_phone_enter_xiaomi_net">詳細</string>
   <string name="about_settings">端末情報</string>
   <string name="about_settings_summary">端末情報、規約、バージョン情報</string>
@@ -1838,8 +1837,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_secure_after_timeout_immediately_summary">直ぐにパスワードが必要になります</string>
   <string name="lock_screen_secure_after_timeout_summary">%1$sでパスワードが必要になります</string>
   <string name="lock_screen_secure_after_timeout_title">パスワードの要求</string>
-  <string name="lock_screen_signature_summary">The signature will be displayed on the Lock screen</string>
-  <string name="lock_screen_signature_title">Lock screen signature</string>
+  <string name="lock_screen_signature_summary">This message will be displayed on the Lock screen</string>
+  <string name="lock_screen_signature_title">Lock screen owner info</string>
   <string name="lock_screen_unlock_show">スワイプ画面をスキップする</string>
   <string name="lock_screen_unlock_show_summary">復帰時にホーム画面かパスワード画面に直接行く</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">変更するにはタップ</string>
@@ -2332,7 +2331,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="owner_info_settings_edit_text_hint">ロック画面に表示するテキストを入力します</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">なし</string>
-  <string name="owner_info_settings_title">所有者情報</string>
+  <string name="owner_info_settings_title">ロック画面の所有者情報</string>
   <string name="packages_subtitle">含まれているパッケージ</string>
   <string name="page_layout_1">8月16日、日曜日</string>
   <string name="page_layout_10">設定</string>
@@ -2484,9 +2483,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_oldman_mode">設定/Lite Mode</string>
   <string name="path_onekey_migrate">設定/その他の設定/Transfer</string>
   <string name="path_other_advanced_settings">設定/その他の設定</string>
-  <string name="path_owner_info_settings">設定/ロック画面とパスワード/所有者情報</string>
+  <string name="path_owner_info_settings">設定/ロック画面とパスワード/ロック画面の所有者情報</string>
   <string name="path_page_layout_settings">設定/ディスプレイ/Text size</string>
-  <string name="path_permission_settings_title">設定/パーミッション/アプリのパーミッション</string>
+  <string name="path_permission_settings_title">設定/パーミッション/パーミッション</string>
   <string name="path_pointer_speed">設定/その他の設定/言語と入力/ポインタの速度</string>
   <string name="path_power_checker">設定/その他の設定/Beta features/Power Checker</string>
   <string name="path_power_hide_mode_title">設定/電池とパフォーマンス/Manage apps battery usage</string>
@@ -3184,7 +3183,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_oldman_mode">Lite mode;Oldman mode;Litemode</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
   <string name="search_other_advanced_settings">Additional settings;More settings</string>
-  <string name="search_owner_info_settings">所有者情報</string>
+  <string name="search_owner_info_settings">Lock screen owner info;Owner info;Signature;Lock screen signature;Owner</string>
   <string name="search_page_layout_settings">テキストサイズ;Font size;Small font;Big font;Medium font;XXL font;Huge font;Font sizes</string>
   <string name="search_permission_settings_title">App permissions</string>
   <string name="search_pointer_speed">ポインタの速度</string>
@@ -3369,6 +3368,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="set_password_message">端末のロック解除するのと同様に、チャイルドモードをオフにするためのパスワードを設定します。</string>
   <string name="set_password_title">パスワードを設定</string>
   <string name="setting_privacy_password">プライバシー保護のパスワードを設定</string>
+  <string name="settings_ad_loading">読み込み中…</string>
+  <string name="settings_ad_loading_unavailable">読み込み中に問題が発生しました。</string>
   <string name="settings_backup">設定をバックアップ</string>
   <string name="settings_backup_summary">設定をバックアップ</string>
   <string name="settings_button">設定</string>

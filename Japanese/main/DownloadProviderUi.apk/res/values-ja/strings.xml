@@ -3,6 +3,7 @@
   <string name="Only_the_wifi">"Wi-Fiのみ使用"</string>
   <string name="about">About</string>
   <string name="action_settings">"設定"</string>
+  <string name="ad_install">"インストール"</string>
   <string name="ad_mark">AD</string>
   <string name="ad_title">People also download these with  %1$s </string>
   <string name="ad_title_other">People who downloaded this image also downloaded</string>
@@ -47,6 +48,8 @@
   <string name="deselect_all">"すべて選択を解除"</string>
   <string name="deselect_subfile_all">"すべて選択を解除"</string>
   <string name="determine">OK</string>
+  <string name="dialog_btn_cancel">"キャンセル"</string>
+  <string name="dialog_btn_ok">OK</string>
   <string name="dialog_btn_ok_disabled_net">"ネットワーク設定"</string>
   <string name="dialog_cannot_resume">"ダウンロードが中断されました。再開することはできません。"</string>
   <string name="dialog_confirm_delete_checkbox_message">Delete local files as well</string>
@@ -60,10 +63,12 @@
   <string name="dialog_insufficient_space_on_external">Cannot finish download. There is not enough space on external storage.</string>
   <string name="dialog_media_not_found">"ダウンロードできません。外部メディアは使用できません。"</string>
   <string name="dialog_msg_disabled_net">%1$s restricted downloads in the current network. Tap Network settings to go to the Security app.</string>
+  <string name="dialog_msg_recommend">"You won't be able to view recommended sources after you turn off. You can choose \"Load when connected to WLAN\" to save mobile data."</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_title_disabled_net">"インターネットアクセス"</string>
   <string name="dialog_title_not_available">"ダウンロードに失敗しました"</string>
   <string name="dialog_title_queued_body">"ファイルはまだ利用できません"</string>
+  <string name="dialog_title_recommend">Turn off recommended sources</string>
   <string name="disable">Off</string>
   <string name="display_expire_netiv1">"今月"</string>
   <string name="do_not_support_url">"This type of URL isn't supported"</string>
@@ -73,6 +78,7 @@
   <string name="download_complete">"完了"</string>
   <string name="download_detail">"詳細"</string>
   <string name="download_error">"失敗"</string>
+  <string name="download_error_download_file_not_exists">"ファイルが存在しません"</string>
   <string name="download_error_insufficient_space">"十分な空き領域がありません"</string>
   <string name="download_filesize_unknown">"不明"</string>
   <string name="download_from">Source:</string>
@@ -158,9 +164,9 @@
   <string name="high_speed_tryout_time">Trial time left: %1$s. Become a Xunlei member.</string>
   <string name="hint">Attention</string>
   <string name="immediately_a_renewal">Renew now</string>
-  <string name="info_flow_only_load_wifi">Load recommended sources when connected to Wi-Fi</string>
-  <string name="info_flow_setting">"設定"</string>
-  <string name="info_flow_show">Recommended sources</string>
+  <string name="info_flow_only_load_wifi">Only load content using Wi-Fi</string>
+  <string name="info_flow_setting">"コンテンツの設定"</string>
+  <string name="info_flow_show">Show recommended content</string>
   <string name="input_valid_address">Enter a file path</string>
   <string name="install">"インストール"</string>
   <string name="install_failed">"%1$sをインストールできませんでした"</string>

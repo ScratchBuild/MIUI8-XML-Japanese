@@ -481,7 +481,7 @@
   <string name="title_of_traffic_notification">Data stats bar</string>
   <string name="title_optimizer">"利用規約"</string>
   <string name="title_share_link">"URLを共有"</string>
-  <string name="toast_add_white_list_success">" 例外に追加しました"</string>
+  <string name="toast_add_white_list_success">" 例外に正常に追加されました"</string>
   <string name="toast_app_no_residual_on_sdcard">"アプリはSDカード上に何もファイルを保存していません"</string>
   <string name="toast_backup_is_running">"バックアップは既に実行中です"</string>
   <string name="toast_backup_uninstall_failed">"Couldn't back up %d apps"</string>
@@ -493,7 +493,7 @@
   <string name="toast_must_select_before_restore">"復元する写真を選択してください"</string>
   <string name="toast_network_eror">"ネットワークに接続できません"</string>
   <string name="toast_network_switch">"このアプリはインターネットに接続することができます"</string>
-  <string name="toast_removed_from_white_list">" 例外から削除しました"</string>
+  <string name="toast_removed_from_white_list">" 例外から正常に削除されました"</string>
   <string name="toast_resolve_apk_error">Resolve apk error</string>
   <string name="toast_scaning_similar_image">"写真を確認中…"</string>
   <string name="toast_select_image_need_delete">"削除する写真を選択してください"</string>

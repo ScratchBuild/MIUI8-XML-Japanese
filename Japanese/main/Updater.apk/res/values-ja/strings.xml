@@ -116,8 +116,8 @@
   <string name="new_updates_found_notification_title">Update available</string>
   <string name="next">"次へ"</string>
   <string name="no_log">No summary available</string>
-  <string name="no_wifi_msg">"Using your mobile data connection to download the update will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
-  <string name="no_wifi_title">Data usage warning</string>
+  <string name="no_wifi_msg">Using mobile data may generate additional fees. Connect to WLAN to download updates.</string>
+  <string name="no_wifi_title">"Wi-Fiに接続"</string>
   <string name="not_open">"いいえ"</string>
   <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>
   <string name="notification_delay_update_button">Update in 2 hours</string>

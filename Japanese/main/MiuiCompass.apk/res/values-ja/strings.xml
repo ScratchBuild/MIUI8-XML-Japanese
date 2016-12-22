@@ -7,7 +7,7 @@
   <string name="altitude_uncalibrate_msg">GPSかモバイルデータ通信が無いと、正確な高度の調整はできません</string>
   <string name="altitude_uncalibrate_refresh">再試行</string>
   <string name="altitude_uncalibrate_tip">高度の調整ができません</string>
-  <string name="altitude_unit">M</string>
+  <string name="altitude_unit">m</string>
   <string name="app_label">コンパス</string>
   <string name="calibrate_failed">高度の補正に失敗しました</string>
   <string name="calibrate_failed_no_location">補正に失敗しました</string>
