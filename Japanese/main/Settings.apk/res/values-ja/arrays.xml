@@ -103,37 +103,6 @@
         <item>高い</item>
         <item>非常に高い</item>
     </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
-    </string-array>
-    <string-array name="eap_method_without_sim_auth">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>ボタンを押す</item>
         <item>ピアデバイスのPIN</item>
@@ -181,12 +150,6 @@
         <item>使用時間</item>
         <item>前回の使用</item>
         <item>アプリ名</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>なし</item>
@@ -635,18 +598,6 @@
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimal</item>
     </string-array>
-    <string-array name="wifi_eap_method_add_sim">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-    </string-array>
-    <string-array name="wifi_eap_method_add_sim_for_cmcc">
-        <item>PEAP</item>
-        <item>SIM</item>
-    </string-array>
     <string-array name="screen_key_position_action">
         <item>左側にメニューボタン、右側に戻るボタン</item>
         <item>左側に戻るボタン、右側にメニューボタン</item>
@@ -702,12 +653,6 @@
         <item>OSX</item>
         <item>Linux</item>
     </string-array>
-    <string-array name="msd_pc_system_install_summary">
-        <item>2.Follow the onscreen instructions</item>
-        <item></item>
-        <item></item>
-        <item></item>
-    </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Create a directory: mkdir /media/mtp</item>
@@ -744,14 +689,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="startup_hips_action">
         <item>許可</item>
         <item>拒否</item>
-    </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Native</item>
-    </string-array>
-    <string-array name="values_color_calibration">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Single mic noise suppression</item>
@@ -815,19 +752,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ホームネットワーク</item>
         <item>すべてのネットワーク</item>
     </string-array>
-    <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
-    </string-array>
-    <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_reset_type_entries">
-        <item>HOT</item>
-        <item>WARM</item>
-        <item>COLD</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5インチ</item>
         <item>4.0インチ</item>
@@ -855,14 +779,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_resolution_entries">
         <item>最高 (2K)</item>
         <item>標準 (720p)</item>
-    </string-array>
-    <string-array name="miui_entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Lock screen</item>

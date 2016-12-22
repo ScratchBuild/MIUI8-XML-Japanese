@@ -576,8 +576,8 @@ Then answer the question"</string>
   <string name="passport_bad_authentication">"ユーザー名かパスワードが無効です"</string>
   <string name="passport_btn_return">"戻る"</string>
   <string name="passport_button_cancel">"キャンセル"</string>
-  <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
-  <string name="passport_change_phone_number">Switch numbers</string>
+  <string name="passport_change_account">&lt;u&gt;アカウントを変更&lt;/u&gt;</string>
+  <string name="passport_change_phone_number">"番号を変更"</string>
   <string name="passport_checking_account">"パスワードを確認中…"</string>
   <string name="passport_checking_input">"入力を確認中…"</string>
   <string name="passport_choose_which_one_sim">"電話番号を選択"</string>

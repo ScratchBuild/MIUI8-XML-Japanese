@@ -112,7 +112,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
   <string name="delete">"削除"</string>
   <string name="delete_download">"削除"</string>
-  <string name="delete_downloads_records">Delete downloads</string>
+  <string name="delete_downloads_records">"ダウンロードを削除"</string>
   <string name="delete_file_as_well">Permanently delete this song</string>
   <string name="delete_file_end">Delete permanently</string>
   <string name="delete_file_start">Delete selected files</string>
@@ -136,7 +136,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_button_find_music">Discover</string>
   <string name="dialog_button_login">Sign in and sync your music</string>
   <string name="dialog_button_scan_tracks">Search for music on this device</string>
-  <string name="dialog_cannot_resume">"Download interrupted. It can't be resumed."</string>
+  <string name="dialog_cannot_resume">"ダウンロードが中断されました。再開することはできません。"</string>
   <string name="dialog_confirm_delete_checkbox_message">Delete local files as well</string>
   <string name="dialog_confirm_delete_downloads_message">Delete %d items?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Delete these items?</string>
@@ -147,7 +147,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_hint_music_error">No songs found.</string>
   <string name="dialog_insufficient_space_on_cache">"ダウンロードを完了できません。内部ストレージに十分な空き領域がありません。"</string>
   <string name="dialog_insufficient_space_on_external">"ダウンロードを完了できません。SDカードに十分な空き領域がありません。"</string>
-  <string name="dialog_media_not_found">"Can't download. SD card isn't available."</string>
+  <string name="dialog_media_not_found">"ダウンロードできません。SDカードは使用できません。"</string>
   <string name="dialog_not_show_again">"二度と表示しない"</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_title_add_playlist">Add playlist</string>
@@ -156,7 +156,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_title_not_available">"ダウンロードできませんでした"</string>
   <string name="dialog_title_queued_body">File not yet available</string>
   <string name="dialog_title_remove_tracks">Remove</string>
-  <string name="dialog_title_track_picker">Choose songs</string>
+  <string name="dialog_title_track_picker">"曲を選択"</string>
   <string name="disable_auto_payment_fail">"Couldn't turn off"</string>
   <string name="disable_auto_payment_fail_message">"Couldn't turn off automatic renewal"</string>
   <string name="disable_auto_payment_success">Turned off</string>
@@ -271,7 +271,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="eq_preset_format">User preset %d</string>
   <string name="eq_preset_hint">Effect name</string>
   <string name="eq_preset_rename">"名前を変更"</string>
-  <string name="eq_preset_select">Choose a preset</string>
+  <string name="eq_preset_select">"プリセットを選択"</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
   <string name="error_forbidden">Sync has been turned off due to problems with your account.</string>
@@ -327,11 +327,11 @@ is mainly provided by Ultimate Inc."</string>
   <string name="home_tab_online">Discover</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">OK</string>
-  <string name="impunity_declaration_content1">"By touching agree, you agree to the terms stated in our "</string>
+  <string name="impunity_declaration_content1">"同意をタップすることで、あなたは我々の"</string>
   <string name="impunity_declaration_content2">"利用規約"</string>
   <string name="impunity_declaration_content3">" と "</string>
   <string name="impunity_declaration_content4">"プライバシーポリシー"</string>
-  <string name="impunity_declaration_content5">.</string>
+  <string name="impunity_declaration_content5">"に同意されたものとみなします。"</string>
   <string name="impunity_declaration_ignore">"二度と表示しない"</string>
   <string name="impunity_declaration_negative_text">"終了"</string>
   <string name="impunity_declaration_positive_text">"同意"</string>
@@ -339,12 +339,12 @@ is mainly provided by Ultimate Inc."</string>
   <string name="impunity_declaration_summary">"Musicアプリを開くたびにBaidu Online Music Serviceの利用規約をポップアップで表示します"</string>
   <string name="impunity_declaration_title">"利用規約"</string>
   <string name="in_searching_please_wait">"検索中…"</string>
-  <string name="input_hint_prefix">Please input %1$s</string>
+  <string name="input_hint_prefix">"%1$sを入力してください"</string>
   <string name="insufficient_space">"お使いの端末の内部ストレージに十分な空き領域がありません"</string>
   <string name="is_loading_data">Still loading songs. Wait a minute or two and try again.</string>
-  <string name="is_scanning">Checking storage…</string>
-  <string name="is_scanning_support_online">"Checking storage…
-(In the meantime, you can stream music online)"</string>
+  <string name="is_scanning">"ストレージの確認中…"</string>
+  <string name="is_scanning_support_online">"ストレージの確認中…
+(その間、オンラインで音楽をストリーミングできます)"</string>
   <string name="japan_korea_female">Female artists (Japan/Korea)</string>
   <string name="japan_korea_group">Bands (Japan/Korea)</string>
   <string name="japan_korea_male">Male artists (Japan/Korea)</string>
@@ -353,7 +353,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="latest_song">"再生履歴 (%d)"</string>
   <string name="like">Like</string>
   <string name="list_detail_title">"詳細"</string>
-  <string name="list_item_play_FM_radio">Touch to play FM radio</string>
+  <string name="list_item_play_FM_radio">"FMラジオを再生するにはタップ"</string>
   <string name="list_item_play_all_tracks">"すべて再生"</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loadercontainer_loading">"読み込み中…"</string>

@@ -264,7 +264,7 @@
   <string name="offline_media_empty_title">Empty</string>
   <string name="offline_no_avail_item_hint">No episodes available to download</string>
   <string name="offline_no_selected_item_hint">Choose a video</string>
-  <string name="offline_no_source">"Can't view in offline mode"</string>
+  <string name="offline_no_source">"オフラインモードでは表示できません"</string>
   <string name="offline_setting">Offline</string>
   <string name="offline_status_failed">"失敗"</string>
   <string name="offline_status_finished">"完了"</string>
@@ -297,8 +297,8 @@
   <string name="passport_back">"戻る"</string>
   <string name="passport_bad_authentication">"無効なユーザー名またはパスワード"</string>
   <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
-  <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
-  <string name="passport_change_phone_number">Switch numbers</string>
+  <string name="passport_change_account">"&lt;u&gt;アカウントを変更&lt;/u&gt;"</string>
+  <string name="passport_change_phone_number">"番号を変更"</string>
   <string name="passport_checking_account">"パスワードを確認中…"</string>
   <string name="passport_checking_input">"入力を確認中…"</string>
   <string name="passport_click_email_to_valid">"
@@ -307,8 +307,8 @@ To activate your account, follow the
  link we've sent to your inbox."</string>
   <string name="passport_completed">"完了"</string>
   <string name="passport_confirm_recycle_account">"はい"</string>
-  <string name="passport_copy_message_text_success">Copied successfully</string>
-  <string name="passport_copy_message_vcode">Copy code</string>
+  <string name="passport_copy_message_text_success">"正常にコピーされました"</string>
+  <string name="passport_copy_message_vcode">"コードをコピー"</string>
   <string name="passport_delete_account">"ログアウト"</string>
   <string name="passport_downlink_reg">"電話番号を使用してアカウントを作成"</string>
   <string name="passport_email">"メールアドレス"</string>

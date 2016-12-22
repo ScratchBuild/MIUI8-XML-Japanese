@@ -128,7 +128,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="master_alert_notif_content">"同期できません"</string>
   <string name="master_alert_notif_dspt_add">Items waiting to sync: %s</string>
   <string name="master_alert_notif_dspt_no">"同期済み"</string>
-  <string name="master_alert_notif_title">Turn on sync with Mi Cloud</string>
+  <string name="master_alert_notif_title">"Mi Cloudとの同期をオンにする"</string>
   <string name="member_due_date">Valid until %s</string>
   <string name="micloud_all_sub_1_intl_sms">International SMS will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_1_sms">Regular SMS will be sent to activate your SIM card. You will be charged by the carrier.</string>
@@ -292,7 +292,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_member_webload_fail_error_message">ネットワークエラー</string>
   <string name="micloud_member_webload_fail_toast_4xx">"ページを読み込めませんでした"</string>
   <string name="micloud_member_webload_fail_toast_5xx">サーバーエラー</string>
-  <string name="micloud_more">Learn more</string>
+  <string name="micloud_more">詳細</string>
   <string name="micloud_notif_content_battery_low">Battery is too low.</string>
   <string name="micloud_notif_content_clipboard_push">You can paste it anywhere.</string>
   <string name="micloud_notif_content_depend_wifi">Connect to WLAN to sync.</string>
@@ -394,7 +394,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="next">"次へ"</string>
   <string name="noRemind">"二度と表示しない"</string>
   <string name="no_sim">"SIMカードが検出できません"</string>
-  <string name="open_micloud_sync">Turn on sync with Mi Cloud</string>
+  <string name="open_micloud_sync">"Mi Cloudとの同期をオンにする"</string>
   <string name="other_settings">その他の設定</string>
   <string name="other_sync_item">Other syncing items</string>
   <string name="passed_synced_time_day">%d日前に同期</string>
@@ -441,7 +441,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="soundrecorder_sync_records">"Mi Cloudと同期"</string>
   <string name="start_micloud">開始</string>
   <string name="storage">ストレージ</string>
-  <string name="sub_alert_notif_content">Turn on sync with Mi Cloud to back up your data</string>
+  <string name="sub_alert_notif_content">"Mi Cloudとの同期をオンにしてデータをバックアップする"</string>
   <string name="sub_alert_notif_dspt_add">Items waiting to sync: %s</string>
   <string name="sub_alert_notif_dspt_no">"同期済み"</string>
   <string name="sub_alert_notif_title">"Mi Cloudと同期"</string>
@@ -450,7 +450,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="success_upgraded_space">%s added</string>
   <string name="sync_dspt">同期</string>
   <string name="sync_dspt_entrance_provision">"Sync your photos, contacts, call history, and messages across all your devices. Access the things you sync from any browser at %s. "</string>
-  <string name="sync_dspt_entrance_provision_2">Learn more</string>
+  <string name="sync_dspt_entrance_provision_2">詳細</string>
   <string name="sync_dspt_entrance_provision_confirm_close">使用しない</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's built-in apps need Mi Cloud to back up your photos, contacts, notes, and more. Mi Cloud is free and ready to use out of the box."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloudを使用</string>
@@ -489,13 +489,13 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="upgrade_space_successful">Added %sGB</string>
   <string name="upgrade_space_successful_total">%sGB available</string>
   <string name="upgrade_space_tb">TB</string>
-  <string name="user_agreement">User Agreement</string>
+  <string name="user_agreement">"利用規約"</string>
   <string name="user_agreement_p5">"
 "</string>
-  <string name="user_agreement_p6">"By using this service, you're agreeing to "</string>
-  <string name="user_agreement_p7">"Mi Cloud's Terms of Service"</string>
-  <string name="user_agreement_p8">.</string>
-  <string name="user_agreement_title">"Mi Cloud's Terms of Service"</string>
+  <string name="user_agreement_p6">"このサービスを利用することで、あなたは "</string>
+  <string name="user_agreement_p7">"Mi Cloud 利用規約"</string>
+  <string name="user_agreement_p8">" に同意されたものとみなします。"</string>
+  <string name="user_agreement_title">"Mi Cloud 利用規約"</string>
   <string name="vcode">Verification code</string>
   <string name="verify">Verify</string>
   <string name="view_storage_title">Storage space</string>

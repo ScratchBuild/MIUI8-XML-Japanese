@@ -13,8 +13,8 @@
         <item quantity="one">%d song found</item>
     </plurals>
     <plurals name="Nexpired_remind">
-        <item quantity="other">%d days remaining</item>
-        <item quantity="one">%d day remaining</item>
+        <item quantity="other">残り%d日</item>
+        <item quantity="one">残り%d日</item>
     </plurals>
     <plurals name="NTrackstoDownload">
         <item quantity="other">%d songs will be downloaded</item>

@@ -3,7 +3,7 @@
   <string name="Accounts_settings_title">アカウント</string>
   <string name="aaid_info">"
 広告識別子は、お使いのデバイスに固有の永続的なIDです。ベンダーは、あなたにより役立つ内容の広告を選択するために広告識別子を使用します。"</string>
-  <string name="about_phone_enter_xiaomi_net">Learn more</string>
+  <string name="about_phone_enter_xiaomi_net">詳細</string>
   <string name="about_settings">端末情報</string>
   <string name="about_settings_summary">端末情報、規約、バージョン情報</string>
   <string name="ac_enable_summary">個々のアプリのパスワードを設定</string>
@@ -457,13 +457,13 @@
   <string name="block_list_diaglog_cancle">キャンセル</string>
   <string name="block_list_diaglog_ok">OK</string>
   <string name="block_list_dialog_title">今すぐ切断しますか？</string>
-  <string name="block_list_mtk_dialog_content">This action will disconnect “%s” from this device</string>
-  <string name="block_list_no_device">No connected devices in blocklist</string>
-  <string name="block_list_qcom_dialog_content">This action will disconnect “%s” from this device and add it to blocklist</string>
-  <string name="block_list_remove_dialog_content">This device “%s” will be able to connect to this hotspot</string>
-  <string name="block_list_remove_dialog_title">Remove “%s” from blocklist</string>
-  <string name="block_list_summary">View devices which arent allowed to connect to this hotspot</string>
-  <string name="block_list_title">Blocklist</string>
+  <string name="block_list_mtk_dialog_content">この操作は\"%s\"をこのデバイスから切断します</string>
+  <string name="block_list_no_device">ブロックリストに接続されたデバイスはありません</string>
+  <string name="block_list_qcom_dialog_content">この操作は\"%s\"をこのデバイスから切断してブロックリストに追加します</string>
+  <string name="block_list_remove_dialog_content">\"%s\"はこのホットスポットに接続できます</string>
+  <string name="block_list_remove_dialog_title">ブロックリストから\"%s\"を削除する</string>
+  <string name="block_list_summary">このホットスポットへの接続を許可していないデバイスを表示する</string>
+  <string name="block_list_title">ブロックリスト</string>
   <string name="ble_scan_notify_text">位置情報の精度を向上させるため、BluetoothがOFFの場合でもシステムのアプリやサービスはBluetoothデバイスを検出できます。この設定は、LINK_BEGINスキャンの設定LINK_ENDで変更できます。</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
@@ -4724,7 +4724,6 @@ PINが正しくない可能性があります。"</string>
   <string name="xiaomi_router_notif_title">Mi WiFiルーター通知</string>
   <string name="xspace">デュアルアプリ</string>
   <string name="yes">はい</string>
-  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">"夜間モードへのアクセスをリクエストしたインストール済みアプリはありません"</string>
   <string name="zen_access_warning_dialog_summary">"アプリは夜間モードのON/OFFを切り替えたり、関連する設定を変更したりできるようになります。"</string>
   <string name="zen_access_warning_dialog_title">"%1$sの夜間モードへのアクセスを許可しますか？"</string>

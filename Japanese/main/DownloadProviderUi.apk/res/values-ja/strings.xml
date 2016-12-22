@@ -48,7 +48,7 @@
   <string name="deselect_subfile_all">"すべて選択を解除"</string>
   <string name="determine">OK</string>
   <string name="dialog_btn_ok_disabled_net">"ネットワーク設定"</string>
-  <string name="dialog_cannot_resume">Download interrupted. It cannot be resumed.</string>
+  <string name="dialog_cannot_resume">"ダウンロードが中断されました。再開することはできません。"</string>
   <string name="dialog_confirm_delete_checkbox_message">Delete local files as well</string>
   <string name="dialog_confirm_delete_downloads_message">Delete %d tasks?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Delete these tasks</string>
@@ -73,7 +73,7 @@
   <string name="download_complete">"完了"</string>
   <string name="download_detail">"詳細"</string>
   <string name="download_error">"失敗"</string>
-  <string name="download_error_insufficient_space">Insufficient space</string>
+  <string name="download_error_insufficient_space">"十分な空き領域がありません"</string>
   <string name="download_filesize_unknown">"不明"</string>
   <string name="download_from">Source:</string>
   <string name="download_in_process">"ダウンロード中"</string>
@@ -317,7 +317,7 @@ across all your devices with Xunlei"</string>
   <string name="sniff_hot_text">Related</string>
   <string name="sniff_no_network_tip">"ネットワーク接続を確認して、もう一度やり直してください"</string>
   <string name="sniff_no_result_text">No results found</string>
-  <string name="sniff_result_empty_prompt">Web search results</string>
+  <string name="sniff_result_empty_prompt">"ウェブ検索結果"</string>
   <string name="sniff_result_num_prefix">Found</string>
   <string name="sniff_result_num_video_suffix">items</string>
   <string name="sniff_result_num_website_suffix">websites</string>
@@ -334,15 +334,15 @@ across all your devices with Xunlei"</string>
   <string name="sniff_shortcut_tip">You can add a Home screen shortcut for web search</string>
   <string name="sniff_shortcut_tip2">Find sources for the downloads from your Home screen.</string>
   <string name="sniff_sniffing_btn_text">Looking for source…</string>
-  <string name="sniff_terms_agree">Accept</string>
-  <string name="sniff_terms_agree_new">Agree</string>
-  <string name="sniff_terms_check_text">Agree to Terms of Service</string>
+  <string name="sniff_terms_agree">"同意する"</string>
+  <string name="sniff_terms_agree_new">"同意する"</string>
+  <string name="sniff_terms_check_text">"利用規約に同意する"</string>
   <string name="sniff_terms_msg">You should accept \"Terms of Use\" to start using a third party search engine.</string>
   <string name="sniff_terms_msg_a">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it.</string>
   <string name="sniff_terms_msg_b">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it. If you agree, check the box below.</string>
-  <string name="sniff_terms_msg_bold">Terms of Use</string>
-  <string name="sniff_terms_msg_bold_new">Terms of Service</string>
-  <string name="sniff_terms_reject">Decline</string>
+  <string name="sniff_terms_msg_bold">"利用規約"</string>
+  <string name="sniff_terms_msg_bold_new">"利用規約"</string>
+  <string name="sniff_terms_reject">"同意しない"</string>
   <string name="sniff_terms_title">Attention</string>
   <string name="sniff_text_sniff_next_page">"続行 &gt;"</string>
   <string name="sniff_vip_tip_speedup">You can try speed boost once for free</string>
@@ -419,7 +419,7 @@ Accelerate downloads across all your devices."</string>
   <string name="xl_privilege_title">Xunlei membership</string>
   <string name="xl_validate_title">Valid until:  </string>
   <string name="xl_vip_annual">"1年: %1$s Mi Credits × 12"</string>
-  <string name="xl_vip_combo">Plans</string>
+  <string name="xl_vip_combo">"プラン"</string>
   <string name="xl_vip_month">"1ヶ月: %1$s Mi Credits × 1"</string>
   <string name="xl_vip_open">Purchase</string>
   <string name="xl_vip_overdue">Expired</string>
