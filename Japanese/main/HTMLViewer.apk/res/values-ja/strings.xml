@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ad_service">Ad Service</string>
+  <string name="ad_service">広告サービス</string>
   <string name="app_label">HTMLビューア</string>
   <string name="app_name_which_call">アプリケーション:%s</string>
   <string name="app_version_which_call">アプリケーションバージョン:%s</string>

@@ -181,8 +181,8 @@
   <string name="card_title_callconnectedect">Call connected ECT</string>
   <string name="card_title_callconnectingect">Call connecting ECT</string>
   <string name="card_title_calliswaiting">Waiting</string>
-  <string name="card_title_callonhold">Put on hold</string>
-  <string name="card_title_callonhold_released">Call released</string>
+  <string name="card_title_callonhold">保留にする</string>
+  <string name="card_title_callonhold_released">保留を解除</string>
   <string name="card_title_callretrieved">Call retrieved</string>
   <string name="card_title_clir_suppression_rejected">CLIR suppression rejected</string>
   <string name="card_title_conditionalCF">Conditional call forwarding is on</string>

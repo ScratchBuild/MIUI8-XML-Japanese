@@ -72,9 +72,9 @@
         <item>Never</item>
     </string-array>
     <string-array name="lock_mode">
-        <item>When device is locked</item>
-        <item>When device is locked or after exiting app</item>
-        <item>When device is locked​ or in 1 minute after exiting app</item>
+        <item>"デバイスがロックされた時"</item>
+        <item>"デバイスがロックされた時、またはアプリを終了した後"</item>
+        <item>"デバイスがロックされた時、またはアプリを終了した1分後"</item>
     </string-array>
     <string-array name="long_add_menu">
         <item>"例外に追加"</item>

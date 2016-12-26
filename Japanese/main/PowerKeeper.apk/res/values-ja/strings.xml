@@ -2,8 +2,8 @@
 <resources>
   <string name="action_bar_delete">"削除"</string>
   <string name="action_settings">"設定"</string>
-  <string name="activity_title_poweranalyze">Test battery</string>
-  <string name="activity_title_powerconfigure">Battery settings</string>
+  <string name="activity_title_poweranalyze">"バッテリーのテスト"</string>
+  <string name="activity_title_powerconfigure">"バッテリーの設定"</string>
   <string name="activity_title_poweroptimize">Battery saver</string>
   <string name="add_applications">"アプリを選択"</string>
   <string name="add_apps_title">"アプリ"</string>
@@ -39,7 +39,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="fragment_tab_title_sys">"システムアプリ"</string>
   <string name="full_screen_enter">Enter full screen</string>
   <string name="full_screen_exit">Exit full screen</string>
-  <string name="google_base_app_install_choice">\"%s\" requires Google Service Framework apps to work normally, download and install them?</string>
+  <string name="google_base_app_install_choice">"\"%s\"が正常に動作するにはGoogleサービスフレームワークが必要です、今すぐインストールしますか？"</string>
   <string name="hide_mode_desc">When an app runs in the background, its activities will be monitored to reduce battery usage.</string>
   <string name="hide_mode_ultimate_desc">Ultimate mode is on. The apps in the background will be frozen. Turn off Battery saver to exit Ultimate mode.</string>
   <string name="high">"パフォーマンス"</string>
@@ -52,8 +52,8 @@ Battery saver will treat important apps selectively."</string>
   <string name="location_mode_title">Background location</string>
   <string name="low">Battery saving</string>
   <string name="media">Media mode</string>
-  <string name="menu_text_power_analysis">Test battery</string>
-  <string name="menu_text_power_configure">Battery settings</string>
+  <string name="menu_text_power_analysis">"バッテリーのテスト"</string>
+  <string name="menu_text_power_configure">"バッテリーの設定"</string>
   <string name="middle">"バランス"</string>
   <string name="mode_delete">"削除"</string>
   <string name="mode_export">"エクスポート"</string>
@@ -126,9 +126,9 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_dialog_screen_brightness_title">"画面の明るさ"</string>
   <string name="power_event_user_define_title">"新しいイベント"</string>
   <string name="power_event_view_event_title">"トリガー"</string>
-  <string name="power_hide_mode_app_list_summary">App settings</string>
-  <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, WLAN and mobile data connections, and GPS"</string>
-  <string name="power_hide_mode_title">"Manage apps' battery usage"</string>
+  <string name="power_hide_mode_app_list_summary">"アプリの設定"</string>
+  <string name="power_hide_mode_summary">"個々のアプリのバックグラウンドプロセス、Wi-Fiとモバイルデータ接続、GPSを制限してバッテリーを節約する"</string>
+  <string name="power_hide_mode_title">"アプリの電池使用量を管理"</string>
   <string name="power_keeper">Battery saver</string>
   <string name="power_mode_cpu_state_high">"パフォーマンス"</string>
   <string name="power_mode_cpu_state_high_desc">"バッテリー寿命よりもパフォーマンスを優先させます"</string>

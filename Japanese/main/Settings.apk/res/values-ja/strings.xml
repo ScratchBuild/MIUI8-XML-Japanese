@@ -1837,8 +1837,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_secure_after_timeout_immediately_summary">直ぐにパスワードが必要になります</string>
   <string name="lock_screen_secure_after_timeout_summary">%1$sでパスワードが必要になります</string>
   <string name="lock_screen_secure_after_timeout_title">パスワードの要求</string>
-  <string name="lock_screen_signature_summary">This message will be displayed on the Lock screen</string>
-  <string name="lock_screen_signature_title">Lock screen owner info</string>
+  <string name="lock_screen_signature_summary">このメッセージはロック画面に表示されます</string>
+  <string name="lock_screen_signature_title">ロック画面の所有者情報</string>
   <string name="lock_screen_unlock_show">スワイプ画面をスキップする</string>
   <string name="lock_screen_unlock_show_summary">復帰時にホーム画面かパスワード画面に直接行く</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">変更するにはタップ</string>
@@ -2488,7 +2488,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="path_permission_settings_title">設定/パーミッション/パーミッション</string>
   <string name="path_pointer_speed">設定/その他の設定/言語と入力/ポインタの速度</string>
   <string name="path_power_checker">設定/その他の設定/Beta features/Power Checker</string>
-  <string name="path_power_hide_mode_title">設定/電池とパフォーマンス/Manage apps battery usage</string>
+  <string name="path_power_hide_mode_title">設定/電池とパフォーマンス/アプリの電池使用量を管理</string>
   <string name="path_power_mode_settings">設定/電池とパフォーマンス/Power settings</string>
   <string name="path_power_optimize">設定/その他の設定/Beta features/Battery saver</string>
   <string name="path_pref_volume_wake_title">設定/ロック画面とパスワード/Wake with Volume buttons</string>

@@ -29,8 +29,8 @@
         <item quantity="one">%1$d件のスレッドを削除しました。</item>
     </plurals>
     <plurals name="conversation_folder_changed">
-        <item quantity="other">Changed folders</item>
-        <item quantity="one">Changed folder.</item>
+        <item quantity="other">フォルダを変更しました。</item>
+        <item quantity="one">フォルダを変更しました。</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">Ignored %1$d conversations.</item>
@@ -61,8 +61,8 @@
         <item quantity="one">%1$d件のメッセージは完全に削除されます。</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Move %1$d conversations</item>
-        <item quantity="one">Move %1$d conversation</item>
+        <item quantity="other">%1$d件のスレッドを移動しました</item>
+        <item quantity="one">%1$d件のスレッドを移動しました</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d件の新着メッセージ</item>

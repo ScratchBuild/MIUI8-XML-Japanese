@@ -116,7 +116,7 @@
   <string name="new_updates_found_notification_title">Update available</string>
   <string name="next">"次へ"</string>
   <string name="no_log">No summary available</string>
-  <string name="no_wifi_msg">Using mobile data may generate additional fees. Connect to WLAN to download updates.</string>
+  <string name="no_wifi_msg">"モバイルデータを使用すると追加料金が発生する場合があります、更新をダウンロードするにはWi-Fiに接続してください。"</string>
   <string name="no_wifi_title">"Wi-Fiに接続"</string>
   <string name="not_open">"いいえ"</string>
   <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>

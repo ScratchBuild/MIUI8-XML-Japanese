@@ -159,7 +159,6 @@
   <string name="always_bcc_myself">Always Bcc self</string>
   <string name="always_show_images">この送信者からの画像を常に表示する</string>
   <string name="app_name">"メール"</string>
-  <string name="application_mime_type">application/email-ls</string>
   <string name="archive">アーカイブ</string>
   <string name="archived">アーカイブ済み</string>
   <string name="att_download_failed_content">"このメッセージの添付ファイルをダウンロードできませんでした。"</string>

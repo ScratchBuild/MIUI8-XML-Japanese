@@ -66,10 +66,9 @@
   <string name="phone_locked_string">"電話がロックされています"</string>
   <string name="phone_locked_timeout_minutes_string">"%s分後にもう一度お試しください"</string>
   <string name="phone_locked_timeout_seconds_string">"%s秒後にもう一度お試しください"</string>
-  <string name="symbol_colon">:</string>
-  <string name="unlock_sim_string">Unlock SIM</string>
-  <string name="unlock_string">Unlock</string>
-  <string name="unlocking_sim_card">Unlocking SIM card</string>
+  <string name="unlock_sim_string">"SIMのロックを解除"</string>
+  <string name="unlock_string">"ロックを解除"</string>
+  <string name="unlocking_sim_card">"SIMカードのロックを解除中"</string>
   <string name="unlockscreen_low_battery">"充電器を接続してください"</string>
   <string name="unlockscreen_recharge_completed">"充電完了"</string>
   <string name="unlockscreen_recharging_message">"充電中 %d%%"</string>
