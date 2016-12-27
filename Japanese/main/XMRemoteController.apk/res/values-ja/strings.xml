@@ -344,7 +344,7 @@
   <string name="input_speech_button">Press &amp; hold, then speak your command</string>
   <string name="input_tip">The codes expire after 15 minutes</string>
   <string name="install_failed">"Couldn't install %s"</string>
-  <string name="install_succed">%s installed successfully</string>
+  <string name="install_succed">"%sが正常にインストールされました"</string>
   <string name="installing">"インストール中…"</string>
   <string name="introduction">Introduction</string>
   <string name="ir_ac">" AC"</string>
@@ -670,7 +670,7 @@ To activate your account, follow the
   <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="passport_reging">"アカウントを作成中…"</string>
   <string name="passport_register">"アカウントを作成"</string>
-  <string name="passport_register_account_goto_email">Go to inbox</string>
+  <string name="passport_register_account_goto_email">"受信トレイに移動"</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
   <string name="passport_register_by_email">"&lt;u&gt;メールアドレスを使用してアカウントを作成&lt;/u&gt;"</string>
   <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
@@ -694,7 +694,7 @@ To activate your account, follow the
   <string name="passport_skip_register">"登録をスキップ"</string>
   <string name="passport_skip_setup_account_msg">You can set up a Mi Account later in Settings.</string>
   <string name="passport_skip_setup_account_title">Skip setup</string>
-  <string name="passport_title_reg">Create an account</string>
+  <string name="passport_title_reg">"アカウントを作成"</string>
   <string name="passport_trust_device">Trust this device</string>
   <string name="passport_user_agreement">"利用規約"</string>
   <string name="passport_user_agreement_p1">"利用規約"</string>

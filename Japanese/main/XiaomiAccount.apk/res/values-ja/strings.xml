@@ -279,7 +279,7 @@ To activate your account, follow the
   <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="passport_reging">"アカウントを作成中…"</string>
   <string name="passport_register">"アカウントを作成"</string>
-  <string name="passport_register_account_goto_email">Go to inbox</string>
+  <string name="passport_register_account_goto_email">"受信トレイに移動"</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
   <string name="passport_register_by_email">"&lt;u&gt;メールアドレスを使用してアカウントを作成&lt;/u&gt;"</string>
   <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
@@ -306,7 +306,7 @@ To activate your account, follow the
   <string name="passport_skip_register">"登録をスキップ"</string>
   <string name="passport_skip_setup_account_msg">You can set up a Mi Account later in Settings.</string>
   <string name="passport_skip_setup_account_title">Skip setup</string>
-  <string name="passport_title_reg">Create an account</string>
+  <string name="passport_title_reg">"アカウントを作成"</string>
   <string name="passport_trust_device">Add this device to verified devices</string>
   <string name="passport_trying_read_verify_code_sms">Getting verification code…</string>
   <string name="passport_uplink_reg">"電話番号を使用"</string>
@@ -396,11 +396,11 @@ Make sure you remember the answers to these questions."</string>
 · If you forgot your password, go to id.mi.com to reset it.
 · If you can't unlock the device, go to i.mi.com to turn off Find device.
 · Tell this unlock number to the customer service: %s"</string>
-  <string name="update_contacts">Update contacts</string>
+  <string name="update_contacts">"連絡先を更新"</string>
   <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>
-  <string name="update_email_address_dialog_title">Update Email</string>
+  <string name="update_email_address_dialog_title">"メールアドレスを更新"</string>
   <string name="update_phone_number_notice_message">You need to verify your identity before you can update phone number.</string>
-  <string name="updated_nothing">Updated</string>
+  <string name="updated_nothing">"更新済み"</string>
   <string name="user_avatar_update_title">"プロフィール写真を変更"</string>
   <string name="user_avatar_uploading">"読み込み中…"</string>
   <string name="verified_apps">Verified apps</string>

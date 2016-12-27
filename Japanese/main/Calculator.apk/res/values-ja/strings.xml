@@ -39,16 +39,16 @@
   <string name="item_title_aa_payment">Split the bill</string>
   <string name="item_title_area_conversion">Area</string>
   <string name="item_title_calculator">Calculator</string>
-  <string name="item_title_currency">Currency</string>
+  <string name="item_title_currency">通貨</string>
   <string name="item_title_dress_size">Clothing size</string>
-  <string name="item_title_length_conversion">Length</string>
+  <string name="item_title_length_conversion">長さ</string>
   <string name="item_title_mortgage">Mortgage</string>
   <string name="item_title_scientific_calculator">Scientific</string>
   <string name="item_title_tax">Taxes</string>
-  <string name="item_title_temprature_conversion">Temperature</string>
-  <string name="item_title_time_conversion">Time</string>
+  <string name="item_title_temprature_conversion">温度</string>
+  <string name="item_title_time_conversion">時間</string>
   <string name="item_title_tip">Tip</string>
-  <string name="item_title_vel_conversion">Speed</string>
+  <string name="item_title_vel_conversion">速度</string>
   <string name="item_title_volume_conversion">Volume</string>
   <string name="item_title_weight_conversion">Mass</string>
   <string name="leftParenDesc">左丸括弧</string>
@@ -259,10 +259,10 @@
   <string name="unit_year_format">Year %s</string>
   <string name="wf_word_figure">Financial characters</string>
   <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s update!</string>
+  <string name="xiaomi_external_storage_unavailable">"ストレージが使用できません、SDカードを確認してください。"</string>
+  <string name="xiaomi_update_dialog_message">"バージョン %1$s の紹介
+サイズ: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"バージョン %1$s の紹介
+差分更新サイズ: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">"%1$sの更新が利用可能！"</string>
 </resources>

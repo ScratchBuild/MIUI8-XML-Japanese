@@ -19,7 +19,7 @@
   <string name="cloud_status_full_dialog_title">Mi Cloud storage full</string>
   <string name="data_connection_body">Using your mobile data connection to download this file will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="data_connection_button_text">OK</string>
-  <string name="data_connection_title">Data usage warning</string>
+  <string name="data_connection_title">"データ使用の警告"</string>
   <string name="delete">"削除"</string>
   <string name="delete_dialog_message">Delete recording?</string>
   <string name="deleting_message">"削除中…"</string>
@@ -143,6 +143,6 @@
   <string name="toast_max_record_time">%1$s can record for about %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Explorerアプリがインストールされていません"</string>
   <string name="wifi_recommended_body" formatted="false">Using your mobile data connection to download this file (%s) will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees. To wait for a WLAN connection to download this file, tap %s.</string>
-  <string name="wifi_recommended_title">Data usage warning</string>
+  <string name="wifi_recommended_title">"データ使用の警告"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

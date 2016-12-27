@@ -395,7 +395,7 @@
   <string name="data_usage_restricted_body">Tap to turn on background data.</string>
   <string name="data_usage_restricted_title">Background data restricted</string>
   <string name="data_usage_warning_body">Tap to view data usage details.</string>
-  <string name="data_usage_warning_title">Data usage warning</string>
+  <string name="data_usage_warning_title">"データ使用の警告"</string>
   <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deep_clean_disconnect_data_title">Turn off mobile data when device is locked</string>
@@ -629,7 +629,7 @@
   <string name="lock_screen_warning_category">"ロック画面の通知"</string>
   <string name="lock_screen_warning_switch_summary">Show warning on lock screen when data usage exceeds a certain amount</string>
   <string name="lock_screen_warning_switch_title">Show warnings on lock screen</string>
-  <string name="lock_screen_warning_value">Data usage warning</string>
+  <string name="lock_screen_warning_value">"データ使用の警告"</string>
   <string name="lock_settings_title">"ロック画面とパスワード"</string>
   <string name="lockpassword_confirm_your_password_header">"パスワードを確認"</string>
   <string name="lockpassword_confirm_your_pattern_header">"パターンの確認"</string>
@@ -676,7 +676,7 @@
   <string name="main_primary_message_traffic_cur_leisure">Off-peak data usage</string>
   <string name="main_primary_message_traffic_cur_normal">Under peak data limit</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Data limit exceeded</string>
-  <string name="main_primary_message_traffic_cur_normal_warning">Data usage warning</string>
+  <string name="main_primary_message_traffic_cur_normal_warning">"データ使用の警告"</string>
   <string name="main_primary_message_traffic_enough">Under data usage limit</string>
   <string name="main_primary_message_traffic_overlimit">Data usage limit exceeded</string>
   <string name="main_primary_message_traffic_overlimit_purchase">You need to top up</string>
@@ -1048,7 +1048,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
   <string name="pref_show_mobile_traffic">Show data usage stats during unlock after device has been locked for more than 5 minutes</string>
   <string name="pref_special_traffic_exceed_limit">Notify me when data usage reaches limit</string>
-  <string name="pref_special_traffic_limit_warn">Set data usage warning</string>
+  <string name="pref_special_traffic_limit_warn">"データ使用の警告の設定"</string>
   <string name="pref_specified_adjust">Set custom data limit</string>
   <string name="pref_specified_traffic_settings">Data limit settings</string>
   <string name="pref_summary_lock_screen_memory_clean">Clean automatically when device is locked</string>
@@ -1066,7 +1066,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_virus_white_list">Exceptions</string>
   <string name="pref_traffic_manage_title">Data usage</string>
   <string name="pref_version">Version %s</string>
-  <string name="pref_warning_values">Data usage warning level</string>
+  <string name="pref_warning_values">"データ使用の警告レベル"</string>
   <string name="pref_whitelist_setting">Data roaming exceptions</string>
   <string name="preferred_app_entries_browser">"ブラウザ"</string>
   <string name="preferred_app_entries_camera">"カメラ"</string>
@@ -1567,7 +1567,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_title">Data usage query</string>
   <string name="traffic_setting_open">On</string>
   <string name="traffic_setting_step_num">"データプランの設定"</string>
-  <string name="traffic_warning_purchase_title">Mobile data usage warning</string>
+  <string name="traffic_warning_purchase_title">"モバイルデータ使用の警告"</string>
   <string name="unable_connect_internet">"インターネット接続なし"</string>
   <string name="uninstall_app_dialog_msg">"アンインストールするとアプリの全データが削除されます。"</string>
   <string name="uninstall_app_dialog_title">"今すぐアンインストールしますか？"</string>

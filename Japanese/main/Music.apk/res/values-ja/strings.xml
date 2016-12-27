@@ -4,8 +4,8 @@
   <string name="account_and_cloud">"アカウント"</string>
   <string name="action_item_add">"追加"</string>
   <string name="action_item_add_song">"プレイリストに追加"</string>
-  <string name="action_item_add_to_current_playlist">Current playlist</string>
-  <string name="action_item_add_to_favorite_playlist">Favorite playlist</string>
+  <string name="action_item_add_to_current_playlist">"現在のプレイリスト"</string>
+  <string name="action_item_add_to_favorite_playlist">"お気に入りのプレイリスト"</string>
   <string name="action_item_add_to_new_playlist">"新規"</string>
   <string name="action_item_cancel">"キャンセル"</string>
   <string name="action_item_delete">"削除"</string>
@@ -16,7 +16,7 @@
   <string name="action_item_hifi">"ヘッドフォンとオーディオエフェクト"</string>
   <string name="action_item_multiple">"編集"</string>
   <string name="action_item_play_all">"すべて再生"</string>
-  <string name="action_item_remove">Remove</string>
+  <string name="action_item_remove">"削除"</string>
   <string name="action_item_remove_from_favorite">Unfavorite</string>
   <string name="action_item_send">"送信"</string>
   <string name="action_item_share">"共有"</string>
@@ -25,7 +25,7 @@
   <string name="ad_extension">Promotion</string>
   <string name="ad_mark">AD</string>
   <string name="add_music">"曲を追加"</string>
-  <string name="add_to_last_of_playlist">Add to the end of playlist</string>
+  <string name="add_to_last_of_playlist">"プレイリストの最後に追加"</string>
   <string name="alaka_required">You should pay for this song to listen to it</string>
   <string name="album_name">"アルバム"</string>
   <string name="album_search_title">"アルバム"</string>
@@ -53,7 +53,7 @@
   <string name="atmd_music">Ultimate</string>
   <string name="audio_picker_title">"曲を選択"</string>
   <string name="auth_activity_title">Xunlei Account</string>
-  <string name="auto_download_in_wifi">Download favorite songs using WLAN</string>
+  <string name="auto_download_in_wifi">"Wi-Fiを使用してお気に入りの曲をダウンロードする"</string>
   <string name="auto_payment">Automatic renewal</string>
   <string name="auto_payment_date">Next payment: %s</string>
   <string name="auto_restart_under_wifi">File will be downloaded when the device is connected to WLAN</string>
@@ -66,7 +66,6 @@
   <string name="being_disable_auto_payment">Turning off…</string>
   <string name="being_enable_auto_payment">Turning on…</string>
   <string name="bill_list_fragment_title">"チャート"</string>
-  <string name="billboard_song_subtitle">— %s</string>
   <string name="bluetooth_device">Bluetooth audio device</string>
   <string name="buffering">"バッファリング中…"</string>
   <string name="button_add">"追加"</string>
@@ -78,7 +77,7 @@
   <string name="button_wait_for_wifi">Wait</string>
   <string name="buy_other_flow">Regular data</string>
   <string name="buy_traffic">China Unicom</string>
-  <string name="can_not_find_resource">"Can't find resources"</string>
+  <string name="can_not_find_resource">"リソースが見つかりません"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_running_download">"キャンセル"</string>
   <string name="channel_list_fragment_title">Radio</string>
@@ -95,14 +94,12 @@
   <string name="cloud_settings">"同期設定"</string>
   <string name="cloud_space_full">No storage space left</string>
   <string name="cloud_space_full_message">Not enough room in your Mi Cloud to add more songs. To get more space, upgrade your Mi Account.</string>
-  <string name="comment_format" formatted="false">%s: %s</string>
   <string name="confirm_delete_downloads_message">%d downloads will be deleted.</string>
   <string name="confirm_delete_the_download_item_message">Delete these downloads?</string>
   <string name="confirm_download">"ダウンロード"</string>
   <string name="confirm_to_renew">Renew</string>
   <string name="cp_info_first">"Online music streaming service
 is mainly provided by Ultimate Inc."</string>
-  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">"Couldn't create order, try again."</string>
   <string name="create_playlist">"プレイリストを作成"</string>
   <string name="create_playlist_failure">"Couldn't create playlist"</string>
@@ -386,7 +383,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="menu_title_resume_all">"すべて開始"</string>
   <string name="menu_title_settings">"設定"</string>
   <string name="message_delete_playlist">Delete playlist %s?</string>
-  <string name="metered_alert">Data usage warning</string>
+  <string name="metered_alert">"データ使用の警告"</string>
   <string name="metered_alert_msg">Using your mobile network to listen to music will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you fees.</string>
   <string name="metered_allow">Stream</string>
   <string name="metered_disallow">"キャンセル"</string>
@@ -472,7 +469,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="no_song">No songs</string>
   <string name="no_song_downloaded">"サーバーに接続できませんでした"</string>
   <string name="normal_quality">Good</string>
-  <string name="not_login">Not signed in</string>
+  <string name="not_login">"ログインしていません"</string>
   <string name="not_now">"後で"</string>
   <string name="not_selected">"曲を選択"</string>
   <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
@@ -798,10 +795,10 @@ is mainly provided by Ultimate Inc."</string>
   <string name="warning_tip_cancel">"ダウンロード"</string>
   <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
   <string name="warning_tip_ok">Pause</string>
-  <string name="warning_tip_title">Data usage warning</string>
-  <string name="welcome_to_new_music">Welcome to the new version of Mi Music</string>
+  <string name="warning_tip_title">"データ使用の警告"</string>
+  <string name="welcome_to_new_music">"Mi Musicの新バージョンにようこそ"</string>
   <string name="wifi_required_body" formatted="false">"You should use WLAN to complete this %s download. 
 
 Tap %s to start this download the next time you're connected to a WLAN network."</string>
-  <string name="wifi_required_title">You should connect to WLAN to download this file</string>
+  <string name="wifi_required_title">"このファイルをダウンロードするにはWi-Fiに接続する必要があります"</string>
 </resources>

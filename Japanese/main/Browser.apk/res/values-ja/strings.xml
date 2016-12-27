@@ -198,7 +198,7 @@ Pages you view won't appear in history."</string>
   <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="data_traffic_prompt_message">Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="data_traffic_prompt_message_short">Using mobile data to stream video may cause you to go over your plans data usage limit.</string>
-  <string name="data_traffic_prompt_title">Data usage warning</string>
+  <string name="data_traffic_prompt_title">"データ使用の警告"</string>
   <string name="date_picker_dialog_clear">"消去"</string>
   <string name="date_picker_dialog_other_button_label">"その他"</string>
   <string name="date_picker_dialog_set">"設定"</string>
@@ -316,7 +316,7 @@ Pages you view won't appear in history."</string>
   <string name="geolocation_settings_page_summary_allowed">"このサイトは現在地情報にアクセスできます"</string>
   <string name="geolocation_settings_page_summary_not_allowed">"このサイトは現在地情報にアクセスできません"</string>
   <string name="geolocation_settings_page_title">"位置情報アクセスをクリア"</string>
-  <string name="go_supermarket_button">Go</string>
+  <string name="go_supermarket_button">"移動"</string>
   <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
   <string name="gold_medals">"金メダル"</string>
   <string name="google_bookmarks">Google</string>
@@ -342,10 +342,10 @@ Pages you view won't appear in history."</string>
   <string name="js_dialog_before_unload">"%s
 
 このページから移動しますか？"</string>
-  <string name="js_dialog_before_unload_negative_button">Stay</string>
-  <string name="js_dialog_before_unload_positive_button">Leave</string>
+  <string name="js_dialog_before_unload_negative_button">"このページに留まる"</string>
+  <string name="js_dialog_before_unload_positive_button">"このページから移動"</string>
   <string name="js_dialog_before_unload_title">"ナビゲーションの確認"</string>
-  <string name="js_dialog_title">The page at \"%s\" says:</string>
+  <string name="js_dialog_title">\"%s\" のページ:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">"JavaScriptを無効にすると、いくつかのwebサイトが正しく表示されない可能性があります。"</string>
   <string name="js_disable_confirm_title">"JavaScriptを無効にしますか？"</string>
@@ -361,8 +361,8 @@ Pages you view won't appear in history."</string>
   <string name="maximum_input_alert">"2048文字以上は入力できません"</string>
   <string name="media_error_action_refresh">"更新"</string>
   <string name="media_error_action_replace_video_source">"Couldn't change source"</string>
-  <string name="media_error_failure">"Can't play video"</string>
-  <string name="media_error_format">"Video format isn't supported"</string>
+  <string name="media_error_failure">"動画を再生できません"</string>
+  <string name="media_error_format">"動画形式はサポートされていません"</string>
   <string name="media_error_network_unreachable">"ネットワークに接続できませんでした"</string>
   <string name="media_error_nomemory">"メモリ不足"</string>
   <string name="media_error_source">"Couldn't find source"</string>
@@ -405,8 +405,8 @@ Pages you view won't appear in history."</string>
   <string name="miuichromium_error_page_airplane_mode_on">Turn off Airplane mode to connect</string>
   <string name="miuichromium_error_page_btn_close">"閉じる"</string>
   <string name="miuichromium_error_page_btn_refresh">"更新"</string>
-  <string name="miuichromium_error_page_diagnose">Network diagnostics</string>
-  <string name="miuichromium_error_page_diagnose_banner">Network diagnostics</string>
+  <string name="miuichromium_error_page_diagnose">"ネットワーク診断"</string>
+  <string name="miuichromium_error_page_diagnose_banner">"ネットワーク診断"</string>
   <string name="miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
   <string name="miuichromium_error_page_diagnose_connection">"ネットワークに接続できませんでした"</string>
   <string name="miuichromium_error_page_diagnose_dns">Looks like the URL is incorrect</string>
@@ -417,20 +417,20 @@ Pages you view won't appear in history."</string>
   <string name="miuichromium_error_page_diagnose_website">The website is down</string>
   <string name="miuichromium_error_page_diagnosing">Checking network</string>
   <string name="miuichromium_error_page_homepage">Home</string>
-  <string name="miuichromium_error_page_mobile">Mobile data</string>
-  <string name="miuichromium_error_page_network_hijack">"Current network isn't safe"</string>
-  <string name="miuichromium_error_page_network_off">Turn on Wi-Fi or mobile data</string>
+  <string name="miuichromium_error_page_mobile">"モバイルデータ"</string>
+  <string name="miuichromium_error_page_network_hijack">"現在のネットワークは安全ではありません"</string>
+  <string name="miuichromium_error_page_network_off">"Wi-Fiまたはモバイルデータをオンにする"</string>
   <string name="miuichromium_error_page_no_network">"ネットワークに接続できません"</string>
   <string name="miuichromium_error_page_reload">"更新"</string>
   <string name="miuichromium_error_page_safe_network">Safe mode</string>
   <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
   <string name="miuichromium_error_page_title">"エラーが発生しました"</string>
   <string name="miuichromium_error_page_unknown_error">Oops, something went wrong</string>
-  <string name="miuichromium_error_page_wlan">Turn on Wi-Fi</string>
+  <string name="miuichromium_error_page_wlan">"Wi-Fiをオンにする"</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
   <string name="miuishare_account_activate_ok">Activate</string>
   <string name="miuishare_account_login_cancel">"キャンセル"</string>
-  <string name="miuishare_account_login_confirmation">Sign in first</string>
+  <string name="miuishare_account_login_confirmation">"初めにログイン"</string>
   <string name="miuishare_account_login_ok">"ログイン"</string>
   <string name="miuishare_account_need_activate">Weibo account should be paired with your Mi Account. Sign in with your Mi Account?</string>
   <string name="miuishare_account_need_login">Weibo account should be paired with your current Mi Account. Sign in to share now?</string>
@@ -452,7 +452,7 @@ Pages you view won't appear in history."</string>
   <string name="nav_screen_container_tab_incognito">"匿名タブ"</string>
   <string name="nav_screen_container_tab_normal">"標準タブ"</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">"キャンセル"</string>
-  <string name="navigationbar_rightbutton_actiontext_go">Go</string>
+  <string name="navigationbar_rightbutton_actiontext_go">"移動"</string>
   <string name="navigationbar_rightbutton_actiontext_search">"検索"</string>
   <string name="network_show_wifi_setting_tip_dialog_description">"このネットワークに接続します"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">"オープンWi-Fiネットワークが利用可能"</string>
