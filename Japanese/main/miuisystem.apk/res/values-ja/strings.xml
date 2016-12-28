@@ -95,7 +95,7 @@
   <string name="retrocession_day">光復節</string>
   <string name="slight_cold">小寒</string>
   <string name="slight_heat">小暑</string>
-  <string name="solar_calendar">公历</string>
+  <string name="solar_calendar">"グレゴリオ暦"</string>
   <string name="spring_begins">立春</string>
   <string name="stopping_the_heat">处暑</string>
   <string name="summer_begins">立夏</string>
@@ -119,7 +119,7 @@
   <string name="vip_level">LV%d</string>
   <string name="vip_login">"ログインするにはタップ"</string>
   <string name="vip_not_login">"ログインしていません"</string>
-  <string name="vip_sign">Signature:</string>
+  <string name="vip_sign">"署名:"</string>
   <string name="white_dews">白露</string>
   <string name="winter_begins">立冬</string>
   <string name="winter_solstice">冬至</string>

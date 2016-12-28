@@ -510,17 +510,17 @@ Contact cards are turned off"</string>
   <string name="imei_invalid">"無効なIMEI"</string>
   <string name="import_all_sim_entries_miui">"すべての連絡先をインポート"</string>
   <string name="import_all_vcard_string">全てのvCardファイルをインポートする</string>
-  <string name="import_contact_card_aggregate_suggestion_button">Merge cards</string>
+  <string name="import_contact_card_aggregate_suggestion_button">"カードを統合"</string>
   <string name="import_contact_card_button">"連絡先をインポート"</string>
   <string name="import_failure_no_vcard_file">SDカード内にvCardファイルがありません。</string>
   <string name="import_from_onekey_migrate">"Mi Moverを使用してインポート"</string>
-  <string name="import_from_other_phone">Import from another phone</string>
+  <string name="import_from_other_phone">"別の電話からインポート"</string>
   <string name="import_from_sdcard">"ストレージからインポート"</string>
   <string name="import_from_sim">"SIMカードからインポート"</string>
   <string name="import_from_sim1">"SIMカード1からインポート"</string>
   <string name="import_from_sim2">"SIMカード2からインポート"</string>
   <string name="import_multiple_vcard_string">複数のvCardファイルをインポートする</string>
-  <string name="import_name">Name</string>
+  <string name="import_name">"名前"</string>
   <string name="import_one_vcard_string">単一のvCardファイルをインポートする</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">"選択した連絡先をインポート"</string>
@@ -536,7 +536,7 @@ Contact cards are turned off"</string>
   <string name="import_weibo_dialog_title">"Weiboの連絡先をインポート"</string>
   <string name="import_weibo_error_no_matched_contacts">"一致する連絡先がありません"</string>
   <string name="import_weibo_error_no_network">"ネットワークに接続できませんでした。データ接続を確認して再度試してください。"</string>
-  <string name="import_weibo_error_no_xiaomi_phone">There are no phone numbers stored in your Mi Account.</string>
+  <string name="import_weibo_error_no_xiaomi_phone">"Mi Accountに電話番号は保存されていません。"</string>
   <string name="import_weibo_error_unknown">"不明なエラー"</string>
   <string name="import_weibo_error_user_cancel">"インポートをキャンセルしました"</string>
   <string name="import_weibo_fetch_followers">"連絡先を読み込み中…"</string>
@@ -563,7 +563,7 @@ Contact cards are turned off"</string>
   <string name="launcherDialer">Phone</string>
   <string name="listCustomView">カスタムビュー内の連絡先</string>
   <string name="listFoundAllContactsZero">"連絡先はありません"</string>
-  <string name="listSingleContact">Single contact</string>
+  <string name="listSingleContact">"単一の連絡先"</string>
   <string name="listTotalAllContactsZero">連絡先はありません</string>
   <string name="listTotalAllContactsZeroCustom">表示可能な連絡先はありません</string>
   <string name="listTotalAllContactsZeroGroup">%s内に連絡先はありません</string>
@@ -606,7 +606,7 @@ Contact cards are turned off"</string>
   <string name="menu_addStar">"お気に入りに追加"</string>
   <string name="menu_bar_group_add">"追加"</string>
   <string name="menu_bar_group_batch_copy">グループへコピーする</string>
-  <string name="menu_bar_group_batch_edit">Multiple contacts</string>
+  <string name="menu_bar_group_batch_edit">"複数の連絡先"</string>
   <string name="menu_bar_group_batch_move">グループへ移動する</string>
   <string name="menu_bar_group_batch_remove">グループを削除する</string>
   <string name="menu_bar_group_delete">"削除"</string>
@@ -703,7 +703,7 @@ Contact cards are turned off"</string>
   <string name="miprofile_request_deleted_or_not_added">Card deleted or not added</string>
   <string name="miprofile_request_empty_request">No exchange requests</string>
   <string name="miprofile_request_header">Exchange requests (auto expired in a week)</string>
-  <string name="miprofile_request_menu_clear_request">Clear history</string>
+  <string name="miprofile_request_menu_clear_request">"履歴を消去"</string>
   <string name="miprofile_request_message">%1$s people want to exchange contact cards</string>
   <string name="miprofile_request_notification_message">Accept to view profile photo and more info</string>
   <string name="miprofile_request_notification_title">%1$s people want to exchange contact cards</string>
@@ -1080,7 +1080,7 @@ To add a contact to your list of favorites:
   <string name="service_more">"もっと"</string>
   <string name="service_provider">Directory</string>
   <string name="service_provider_detail">Directory details</string>
-  <string name="set_data_package">Set data plan first</string>
+  <string name="set_data_package">"初めにデータプランを設定"</string>
   <string name="set_default">"デフォルトに設定"</string>
   <string name="set_photo_failed_msg">"Couldn't assign picture."</string>
   <string name="share_error">"この連絡先は共有することができません"</string>
@@ -1098,7 +1098,7 @@ To add a contact to your list of favorites:
   <string name="simContacts_title">"SIMカードの連絡先"</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">View SIM card space</string>
-  <string name="sim_capacity_content" formatted="false">%d total | %d used</string>
+  <string name="sim_capacity_content" formatted="false">"%d 合計 | %d 使用"</string>
   <string name="sim_card_no_free_space_message">"十分な空き領域がありません"</string>
   <string name="sim_card_no_free_space_title">SIM card full</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">"すべて選択を解除"</string>
@@ -1132,7 +1132,7 @@ To add a contact to your list of favorites:
   <string name="smart_group_label">Smart groups</string>
   <string name="smart_group_loading">"読み込み中…"</string>
   <string name="smart_group_location_label">Locations</string>
-  <string name="smart_group_location_unavailable">No location info</string>
+  <string name="smart_group_location_unavailable">"位置情報なし"</string>
   <string name="sms">Text message</string>
   <string name="sms_assistant">Text %s</string>
   <string name="sms_callback">Text callback</string>
@@ -1158,7 +1158,7 @@ To add a contact to your list of favorites:
   <string name="sms_work_pager">Text work pager</string>
   <string name="social_widget_label">"連絡先"</string>
   <string name="social_widget_loading">"読み込み中..."</string>
-  <string name="solar_calendar">公历</string>
+  <string name="solar_calendar">"グレゴリオ暦"</string>
   <string name="splitConfirmation">"この連絡先を複数の連絡先に分割します。"</string>
   <string name="splitConfirmation_title">"連絡先を分けますか？"</string>
   <string name="starredList">"スター付き"</string>
@@ -1167,7 +1167,7 @@ To add a contact to your list of favorites:
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
   <string name="strequentList">"お気に入り"</string>
-  <string name="success_message_import_from_account">Contact imported</string>
+  <string name="success_message_import_from_account">"連絡先をインポートしました"</string>
   <string name="summary_kind_title">Summary</string>
   <string name="t9_search_guide_pinyin_title1">Enter numbers to find contacts</string>
   <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for &lt;font fgcolor=""&gt;W&lt;/font&gt;ashington &lt;font fgcolor=""&gt;I&lt;/font&gt;rving</string>
@@ -1193,23 +1193,23 @@ To add a contact to your list of favorites:
   <string name="toast_text_copied">"テキストをコピーしました"</string>
   <string name="today">"今日"</string>
   <string name="tomorrow">"明日"</string>
-  <string name="transfer_accounts">Transfer accounts</string>
+  <string name="transfer_accounts">"アカウントを転送"</string>
   <string name="type_incoming">"着信履歴"</string>
   <string name="type_missed">"不在着信"</string>
   <string name="type_mx_msg">Mi Message</string>
   <string name="type_outgoing">"発信履歴"</string>
   <string name="type_voicemail">ボイスメール</string>
-  <string name="unable_get_device_id">Unable to get IMEI</string>
-  <string name="unknow_phone_number_call_failed">"Can't call unknown number"</string>
-  <string name="unknow_phone_number_mms_failed">"Can't send message to unknown number"</string>
+  <string name="unable_get_device_id">"IMEIを取得できません"</string>
+  <string name="unknow_phone_number_call_failed">"不明な番号に発信できません"</string>
+  <string name="unknow_phone_number_mms_failed">"不明な番号にメッセージを送信できません"</string>
   <string name="unknown">"通知不可能"</string>
   <string name="unknown_contact_name">"不明な連絡先"</string>
   <string name="upgrade_in_progress">"連絡先リストを更新しています。"</string>
-  <string name="upgrade_out_of_memory">"Contacts are in the process of being upgraded.
+  <string name="upgrade_out_of_memory">"連絡先を更新中です。
 
-The upgrade process requires approximately %s MB of internal storage.
+更新処理には内部ストレージに約 %s MB の空き容量が必要です。
 
-Choose one of the following options:"</string>
+次のオプションのいずれかを選択してください::"</string>
   <string name="upgrade_out_of_memory_retry">"アップグレードを再試行"</string>
   <string name="upgrade_out_of_memory_uninstall">"一部のアプリケーションをアンインストール"</string>
   <string name="use_photo_as_primary">"この写真を使用"</string>
@@ -1226,9 +1226,9 @@ Choose one of the following options:"</string>
   <string name="vcard_unknown_filename">contact</string>
   <string name="video_call">Video call</string>
   <string name="video_chat">"ビデオチャット"</string>
-  <string name="viewContactDesription">View contact</string>
+  <string name="viewContactDesription">"連絡先を表示"</string>
   <string name="viewContactTitle">"連絡先情報"</string>
-  <string name="view_updates_from_group">View updates</string>
+  <string name="view_updates_from_group">"更新を表示"</string>
   <string name="voicemail">ボイスメール</string>
   <string name="voicemail_buffering">"バッファリング中…"</string>
   <string name="voicemail_fetching_content">"ボイスメールを読み込んでいます…"</string>
@@ -1256,13 +1256,13 @@ Choose one of the following options:"</string>
   <string name="websiteLabelsGroup">ウェブサイト</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">"データを消去"</string>
-  <string name="yellowPageNavigationIconLabel">Yellow pages</string>
-  <string name="yellowPageNavigationLabel">Yellow pages</string>
+  <string name="yellowPageNavigationIconLabel">"イエローページ"</string>
+  <string name="yellowPageNavigationLabel">"イエローページ"</string>
   <string name="yellowpage_fc_toast">"イエローページがクラッシュしたため、この機能を使用できません。"</string>
   <string name="yellowpage_navigation_ad_hint">Ad</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"Balance and mobile data couldn't be verified, try again later."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Balance and mobile data have been verified</string>
-  <string name="yellowpage_navigation_clear_search_history">Clear history</string>
+  <string name="yellowpage_navigation_clear_search_history">"履歴を消去"</string>
   <string name="yellowpage_navigation_more_items">"もっと"</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
   <string name="yellowpage_navigation_no_content">"何も見つかりませんでした"</string>
@@ -1278,7 +1278,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">"ダウンロード中…"</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"ネットワークに接続できません"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">"ホーム画面に設置しました"</string>
-  <string name="yellowpage_search_the_yellowpage">"Yellow Pageを検索"</string>
+  <string name="yellowpage_search_the_yellowpage">"イエローページを検索"</string>
   <string name="yellowpage_user_profile">"プロフィール"</string>
   <string name="yesterday">"昨日"</string>
   <string name="zero_items_selected">Select items</string>

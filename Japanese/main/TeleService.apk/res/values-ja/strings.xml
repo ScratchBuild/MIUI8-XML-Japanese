@@ -1014,7 +1014,6 @@
   <string name="sip_address_only">宛先がSIPアドレスの場合のみ使用</string>
   <string name="sip_always">ネットワークにアクセスして常にSIPを使用</string>
   <string name="sip_always_send_keepalive">常に送信</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">データネットワーク接続時はすべての通話</string>
   <string name="sip_call_options_entry_2">SIP通話のみ</string>
   <string name="sip_call_options_entry_3">通話のたびに確認</string>

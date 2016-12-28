@@ -23,7 +23,6 @@
   <string name="app_label">"時計"</string>
   <string name="auto_silence_never">"なし"</string>
   <string name="auto_silence_title">"消音までの時間"</string>
-  <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">"誕生日アラーム"</string>
   <string name="birthday_alarm_summary">"あなたの誕生日に規定のアラーム音ではなく\"Happy Birthday\"を再生します"</string>
   <string name="cancel">"キャンセル"</string>
@@ -33,7 +32,6 @@
   <string name="control_set_alarm">"アラームを設定"</string>
   <string name="control_set_alarm_with_existing">Alarm set: %s</string>
   <string name="day">"1日"</string>
-  <string name="day_concat">"、 "</string>
   <string name="days">"%s日"</string>
   <string name="default_alarm_alert">Set default alarm sound</string>
   <string name="default_alarm_title">Default ringtone</string>
@@ -47,7 +45,6 @@
   <string name="dialog_confirm_abort">"変更を破棄しますか？"</string>
   <string name="done">"完了"</string>
   <string name="edit_systemtime">"システム時刻の編集"</string>
-  <string name="elapsed_time_format">+%s</string>
   <string name="every_day">"毎日"</string>
   <string name="force_touch_add_alarm">"アラームを追加"</string>
   <string name="force_touch_enter_stopwatch">"ストップウォッチ"</string>
@@ -96,7 +93,7 @@
   <string name="shutdown_alarm_title">Shutdown alarm</string>
   <string name="silent_alarm_summary">"マナーモード"</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
-  <string name="skip_alarm_once_hint">Turn off once on %s</string>
+  <string name="skip_alarm_once_hint">"%sを一度だけオフにする"</string>
   <string name="slider_text">"上にスワイプで消音"</string>
   <string name="snooze_confirm_cancel">"スヌーズをキャンセル"</string>
   <string name="snooze_duration_title">"スヌーズの長さ"</string>
@@ -111,10 +108,8 @@
   <string name="stat_repeat_weekends">"週末"</string>
   <string name="stopwatch_lap_empty_text">"ラップなし"</string>
   <string name="stopwatch_title">"ストップウォッチ"</string>
-  <string name="symbol_colon">:</string>
   <string name="system_time_setting">"設定"</string>
   <string name="time">"時刻"</string>
-  <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Tap on the screen to stop ringing</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>
   <string name="timer_alert_alert_silenced">Timer silenced after %d minutes.</string>
