@@ -350,6 +350,7 @@
   <string name="mx_online">オンライン</string>
   <string name="mx_reactivate">"Miメッセージを再アクティベート"</string>
   <string name="mx_recommend_msg">"タップしてMiメッセージをオン"</string>
+  <string name="mx_stranger_recommend_msg">"不明な番号からのMiメッセージをブロックするにはタップ"</string>
   <string name="mx_type_guide">"Miメッセージは無料で他のMIUIユーザーにメッセージを送ることができます。"</string>
   <string name="need_download">"同期中..."</string>
   <string name="networking_allow_continue">OK</string>

@@ -341,7 +341,6 @@ Contact cards are turned off"</string>
   <string name="deselect_all">"すべて選択を解除"</string>
   <string name="details_list_group_header_other">"その他"</string>
   <string name="device_bluetooth_title">"連絡先を転送"</string>
-  <string name="device_brand_title">"ブランドを選択"</string>
   <string name="device_import_account_dialog_title">"アカウントを選択"</string>
   <string name="device_import_account_dialog_title_suffix">"
 (found %1$s contacts)"</string>
@@ -354,15 +353,30 @@ Contact cards are turned off"</string>
   <string name="device_import_progress_toast">"%1$d件の連絡先をインポートしました"</string>
   <string name="device_import_title">"インポート"</string>
   <string name="device_list_title">"番号を選択"</string>
-  <string name="device_other_guide">"あなたの電話が一覧に表示されない場合は、次の手順に従ってください"</string>
-  <string name="device_other_title">Other phone</string>
+  <string name="device_other_guide">Other phone supports bluetooth?</string>
+  <string name="device_other_title">Import from other phones</string>
   <string name="device_paired_dialog_message">"連絡先を読み込み中…"</string>
   <string name="device_paired_dialog_title">"連絡先を読み込み中…"</string>
   <string name="device_pairing_dialog_message">Pairing…</string>
   <string name="device_pairing_dialog_title">Pair devices</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Please turn other device's \"Bluetooth\" on;
+        
+
+- Android devices usually should find the \"Bluetooth\" under the network section
+        
+- iOS devices should search \"Bluetooth\" inside Settings
+        
+
+2. Android devices should also turn the \"Discoverable\" option on;
+        
+
+3. Click \"Next\", and allow the contacts accessing permission in the following step."</string>
+  <string name="device_transfer_by_sim_message">"1. Save your other device's contacts on the SIM card;
+        
+
+2. Goto \"Contacts settings\" -- \"Import/Export contacts\" -- \"Import from SIM card\", long press any SIM contact, choose those contacts to be imported, then click the \"Import\" option."</string>
   <string name="device_version_header_bluetooth">Make sure Bluetooth is on</string>
   <string name="device_version_header_no_bluetooth">"SIMカードを使用して連絡先をインポート"</string>
-  <string name="device_version_title">"モデルを選択"</string>
   <string name="dial">"ダイヤル"</string>
   <string name="dialerDialpadHintText">Dial to add a call</string>
   <string name="dialerIconLabel">履歴</string>
@@ -726,8 +740,8 @@ Contact cards are turned off"</string>
   <string name="multi_number_title">"グループ通話"</string>
   <string name="multipleContactDeleteConfirmation">"この連絡先を削除すると、複数のアカウント情報が削除されます。"</string>
   <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete info from multiple accounts.</string>
-  <string name="my_phone_not_provider_bluetooth">"My phone doesn't have Bluetooth"</string>
-  <string name="my_phone_provider_bluetooth">My phone has Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">いいえ</string>
+  <string name="my_phone_provider_bluetooth">はい</string>
   <string name="nameLabelsGroup">名前</string>
   <string name="name_family">姓</string>
   <string name="name_given">名</string>

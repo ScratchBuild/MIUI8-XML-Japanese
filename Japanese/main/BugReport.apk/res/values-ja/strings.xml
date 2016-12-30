@@ -268,9 +268,11 @@
   <string name="toast_feedback_submitting">"送信中…"</string>
   <string name="toast_feedbackservice_in_submit">Handling previous feedback…</string>
   <string name="toast_fill_brackets">"いくつかの情報がレポートに不足しています"</string>
+  <string name="toast_log_not_exists">"必要なログが削除されたか、存在しません"</string>
   <string name="toast_module_required">Select item</string>
   <string name="toast_network_unavailable">"送信できませんでした。ネットワークに接続できません。"</string>
   <string name="toast_pending_log_collection">"ログを取得中…"</string>
+  <string name="toast_pic_not_exists">"キャッシュされた画像が削除されました"</string>
   <string name="toast_post_deleted">"このトピックは存在しません、削除または編集されました。"</string>
   <string name="toast_problem_class_required">"カテゴリーを選択"</string>
   <string name="toast_report_copied_to_clipboard">"レポートをクリップボードにコピーしました"</string>

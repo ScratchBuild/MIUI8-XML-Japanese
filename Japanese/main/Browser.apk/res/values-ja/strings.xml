@@ -163,6 +163,7 @@
   <string name="color_picker_saturation">"彩度"</string>
   <string name="color_picker_value">"値"</string>
   <string name="comment_app_menu">"コメント"</string>
+  <string name="comment_hint">"コメント"</string>
   <string name="comment_menu">"コメント"</string>
   <string name="common_use_phrase_bottom_bar_text_next">"次へ"</string>
   <string name="common_use_phrase_bottom_bar_text_previous">"前へ"</string>
@@ -177,6 +178,7 @@
   <string name="contextmenu_openlink">"リンクを開く"</string>
   <string name="contextmenu_openlink_newwindow">"新しいタブで開く"</string>
   <string name="contextmenu_openlink_newwindow_background">"新しいバックグラウンドタブで開く"</string>
+  <string name="contextmenu_recognise_qr_code">Recognise QR code</string>
   <string name="contextmenu_savelink">"リンクを保存"</string>
   <string name="contextmenu_send_mail">"メールを送信"</string>
   <string name="contextmenu_set_wallpaper">"壁紙として設定"</string>
@@ -552,6 +554,7 @@ Pages you view won't appear in history."</string>
   <string name="pref_notifications_receive">"通知"</string>
   <string name="pref_notifications_title">"通知"</string>
   <string name="pref_other_title">"その他"</string>
+  <string name="pref_paper_mode_title">"読書モード"</string>
   <string name="pref_privacy_clear_cache">"キャッシュを消去"</string>
   <string name="pref_privacy_clear_cache_dlg">"ローカルにキャッシュされたコンテンツとデータベースを削除しますか？"</string>
   <string name="pref_privacy_clear_cache_summary">"ローカルにキャッシュしたコンテンツとデータベースを消去する"</string>

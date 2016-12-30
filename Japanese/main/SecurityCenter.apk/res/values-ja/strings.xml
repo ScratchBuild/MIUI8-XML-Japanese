@@ -921,7 +921,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="permit_running_network">Background data</string>
   <string name="person_hotpot">Mobile hotspots</string>
   <string name="pkg_traffic">Set data usage limit</string>
-  <string name="please_continue_keep">Keep</string>
   <string name="pm_auto_start_by_other">Triggered start</string>
   <string name="pm_auto_start_by_other_app">Allow the app to be started by other apps</string>
   <string name="pm_auto_start_by_system">Start apps</string>
@@ -1568,6 +1567,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_open">On</string>
   <string name="traffic_setting_step_num">"データプランの設定"</string>
   <string name="traffic_warning_purchase_title">"モバイルデータ使用の警告"</string>
+  <string name="try_recommended_function">"新しいセキュリティ機能を使用してデバイスを保護する"</string>
   <string name="unable_connect_internet">"インターネット接続なし"</string>
   <string name="uninstall_app_dialog_msg">"アンインストールするとアプリの全データが削除されます。"</string>
   <string name="uninstall_app_dialog_title">"今すぐアンインストールしますか？"</string>

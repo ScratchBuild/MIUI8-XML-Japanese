@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_loaction">"ホーム画面を検索"</string>
   <string name="app_name">"検索"</string>
   <string name="application_desc">"アプリケーション"</string>
   <string name="applications_search_label">"アプリ"</string>
@@ -47,6 +48,8 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
   <string name="loading">"読み込み中…"</string>
+  <string name="local_app">"アプリ"</string>
+  <string name="local_setting">"設定"</string>
   <string name="menu_help">"ヘルプ"</string>
   <string name="menu_settings">"検索設定"</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした"</string>

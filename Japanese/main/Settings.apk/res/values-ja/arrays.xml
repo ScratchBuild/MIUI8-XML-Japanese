@@ -554,6 +554,10 @@
         <item>"標準"</item>
         <item>"弱め"</item>
     </string-array>
+    <string-array name="ap_identify">
+        <item>default</item>
+        <item>iPhone</item>
+    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graphical</item>
         <item>Percentage</item>
