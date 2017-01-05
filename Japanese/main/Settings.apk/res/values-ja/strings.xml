@@ -1275,7 +1275,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="edge_mode_notification_summary">Tap to learn more.</string>
   <string name="edge_mode_notification_title">エッジコントロールを使用する</string>
   <string name="edge_mode_photo">写真を撮る</string>
-  <string name="edge_mode_photo_summary">While in Camera app, tap the edge of your phone to trigger shutter, and tap again to take a photo</string>
+  <string name="edge_mode_photo_summary">カメラアプリを使用中は、エッジをタップするとシャッターをトリガーし、もう一度タップで写真を撮ります</string>
   <string name="edge_mode_screenshot">スクリーンショット</string>
   <string name="edge_mode_screenshot_summary">両方のエッジをダブルタップするとスクリーンショットを撮ります</string>
   <string name="emergency_tone_alert">アラート</string>
@@ -1560,8 +1560,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="heavy_weight_stop_description">このアプリを安全に停止できません。停止すると、現在の作業が一部失われる恐れがあります。</string>
   <string name="help_label">ヘルプとフィードバック</string>
   <string name="hidden_ssid_label">ステルスSSID:</string>
-  <string name="hide">Hide</string>
-  <string name="hide_screen_button">Hide screen buttons</string>
+  <string name="hide">非表示</string>
+  <string name="hide_screen_button">画面ボタンを非表示</string>
   <string name="high_performance_notif_summary">端末は高い負荷を掛けると熱くなる場合があります</string>
   <string name="high_performance_notif_title">パフォーマンスモードがオン</string>
   <string name="high_performance_title">ベンチマークテストを実行しているように見えます。最良の結果を得るためには電源管理を\"パフォーマンス\"に設定してください。</string>
@@ -2797,7 +2797,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="runtime_permissions_summary_no_permissions_requested">リクエストされた権限はありません</string>
   <string name="save">保存</string>
   <string name="saved_network">%1$sで保存</string>
-  <string name="saved_wifi">Saved network</string>
+  <string name="saved_wifi">保存されたネットワーク</string>
   <string name="saved_wifi_delete">削除</string>
   <string name="scan_list_label">スキャン結果:</string>
   <string name="screen">画面</string>
@@ -3310,13 +3310,6 @@ PINが正しくない可能性があります。"</string>
   <string name="simulate_color_space">色空間シミュレート</string>
   <string name="single_key_use">シングルボタン</string>
   <string name="single_key_use_summary">他の2つのボタンに割り当てられている機能をホームボタンで使用する</string>
-  <string name="size_byte">B</string>
-  <string name="size_giga_byte">GB</string>
-  <string name="size_kilo_byte">KB</string>
-  <string name="size_mega_byte">MB</string>
-  <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s%2$s</string>
-  <string name="size_tera_byte">TB</string>
   <string name="skip_label">スキップ</string>
   <string name="skip_lock_screen_confirm_msg">通知、音楽プレーヤーのコントロール、カメラ及びMiホームはロック画面で無効になります</string>
   <string name="skip_step">スキップ</string>

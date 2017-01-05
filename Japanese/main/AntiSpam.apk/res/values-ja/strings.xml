@@ -228,7 +228,7 @@
   <string name="sim_not_ready_toast">"SIM card isn't ready"</string>
   <string name="sip_phone">SIP Phone</string>
   <string name="sms_delete_hint">Delete all blocked messages from this number?</string>
-  <string name="sms_delete_title">Remove Message</string>
+  <string name="sms_delete_title">"メッセージを削除"</string>
   <string name="sms_smart_engine_update">Automatically update SMS filter</string>
   <string name="special_number_group">Block reported numbers</string>
   <string name="st_advanced_setting_group">Advanced</string>
@@ -300,11 +300,11 @@
   <string name="st_sub_title_whiteblack_list_group">"ブロックリスト"</string>
   <string name="st_sum_call_wait">Your away message will also be played as a busy signal for incoming calls.</string>
   <string name="st_summary_blacklist_numbers">Block calls and messages from specific numbers and areas</string>
-  <string name="st_summary_blacklist_numbers_international">Block calls and messages from specific numbers</string>
+  <string name="st_summary_blacklist_numbers_international">"特定の番号からの通話とメッセージをブロックする"</string>
   <string name="st_summary_keywords_blacklist">Add keywords to block messages</string>
   <string name="st_summary_special_numbers">Block flagged phone numbers</string>
   <string name="st_summary_whitelist_numbers">Allow calls and messages from specific numbers and areas</string>
-  <string name="st_summary_whitelist_numbers_international">Allow calls and messages from specific numbers</string>
+  <string name="st_summary_whitelist_numbers_international">"特定の番号からの通話とメッセージを許可する"</string>
   <string name="st_title_adblock_group">Ad blocker</string>
   <string name="st_title_adblock_setting">"Ad blockerの設定"</string>
   <string name="st_title_addblacklist">"ブロックリストに追加"</string>
@@ -340,11 +340,11 @@
   <string name="st_title_show_antispamnotification">"ブロックリストの通知"</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
   <string name="st_title_sim_unknown">"不明"</string>
-  <string name="st_title_whitelist_numbers">Exceptions</string>
+  <string name="st_title_whitelist_numbers">"例外"</string>
   <string name="sure">OK</string>
   <string name="tab_blacklist">"ブロックリスト"</string>
   <string name="tab_block_log">"ブロックログ"</string>
-  <string name="tab_block_log_unKnowNumber">Private number</string>
+  <string name="tab_block_log_unKnowNumber">"非通知"</string>
   <string name="tab_call">"通話"</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">"ブロックリスト"</string>

@@ -744,7 +744,7 @@ Pages you view won't appear in history."</string>
   <string name="suggest_open_app_failed">"このアプリを開くことができませんでした"</string>
   <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
   <string name="switch_proxy_dialog_title">Network hijacking</string>
-  <string name="tab_hotpage">News Feed</string>
+  <string name="tab_hotpage">"ニュースフィード"</string>
   <string name="tab_quicklinks">"スタートページ"</string>
   <string name="tab_yellowpage">Links</string>
   <string name="tae_sdk_login_qr_icon_close"></string>

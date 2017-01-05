@@ -785,11 +785,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>標準 (720p)</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Lock screen</item>
+        <item>ロック画面</item>
         <item>Privacy password</item>
-        <item>Child mode</item>
+        <item>キッズモード</item>
         <item>File Explorer</item>
-        <item>App lock</item>
+        <item>アプリロック</item>
         <item>Second space</item>
     </string-array>
     <string-array name="anr_record_interval_entries">
@@ -799,8 +799,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1分</item>
     </string-array>
     <string-array name="screen_button_style">
-        <item>Left hand style</item>
-        <item>Right hand style</item>
+        <item>左手スタイル</item>
+        <item>右手スタイル</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>毎日</item>
