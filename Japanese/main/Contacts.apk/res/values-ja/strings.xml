@@ -276,7 +276,6 @@ Contact cards are turned off"</string>
   <string name="data_left">"残りデータ"</string>
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
-  <string name="date_picker_label">Remind me 3 days before and again on the day of</string>
   <string name="date_time_set">"設定"</string>
   <string name="date_year_toggle">"年を入力する"</string>
   <string name="default_ringtone">"デフォルトの着信音"</string>
@@ -1058,7 +1057,7 @@ To add a contact to your list of favorites:
   <string name="search_contacts_display">Contacts;Display</string>
   <string name="search_contacts_more">Organize;Contacts</string>
   <string name="search_contacts_recovery">Contacts</string>
-  <string name="search_contacts_setting">Contact settings;Display photos and info;Assign contact photos;Import and export;Share; Import from SD card;Import from SIM card;Import from other phone;Export from SD card;Export from SIM card;Share contacts; Display preferences;Hide incomplete numbers;Show SIM contacts;Configure contact lists;Smart groups;Organize contacts; Merge duplicate contacts;Delete batch;Clear data;Rebuild index data;t9;SIM cards;SIM card storage;Contacts recovery introduction</string>
+  <string name="search_contacts_setting">Contact settings;Display photos and info;Assign contact photos;Import and export;Share; Import from SD card;Import from SIM card;Import from other phone;Export from SD card;Export from SIM card;Share contacts; Display preferences;Hide incomplete numbers;Show SIM contacts;Configure contact lists;Smart groups;Organize contacts; Merge duplicate contacts;Delete batch;Clear data;Rebuild index data;t9;SIM cards;SIM card storage;Contacts recovery introduction;Contact photos</string>
   <string name="search_display_only_phones">Contacts;Display</string>
   <string name="search_display_sim_contacts">Contacts;Display</string>
   <string name="search_export_to_sdcard">Contacts;Export;storage</string>
@@ -1184,7 +1183,7 @@ To add a contact to your list of favorites:
   <string name="success_message_import_from_account">"連絡先をインポートしました"</string>
   <string name="summary_kind_title">Summary</string>
   <string name="t9_search_guide_pinyin_title1">Enter numbers to find contacts</string>
-  <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for &lt;font fgcolor=""&gt;W&lt;/font&gt;ashington &lt;font fgcolor=""&gt;I&lt;/font&gt;rving</string>
+  <string name="t9_search_guide_pinyin_title2">Enter 9 and 4 to search for &lt;font fgcolor=""&gt;X&lt;/font&gt;avier &lt;font fgcolor=""&gt;H&lt;/font&gt;enry</string>
   <string name="t9_search_guide_zhuyin_title1">Enter numbers to find contacts</string>
   <string name="t9_search_guide_zhuyin_title2">Enter 5 and 6 to search for &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax</string>
   <string name="take_new_photo">"新しい写真を撮る"</string>

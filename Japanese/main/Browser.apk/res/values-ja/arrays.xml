@@ -8,15 +8,13 @@
         <item>"緑"</item>
         <item>"青"</item>
     </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-    </string-array>
     <string-array name="pref_homepage_choices">
         <item>"スタートページ"</item>
         <item>"カスタム"</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Phone</item>
+        <item>Pad</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>"最小"</item>
@@ -25,20 +23,27 @@
         <item>"大"</item>
         <item>"最大"</item>
     </string-array>
-    <string-array name="pref_nav_mode_summary">
-        <item>Phone</item>
-        <item>Pad</item>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
     </string-array>
-    <string-array name="shortcut_dialog_title">
-        <item>Message from Browser</item>
-        <item>Follow the Olympics with Mi</item>
+    <string-array name="shortcut_dialog_delete">
+        <item>"削除"</item>
+        <item>"結構です"</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">
         <item>OK</item>
         <item>Follow</item>
     </string-array>
-    <string-array name="shortcut_dialog_delete">
-        <item>"削除"</item>
-        <item>"結構です"</item>
+    <string-array name="shortcut_dialog_title">
+        <item>Message from Browser</item>
+        <item>Follow the Olympics with Mi</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>"前のページへ戻る"</item>
+        <item>"タブを切り替える"</item>
+        <item>"なし"</item>
     </string-array>
 </resources>

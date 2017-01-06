@@ -303,6 +303,7 @@ Pages you view won't appear in history."</string>
   <string name="find_on_page_next">"次へ"</string>
   <string name="find_on_page_prev">"戻る"</string>
   <string name="find_previous">"前を検索"</string>
+  <string name="fling_on_border_gesture_hint">"設定でこのジェスチャーの機能を選択できます"</string>
   <string name="force_quick_search_title">"検索"</string>
   <string name="force_touch_bookmark_history_title">"ブックマークと履歴"</string>
   <string name="force_touch_infoflow_title">"ニュース"</string>
@@ -323,6 +324,7 @@ Pages you view won't appear in history."</string>
   <string name="gold_medals">"金メダル"</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">"ホーム画面に設置しました"</string>
+  <string name="hint">"ヒント"</string>
   <string name="history_saved_webpage">"ページを保存"</string>
   <string name="homepage_base">https://www.google.co.jp/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">"削除"</string>
@@ -407,6 +409,7 @@ Pages you view won't appear in history."</string>
   <string name="miuichromium_error_page_airplane_mode_on">Turn off Airplane mode to connect</string>
   <string name="miuichromium_error_page_btn_close">"閉じる"</string>
   <string name="miuichromium_error_page_btn_refresh">"更新"</string>
+  <string name="miuichromium_error_page_btn_report_issue">"問題を報告"</string>
   <string name="miuichromium_error_page_diagnose">"ネットワーク診断"</string>
   <string name="miuichromium_error_page_diagnose_banner">"ネットワーク診断"</string>
   <string name="miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
@@ -534,8 +537,8 @@ Pages you view won't appear in history."</string>
   <string name="pref_file_download_default_path_prefix">Default location: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloads location</string>
   <string name="pref_file_download_save_title">"ダウンロード"</string>
-  <string name="pref_fling_on_border_enabled">"タブを切り替えるには端からスワイプ"</string>
-  <string name="pref_fling_on_border_enabled_title_summary">"タブを切り替えるには、画面の左または右の端からスワイプ"</string>
+  <string name="pref_fling_on_border">"端からスワイプ"</string>
+  <string name="pref_fling_on_border_title_summary">"画面の左または右の端からスワイプ"</string>
   <string name="pref_font_size_category">"文字サイズ"</string>
   <string name="pref_force_userscalable">"拡大縮小設定の上書き"</string>
   <string name="pref_force_userscalable_summary">"サイトの拡大縮小設定を上書き"</string>

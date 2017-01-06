@@ -1025,8 +1025,10 @@
   <string name="sip_edit_title">SIPアカウントの詳細</string>
   <string name="sip_menu_discard">破棄</string>
   <string name="sip_menu_save">保存</string>
+  <string name="sip_profile_create_error">新しいSIPプロファイルを作成できません</string>
   <string name="sip_receive_calls">着信を待ち受け</string>
   <string name="sip_receive_calls_summary">バッテリーの消費量が増えます</string>
+  <string name="sip_save_register_error">新しいSIPプロファイルを保存して登録することができません</string>
   <string name="sip_settings">SIP設定</string>
   <string name="sip_system_decide">自動</string>
   <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>

@@ -793,12 +793,6 @@
   <string name="checking_decryption">確認しています…</string>
   <string name="checking_find_device_status">Find deviceのステータスを確認します</string>
   <string name="checking_for_updates">アップデートをチェック中…</string>
-  <string name="childmod_privacy_password_role_instruction">子供がデバイスを使用する場合、不要な操作を防止する為にはキッズモードをオンにします</string>
-  <string name="children_mode_enable_title">キッズモード</string>
-  <string name="children_mode_set_apps_title">アクセス可能なアプリ</string>
-  <string name="children_mode_tips_off">キッズモードをオンにした後、ホームボタンをタップするとキッズモードになります。</string>
-  <string name="children_mode_tips_on">キッズモードをオフにした後、ホームボタンをタップして戻ります。</string>
-  <string name="children_mode_title">キッズモード</string>
   <string name="choose_assist_title">アシストアプリの選択</string>
   <string name="choose_profile">プロファイルの選択</string>
   <string name="choose_smartcover_type">ケースの種類を選択</string>
@@ -1093,8 +1087,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="delete_or_keep_legacy_passwords_confirm_msg">この指紋を削除しますか？</string>
   <string name="delete_saved_network">保存されたネットワークを削除</string>
   <string name="deny">許可しない</string>
-  <string name="deny_sms_message">インストールアプリでSMSを送信することはできません。</string>
-  <string name="deny_sms_title">SMSをロックする</string>
   <string name="details_subtitle">使用状況の詳細</string>
   <string name="details_title">使用状況の詳細</string>
   <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりするおそれがあります。</string>
@@ -2527,7 +2519,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="priority_storage_summary">データを保存する場所を選択</string>
   <string name="priority_storage_title">ストレージ設定</string>
   <string name="privacy_applock">App lock</string>
-  <string name="privacy_childmode">キッズモード</string>
   <string name="privacy_file">ファイル</string>
   <string name="privacy_gallery">写真</string>
   <string name="privacy_mms">メッセージ</string>
@@ -3184,9 +3175,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="service_stop">停止</string>
   <string name="service_stop_description">このサービスはアプリによって起動されました。停止するとアプリに問題が発生するおそれがあります。</string>
   <string name="services_subtitle">サービス</string>
-  <string name="set_password_action">パスワードの設定</string>
-  <string name="set_password_message">端末のロック解除するのと同様に、チャイルドモードをオフにするためのパスワードを設定します。</string>
-  <string name="set_password_title">パスワードを設定</string>
   <string name="setting_privacy_password">プライバシー保護のパスワードを設定</string>
   <string name="settings_ad_loading">読み込み中…</string>
   <string name="settings_ad_loading_unavailable">読み込み中に問題が発生しました。</string>

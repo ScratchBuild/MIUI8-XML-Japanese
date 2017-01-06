@@ -13,7 +13,6 @@
   <string name="bugreport_dump_complete_notification_title">"バグレポートを作成"</string>
   <string name="bugreport_dump_start_notification_summary">"これには数分かかります。"</string>
   <string name="bugreport_dump_start_notification_title">"バグレポートを作成中…"</string>
-  <string name="bugreport_feedback_from">From: %s</string>
   <string name="bugreport_tool_log">"バグレポートを作成"</string>
   <string name="bugreport_tool_log_toast">"ログを%sに保存しました"</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">"バグレポートを作成中 (数分かかります)"</string>

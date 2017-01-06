@@ -14,7 +14,7 @@
   <string name="close">"閉じる"</string>
   <string name="dont_bore">"Don't let buttons and notifications distract you"</string>
   <string name="empty">" "</string>
-  <string name="game_booster">Gaming speed boost</string>
+  <string name="game_booster">Game speed boost</string>
   <string name="game_booster_intro">About Gaming speed boost</string>
   <string name="game_booster_total">Boosted speed %1$s times, added %2$s of gaming time</string>
   <string name="game_more_improve">Restrict background activities and download speed to save battery and bandwidth for gaming</string>

@@ -25,6 +25,14 @@
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
     </string-array>
+    <string-array name="aqi_detail_title">
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Unhealthy for Sensitive Groups</item>
+        <item>Unhealthy</item>
+        <item>Very Unhealthy</item>
+        <item>Hazardous</item>
+    </string-array>
     <string-array name="weather_type">
         <item>"晴れ"</item>
         <item>"曇り"</item>
@@ -84,5 +92,33 @@
         <item>"不健康"</item>
         <item>"危険"</item>
         <item>"有害"</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>beaufort scale</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;force 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>"ビューフォート風力階級"</item>
+        <item>"キロメートル毎時 (km/h)"</item>
+        <item>"メートル毎秒 (m/s)"</item>
+        <item>"マイル毎時 (mph)"</item>
+        <item>"ノット (kn)"</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>force %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
     </string-array>
 </resources>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">電卓</string>
+  <string name="app_name_danfa">Mi Calculator</string>
   <string name="cal_convert_to_word_figure">Convert to financial characters</string>
   <string name="cal_copy">コピー</string>
   <string name="cal_edit_mode">編集モード</string>
@@ -23,7 +24,7 @@
   <string name="convertion_unit_volume">Volume converter</string>
   <string name="convertion_unit_weight">Mass converter</string>
   <string name="cosDesc">cosine</string>
-  <string name="currency_update_time_format">Exchange rates are provided by hexun.com (%s)</string>
+  <string name="currency_update_time_format">Exchange rates are provided by webull (%s)</string>
   <string name="dateformat">yyyy/MM/dd</string>
   <string name="day">day</string>
   <string name="divDesc">割る</string>
@@ -102,10 +103,14 @@
   <string name="plusDesc">足す</string>
   <string name="powerDesc">べき乗</string>
   <string name="preference_about_calculator">電卓について</string>
+  <string name="preference_alert_follow_qq_group">Copy and paste into QQ to feedback</string>
   <string name="preference_alert_follow_wechat">Copy and paste into WeChat to follow</string>
   <string name="preference_alert_follow_wechat_button">コピー</string>
+  <string name="preference_check_update_summary_current_version">Current version：%s</string>
+  <string name="preference_check_update_summary_new_version">Has new version：%s</string>
   <string name="preference_check_update_title">アップデートをチェック</string>
   <string name="preference_feedback_title">FAQ</string>
+  <string name="preference_follow_qq_group">QQ Group:523274279</string>
   <string name="preference_follow_us">Follow us</string>
   <string name="preference_follow_web_title">公式ウェブサイト</string>
   <string name="preference_settings">設定</string>

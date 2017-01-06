@@ -216,6 +216,10 @@
   <string name="not_support_multi_window">現在のアプリは画面分割モードをサポートしていません</string>
   <string name="notification_header_title">通知</string>
   <string name="notification_hidden_text">コンテンツが非表示</string>
+  <string name="notification_low_battery_action_btn">オンにする</string>
+  <string name="notification_low_battery_need_charge">バッテリーが残りわずかです。デバイスを充電してください。</string>
+  <string name="notification_low_battery_open_save_mode">バッテリーセーバーをオンにする</string>
+  <string name="notification_low_battery_title">電池残量: %d%%</string>
   <string name="notification_manager">通知の管理</string>
   <string name="notification_manager_des">フィルターおよび通知の管理</string>
   <string name="notification_otg_gamestick_in">ゲームコントローラーが接続されました</string>
