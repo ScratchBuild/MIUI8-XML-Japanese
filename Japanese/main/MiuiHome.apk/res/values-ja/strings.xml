@@ -204,7 +204,7 @@
   <string name="recommend_apps_notice_nodata">Promoted apps (No data)</string>
   <string name="recommend_apps_switch_title">Promoted apps</string>
   <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
-  <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
+  <string name="reset_scene_prompt">"画面はデフォルトのレイアウトにリセットされます。"</string>
   <string name="screen_locked_toast">"ホーム画面のレイアウトはロックされています"</string>
   <string name="screen_number">%d screen</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
@@ -217,9 +217,9 @@
   <string name="share">"共有"</string>
   <string name="sharedUserId"/>
   <string name="show_all">"すべて表示"</string>
-  <string name="sort_by_abc">Sort by name</string>
-  <string name="sort_by_frequency">Sort by usage</string>
-  <string name="sort_by_not_defined">Auto-sort</string>
+  <string name="sort_by_abc">"名前順"</string>
+  <string name="sort_by_frequency">"使用順"</string>
+  <string name="sort_by_not_defined">"自動整列"</string>
   <string name="start_activity_failed">"ランチャーを起動できません"</string>
   <string name="starting_preset_app">"起動中…"</string>
   <string name="status_downloaded">"ダウンロード済み"</string>
@@ -265,6 +265,6 @@
   <string name="widget_favorite_contacts_edit">"編集"</string>
   <string name="widget_favorite_contacts_label">"お気に入りの連絡先"</string>
   <string name="widget_favorite_contacts_style">"サイズを変更"</string>
-  <string name="widget_gadget_player">Music</string>
+  <string name="widget_gadget_player">"音楽"</string>
   <string name="widget_global_search">"検索"</string>
 </resources>

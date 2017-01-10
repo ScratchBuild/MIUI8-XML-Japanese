@@ -100,11 +100,11 @@
   <string name="auto_upload_disable_tip">"Mi Cloudとの同期はオフです"</string>
   <string name="auto_upload_disable_toast_long_press_menu">"Mi Cloudとの同期はオフです, go to other albums to view"</string>
   <string name="auto_upload_enable_toast_long_press_menu">"Mi Cloudとの同期はオンです, go to Albums to view"</string>
-  <string name="baby_album">Baby album</string>
+  <string name="baby_album">"赤ちゃんのアルバム"</string>
   <string name="baby_album_change_background">Change background photo</string>
   <string name="baby_album_needs_auto_backup_tip">"Can't turn off automatic backup for Baby album"</string>
   <string name="baby_album_new_photo_remind">There are new photos in your Baby album.</string>
-  <string name="baby_album_setting_title">Baby info</string>
+  <string name="baby_album_setting_title">"赤ちゃんの情報"</string>
   <string name="baby_album_sharer_accept_dialog_msg">"Dear %1$s's %2$s,
 %3$s's %4$s shared %5$s's album with you"</string>
   <string name="baby_album_sharer_recommand_face">Add existing photos of %1$s?</string>
@@ -117,7 +117,7 @@
   <string name="baby_name_cannot_empty">"名前を入力"</string>
   <string name="baby_name_cannot_start_with">"Name can't begin with '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"Name can't contain '%s'"</string>
-  <string name="baby_name_reserved">This name is reserved for another album</string>
+  <string name="baby_name_reserved">"この名前は他のアルバム用に予約されています"</string>
   <string name="baby_nick_name">"ニックネーム"</string>
   <string name="baby_sexy">"性別"</string>
   <string name="baby_suffix">"の赤ちゃん"</string>

@@ -155,7 +155,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_focusmode_entry_manual">Manual</string>
   <string name="pref_camera_focusmode_entry_normal">Standard</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
-  <string name="pref_camera_focusmode_value_default">continuous-picture</string>
   <string name="pref_camera_gradienter_title">Straighten</string>
   <string name="pref_camera_groupshot_mode_title">Group selfies</string>
   <string name="pref_camera_hand_night_title">HHT</string>
@@ -190,7 +189,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_multilevel_entry_middle">Medium (default)</string>
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
   <string name="pref_camera_panoramamode_title">"パノラマ"</string>
-  <string name="pref_camera_peak_default">off</string>
   <string name="pref_camera_peak_entry_off">Off</string>
   <string name="pref_camera_peak_entry_on">On</string>
   <string name="pref_camera_peak_title">Focus peaking</string>
@@ -223,7 +221,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_settings_category">"カメラ設定"</string>
   <string name="pref_camera_settings_title">"設定"</string>
   <string name="pref_camera_sharpness_title">Sharpness</string>
-  <string name="pref_camera_show_gender_age_default">on</string>
   <string name="pref_camera_show_gender_age_entry_alias">Show age when Beautify is on</string>
   <string name="pref_camera_show_gender_age_entry_off">Off</string>
   <string name="pref_camera_show_gender_age_entry_on">Show age and gender when Beautify is on</string>
@@ -269,7 +266,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_front_mirror_entry_on">On</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
   <string name="pref_manual_exposure_title">"露光時間"</string>
-  <string name="pref_mtk_video_quality_default">10</string>
   <string name="pref_priority_storage_title">"SDカードへ保存"</string>
   <string name="pref_qc_focus_position_title">Focus</string>
   <string name="pref_scan_qrcode_title">"QRコードをスキャン"</string>
@@ -295,7 +291,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_video_speed_value_fast">fast</string>
   <string name="pref_video_speed_value_normal">normal</string>
   <string name="pref_video_speed_value_slow">slow</string>
-  <string name="pref_video_time_lapse_frame_interval_default">120</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Interval of 0.3 seconds (10 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">Interval of 4 seconds (120 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">Interval of 5 seconds (150 times)</string>

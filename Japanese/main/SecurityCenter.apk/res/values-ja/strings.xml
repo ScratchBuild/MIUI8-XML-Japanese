@@ -280,7 +280,7 @@
   <string name="button_text_cleanup">Clean up</string>
   <string name="button_text_clear">Clear</string>
   <string name="button_text_create_shortcut">"ホーム画面にショートカットを作成"</string>
-  <string name="button_text_delete_from_virus_white_list">Remove</string>
+  <string name="button_text_delete_from_virus_white_list">"削除"</string>
   <string name="button_text_deny">"拒否"</string>
   <string name="button_text_disconnect_now">"切断"</string>
   <string name="button_text_fix">"修復"</string>
@@ -435,7 +435,7 @@
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">Overseas roaming</string>
   <string name="dialog_title_attention">Attention</string>
-  <string name="dialog_title_auto_start_declare">About autostart</string>
+  <string name="dialog_title_auto_start_declare">"自動起動について"</string>
   <string name="dialog_title_stop_paysafety_scan">"停止"</string>
   <string name="dialog_title_stop_virus_scan">Stop virus scan</string>
   <string name="disable_air_mode">Turn Airplane mode off first</string>
@@ -482,8 +482,8 @@
   <string name="firewall_fragment_sys_listempty">Empty</string>
   <string name="firewall_fragment_tab_title_nonsys">Installed</string>
   <string name="firewall_fragment_tab_title_sys">"システム"</string>
-  <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
-  <string name="firewall_network_restrict_notify_mobile">mobile data</string>
+  <string name="firewall_network_restrict_notify_message">"設定を変更するにはタップ。"</string>
+  <string name="firewall_network_restrict_notify_mobile">"モバイルデータ"</string>
   <string name="firewall_network_restrict_notify_title">"%1$s can't use %2$s"</string>
   <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
   <string name="firewall_restrict_android_dialog_title">Attention</string>
@@ -690,7 +690,7 @@
   <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
   <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
   <string name="main_toolbar_firewall">Restrict data usage</string>
-  <string name="main_toolbar_internet_by_mobiledata">Mobile data</string>
+  <string name="main_toolbar_internet_by_mobiledata">"モバイルデータ"</string>
   <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
   <string name="main_toolbar_internet_by_wifi">"Wi-Fi"</string>
   <string name="main_toolbar_purchase">Top up</string>

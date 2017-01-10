@@ -373,19 +373,16 @@
   <string name="empty_trash_dialog_title">"ゴミ箱を空にしますか？"</string>
   <string name="enable_sync_in_account_settings">Turn on in %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
-  <string name="exception_cancel">"
-        This event has been canceled
-        for:
-%s "</string>
-  <string name="exception_updated">The details of this event have been changed for: %s</string>
+  <string name="exception_cancel">"この予定はキャンセルされました: %s"</string>
+  <string name="exception_updated">"この予定の詳細が変更されました: %s"</string>
   <string name="exchange_name">Corporate</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">"受信者の詳細を展開"</string>
   <string name="fail_get_email_message">"メッセージを取得できませんでした。"</string>
   <string name="failed">"画像を読み込めませんでした"</string>
-  <string name="failed_read_phone_state_permission">"Allow access to device's status"</string>
-  <string name="failed_read_write_calendar_permission">Allow access to Calendar</string>
-  <string name="failed_read_write_contacts_permission">Allow access to Contacts</string>
+  <string name="failed_read_phone_state_permission">"端末のステータスへのアクセスを許可する"</string>
+  <string name="failed_read_write_calendar_permission">"カレンダーへのアクセスを許可する"</string>
+  <string name="failed_read_write_contacts_permission">"連絡先へのアクセスを許可する"</string>
   <string name="feedback">"フィードバックを送信"</string>
   <string name="feedback_body">"メッセージ"</string>
   <string name="feedback_sent">Thank you for your feedback</string>
@@ -537,39 +534,16 @@
   <string name="mark_unread">Mark unread</string>
   <string name="me_object_pronun">me</string>
   <string name="me_subject_pronun">me</string>
-  <string name="meeting_accepted">"
-        Accepted:
-%s "</string>
-  <string name="meeting_allday">"
-        日時:
-%s (終日)
-    "</string>
-  <string name="meeting_allday_recurring">"
-        日時:
-%s (終日、繰り返し)
-    "</string>
-  <string name="meeting_canceled">"
-        キャンセルしました:
-%s "</string>
-  <string name="meeting_declined">"
-        辞退しました:
-%s "</string>
-  <string name="meeting_recurring">"
-        日時:
-%s (繰り返し)
-    "</string>
-  <string name="meeting_tentative">"
-        辞退:
-%s "</string>
-  <string name="meeting_updated">"
-        Updated:
-%s "</string>
-  <string name="meeting_when">"
-        日時:
-%s "</string>
-  <string name="meeting_where">"
-        場所:
-%s "</string>
+  <string name="meeting_accepted">"承諾しました: %s"</string>
+  <string name="meeting_allday">"日時: %s (終日)"</string>
+  <string name="meeting_allday_recurring">"日時: %s (終日、繰り返し)"</string>
+  <string name="meeting_canceled">"キャンセルしました: %s"</string>
+  <string name="meeting_declined">"辞退しました: %s"</string>
+  <string name="meeting_recurring">"日時: %s (繰り返し)"</string>
+  <string name="meeting_tentative">"仮承諾: %s"</string>
+  <string name="meeting_updated">"更新されました: %s"</string>
+  <string name="meeting_when">"日時: %s"</string>
+  <string name="meeting_where">"場所: %s"</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">"添付ファイル"</string>
   <string name="menu_att_mgr_order_default">Recently viewed</string>
@@ -700,34 +674,34 @@
   <string name="photo_load_failed">"画像を読み込めませんでした"</string>
   <string name="photo_view_count" formatted="false">%d of %d</string>
   <string name="please_fill_in_your_mailbox_information2">Enter your mailbox info</string>
-  <string name="policy_app_blacklist">"特定のアプリを許可しない"</string>
-  <string name="policy_app_whitelist">"特定のアプリのみ許可する"</string>
-  <string name="policy_bluetooth_restricted">Restrict Bluetooth usage</string>
+  <string name="policy_app_blacklist">"指定したアプリを許可しない"</string>
+  <string name="policy_app_whitelist">"指定したアプリのみ許可する"</string>
+  <string name="policy_bluetooth_restricted">"Bluetoothの使用を制限する"</string>
   <string name="policy_calendar_age">"同期するカレンダーの予定の数を制限する"</string>
   <string name="policy_dont_allow_attachments">"添付ファイルを許可しない"</string>
   <string name="policy_dont_allow_browser">"ブラウザを許可しない"</string>
   <string name="policy_dont_allow_camera">"端末のカメラの使用を許可しない"</string>
-  <string name="policy_dont_allow_consumer_email">"Don't allow consumer email"</string>
+  <string name="policy_dont_allow_consumer_email">"ダイレクトメールを許可しない"</string>
   <string name="policy_dont_allow_html">"HTMLメールを許可しない"</string>
-  <string name="policy_dont_allow_internet_sharing">"Don't allow Internet sharing"</string>
-  <string name="policy_dont_allow_irda">"Don't allow infrared communications"</string>
-  <string name="policy_dont_allow_pop_imap">"POP3またはIMAPアカウントを許可しない"</string>
-  <string name="policy_dont_allow_storage_cards">"Don't allow storage cards"</string>
-  <string name="policy_dont_allow_text_messaging">"Don't allow text messaging"</string>
-  <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
-  <string name="policy_dont_allow_unsigned_installers">"Don't allow installing unsigned apps"</string>
+  <string name="policy_dont_allow_internet_sharing">"インターネット共有を許可しない"</string>
+  <string name="policy_dont_allow_irda">"赤外線通信を許可しない"</string>
+  <string name="policy_dont_allow_pop_imap">"POP3/IMAPアカウントを許可しない"</string>
+  <string name="policy_dont_allow_storage_cards">"SDカードを許可しない"</string>
+  <string name="policy_dont_allow_text_messaging">"テキストメッセージを許可しない"</string>
+  <string name="policy_dont_allow_unsigned_apps">"無署名のアプリを許可しない"</string>
+  <string name="policy_dont_allow_unsigned_installers">"無署名のアプリインストーラを許可しない"</string>
   <string name="policy_dont_allow_wifi">"Wi-Fiを許可しない"</string>
   <string name="policy_email_age">"同期するメールの数を制限する"</string>
   <string name="policy_html_truncation">"HTMLメールのサイズを制限する"</string>
   <string name="policy_password_expiration">"パスワードの有効期限を設定する"</string>
   <string name="policy_password_history">"最近使用したパスワードの再使用を制限する"</string>
-  <string name="policy_require_encryption">Require device encryption</string>
-  <string name="policy_require_manual_sync_roaming">Only allow manual sync while roaming</string>
+  <string name="policy_require_encryption">"端末の暗号化を必須とする"</string>
+  <string name="policy_require_manual_sync_roaming">"ローミング中は手動での同期のみを許可する"</string>
   <string name="policy_require_password">"端末のパスワードを必須とする"</string>
-  <string name="policy_require_sd_encryption">Require SD card encryption</string>
-  <string name="policy_require_smime">Require SMIME messages</string>
+  <string name="policy_require_sd_encryption">"SDカードの暗号化を必須とする"</string>
+  <string name="policy_require_smime">"SMIME形式のメッセージを必須とする"</string>
   <string name="policy_screen_timeout">"画面ロック前のアイドル時間を設定する"</string>
-  <string name="policy_text_truncation">Restrict text email size</string>
+  <string name="policy_text_truncation">"テキストメールのサイズを制限する"</string>
   <string name="pop3_name">POP3</string>
   <string name="prefDefault_autoAdvance">list</string>
   <string name="preference_eas_tips">Tap Activate to set up mail server.</string>
