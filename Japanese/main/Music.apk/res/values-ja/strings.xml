@@ -66,15 +66,15 @@
   <string name="avoid_to_use_traffic_title">Only use WLAN to stream music</string>
   <string name="back_confirm">Tap again to push the app to background</string>
   <string name="baidu_music">Baidu music</string>
-  <string name="being_disable_auto_payment">Turning off…</string>
-  <string name="being_enable_auto_payment">Turning on…</string>
+  <string name="being_disable_auto_payment">"オフにしています…"</string>
+  <string name="being_enable_auto_payment">"オンにしています…"</string>
   <string name="bill_list_fragment_title">"チャート"</string>
   <string name="bluetooth_device">Bluetooth audio device</string>
   <string name="buffering">"バッファリング中…"</string>
   <string name="button_add">"追加"</string>
   <string name="button_cancel_download">"キャンセル"</string>
   <string name="button_download_now">"今すぐダウンロード"</string>
-  <string name="button_queue_for_wifi">Queue</string>
+  <string name="button_queue_for_wifi">"キュー"</string>
   <string name="button_sort_by_date">Sort by date</string>
   <string name="button_sort_by_size">Sort by size</string>
   <string name="button_wait_for_wifi">Wait</string>
@@ -105,7 +105,7 @@
 is mainly provided by Ultimate Inc."</string>
   <string name="create_order_fail">"Couldn't create order, try again."</string>
   <string name="create_playlist">"プレイリストを作成"</string>
-  <string name="create_playlist_failure">"Couldn't create playlist"</string>
+  <string name="create_playlist_failure">"プレイリストを作成できませんでした"</string>
   <string name="current_services">Current</string>
   <string name="current_version">Current version</string>
   <string name="data_usage_warning">Data usage</string>
@@ -144,7 +144,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_file_already_exists">"ダウンロードできません。ファイルが既に存在します。"</string>
   <string name="dialog_file_missing_body">"ダウンロードしたファイルが見つかりませんでした。"</string>
   <string name="dialog_file_missing_title">"ファイルを開くことができません"</string>
-  <string name="dialog_hint_music_error">No songs found.</string>
+  <string name="dialog_hint_music_error">"曲が見つかりませんでした。"</string>
   <string name="dialog_insufficient_space_on_cache">"ダウンロードを完了できません。内部ストレージに十分な空き領域がありません。"</string>
   <string name="dialog_insufficient_space_on_external">"ダウンロードを完了できません。SDカードに十分な空き領域がありません。"</string>
   <string name="dialog_media_not_found">"ダウンロードできません。SDカードは使用できません。"</string>
@@ -291,9 +291,9 @@ is mainly provided by Ultimate Inc."</string>
   <string name="female_artist">Female artists</string>
   <string name="file_not_found">"ファイルが存在しません"</string>
   <string name="filter_by_duration">By length</string>
-  <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-  <string name="filter_by_duration_max">5 min</string>
-  <string name="filter_by_duration_min">0 sec</string>
+  <string name="filter_by_duration_format">"%2$d分%5$2d秒"</string>
+  <string name="filter_by_duration_max">"5分"</string>
+  <string name="filter_by_duration_min">"0秒"</string>
   <string name="filter_by_duration_prefix">"Hide files shorter than "</string>
   <string name="filter_by_duration_summary">Hide short audio files</string>
   <string name="filter_by_folder">By folder</string>
@@ -388,7 +388,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="loading_hint">"読み込み中…"</string>
   <string name="local_music">Offline</string>
   <string name="local_music_empty">Local playlist is empty</string>
-  <string name="local_music_empty_goto_online">No songs found</string>
+  <string name="local_music_empty_goto_online">"曲が見つかりませんでした"</string>
   <string name="local_music_is_not_available">Local music is not available.</string>
   <string name="local_page_artist">Followed artists</string>
   <string name="local_page_custom_subtitle">New songs every day</string>
@@ -467,7 +467,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="music_traffic_summary">Listen and download songs without using data</string>
   <string name="my_account">Mi Account</string>
   <string name="my_music_empty">Playlist is empty.</string>
-  <string name="my_music_empty_goto_online">No songs found</string>
+  <string name="my_music_empty_goto_online">"曲が見つかりませんでした"</string>
   <string name="my_playlist">"プレイリスト"</string>
   <string name="name_online_personal_radio">Radio</string>
   <string name="nav_local_all">"すべて"</string>
@@ -503,7 +503,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="not_login">"ログインしていません"</string>
   <string name="not_now">"後で"</string>
   <string name="not_selected">"曲を選択"</string>
-  <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
+  <string name="notif_text_engine_off">"Xunlei acceleratorはオフです。"</string>
   <string name="notif_text_engine_on">Accelerating…</string>
   <string name="notif_title_file_size">%1$d total</string>
   <string name="notif_title_multiple_downloading">Downloading %1$d files</string>

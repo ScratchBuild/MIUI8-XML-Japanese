@@ -101,8 +101,8 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_status_desc_wait_for_sms">Waiting for activation SMS from server…</string>
   <string name="activate_status_desc_wait_for_sms_fail">"Couldn't receive activation SMS from server"</string>
   <string name="activate_status_desc_wait_for_sms_success">Received activation SMS from server</string>
-  <string name="activate_status_title_activating">Activating SIM card…</string>
-  <string name="activate_status_title_activating_msim">Activating SIM card %s…</string>
+  <string name="activate_status_title_activating">"SIMカードを有効にしています…"</string>
+  <string name="activate_status_title_activating_msim">"SIMカード %s を有効にしています…"</string>
   <string name="app_name">Xiaomi SIM Activate Service</string>
   <string name="explain_send_sms_permission_button">Verify</string>
   <string name="explain_send_sms_permission_msg">To turn on %s, Xiaomi Service Framework will send SMS to verify your phone number. You will be charged for the regular SMS by the carrier.</string>

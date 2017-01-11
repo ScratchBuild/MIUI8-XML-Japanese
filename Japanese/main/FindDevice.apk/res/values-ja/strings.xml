@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activate_xiaomi_account">Activate this device</string>
+  <string name="activate_xiaomi_account">"このデバイスを有効にする"</string>
   <string name="adding_or_updating_account">"アカウントを更新中…"</string>
   <string name="app_name">Find device</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Couldn't unlock. %s."</string>
   <string name="default_lock_msg_words">This device is associated with an existing Mi Account. For security reasons, you need to enter password to verify the device.</string>
   <string name="default_lock_msg_words_with_phone">Hi! I lost my phone. Could you please contact me? Thanks!</string>
-  <string name="device_locked">This device is locked</string>
+  <string name="device_locked">"このデバイスはロックされています"</string>
   <string name="device_lost">This device is lost</string>
   <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
-  <string name="disable_find_device_success">Find device is off</string>
+  <string name="disable_find_device_success">"Find deviceはオフです"</string>
   <string name="doing_extra_login_steps">Verifying sign in…</string>
   <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
-  <string name="enable_find_device_success">Find device is on</string>
+  <string name="enable_find_device_success">"Find deviceはオンです"</string>
   <string name="find_device">Find device</string>
   <string name="find_device_crash">Find device closed unexpectedly.</string>
   <string name="find_device_error_account_sys_timeout">"Mi Accountに接続できませんでした。"</string>
@@ -34,7 +34,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Contact information: %s</string>
   <string name="login_extra_steps">Sign in verification</string>
-  <string name="login_failed">"Couldn't sign in. %s."</string>
+  <string name="login_failed">"ログインできませんでした。%s。"</string>
   <string name="passport_checking_vcode">パスワードを確認中…</string>
   <string name="passport_error_empty_vcode">"認証コードを入力してください"</string>
   <string name="passport_notification_need_unlock_again">Try to unlock again</string>
@@ -46,8 +46,8 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="phone_locked">This device may be associated with existing Mi Account (%s). Sign in to activate this device.</string>
   <string name="stop_on_empty_captcha">"Captchaは空白にできません"</string>
   <string name="stop_on_empty_password">"パスワードは空白にできません"</string>
-  <string name="time_correction_failure">"Can't correct time. %s"</string>
-  <string name="time_correction_success">Time corrected</string>
+  <string name="time_correction_failure">"時刻を修正できません。%s"</string>
+  <string name="time_correction_success">"時刻を修正しました"</string>
   <string name="unlock">Activate</string>
   <string name="unlock_access_denied">"アクセスが拒否されました"</string>
   <string name="unlock_bad_authentication">無効なユーザ名またはパスワード</string>
@@ -72,7 +72,7 @@ Other reasons
 Sign in to i.mi.com and try unlocking your device from there"</string>
   <string name="unlock_help_title">Unlock help:</string>
   <string name="unlock_wrong_captcha">"入力したコードが正しくありません"</string>
-  <string name="unlocking">Activating…</string>
+  <string name="unlocking">"有効にしています…"</string>
   <string name="verifing_account">Verifying password…</string>
   <string name="verify_password_failed">"Couldn't verify Mi Account ID. %s."</string>
 </resources>

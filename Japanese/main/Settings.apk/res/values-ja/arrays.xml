@@ -626,7 +626,7 @@
         <item>2.0秒</item>
     </string-array>
     <string-array name="long_press_volume_down_action">
-        <item>None</item>
+        <item>なし</item>
         <item>クイック撮影モード (写真)</item>
         <item>クイック撮影モード (動画)</item>
         <item>Public transportation shortcuts</item>

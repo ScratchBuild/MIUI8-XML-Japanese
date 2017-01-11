@@ -6,12 +6,12 @@
   <string name="activate">Activate</string>
   <string name="activate_finddevice">Connect to the network to activate device</string>
   <string name="activate_number_change_dialog_message">Choose a phone number that will be visible to other devices when you call using VoIP.</string>
-  <string name="activating">Activating…</string>
+  <string name="activating">有効にしています…</string>
   <string name="add_cloud_storage">ストレージを追加</string>
   <string name="add_short_cut">追加</string>
   <string name="added_successfully">正常に追加が完了しました</string>
   <string name="all_sync_item_open">All items are on</string>
-  <string name="antispam_sync">Do Not Disturb settings</string>
+  <string name="antispam_sync">夜間モードの設定</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
   <string name="apple_cloud">Apple Cloud Service</string>
@@ -79,8 +79,8 @@ Last backed up on %2$s"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown">ログインできません</string>
   <string name="find_device">Find device</string>
-  <string name="find_device_disabled_notice">"You can turn this feature on or off anytime in Mi Cloud's Settings."</string>
-  <string name="find_device_disabled_title">Find device is off</string>
+  <string name="find_device_disabled_notice">この機能はいつでもMiCloudの設定からオンまたはオフに設定することができます。</string>
+  <string name="find_device_disabled_title">Find deviceはオフです</string>
   <string name="find_device_disabling">オフにしています…</string>
   <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
   <string name="find_device_dspt_provision">If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on or off anytime in Settings.</string>
@@ -122,7 +122,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="i_know">OK</string>
   <string name="input_password_hint">パスワードを入力</string>
   <string name="internet_access_dspt">このアプリが正常に動作するには、インターネットへの接続が必要です。</string>
-  <string name="license_host_unreachable">"ネットワークに接続できません。To view this information now, go to %s."</string>
+  <string name="license_host_unreachable">"ネットワークに接続できません。今すぐこの情報を表示するには、%sに移動します。"</string>
   <string name="loading">読み込み中…</string>
   <string name="loading_hint">読み込み中</string>
   <string name="master_alert_notif_content">"同期できません"</string>
@@ -344,7 +344,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_sync_alert_dialog_negative">キャンセル</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Mi Cloudを使用</string>
-  <string name="micloud_sync_off">Sync with Mi Cloud is off</string>
+  <string name="micloud_sync_off">Mi Cloudとの同期はオフです</string>
   <string name="micloud_title_dspt" formatted="false">"%s 合計
  %s 使用 | %s 残り"</string>
   <string name="micloud_title_dspt_remain">"%s 残り"</string>

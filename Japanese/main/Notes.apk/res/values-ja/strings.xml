@@ -32,7 +32,7 @@
   <string name="dlg_stick_message">"ピン留め中…"</string>
   <string name="dlg_title_password_reset">"パスワードを更新"</string>
   <string name="dlg_title_set_password">"パスワードを設定"</string>
-  <string name="dlg_title_use_privacy_password">"プライバシー保護のパスワードを使用"</string>
+  <string name="dlg_title_use_privacy_password">"プライバシー保護パスワードを使用"</string>
   <string name="dlg_unhide_message">Unhiding…</string>
   <string name="enable_sync">"同期"</string>
   <string name="enable_sync_desc">"Mi Account(%1$s)を使用してノートを同期しますか？"</string>

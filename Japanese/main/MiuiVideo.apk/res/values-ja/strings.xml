@@ -164,8 +164,8 @@
   <string name="expired_buy_vip">vip has already expired</string>
   <string name="favorite">Favorite</string>
   <string name="fenghuang">iFeng</string>
-  <string name="file_error">File error</string>
-  <string name="file_not_exist">The file does not exist</string>
+  <string name="file_error">"ファイルエラー"</string>
+  <string name="file_not_exist">"ファイルが存在しません"</string>
   <string name="filter">Filter</string>
   <string name="finish_install">"正常にインストールされました"</string>
   <string name="font_family">miui</string>
@@ -192,7 +192,7 @@
   <string name="init">Init</string>
   <string name="install_apk">"インストール"</string>
   <string name="install_comfirm">"インストールするにはタップ"</string>
-  <string name="install_plugin">Install plug-in</string>
+  <string name="install_plugin">"プラグインをインストール"</string>
   <string name="introduce">"概要"</string>
   <string name="join_alert_title">"ベータテストに参加"</string>
   <string name="join_hint">"招待コードを入力"</string>
@@ -236,7 +236,7 @@
   <string name="need_upgrade_title">"更新が利用可能"</string>
   <string name="negative_comment">Dislikes</string>
   <string name="netease">NetEase</string>
-  <string name="no_login_xiaomi_account">To submit comments, sign in with your Mi Account</string>
+  <string name="no_login_xiaomi_account">"コメントを送信するには、Mi Accountにログインしてください"</string>
   <string name="no_longer_tips">"二度と表示しない"</string>
   <string name="no_pay_record">no pay record</string>
   <string name="no_sdcard_no_download">Not enough storage space.</string>
@@ -290,7 +290,7 @@
   <string name="passport_account_not_activated">"Account hasn't been activated"</string>
   <string name="passport_account_not_actived">"Your account hasn't been activated"</string>
   <string name="passport_active_email_visit">Check your inbox at %s</string>
-  <string name="passport_activing_account">Activating…</string>
+  <string name="passport_activing_account">"有効にしています…"</string>
   <string name="passport_area_code_hot">FREQUENTLY USED</string>
   <string name="passport_area_code_title">Country code</string>
   <string name="passport_auto_generate_pwd">"安全なパスワードを生成する"</string>
@@ -303,8 +303,8 @@
   <string name="passport_checking_input">"入力を確認中…"</string>
   <string name="passport_click_email_to_valid">"
 
-To activate your account, follow the 
- link we've sent to your inbox."</string>
+アカウントを有効にするには、受信トレイに
+送信したメールのリンクをクリックしてください。"</string>
   <string name="passport_completed">"完了"</string>
   <string name="passport_confirm_recycle_account">"はい"</string>
   <string name="passport_copy_message_text_success">"正常にコピーされました"</string>

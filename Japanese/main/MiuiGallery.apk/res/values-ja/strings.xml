@@ -561,9 +561,9 @@ Take more photos of your friends!"</string>
   <string name="secret_album_password_update_dialog_msg">Privacy protection password works for photos, notes, hidden folders, etc.</string>
   <string name="secret_album_password_update_dialog_ok">OK</string>
   <string name="secret_album_password_update_dialog_title">"パスワードを更新"</string>
-  <string name="secret_album_password_update_first_user_dialog_msg">"プライバシー保護のパスワードは、写真、ノート、隠しフォルダ等に使用されます。"</string>
+  <string name="secret_album_password_update_first_user_dialog_msg">"プライバシー保護パスワードは、写真、ノート、隠しフォルダ等に使用されます。"</string>
   <string name="secret_album_password_update_first_user_dialog_title">"パスワードを更新"</string>
-  <string name="secret_album_set_pc_password_dialog_msg">"プライバシー保護のパスワードを使用します。これは写真、ノート、隠しフォルダ等に使用されます。"</string>
+  <string name="secret_album_set_pc_password_dialog_msg">"プライバシー保護パスワードを使用します。これは写真、ノート、隠しフォルダ等に使用されます。"</string>
   <string name="secret_album_set_pc_password_dialog_ok">"パスワードを設定"</string>
   <string name="secret_album_set_pc_password_dialog_title">"新しいパスワードを設定"</string>
   <string name="secret_reason_space_full">Cloud albums are full</string>

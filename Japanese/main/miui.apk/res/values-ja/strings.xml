@@ -7,7 +7,7 @@
   <string name="action_mode_title_empty">"アイテムを選択"</string>
   <string name="activate">Activate</string>
   <string name="activate_fail_notification_title">Reactivate sync</string>
-  <string name="activating">Activating…</string>
+  <string name="activating">"有効にしています…"</string>
   <string name="address">"住所"</string>
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
