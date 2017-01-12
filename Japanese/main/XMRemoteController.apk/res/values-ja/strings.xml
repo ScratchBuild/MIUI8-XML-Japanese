@@ -1060,7 +1060,7 @@ To change, long press TV's power button"</string>
   <string name="wind_speed_low">Low</string>
   <string name="wind_speed_medium">Normal</string>
   <string name="wind_sweep">Swing</string>
-  <string name="wx_not_installed">"はじめにWeChatをインストール"</string>
+  <string name="wx_not_installed">"最初にWeChatをインストール"</string>
   <string name="xiaomi_vip">Mi VIP</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">"はい"</string>

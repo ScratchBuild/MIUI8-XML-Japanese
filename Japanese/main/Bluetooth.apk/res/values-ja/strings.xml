@@ -91,7 +91,7 @@
   <string name="notification_sent">"Bluetooth共有: %1$sを送信済み"</string>
   <string name="notification_sent_complete">"100%完了"</string>
   <string name="notification_sent_fail">"Bluetooth共有: ファイル%1$sの送信に失敗"</string>
-  <string name="notify_server">Notify TCP server</string>
+  <string name="notify_server">"TCPサーバーに通知"</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">"外部への転送"</string>
   <string name="outbound_noti_title">"Bluetooth共有: 送信したファイル"</string>
@@ -106,7 +106,7 @@
   <string name="permlab_bluetoothWhitelist">"Bluetooth端末によるアクセスを許可します。"</string>
   <string name="process"/>
   <string name="sharedUserId"/>
-  <string name="start_server">"TCP serverを起動"</string>
+  <string name="start_server">"TCPサーバーを起動"</string>
   <string name="status_canceled">"ユーザーが転送をキャンセルしました。"</string>
   <string name="status_connection_error">"接続できませんでした。"</string>
   <string name="status_file_error">"ストレージのエラーです。"</string>
@@ -129,7 +129,7 @@
   <string name="unknown_file">"不明なファイル"</string>
   <string name="unknown_file_desc">"この形式のファイルを処理するアプリがありません。
 "</string>
-  <string name="update_record">Confirm record</string>
+  <string name="update_record">"レコードを確認"</string>
   <string name="upload_fail_cancel">"閉じる"</string>
   <string name="upload_fail_line1">"ファイルは「%1$s」に送信されませんでした。"</string>
   <string name="upload_fail_line1_2">"ファイル: %1$s"</string>

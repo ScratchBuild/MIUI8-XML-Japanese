@@ -157,7 +157,7 @@
   <string name="deleted_video_msg">"You're a bit late. This video was deleted."</string>
   <string name="dialog_logout_message">"今すぐログアウトしますか？"</string>
   <string name="dialog_logout_title">"ログアウト"</string>
-  <string name="dialog_select_type">Choose type</string>
+  <string name="dialog_select_type">"タイプを選択"</string>
   <string name="dialog_type_audio">Audio</string>
   <string name="dialog_type_image">Images</string>
   <string name="dialog_type_text">Docs</string>
@@ -237,7 +237,7 @@
   <string name="group_title_extra_expire">About to expire</string>
   <string name="group_title_extra_new">New</string>
   <string name="handsome_boy">"男性"</string>
-  <string name="has_installed">Installed</string>
+  <string name="has_installed">"インストール済み"</string>
   <string name="homepage_tab_category">"カテゴリー"</string>
   <string name="homepage_tab_file_view">"ストレージ"</string>
   <string name="homepage_tab_recent">"履歴"</string>
@@ -250,7 +250,7 @@
   <string name="hottest_sticker_str">Popular</string>
   <string name="if_cancel">"この操作をキャンセルしますか？"</string>
   <string name="image_loading_error">"画像を読み込めませんでした"</string>
-  <string name="input_memo_hint">Enter additional reasons (optional)</string>
+  <string name="input_memo_hint">"その他の理由を入力 (省略可)"</string>
   <string name="install_fail">"インストールできませんでした"</string>
   <string name="installing">"インストール中…"</string>
   <string name="instruction">Enter the following address into FTP client: </string>
@@ -358,12 +358,12 @@
   <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Notifications</string>
   <string name="notification_title">Show notification when %1$s creates a file</string>
-  <string name="notification_wechat_auto_backup_hint">Tap to learn more.</string>
+  <string name="notification_wechat_auto_backup_hint">"タップで詳細を表示。"</string>
   <string name="notification_wechat_auto_backup_switch_title">Back up chat videos</string>
   <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
   <string name="notification_wechat_sticker_hint">Show notification when new WeChat stickers are available</string>
   <string name="notification_wechat_title">When chat videos are about to expire</string>
-  <string name="notify_private_folder_msg">Tap to learn more.</string>
+  <string name="notify_private_folder_msg">"タップで詳細を表示。"</string>
   <string name="notify_private_folder_title">Create hidden folders</string>
   <string name="oauth_failed_tip">"Couldn't complete authorization"</string>
   <string name="one_account_bind_needed">Add at least one account</string>

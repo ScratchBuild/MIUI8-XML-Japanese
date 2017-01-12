@@ -613,8 +613,8 @@
   <string name="vp_hide_media_info">Hide video info</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_hint">Attention</string>
-  <string name="vp_install">Install</string>
-  <string name="vp_install_title">Install</string>
+  <string name="vp_install">"インストール"</string>
+  <string name="vp_install_title">"インストール"</string>
   <string name="vp_loading">&lt;CDATA&gt;Downloading&lt;/CDATA&gt;</string>
   <string name="vp_loading_download">&lt;CDATA&gt;Downloading&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_loading_video">"読み込み中…"</string>
@@ -652,7 +652,7 @@
   <string name="vp_player_plugin_dlg_no_content">No Video Player Plugin</string>
   <string name="vp_player_plugin_dlg_title">Video Player Plugin</string>
   <string name="vp_plugin_message">Install HD video plugin?</string>
-  <string name="vp_retry">Retry</string>
+  <string name="vp_retry">"再試行"</string>
   <string name="vp_scale_screen">Aspect ratio</string>
   <string name="vp_screen_shot">Capture</string>
   <string name="vp_select_ci">Select episode</string>
@@ -675,7 +675,7 @@
   <string name="vp_video_create_video_error_info">"ビデオプレイヤーの初期化エラーです、しばらくしてからもう一度お試しください。"</string>
   <string name="vp_video_invalid_cp_info">Invalid information of video provider, please restart application</string>
   <string name="vp_video_loading">&lt;CDATA&gt;Loading&amp;#8230;&lt;/CDATA&gt;</string>
-  <string name="vp_video_plugin_installation">Installing %1$s…</string>
+  <string name="vp_video_plugin_installation">"%1$sをインストール中…"</string>
   <string name="waiting_to_download">Waiting</string>
   <string name="wasu">Wasu</string>
   <string name="write_comment">Add comment</string>

@@ -1264,7 +1264,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="edge_mode_clean">システムキャッシュをクリアする</string>
   <string name="edge_mode_clean_summary">両方のエッジをスライドさせるとシステムキャッシュをクリアします</string>
   <string name="edge_mode_guide_title">エッジコントロールを使用するには強調表示された領域をタップ</string>
-  <string name="edge_mode_notification_summary">Tap to learn more.</string>
+  <string name="edge_mode_notification_summary">タップで詳細を表示。</string>
   <string name="edge_mode_notification_title">エッジコントロールを使用する</string>
   <string name="edge_mode_photo">写真を撮る</string>
   <string name="edge_mode_photo_summary">カメラアプリを使用中は、エッジをタップするとシャッターをトリガーし、もう一度タップで写真を撮ります</string>
@@ -1819,7 +1819,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_after_timeout_summary">スリープ開始から%1$s</string>
   <string name="lock_after_timeout_summary_with_exception">スリープ開始から%1$s（%2$sがロック解除を管理している場合を除く）</string>
   <string name="lock_immediately_summary_with_exception">スリープの開始直後（%1$sがロック解除を管理している場合を除く）</string>
-  <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_cells_title">ホーム画面のレイアウトをロック</string>
   <string name="lock_screen_notifications_interstitial_message">端末がロックされている場合、通知をどのように表示しますか？</string>
   <string name="lock_screen_notifications_interstitial_title">通知</string>
@@ -2198,7 +2197,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="networks_title">Cellular networks</string>
   <string name="never">Never</string>
   <string name="new_backup_pw_prompt">フルバックアップ用の新しいパスワードをここに入力してください</string>
-  <string name="new_password_to_new_fingerprint_dialog_msg">Add your fingerprint to unlock your device with it.</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">デバイスのロックを解除するための指紋を追加する。</string>
   <string name="new_password_to_new_fingerprint_dialog_negative_msg">キャンセル</string>
   <string name="new_password_to_new_fingerprint_dialog_positive_msg">追加</string>
   <string name="new_password_to_new_fingerprint_dialog_tittle">指紋の追加</string>
@@ -2241,7 +2240,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_device_admins">有効なデバイス管理者がいません</string>
   <string name="no_internet_access_remember">このネットワークについて次回から表示しない</string>
   <string name="no_internet_access_text">このネットワークはインターネットに接続していません。接続を維持しますか？</string>
-  <string name="no_media_button_receiver">No</string>
+  <string name="no_media_button_receiver">いいえ</string>
   <string name="no_memory_use_summary">過去3時間のメモリ使用量: なし</string>
   <string name="no_nearby_wifi">ネットワークが見つかりません</string>
   <string name="no_notification_listeners">通知へのアクセスをリクエストしたインストール済みアプリはありません。</string>
@@ -2300,7 +2299,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="online_resource_entry">オンラインリソース</string>
   <string name="only_one_home_message">ホームの設定は別のホームアプリをインストールするまで表示されません。</string>
   <string name="onscreen_keyboard_settings_summary">画面キーボードを設定する</string>
-  <string name="open_anr_debug">Turn on ANR debugging</string>
+  <string name="open_anr_debug">ANRデバッグをオンにする</string>
   <string name="open_miui_optimization_title">MIUIの最適化をオンにします</string>
   <string name="open_miui_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
@@ -2383,8 +2382,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="passwordIncorrect">入力したパスワードが正しくありません</string>
   <string name="password_entrance_title">画面ロック</string>
   <string name="password_guard">パスワード</string>
-  <string name="password_turned_off_text">Password has been turned off</string>
-  <string name="password_turned_on_text">Password has been turned on</string>
+  <string name="password_turned_off_text">パスワードがオフになっています</string>
+  <string name="password_turned_on_text">パスワードがオンになっています</string>
   <string name="performance_category">パフォーマンス</string>
   <string name="permission_detail_info">詳細</string>
   <string name="permission_detail_info_summary">セキュリティ %1$d | プライバシー %2$d | その他 %3$d</string>
@@ -3730,7 +3729,7 @@ PINが正しくない可能性があります。"</string>
   <string name="turn_off_common_password_confirm_msg">画面ロックも同様にオフになります</string>
   <string name="turn_off_keyguard_password_alert_title">オフにする</string>
   <string name="turn_off_keyguard_password_confirm_msg">ロック画面のパスワードをオフにしますか？</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"You won't be able to unlock the device with your fingerprint after turning Lock screen password off"</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">ロック画面のパスワードをオフにした後には、指紋認証でデバイスのロックを解除することはできません</string>
   <string name="turn_off_radio">無線通信をOFF</string>
   <string name="turn_off_security_lock">ロックをOFF</string>
   <string name="turn_on_keyguard_password">ロック画面のパスワードをオンにする</string>

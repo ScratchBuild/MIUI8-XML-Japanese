@@ -941,10 +941,10 @@ To add a contact to your list of favorites:
   <string name="preference_auto_ip_summary_disable">Off</string>
   <string name="preference_auto_ip_summary_on">Carrier IP prefix: %s</string>
   <string name="preference_auto_ip_title">Automatic IP prefix</string>
-  <string name="preference_contacts">Contacts</string>
+  <string name="preference_contacts">"連絡先"</string>
   <string name="preference_contacts_display">Display preferences</string>
   <string name="preference_contacts_filter">Configure contact lists</string>
-  <string name="preference_contacts_more">Organize contacts</string>
+  <string name="preference_contacts_more">"連絡先を整理する"</string>
   <string name="preference_dial_pad_touch_tone_human">Voice</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>
   <string name="preference_dial_pad_touch_tone_switch">Dial pad tones</string>

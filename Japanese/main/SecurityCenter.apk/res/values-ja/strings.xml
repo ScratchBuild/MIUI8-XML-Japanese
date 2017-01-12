@@ -437,8 +437,8 @@
   <string name="dialog_title_attention">Attention</string>
   <string name="dialog_title_auto_start_declare">"自動起動について"</string>
   <string name="dialog_title_stop_paysafety_scan">"停止"</string>
-  <string name="dialog_title_stop_virus_scan">Stop virus scan</string>
-  <string name="disable_air_mode">Turn Airplane mode off first</string>
+  <string name="dialog_title_stop_virus_scan">"ウイルススキャンを停止する"</string>
+  <string name="disable_air_mode">"最初に機内モードをオフにする"</string>
   <string name="dns_exception_summary">"Check router's DNS settings"</string>
   <string name="dns_exception_title">Check DNS settings</string>
   <string name="download">"ダウンロード"</string>
@@ -456,7 +456,7 @@
   <string name="empty_title_system_cache_list">System cache empty</string>
   <string name="empty_title_system_process_list">No system processes</string>
   <string name="empty_title_virus_list">No viruses</string>
-  <string name="enable_network">Turn network on first</string>
+  <string name="enable_network">"最初にネットワークをオンにする"</string>
   <string name="every_day">"毎日"</string>
   <string name="examination_score_100">Everything looks good!</string>
   <string name="examination_score_100_with_recommend">%d items can be optimized</string>
@@ -570,7 +570,7 @@
   <string name="history_details_title">"履歴の詳細"</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
-  <string name="info_and_call">Calls and messaging</string>
+  <string name="info_and_call">"通話とメッセージ"</string>
   <string name="information_setting">"ニュースフィードの設定"</string>
   <string name="input_aviable_traffic">Set data usage limit</string>
   <string name="input_traffic_pkg">Enter data usage</string>
@@ -878,7 +878,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optmizingbar_title_system">System security</string>
   <string name="other_exception_summary">"You don't have an internet connection"</string>
   <string name="other_exception_title">Checking for other issues</string>
-  <string name="package_change_notification_summary">Tap to learn more.</string>
+  <string name="package_change_notification_summary">"タップで詳細を表示。"</string>
   <string name="package_change_notification_title">Adjust data limit automatically</string>
   <string name="package_setted_error_notification_summary">Tap to view data usage details.</string>
   <string name="package_setted_error_notification_titile">"データプランを設定できませんでした"</string>
