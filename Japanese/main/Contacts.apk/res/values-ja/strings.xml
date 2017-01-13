@@ -92,7 +92,7 @@
   <string name="call_telex">テレックスに発信</string>
   <string name="call_tty_tdd">TTY/TDDに発信</string>
   <string name="call_type_and_date">%1$s %2$s</string>
-  <string name="call_unit">USD</string>
+  <string name="call_unit">CNY</string>
   <string name="call_work">職場に発信</string>
   <string name="call_work_mobile">携帯端末（職場）に発信</string>
   <string name="call_work_pager">ポケベル（職場）に発信</string>
@@ -390,6 +390,9 @@ Contact cards are turned off"</string>
   <string name="dialer_menu_title">"メニューオプション"</string>
   <string name="dialer_returnToInCallScreen">"通話に戻る"</string>
   <string name="dialer_useDtmfDialpad">"プッシュホン式キーパッドを使う"</string>
+  <string name="dialog_device_info_hardware_version">ハードウェアバージョン: %s</string>
+  <string name="dialog_device_info_miui_version">MIUIバージョン: %s</string>
+  <string name="dialog_device_info_title">バージョン情報</string>
   <string name="dialog_import">連絡先をインポートする</string>
   <string name="dialog_import_export">連絡先をインポート/エクスポートする</string>
   <string name="dialog_new_contact_account">アカウント配下に連絡先を作成する</string>
@@ -399,6 +402,10 @@ Contact cards are turned off"</string>
   <string name="dialog_voicemail_airplane_mode_message">"機内モードをOFFにしてからボイスメールを呼び出してください。"</string>
   <string name="dialog_voicemail_not_ready_message">"ボイスメールをセットアップするには、MENUキー&gt;[設定]をタップします。"</string>
   <string name="directory_search_label">Directory</string>
+  <string name="disclaimer_text">"Yellow pages get the info about your balance by sending an SMS. Your carrier may update this info with a delay, so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
+
+To avoid frequent queries, we update balance info once a day."</string>
+  <string name="disclaimer_title">免責事項</string>
   <string name="display_all_contacts">すべての連絡先</string>
   <string name="display_more_groups">ほかのグループ</string>
   <string name="display_only_phones">Hide incomplete numbers</string>
@@ -1037,6 +1044,7 @@ To add a contact to your list of favorites:
   <string name="remove_duplicate">"MIUIは重複した連絡先を見つけて統合するために役立ちます。
 
  始めるには、画面下部にある統合アイコンをタップしてください。"</string>
+  <string name="report_inquiry_mms">Report SMS</string>
   <string name="restore_nickname">Restore</string>
   <string name="ret_sign">"
 "</string>

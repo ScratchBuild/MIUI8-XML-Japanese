@@ -381,6 +381,9 @@ Total: RMB %3$s"</string>
   <string name="remind_user_suspect_number_title">不審な番号</string>
   <string name="rmb">RMB</string>
   <string name="scan">Scan</string>
+  <string name="search_description_express">Query or send express quickly and easily</string>
+  <string name="search_keywords_express">express;shunfeng;shentong;debang;kuaidi;danhao;</string>
+  <string name="search_title_express">Query or send express</string>
   <string name="select_package_before_buy">パッケージを選択</string>
   <string name="send_shortcut_failed">送信できませんでした</string>
   <string name="send_shortcut_success">ホーム画面に設置しました</string>

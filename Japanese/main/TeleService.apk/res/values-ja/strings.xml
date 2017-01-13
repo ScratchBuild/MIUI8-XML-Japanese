@@ -130,6 +130,7 @@
   <string name="call_barring_outgoing">通話発信制限</string>
   <string name="call_barring_sum">音声通話発着信制限設定</string>
   <string name="call_description_recording">録音中...</string>
+  <string name="call_forward_option">着信を転送中</string>
   <string name="call_forwarding_number_hint">転送番号を入力</string>
   <string name="call_forwarding_settings">着信転送設定</string>
   <string name="call_forwarding_settings_with_label">着信転送設定 (%s)</string>

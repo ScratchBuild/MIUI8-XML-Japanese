@@ -150,6 +150,7 @@
   <string name="toast_reach_text_limit_attachment">"ノートが長すぎるため、新しい添付ファイルを追加できません"</string>
   <string name="toast_reach_text_limit_truncate">"このノートは長すぎます。いくつかのテキストは最後が切り取られています。"</string>
   <string name="trash_folder_name">"ゴミ箱"</string>
+  <string name="trash_folder_reminder">"削除したノートは30日後にゴミ箱から完全に削除されます。"</string>
   <string name="undo">"元に戻す"</string>
   <string name="unknown_source">"不明なソース"</string>
   <string name="welcome_note_for_cm">"もっと便利な機能！

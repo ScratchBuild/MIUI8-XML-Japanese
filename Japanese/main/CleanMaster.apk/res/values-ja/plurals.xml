@@ -81,4 +81,12 @@
         <item quantity="other">%d apps installed</item>
         <item quantity="one">%d app installed</item>
     </plurals>
+    <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">"Couldn't export %d videos. Free up space and try again"</item>
+        <item quantity="one">"Couldn't export %d video. Free up space and try again."</item>
+    </plurals>
+    <plurals name="wechat_empty_files">
+        <item quantity="other">（%1$d empty files）%2$s</item>
+        <item quantity="one">（%1$d empty file）%2$s</item>
+    </plurals>
 </resources>

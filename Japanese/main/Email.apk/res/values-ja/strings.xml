@@ -3,6 +3,8 @@
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
   <string name="SMTP_password_text">"パスワード"</string>
   <string name="SMTP_username_text">"ユーザー名"</string>
+  <string name="accessibility_guide_first">In the next screen, select the \"Services\" tab to activate the 139 Mailbox Automatical Configuring</string>
+  <string name="accessibility_guide_second">Then click the switch on the top right corner, click the \"Confirm\" to continue.</string>
   <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"このユーザー名はアカウント「%s」で既に使用しています。"</string>
   <string name="account_duplicate_dlg_title">"重複するアカウント"</string>
@@ -197,6 +199,14 @@
   <string name="auto_advance_help_title">After deleting a message, view…</string>
   <string name="auto_advance_label">Delete message flow</string>
   <string name="auto_advance_summary">Choose which message to scroll to after deleting a message</string>
+  <string name="auto_mail_describe">139 Email Service Automatical Configuring can help you filling in the login information to the mailbox. Do you want to enable this feature?</string>
+  <string name="auto_mail_disable_txt">Disabled</string>
+  <string name="auto_mail_enable_txt">Start Settings</string>
+  <string name="auto_mail_go_email">Mailbox</string>
+  <string name="auto_mail_name">AutoMail</string>
+  <string name="auto_mail_title_note">Find the option \"139 Mailbox Automatical Configuring\", click it to start.</string>
+  <string name="auto_mail_window_description">139 Email Service Automatical Configuring</string>
+  <string name="auto_mail_window_label">139 Mailbox Automatical Configuring</string>
   <string name="auto_sync_off">"自動同期はオフです。"</string>
   <string name="battery_saver">Battery saver</string>
   <string name="battery_saver_keywords">battery saver;mail battery</string>
@@ -232,6 +242,7 @@
   <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
   <string name="click_download_all_content">[ Tap to download content ]</string>
   <string name="click_to_reload">"更新するには画面をタップ"</string>
+  <string name="close">Shut down</string>
   <string name="collapse_recipient_details">"受信者の詳細を折りたたむ"</string>
   <string name="colon">:</string>
   <string name="compose">"作成"</string>
@@ -240,6 +251,9 @@
   <string name="compose_picturesexceedlimits">"メッセージ内のインライン画像は5枚が上限です"</string>
   <string name="compose_send">"送信"</string>
   <string name="compose_sent">"メールを送信"</string>
+  <string name="config">139 Mailbox Phone Number Configured</string>
+  <string name="config_cancel">"キャンセル"</string>
+  <string name="config_retry">"再試行"</string>
   <string name="confirm">OK</string>
   <string name="confirm_before_delete">"削除前に確認する"</string>
   <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
@@ -291,8 +305,8 @@
   <string name="conversation_item_mark_read">"既読"</string>
   <string name="conversation_item_mark_unread">"未読"</string>
   <string name="conversation_photo_welcome_text">"送信者の画像をタップして会話を選択します。"</string>
-  <string name="conversation_quick_button_approve">"同意する"</string>
-  <string name="conversation_quick_button_disapprove">"同意しない"</string>
+  <string name="conversation_quick_button_approve">OK</string>
+  <string name="conversation_quick_button_disapprove">"キャンセル"</string>
   <string name="conversation_quick_button_received">"受信済み"</string>
   <string name="conversation_view">"スレッド表示"</string>
   <string name="conversation_view_keywords">conversation view;mail conversation</string>
@@ -359,6 +373,7 @@
   <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">"クイック返信"</string>
   <string name="elided_padding_token"> </string>
+  <string name="email_address">"メールアドレス"</string>
   <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Mail</string>
   <string name="email_qq">QQ Mail</string>
@@ -373,6 +388,7 @@
   <string name="empty_trash_dialog_title">"ゴミ箱を空にしますか？"</string>
   <string name="enable_sync_in_account_settings">Turn on in %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
+  <string name="error">"エラー"</string>
   <string name="exception_cancel">"この予定はキャンセルされました: %s"</string>
   <string name="exception_updated">"この予定の詳細が変更されました: %s"</string>
   <string name="exchange_name">Corporate</string>
@@ -393,7 +409,10 @@
   <string name="file_not_found">"ファイルが見つかりませんでした"</string>
   <string name="file_not_found_redownload">"ファイルが見つかりませんでした"</string>
   <string name="file_rar_not_support">"暗号化されたrarファイルを開くことができません"</string>
-  <string name="first_quick_default_reply">Click this shortcut, then \"%s\" will be sent to all recipients.</string>
+  <string name="first_quick_default_reply">Tap the button to send \"%s\" to all people in the conversation</string>
+  <string name="float_window_content">Detects that you are using the mailbox, click Confirm for you to automatically fill 139 E-mail account and password.</string>
+  <string name="float_window_info">"When configuring the 139 mailbox, don't operate the phone, in case of configuration failures."</string>
+  <string name="float_window_title">Configuration………</string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
   <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -463,6 +482,7 @@
   <string name="header_category_other">"フィードバック"</string>
   <string name="header_label_general_preferences">General</string>
   <string name="help_and_info">"ヘルプ"</string>
+  <string name="help_config">Self configuration</string>
   <string name="hide_atts_remaining">Hide %1$d attachments</string>
   <string name="hide_elided">▼ Hide quoted text</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -489,6 +509,7 @@
   <string name="local_search">Local search</string>
   <string name="local_search_result">%s results in synced messages</string>
   <string name="login">"ログイン"</string>
+  <string name="login139">CMCC Sign in by one key</string>
   <string name="login_failed_ticker">"%sでログインできませんでした。"</string>
   <string name="login_failed_title">"ログインできませんでした"</string>
   <string name="long_press_to_select_tip">Touch &amp; hold to select one conversation, then touch to select more.</string>
@@ -591,6 +612,7 @@
   <string name="mute">"ミュート"</string>
   <string name="network_error">"接続なし"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
+  <string name="network_tip">Authentication failed, please check your network connection</string>
   <string name="network_try_again">"ネットワーク接続を確認してもう一度お試しください"</string>
   <string name="network_unavailable">"ネットワークが利用できません"</string>
   <string name="new_incoming_messages_one">New message from %s. Show.</string>
@@ -605,8 +627,11 @@
   <string name="no_conversations">"メッセージなし"</string>
   <string name="no_mails">"メールなし。"</string>
   <string name="no_matched_attachment">No results.</string>
+  <string name="no_remind">Not to remind</string>
   <string name="not_subject">"(件名なし)"</string>
   <string name="not_synced_title">Account not synced</string>
+  <string name="note_text">Possible through the network of China Mobile or SMS verification, may generate additional costs to flow or SMS.</string>
+  <string name="note_title">139 Email Automatic Configuration</string>
   <string name="notification_action_archive">"アーカイブ"</string>
   <string name="notification_action_delete">"削除"</string>
   <string name="notification_action_remove_label">"タグを削除"</string>
@@ -619,6 +644,7 @@
   <string name="oauth_error_description">"認証できません"</string>
   <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
   <string name="oauth_login_continue">"続行"</string>
+  <string name="oauth_login_continue_qq">Get authorization code to log in &gt;</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="outbox_alert_button_no_resend">"送信しない"</string>
@@ -642,6 +668,10 @@
   <string name="outbox_alert_select_operation">Choose an action</string>
   <string name="outbox_alert_title_sent_failed">"メールを送信できませんでした"</string>
   <string name="outbox_no_mails">Empty</string>
+  <string name="overlays_fail_tip">Very sorry that your mailbox is not configured successfully, open the floating Windows permissions and try again</string>
+  <string name="overlays_ok">Open permissions</string>
+  <string name="overlays_tip">Open floating Windows permissions, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
+  <string name="overlays_title">Open floating Windows permissions</string>
   <string name="parase_setup_data">Getting data…</string>
   <string name="password_expire_warning_content_title">"解除パスワードの期限切れが間近"</string>
   <string name="password_expire_warning_dialog_content_fmt">"ロック解除PINまたはパスワードを変更しないと、まもなく%sのデータが消去されます。今すぐ変更しますか？"</string>
@@ -670,6 +700,7 @@
   <string name="permission_access_provider_label">"メールプロバイダのデータへのアクセス"</string>
   <string name="permission_read_attachment_desc">"メールの添付ファイルの読み取りをこのアプリに許可します。"</string>
   <string name="permission_read_attachment_label">"メール添付ファイルの読み取り"</string>
+  <string name="permission_tip">Configuration fails, please allow calls and text messages during configuration permissions</string>
   <string name="phone">phone</string>
   <string name="photo_load_failed">"画像を読み込めませんでした"</string>
   <string name="photo_view_count" formatted="false">%d of %d</string>
@@ -731,6 +762,17 @@
   <string name="push_wps_confirm_message">"この添付ファイルを開くためにWPS Officeを試す。"</string>
   <string name="push_wps_confirm_title">"WPS Officeを試す"</string>
   <string name="push_wps_no_response_app">"この操作を処理するためのアプリが見つかりませんでした"</string>
+  <string name="qq_bar_open_imap">Enable</string>
+  <string name="qq_bar_send_message">Send SMS</string>
+  <string name="qq_login_basecode">Logging in QQ Email via web page. Please enter your independent password.</string>
+  <string name="qq_login_get_auth">Failed to send an verification SMS? Please authenticate via password protection questions</string>
+  <string name="qq_login_open_imap">Click \"Enable\" to enable \"IMAP/SMTP\"</string>
+  <string name="qq_login_origin_setting">Input username and password to log in &gt;</string>
+  <string name="qq_login_send_message">Click \"Send SMS\" to obtain an authorization code</string>
+  <string name="qq_login_webview">Logging in QQ Email via web page. Please enter your password.</string>
+  <string name="qq_next_generation_auth_toast">Please complete the application for second-generation password protection via browser</string>
+  <string name="qq_uthentication_failed">Authentication failed, please sign in again</string>
+  <string name="qq_webview_loading">Skipping now, please wait...</string>
   <string name="questionnair_body_invisibility">"メッセージが表示されない"</string>
   <string name="questionnair_confirm_delete">"削除"</string>
   <string name="questionnair_instability">"頻繁にクラッシュする"</string>
@@ -837,7 +879,7 @@
   <string name="senders_split_token">, </string>
   <string name="sending">"送信中…"</string>
   <string name="sending_message">"メッセージを送信中…"</string>
-  <string name="sending_quick_reply">"メッセージを送信中 \"%s\""</string>
+  <string name="sending_quick_reply">"送信中 \"%s\""</string>
   <string name="sent_folder_selection_title">"%sのサーバーの送信済みフォルダを選択してください"</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate\n\u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
   <string name="ser_resp_err_map_landing_more_failure">Too many unsuccessful sign in attempts</string>
@@ -867,6 +909,7 @@
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
+  <string name="sms_tip">Authentication fails, check whether the antivirus software to intercept SMS</string>
   <string name="smtp_password_error">"送信メールサーバーのパスワードが正しくありません"</string>
   <string name="sort_attachment">"並べ替え"</string>
   <string name="special_text_1">写道:</string>
@@ -952,6 +995,12 @@
 Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
   <string name="wait_for_sync_title">Waiting for sync</string>
   <string name="wait_help_context">wait</string>
+  <string name="webview_logout">Do you really want to give up logging in? Come on and Try again!</string>
+  <string name="webview_logout_cancel">"Won't try any more"</string>
+  <string name="webview_logout_sure">Try once more</string>
+  <string name="webview_sslerror_handle_cancel">"キャンセル"</string>
+  <string name="webview_sslerror_handle_continue">"続行"</string>
+  <string name="webview_sslerror_handle_hitmessage">Certificate Error! Continue to this website (not recommended)?</string>
   <string name="widget_all_mail">"すべてのメール"</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">"その他"</string>

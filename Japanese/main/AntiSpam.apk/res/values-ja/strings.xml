@@ -143,10 +143,6 @@
   <string name="mark_agent_block">Reported as agency</string>
   <string name="mark_agent_block_large">Agencies</string>
   <string name="mark_agent_time_setting">Block numbers that have been reported as agencies a specified number of times</string>
-  <string name="mark_courier">Block reported couriers</string>
-  <string name="mark_courier_block">Reported as courier</string>
-  <string name="mark_courier_block_large">Couriers</string>
-  <string name="mark_courier_time_setting">Block numbers that have been reported as couriers a specified number of times</string>
   <string name="mark_fraud">Block reported scams</string>
   <string name="mark_fraud_block">Reported as scam</string>
   <string name="mark_fraud_block_large">Scams</string>
@@ -156,9 +152,8 @@
   <string name="mark_harass_block_large">Nuisances</string>
   <string name="mark_harass_time_setting">Block numbers that have been reported as nuisances a specified number of times</string>
   <string name="mark_number_agent">Agent</string>
-  <string name="mark_number_courier">Courier</string>
   <string name="mark_number_fraud">Fraud</string>
-  <string name="mark_number_harass">Harassment</string>
+  <string name="mark_number_harass">Harass</string>
   <string name="mark_number_info">"Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
   <string name="mark_number_sell">Telemarketer</string>
   <string name="mark_number_setting_guide_content1">Block calls from reported numbers?</string>

@@ -160,6 +160,7 @@
   <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
   <string name="my_device_title">"現在のデバイス"</string>
+  <string name="my_favorite">My Favorite</string>
   <string name="no_network_btn">"更新"</string>
   <string name="no_network_title">"ネットワークに接続できません。"</string>
   <string name="no_response_retry">"応答がありません、再試行してください。"</string>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_in_hour">
+        <item quantity="other">%1$d時間前</item>
+        <item quantity="one">%1$d時間前</item>
+    </plurals>
+    <plurals name="time_in_minute">
+        <item quantity="other">%1$d分前</item>
+        <item quantity="one">%1$d分前</item>
+    </plurals>
+    <plurals name="time_in_second">
+        <item quantity="other">%1$d秒前</item>
+        <item quantity="one">%1$d秒前</item>
+    </plurals>
+</resources>

@@ -52,6 +52,10 @@
         <item quantity="other">Remove %d songs?</item>
         <item quantity="one">Remove %d song?</item>
     </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Delete %d songs from Mi Cloud?</item>
+        <item quantity="one">Delete %d song from Mi Cloud?</item>
+    </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d songs added to playlist</item>
         <item quantity="one">Song added to playlist</item>
@@ -91,5 +95,26 @@
     <plurals name="reader_count">
         <item quantity="other">%d followers</item>
         <item quantity="one">%d follower</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d songs haven't been backed up (%2$.1fMB)"</item>
+        <item quantity="one">"%1$d song hasn't been backed up (%2$.1fMB)"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Back up %1$d songs (%2$.1fMB)</item>
+        <item quantity="one">Back up %1$d song (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Backing up songs, %1$d song remaining (%2$.1fMB)</item>
+        <item quantity="one">Backing up song, %1$d song remaining (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d songs haven't been backed up to mi Cloud. Stop now?"</item>
+        <item quantity="one">"%d song hasn't been backed up to mi Cloud. Stop now?"</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Created on %1$s | total %2$d songs</item>
+        <item quantity="zero">Created on %1$s | total %2$d song</item>
+        <item quantity="one">Created on %1$s | total %2$d song</item>
     </plurals>
 </resources>

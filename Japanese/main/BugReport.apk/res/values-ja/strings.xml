@@ -219,6 +219,7 @@
   <string name="non_system_app_select">Downloaded apps</string>
   <string name="open_feedback_main">More</string>
   <string name="packaging_dialog_content">"レポートを作成中…"</string>
+  <string name="permission_granted">%1$s permission granted</string>
   <string name="pic_not_exist">"この画像は存在しません"</string>
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Your feedback along with error logs will be sent to Mi's servers."</string>
@@ -253,7 +254,9 @@
   <string name="tab_title_chat">FAQ</string>
   <string name="tab_title_my_reports">My reports</string>
   <string name="tab_title_report">"フィードバック"</string>
+  <string name="time_in_justnow">"ちょうど今"</string>
   <string name="title_answer_feedback_main">"回答が見つかりました！"</string>
+  <string name="title_bbs_feedback_main">Learn more about Mi phones</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Homes nearby</string>
   <string name="title_nonsystem_app">"その他のアプリ"</string>

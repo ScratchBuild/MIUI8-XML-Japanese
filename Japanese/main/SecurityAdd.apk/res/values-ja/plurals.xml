@@ -8,4 +8,13 @@
         <item quantity="other">"Haven't added %d games"</item>
         <item quantity="one">"Haven't added %d game"</item>
     </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d apps found</item>
+        <item quantity="zero">0 app found</item>
+        <item quantity="one">%d app found</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Search among %d apps</item>
+        <item quantity="one">Search among %d app</item>
+    </plurals>
 </resources>
