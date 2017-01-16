@@ -656,7 +656,7 @@ Take more photos of your friends!"</string>
   <string name="video_edit_file_not_exits_tip">Download the video first</string>
   <string name="video_editor_abandon_changes_tip_message">"すべての変更を破棄しますか？"</string>
   <string name="video_editor_abandon_changes_tip_title">"変更を破棄"</string>
-  <string name="video_editor_analyzing">Analyzing video…</string>
+  <string name="video_editor_analyzing">"動画を分析中…"</string>
   <string name="video_editor_audio">Audio</string>
   <string name="video_editor_audio_custom">Select</string>
   <string name="video_editor_audio_dynamic">Techno</string>

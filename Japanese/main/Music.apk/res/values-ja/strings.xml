@@ -745,7 +745,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="share_text_list">"Playlist from Mi Music: "</string>
   <string name="share_text_song">"Song in Mi Music: "</string>
   <string name="show_more">Show %s more</string>
-  <string name="shuffle_music">Shuffle playback</string>
+  <string name="shuffle_music">"シャッフル再生"</string>
   <string name="shuffle_off_notif">"シャッフルをOFFにしました。"</string>
   <string name="shuffle_on_notif">"シャッフルをONにしました。"</string>
   <string name="similar_songs">Similar songs</string>
@@ -851,7 +851,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="ultra_high_quality">Highest</string>
   <string name="unknown_album_name">"不明なアルバム"</string>
   <string name="unknown_artist_name">"不明なアーティスト"</string>
-  <string name="update_now">Update now</string>
+  <string name="update_now">"今すぐ更新"</string>
   <string name="upgrade">Upgrade:</string>
   <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
   <string name="upgrade_immediate">Update now</string>

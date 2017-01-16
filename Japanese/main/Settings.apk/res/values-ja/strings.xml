@@ -1092,7 +1092,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりするおそれがあります。</string>
   <string name="dev_settings_warning_title">開発用の設定を許可しますか？</string>
   <string name="developer_build">" | Beta"</string>
-  <string name="development_enable">開発者オプション</string>
+  <string name="development_enable">開発者向けオプション</string>
   <string name="development_settings_not_available">デベロッパー向けオプションはこのユーザーには表示されません</string>
   <string name="development_settings_summary">アプリ開発オプションを設定する</string>
   <string name="development_settings_title">開発者向けオプション</string>

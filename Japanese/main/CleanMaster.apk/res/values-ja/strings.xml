@@ -257,8 +257,8 @@
   <string name="hot_today">Popular today</string>
   <string name="information_setting">"ニュースフィードの設定"</string>
   <string name="install_sucess">"%sが正常にインストールされました"</string>
-  <string name="installed">Installed</string>
-  <string name="installing">Installing</string>
+  <string name="installed">"インストール済み"</string>
+  <string name="installing">"インストール中"</string>
   <string name="item_title_process_mode">Choose an action</string>
   <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
   <string name="junk_tag_RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>

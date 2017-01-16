@@ -682,7 +682,7 @@
   <string name="user_follow_me_title">My followers</string>
   <string name="user_follow_title">People I follow</string>
   <string name="user_guide_continue_use">OK</string>
-  <string name="user_guide_more_login">"他の方法でログイン"</string>
+  <string name="user_guide_more_login">"その他の方法でログイン"</string>
   <string name="user_icon">"プロフィール写真"</string>
   <string name="user_info_setting">"情報を編集"</string>
   <string name="user_like_text">Likes</string>

@@ -140,7 +140,7 @@
   <string name="download_paused">Paused</string>
   <string name="download_percent_hint">"ダウンロード中 %d%%"</string>
   <string name="download_progress_0p">0%</string>
-  <string name="download_queue">Getting info…</string>
+  <string name="download_queue">"情報を取得中…"</string>
   <string name="download_running">Working…</string>
   <string name="download_start_message">Download and install %1$s?</string>
   <string name="download_task_with">%d tasks</string>
@@ -518,7 +518,7 @@
   <string name="storage_total">"Total space: "</string>
   <string name="subscribe">Subscribe</string>
   <string name="suffix_countdown">s</string>
-  <string name="system_setting">App settings</string>
+  <string name="system_setting">"アプリの設定"</string>
   <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
   <string name="temp_play_history_button_label">History</string>
   <string name="tencent">Tencent</string>
@@ -552,8 +552,8 @@
   <string name="use_cellular_play_summary">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
   <string name="use_cellular_play_title">Use mobile data to watch video</string>
   <string name="user_tab">"アカウント"</string>
-  <string name="version_select">Choose version</string>
-  <string name="version_select_summary">Choose which version to use</string>
+  <string name="version_select">"バージョンを選択"</string>
+  <string name="version_select_summary">"使用するバージョンを選択する"</string>
   <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
   <string name="video">Video</string>
   <string name="video_app_update">"更新"</string>
@@ -578,7 +578,7 @@
   <string name="vp_VideoView_error_network_not_available">"Can't connect to the network"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"This type of file isn't supported."</string>
   <string name="vp_VideoView_error_text_unknown">An unknown error occurred.</string>
-  <string name="vp_VideoView_error_title">Unknown error</string>
+  <string name="vp_VideoView_error_title">"不明なエラー"</string>
   <string name="vp_ad_countdown_m_s">AD %1$dm%2$ss</string>
   <string name="vp_ad_countdown_s">AD %1$s</string>
   <string name="vp_ad_skip">Skip AD</string>

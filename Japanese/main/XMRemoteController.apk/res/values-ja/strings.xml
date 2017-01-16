@@ -383,7 +383,7 @@
   <string name="last_use_frame">%1$s ago</string>
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Living room</string>
-  <string name="loading_brand">Getting info…</string>
+  <string name="loading_brand">"情報を取得中…"</string>
   <string name="loading_brand_info">"読み込み中…"</string>
   <string name="loading_device_type_info">"読み込み中…"</string>
   <string name="loading_get">"読み込み中…"</string>
@@ -397,7 +397,7 @@
   <string name="login_done">"ログインしました"</string>
   <string name="login_failed">"ログインできませんでした"</string>
   <string name="login_failed_tips">"アカウント情報を取得できませんでした"</string>
-  <string name="login_thirdparty">Other ways to sign in</string>
+  <string name="login_thirdparty">"その他の方法でログイン"</string>
   <string name="login_wxfailed_tips">"アカウント情報を取得できませんでした、後ほど再試行してください"</string>
   <string name="logining">"ログイン中…"</string>
   <string name="logout">"ログアウト"</string>
@@ -639,7 +639,7 @@ Then answer the question"</string>
   <string name="passport_login_instead_reg_with_email">"このメールアドレスを使用"</string>
   <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
   <string name="passport_login_title">"Mi Accountでログイン"</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;Other ways to sign in&lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways">&lt;u&gt;その他の方法でログイン&lt;/u&gt;</string>
   <string name="passport_message_dialog_title">SMS with verifying codes</string>
   <string name="passport_next">"次へ"</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
