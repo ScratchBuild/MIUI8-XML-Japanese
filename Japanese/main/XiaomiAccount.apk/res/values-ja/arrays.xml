@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="account_user_gender_name">
-        <item>Male</item>
-        <item>Female</item>
+        <item>男性</item>
+        <item>女性</item>
     </string-array>
     <string-array name="education">
         <item>Middle school</item>
@@ -22,29 +22,29 @@
         <item>> 12000</item>
     </string-array>
     <string-array name="question_no1">
-        <item>Family</item>
-        <item>"Maternal grandmother's name"</item>
-        <item>"Maternal grandfather's name"</item>
-        <item>"Paternal grandfather's name"</item>
-        <item>"Paternal grandmother's name"</item>
-        <item>"Father's birthday"</item>
-        <item>"Mother's birthday"</item>
-        <item>"What is your parents' age difference (years and months)?"</item>
+        <item>家族</item>
+        <item>母方の祖母の名前</item>
+        <item>母方の祖父の名前</item>
+        <item>父方の祖父の名前</item>
+        <item>父方の祖母の名前</item>
+        <item>父の誕生日</item>
+        <item>母の誕生日</item>
+        <item>あなたの両親の年齢差(年月)はいくつですか？</item>
     </string-array>
     <string-array name="question_no2">
-        <item>Alma mater</item>
-        <item>What was the name of your class president in middle school?</item>
-        <item>What was the name of your class president in elementary school?</item>
-        <item>Your student ID number at college</item>
-        <item>"What's the name of your roommate at college?"</item>
+        <item>母校</item>
+        <item>中学校での学級委員長の名前は何ですか？</item>
+        <item>小学校での学級委員長の名前は何ですか？</item>
+        <item>大学での学籍番号</item>
+        <item>大学でのルームメイトの名前は何ですか？</item>
         <item>"What's the name of your supervisor at college?"</item>
     </string-array>
     <string-array name="question_no3">
-        <item>Personal info</item>
-        <item>How do your parents call you?</item>
-        <item>Last 6 digits of your passport number</item>
-        <item>In which hospital were you born?</item>
-        <item>"What's the name of your best friend?"</item>
+        <item>個人情報</item>
+        <item>あなたは両親から何と呼ばれていますか？</item>
+        <item>パスポート番号の下6桁</item>
+        <item>あなたはどの病院で生まれましたか？</item>
+        <item>あなたの親友の名前は何ですか？</item>
     </string-array>
     <string-array name="question_no4">
         <item>First times</item>
@@ -53,9 +53,9 @@
         <item>"What's the name of the company where you got your first job?"</item>
     </string-array>
     <string-array name="question_no5">
-        <item>Marriage</item>
-        <item>When did you get married?</item>
-        <item>"Your spouse's name"</item>
-        <item>"Your spouse's birthday"</item>
+        <item>結婚</item>
+        <item>いつ結婚しましたか？</item>
+        <item>配偶者の名前</item>
+        <item>配偶者の誕生日</item>
     </string-array>
 </resources>

@@ -131,10 +131,10 @@
   <string name="michat_comment_thx">Thank you for your feedback!</string>
   <string name="michat_customer_join">"チャットに参加"</string>
   <string name="michat_customer_quit">Support personnel left the chat</string>
-  <string name="michat_customer_text">Customer support</string>
+  <string name="michat_customer_text">"カスタマーサポート"</string>
   <string name="michat_data_error">"エラーが発生しました、後ほど再試行してください"</string>
   <string name="michat_error_need_login_btn">"ログイン"</string>
-  <string name="michat_error_need_login_text">Sign in to be able to use online support</string>
+  <string name="michat_error_need_login_text">"オンラインサポートを利用するにはログインしてください"</string>
   <string name="michat_failed_to_add_media">"Sorry, can't send %1$s"</string>
   <string name="michat_failed_to_fetch_fql">"Couldn't get FAQ info, check network connection"</string>
   <string name="michat_feedback_title_name">Feedback survey</string>
@@ -143,7 +143,7 @@
   <string name="michat_invalid_url">"無効なURL"</string>
   <string name="michat_invation_invite_fail">Sorry, our support workers are busy now. Try again later.</string>
   <string name="michat_invation_invite_full">Sorry, our support workers are all busy now. Try again later.</string>
-  <string name="michat_kefu_welcome">Welcome to Xiaomi online support!</string>
+  <string name="michat_kefu_welcome">"Xiaomiオンラインサポートへようこそ！"</string>
   <string name="michat_lose_artificial">A network error occurred, you left the chat</string>
   <string name="michat_menu_copy_text">"コピー"</string>
   <string name="michat_message_copy_info">"クリップボードにコピーしました"</string>
@@ -163,7 +163,7 @@
   <string name="michat_no_good_message_title">"This can't solve my problem."</string>
   <string name="michat_product_click_text">"表示"</string>
   <string name="michat_pull_to_refresh_pull_label">Pull down to view history</string>
-  <string name="michat_pull_to_refresh_refreshing_label">Loading history…</string>
+  <string name="michat_pull_to_refresh_refreshing_label">"履歴を読み込み中…"</string>
   <string name="michat_pull_to_refresh_release_label">Release to view history</string>
   <string name="michat_queue_pos_update">There are %1$d people in front of you, wait a moment…</string>
   <string name="michat_return_to_outside">"終了"</string>

@@ -345,7 +345,7 @@
   <string name="discard">"破棄"</string>
   <string name="discard_drafts">"下書きを破棄する"</string>
   <string name="dismiss_tip_hover_text">"ヒントを閉じる"</string>
-  <string name="disturb_switch">Do not disturb</string>
+  <string name="disturb_switch">"夜間モード"</string>
   <string name="done">"完了"</string>
   <string name="done_action">"完了"</string>
   <string name="donot_disturb_endtime_title">"終了時間"</string>

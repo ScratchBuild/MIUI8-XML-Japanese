@@ -118,7 +118,7 @@
   <string name="share_btn_confirm">"共有する"</string>
   <string name="share_button">"共有"</string>
   <string name="share_menu_title">"共有"</string>
-  <string name="share_subject">Share</string>
+  <string name="share_subject">"共有"</string>
   <string name="share_title">"天気を共有"</string>
   <string name="share_weather_desc">\#MIUI Weather#Today %1$s %2$s</string>
   <string name="share_weather_save_pic_fail">"スクリーンショットの取得に失敗しました"</string>

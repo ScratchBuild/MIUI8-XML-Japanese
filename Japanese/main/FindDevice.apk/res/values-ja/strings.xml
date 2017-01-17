@@ -9,10 +9,10 @@
   <string name="default_lock_msg_words_with_phone">Hi! I lost my phone. Could you please contact me? Thanks!</string>
   <string name="device_locked">"このデバイスはロックされています"</string>
   <string name="device_lost">This device is lost</string>
-  <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
+  <string name="disable_find_device_error">"Find deviceをオフにできません。%1$s"</string>
   <string name="disable_find_device_success">"Find deviceはオフです"</string>
   <string name="doing_extra_login_steps">Verifying sign in…</string>
-  <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
+  <string name="enable_find_device_error">"Find deviceをオンにできません。%1$s"</string>
   <string name="enable_find_device_success">"Find deviceはオンです"</string>
   <string name="find_device">Find device</string>
   <string name="find_device_crash">Find device closed unexpectedly.</string>

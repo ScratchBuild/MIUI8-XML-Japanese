@@ -94,7 +94,7 @@
   <string name="express_contact_address_finding">"現在地を取得中…"</string>
   <string name="express_contact_label">Info for pickup service</string>
   <string name="express_contact_phone">電話番号を入力</string>
-  <string name="express_contact_phone_finding">Getting phone number…</string>
+  <string name="express_contact_phone_finding">電話番号を取得中…</string>
   <string name="express_contact_prefix">"Contact "</string>
   <string name="express_copied">追跡番号をコピーしました</string>
   <string name="express_copy_number">コピー</string>
@@ -115,7 +115,7 @@
   <string name="express_inquiry_delete_warning_single">Delete this entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
   <string name="express_inquiry_detail">Express delivery details</string>
-  <string name="express_inquiry_edit_logistics">Courier</string>
+  <string name="express_inquiry_edit_logistics">宅配便</string>
   <string name="express_inquiry_history">履歴</string>
   <string name="express_inquiry_history_remark">Comments</string>
   <string name="express_inquiry_history_remark_hint">History comments</string>
@@ -172,7 +172,7 @@
   <string name="express_order_succeeded">Completed</string>
   <string name="express_order_success_hint">%s will deliver your order</string>
   <string name="express_phone">Telephone</string>
-  <string name="express_preview_order">Preview</string>
+  <string name="express_preview_order">プレビュー</string>
   <string name="express_region_pick_title">Choose region</string>
   <string name="express_select_address">Address</string>
   <string name="express_select_addressee">To</string>
@@ -224,7 +224,7 @@
   <string name="group_name_gallery">Gallery</string>
   <string name="group_name_management">Manage</string>
   <string name="group_name_more">その他</string>
-  <string name="group_name_service">Services</string>
+  <string name="group_name_service">サービス</string>
   <string name="group_name_shop_info">Information</string>
   <string name="group_name_shop_recommendation">Nearby</string>
   <string name="group_name_title"/>
@@ -286,13 +286,13 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">すべてのクーポン</string>
   <string name="more_express_numbers">More express numbers</string>
-  <string name="navigation_search_all_cities">All cities</string>
-  <string name="navigation_search_automatically_positioned_city">Current city</string>
+  <string name="navigation_search_all_cities">すべての都市</string>
+  <string name="navigation_search_automatically_positioned_city">現在の都市</string>
   <string name="navigation_search_default_hint">Search locations</string>
   <string name="navigation_search_hot_cities">Popular</string>
   <string name="navigation_search_no_city_list">何も見つかりませんでした</string>
   <string name="navigation_search_positioning">現在地を取得中…</string>
-  <string name="navigation_search_positioning_failed">Select a city</string>
+  <string name="navigation_search_positioning_failed">都市を選択</string>
   <string name="nearby_average_price">Average %d RMB</string>
   <string name="nearby_no_yellow_page">No results nearby</string>
   <string name="nearby_yellow_page_title">Nearby</string>

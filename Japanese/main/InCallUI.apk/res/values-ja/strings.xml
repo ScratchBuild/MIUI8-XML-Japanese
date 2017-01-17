@@ -109,24 +109,6 @@
   <string name="dialog_activate_livetalk">Verify number</string>
   <string name="dialog_call_ordinary_telephone">Regular call</string>
   <string name="dialog_purchase">Top up</string>
-  <string name="dialpad_abc">ABC</string>
-  <string name="dialpad_def">DEF</string>
-  <string name="dialpad_eight">8</string>
-  <string name="dialpad_five">5</string>
-  <string name="dialpad_four">4</string>
-  <string name="dialpad_ghi">GHI</string>
-  <string name="dialpad_jkl">JKL</string>
-  <string name="dialpad_mno">MNO</string>
-  <string name="dialpad_nine">9</string>
-  <string name="dialpad_one">1</string>
-  <string name="dialpad_pqrs">PQRS</string>
-  <string name="dialpad_seven">7</string>
-  <string name="dialpad_six">6</string>
-  <string name="dialpad_three">3</string>
-  <string name="dialpad_tuv">TUV</string>
-  <string name="dialpad_two">2</string>
-  <string name="dialpad_wxyz">WXYZ</string>
-  <string name="dialpad_zero">0</string>
   <string name="do_not_ask">"二度と表示しない"</string>
   <string name="do_not_support_video_calls_by_remote">"ビデオ通話は相手先の端末でサポートされていません"</string>
   <string name="emergency_call_dialog_number_for_display">"緊急通報番号"</string>
@@ -165,8 +147,7 @@
   <string name="livetalk_left_minute">"残り%s分"</string>
   <string name="manageConferenceLabel">"グループ通話オプション"</string>
   <string name="miprofile_stranger_card">"不明"</string>
-  <string name="modify_call_failure_str">"Modify Call request failed
-"</string>
+  <string name="modify_call_failure_str">"Modify Call request failed"</string>
   <string name="modify_call_option_title">Which type of call?</string>
   <string name="modify_call_option_voice">Voice Only</string>
   <string name="modify_call_option_vt">VT</string>
@@ -183,8 +164,8 @@
   <string name="no_call_back_title">Attention</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail numbers stored on SIM card.</string>
-  <string name="non_ivr_menu_collapse_menu">Collapse menu</string>
-  <string name="non_ivr_menu_view_menu">View menu</string>
+  <string name="non_ivr_menu_collapse_menu">"メニューをたたむ"</string>
+  <string name="non_ivr_menu_view_menu">"メニューを表示"</string>
   <string name="not_activate_sim_card_content">Verify your phone number to start using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
   <string name="not_activate_sim_card_content_title">Phone number isnt verified</string>
   <string name="not_activate_sim_card_content_with_operator">Verify SIM %1$s (%2$s) to make a call using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
@@ -236,7 +217,7 @@
   <string name="respond_via_sms_custom_message">"カスタム返信を作成..."</string>
   <string name="select_audio_dialog_title">Select answering mode</string>
   <string name="select_one_sim_title">"SIM %1$dのみ使用できます"</string>
-  <string name="select_sim_hint">"Can't use SIM %2$d, while SIM %1$d is in use."</string>
+  <string name="select_sim_hint">"SIM %1$d を使用中のため、SIM %2$d を使用できません。"</string>
   <string name="select_voice_call_sim">"SIMカードを選択"</string>
   <string name="separate_from_conference">"通話を分割"</string>
   <string name="sip_call_not_support_record">"SIP通話を録音することはできません"</string>
@@ -248,6 +229,6 @@
   <string name="video_conference_caller_info_name">"%1$sのビデオグループ通話"</string>
   <string name="video_switch_to_voice_call_prompt">"音声通話に切り替え"</string>
   <string name="voicemail">Voicemail</string>
-  <string name="wait_prompt_str">"次の番号を送信しますか？\n"</string>
+  <string name="wait_prompt_str">"次の番号を送信しますか？"</string>
   <string name="waiting_close_airplane_mode">"読み込み中…"</string>
 </resources>
