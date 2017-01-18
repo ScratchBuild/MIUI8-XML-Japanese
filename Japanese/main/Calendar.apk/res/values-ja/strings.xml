@@ -86,14 +86,14 @@
   <string name="creating_event">"予定を作成しました"</string>
   <string name="creating_event_with_guest">"招待を送信します"</string>
   <string name="credit">"クレジットカード"</string>
-  <string name="credit_card_date_label">还款日：</string>
-  <string name="credit_card_number_label">卡号：</string>
-  <string name="credit_card_overdue">已过期</string>
+  <string name="credit_card_date_label">"返済期日："</string>
+  <string name="credit_card_number_label">"カード番号："</string>
+  <string name="credit_card_overdue">"有効期限切れ"</string>
   <string name="credit_card_repayment_count">最后%1$s天</string>
   <string name="credit_card_source">来自短信的还款提醒</string>
   <string name="credit_currency">元</string>
   <string name="credit_detail_amount_label">应还</string>
-  <string name="credit_detail_sms_content">短信原文</string>
+  <string name="credit_detail_sms_content">"SMSの本文"</string>
   <string name="credit_detail_today">今日：</string>
   <string name="credit_event_card_title">"クレジットカードの支払い"</string>
   <string name="credit_event_delete_successfully">"クレジットカードの支払い予定が正常に削除されました"</string>
@@ -364,7 +364,7 @@
   <string name="setting_others">"その他"</string>
   <string name="setting_sms_import">导入短信事件</string>
   <string name="setting_title_about">About</string>
-  <string name="setting_title_banner_display">显示农历卡片广告</string>
+  <string name="setting_title_banner_display">"旧暦カレンダーの広告カードを表示します"</string>
   <string name="setting_title_debug">"ログのエクスポート"</string>
   <string name="setting_title_holiday_display">Show Holidays</string>
   <string name="setting_title_recommend_card_display">显示功能订阅推荐</string>

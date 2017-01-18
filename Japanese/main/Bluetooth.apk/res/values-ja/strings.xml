@@ -9,7 +9,7 @@
   <string name="auth_notif_message">%1$sのセッションキーを入力してください</string>
   <string name="auth_notif_ticker">OBEX認証リクエスト</string>
   <string name="auth_notif_title">セッションキー</string>
-  <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
+  <string name="bluetooth_in_airplane_mode">"機内モード"</string>
   <string name="bluetooth_map_settings_app_icon">"アプリアイコン"</string>
   <string name="bluetooth_map_settings_cancel">"キャンセル"</string>
   <string name="bluetooth_map_settings_count">"残りスロット数:"</string>
@@ -81,8 +81,7 @@
   <string name="miui_transfer_outbound_title">"送信"</string>
   <string name="no_transfers">"転送履歴が空です。"</string>
   <string name="not_exist_file">"ファイルがありません"</string>
-  <string name="not_exist_file_desc">"そのファイルは存在しません。
-"</string>
+  <string name="not_exist_file_desc">"そのファイルは存在しません。"</string>
   <string name="noti_caption">"成功したファイル%1$s個、失敗したファイル%2$s個。"</string>
   <string name="notification_received">"Bluetooth共有: %1$sを受信済み"</string>
   <string name="notification_received_fail">"Bluetooth共有: ファイル%1$sの受信に失敗"</string>
@@ -127,8 +126,7 @@
   <string name="unknownNumber">"不明"</string>
   <string name="unknown_device">"不明な携帯端末"</string>
   <string name="unknown_file">"不明なファイル"</string>
-  <string name="unknown_file_desc">"この形式のファイルを処理するアプリがありません。
-"</string>
+  <string name="unknown_file_desc">"この形式のファイルを処理するアプリがありません。"</string>
   <string name="update_record">"レコードを確認"</string>
   <string name="upload_fail_cancel">"閉じる"</string>
   <string name="upload_fail_line1">"ファイルは「%1$s」に送信されませんでした。"</string>

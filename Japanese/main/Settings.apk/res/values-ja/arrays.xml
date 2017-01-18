@@ -77,14 +77,6 @@
         <item>大</item>
         <item>極大</item>
     </string-array>
-    <string-array name="entryvalues_font_size">
-        <item>small</item>
-        <item>normal</item>
-        <item>medium</item>
-        <item>large</item>
-        <item>huge</item>
-        <item>godzilla</item>
-    </string-array>
     <string-array name="tts_rate_entries">
         <item>非常に遅い</item>
         <item>遅い</item>
@@ -202,7 +194,7 @@
         <item>IS95A</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>None</item>
+        <item>なし</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
@@ -353,12 +345,6 @@
         <item>ドロップシャドウ</item>
         <item>浮き彫り</item>
         <item>沈み彫り</item>
-    </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>アプリのデフォルトを使用</item>

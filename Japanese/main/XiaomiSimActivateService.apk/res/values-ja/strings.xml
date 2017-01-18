@@ -2,9 +2,9 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Activate</string>
-  <string name="activate_auto_sms_notification_desc_1_card">SMS sent to activate \"Find device\"</string>
-  <string name="activate_auto_sms_notification_desc_2_cards">SMS sent from SIM card %s to activate \"Find device\"</string>
-  <string name="activate_auto_sms_notification_title">SIM card activation</string>
+  <string name="activate_auto_sms_notification_desc_1_card">"\"Find device\"を有効にするためにSMSが送信されました"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">"\"Finde device\"を有効にするためにSIMカード %s からSMSが送信されました"</string>
+  <string name="activate_auto_sms_notification_title">"SIMカードの有効化"</string>
   <string name="activate_feature_call_log_sync">"通話履歴の同期"</string>
   <string name="activate_feature_default_name">Mi services</string>
   <string name="activate_feature_find_device">Find device</string>
@@ -20,13 +20,13 @@
   <string name="activate_history_multisim_success_overview">Activated SIM card %2$d successfully. Activation is triggered by \"%1$s\".</string>
   <string name="activate_history_sms">SMS has been sent during the activation.</string>
   <string name="activate_history_success_overview">Activated SIM card successfully. Activation is triggered by \"%1$s\".</string>
-  <string name="activate_history_title">SIM card activation</string>
-  <string name="activate_phone_cancel_notif_title">SIM card activation cancelled</string>
-  <string name="activate_phone_cancel_notif_title_msim">SIM card %s activation cancelled</string>
-  <string name="activate_phone_failed_notif_title">"Can't activate SIM card"</string>
-  <string name="activate_phone_failed_notif_title_msim">"Can't activate SIM card %s"</string>
-  <string name="activate_phone_success_notif_title">SIM card activated</string>
-  <string name="activate_phone_success_notif_title_msim">SIM card %s activated</string>
+  <string name="activate_history_title">"SIMカードの有効化"</string>
+  <string name="activate_phone_cancel_notif_title">"SIMカードの有効化がキャンセルされました"</string>
+  <string name="activate_phone_cancel_notif_title_msim">"SIMカード %s の有効化がキャンセルされました"</string>
+  <string name="activate_phone_failed_notif_title">"SIMカードを有効にできません"</string>
+  <string name="activate_phone_failed_notif_title_msim">"SIMカード %s を有効にできません"</string>
+  <string name="activate_phone_success_notif_title">"SIMカードが有効になりました"</string>
+  <string name="activate_phone_success_notif_title_msim">"SIMカード %s が有効になりました"</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">"再試行"</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">"再試行"</string>
   <string name="activate_popup_confirm_error_device_id">"再試行"</string>
@@ -68,7 +68,7 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_popup_title_error_device_id">"無効なIMEI"</string>
   <string name="activate_popup_title_failed_phone_error">"無効な電話番号"</string>
   <string name="activate_popup_title_failed_query_info">"番号が見つかりません"</string>
-  <string name="activate_popup_title_failed_receive_sms">"Didn't receive reply from server"</string>
+  <string name="activate_popup_title_failed_receive_sms">"サーバーからの応答がありません"</string>
   <string name="activate_popup_title_failed_send_sms">"SMSを送信できません"</string>
   <string name="activate_popup_title_failed_server">"サーバーエラー"</string>
   <string name="activate_popup_title_manual">Activate %s</string>
@@ -80,7 +80,7 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Couldn't verify phone number"</string>
   <string name="activate_status_desc_checking_xiaomi_account">"Mi Accountの確認中…"</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">"Mi Accountの確認中にサーバーエラーが発生しました"</string>
-  <string name="activate_status_desc_completed_with_sms_sent">Sent SMS to activate SIM</string>
+  <string name="activate_status_desc_completed_with_sms_sent">"SIMを有効にするためにSMSを送信しました"</string>
   <string name="activate_status_desc_device_id_error">"無効なIMEI"</string>
   <string name="activate_status_desc_failed_getting_gateway">"Couldn't get SMS gateway"</string>
   <string name="activate_status_desc_getting_gateway">Getting SMS gateway…</string>
