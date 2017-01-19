@@ -145,7 +145,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="delete_the_downloaded_file">Downloaded files will be deleted.</string>
   <string name="desc_online_personal_radio">Just for you</string>
   <string name="deselect_all">"すべて選択を解除"</string>
-  <string name="desktop_lyric_button_close">Close</string>
+  <string name="desktop_lyric_button_close">"閉じる"</string>
   <string name="desktop_lyric_button_lock">Lock</string>
   <string name="desktop_lyric_color">Color</string>
   <string name="desktop_lyric_dialog_msg">Turn Home screen lyrics on and off in Music &gt; Settings &gt; Advanced settings</string>
@@ -190,7 +190,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_title_name_playlist">Playlist name</string>
   <string name="dialog_title_not_available">"ダウンロードできませんでした"</string>
   <string name="dialog_title_queued_body">File not yet available</string>
-  <string name="dialog_title_remove_tracks">Remove</string>
+  <string name="dialog_title_remove_tracks">"削除"</string>
   <string name="dialog_title_track_picker">"曲を選択"</string>
   <string name="disable_auto_payment_fail">"Couldn't turn off"</string>
   <string name="disable_auto_payment_fail_message">"Couldn't turn off automatic renewal"</string>
@@ -304,14 +304,14 @@ is mainly provided by Ultimate Inc."</string>
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Create</string>
   <string name="eq_preset_format">User preset %d</string>
-  <string name="eq_preset_hint">Effect name</string>
+  <string name="eq_preset_hint">"エフェクト名"</string>
   <string name="eq_preset_rename">"名前を変更"</string>
   <string name="eq_preset_select">"プリセットを選択"</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
   <string name="error_forbidden">Sync has been turned off due to problems with your account.</string>
   <string name="error_not_acceptable">Sync is turned off.</string>
-  <string name="error_title">"Can't sync with Mi Account"</string>
+  <string name="error_title">"Mi Accountと同期できません"</string>
   <string name="error_unauthorized">Sync has been turned off due to too many sign-in attempts.</string>
   <string name="expired">Expired</string>
   <string name="expires">Expires this month:</string>

@@ -39,7 +39,7 @@
         <item>equals</item>
     </string-array>
     <string-array name="mortgage_repayment">
-        <item>Equal installments</item>
+        <item>均等分割払い</item>
         <item>Decreasing installments</item>
     </string-array>
 </resources>

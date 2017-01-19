@@ -35,9 +35,9 @@
   <string name="cannot_connect_camera_twice">"カメラに接続できません。お使いの端末を再起動してください。"</string>
   <string name="cannot_connect_camera_volte_call">Video call is ongoing, please try later.</string>
   <string name="cannot_move_warning_message">"写真を撮影中です、端末を静止したままにしてください"</string>
-  <string name="confirm_location_alert">Remember photo locations</string>
-  <string name="confirm_location_message">Tag your photos and videos with the locations where they are taken. Other apps can access this information along with your saved images.</string>
-  <string name="confirm_location_title">Remember photo locations?</string>
+  <string name="confirm_location_alert">"写真に位置情報を保存する"</string>
+  <string name="confirm_location_message">"写真や動画に撮影場所の位置情報をタグ付けします。他のアプリは保存した画像と共にこの情報へアクセスできます。"</string>
+  <string name="confirm_location_title">"写真に位置情報を保存しますか？"</string>
   <string name="confirm_recording_fail_calling_alert">"通話中に録音することはできません。"</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"別のアプリが既にデバイスのマイクを録音するために使用中です。"</string>
   <string name="confirm_recording_fail_title">"録音できません"</string>

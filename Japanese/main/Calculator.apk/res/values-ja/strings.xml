@@ -9,7 +9,7 @@
   <string name="cal_text_copied">テキストをコピーしました</string>
   <string name="choose_currency">通貨を選択</string>
   <string name="choose_unit">単位を選択</string>
-  <string name="city">City</string>
+  <string name="city">都市</string>
   <string name="clearDesc">消去</string>
   <string name="clear_history">履歴を消去</string>
   <string name="combine_loan">Combined loan</string>
@@ -128,10 +128,10 @@
   <string name="tax_cal_method_annual">Annual bonus calculation</string>
   <string name="tax_cal_method_fixed_salary">Income tax calculation</string>
   <string name="tax_cal_method_format">Personal input: %s</string>
-  <string name="tax_city">City</string>
-  <string name="tax_city_error">Enter correct city</string>
+  <string name="tax_city">都市</string>
+  <string name="tax_city_error">正しい都市を入力してください</string>
   <string name="tax_city_located">Location</string>
-  <string name="tax_city_picker">City</string>
+  <string name="tax_city_picker">都市</string>
   <string name="tax_endowment">Retirement fund</string>
   <string name="tax_fixed_salary_hint">Enter your income before tax</string>
   <string name="tax_income_before_tax">Before tax</string>
@@ -263,7 +263,7 @@
   <string name="unit_year">Y</string>
   <string name="unit_year_format">Year %s</string>
   <string name="wf_word_figure">Financial characters</string>
-  <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+  <string name="xiaomi_connect_download_manager_fail">"Download Managerに接続できませんでした、アプリケーションの管理でDownload Managerの状態を確認してください。"</string>
   <string name="xiaomi_external_storage_unavailable">"ストレージが使用できません、SDカードを確認してください。"</string>
   <string name="xiaomi_update_dialog_message">"バージョン %1$s の紹介
 サイズ: %2$s"</string>

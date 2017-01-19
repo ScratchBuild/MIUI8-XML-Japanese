@@ -106,7 +106,7 @@
   <string name="download_remain_time">Remaining:</string>
   <string name="download_running">In progress</string>
   <string name="download_share_dialog">"共有方法"</string>
-  <string name="download_speed">Download speed:</string>
+  <string name="download_speed">"ダウンロード速度:"</string>
   <string name="download_spend_time">Time</string>
   <string name="download_status_continue">"再開"</string>
   <string name="download_status_fail">"再試行"</string>

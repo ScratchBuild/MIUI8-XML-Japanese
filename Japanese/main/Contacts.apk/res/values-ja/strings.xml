@@ -227,7 +227,7 @@ Contact cards are turned off"</string>
   <string name="contact_detail_miprofile_settings_header">"その他の設定"</string>
   <string name="contact_detail_miprofile_subtitle">"既にカードを交換済みです"</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"ネットワークに接続できません"</string>
-  <string name="contact_detail_profile_switch_fail_toast">Something went wrong with our server</string>
+  <string name="contact_detail_profile_switch_fail_toast">"サーバーで問題が発生しました"</string>
   <string name="contact_detail_profile_switch_off">Turn off contact cards</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"Couldn't turn off contact cards"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Contact cards turned off</string>
@@ -341,8 +341,7 @@ Contact cards are turned off"</string>
   <string name="details_list_group_header_other">"その他"</string>
   <string name="device_bluetooth_title">"連絡先を転送"</string>
   <string name="device_import_account_dialog_title">"アカウントを選択"</string>
-  <string name="device_import_account_dialog_title_suffix">"
-(found %1$s contacts)"</string>
+  <string name="device_import_account_dialog_title_suffix">"(%1$s件の連絡先が見つかりました)"</string>
   <string name="device_import_failed_message">"インポートできませんでした"</string>
   <string name="device_import_local_account">"ローカルアカウント"</string>
   <string name="device_import_message">"インポート中"</string>
@@ -744,8 +743,8 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="multi_number_menu_group">New group</string>
   <string name="multi_number_menu_message">"メッセージ"</string>
   <string name="multi_number_title">"グループ通話"</string>
-  <string name="multipleContactDeleteConfirmation">"この連絡先を削除すると、複数のアカウント情報が削除されます。"</string>
-  <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete info from multiple accounts.</string>
+  <string name="multipleContactDeleteConfirmation">"この連絡先を削除すると、複数のアカウントから情報が削除されます。"</string>
+  <string name="multipleContactDeleteConfirmationDetail">"\"%s\"を削除すると、複数のアカウントから情報が削除されます。"</string>
   <string name="my_phone_not_provider_bluetooth">いいえ</string>
   <string name="my_phone_provider_bluetooth">はい</string>
   <string name="nameLabelsGroup">名前</string>
@@ -895,8 +894,6 @@ To add a contact to your list of favorites:
   <string name="path_wipe_data">システムアプリ/連絡先/Organize contacts/Clear data</string>
   <string name="payphone">公衆電話</string>
   <string name="people">連絡先</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">"電話"</string>
   <string name="phone_call_type_livetalk">Top-up package</string>
   <string name="phone_call_type_voip">Mi Voice</string>
@@ -915,8 +912,8 @@ To add a contact to your list of favorites:
   <string name="picker_contact_title">"連絡先を選択"</string>
   <string name="picker_email_title">"メールアドレスを選択"</string>
   <string name="picker_favorites_list_empty">"お気に入りはありません"</string>
-  <string name="picker_groups_list_empty">No groups</string>
-  <string name="picker_join_title">Merge with %s</string>
+  <string name="picker_groups_list_empty">"グループなし"</string>
+  <string name="picker_join_title">"%s と統合"</string>
   <string name="picker_number_title">"番号を選択"</string>
   <string name="picker_postal_title">"郵便番号を選択"</string>
   <string name="picker_recent_list_empty">No recent contacts</string>
