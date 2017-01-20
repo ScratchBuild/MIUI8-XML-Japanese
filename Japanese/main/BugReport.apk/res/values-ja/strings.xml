@@ -81,6 +81,7 @@
   <string name="feedback_status_commit_failed_title">"レポートを送信できませんでした"</string>
   <string name="feedback_status_commit_succ_title">"送信されました"</string>
   <string name="feedback_status_commit_uploading_title">"送信中…"</string>
+  <string name="feedback_status_forum_reply">"返信"</string>
   <string name="feedback_status_jira_comment">"コメントを追加"</string>
   <string name="feedback_status_more">"詳細"</string>
   <string name="feedback_status_processing">"処理中…"</string>
@@ -88,6 +89,7 @@
   <string name="feedback_status_replyed">"返信済み"</string>
   <string name="feedback_status_reresolved">"解決済み"</string>
   <string name="feedback_status_supplement">"問題の詳細を記述"</string>
+  <string name="feedback_status_supplement_more">"コメントを追加"</string>
   <string name="feedback_submit_failed_notification_desc">"詳細を表示"</string>
   <string name="feedback_submit_failed_notification_retry">"再送信"</string>
   <string name="feedback_submit_failed_notification_title">"レポートを送信できませんでした"</string>

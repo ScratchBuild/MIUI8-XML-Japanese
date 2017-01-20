@@ -46,7 +46,6 @@
   <string name="birthday_event_description_today">"今日は"</string>
   <string name="birthday_event_description_tomorrow">"明日は"</string>
   <string name="birthday_event_description_yesterday">"昨日は"</string>
-  <string name="birthday_event_title_suffix">"の誕生日"</string>
   <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s is coming up."</string>
@@ -117,13 +116,13 @@
   <string name="downloading">"ダウンロード中"</string>
   <string name="downloading_wallpaper">"壁紙をダウンロード中"</string>
   <string name="edit_event_all_day_label">"終日"</string>
-  <string name="edit_event_birthday_3_days_before">Three days before,</string>
   <string name="edit_event_birthday_import_from_contact">"連絡先から誕生日をインポート"</string>
   <string name="edit_event_birthday_name_empty_hint">"名前を入力してください"</string>
   <string name="edit_event_birthday_name_hint">"名前"</string>
   <string name="edit_event_birthday_reminder_3_days_before">And remind 3 days before</string>
+  <string name="edit_event_birthday_reminder_summary">The day %1$s</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">Three days before, the day %1$s</string>
   <string name="edit_event_birthday_reminder_time">Reminder time</string>
-  <string name="edit_event_birthday_the_day">the day</string>
   <string name="edit_event_calendar_label">"カレンダー"</string>
   <string name="edit_event_choose_date">choose date</string>
   <string name="edit_event_confirm_message">"変更を破棄しますか？"</string>
@@ -131,6 +130,8 @@
   <string name="edit_event_input_year">Input year</string>
   <string name="edit_event_label">"詳細"</string>
   <string name="edit_event_no_reminder_value">No Reminder</string>
+  <string name="edit_event_reminder_text">%1$s the day %2$s</string>
+  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s the day %3$s</string>
   <string name="edit_event_show_all">"すべて表示"</string>
   <string name="edit_event_tab_anniversary">"記念日"</string>
   <string name="edit_event_tab_birthday">"誕生日"</string>

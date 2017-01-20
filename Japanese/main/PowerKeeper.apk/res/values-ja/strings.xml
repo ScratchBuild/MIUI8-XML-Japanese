@@ -2,6 +2,7 @@
 <resources>
   <string name="action_bar_delete">"削除"</string>
   <string name="action_settings">"設定"</string>
+  <string name="action_title_optimize">Optimize now</string>
   <string name="activity_title_poweranalyze">"バッテリーのテスト"</string>
   <string name="activity_title_powerconfigure">"バッテリーの設定"</string>
   <string name="activity_title_poweroptimize">"バッテリーセーバー"</string>
@@ -28,7 +29,7 @@
   <string name="config_restrict_running_title">Restrict background activity</string>
   <string name="config_suggest_description">"Identify apps and activities to keep important processes going.
 Battery saver will treat important apps selectively."</string>
-  <string name="config_suggest_suffix_title">"MIUIBattery saver (推奨)"</string>
+  <string name="config_suggest_suffix_title">"MIUI Battery saver (推奨)"</string>
   <string name="config_suggest_title">MIUI Battery saver</string>
   <string name="disabled">"オフ"</string>
   <string name="empty_title_apps_container_list">"アプリなし"</string>
@@ -64,6 +65,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="no_applications">Empty</string>
   <string name="none">"プロセスなし"</string>
   <string name="normal">Default mode</string>
+  <string name="notify_app_consume_abnormal_title">is draining battery</string>
   <string name="operation_create_group">"名前"</string>
   <string name="operation_create_group_message">Enter new group name</string>
   <string name="power_checker_recent_btn_title">Setting Power</string>

@@ -617,7 +617,7 @@
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
   <string name="info_and_call">"通話とメッセージ"</string>
-  <string name="information_setting">"ニュースフィードの設定"</string>
+  <string name="information_setting">Recommendations</string>
   <string name="input_aviable_traffic">Set data usage limit</string>
   <string name="input_traffic_pkg">Enter data usage</string>
   <string name="input_used_hint">Enter data usage</string>
@@ -1196,7 +1196,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
   <string name="recently_reject_message_one">Rejected %1$s installation requests</string>
   <string name="recommend_app">Recommended apps</string>
-  <string name="recommend_news">Recommended sources</string>
+  <string name="recommend_news">Receive recommendations</string>
   <string name="recommended">Featured</string>
   <string name="reject_all">Restrict all</string>
   <string name="reject_countdown">Deny (%d)</string>

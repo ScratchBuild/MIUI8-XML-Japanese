@@ -277,7 +277,7 @@
   <string name="passport_reg_using_other_phone">&lt;u&gt;別の電話番号を使用する&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">"電話番号を使用してアカウントを作成"</string>
-  <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="passport_reg_via_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="passport_reging">"アカウントを作成中…"</string>
   <string name="passport_register">"アカウントを作成"</string>
   <string name="passport_register_account_goto_email">"受信トレイに移動"</string>

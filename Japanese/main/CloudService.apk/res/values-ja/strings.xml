@@ -376,13 +376,13 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI devices without incurring charges when connected to WLAN.
 
 You can turn this feature on or off anytime in Settings."</string>
-  <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
+  <string name="mx_dspt_provision_privacy">"This feature may require your phone number. An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"This feature may require your phone number. Your carrier may charge for two SMS messages used to activate this feature.
+  <string name="mx_dspt_provision_privacy_2_sim">"This feature may require your phone number. 2 outgoing SMS messages may be required to activate this service. Your carrier will charge you for these messages.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature when SIM card detected.
+  <string name="mx_dspt_provision_privacy_no_sim">"This feature may require your phone number. When SIM card is detected, an outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_with_voip">"Call other MIUI devices for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
@@ -470,15 +470,15 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_item_title">Syncing items</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
-  <string name="sync_resend_sms_dspt_provision">" If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service."</string>
-  <string name="sync_sub_1_intl_sms">Your carrier may charge for an international SMS message used to activate this service.</string>
-  <string name="sync_sub_1_sms">Your carrier may charge for an SMS message used to activate this service.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Your carrier may charge for 1 domestic and 1 international SMS message used to activate this service.</string>
-  <string name="sync_sub_2_intl_sms">Your carrier may charge for 2 international SMS messages used to activate this service.</string>
-  <string name="sync_sub_2_sms">Your carrier may charge for 2 SMS messages used to activate this service.</string>
-  <string name="sync_sub_dspt">Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="sync_resend_sms_dspt_provision">" If you switch SIM cards, your carrier will charge you for an SMS message in case it's required to reactivate this service."</string>
+  <string name="sync_sub_1_intl_sms">An outgoing international SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
+  <string name="sync_sub_1_sms">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">1 domestic and 1 international SMS message may be required to activate this service. Your carrier will charge you for these messages.</string>
+  <string name="sync_sub_2_intl_sms">2 outgoing international SMS messages may be required to activate this service. Your carrier will charge you for these messages.</string>
+  <string name="sync_sub_2_sms">2 outgoing SMS messages may be required to activate this service. Your carrier will charge you for these messages.</string>
+  <string name="sync_sub_dspt">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="sync_sub_dspt_provision">Sync photos, contacts, music, apps, and more across all your devices</string>
-  <string name="sync_sub_int_dspt">Your carrier may charge for an international SMS message used to activate this service.</string>
+  <string name="sync_sub_int_dspt">An outgoing international SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="title_reg">Mi Accountを作成</string>
   <string name="total_space_upgraded_to">Total space:%s</string>
   <string name="trying_to_connect_to_network">ネットワークに接続しています…</string>

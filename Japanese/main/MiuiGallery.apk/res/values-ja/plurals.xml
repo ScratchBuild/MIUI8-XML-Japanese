@@ -96,29 +96,29 @@
         <item quantity="other">%1$d items | %2$s</item>
         <item quantity="one">%1$d item | %2$s</item>
     </plurals>
-    <plurals name="backuped">
-        <item quantity="other">%1$d items have been backed up</item>
-        <item quantity="one">%1$d item has been backed up</item>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d photos and videos</item>
+        <item quantity="one">%1$d photo or video</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d items are waiting to be backed up</item>
-        <item quantity="one">%1$d item is waiting to be backed up</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d photos and videos | %2$s</item>
+        <item quantity="one">%1$d photo or video | %2$s</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-        <item quantity="other">Network error. %1$d items are waiting to be backed up.</item>
-        <item quantity="one">Network error. %1$d item is waiting to be backed up.</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">"Haven't backed up %d photos and videos"</item>
+        <item quantity="one">"Haven't backed up %d photo or video"</item>
     </plurals>
-    <plurals name="sync_off">
-        <item quantity="other">Sync is off. %1$d items are waiting to be backed up.</item>
-        <item quantity="one">Sync is off. %1$d item is waiting to be backed up.</item>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">"Can't back up %1$d items"</item>
-        <item quantity="one">"Can't back up %1$d item"</item>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up.</item>
-        <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up.</item>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d photos</item>
@@ -137,8 +137,8 @@
         <item quantity="one">1 video waiting to back up</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d items waiting to be backed up</item>
-        <item quantity="one">1 item waiting to be backed up</item>
+        <item quantity="other">%1$d items waiting to back up</item>
+        <item quantity="one">1 item waiting to back up</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Backing up %1$d photos…</item>
@@ -163,5 +163,13 @@
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"Skipped %1$d photos which couldn't be rendered."</item>
         <item quantity="one">"Skipped a photo which couldn't be rendered."</item>
+    </plurals>
+    <plurals name="file_count_format">
+        <item quantity="other">Total %1$d items</item>
+        <item quantity="one">Total %1$d item</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Found %1$d new photos</item>
+        <item quantity="one">Found a new photo</item>
     </plurals>
 </resources>

@@ -193,10 +193,10 @@
   <string name="select_all">"すべて選択"</string>
   <string name="select_item">"アイテムを選択"</string>
   <string name="send">"送る"</string>
-  <string name="send_sms_for_sync_notice">Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="send_sms_for_sync_notice">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="send_sms_for_sync_title">"データ使用の警告"</string>
-  <string name="sim_changed_reactivate_int_notice">Your carrier may charge for an international SMS message used to reactivate this service.</string>
-  <string name="sim_changed_reactivate_notice">Your carrier may charge for an SMS message used to reactivate this service.</string>
+  <string name="sim_changed_reactivate_int_notice">An outgoing international SMS message may be required to reactivate this service. Your carrier will charge you for this message.</string>
+  <string name="sim_changed_reactivate_notice">An outgoing SMS message may be required to reactivate this service. Your carrier will charge you for this message.</string>
   <string name="sim_in_airplane_mode">"機内モードをオフにします。"</string>
   <string name="sim_locked">"SIMカードがロックされています。"</string>
   <string name="sim_not_ready">"SIM カードは使用中です。後でもう一度試してください。"</string>

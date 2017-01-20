@@ -18,6 +18,7 @@
   <string name="alarm_volume_summary">"アラーム音量をセット"</string>
   <string name="alarm_volume_title">"アラーム音量"</string>
   <string name="alarmclock_empty_text">"アラームなし"</string>
+  <string name="alarmclock_silent_hint">"アラームは消音状態です"</string>
   <string name="alert">"アラーム音"</string>
   <string name="analog_gadget">"アナログ時計"</string>
   <string name="app_label">"時計"</string>

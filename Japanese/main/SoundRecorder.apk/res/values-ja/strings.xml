@@ -39,6 +39,9 @@
   <string name="error_sdcard_unmounted">"今すぐSDカードを挿入してください"</string>
   <string name="export_to_note">Export to Notes</string>
   <string name="invalid_argument">"無効な引数"</string>
+  <string name="keywords_search_call_record">Record calls;Record call;Call recording;Call recordings</string>
+  <string name="keywords_search_record">New recording;Add recording;Recording;Recordings;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>
+  <string name="keywords_search_record_list">Recorder;Transcript;Transcripts;Record;Share recording;Share recordings;Recording;Recordings</string>
   <string name="low_battery_error">"Less than 5% battery remaining. Stop and save your recording to make sure it isn't lost."</string>
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Low battery</string>
@@ -82,6 +85,7 @@
   <string name="recognition_error_internal">"内部エラー"</string>
   <string name="recognition_error_stopped">Recognition stopped</string>
   <string name="recognition_status_downloading">"ダウンロード中"</string>
+  <string name="record">Record</string>
   <string name="record_back_pressed_hint">To stop recording, touch Back again</string>
   <string name="record_download">"Mi Cloudからダウンロード"</string>
   <string name="record_download_complete">"ダウンロード済み"</string>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="preferences_week_start_day_labels">
-        <item>"ユーザーの言語/地域での既定の設定"</item>
-        <item>"土曜日"</item>
-        <item>"日曜日"</item>
-        <item>"月曜日"</item>
-    </string-array>
     <string-array name="timezone_labels">
         <item>マーシャル諸島</item>
         <item>ミッドウェー諸島</item>
@@ -148,6 +142,12 @@
         <item>"1日前"</item>
         <item>"2日前"</item>
         <item>"1週間前"</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>"ユーザーの言語/地域での既定の設定"</item>
+        <item>"土曜日"</item>
+        <item>"日曜日"</item>
+        <item>"月曜日"</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Always</item>
