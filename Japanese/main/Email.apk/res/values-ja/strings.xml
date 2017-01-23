@@ -186,7 +186,7 @@
   <string name="attachment_image">画像</string>
   <string name="attachment_list_search_hint">"添付ファイルを検索"</string>
   <string name="attachment_mgr_name">"添付ファイル"</string>
-  <string name="attachment_not_exists">The attachment is not available!</string>
+  <string name="attachment_not_exists">"添付ファイルは利用できません！"</string>
   <string name="attachment_open_SecurityException_hint">"ファイルを開く権限を持っていないか、ファイルが破損している可能性があります。"</string>
   <string name="attachment_open_SecurityException_title">"ファイルを開けません"</string>
   <string name="attachment_size_exceed_limit">"Looks like the size exceeded the server's limit"</string>
@@ -256,9 +256,9 @@
   <string name="config_retry">"再試行"</string>
   <string name="confirm">OK</string>
   <string name="confirm_before_delete">"削除前に確認する"</string>
-  <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
+  <string name="confirm_before_delete_keywords">"削除前に確認する;削除確認"</string>
   <string name="confirm_before_send">"送信前に確認する"</string>
-  <string name="confirm_before_send_keywords">confirm before sending;send confirm</string>
+  <string name="confirm_before_send_keywords">"送信前に確認する;送信確認"</string>
   <string name="confirm_delete_conversation_title">"削除"</string>
   <string name="confirm_discard_text">"このメッセージを破棄しますか？"</string>
   <string name="confirm_response">"出欠状況を送信しています…"</string>

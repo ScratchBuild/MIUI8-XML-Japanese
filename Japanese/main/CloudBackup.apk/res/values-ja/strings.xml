@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">読み込み中…</string>
-  <string name="account_error">Account error</string>
+  <string name="account_error">アカウントエラー</string>
   <string name="app_name">Mi Cloud backup​</string>
   <string name="as_new_device">Replace previous Home screen and settings</string>
   <string name="as_new_device_summary">Erase previous Mi Cloud backups</string>
@@ -53,9 +53,9 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_back_up_no_network_warn">Wi-Fiに接続できません</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">読み込み中…</string>
-  <string name="cloud_back_up_share_activity_confirm">Upgrade</string>
-  <string name="cloud_back_up_share_activity_discription">Get more storage space, daily backups, and more.</string>
-  <string name="cloud_back_up_share_activity_title">Upgrade Mi Account</string>
+  <string name="cloud_back_up_share_activity_confirm">"アップグレード"</string>
+  <string name="cloud_back_up_share_activity_discription">"より多くのストレージ容量、毎日のバックアップなどを入手できます。"</string>
+  <string name="cloud_back_up_share_activity_title">"Mi Accountのアップグレード"</string>
   <string name="cloud_back_up_task">"バックアップ中…"</string>
   <string name="cloud_backup_detail_frequence">"バックアップのスケジュール"</string>
   <string name="cloud_backup_detail_frequence_day">Back up every %1$s</string>
@@ -85,7 +85,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="dir_date_format">HHmmss_MMddyyyy</string>
   <string name="download_settings">ホーム画面の設定をダウンロード中 %s%%</string>
   <string name="download_settings_fail">ホーム画面の設定をダウンロードできませんでした</string>
-  <string name="error_unknown">Something went wrong</string>
+  <string name="error_unknown">"不明なエラー"</string>
   <string name="latest_backup_time_loading">読み込み中…</string>
   <string name="managespace_delete_backup">Delete backup</string>
   <string name="managespace_total_space">Total space: %s</string>

@@ -39,7 +39,7 @@
   <string name="edit_frequent_phrases">"よく使うフレーズを編集"</string>
   <string name="fools_day">愚人节</string>
   <string name="frequent_phrases_des">"数回タップするだけでテキストの編集中によく使うフレーズを入力できます"</string>
-  <string name="frequent_phrases_size_exceeded">Can add up to %1$d frequent phrases. Delete unnecessary ones to add more.</string>
+  <string name="frequent_phrases_size_exceeded">"よく使うフレーズは%1$d個まで追加できます。もっと追加するには不要なものを削除してください。"</string>
   <string name="glockenspiel">Glockenspiel</string>
   <string name="good_friday">耶穌受難節</string>
   <string name="grain_buds">小满</string>
@@ -91,7 +91,7 @@
   <string name="peace_day">和平紀念</string>
   <string name="presentation_payphone">Payphone</string>
   <string name="presentation_private">"非通知"</string>
-  <string name="presentation_unknown">Unknown number</string>
+  <string name="presentation_unknown">"不明な番号"</string>
   <string name="retrocession_day">光復節</string>
   <string name="slight_cold">小寒</string>
   <string name="slight_heat">小暑</string>

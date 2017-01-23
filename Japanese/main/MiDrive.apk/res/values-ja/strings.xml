@@ -8,7 +8,6 @@
   <string name="agree">"許可"</string>
   <string name="app_name">Mi Drive</string>
   <string name="background">"隠す"</string>
-  <string name="byteShort">B</string>
   <string name="cancel">"キャンセル"</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_transport">"転送状況を表示"</string>
@@ -49,14 +48,11 @@
   <string name="folder_name_empty">"フォルダ名は空にすることはできません"</string>
   <string name="folder_name_illegal">"無効なフォルダ名"</string>
   <string name="folder_name_invalid">"フォルダ名には次の文字を含めることはできません: /\\:*?&lt;&gt;"</string>
-  <string name="gigabyteShort">GB</string>
   <string name="image_loading_error">"画像を読み込めませんでした"</string>
   <string name="just_now">"ちょうど今"</string>
-  <string name="kilobyteShort">KB</string>
   <string name="load_err">"読み込めませんでした"</string>
   <string name="login_reg_content">Store files and sync across multiple devices.</string>
   <string name="login_reg_title">Use Mi Drive from anywhere.</string>
-  <string name="megabyteShort">MB</string>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"切り取りできませんでした"</string>
   <string name="move_failed_retry">"Can't cut, wait %1$s and try again"</string>
@@ -103,7 +99,6 @@
   <string name="operation_task_manage">"転送状況を表示"</string>
   <string name="operation_upload">"アップロード"</string>
   <string name="paused">Paused</string>
-  <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">"初めにExplorerを更新します。"</string>
   <string name="quota_info">"Mi Drive: %1$s 空き, %2$s 合計"</string>
   <string name="rename_alert">"このファイルの拡張子を変更した場合、それを開くことができなくなる場合があります。"</string>
@@ -115,7 +110,6 @@
   <string name="space_full">"クラウドの空き容量が足りません。"</string>
   <string name="start_use_xiaomi_account">"Mi Driveの使用を開始"</string>
   <string name="system_alert">"インターネット接続"</string>
-  <string name="terabyteShort">TB</string>
   <string name="tools">"ツール"</string>
   <string name="trans_mobile_network_message">"モバイルデータを使用してファイル転送を行うと追加の料金が発生する場合があります。とにかく転送しますか？"</string>
   <string name="trans_task">"転送タスク"</string>

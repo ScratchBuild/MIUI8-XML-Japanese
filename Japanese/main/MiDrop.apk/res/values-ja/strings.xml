@@ -2,18 +2,18 @@
 <resources>
   <string name="Connect">"接続"</string>
   <string name="Disconnect">"切断"</string>
-  <string name="Register">register</string>
+  <string name="Register">"登録"</string>
   <string name="Start">"開始"</string>
-  <string name="StartScan">StartScan</string>
+  <string name="StartScan">"スキャンを開始"</string>
   <string name="Stop">"停止"</string>
-  <string name="StopScan">StopScan</string>
+  <string name="StopScan">"スキャンを停止"</string>
   <string name="TestBonjour">Test Bonjour</string>
   <string name="TestP2pGc">Test P2pGroupClient</string>
   <string name="TestP2pGo">Test P2pGroupOwner</string>
   <string name="TestP2pLs">Test P2pLegacyStation</string>
   <string name="TestReceiver">Test Receiver</string>
   <string name="TestSender">Test Sender</string>
-  <string name="Unregister">unregister</string>
+  <string name="Unregister">"登録を解除"</string>
   <string name="action_settings">"設定"</string>
   <string name="app_name">Mi Drop</string>
   <string name="cancel_confirm">"キャンセル"</string>
