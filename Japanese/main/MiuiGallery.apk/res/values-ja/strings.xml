@@ -76,7 +76,7 @@
   <string name="album_type_share">Shared albums</string>
   <string name="album_type_system">System albums</string>
   <string name="album_videos_name">Videos</string>
-  <string name="alert_secret_album_enter">Got it</string>
+  <string name="alert_secret_album_enter">OK</string>
   <string name="alert_secret_album_message">Pull down from the top of your Albums page to view hidden album.</string>
   <string name="alert_secret_album_title">How to view hidden album</string>
   <string name="all_faces">Photos with this person</string>
@@ -378,7 +378,7 @@ Take more photos of your friends!"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
   <string name="has_invalid_recipient">Invalid recipients: %1$s</string>
-  <string name="have_known">Got it</string>
+  <string name="have_known">OK</string>
   <string name="hidden_album_display_name">Hidden album</string>
   <string name="home_page_empty">Empty</string>
   <string name="home_page_label">"写真"</string>

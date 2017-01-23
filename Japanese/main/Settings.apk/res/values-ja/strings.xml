@@ -1513,7 +1513,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="global_locale_change_title">言語の変更</string>
   <string name="google_backup_enable">バックアップをオンにする</string>
   <string name="google_backup_section_title">Googleバックアップとリセット</string>
-  <string name="got_it">Got it</string>
+  <string name="got_it">OK</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to Wi-Fi</string>
   <string name="handy_mode">片手操作モード</string>
   <string name="handy_mode_enter_ask">片手操作モードへの切り替え前に確認</string>

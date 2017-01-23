@@ -313,7 +313,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_title_sync_with_off">"Mi Cloudと同期"</string>
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">続行</string>
-  <string name="micloud_request_permission_confirm">Got it</string>
+  <string name="micloud_request_permission_confirm">OK</string>
   <string name="micloud_request_permission_content">Mi Cloud needs permissions to sync data. Allow Mi Cloud to access Calendar, Contacts, Mi Account, SIM card status, call history, and messages.</string>
   <string name="micloud_request_permission_title">Mi Cloud needs permissions</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>

@@ -157,7 +157,7 @@
   <string name="dialog_msg_stop_scan">Stop the ongoing clean up scan?</string>
   <string name="dialog_msg_uninstall_apps">"これらのアプリをアンインストールしますか？"</string>
   <string name="dialog_msg_uninstall_apps_xspace">"デュアルアプリを含むこれらのアプリをアンインストールしますか？"</string>
-  <string name="dialog_ok_add_white_list_error">Got it</string>
+  <string name="dialog_ok_add_white_list_error">OK</string>
   <string name="dialog_title_add_white_list_error">Attention</string>
   <string name="dialog_title_backup_and_uninstall_apps">"バックアップとアンインストール"</string>
   <string name="dialog_title_check_all">"すべて選択"</string>

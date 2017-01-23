@@ -309,7 +309,7 @@
   <string name="button_text_ignore">"無視"</string>
   <string name="button_text_ignore_alert_title">"このアラートを無視しますか？"</string>
   <string name="button_text_known">OK</string>
-  <string name="button_text_let_me_select">Got it</string>
+  <string name="button_text_let_me_select">OK</string>
   <string name="button_text_next_step">"次へ"</string>
   <string name="button_text_next_step_timer">"次へ (%d)"</string>
   <string name="button_text_open_now">"開く"</string>
@@ -971,7 +971,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="package_setted_error_notification_titile">"データプランを設定できませんでした"</string>
   <string name="packages_subtitle">Included packages</string>
   <string name="passwordIncorrect">"ユーザー名かパスワードが間違っています"</string>
-  <string name="password_promotion_button_text">Got it</string>
+  <string name="password_promotion_button_text">OK</string>
   <string name="password_promotion_message">App lock is being upgraded to Privacy protection password. You can use your current Mi Account to reset it.</string>
   <string name="password_promotion_not_login_xiaomi_account_message">App lock is being upgraded to Privacy protection password. You can use your current Mi Account to reset it. Add your Mi Account to be able to do that.</string>
   <string name="password_promotion_postbutton_text">"設定を開く"</string>
@@ -1421,7 +1421,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_virus_cloudscan">"アプリ名と詳細をアップロードし、オンラインのウイルス定義を使用してスキャンします"</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
-  <string name="sys_app_prot_cracked_confirm">Got it</string>
+  <string name="sys_app_prot_cracked_confirm">OK</string>
   <string name="sys_app_prot_cracked_login">"Mi Accountでログイン"</string>
   <string name="sys_app_prot_cracked_text_login">"The current version of MIUI has been modified which puts your device's security at risk.
 
@@ -1519,7 +1519,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
 及时提醒各种红包雨
 不再错过任何红包"</string>
   <string name="text_all_control_summary">开启后当检测到红包时，自动点亮屏幕进行提示</string>
-  <string name="text_button">Got it</string>
+  <string name="text_button">OK</string>
   <string name="text_day"/>
   <string name="text_error">相关软件版本过低或未安装</string>
   <string name="text_lock_info">Draw unlock pattern</string>
