@@ -309,10 +309,10 @@ is mainly provided by Ultimate Inc."</string>
   <string name="eq_preset_select">"プリセットを選択"</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
-  <string name="error_forbidden">Sync has been turned off due to problems with your account.</string>
-  <string name="error_not_acceptable">Sync is turned off.</string>
+  <string name="error_forbidden">"Mi Accountに問題があるため、同期がオフになっています。"</string>
+  <string name="error_not_acceptable">"同期がオフになっています。"</string>
   <string name="error_title">"Mi Accountと同期できません"</string>
-  <string name="error_unauthorized">Sync has been turned off due to too many sign-in attempts.</string>
+  <string name="error_unauthorized">"ログインの回数が多すぎるため、同期がオフになっています。"</string>
   <string name="expired">Expired</string>
   <string name="expires">Expires this month:</string>
   <string name="fail_to_play">"Can't play song"</string>

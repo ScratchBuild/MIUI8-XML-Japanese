@@ -295,7 +295,7 @@
   <string name="fav">Star</string>
   <string name="feedback">"フィードバック"</string>
   <string name="feedback_error">Report bug</string>
-  <string name="feedback_error_success_tip">"正常に送信されました"</string>
+  <string name="feedback_error_success_tip">"送信が完了しました"</string>
   <string name="feedback_error_tips">Having problems using this remote, tap to report a problem</string>
   <string name="find_adb_frame">%1$d ADB devices detected</string>
   <string name="find_milink_frame">%1$d Mi devices detected</string>
@@ -310,7 +310,7 @@
   <string name="gesture_pad_sencond_line_tips">· Tap &amp; hold the central area of the screen to view the menu. Slide up or down to adjust volume.</string>
   <string name="gesture_pad_vol_tips">"Use phone's volume buttons to adjust the volume on the connected device"</string>
   <string name="get_backup_failed">"修復できませんでした、もう一度お試しください"</string>
-  <string name="get_backup_succeed">Restored successfully. Total: %1$d | Current: %2$d| Restored: %3$d</string>
+  <string name="get_backup_succeed">復元が完了しました。 Total: %1$d | Current: %2$d| Restored: %3$d</string>
   <string name="get_data_fail_tips">"データを取得できませんでした、もう一度お試しください"</string>
   <string name="get_info_failed">"情報を取得できませんでした"</string>
   <string name="get_location_fail_tip">"Couldn't set location, choose a city"</string>

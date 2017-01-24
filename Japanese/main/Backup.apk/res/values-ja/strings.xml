@@ -32,7 +32,7 @@
   <string name="backup_error">"バックアップできませんでした"</string>
   <string name="backup_failed">"バックアップできませんでした"</string>
   <string name="backup_file_error">"バックアップできませんでした"</string>
-  <string name="backup_finished">Backed up successfully</string>
+  <string name="backup_finished">"バックアップが完了しました"</string>
   <string name="backup_hint">Keep your device powered on</string>
   <string name="backup_hint_onpad">Keep your device powered on</string>
   <string name="backup_is_running">Backing up device</string>
@@ -150,15 +150,15 @@
   <string name="no_network">"ネットワークに接続できません"</string>
   <string name="note_title">"ノート"</string>
   <string name="nothing_searched">No results.</string>
-  <string name="notif_backup_complete_title">Backed up successfully</string>
+  <string name="notif_backup_complete_title">"バックアップが完了しました"</string>
   <string name="notif_backup_content">Backing up user data</string>
   <string name="notif_backup_title">Back up data</string>
-  <string name="notif_restore_complete_title">Restored successfully</string>
+  <string name="notif_restore_complete_title">"復元が完了しました"</string>
   <string name="notif_restore_content">Restoring user data</string>
   <string name="notif_restore_title">Restore data</string>
-  <string name="notif_trans_receiving_completed">Data received successfully</string>
+  <string name="notif_trans_receiving_completed">"データの受信が完了しました"</string>
   <string name="notif_trans_receiving_failed">"データを受信できませんでした"</string>
-  <string name="notif_trans_sending_completed">Data sent successfully</string>
+  <string name="notif_trans_sending_completed">"データの送信が完了しました"</string>
   <string name="notif_trans_sending_failed">"データを送信できませんでした"</string>
   <string name="page_loading">"読み込み中…"</string>
   <string name="progress_backup_hint">"バックアップ中…"</string>
@@ -177,7 +177,7 @@
   <string name="restore_counts">"復元:"</string>
   <string name="restore_data">Choose items to restore</string>
   <string name="restore_failed">"復元できませんでした"</string>
-  <string name="restore_finished">Restored successfully</string>
+  <string name="restore_finished">"復元が完了しました"</string>
   <string name="restore_is_running">Restoring device</string>
   <string name="restore_launcher_layout_hit">"ランチャーの設定を復元する"</string>
   <string name="restore_progress">"復元中…"</string>
@@ -231,13 +231,13 @@
   <string name="task_failed">"バックアップできませんでした"</string>
   <string name="task_failed_all_local">"バックアップできませんでした"</string>
   <string name="task_failed_local">Backup incomplete (%s)</string>
-  <string name="task_finished">"Backed up successfully "</string>
+  <string name="task_finished">"バックアップが完了しました "</string>
   <string name="task_local_backup_cancel_dialog">"バックアップが完了していません。とにかく停止しますか？"</string>
   <string name="task_pending">"待機中…"</string>
   <string name="task_post_running">"バックアップ中…"</string>
   <string name="task_pre_running">"開始中…"</string>
   <string name="task_progress">"進捗状況"</string>
-  <string name="task_restore_cancel_dialog">Stopping now may result in data loss.</string>
+  <string name="task_restore_cancel_dialog">"今すぐ停止すると、データが失われる可能性があります。"</string>
   <string name="task_restore_cancel_progress">"停止中…"</string>
   <string name="task_restore_finished_local">"Restored "</string>
   <string name="task_restore_none">Nothing to restore</string>
@@ -297,7 +297,7 @@ Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_receiver_time_remained">"%s remaining.
 Don't turn off WLAN Hotspot.
 Keep devices close to each other."</string>
-  <string name="trans_receiving_completed">Received successfully</string>
+  <string name="trans_receiving_completed">"受信が完了しました"</string>
   <string name="trans_restoring">"復元中…"</string>
   <string name="trans_restoring_no_items">Syncing items</string>
   <string name="trans_retry">"再試行"</string>
@@ -318,7 +318,7 @@ Waiting for the old device to connect…"</string>
   <string name="trans_sender_time_remained">"%s remaining.
 Don't turn off WLAN.
 Keep devices close to each other."</string>
-  <string name="trans_sending_completed">Sent successfully</string>
+  <string name="trans_sending_completed">"送信が完了しました"</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
   <string name="trans_start_failed_message">"Couldn't start transfer, try again or reboot device."</string>

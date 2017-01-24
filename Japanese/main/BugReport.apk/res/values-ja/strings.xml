@@ -96,7 +96,7 @@
   <string name="feedback_submit_hint">"問題を迅速に解決できるよう、問題が発生するたびにバグを報告してください。"</string>
   <string name="feedback_submit_hint1">"レポートの進捗状況をお知らせします"</string>
   <string name="feedback_submit_hint2">"詳細を表示するには\"My reports\"に移動"</string>
-  <string name="feedback_submit_succ">"正常に送信されました"</string>
+  <string name="feedback_submit_succ">"送信が完了しました"</string>
   <string name="feedback_submit_succ_button">"完了"</string>
   <string name="feedback_submitting">"送信中…"</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s suggestion \"%2$s\"</string>

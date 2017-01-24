@@ -978,7 +978,7 @@
   <string name="upload_log">Upload logs</string>
   <string name="upload_log_failed">"ログを送信できませんでした"</string>
   <string name="upload_log_no">"キャンセル"</string>
-  <string name="upload_log_success">"Sent successfully, we'll get back to you soon."</string>
+  <string name="upload_log_success">"送信が完了しました, we'll get back to you soon."</string>
   <string name="upload_log_title">Send error logs to help us improve Mail</string>
   <string name="upload_log_yes">Send</string>
   <string name="upload_logs">Upload logs</string>

@@ -58,7 +58,7 @@
   <string name="error_forbidden">"Mi Accountに問題があるため、同期はオフになっています。"</string>
   <string name="error_not_acceptable">"同期はオフです。"</string>
   <string name="error_title">"同期できません"</string>
-  <string name="error_unauthorized">Sync has been turned off due to too many sign-in attempts.</string>
+  <string name="error_unauthorized">"ログインの回数が多すぎるため、同期がオフになっています。"</string>
   <string name="evening">PM</string>
   <string name="fmt_chinese_date">N月e</string>
   <string name="fmt_date">D</string>

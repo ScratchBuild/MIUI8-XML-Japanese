@@ -163,7 +163,7 @@
   <string name="backup_with_gprs_dialog_message">%s of data is required to back up items. Back up now?</string>
   <string name="backup_with_gprs_dialog_title">Back up using mobile data</string>
   <string name="backuped_desc">Photos and videos are backed up to Mi Cloud</string>
-  <string name="backuped_title">Backed up successfully</string>
+  <string name="backuped_title">"バックアップが完了しました"</string>
   <string name="backuping_title_gprs">Backing up using mobile data…</string>
   <string name="backuping_title_normal">Backing up⤦</string>
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
@@ -317,7 +317,7 @@
   <string name="error_share_with_creator">This album is already being shared with you</string>
   <string name="error_socket_timeout">"ネットワーク接続がタイムアウトしました"</string>
   <string name="error_title">"同期できません"</string>
-  <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
+  <string name="error_unauthorized">"ログインの回数が多すぎるため、同期が無効になっています。"</string>
   <string name="error_unknown_host">"ネットワークに接続できませんでした。データ接続を確認して再度試してください。"</string>
   <string name="exit">"終了"</string>
   <string name="exit_share">"アルバムを終了"</string>

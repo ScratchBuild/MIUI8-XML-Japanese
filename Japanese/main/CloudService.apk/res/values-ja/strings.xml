@@ -76,7 +76,7 @@ Last backed up on %2$s"</string>
   <string name="error_not_acceptable">"同期が無効になっています。"</string>
   <string name="error_server">サーバーエラー</string>
   <string name="error_title">同期できませんでした</string>
-  <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
+  <string name="error_unauthorized">ログインの回数が多すぎるため、同期が無効になっています。</string>
   <string name="error_unknown">ログインできません</string>
   <string name="find_device">Find device</string>
   <string name="find_device_disabled_notice">この機能はいつでもMiCloudの設定からオンまたはオフに設定することができます。</string>

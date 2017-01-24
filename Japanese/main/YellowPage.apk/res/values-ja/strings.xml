@@ -124,7 +124,7 @@
   <string name="express_inquiry_logistics">宅配便サービスを選択</string>
   <string name="express_inquiry_logistics_prefix">宅配便サービス: %s</string>
   <string name="express_inquiry_logistics_select_others_indication">その他</string>
-  <string name="express_inquiry_no_history">履歴なし</string>
+  <string name="express_inquiry_no_history">履歴はありません</string>
   <string name="express_inquiry_no_result">No results</string>
   <string name="express_inquiry_number_empty">追跡番号を入力してください。</string>
   <string name="express_inquiry_number_invalid">"無効な問い合わせ番号です。
@@ -248,7 +248,7 @@
   <string name="mark_number_feedback_invalid_hint">"フィードバックを入力してください"</string>
   <string name="mark_number_feedback_not_number">"It's not %s number"</string>
   <string name="mark_number_feedback_personal_number">"It's personal number"</string>
-  <string name="mark_number_feedback_success">Flag info sent successfully</string>
+  <string name="mark_number_feedback_success">"フラグ情報の送信が完了しました"</string>
   <string name="mark_number_marked_maintitle">Change flag info</string>
   <string name="mark_number_marked_subtitle">%s (current flag)</string>
   <string name="mark_number_remove">Remove flag info</string>
@@ -278,7 +278,7 @@
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">ネットワークに接続できませんでした</string>
   <string name="miuishare_publish">Send</string>
-  <string name="miuishare_share_done">Sent successfully</string>
+  <string name="miuishare_share_done">送信が完了しました</string>
   <string name="miuishare_share_editor_title">Share</string>
   <string name="miuishare_title_more">More</string>
   <string name="miuishare_title_share">Share</string>
@@ -346,7 +346,7 @@
   <string name="recharge_charge_value">Price: RMB %s</string>
   <string name="recharge_follow_name">Top up</string>
   <string name="recharge_history">Top-up history</string>
-  <string name="recharge_history_empty">Empty</string>
+  <string name="recharge_history_empty">履歴はありません</string>
   <string name="recharge_input_phone_title">電話番号を入力 (China Mobile, China Unicom, or China Telecom)</string>
   <string name="recharge_my_phone_number">電話番号</string>
   <string name="recharge_order_actual_price">¥%s</string>
