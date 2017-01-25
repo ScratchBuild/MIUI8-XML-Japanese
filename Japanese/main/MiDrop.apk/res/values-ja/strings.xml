@@ -67,7 +67,7 @@
   <string name="receiver_transfer_interrupt">"転送が中断されました、転送中はWi-Fiホットスポットをオフにしないでください"</string>
   <string name="receiver_video_file_current">Receiving %2$d​ videos from %1$s</string>
   <string name="receiver_video_file_num">%2$d​ videos from %1$s</string>
-  <string name="runtime_permission_ungranted">"Can't use Mi Drop due to ungranted permissions"</string>
+  <string name="runtime_permission_ungranted">"権限が許可されていないため、Mi Dropを使用できません"</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"送信しない"</string>

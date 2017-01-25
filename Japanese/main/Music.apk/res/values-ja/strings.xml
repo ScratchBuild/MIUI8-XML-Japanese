@@ -31,7 +31,7 @@
   <string name="add_music">"曲を追加"</string>
   <string name="add_to_last_of_playlist">"プレイリストの最後に追加"</string>
   <string name="add_to_playlist_successful">"正常に追加されました"</string>
-  <string name="alaka_required">You should pay for this song to listen to it</string>
+  <string name="alaka_required">"この曲を再生するには購入する必要があります"</string>
   <string name="album_name">"アルバム"</string>
   <string name="album_search_title">"アルバム"</string>
   <string name="all_artist">"すべてのアーティスト"</string>
@@ -58,8 +58,8 @@
   <string name="asset_sync_alert_not_now">"後で"</string>
   <string name="asset_sync_network_data_alert_message">Backing up songs using mobile data may generate additional mobile data fees. Back up anyway?</string>
   <string name="asset_sync_network_data_alert_title">"You're using mobile data"</string>
-  <string name="asset_sync_network_unavailable_alert_message">Connect to the internet to back up songs</string>
-  <string name="asset_sync_network_unavailable_alert_title">"Couldn't connect to the network"</string>
+  <string name="asset_sync_network_unavailable_alert_message">"曲をバックアップするためにインターネットに接続する"</string>
+  <string name="asset_sync_network_unavailable_alert_title">"ネットワークに接続できませんでした"</string>
   <string name="asset_sync_power_alert_message">Connect charger to back up songs.</string>
   <string name="asset_sync_power_alert_title">Low battery</string>
   <string name="atmd_music">Ultimate</string>
@@ -73,11 +73,11 @@
   <string name="available_playlist_name_format">New playlist %d</string>
   <string name="avoid_to_use_traffic_summary">"モバイルデータを使用して曲をストリーミングしない"</string>
   <string name="avoid_to_use_traffic_title">"モバイルデータを使用して曲を再生する前に警告"</string>
-  <string name="back_confirm">Tap again to push the app to background</string>
-  <string name="backup_complete">All songs are backed up to Mi Cloud</string>
+  <string name="back_confirm">"アプリをバックグラウンドで実行するにはもう一度タップ"</string>
+  <string name="backup_complete">"すべての曲がMi Cloudにバックアップされました"</string>
   <string name="backup_empty_button">Select 0 songs</string>
-  <string name="backup_immediate">Back up</string>
-  <string name="backup_song_title">Select songs to backup</string>
+  <string name="backup_immediate">"バックアップ"</string>
+  <string name="backup_song_title">"バックアップする曲を選択"</string>
   <string name="baidu_music">Baidu music</string>
   <string name="being_disable_auto_payment">"オフにしています…"</string>
   <string name="being_enable_auto_payment">"オンにしています…"</string>
@@ -100,8 +100,8 @@
   <string name="chinese_female">Female artists (China)</string>
   <string name="chinese_group">Bands (China)</string>
   <string name="chinese_male">Male artists (China)</string>
-  <string name="choose_download_quality">Choose download quality</string>
-  <string name="choose_stream_quality">Choose streaming quality</string>
+  <string name="choose_download_quality">"ダウンロード品質を選択"</string>
+  <string name="choose_stream_quality">"ストリーミング品質を選択"</string>
   <string name="click_modify">Tap to edit lyrics.</string>
   <string name="click_to_shuffle">Tap to shuffle</string>
   <string name="click_to_view_new_local_audios">Tap to view details.</string>

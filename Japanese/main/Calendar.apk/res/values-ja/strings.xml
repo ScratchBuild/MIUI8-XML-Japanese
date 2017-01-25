@@ -89,7 +89,7 @@
   <string name="credit_card_number_label">"カード番号："</string>
   <string name="credit_card_overdue">"有効期限切れ"</string>
   <string name="credit_card_repayment_count">最后%1$s天</string>
-  <string name="credit_card_source">来自短信的还款提醒</string>
+  <string name="credit_card_source">"SMSで返済をリマインダー"</string>
   <string name="credit_currency">元</string>
   <string name="credit_detail_amount_label">应还</string>
   <string name="credit_detail_sms_content">"SMSの本文"</string>
@@ -192,7 +192,7 @@
   <string name="hint_what">"タイトル"</string>
   <string name="hint_where">"場所"</string>
   <string name="holiday_card_title">Holiday</string>
-  <string name="homepage_today">今</string>
+  <string name="homepage_today">"今日"</string>
   <string name="horoscope_card_comprehensive">综合运势：</string>
   <string name="horoscope_card_financial">财富运势：</string>
   <string name="horoscope_card_love">爱情运势：</string>

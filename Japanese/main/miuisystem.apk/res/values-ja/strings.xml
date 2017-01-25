@@ -89,7 +89,7 @@
   <string name="no_notification_tips">"通知はありません。"</string>
   <string name="partys_day">建党节</string>
   <string name="peace_day">和平紀念</string>
-  <string name="presentation_payphone">Payphone</string>
+  <string name="presentation_payphone">"公衆電話"</string>
   <string name="presentation_private">"非通知"</string>
   <string name="presentation_unknown">"不明な番号"</string>
   <string name="retrocession_day">光復節</string>

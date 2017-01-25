@@ -121,7 +121,7 @@
     <string-array name="entryvalues_settings_debug">
         <item>なし</item>
         <item>ログをエクスポートして送信</item>
-        <item>"ファイルマネージャーにログを生成"</item>
+        <item>ファイルマネージャーにログを生成</item>
     </string-array>
     <string-array name="prefValues_alerts_vibrateWhen">
         <item>always</item>

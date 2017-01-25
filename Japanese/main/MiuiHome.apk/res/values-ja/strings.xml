@@ -55,7 +55,7 @@
   <string name="current_wallpaper">Current</string>
   <string name="custom_wallpaper_picker">Browse</string>
   <string name="delete">"削除"</string>
-  <string name="delete_screen">Delete screen</string>
+  <string name="delete_screen">"画面を削除"</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
   <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
   <string name="deselect_all">"すべて選択を解除"</string>
@@ -114,10 +114,10 @@
   <string name="gadget_search_label">"検索"</string>
   <string name="gadget_weather_app_not_installed">"Touch to download MIUI's Weather app"</string>
   <string name="gadget_weather_aqi_title">"Air quality: "</string>
-  <string name="gadget_weather_download_message">You need to download app content: %1$s (%2$s). Restart the app after download completes.</string>
+  <string name="gadget_weather_download_message">"アプリのコンテンツをダウンロードする必要があります: %1$s (%2$s)。ダウンロード完了後に、アプリを再起動します。"</string>
   <string name="gadget_weather_download_start">"ダウンロード"</string>
   <string name="gadget_weather_download_title">"ダウンロード"</string>
-  <string name="gadget_weather_downloading">App content is downloading. Restart the app after download completes.</string>
+  <string name="gadget_weather_downloading">"アプリのコンテンツをダウンロード中。ダウンロード完了後に、アプリを再起動します。"</string>
   <string name="gadget_weather_loading">"データなし"</string>
   <string name="gadget_weather_low_temp">Low temp</string>
   <string name="gadget_weather_theme_type">Gadget type</string>

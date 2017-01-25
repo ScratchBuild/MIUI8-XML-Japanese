@@ -406,13 +406,13 @@ Pages you view won't appear in history."</string>
   <string name="miui_search_notification_title">"検索"</string>
   <string name="miui_startpage">"ホームページ"</string>
   <string name="miuichromium_error_page_airplane_mode">"機内モード"</string>
-  <string name="miuichromium_error_page_airplane_mode_on">Turn off Airplane mode to connect</string>
+  <string name="miuichromium_error_page_airplane_mode_on">"接続するには機内モードをオフにする"</string>
   <string name="miuichromium_error_page_btn_close">"閉じる"</string>
   <string name="miuichromium_error_page_btn_refresh">"更新"</string>
   <string name="miuichromium_error_page_btn_report_issue">"問題を報告"</string>
   <string name="miuichromium_error_page_diagnose">"ネットワーク診断"</string>
   <string name="miuichromium_error_page_diagnose_banner">"ネットワーク診断"</string>
-  <string name="miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
+  <string name="miuichromium_error_page_diagnose_certificate">"ネットワークプロトコルを確認できませんでした"</string>
   <string name="miuichromium_error_page_diagnose_connection">"ネットワークに接続できませんでした"</string>
   <string name="miuichromium_error_page_diagnose_dns">Looks like the URL is incorrect</string>
   <string name="miuichromium_error_page_diagnose_protocol">Network protocol error</string>

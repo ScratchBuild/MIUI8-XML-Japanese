@@ -122,7 +122,7 @@
   <string name="call_status_dialing">"発信中"</string>
   <string name="call_status_ringing">"着信中"</string>
   <string name="camera_key_action_app_title">アプリケーションを開く</string>
-  <string name="camera_key_action_category_title">Use if Camera app is not open</string>
+  <string name="camera_key_action_category_title">カメラアプリが開いていない場合に使用</string>
   <string name="camera_key_action_none_title">アクションなし</string>
   <string name="camera_key_action_setting_title">Miボタン</string>
   <string name="camera_key_action_shortcut_call">通話</string>
