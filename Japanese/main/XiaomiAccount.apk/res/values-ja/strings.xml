@@ -88,8 +88,8 @@
   <string name="current_location_title">"現在地"</string>
   <string name="delete_action">"削除"</string>
   <string name="delete_app">"アプリを削除"</string>
-  <string name="delete_bank_card_message">Your bank card will be deleted due to security reasons after you sign out</string>
-  <string name="delete_bank_card_title">Deleting your bank card</string>
+  <string name="delete_bank_card_message">"ログアウト後、セキュリティ上の理由により銀行カードが削除されます"</string>
+  <string name="delete_bank_card_title">"銀行カードの削除"</string>
   <string name="delete_browser">"ブラウザを削除"</string>
   <string name="delete_device">"デバイスを削除"</string>
   <string name="delete_device_btn">"削除"</string>

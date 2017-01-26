@@ -18,8 +18,6 @@
   <string name="access_control_need_to_unlock_nofingerprint">"アプリロックのパスワードを入力"</string>
   <string name="access_control_recording_intro_header">"アプリロックのアンロックパターンを描いてください"</string>
   <string name="access_control_reset_by_account">"アプリロックのパスワードをリセットするには、Miアカウントにログインしてください"</string>
-  <string name="accessibility_service_description">"开启此功能，即可进行QQ群红包提醒。
-提示：小米红包助手不会通过辅助功能收集用户任何隐私，请放心开启！"</string>
   <string name="action_button_text_100">"最適化"</string>
   <string name="action_button_text_60">"修復"</string>
   <string name="action_button_text_60_80">"修復"</string>
@@ -73,10 +71,6 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
   <string name="after_the_lock_screen">"App is locked together with the screen, you can change this in App lock's settings."</string>
-  <string name="alarm_headsup_bottom">小米手机抢红包就是快</string>
-  <string name="alarm_lock_screen_summary">一大波红包雨在路上...</string>
-  <string name="alarm_lockscreen_btn">开始抢红包</string>
-  <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="antivirus_choose_engine_dialog_title">Choose definitions</string>
   <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
   <string name="antivirus_choose_engine_settings">Virus definition settings</string>
@@ -101,7 +95,6 @@
   <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">"携帯通信会社のAPN設定をテストする"</string>
   <string name="apn_exception_title">"APNの設定を確認"</string>
-  <string name="app_alarm_title">%s红包活动</string>
   <string name="app_check_no_issue">Looks like there are no battery issues. Cool!</string>
   <string name="app_check_optimize_title">Optimize background activities</string>
   <string name="app_check_reason_background_cpu">CPU background activity</string>
@@ -119,10 +112,6 @@
   <string name="app_name_na">Data usage</string>
   <string name="app_name_securitycenter">"セキュリティ"</string>
   <string name="app_not_installed_toast">"アプリはお使いのデバイスにインストールされていません。"</string>
-  <string name="app_right">小米公司官方出品</string>
-  <string name="app_summary">"微信/QQ/米聊抢红包神器
-支持个人红包与群红包
-春节红包活动，不错过每一个红包"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">"Wi-Fi"</string>
   <string name="apps_item_sign_dialog_content">"%s's signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data."</string>
@@ -244,10 +233,6 @@
   <string name="battery_status_unknown">"不明なエラー"</string>
   <string name="battery_temperature_title">"電池温度"</string>
   <string name="begin_date">Usage reset date</string>
-  <string name="best_warning_dialog_button">我知道了</string>
-  <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
-  <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
-  <string name="best_warning_dialog_title">温馨提示</string>
   <string name="bind_xiaomi_account_cancel">"キャンセル"</string>
   <string name="bind_xiaomi_account_confirm">"追加"</string>
   <string name="bind_xiaomi_account_dialog_summery">"Mi Account %s を追加しようとしています。パスワードを忘れた場合、このアカウントを使用してパスワードをリセットすることができます。ログアウトするとアカウントは自動的に削除されます。"</string>
@@ -287,11 +272,6 @@
   <string name="btn_text_start_check">"スキャン"</string>
   <string name="btn_text_stop">"停止"</string>
   <string name="btn_text_virus_scan">"スキャン"</string>
-  <string name="business_have_hongbao">来自%1$s的一个红包</string>
-  <string name="business_lucky_warning">企业红包</string>
-  <string name="button_get_lucky">"小米钱包
-双11脱单活动"</string>
-  <string name="button_lucky_news">红包攻略</string>
   <string name="button_open">立即开启</string>
   <string name="button_text_accept">"許可"</string>
   <string name="button_text_accept_timer">"許可 (%d)"</string>
@@ -374,18 +354,10 @@
   <string name="clear_garbage">Clear trash to free up space</string>
   <string name="clear_immediately">Clean now</string>
   <string name="close">"閉じる"</string>
-  <string name="close_float_view_dialog_message">确定关闭红包助手悬浮窗？关闭后，您将无法快速打开微信摇一摇与支付宝咻一咻页面，并且无法收到最新红包活动消息。</string>
-  <string name="close_float_view_dialog_title">关闭悬浮窗</string>
-  <string name="close_lucky_money_dialog_ok">确认关闭</string>
-  <string name="close_lucky_money_dialog_summary">确定关闭红包助手？关闭后，将无法收到微信、QQ红包提醒，可能导致您错失红包哟。如您想关闭悬浮窗，可在下方进行设置。</string>
-  <string name="close_lucky_money_dialog_title">关闭红包助手</string>
   <string name="cmcc_app_check_dialog_message">"修復を完了するにはデバイスを再起動します。"</string>
   <string name="cmcc_app_check_dialog_negative">"後で"</string>
   <string name="cmcc_app_check_dialog_positive">"今すぐ再起動"</string>
   <string name="cmcc_app_check_dialog_title">System repaired</string>
-  <string name="cmd_lucky">微信摇一摇</string>
-  <string name="cmd_lucky_float">摇一摇</string>
-  <string name="cmd_lucky_summary">快速进入微信摇一摇页面</string>
   <string name="confirmSecondSpacePassword">Confirm Second space password</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Adding Mi Account</string>
   <string name="confirm_fingerprint_msg">"指をセンサーに当ててください"</string>
@@ -435,7 +407,7 @@
   <string name="deep_save_memory_clean_summary">Clear cache when you lock device to prevent apps from using battery</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Schedule time to turn device on and off</string>
   <string name="delete">"削除"</string>
-  <string name="delete_from_manual_item_white_list">Remove from exceptions</string>
+  <string name="delete_from_manual_item_white_list">"例外から削除"</string>
   <string name="deleted_apps">"削除したアプリ"</string>
   <string name="descx_cleanuping_item">Optimizing %s</string>
   <string name="descx_finish_cleanup_cache">Finishing cache optimization</string>
@@ -470,9 +442,6 @@
   <string name="dialog_title_stop_paysafety_scan">"停止"</string>
   <string name="dialog_title_stop_virus_scan">"ウイルススキャンを停止する"</string>
   <string name="disable_air_mode">"最初に機内モードをオフにする"</string>
-  <string name="dnd_mode_type">勿扰方式</string>
-  <string name="dnd_no_everything">不进行提醒</string>
-  <string name="dnd_no_sound">仅屏蔽声音</string>
   <string name="dns_exception_summary">"Check router's DNS settings"</string>
   <string name="dns_exception_title">Check DNS settings</string>
   <string name="download">"ダウンロード"</string>
@@ -491,7 +460,6 @@
   <string name="empty_title_system_process_list">No system processes</string>
   <string name="empty_title_virus_list">No viruses</string>
   <string name="enable_network">"最初にネットワークをオンにする"</string>
-  <string name="enter">进入</string>
   <string name="every_day">"毎日"</string>
   <string name="examination_score_100">Everything looks good!</string>
   <string name="examination_score_100_with_recommend">%d items can be optimized</string>
@@ -500,8 +468,6 @@
   <string name="examination_score_80_100_with_recommend">%d items can be optimized</string>
   <string name="examination_score_80_60">Some items can be optimized</string>
   <string name="examination_score_has_virus">Some suspicious apps were detected.</string>
-  <string name="file_manager_need_update_desc">当前文件管理器版本过低，无法使用随机表情功能，请先更新文件管理器。</string>
-  <string name="file_manager_need_update_title">文件管理器版本过低</string>
   <string name="finger_remind_message">You can also use your fingerprint with App lock.</string>
   <string name="fingerprint_identify_msg">Scan your fingerprint</string>
   <string name="fingerprint_not_identified_msg">"指紋を読み取れませんでした、パスワードを入力してください"</string>
@@ -529,9 +495,6 @@
   <string name="firewall_rule_group_title_wifi">"Wi-Fi"</string>
   <string name="firewall_service_network_blocked">%1$s has been restricted from using %2$s networks</string>
   <string name="five_percent_total_pkg">%s (5%% of monthly data)</string>
-  <string name="float_window">桌面悬浮窗</string>
-  <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
-  <string name="float_window_tips">小米手机就是快！</string>
   <string name="flow_rank_title">Data usage</string>
   <string name="foreground_traffic">Foreground %s</string>
   <string name="forget_password_button_text"><u>Forgot password</u></string>
@@ -545,9 +508,7 @@
   <string name="gateway_exception_summary">"ルーターを確認してもう一度お試しください。"</string>
   <string name="gateway_exception_summary2">"サーバーに接続できませんでした"</string>
   <string name="gateway_exception_title">Test router</string>
-  <string name="ge">个</string>
   <string name="gigabyteShort">GB</string>
-  <string name="give_lucky_money">红包大派送</string>
   <string name="go_to">"続行"</string>
   <string name="go_to_setting_fingerprint">"設定"</string>
   <string name="goto_set">Set</string>
@@ -611,9 +572,6 @@
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"This app is a major risk to your phone's security."</string>
   <string name="history_details_title">"履歴の詳細"</string>
-  <string name="hongbao_cancel">取消</string>
-  <string name="hongbao_message_slogon">小米手机就是快!</string>
-  <string name="hongbao_name">小米红包助手</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
   <string name="info_and_call">"通話とメッセージ"</string>
@@ -628,11 +586,10 @@
   <string name="installing">"インストール中"</string>
   <string name="international_roaming_setting">Overseas roaming</string>
   <string name="international_roaming_whitelist_count">%d apps can use mobile data when roaming</string>
-  <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
+  <string name="ip_address_exception_summary">"IPアドレスを取得できませんでした。この問題が再発する場合は、静的IPアドレスを使用してみてください。"</string>
   <string name="item_app_permission">"アプリのパーミッション"</string>
   <string name="item_dev_mode">"開発者向けオプション"</string>
   <string name="item_install_monitor">Install monitor</string>
-  <string name="item_lucky_alarm_has_been_closed">已结束</string>
   <string name="item_mms">Filter unwanted messages</string>
   <string name="item_usb_debug">"USBデバッグ"</string>
   <string name="item_virus">"ウイルス"</string>
@@ -658,7 +615,6 @@
   <string name="last_check_never_checked">"今すぐスキャン"</string>
   <string name="last_checked_date2">Scanned %d days ago</string>
   <string name="last_checked_default">Scanned %s days ago</string>
-  <string name="later">稍后处理</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Holiday</string>
   <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
@@ -669,8 +625,6 @@
   <string name="load_only_under_wlan">"Wi-Fi接続時にニュースを読み込む"</string>
   <string name="local_ip_exception_summary">"ローカルIPアドレスを取得できませんでした。この問題をMIUIに報告するには、お使いのデバイスのReport Bugアプリからログを送信してください。"</string>
   <string name="lock_mode_title">Lock settings</string>
-  <string name="lock_screen_business_hongbao_message">来自%1$s</string>
-  <string name="lock_screen_hongbao_message">来自“%1$s”</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s used at lock screen</string>
   <string name="lock_screen_traffic_guide_notification_title">Tap to manage data usage.</string>
   <string name="lock_screen_traffic_notify_body">Locked for %2$s at %1$s, data used %3$s</string>
@@ -708,30 +662,6 @@
   <string name="lockscreen_glogin_submit_button">"ログイン"</string>
   <string name="long_click_dialog_summary">Hold the results in the list to add them to exceptions</string>
   <string name="long_click_dialog_title">Attention</string>
-  <string name="lucky_activity">红包活动</string>
-  <string name="lucky_alarm">红包闹钟</string>
-  <string name="lucky_alarm_app">红包活动倒计时</string>
-  <string name="lucky_alarm_app_after">红包活动已经结束</string>
-  <string name="lucky_alarm_app_tail">倒计时</string>
-  <string name="lucky_alarm_count_down">0:00:00</string>
-  <string name="lucky_alarm_count_down_default">0:00:00</string>
-  <string name="lucky_alarm_item_date">27</string>
-  <string name="lucky_alarm_item_month">11月</string>
-  <string name="lucky_alarm_open_summary">开启后，在红包活动开始前1分钟将弹窗提醒，并可通过悬浮窗查看所有红包活动时间。</string>
-  <string name="lucky_alarm_open_title">红包闹钟</string>
-  <string name="lucky_alarm_sound_title">活动声音提醒</string>
-  <string name="lucky_assistant_description">"小米官方出品
-微信/QQ/米聊抢红包神器
-不支持提醒被屏蔽的群，以及开启电脑登录免打扰功能的软件"</string>
-  <string name="lucky_max_chat_title">发来红包最多的群是</string>
-  <string name="lucky_money_group_summary">个人发送的红包不需抢，建议您仅提醒群红包，以免提醒次数过多。</string>
-  <string name="lucky_news_summary">查看红包攻略及春节相关新闻</string>
-  <string name="lucky_sound_warn">红包声音提醒</string>
-  <string name="lucky_sound_warn_summary">发现群红包时播放提示音</string>
-  <string name="lucky_warn">红包提醒</string>
-  <string name="lucky_warn_summary">当检测到群红包时，自动点亮屏幕进行醒目提示。请关闭社交应用群设置中的“消息免打扰”功能，否则将不能正常提醒。</string>
-  <string name="lucky_warning_count_summary">%1$s个红包</string>
-  <string name="lucky_warning_count_title">发来红包最多的人是</string>
   <string name="main_activity_content_summary_root">Root access</string>
   <string name="main_activity_content_summary_update">System update</string>
   <string name="main_activity_content_title_scanning">"スキャン中…"</string>
@@ -816,16 +746,13 @@
   <string name="menu_text_power_manager">"電池使用量"</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Battery %s</string>
-  <string name="mi_pay_lucky">小米钱包</string>
   <string name="mi_service_app_detail">Data usage details</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Overseas roaming</string>
-  <string name="miliao_lucky_warning">米聊红包</string>
   <string name="modifypassword">"パスワードの変更"</string>
   <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="month_report_month_report_switch">"月次レポートを表示"</string>
-  <string name="more_setting_summary">支持红包提醒种类、红包闹钟、勿扰时段等功能</string>
   <string name="msg_update_error_code_success">"完了"</string>
   <string name="msg_update_up">"隠す"</string>
   <string name="network_assistant_upgraded_body">"詳細を表示するにはタップ。"</string>
@@ -881,11 +808,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="never">1 time</string>
   <string name="news_change">"変更"</string>
   <string name="next_step_button">"次へ"</string>
-  <string name="no_lucky_money">尚未收到红包</string>
   <string name="no_network">"ネットワークに接続できませんでした、後ほど再試行してください"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="none_mi_service_app_detail">Empty</string>
-  <string name="not_available">暂无</string>
   <string name="notification_battery_consume_abnormal_summary">Drained %2$s of the battery during last %1$d minutes</string>
   <string name="notification_battery_consume_abnormal_title">Battery is being drained too fast</string>
   <string name="notification_battery_over_heat_summary">Find what causes heating, and cool down the device.</string>
@@ -910,21 +835,13 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notify_weekly_traffic_body">To limit data usage automatically, set up your monthly data plan.</string>
   <string name="notify_weekly_traffic_title">Used %s this week</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s used %2$s this week</string>
-  <string name="number_of_lucky_money">已为您提醒红包总量</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="old_sdk_deny_warning">"The app isn't compatible with the latest Android permission requirements. Denied permissions may affect the way this app works."</string>
   <string name="open">"開く"</string>
-  <string name="open_alarm_right_now">立刻开启</string>
   <string name="open_app">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
-  <string name="open_dnd_mode">勿扰模式</string>
-  <string name="open_dnd_mode_summary">勿扰时间段内，红包提醒与红包闹钟免打扰</string>
-  <string name="open_lucky">开启小米红包助手</string>
   <string name="open_now">Allow app to use mobile data</string>
-  <string name="open_performance_mode">性能模式</string>
-  <string name="open_performance_mode_summary">开启性能模式，抢到红包的机会更大</string>
-  <string name="open_right_now">立刻抢红包</string>
   <string name="operator_diagnostic">Carrier diagnostics</string>
   <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
@@ -1179,7 +1096,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="protection_category_security_title">Clear (%d)</string>
   <string name="protocol_exception_title">Network protocol diagnostics</string>
   <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
-  <string name="qq_lucky_warning">QQ红包</string>
   <string name="quick_optimize_checking">"スキャン中"</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Couldn't extend battery life"</string>
   <string name="quick_optimize_no_fix_issue_title">"Couldn't fix battery issues"</string>
@@ -1189,8 +1105,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="quick_optimize_sub_summary_text">Added %sto battery life</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">The phone is draining battery, fix it</string>
   <string name="quick_optimize_suggest_battery_over_heat">The phone is overheating, fix it</string>
-  <string name="random_expression">随机表情</string>
-  <string name="random_expression_summary">随机出现搞笑表情，可分享到微信与QQ</string>
   <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
   <string name="reach_daily_limit_value_title">Daily data limit reached</string>
   <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
@@ -1308,12 +1222,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="settings_power_save_ontime_title">"スケジュール"</string>
   <string name="settings_title_payment_security">Payment security settings</string>
   <string name="settings_title_permission">"パーミッションの設定"</string>
-  <string name="shake_send_sticker">摇一摇发表情</string>
-  <string name="shake_send_sticker_summary">在微信与QQ中，摇一摇随机出现搞笑表情。逢年过节拼表情，从此易如反掌！</string>
   <string name="share">"共有"</string>
-  <string name="shoop_again">支付宝咻一咻</string>
-  <string name="shoop_again_float">咻一咻</string>
-  <string name="shoop_again_summary">快速进入支付宝咻一咻页面</string>
   <string name="show_traffic_dialog_message">Your data usage info will be displayed in the notification shade. You can turn this feature on or off anytime in Data usage &gt; Settings</string>
   <string name="show_traffic_dialog_title">Show usage in notification shade</string>
   <string name="showpattern">"パターンを表示"</string>
@@ -1333,7 +1242,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="skin_change_close_toast">"次回セキュリティアプリを起動した時に変更が適用されます"</string>
   <string name="sorted_button">"並べ替え"</string>
   <string name="sorted_dialog_title">"並べ替え"</string>
-  <string name="sound_try_listen">立即试听</string>
   <string name="sp_back_title_text_zero">Secure</string>
   <string name="sp_background_risk_dialog_summary">, check and fix payment issues.</string>
   <string name="sp_background_risk_dialog_title">Attention</string>
@@ -1510,20 +1418,9 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_sms_report_toast_text">"情報を取得中…"</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">"ご意見ありがとうございます！"</string>
-  <string name="ten_percent_total_pkg">%s (10%% of monthly data)</string>
-  <string name="text_alarm_after">"今年的红包活动已全部结束
-期待与您来年重聚"</string>
-  <string name="text_alarm_before">"今年的红包活动即将开始
-财神已就位，敬请期待"</string>
-  <string name="text_alarm_close">"开启红包闹钟
-及时提醒各种红包雨
-不再错过任何红包"</string>
-  <string name="text_all_control_summary">开启后当检测到红包时，自动点亮屏幕进行提示</string>
   <string name="text_button">OK</string>
   <string name="text_day"/>
-  <string name="text_error">相关软件版本过低或未安装</string>
   <string name="text_lock_info">Draw unlock pattern</string>
-  <string name="text_lucky_alarm_before">红包活动即将开始</string>
   <string name="there_is_no">Everything looks good, come back later</string>
   <string name="third_application">Installed apps</string>
   <string name="three_percent_total_pkg">%s (3%% of monthly data)</string>
@@ -1682,11 +1579,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_step_num">"データプランの設定"</string>
   <string name="traffic_warning_purchase_title">"モバイルデータ使用の警告"</string>
   <string name="try_recommended_function">"新しいセキュリティ機能を使用してデバイスを保護する"</string>
-  <string name="txv_dnd_end_time_title">"終了時間"</string>
-  <string name="txv_dnd_start_time_title">"開始時間"</string>
-  <string name="txv_dnd_type_demo">仅屏蔽声音</string>
-  <string name="txv_dnd_type_title">勿扰方式</string>
-  <string name="txv_lucky_money_group_text">仅提醒群红包</string>
   <string name="unable_connect_internet">"インターネット接続なし"</string>
   <string name="uninstall_app_dialog_msg">"アンインストールするとアプリの全データが削除されます。"</string>
   <string name="uninstall_app_dialog_title">"今すぐアンインストールしますか？"</string>
@@ -1728,10 +1620,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="virus_wait_network_dialog_message">"更新ファイルは大きいため、Wi-Fiに接続してダウンロードしてください。"</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
-  <string name="warn_function_no_work">&lt;u&gt;来红包时无法正常提醒？&lt;/u&gt;</string>
   <string name="warning_open_mi_sim">"Mi SIMをオンにする"</string>
-  <string name="weChat_not_found">您的微信版本过低或者未安装</string>
-  <string name="wechat_lucky_warning">微信红包</string>
   <string name="white_list_risk_app_header">"危険なアプリ: %d"</string>
   <string name="white_list_trojan_header">"トロイの木馬: %d"</string>
   <string name="wifi_exception_summary">Test available WLAN networks</string>
@@ -1744,5 +1633,4 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_item_title_encryption">WLAN encryption</string>
   <string name="wifi_item_title_fake">Detect fake WLAN</string>
   <string name="wifi_network_blocked_notification_title">"インターネット接続なし"</string>
-  <string name="zhifubao_not_found">您的支付宝版本过低或者未安装</string>
 </resources>

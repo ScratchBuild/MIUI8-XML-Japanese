@@ -80,7 +80,7 @@ to be able to view them anytime"</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
 Messages will only appear in Second space."</string>
   <string name="guide_contact_suc_sub_title_desc">Only private contacts and messages will be shown in Second space</string>
-  <string name="guide_contact_suc_title_desc">Set successfully</string>
+  <string name="guide_contact_suc_title_desc">"設定が完了しました"</string>
   <string name="guide_contact_title_desc">Show private items in Second space?</string>
   <string name="guide_pwd_detail_title">"Protect your data
 Enter Second space from Lock screen"</string>
@@ -101,7 +101,7 @@ You can also download them separately."</string>
   <string name="list_empty_text">Empty</string>
   <string name="loading_apps">"アプリを読み込み中…"</string>
   <string name="loading_space">"読み込み中…"</string>
-  <string name="loading_success">Loaded successfully</string>
+  <string name="loading_success">"読み込みが完了しました"</string>
   <string name="lock_screen_open_second_space">Enter Second space from Lock screen</string>
   <string name="messageData">"メッセージ"</string>
   <string name="msg_switch_file">Delete these files in First space after they are moved?</string>
@@ -137,7 +137,7 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="private_sms_show_title">Private messages are shown in Second space</string>
   <string name="private_space_setting">"管理"</string>
   <string name="public_app">Both spaces</string>
-  <string name="removeSuccess">Deleted successfully</string>
+  <string name="removeSuccess">"削除が完了しました"</string>
   <string name="remove_second_space_msg">All Second space app data will be lost after you delete Second space. Delete Second space now?</string>
   <string name="removingSpace">"削除中…"</string>
   <string name="repeat_scanner_fingerprint">Add again</string>
@@ -164,7 +164,7 @@ to enter Second space from Lock screen"</string>
   <string name="setSecondSpacePasswordGuide">Set Second space password</string>
   <string name="setSecondSpacePasswordGuideDes">Use this password to enter Second space from Lock screen</string>
   <string name="setSpacePasswordGuide">Use different passwords to enter both spaces from Lock screen</string>
-  <string name="setSuccess">Passwords set successfully</string>
+  <string name="setSuccess">"パスワードの設定が完了しました"</string>
   <string name="set_space_pwd_detail">You can enter Second space using the password</string>
   <string name="set_space_pwd_suc">Added Second space password</string>
   <string name="setting_finger_print_sub_title">Make sure the fingerprint is different from the one in First space</string>
@@ -200,7 +200,7 @@ to enter Second space from Lock screen"</string>
   <string name="switch_data_app">Move items to Second space</string>
   <string name="switch_data_settings">Move data</string>
   <string name="switch_failed">"Couldn't move"</string>
-  <string name="switch_file_success">Files moved successfully</string>
+  <string name="switch_file_success">"ファイルの移動が完了しました"</string>
   <string name="switch_in_contacts">Import contacts</string>
   <string name="switch_in_files">Import files</string>
   <string name="switch_in_hidden_space">Import to Second space</string>
@@ -211,7 +211,7 @@ to enter Second space from Lock screen"</string>
   <string name="switch_out_hidden_space">Export data from Second space</string>
   <string name="switch_out_photos">Export photos</string>
   <string name="switch_out_privacy_contacts">Export private contacts</string>
-  <string name="switch_success">Moved successfully</string>
+  <string name="switch_success">"移動が完了しました"</string>
   <string name="switch_to_first_space">Go to First space</string>
   <string name="switch_to_second_space">Go to Second space</string>
   <string name="switching">"移動中…"</string>

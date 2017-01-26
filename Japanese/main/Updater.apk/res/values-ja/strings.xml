@@ -99,7 +99,7 @@
   <string name="install_qq">"Get Tencent's Weibo app"</string>
   <string name="internal_build">Internal</string>
   <string name="later">"後で"</string>
-  <string name="loading">Requesting…</string>
+  <string name="loading">"読み込み中…"</string>
   <string name="log_share">"共有"</string>
   <string name="menu_more_button">"メニュー"</string>
   <string name="menu_title_apply_for_alpha">"ベータテストプログラムに登録する"</string>
@@ -254,8 +254,7 @@ But you can take part next Monday."</string>
   <string name="updater_wait_for_unzip">Unpacking update…</string>
   <string name="upgrade_close">"閉じる"</string>
   <string name="upgrade_kernel">System kernel is outdated</string>
-  <string name="upgrade_kernel_msg">"The kernel of the version you're using doesn't match the latest version of MIUI's. You need upgrade your kernel manually. Refer to Xiaomi's upgrade tutorial: 
-"</string>
+  <string name="upgrade_kernel_msg">"The kernel of the version you're using doesn't match the latest version of MIUI's. You need upgrade your kernel manually. Refer to Xiaomi's upgrade tutorial: "</string>
   <string name="user_begin">"ダウンロード"</string>
   <string name="user_intertup_download_msg">Downloads have been paused. You can resume them any time in the Updater app.</string>
   <string name="user_intertup_download_title">Download paused</string>

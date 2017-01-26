@@ -15,7 +15,7 @@
   <string name="dont_bore">"Don't let buttons and notifications distract you"</string>
   <string name="empty">" "</string>
   <string name="game_booster">Game speed boost</string>
-  <string name="game_booster_intro">About Gaming speed boost</string>
+  <string name="game_booster_intro">"Gaming speed boostについて"</string>
   <string name="game_booster_total">Boosted speed %1$s times, added %2$s of gaming time</string>
   <string name="game_more_improve">Restrict background activities and download speed to save battery and bandwidth for gaming</string>
   <string name="game_setting">Game settings</string>
@@ -70,11 +70,11 @@
   <string name="scan_installed_games">Checking installed games…</string>
   <string name="setting">"設定"</string>
   <string name="share">"共有"</string>
-  <string name="shield_keyboard_detail">Double tap the buttons to turn them back on</string>
-  <string name="shield_keyboard_title">Turn off buttons</string>
-  <string name="start">Start</string>
-  <string name="start_game">Start</string>
-  <string name="support_game_booster_tips">Launch games using Game speed booster</string>
+  <string name="shield_keyboard_detail">"ボタンをダブルタップすることで有効に戻します"</string>
+  <string name="shield_keyboard_title">"ボタンを無効にする"</string>
+  <string name="start">"起動"</string>
+  <string name="start_game">"起動"</string>
+  <string name="support_game_booster_tips">"Game speed boosterを使用してゲームを起動する"</string>
   <string name="title_share_link">"URLを共有"</string>
   <string name="top_game">Top games</string>
   <string name="uninstall_game_count">"Haven't added %d games"</string>

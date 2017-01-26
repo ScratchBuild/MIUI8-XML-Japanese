@@ -75,7 +75,6 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="remove_from_history">"検索履歴からこの項目を消去しますか？"</string>
   <string name="remove_from_history_failed">"検索履歴から項目を削除できませんでした。"</string>
   <string name="search_apps">"アプリを検索"</string>
-  <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
   <string name="search_button">"検索"</string>
   <string name="search_group_fold">"隠す"</string>
   <string name="search_group_unfold">"もっと"</string>
@@ -89,7 +88,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="search_sources_summary">"電話内の検索対象を選択してください"</string>
   <string name="search_suggestion">Tips</string>
   <string name="search_videos">"ビデオを検索"</string>
-  <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
+  <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
   <string name="search_widget">"検索"</string>
   <string name="send_secret_code">"コードを送信"</string>
   <string name="settings_description">Names of installed apps</string>
@@ -118,8 +117,6 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="update_version_dev">Beta</string>
   <string name="update_version_stable">Stable</string>
   <string name="updated_title">"MIUIは最新の状態です"</string>
-  <string name="voice_search_hint_quotation_end">\"</string>
-  <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"話してみてください:"</string>
   <string name="web_search_results">Baidu</string>
   <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
