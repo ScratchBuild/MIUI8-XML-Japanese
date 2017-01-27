@@ -612,7 +612,7 @@
   <string name="vp_function">Settings</string>
   <string name="vp_hide_media_info">Hide video info</string>
   <string name="vp_high_definition">HD</string>
-  <string name="vp_hint">Attention</string>
+  <string name="vp_hint">"注意"</string>
   <string name="vp_install">"インストール"</string>
   <string name="vp_install_title">"インストール"</string>
   <string name="vp_loading">&lt;CDATA&gt;Downloading&lt;/CDATA&gt;</string>

@@ -449,12 +449,12 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
   <string name="success_upgraded_space">%s added</string>
   <string name="sync_dspt">同期</string>
-  <string name="sync_dspt_entrance_provision">"Sync your photos, contacts, call history, and messages across all your devices. Access the things you sync from any browser at %s. "</string>
+  <string name="sync_dspt_entrance_provision">"写真、連絡先、通話履歴やメッセージを複数の端末間で同期します。任意のブラウザで %s にアクセスすることで同期するものを確認できます。"</string>
   <string name="sync_dspt_entrance_provision_2">詳細</string>
   <string name="sync_dspt_entrance_provision_confirm_close">使用しない</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's built-in apps need Mi Cloud to back up your photos, contacts, notes, and more. Mi Cloud is free and ready to use out of the box."</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUIの内蔵アプリは、Mi Cloudが写真、連絡先、ノートなどをバックアップするために必要です。Mi Cloudは無料ですぐに使用できます。"</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloudを使用</string>
-  <string name="sync_dspt_entrance_provision_confirm_title">"Don't use Mi Cloud?"</string>
+  <string name="sync_dspt_entrance_provision_confirm_title">"Mi Cloud使用しない？"</string>
   <string name="sync_dspt_entrance_provision_skip">Skip this step</string>
   <string name="sync_dspt_provision">"Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>

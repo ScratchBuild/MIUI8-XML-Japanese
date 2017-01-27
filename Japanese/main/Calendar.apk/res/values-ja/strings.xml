@@ -124,7 +124,7 @@
   <string name="edit_event_birthday_reminder_summary_3_days_before">Three days before, the day %1$s</string>
   <string name="edit_event_birthday_reminder_time">Reminder time</string>
   <string name="edit_event_calendar_label">"カレンダー"</string>
-  <string name="edit_event_choose_date">choose date</string>
+  <string name="edit_event_choose_date">"日付を選択"</string>
   <string name="edit_event_confirm_message">"変更を破棄しますか？"</string>
   <string name="edit_event_from_label">"開始"</string>
   <string name="edit_event_input_year">Input year</string>
@@ -178,9 +178,9 @@
   <string name="fortune_card_working">事业学业运势：</string>
   <string name="fortune_card_zhengchong">正冲：</string>
   <string name="fortune_gender">"性別"</string>
-  <string name="fortune_label">每日运势</string>
-  <string name="fortune_name">称呼</string>
-  <string name="fortune_name_hint">请输入</string>
+  <string name="fortune_label">"今日の運勢"</string>
+  <string name="fortune_name">"名前"</string>
+  <string name="fortune_name_hint">"入力してください"</string>
   <string name="fortune_no_name">请填写称呼</string>
   <string name="free_day_default_banner_title">"良い休暇をお楽しみください！"</string>
   <string name="from_google_group_calendar">"Googleカレンダー"</string>
@@ -442,7 +442,7 @@
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">"二度と表示しない"</string>
   <string name="user_notice_message">"By using this product, you agree to Xiaomi's %1$s and %2$s. Some features require internet connection, access to location, contacts and SMS to work normally."</string>
-  <string name="user_notice_title">Attention</string>
+  <string name="user_notice_title">"注意"</string>
   <string name="user_notification">"通知"</string>
   <string name="user_notification_descrip">"カレンダーを開くたびに通知を毎回表示する"</string>
   <string name="view_event_calendar_label">"カレンダー:"</string>

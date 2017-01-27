@@ -2,7 +2,7 @@
 <resources>
   <string name="action_cancel">"キャンセル"</string>
   <string name="action_submit">"送信"</string>
-  <string name="announcement">Attention</string>
+  <string name="announcement">"注意"</string>
   <string name="app_empty">"You haven't downloaded any apps."</string>
   <string name="app_label">"フィードバック"</string>
   <string name="app_name">"フィードバック"</string>
@@ -251,7 +251,7 @@
   <string name="submit_dialog_title">"レポートを送信"</string>
   <string name="submit_feedback_info_failed">"レポートを送信できませんでした"</string>
   <string name="suggestion_description">"ここに説明を追加"</string>
-  <string name="system_app_select">Built-in apps</string>
+  <string name="system_app_select">"内蔵アプリ"</string>
   <string name="systemui">"通知シェード"</string>
   <string name="tab_title_chat">FAQ</string>
   <string name="tab_title_my_reports">My reports</string>

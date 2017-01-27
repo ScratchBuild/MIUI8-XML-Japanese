@@ -174,7 +174,6 @@
   <string name="by_email">"メール"</string>
   <string name="by_others">"その他"</string>
   <string name="by_sms">"SMS"</string>
-  <string name="byteShort">B</string>
   <string name="camera_360_description">Powered by Camera360</string>
   <string name="camera_needs_auto_backup_tip">Camera album must be backed up</string>
   <string name="cancel">"キャンセル"</string>
@@ -376,7 +375,6 @@ Take more photos of your friends!"</string>
   <string name="gallery_sync_disable_toast">"ギャラリーの同期はオフです"</string>
   <string name="get_album_info_in_process">"共有済みアルバムの情報を取得中…"</string>
   <string name="gif_tip">GIF</string>
-  <string name="gigabyteShort">GB</string>
   <string name="has_invalid_recipient">Invalid recipients: %1$s</string>
   <string name="have_known">OK</string>
   <string name="hidden_album_display_name">Hidden album</string>
@@ -423,7 +421,6 @@ Take more photos of your friends!"</string>
   <string name="kick_sharer">Remove shared viewer</string>
   <string name="kick_sharer_failed">"Couldn't remove this person"</string>
   <string name="kick_sharer_successfully">This person was removed</string>
-  <string name="kilobyteShort">KB</string>
   <string name="limit_height">Height should be > 0</string>
   <string name="limit_width">Width should be > 0</string>
   <string name="loading_dual_tip">Loading dual photo…</string>
@@ -444,7 +441,6 @@ Take more photos of your friends!"</string>
   <string name="main_discard_negative_btn">"破棄"</string>
   <string name="main_discard_positive_btn">"保存と終了"</string>
   <string name="main_save_error_msg">"エラーのため変更を保存できませんでした"</string>
-  <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">New album</string>
   <string name="menu_item_sort_date">"日付"</string>
   <string name="menu_item_sort_name">"名前"</string>
@@ -521,7 +517,6 @@ Take more photos of your friends!"</string>
   <string name="people_page_label">People</string>
   <string name="people_page_unname">Unnamed</string>
   <string name="pet_album_display_name">Pet photos</string>
-  <string name="petabyteShort">PB</string>
   <string name="photo">"写真"</string>
   <string name="photo_edit_file_not_exits_tip">"編集する前に写真をダウンロード"</string>
   <string name="photo_editor_label">"編集"</string>
@@ -702,7 +697,6 @@ Take more photos of your friends!"</string>
   <string name="syncing_metadata_title">Syncing Mi Cloud data</string>
   <string name="syncing_normal_title">Backing up photos and videos</string>
   <string name="system_album">System album</string>
-  <string name="terabyteShort">TB</string>
   <string name="tip_capture_location">Location:</string>
   <string name="tip_capture_params">EXIF data:</string>
   <string name="tip_capture_time">Taken on:</string>

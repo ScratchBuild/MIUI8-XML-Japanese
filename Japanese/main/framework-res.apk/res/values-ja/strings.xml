@@ -116,7 +116,6 @@
   <string name="bugreport_message">現在の端末の状態に関する情報が収集され、その内容がメールで送信されます。バグレポートが開始してから送信可能な状態となるまでには多少の時間がかかりますのでご了承ください。</string>
   <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">バグレポートを取得</string>
-  <string name="byteShort">B</string>
   <string name="cancel">キャンセル</string>
   <string name="candidates_style"><u>候補</u></string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">スクリプトをインストールしてアプリコンテンツにアクセスしやすくできます。</string>
@@ -306,7 +305,6 @@
   <string name="forward_intent_to_owner">仕事用プロファイルの外部でこのアプリを使用しています</string>
   <string name="forward_intent_to_work">仕事用プロファイルでこのアプリを使用しています</string>
   <string name="gadget_host_error_inflating">ウィジェットを追加できませんでした。</string>
-  <string name="gigabyteShort">GB</string>
   <string name="global_action_assist">サポート</string>
   <string name="global_action_bug_report">バグレポート</string>
   <string name="global_action_lock">画面ロック</string>
@@ -479,7 +477,6 @@
   <string name="kg_wrong_password">パスワードが正しくありません</string>
   <string name="kg_wrong_pattern">パターンが正しくありません</string>
   <string name="kg_wrong_pin">PINが正しくありません</string>
-  <string name="kilobyteShort">KB</string>
   <string name="last_month">先月</string>
   <string name="launchBrowserDefault">ブラウザを起動しますか？</string>
   <string name="launch_warning_original">%1$sが最初に起動していました。</string>
@@ -618,7 +615,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="mediasize_na_tabloid">タブロイド</string>
   <string name="mediasize_unknown_landscape">横向き不明</string>
   <string name="mediasize_unknown_portrait">縦向き不明</string>
-  <string name="megabyteShort">MB</string>
   <string name="meid">MEID</string>
   <string name="menu_delete_shortcut_label">Del</string>
   <string name="menu_enter_shortcut_label">Enter</string>
@@ -904,7 +900,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="permlab_writeSyncSettings">同期のON/OFFの切り替え</string>
   <string name="perms_description_app">%1$sで提供されます。</string>
   <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NEW: &lt;/font&gt;</string>
-  <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">アシスタント</string>
   <string name="phoneTypeCallback">コールバック</string>
   <string name="phoneTypeCar">クルマ</string>

@@ -40,7 +40,6 @@
   <string name="callrecordview_item_op_time_short_outgoing">"発信: "</string>
   <string name="check_network">ネットワーク設定</string>
   <string name="choose_upload">アップロードするファイルを選択</string>
-  <string name="colon">": "</string>
   <string name="confirm_delete_all_call_log_title">通話履歴を削除しますか？</string>
   <string name="confirm_delete_call_log_title">通話履歴を削除しますか？</string>
   <string name="confirm_to_add_blacklist">この番号をブロックしますか？</string>
@@ -103,7 +102,6 @@
   <string name="express_detailed_address">Address</string>
   <string name="express_field_empty">Empty</string>
   <string name="express_go_back">戻る</string>
-  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">宅配便サービス</string>
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_and_send">Tracking and sending</string>
@@ -228,11 +226,10 @@
   <string name="group_name_shop_info">Information</string>
   <string name="group_name_shop_recommendation">Nearby</string>
   <string name="group_name_title"/>
-  <string name="hms_no_subject_view">(No subject)</string>
+  <string name="hms_no_subject_view">(件名なし)</string>
   <string name="hms_notification">Messages</string>
   <string name="homepage_barcode_prompt">Scan to open home page</string>
-  <string name="info_divider">|</string>
-  <string name="locating_fail">"Couldn't find your location"</string>
+  <string name="locating_fail">現在地を取得できません</string>
   <string name="login_before_use">初めにログインする必要があります</string>
   <string name="login_ok">ログイン</string>
   <string name="mark_number_check_choose_others">"その他を選択"</string>
@@ -277,7 +274,7 @@
   <string name="miuishare_account_need_login">Your Weibo account should be paired with your Mi Account to share. Sign in to your Mi Account first.</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">ネットワークに接続できませんでした</string>
-  <string name="miuishare_publish">Send</string>
+  <string name="miuishare_publish">送信</string>
   <string name="miuishare_share_done">送信が完了しました</string>
   <string name="miuishare_share_editor_title">Share</string>
   <string name="miuishare_title_more">More</string>
@@ -296,7 +293,6 @@
   <string name="nearby_average_price">Average %d RMB</string>
   <string name="nearby_no_yellow_page">No results nearby</string>
   <string name="nearby_yellow_page_title">Nearby</string>
-  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">ネットワークアクセスが拒否されました</string>
   <string name="network_unavaliable">ネットワークに接続できません</string>
   <string name="no_brief">No summary</string>
@@ -312,7 +308,6 @@
   <string name="order_id_label">Order #: %1$s</string>
   <string name="order_info">Order info</string>
   <string name="order_merchant_title">My orders</string>
-  <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">No orders</string>
   <string name="order_price_label">Order price: %1$s</string>
   <string name="order_product_name_label">Product name: %1$s</string>
@@ -334,7 +329,6 @@
   <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
   <string name="phone_event_setting_notice_text">"By using this feature you're agreeing to our %1$s and %2$s."</string>
   <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">画面を引っ張って</string>
   <string name="pull_to_refresh_refreshing_label">読み込み中…</string>
@@ -362,7 +356,6 @@
   <string name="recharge_payment_result_ok_title">Added RMB %s</string>
   <string name="recharge_payment_result_progress_summary">Checking payment result…</string>
   <string name="recharge_phone">Target phone number:</string>
-  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">"電話番号は空にできません"</string>
   <string name="recharge_phone_number_error">"入力した電話番号は無効です"</string>
   <string name="recharge_select_money_title">Select top-up amount</string>
@@ -390,9 +383,8 @@ Total: RMB %3$s"</string>
   <string name="sending_shortcut">送信中…</string>
   <string name="service_unavailiable">サービスは利用できません</string>
   <string name="share">共有</string>
-  <string name="shop_recommendation_format">%1$s: %2$s</string>
-  <string name="sim1">Sim 1</string>
-  <string name="sim2">Sim 2</string>
+  <string name="sim1">SIM 1</string>
+  <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">"送信に失敗しました"</string>
   <string name="sina_share_fail_content_repeat">"共有できませんでした、コンテンツが既に存在します…"</string>
   <string name="sina_share_pendding">"送信中…"</string>
@@ -400,8 +392,6 @@ Total: RMB %3$s"</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
   <string name="smart_antispam">Caller ID</string>
-  <string name="tag_follow_status">tag_follow_status</string>
-  <string name="tag_follow_yp_id">tag_follow_yp_id</string>
   <string name="title_activity_di_di_web">DiDi</string>
   <string name="toast_finish_delete_call_log">通話履歴を削除しました</string>
   <string name="toast_text_copied">テキストをコピーしました</string>
@@ -424,7 +414,7 @@ Total: RMB %3$s"</string>
   <string name="user_agreement4">プライバシーポリシー</string>
   <string name="user_notice_identify_summary_format">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By using this service, you agree to our %1$s and %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By using this service, you agree to our %1$s and %2$s."</string>
-  <string name="user_notice_title">Attention</string>
+  <string name="user_notice_title">注意</string>
   <string name="user_notice_yp_detail_summary_format">Some of your Caller ID info is outdated. Do you want to update it? By using this service, you agree to our %1$s and %2$s.</string>
   <string name="user_notice_yp_detail_summary_format_cta">Some of your Caller ID info is outdated. Do you want to update it? By using this service, you agree to our %1$s and %2$s.</string>
   <string name="view_orders">View orders</string>

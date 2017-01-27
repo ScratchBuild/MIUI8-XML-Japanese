@@ -52,7 +52,6 @@
   <string name="bind_phone_success_tip">"電話番号が正常に追加されました"</string>
   <string name="bind_success_tip">"正常に追加されました"</string>
   <string name="black_list">"You're blocked. Submit your feedback on the MIUI Forum to learn why."</string>
-  <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"一度に複数のアイテムを送信できません"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_error">"削除できませんでした、もう一度お試しください"</string>
@@ -89,7 +88,7 @@
   <string name="claim_remind_dialog_cancel">View other videos</string>
   <string name="claim_remind_dialog_confirm">Stay</string>
   <string name="claim_remind_dialog_message">"You won't be able to claim this video if you return"</string>
-  <string name="claim_remind_dialog_title">Attention</string>
+  <string name="claim_remind_dialog_title">"注意"</string>
   <string name="claim_video">Claim</string>
   <string name="claim_video_already_claimed">This video has been claimed, be faster next time!</string>
   <string name="claim_video_already_locked">Claimed</string>
@@ -231,7 +230,6 @@
   <string name="gender_choose_tip">"性別を選択してください"</string>
   <string name="get_user_info_err">"Couldn't get info about this person"</string>
   <string name="get_verification_code_fail">"Couldn't get verification code"</string>
-  <string name="gigabyteShort">GB</string>
   <string name="group_title">%2$s from %1$s</string>
   <string name="group_title_extra_backup">Backups</string>
   <string name="group_title_extra_expire">About to expire</string>
@@ -258,7 +256,6 @@
   <string name="interest_recommend">"おすすめの動画"</string>
   <string name="is_playing">"再生中…"</string>
   <string name="just_now">"ちょうど今"</string>
-  <string name="kilobyteShort">KB</string>
   <string name="kuaipan_label">Kuaipan</string>
   <string name="like_toast_1">Such videos will be recommended to you more often.</string>
   <string name="like_toast_2">View the videos you liked in your profile.</string>
@@ -285,7 +282,6 @@
   <string name="make_private_msg_2">Hide these files?</string>
   <string name="make_private_msg_3">All files in this folder will be hidden.</string>
   <string name="male">"男性"</string>
-  <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Clean up</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Mi Drop</string>
@@ -424,7 +420,6 @@
   <string name="path_hot_video">View popular short videos for free</string>
   <string name="path_kuai_chuan">Peer-to-peer file transfers</string>
   <string name="path_recent_file">Manage files on your device</string>
-  <string name="petabyteShort">PB</string>
   <string name="phone">"内部ストレージ"</string>
   <string name="phone_bind_skip">"スキップ"</string>
   <string name="phone_bind_tip">Add phone number to participate in rankings and win awards</string>
@@ -615,10 +610,9 @@
   <string name="tab_newest_video">New</string>
   <string name="tab_ranking_list">Ranking list</string>
   <string name="tab_source">Apps</string>
-  <string name="terabyteShort">TB</string>
-  <string name="tip">Attention</string>
-  <string name="title_album">Albums</string>
-  <string name="title_app_tags">Apps</string>
+  <string name="tip">"注意"</string>
+  <string name="title_album">"アルバム"</string>
+  <string name="title_app_tags">"アプリ"</string>
   <string name="title_enable_documentsui">Turn on DocumentsUI</string>
   <string name="title_expire_video">About to expire</string>
   <string name="title_recent">Recent</string>

@@ -8,7 +8,7 @@
   <string name="antispam_notification_title">"不明な番号"</string>
   <string name="antispam_provider">Identified by %s</string>
   <string name="areacode_set_default">"デフォルトとして設定"</string>
-  <string name="callFailed_cb_enabled">"You can't make outgoing calls while call barring is on."</string>
+  <string name="callFailed_cb_enabled">"通話制限がオンのため、電話をかけることができません。"</string>
   <string name="callFailed_congestion">"ネットワークがビジー"</string>
   <string name="callFailed_dialToDial">Dial request modified to dial with different number.</string>
   <string name="callFailed_dialToSs">Dial request modified to SS request.</string>
@@ -18,7 +18,7 @@
   <string name="callFailed_dsac_restricted_normal">Normal calls are restricted by access control.</string>
   <string name="callFailed_fdn_only">Outgoing calls are restricted by FDN.</string>
   <string name="callFailed_incoming_cb_enabled">Incoming calls are being barred.</string>
-  <string name="callFailed_invalid_credentials">Incorrect username or password</string>
+  <string name="callFailed_invalid_credentials">"ユーザー名またはパスワードが正しくありません"</string>
   <string name="callFailed_limitExceeded">ACM limit exceeded</string>
   <string name="callFailed_noSignal">No signal</string>
   <string name="callFailed_number_unreachable">Number unreachable</string>
@@ -161,7 +161,7 @@
   <string name="no_balance_message">Insufficient funds on your Top-up package balance. You can still make a regular call for which youll be charged by the carrier.</string>
   <string name="no_balance_title">Insufficient funds</string>
   <string name="no_call_back_message">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
-  <string name="no_call_back_title">Attention</string>
+  <string name="no_call_back_title">"注意"</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail numbers stored on SIM card.</string>
   <string name="non_ivr_menu_collapse_menu">"メニューをたたむ"</string>

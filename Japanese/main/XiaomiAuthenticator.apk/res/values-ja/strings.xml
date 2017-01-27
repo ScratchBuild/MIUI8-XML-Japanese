@@ -16,7 +16,7 @@
   <string name="authenticator_page_reactivation">Reactivate</string>
   <string name="button_add_account">"アカウントを追加"</string>
   <string name="button_add_account_manual_entry">"手動でアカウントを追加"</string>
-  <string name="button_add_account_scan_barcode">Scan barcode</string>
+  <string name="button_add_account_scan_barcode">"バーコードをスキャン"</string>
   <string name="button_back">"戻る"</string>
   <string name="button_exit_howitworks_flow">"終了"</string>
   <string name="button_how_it_works">See how it works</string>
@@ -31,13 +31,12 @@
   <string name="copy_to_clipboard">"クリップボードにコピー"</string>
   <string name="correct_enter_password">"入力したパスワードが正しくありません"</string>
   <string name="correct_enter_update_password">"入力したパスワードが正しくありません"</string>
-  <string name="counter_pin">Get code</string>
+  <string name="counter_pin">"コードを取得"</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Your data has been successfully imported from the deprecated Xiaomi Authenticator app. It is now safe to uninstall the prior version of the app by clicking below.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Import succeeded</string>
   <string name="decoding_exception">Decoding exception</string>
   <string name="details_patternforgotten">"Reactivate: 
 Sign in at account.xiaomi.com and click Reactivate."</string>
-  <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">"アカウント名を入力"</string>
   <string name="enter_key_hint">Enter your key</string>
   <string name="enter_key_illegal_char">Key value has illegal character</string>
@@ -47,7 +46,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="enter_pin">Enter this verification code if prompted during account sign-in:</string>
   <string name="error_empty_secret">Cannot save empty secret</string>
   <string name="error_exists">"申し訳ありませんが、その名前は既に使用されています。"</string>
-  <string name="error_qr">Cannot interpret QR code.</string>
+  <string name="error_qr">"QRコードを読み取れません。"</string>
   <string name="error_title">"エラー"</string>
   <string name="error_uri">Key not recognized.</string>
   <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
@@ -64,7 +63,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="install_dialog_message">To scan barcodes containing keys, you must install the ZXing barcode scanner.</string>
   <string name="install_dialog_title">"バーコードスキャナーをインストールしますか？"</string>
   <string name="jump_createpattern_tip">"アカウントを保護するためのパスワードを作成"</string>
-  <string name="jump_lockpattern_title">Attention</string>
+  <string name="jump_lockpattern_title">"注意"</string>
   <string name="jump_updatepattern_tip">"アカウントを保護するためのパスワードを作成"</string>
   <string name="lockpassword_choose_your_pattern_header">"パターンの選択"</string>
   <string name="lockpassword_confirm_your_pattern_header">"パターンの確認"</string>
@@ -98,14 +97,12 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="open_camera_exception_dialog_content">"システムカメラに問題がある場合、デバイスを再起動する必要があります。"</string>
-  <string name="open_camera_exception_dialog_title">camera malfunction</string>
-  <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
+  <string name="open_camera_exception_dialog_title">"カメラの誤動作"</string>
   <string name="opensource_preference_title">Open-source project</string>
   <string name="original_pattern_tip">"ロック解除パターンを入力"</string>
   <string name="password_error">"入力したパスワードが間違っています"</string>
   <string name="password_forget">Forget password?</string>
   <string name="password_hint">"Mi Accountのパスワードを入力"</string>
-  <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">"プライバシーポリシー"</string>
   <string name="progress_loading">"読み込み中…"</string>
   <string name="remove_Xiaomi_account_dialog_message">Removing this account will &lt;b&gt;remove your ability&lt;/b&gt; to generate codes, however, it will &lt;b&gt;not&lt;/b&gt; turn off 2-step verification. This may prevent you from signing into your account. &lt;p&gt; Before removing: &lt;ul&gt; &lt;li&gt;Turn off 2-step verification for this account, or&lt;/li&gt; &lt;li&gt;Ensure you have an alternate mechanism for generating codes.&lt;/li&gt; &lt;/ul&gt;</string>
@@ -130,11 +127,10 @@ Before removing:
   <string name="success_reset_password">"パスワードが正常にリセットされました"</string>
   <string name="success_set_password">"パスワードが作成されました"</string>
   <string name="summary_lockpattern">Require a unique pattern lock for MiCredit</string>
-  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">"利用規約"</string>
   <string name="timesync_about_feature_preference_title">"この機能について"</string>
   <string name="timesync_about_feature_screen_details">"If you press &amp;quot;Sync now&amp;quot;, Authenticator will attempt to sync its internal clock with Google servers once. The device's Date &amp; Time settings will not be changed. &lt;p&gt; Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. &lt;p&gt; If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. &lt;p&gt; By default Authenticator uses the device's Date &amp; Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
-  <string name="timesync_about_feature_screen_title">About this feature</string>
+  <string name="timesync_about_feature_screen_title">"この機能について"</string>
   <string name="timesync_preference_screen_summary">"Sync Authenticator's internal clock with servers"</string>
   <string name="timesync_preference_screen_title">Time correction for codes</string>
   <string name="timesync_sync_now_connectivity_error_dialog_details">"There was a problem contacting 's server. Please check your network settings and try again."</string>

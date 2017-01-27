@@ -260,7 +260,6 @@
   <string name="epg_program_share_drama">Come with me to see %3$s %1$s channel, broadcast time:.%2$s comments favorite stars, predict the development of the plot, in the millet universal remote control</string>
   <string name="epg_program_share_game">Watch with me: %3$s Channel: %1$s, At:%2$s.</string>
   <string name="epg_program_updated_to">Program set to: %1$d</string>
-  <string name="epg_reply_comment_prefix">\@</string>
   <string name="epg_search_box_hint">TV program or channel you want to search</string>
   <string name="epg_search_history">"検索履歴"</string>
   <string name="epg_search_hot_channel">Top channel searches</string>
@@ -294,7 +293,7 @@
   <string name="faq">FAQ</string>
   <string name="fav">Star</string>
   <string name="feedback">"フィードバック"</string>
-  <string name="feedback_error">Report bug</string>
+  <string name="feedback_error">"バグを報告"</string>
   <string name="feedback_error_success_tip">"送信が完了しました"</string>
   <string name="feedback_error_tips">Having problems using this remote, tap to report a problem</string>
   <string name="find_adb_frame">%1$d ADB devices detected</string>
@@ -1037,7 +1036,7 @@ To change, long press TV's power button"</string>
   <string name="virtual_keyhboard_intro">"Use your device's keyboard to type on display"</string>
   <string name="voice">Audio</string>
   <string name="voice_download_tips">Tap \"OK\" to download voice engine</string>
-  <string name="voice_download_title">Attention</string>
+  <string name="voice_download_title">"注意"</string>
   <string name="voice_engine_ifly_fail">"Couldn't recognize voice"</string>
   <string name="voice_record_start">Record voice</string>
   <string name="voice_resolving">Recognizing voice…</string>

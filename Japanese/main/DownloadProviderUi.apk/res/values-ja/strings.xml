@@ -162,7 +162,7 @@
   <string name="high_speed_tryout_percent_slow">Xunlei can keep boosting your speed</string>
   <string name="high_speed_tryout_speedup_confirm">Preparing to boost speed…</string>
   <string name="high_speed_tryout_time">Trial time left: %1$s. Become a Xunlei member.</string>
-  <string name="hint">Attention</string>
+  <string name="hint">"注意"</string>
   <string name="immediately_a_renewal">Renew now</string>
   <string name="info_flow_only_load_wifi">Only load content using Wi-Fi</string>
   <string name="info_flow_setting">"コンテンツの設定"</string>
@@ -349,7 +349,7 @@ across all your devices with Xunlei"</string>
   <string name="sniff_terms_msg_bold">"利用規約"</string>
   <string name="sniff_terms_msg_bold_new">"利用規約"</string>
   <string name="sniff_terms_reject">"同意しない"</string>
-  <string name="sniff_terms_title">Attention</string>
+  <string name="sniff_terms_title">"注意"</string>
   <string name="sniff_text_sniff_next_page">"続行 &gt;"</string>
   <string name="sniff_vip_tip_speedup">You can try speed boost once for free</string>
   <string name="sniff_vip_tip_vip">Xunlei can keep boosting your speed</string>
@@ -377,7 +377,7 @@ across all your devices with Xunlei"</string>
   <string name="third_web_savepath">Location</string>
   <string name="third_web_title">"ダウンロード"</string>
   <string name="title_homepage_infoflow">Recent updates</string>
-  <string name="title_tips">Attention</string>
+  <string name="title_tips">"注意"</string>
   <string name="title_unbind_xunlei">Remove your Xunlei Account</string>
   <string name="toast_only_wifi_download">Connect to Wi-Fi to download this item</string>
   <string name="toast_xunlei_engine_open">Turned Xunlei download accelerator on</string>

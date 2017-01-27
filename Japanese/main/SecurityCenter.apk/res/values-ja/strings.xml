@@ -34,7 +34,7 @@
   <string name="activity_title_memory">"メモリ"</string>
   <string name="activity_title_network_speed_detail">Connection</string>
   <string name="activity_title_networkassistants">Data usage</string>
-  <string name="activity_title_notification_bar_manager">Notifications</string>
+  <string name="activity_title_notification_bar_manager">"通知"</string>
   <string name="activity_title_other_permission_manager">"その他のパーミッション"</string>
   <string name="activity_title_perm_manager">"パーミッション"</string>
   <string name="activity_title_permission_manager">"パーミッション"</string>
@@ -82,7 +82,7 @@
   <string name="antivirus_monitor_risk_advice">"This app isn't secure, delete it"</string>
   <string name="antivirus_monitor_virus_advice">This app may contain a virus, delete it</string>
   <string name="antivirus_more_engine_dialog_summary">Using multiple sets of definitions to scan may take more time.</string>
-  <string name="antivirus_more_engine_dialog_title">Attention</string>
+  <string name="antivirus_more_engine_dialog_title">"注意"</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_none_engine_dialog_title">Choose definitions</string>
   <string name="antivirus_privacy_dialog_cloudscan">"アプリ名と詳細をアップロード"</string>
@@ -304,7 +304,6 @@
   <string name="button_text_view_power">"表示"</string>
   <string name="buy_immediately">Buy</string>
   <string name="buy_traffic_pack">Buy more data</string>
-  <string name="byteShort">B</string>
   <string name="cache_header_title">Clear %1$d cached files to free %2$s of space</string>
   <string name="call_and_contact">"通話と連絡先"</string>
   <string name="cancal_to_setting_fingerprint">"キャンセル"</string>
@@ -376,7 +375,7 @@
   <string name="cta_dialog_msg">Security requires internet connection to get updates, as well as access to location to work normally.</string>
   <string name="cta_dialog_title">"インターネット接続"</string>
   <string name="cta_settings">"インターネット接続を許可する"</string>
-  <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
+  <string name="current_network_state_not_need_diagnose">"インターネット接続は正常です。"</string>
   <string name="daily_limit_and_lock_screen">Data limit &amp; notifications</string>
   <string name="daily_limit_network_available_body">Tap to view data usage stats.</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
@@ -437,7 +436,7 @@
   <string name="dialog_roaming_apps_sorted_title">"並べ替え"</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">Overseas roaming</string>
-  <string name="dialog_title_attention">Attention</string>
+  <string name="dialog_title_attention">"注意"</string>
   <string name="dialog_title_auto_start_declare">"自動起動について"</string>
   <string name="dialog_title_stop_paysafety_scan">"停止"</string>
   <string name="dialog_title_stop_virus_scan">"ウイルススキャンを停止する"</string>
@@ -489,7 +488,7 @@
   <string name="firewall_network_restrict_notify_mobile">"モバイルデータ"</string>
   <string name="firewall_network_restrict_notify_title">"%1$s can't use %2$s"</string>
   <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
-  <string name="firewall_restrict_android_dialog_title">Attention</string>
+  <string name="firewall_restrict_android_dialog_title">"注意"</string>
   <string name="firewall_rule_group_title_mobile">Mobile</string>
   <string name="firewall_rule_group_title_roaming">Overseas roaming</string>
   <string name="firewall_rule_group_title_wifi">"Wi-Fi"</string>
@@ -508,7 +507,6 @@
   <string name="gateway_exception_summary">"ルーターを確認してもう一度お試しください。"</string>
   <string name="gateway_exception_summary2">"サーバーに接続できませんでした"</string>
   <string name="gateway_exception_title">Test router</string>
-  <string name="gigabyteShort">GB</string>
   <string name="go_to">"続行"</string>
   <string name="go_to_setting_fingerprint">"設定"</string>
   <string name="goto_set">Set</string>
@@ -606,7 +604,6 @@
   <string name="keywords_powercenter_powerrank">Battery use</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
   <string name="keywords_securitycenter_settings">ROOT;Battery usage;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Battery saver;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Telemarketer;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
-  <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_mi_stats">Mi analytics</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
@@ -661,7 +658,7 @@
   <string name="lockscreen_glogin_password_hint">"パスワード"</string>
   <string name="lockscreen_glogin_submit_button">"ログイン"</string>
   <string name="long_click_dialog_summary">Hold the results in the list to add them to exceptions</string>
-  <string name="long_click_dialog_title">Attention</string>
+  <string name="long_click_dialog_title">"注意"</string>
   <string name="main_activity_content_summary_root">Root access</string>
   <string name="main_activity_content_summary_update">System update</string>
   <string name="main_activity_content_title_scanning">"スキャン中…"</string>
@@ -710,7 +707,6 @@
   <string name="manual_item_white_list_summary">Prevent selected apps from being optimized</string>
   <string name="manual_item_white_list_title">Exceptions</string>
   <string name="manual_white_list_header">%d exceptions</string>
-  <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="memory_check_content">Freed %s</string>
   <string name="memory_check_content_none">Empty</string>
@@ -1058,7 +1054,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_summary_lock_screen_memory_clean">Clean automatically when device is locked</string>
   <string name="pref_summary_virus_white_list">Prevent selected apps from being cleaned up</string>
   <string name="pref_title_declaration">Important disclaimer</string>
-  <string name="pref_title_diagnostics_show_float_notification">Floating notifications</string>
+  <string name="pref_title_diagnostics_show_float_notification">"フローティング通知"</string>
   <string name="pref_title_lock_screen_memory_clean">Clean at lock screen</string>
   <string name="pref_title_manual_check_virus_db_update">Check for updates</string>
   <string name="pref_title_mobile_traffic">Show data usage while locked</string>
@@ -1244,7 +1240,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sorted_dialog_title">"並べ替え"</string>
   <string name="sp_back_title_text_zero">Secure</string>
   <string name="sp_background_risk_dialog_summary">, check and fix payment issues.</string>
-  <string name="sp_background_risk_dialog_title">Attention</string>
+  <string name="sp_background_risk_dialog_title">"注意"</string>
   <string name="sp_background_risk_type_messaging">System messaging app has been replaced</string>
   <string name="sp_background_risk_type_root">System has been rooted</string>
   <string name="sp_background_risk_type_sign">Unofficial app is running</string>

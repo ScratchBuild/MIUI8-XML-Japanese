@@ -60,11 +60,11 @@
   <string name="button_text_backup_uninstall">Back up first</string>
   <string name="button_text_cancel">"キャンセル"</string>
   <string name="button_text_cleanup">Clean up</string>
-  <string name="button_text_delete_from_white_list">Remove</string>
+  <string name="button_text_delete_from_white_list">"削除"</string>
   <string name="button_text_delete_pic">"削除"</string>
   <string name="button_text_deselect_all_photos">"すべて選択を解除"</string>
-  <string name="button_text_group_ignore">Ignore</string>
-  <string name="button_text_group_unlike">Not duplicates</string>
+  <string name="button_text_group_ignore">"無視する"</string>
+  <string name="button_text_group_unlike">"重複なし"</string>
   <string name="button_text_install">"インストール"</string>
   <string name="button_text_install_now">"インストール"</string>
   <string name="button_text_keep_one">"一つだけ残す"</string>
@@ -77,7 +77,7 @@
   <string name="button_text_select_all_photos">"すべて選択"</string>
   <string name="button_text_select_pic">"選択"</string>
   <string name="button_text_uninstall">"アンインストール"</string>
-  <string name="button_text_uninstall_only">Uninstall %s</string>
+  <string name="button_text_uninstall_only">"%sをアンインストール"</string>
   <string name="button_text_unselect_all">"選択を解除"</string>
   <string name="button_text_unselect_pic">"選択を解除"</string>
   <string name="button_text_view_detail">"詳細"</string>
@@ -85,7 +85,6 @@
   <string name="buy_a_new_phone">Get more storage space</string>
   <string name="buy_immediately">Buy</string>
   <string name="buy_traffic_pack">Buy more data</string>
-  <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">"空のフォルダ (%d)"</string>
   <string name="cache_title_empty_folder2">"空のフォルダ"</string>
   <string name="cache_title_system_cache">"システムキャッシュ"</string>
@@ -158,7 +157,7 @@
   <string name="dialog_msg_uninstall_apps">"これらのアプリをアンインストールしますか？"</string>
   <string name="dialog_msg_uninstall_apps_xspace">"デュアルアプリを含むこれらのアプリをアンインストールしますか？"</string>
   <string name="dialog_ok_add_white_list_error">OK</string>
-  <string name="dialog_title_add_white_list_error">Attention</string>
+  <string name="dialog_title_add_white_list_error">"注意"</string>
   <string name="dialog_title_backup_and_uninstall_apps">"バックアップとアンインストール"</string>
   <string name="dialog_title_check_all">"すべて選択"</string>
   <string name="dialog_title_delete_image">"選択した写真を削除"</string>
@@ -187,7 +186,6 @@
   <string name="garbage_clean_detail">"詳細"</string>
   <string name="garbage_cleanup_detail">%1$d times, cleaned %2$s</string>
   <string name="garbage_month">Cleaned %s this month</string>
-  <string name="gigabyteShort">GB</string>
   <string name="go_to">"続行"</string>
   <string name="goto_set">Set</string>
   <string name="grabage_rank_title">Cleaned today</string>
@@ -331,7 +329,6 @@
   <string name="junk_tag_junk_big_name_whatsapp_media_video">whatsapp视频文件</string>
   <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">GDC推送日志</string>
   <string name="just_now">"ちょうど今"</string>
-  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">None</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
@@ -349,7 +346,6 @@
   <string name="low_memory_warning_dialog_title">"十分な空き領域がありません"</string>
   <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Clean up</string>
-  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
   <string name="month_day_format">MMM dd</string>
   <string name="msg_cleanup_db_update_checking">"アップデートの確認中…"</string>
@@ -380,14 +376,13 @@
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
   <string name="output_videos">Export videos</string>
-  <string name="petabyteShort">PB</string>
   <string name="phone_search">"Google検索"</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Clean automatically</string>
   <string name="pref_category_title_auto_update_cleanup_db">"その他の設定"</string>
-  <string name="pref_category_title_cleanup_white_list">Exceptions</string>
+  <string name="pref_category_title_cleanup_white_list">"例外"</string>
   <string name="pref_category_title_engine_settings">Scan definition settings</string>
-  <string name="pref_category_title_garbage_cleanup_check">Notifications</string>
+  <string name="pref_category_title_garbage_cleanup_check">"通知"</string>
   <string name="pref_category_title_other_clean_settings">"その他の設定"</string>
   <string name="pref_content_cleanup_white_list_none">"なし"</string>
   <string name="pref_summary_auto_clean_and_alert">"クリーナーを自動的に実行するようスケジュールする"</string>
@@ -457,7 +452,6 @@
   <string name="summary_delete_video">"&gt;選択した動画を完全に削除しますか？"</string>
   <string name="summary_optimizer">"This feature uploads folder names to update Cheetah Mobile's online database and requires your device's ID."</string>
   <string name="sys_cache_on_sdcard_item_name">"キャッシュ"</string>
-  <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Upload folder names</string>
   <string name="there_is_no">Everything looks good, come back later</string>
   <string name="tips_of_app_manage">Delete rarely used apps to save storage</string>
@@ -522,7 +516,7 @@
   <string name="wechat_chat_data_type_normal">Trash</string>
   <string name="wechat_chat_data_type_normal_clean_tips">"These are technical files. Deleting them won't affect your usage."</string>
   <string name="wechat_chat_data_type_normal_desc">"Deleting them won't affect your usage."</string>
-  <string name="wechat_chat_data_type_other">Other</string>
+  <string name="wechat_chat_data_type_other">"その他"</string>
   <string name="wechat_chat_data_type_other_desc">Be careful, you might not be able to restore these files after you delete them.</string>
   <string name="wechat_chat_files">Chat history</string>
   <string name="wechat_clean">WeChat cleaner</string>

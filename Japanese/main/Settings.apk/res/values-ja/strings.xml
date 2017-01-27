@@ -1956,7 +1956,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="master_clear_all">内部ストレージからすべてのデータを消去しますか？この操作は元に戻すことはできません！</string>
   <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Factory data reset&amp;#8221; will erase all data on your phone&lt;/b&gt;, including photos, songs, notes, and other personal data. Make sure you back up all the important items to your computer.</string>
   <string name="master_clear_apply_step_2">Make sure all the important items are backed up to your computer. All the data on this device will be erased during the reset. &lt;b&gt;You wont be able to restore the items you havent backed up.&lt;/b&gt;</string>
-  <string name="master_clear_apply_title">Attention</string>
+  <string name="master_clear_apply_title">注意</string>
   <string name="master_clear_button_text">携帯端末をリセット</string>
   <string name="master_clear_confirm_title">リセットしますか？</string>
   <string name="master_clear_desc">この操作を行うと、携帯端末の以下のデータを含む<b>内部ストレージ</b>"の全データが消去されます:
