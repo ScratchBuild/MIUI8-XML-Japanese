@@ -3,7 +3,7 @@
   <string name="action_cancel">"キャンセル"</string>
   <string name="action_submit">"送信"</string>
   <string name="announcement">"注意"</string>
-  <string name="app_empty">"You haven't downloaded any apps."</string>
+  <string name="app_empty">"ダウンロードしたアプリはありません。"</string>
   <string name="app_label">"フィードバック"</string>
   <string name="app_name">"フィードバック"</string>
   <string name="btn_send">"送信"</string>

@@ -246,10 +246,10 @@
   <string name="mark_number_feedback_not_number">"It's not %s number"</string>
   <string name="mark_number_feedback_personal_number">"It's personal number"</string>
   <string name="mark_number_feedback_success">"フラグ情報の送信が完了しました"</string>
-  <string name="mark_number_marked_maintitle">Change flag info</string>
-  <string name="mark_number_marked_subtitle">%s (current flag)</string>
-  <string name="mark_number_remove">Remove flag info</string>
-  <string name="mark_title_null_hint">Enter flag info</string>
+  <string name="mark_number_marked_maintitle">フラグ情報を変更</string>
+  <string name="mark_number_marked_subtitle">%s (現在のフラグ)</string>
+  <string name="mark_number_remove">フラグ情報を削除</string>
+  <string name="mark_title_null_hint">フラグ情報を入力</string>
   <string name="menu_add_black_list">Add to blocklist</string>
   <string name="menu_add_to_favorite">Favorites</string>
   <string name="menu_call_ip_number">Dial IP call</string>

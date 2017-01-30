@@ -582,7 +582,7 @@
   <string name="msim_disable_sim_card_btn_text">OK</string>
   <string name="msim_disable_sim_card_summary_default_card">このカードは、現在ご利用中のデフォルトのSIMとして設定されています。このカードの使用を中止した場合、電話の発信やモバイルデータ接続の使用が出来なくなります。他のSIMカードをデフォルトのカードとして設定した後で、このSIMカードの使用を中止出来ます。</string>
   <string name="msim_disable_sim_card_summary_non_default_card">電話の発信やモバイルデータ接続の使用が出来ません。SIMカード%sの使用を中止しますか？</string>
-  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Don't restrict your secondary SIM in emergency callback mode."</string>
+  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"緊急通報待機モードでセカンダリSIMを制限しないでください。"</string>
   <string name="msim_disable_sim_card_title">SIMカードの使用を中止</string>
   <string name="msim_enable_sim">"オンにする"</string>
   <string name="msim_general_setting">"設定"</string>
@@ -872,7 +872,7 @@
   <string name="preferred_network_type_title">"優先ネットワークタイプ"</string>
   <string name="private_num">非通知</string>
   <string name="progress_dialog_exiting_ecm">緊急通報待機モードを終了中</string>
-  <string name="propmpt_dialog_do_not_ask">Dont show again</string>
+  <string name="propmpt_dialog_do_not_ask">二度と表示しない</string>
   <string name="propmpt_dialog_network_failed_title">Call timeout</string>
   <string name="propmpt_dialog_no_call_back_content">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
   <string name="propmpt_dialog_not_activate_sim_content">Verify your phone number to start using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
@@ -1073,7 +1073,7 @@
   <string name="t9_indexing_rebuilding_message">T9インデックスを再構築中...</string>
   <string name="technology_news_disable">テクノロジーニュースは無効になっています</string>
   <string name="technology_news_enable">テクノロジーニュースは有効になっています</string>
-  <string name="telephony_setting">Phone</string>
+  <string name="telephony_setting">電話</string>
   <string name="telocation_auto_country_code">国コードを追加</string>
   <string name="telocation_auto_country_code_summary">連絡先にダイヤルする前に自動的に国コードを追加</string>
   <string name="telocation_call_assistant">アシスタントを無効化</string>

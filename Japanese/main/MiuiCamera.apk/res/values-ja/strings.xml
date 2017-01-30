@@ -55,12 +55,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="face_analyze_info_female">"女性"</string>
   <string name="face_analyze_info_male">"男性"</string>
   <string name="face_beauty_advanced">Pro</string>
-  <string name="face_beauty_age_alias_0_7">0-7</string>
-  <string name="face_beauty_age_alias_18_30">18-30</string>
-  <string name="face_beauty_age_alias_31_44">31-44</string>
-  <string name="face_beauty_age_alias_45_60">45-60</string>
-  <string name="face_beauty_age_alias_60_m">60+</string>
-  <string name="face_beauty_age_alias_8_17">8-17</string>
   <string name="face_beauty_age_alias_female_0_7">Female 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Female 18-30</string>
   <string name="face_beauty_age_alias_female_31_44">Female 31-44</string>
@@ -79,12 +73,10 @@ The object shouldn't be further than 2 meters."</string>
   <string name="face_beauty_intelligent_level_2">Medium</string>
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="face_beauty_smart">Smart</string>
-  <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="message_snap_double_confirm">Long pressing the volume button triggers NFC now. Replace this feature?</string>
   <string name="no_storage">"カメラを使用する前にSDカードを挿入して下さい"</string>
   <string name="not_enough_space">"SDカードがいっぱいです"</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>
-  <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Align the arrow with the reference line</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Keep going…</string>
   <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
@@ -167,7 +159,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_histogram_entry_disable">Turn off</string>
   <string name="pref_camera_histogram_entry_enable">Turn on</string>
   <string name="pref_camera_iso_entry_auto">Auto</string>
-  <string name="pref_camera_iso_title">Select ISO</string>
+  <string name="pref_camera_iso_title">"ISOを選択"</string>
   <string name="pref_camera_jpegquality_entry_high">High</string>
   <string name="pref_camera_jpegquality_entry_low">Low</string>
   <string name="pref_camera_jpegquality_entry_normal">Standard</string>
@@ -256,7 +248,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Incandescent</string>
   <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Measure</string>
-  <string name="pref_camera_whitebalance_title">White balance</string>
+  <string name="pref_camera_whitebalance_title">"ホワイトバランス"</string>
   <string name="pref_camera_zsl_entry_off">Off</string>
   <string name="pref_camera_zsl_entry_on">On</string>
   <string name="pref_capture_settings">"カメラ"</string>
@@ -349,7 +341,6 @@ The object shouldn't be further than 2 meters."</string>
   <string name="ubi_focus_capture_fail">"写真を撮影できません"</string>
   <string name="ubifocus_capture_warning_message">"最良の結果を得るためには、(レンズから1メートル未満で)遠近両方の被写体を写真に収める必要があります"</string>
   <string name="video_camera_label">Camcorder</string>
-  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">"サイズ制限に達しました。"</string>
   <string name="wait">"読み込み中…"</string>
 </resources>
