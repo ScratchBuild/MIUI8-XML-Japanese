@@ -35,8 +35,8 @@ Battery saver will treat important apps selectively."</string>
   <string name="empty_title_apps_container_list">"アプリなし"</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
   <string name="foreground_change">"アプリはフォアグラウンドで実行されています"</string>
-  <string name="fragment_nonesys_listempty">No installed apps</string>
-  <string name="fragment_tab_title_nonsys">Installed apps</string>
+  <string name="fragment_nonesys_listempty">"インストール済みアプリなし"</string>
+  <string name="fragment_tab_title_nonsys">"インストール済みアプリ"</string>
   <string name="fragment_tab_title_sys">"システムアプリ"</string>
   <string name="full_screen_enter">Enter full screen</string>
   <string name="full_screen_exit">Exit full screen</string>

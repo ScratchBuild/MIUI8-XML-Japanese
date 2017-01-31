@@ -67,7 +67,7 @@
   <string name="category_favorite">Favorites</string>
   <string name="category_file">Files</string>
   <string name="category_files">Files</string>
-  <string name="category_installed_app">Installed apps</string>
+  <string name="category_installed_app">"インストール済みアプリ"</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_music">Music</string>
   <string name="category_other">Other</string>
@@ -173,7 +173,7 @@
   <string name="downloading">"ダウンロード中"</string>
   <string name="editor_commend">"編集"</string>
   <string name="empty_comment">"コメントは空白にできません"</string>
-  <string name="enable_documentsui">Turn on %s in Settings > Installed apps first</string>
+  <string name="enable_documentsui">"初めに [設定] &gt; [インストール済みアプリ] から %s を有効にしてください"</string>
   <string name="enable_sd_card">"SDカードを挿入するか、USBマスストレージを無効にしてください。"</string>
   <string name="enable_usb">Connect USB device</string>
   <string name="encrypt_error">"Couldn't hide files, try again"</string>
@@ -231,9 +231,9 @@
   <string name="get_user_info_err">"Couldn't get info about this person"</string>
   <string name="get_verification_code_fail">"Couldn't get verification code"</string>
   <string name="group_title">%2$s from %1$s</string>
-  <string name="group_title_extra_backup">Backups</string>
-  <string name="group_title_extra_expire">About to expire</string>
-  <string name="group_title_extra_new">New</string>
+  <string name="group_title_extra_backup">"バックアップ"</string>
+  <string name="group_title_extra_expire">"期限切れについて"</string>
+  <string name="group_title_extra_new">"新規"</string>
   <string name="handsome_boy">"男性"</string>
   <string name="has_installed">"インストール済み"</string>
   <string name="homepage_tab_category">"カテゴリー"</string>
@@ -312,7 +312,7 @@
   <string name="mobile_network_dialog_tip">"Use your mobile data connection to view this page? You'll receive regular mobile data charges from your carrier."</string>
   <string name="mobile_network_dialog_title">Mobile data warning</string>
   <string name="month_day_format">MMM dd</string>
-  <string name="move_failed">"Can't cut"</string>
+  <string name="move_failed">"切り取りできません"</string>
   <string name="move_icon_to_desktop_hint">"Explorerで効率的にファイルを管理するためのショートカットをホーム画面に作成します。"</string>
   <string name="move_icon_to_desktop_success">"ホーム画面にショートカットを追加しました。"</string>
   <string name="move_to">"移動先を指定…"</string>
@@ -350,9 +350,9 @@
   <string name="notification_content_hint">"表示するにはタップ"</string>
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Automatically notify and organize when files are added or changed in %1$s.</string>
-  <string name="notification_dialog_title">Notifications</string>
+  <string name="notification_dialog_title">"通知"</string>
   <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
-  <string name="notification_setting">Notifications</string>
+  <string name="notification_setting">"通知設定"</string>
   <string name="notification_title">Show notification when %1$s creates a file</string>
   <string name="notification_wechat_auto_backup_hint">"タップで詳細を表示。"</string>
   <string name="notification_wechat_auto_backup_switch_title">Back up chat videos</string>
@@ -479,10 +479,10 @@
   <string name="rename_alert">"ファイルの拡張子を変更した場合、それを開くことができない場合があります。"</string>
   <string name="rename_alert2">The file will be hidden.</string>
   <string name="rename_failed">"%1$sの名前を変更することはできません"</string>
-  <string name="repair_done">Restored</string>
-  <string name="repair_error">"Couldn't restore"</string>
+  <string name="repair_done">"復元済み"</string>
+  <string name="repair_error">"復元できませんでした"</string>
   <string name="repair_file">Restore encrypted files</string>
-  <string name="reply_success">Comment added</string>
+  <string name="reply_success">"コメントを追加しました"</string>
   <string name="report_abuse">Abuse</string>
   <string name="report_advertisement">Advertisement</string>
   <string name="report_other">Other</string>
@@ -546,7 +546,7 @@
   <string name="set_pattern_msg">Set your password again. Privacy protection password also works for photos and messages.</string>
   <string name="setting">"設定"</string>
   <string name="setting_account_bind">"アカウントを追加"</string>
-  <string name="setting_message_notify">Notifications</string>
+  <string name="setting_message_notify">"通知"</string>
   <string name="setting_shortcut">"ホーム画面にショートカットを追加"/string>
   <string name="share_from_youliao">（From#有料# @有料Video）丨</string>
   <string name="share_rank_card_tip">"共有ランキング"</string>

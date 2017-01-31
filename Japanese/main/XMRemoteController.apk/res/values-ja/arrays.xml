@@ -60,21 +60,21 @@
     <string-array name="epg_program_genre">
         <item></item>
         <item></item>
-        <item>综艺</item>
+        <item>バラエティ</item>
         <item></item>
-        <item>体育</item>
-        <item>少儿</item>
-        <item>新闻</item>
+        <item>スポーツ</item>
+        <item>キッズ</item>
+        <item>ニュース</item>
         <item>生活</item>
     </string-array>
     <string-array name="epg_program_tab">
-        <item>热门</item>
-        <item>电影</item>
-        <item>综艺</item>
-        <item>电视剧</item>
-        <item>体育</item>
-        <item>少儿</item>
-        <item>新闻</item>
+        <item>人気</item>
+        <item>映画</item>
+        <item>バラエティ</item>
+        <item>TVシリーズ</item>
+        <item>スポーツ</item>
+        <item>キッズ</item>
+        <item>ニュース</item>
         <item>生活</item>
     </string-array>
     <string-array name="epg_program_tab_actionbar">

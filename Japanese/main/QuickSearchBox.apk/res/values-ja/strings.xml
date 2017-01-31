@@ -58,13 +58,13 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="permission_prompt_started_info">"You've allowed global search"</string>
   <string name="permission_prompt_title">Want more?</string>
   <string name="recent_apps">"最近使ったアプリ"</string>
-  <string name="recent_apps_filter">"Hide the apps you don't use"</string>
-  <string name="recent_close_content">"Turn this feature off now?
-You can change this in Settings &gt; Installed apps &gt; Search"</string>
-  <string name="recent_close_title">Turn off feature</string>
-  <string name="recent_delete_content">"Hide these apps now?
-You can change this in Settings &gt; Installed apps &gt; Search"</string>
-  <string name="recent_delete_negative">Cancel</string>
+  <string name="recent_apps_filter">"使用していないアプリを隠す"</string>
+  <string name="recent_close_content">"この機能を今すぐ無効にしますか？
+これは [設定] &gt; [インストール済みアプリ] &gt; [検索] から変更できます"</string>
+  <string name="recent_close_title">"機能を無効にする"</string>
+  <string name="recent_delete_content">"これらのアプリを今すぐ非表示にしますか？
+これは [設定] &gt; [インストール済みアプリ] &gt; [検索] から変更できます"</string>
+  <string name="recent_delete_negative">"キャンセル"</string>
   <string name="recent_delete_positive">OK</string>
   <string name="recent_delete_title">Hide apps</string>
   <string name="recent_edit">"編集"</string>
@@ -82,7 +82,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="search_in_app_store">"Mi App Storeを検索"</string>
   <string name="search_in_web">"ウェブを検索"</string>
   <string name="search_keyword_quicksearchbox">"検索"</string>
-  <string name="search_path_quicksearchbox">Settings/Installed apps/Search</string>
+  <string name="search_path_quicksearchbox">"設定/インストール済みアプリ/検索"</string>
   <string name="search_settings">"検索設定"</string>
   <string name="search_sources">"検索可能なアイテム"</string>
   <string name="search_sources_summary">"電話内の検索対象を選択してください"</string>
@@ -91,7 +91,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
   <string name="search_widget">"検索"</string>
   <string name="send_secret_code">"コードを送信"</string>
-  <string name="settings_description">Names of installed apps</string>
+  <string name="settings_description">"インストール済みアプリの名前"</string>
   <string name="show_more">"もっと表示"</string>
   <string name="suggest_open_app_failed">"このアプリを開けませんでした"</string>
   <string name="swipe_up_summary">"グローバル検索を開くには上にスワイプ"</string>

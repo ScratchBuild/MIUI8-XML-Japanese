@@ -220,7 +220,7 @@
   <string name="hints_installed_app_fewer">Rarely used</string>
   <string name="hints_installed_app_near">Used recently</string>
   <string name="hints_installed_app_never">Never used</string>
-  <string name="hints_installed_apps_header_left">Installed apps: %d</string>
+  <string name="hints_installed_apps_header_left">"インストール済みアプリ: %d"</string>
   <string name="hints_large_file_header_left">Big files: %d</string>
   <string name="hints_latest_garbage_cleanup_date">Last clean: %d days ago</string>
   <string name="hints_latest_garbage_cleanup_never">Never cleaned</string>

@@ -1418,7 +1418,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="text_day"/>
   <string name="text_lock_info">Draw unlock pattern</string>
   <string name="there_is_no">Everything looks good, come back later</string>
-  <string name="third_application">Installed apps</string>
+  <string name="third_application">"インストール済みアプリ"</string>
   <string name="three_percent_total_pkg">%s (3%% of monthly data)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>

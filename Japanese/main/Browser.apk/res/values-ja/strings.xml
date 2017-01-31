@@ -684,7 +684,7 @@ Pages you view won't appear in history."</string>
   <string name="search_hint">キーワードまたはURLを入力</string>
   <string name="search_keyword_browser">"ブラウザ"</string>
   <string name="search_label">"ブラウザ"</string>
-  <string name="search_path_browser">"設定/Installed apps/ブラウザ"</string>
+  <string name="search_path_browser">"設定/インストール済みアプリ/ブラウザ"</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">"ブックマークとウェブ履歴"</string>
   <string name="search_shipin">Video</string>

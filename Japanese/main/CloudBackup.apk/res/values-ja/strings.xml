@@ -34,7 +34,7 @@
   <string name="cloud_app_no_network">ネットワークに接続できません</string>
   <string name="cloud_app_other_devices">"他のデバイス"</string>
   <string name="cloud_app_restore_app_and_data">Set up your device</string>
-  <string name="cloud_app_restore_data">Personal data and previously installed apps will appear on your device automatically</string>
+  <string name="cloud_app_restore_data">個人データや以前インストールしたアプリはお使いのデバイス上に自動で表示されます</string>
   <string name="cloud_app_restore_error">復元できませんでした</string>
   <string name="cloud_app_restore_success">アプリを復元しました</string>
   <string name="cloud_app_restore_wifi_prompt">To restore from a Mi Cloud backup, you must connect to a WLAN network.</string>

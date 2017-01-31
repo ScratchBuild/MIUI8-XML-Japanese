@@ -7,7 +7,7 @@ Messages will only appear in Second space."</string>
   <string name="PrivacyContactDes2">"If you used private messages in First space,
 this feature will be added to Second space automatically."</string>
   <string name="add_finger_print">"指紋認証を追加"</string>
-  <string name="appData">Installed apps</string>
+  <string name="appData">"インストール済みアプリ"</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">"戻る"</string>
   <string name="cancelClosePassword">"Don't turn off"</string>
