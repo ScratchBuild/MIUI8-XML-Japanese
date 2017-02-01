@@ -132,7 +132,7 @@
   <string name="download_add_success">"ダウンロードキューに追加しました"</string>
   <string name="download_error">Offline error</string>
   <string name="download_fail">"失敗"</string>
-  <string name="download_file_fail">Local file access failed, maybe there is no space on SD card</string>
+  <string name="download_file_fail">"ローカルファイルへのアクセスに失敗しました、SDカードに十分な空き領域がありません"</string>
   <string name="download_finished">"完了"</string>
   <string name="download_geturl_fail">"URLを取得できませんでした"</string>
   <string name="download_insufficient_space">"空き領域不足"</string>
@@ -180,9 +180,9 @@
   <string name="gong_count_ji">%d Ep. total</string>
   <string name="gong_count_xiang">%d items</string>
   <string name="good">OK</string>
-  <string name="hint_apk_download">Install this application</string>
+  <string name="hint_apk_download">"このアプリケーションをインストール"</string>
   <string name="hint_apk_download_format">Install \"%1$s\" application</string>
-  <string name="hint_apk_install">Install this app</string>
+  <string name="hint_apk_install">"このアプリをインストール"</string>
   <string name="hint_apk_text_update">Install update (%1$s) now?</string>
   <string name="hint_apk_title_update">Update available (%1$s)</string>
   <string name="hometown">Hometown</string>
@@ -205,7 +205,7 @@
   <string name="loading_video_netplay_label">"読み込み中…"</string>
   <string name="loading_video_netplay_label_v5">"読み込み中…"</string>
   <string name="local_favorite_empty_title">Empty</string>
-  <string name="local_media_empty_sub_title">Download and watch videos offline</string>
+  <string name="local_media_empty_sub_title">"動画をダウンロードしてオフラインで視聴"</string>
   <string name="local_media_empty_title">No videos</string>
   <string name="local_video">Local Video</string>
   <string name="login_tip_content">Sign in with your Mi Account to sync and update shows that you are currently following.</string>
@@ -263,7 +263,7 @@
   <string name="offline_max_promote">Waiting for cache, there are at most 2 caching tasks can be running at the same time.</string>
   <string name="offline_media_empty_title">Empty</string>
   <string name="offline_no_avail_item_hint">No episodes available to download</string>
-  <string name="offline_no_selected_item_hint">Choose a video</string>
+  <string name="offline_no_selected_item_hint">"動画を選択"</string>
   <string name="offline_no_source">"オフラインモードでは表示できません"</string>
   <string name="offline_setting">Offline</string>
   <string name="offline_status_failed">"失敗"</string>

@@ -24,29 +24,29 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Only notify</item>
-        <item>Clear automatically</item>
-        <item>Clear and notify</item>
+        <item>通知のみ</item>
+        <item>自動的に消去</item>
+        <item>消去して通知</item>
     </string-array>
     <string-array name="cache_clean_menu">
-        <item>Clean up this file</item>
-        <item>"View file's location"</item>
+        <item>このファイルを消去</item>
+        <item>ファイルの場所を表示</item>
     </string-array>
     <string-array name="trash_clean_menu">
-        <item>Clean up this file</item>
-        <item>"View file's location"</item>
+        <item>このファイルを消去</item>
+        <item>ファイルの場所を表示</item>
     </string-array>
     <string-array name="video_clean_menu">
-        <item>Clean up this file</item>
+        <item>このファイルを消去</item>
         <item>開く</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
-        <item>Clean up</item>
+        <item>クリーンアップ</item>
     </string-array>
     <string-array name="apk_clean_menu">
-        <item>Clean up</item>
+        <item>クリーンアップ</item>
         <item>このアプリをインストール</item>
-        <item>View in folder</item>
+        <item>ファイルの場所を表示</item>
     </string-array>
     <string-array name="long_add_menu">
         <item>例外に追加</item>
@@ -67,13 +67,13 @@
         <item>Tencent</item>
     </string-array>
     <string-array name="wechat_menu_delete">
-        <item>Clear</item>
+        <item>消去</item>
     </string-array>
     <string-array name="wechat_menu_delete_whitelist">
-        <item>Clear</item>
+        <item>消去</item>
     </string-array>
     <string-array name="wechat_menu_delete_whitelist_view">
-        <item>Clear</item>
-        <item>View</item>
+        <item>消去</item>
+        <item>表示</item>
     </string-array>
 </resources>

@@ -9,7 +9,7 @@
   <string name="back_up_task_unfinished">"バックアップが完了していません"</string>
   <string name="backing_up_to_micloud">バックアップ中…</string>
   <string name="backup_fail">バックアップできませんでした</string>
-  <string name="backup_finished_notification_content">Backed up Home screen apps, system settings, etc.</string>
+  <string name="backup_finished_notification_content">ホーム画面のアプリ、システム設定およびその他をバックアップしました。</string>
   <string name="backup_now">今すぐバックアップ</string>
   <string name="backup_size">サイズ: %s</string>
   <string name="backup_size_summary">サイズ: %1$s</string>
@@ -22,8 +22,8 @@
   <string name="button_cancel">キャンセル</string>
   <string name="button_delete">削除</string>
   <string name="button_next">次へ</string>
-  <string name="can_not_backup_in_lite_mode">"Can't back up in Lite mode"</string>
-  <string name="can_not_restore_in_lite_mode">"Can't restore in Lite mode"</string>
+  <string name="can_not_backup_in_lite_mode">"Lite modeではバックアップできません"</string>
+  <string name="can_not_restore_in_lite_mode">"Lite modeでは復元できません"</string>
   <string name="cancel_recover_settings">&lt;u&gt;キャンセル&lt;/u&gt;</string>
   <string name="click_try_to_restore_again">"タップして再試行"</string>
   <string name="cloud_app_backup_success">"アプリのバックアップが完了しました"</string>
@@ -37,7 +37,7 @@
   <string name="cloud_app_restore_data">個人データや以前インストールしたアプリはお使いのデバイス上に自動で表示されます</string>
   <string name="cloud_app_restore_error">復元できませんでした</string>
   <string name="cloud_app_restore_success">アプリを復元しました</string>
-  <string name="cloud_app_restore_wifi_prompt">To restore from a Mi Cloud backup, you must connect to a WLAN network.</string>
+  <string name="cloud_app_restore_wifi_prompt">Mi Cloudのバックアップから復元するには、Wi-Fiネットワークに接続する必要があります。</string>
   <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
   <string name="cloud_back_up_detail_discription">"These items will be backed up to Mi Cloud when your device is connected to WLAN: 
 *\u0009\u0009\u0009\u0009Apps, Home screen layout, and wallpapers 
@@ -63,7 +63,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_backup_detail_manage_summary">%1$s backups, size:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Cloud backup</string>
   <string name="cloud_backup_detail_state_summary">Apps, Home screen and system settings</string>
-  <string name="cloud_backup_detail_time">Last backup: %1$s</string>
+  <string name="cloud_backup_detail_time">前回のバックアップ: %1$s</string>
   <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
   <string name="cloud_backup_select_recover">Mi Cloudからバックアップを選択</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
@@ -87,12 +87,12 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="download_settings_fail">ホーム画面の設定をダウンロードできませんでした</string>
   <string name="error_unknown">"不明なエラー"</string>
   <string name="latest_backup_time_loading">読み込み中…</string>
-  <string name="managespace_delete_backup">Delete backup</string>
+  <string name="managespace_delete_backup">バックアップを削除</string>
   <string name="managespace_total_space">Total space: %s</string>
   <string name="menu_item_managespace">Manage space</string>
   <string name="menu_item_sort">"並べ替え"</string>
-  <string name="menu_item_sort_name">Name</string>
-  <string name="menu_item_sort_size">Size</string>
+  <string name="menu_item_sort_name">名前順</string>
+  <string name="menu_item_sort_size">サイズ順</string>
   <string name="miui_device_name">Android</string>
   <string name="name_model">"%1$s's %2$s"</string>
   <string name="open_wifi">今すぐWi-Fiをオンにする</string>
@@ -111,7 +111,7 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="remove_task_unfinished">削除が完了していません</string>
   <string name="restore_data_summary">この機能にはインターネットへの接続が必要です。</string>
   <string name="restore_from_cloud">Mi Cloudのバックアップから復元</string>
-  <string name="restore_from_this_device">Restore using this backup</string>
+  <string name="restore_from_this_device">このバックアップを使用して復元</string>
   <string name="restore_home_screen_apps">Mi Cloudのバックアップから復元</string>
   <string name="restore_task_unfinished">"アプリを復元中、後ほど再試行してください"</string>
   <string name="restoreing_file_tile">Restoring %d files</string>

@@ -125,7 +125,7 @@
   <string name="apps_item_summary_system_update">Some bugs were fixed in the new version to make payments more secure.</string>
   <string name="apps_item_title_system">System update</string>
   <string name="apps_item_virus_cleanup_success">Cleared successfully</string>
-  <string name="apps_item_virus_cleanup_text">Clear</string>
+  <string name="apps_item_virus_cleanup_text">"消去"</string>
   <string name="apps_item_virus_summary_installed">Installed app</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Check messaging app</string>
@@ -253,7 +253,7 @@
   <string name="btn_start_diagnostic">"ネットワークをテスト"</string>
   <string name="btn_stop_diagnostic">"停止"</string>
   <string name="btn_text_already_opened">On</string>
-  <string name="btn_text_cleanup_all">Clean up</string>
+  <string name="btn_text_cleanup_all">"クリーンアップ"</string>
   <string name="btn_text_done">"完了"</string>
   <string name="btn_text_goto_power_rank">View battery ranking</string>
   <string name="btn_text_goto_setup">"設定を開く"</string>
@@ -265,7 +265,7 @@
   <string name="btn_text_power_cleanup">Deep clean</string>
   <string name="btn_text_power_consume_suggest_optimize">"最適化"</string>
   <string name="btn_text_quick_antivirus">"修復"</string>
-  <string name="btn_text_quick_cleanup">Clean up</string>
+  <string name="btn_text_quick_cleanup">"クリーンアップ"</string>
   <string name="btn_text_quick_optimize">"最適化"</string>
   <string name="btn_text_quick_save_power">Cool down</string>
   <string name="btn_text_quick_scan">"スキャン"</string>
@@ -278,8 +278,8 @@
   <string name="button_text_cancel">"キャンセル"</string>
   <string name="button_text_cancel_clean">"キャンセル"</string>
   <string name="button_text_cancel_optimize">"キャンセル"</string>
-  <string name="button_text_cleanup">Clean up</string>
-  <string name="button_text_clear">Clear</string>
+  <string name="button_text_cleanup">"クリーンアップ"</string>
+  <string name="button_text_clear">"消去"</string>
   <string name="button_text_create_shortcut">"ホーム画面にショートカットを作成"</string>
   <string name="button_text_delete_from_virus_white_list">"削除"</string>
   <string name="button_text_deny">"拒否"</string>
@@ -315,7 +315,7 @@
   <string name="card_main_datasave_action">"オンにする"</string>
   <string name="card_main_datasave_summary">Compress data to save up to 20%</string>
   <string name="card_main_datasave_title">Data saver</string>
-  <string name="card_main_deepclean_action">Clear</string>
+  <string name="card_main_deepclean_action">"消去"</string>
   <string name="card_main_deepclean_summary">Delete unnecessary files</string>
   <string name="card_main_deepclean_title">Deep clean</string>
   <string name="card_main_gamebooster_summary">Boost speed &amp; improve gaming experience</string>
@@ -332,13 +332,13 @@
   <string name="card_main_paysafe_action">"オンにする"</string>
   <string name="card_main_paysafe_summary">Scan payment environment for potential risks</string>
   <string name="card_main_paysafe_title">Payment security</string>
-  <string name="card_main_private_space_action">Create</string>
+  <string name="card_main_private_space_action">"作成"</string>
   <string name="card_main_private_space_summary">Using Second space is like having 2 devices</string>
   <string name="card_main_private_space_title">Second space</string>
   <string name="card_main_sectool_title">Tools</string>
   <string name="card_main_speeddetail_title">Connection speed</string>
   <string name="card_main_speeddetailt_summary">View connection speed for individual apps</string>
-  <string name="card_main_xspace_action">Create</string>
+  <string name="card_main_xspace_action">"作成"</string>
   <string name="card_main_xspace_summary">Create dual accounts for any app</string>
   <string name="card_main_xspace_title">Dual apps</string>
   <string name="charging_text_battery_full_time">"Last charge "</string>
@@ -347,7 +347,7 @@
   <string name="charging_text_time_calculating">Calculating charging time…</string>
   <string name="check_network_state">Test network</string>
   <string name="choose">"選択"</string>
-  <string name="clean_immediately">Clear</string>
+  <string name="clean_immediately">"消去"</string>
   <string name="cleaned">Cleared</string>
   <string name="clear_bigfiles">Delete big files, duplicate photos, and other useless items</string>
   <string name="clear_garbage">Clear trash to free up space</string>

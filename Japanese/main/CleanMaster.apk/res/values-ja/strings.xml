@@ -48,7 +48,7 @@
   <string name="browser_scan_history_desc">"ブラウザ履歴"</string>
   <string name="browser_search_history_desc">"検索アイテム"</string>
   <string name="btn_text_done">"完了"</string>
-  <string name="btn_text_quick_cleanup">Clean up</string>
+  <string name="btn_text_quick_cleanup">"クリーンアップ"</string>
   <string name="btn_text_quick_cleanup_apk">Delete selected APKs %1$s</string>
   <string name="btn_text_quick_cleanup_appdata">Delete selected data %1$s</string>
   <string name="btn_text_quick_cleanup_large_file">Delete selected files %1$s</string>
@@ -59,7 +59,7 @@
   <string name="button_text_add_to_white_list">Exception</string>
   <string name="button_text_backup_uninstall">Back up first</string>
   <string name="button_text_cancel">"キャンセル"</string>
-  <string name="button_text_cleanup">Clean up</string>
+  <string name="button_text_cleanup">"クリーンアップ"</string>
   <string name="button_text_delete_from_white_list">"削除"</string>
   <string name="button_text_delete_pic">"削除"</string>
   <string name="button_text_deselect_all_photos">"すべて選択を解除"</string>
@@ -97,7 +97,7 @@
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">None</string>
   <string name="clear_bigfiles">"大きいファイル、重複した写真、その他の古いアイテムを削除"</string>
-  <string name="clear_immediately">Clean now</string>
+  <string name="clear_immediately">"今すぐ消去"</string>
   <string name="clear_safe_notify">Security notification bar</string>
   <string name="clip_board_history_desc">"コピー/切り取りした内容"</string>
   <string name="clipboard">"クリップボード"</string>
@@ -130,7 +130,7 @@
   <string name="deepclean_list_item_from_music">Music</string>
   <string name="deepclean_list_item_from_sdcard">"SDカード"</string>
   <string name="deepclean_normal_item_desc1">Trash files</string>
-  <string name="deepclean_normal_item_desc2">"Cleaner's activity won't influence system performance"</string>
+  <string name="deepclean_normal_item_desc2">"クリーナーの動作はシステムのパフォーマンスに影響しません"</string>
   <string name="deepclean_normal_item_summary_empty">Everything looks good, nothing to clear</string>
   <string name="deepclean_normal_title">Clean automatically</string>
   <string name="deepclean_similar_ignore">Ignore</string>
@@ -226,17 +226,17 @@
   <string name="hints_latest_garbage_cleanup_never">Never cleaned</string>
   <string name="hints_latest_garbage_cleanup_today">Last clean: Today</string>
   <string name="hints_latest_garbage_cleanup_yesterday">Last clean: Yesterday</string>
-  <string name="hints_list_item_clean">Clean</string>
-  <string name="hints_list_item_keep">Keep</string>
-  <string name="hints_list_item_lock">Keep</string>
-  <string name="hints_list_item_unlock">Clean</string>
+  <string name="hints_list_item_clean">"消去"</string>
+  <string name="hints_list_item_keep">"保持"</string>
+  <string name="hints_list_item_lock">"保持"</string>
+  <string name="hints_list_item_unlock">"消去"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
   <string name="hints_memory_header_left">Memory</string>
   <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Privacy: %d</string>
   <string name="hints_quick_cleanning">Cleaning…</string>
   <string name="hints_quick_cleanuping">Optimizing…</string>
-  <string name="hints_quick_deep_clean">Clean now</string>
+  <string name="hints_quick_deep_clean">"今すぐ消去"</string>
   <string name="hints_quick_deep_scanning">"スキャン中"</string>
   <string name="hints_quick_deep_uninstall">"今すぐ削除"</string>
   <string name="hints_quick_prepare">"準備中…"</string>
@@ -331,7 +331,7 @@
   <string name="just_now">"ちょうど今"</string>
   <string name="label_image_list_none">None</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
-  <string name="last_check_canceled">Previous scan was canceled</string>
+  <string name="last_check_canceled">"前回のスキャンは取り消されました"</string>
   <string name="load_only_under_wlan">"Wi-Fi接続時にニュースを読み込む"</string>
   <string name="location_not_found">"ファイルが見つかりませんでした"</string>
   <string name="login_immediately">"ログイン"</string>
@@ -345,7 +345,7 @@
   <string name="low_memory_warning_dialog_ok_button">"消去"</string>
   <string name="low_memory_warning_dialog_title">"十分な空き領域がありません"</string>
   <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
-  <string name="mainbtn_text_quick_cleanup_default">Clean up</string>
+  <string name="mainbtn_text_quick_cleanup_default">"クリーンアップ"</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
   <string name="month_day_format">MMM dd</string>
   <string name="msg_cleanup_db_update_checking">"アップデートの確認中…"</string>
@@ -411,7 +411,7 @@
   <string name="privacy_app_desc_message">"アカウント、パスワード、およびメッセージ"</string>
   <string name="privacy_app_desc_search">"アカウント、パスワード、および検索履歴"</string>
   <string name="privacy_app_desc_setting">"アカウント、パスワード、および設定"</string>
-  <string name="privacy_appdata_chrome_history_des">Visited websites</string>
+  <string name="privacy_appdata_chrome_history_des">"サイトの訪問履歴"</string>
   <string name="privacy_browser_desc">Searched items</string>
   <string name="privacy_cache_desc">"アカウント、パスワード、履歴、設定その他"</string>
   <string name="privacy_cache_empty">"個人データなし"</string>
@@ -431,7 +431,7 @@
   <string name="safety_rank">Ahead of %d%% MIUI users in terms of safety</string>
   <string name="sc_allow_network_dialog_button">"許可"</string>
   <string name="sc_allow_network_dialog_message">"このアプリが更新を受信するためインターネットに接続することを許可しますか？"</string>
-  <string name="scanning">Scanning…</string>
+  <string name="scanning">"スキャン中…"</string>
   <string name="search_history">"検索履歴"</string>
   <string name="see_more">More</string>
   <string name="set_immediately">"設定"</string>
@@ -518,7 +518,7 @@
   <string name="wechat_chat_data_type_normal_desc">"Deleting them won't affect your usage."</string>
   <string name="wechat_chat_data_type_other">"その他"</string>
   <string name="wechat_chat_data_type_other_desc">Be careful, you might not be able to restore these files after you delete them.</string>
-  <string name="wechat_chat_files">Chat history</string>
+  <string name="wechat_chat_files">"チャット履歴"</string>
   <string name="wechat_clean">WeChat cleaner</string>
   <string name="wechat_clean_downloads">Received files</string>
   <string name="wechat_clean_downloads_desc">Files received on WeChat</string>
