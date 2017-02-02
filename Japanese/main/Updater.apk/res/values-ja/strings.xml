@@ -47,7 +47,7 @@
   <string name="check_update_policy">"設定"</string>
   <string name="check_update_when_wifi_available">Check using WLAN only</string>
   <string name="check_update_when_wifi_available_sum">"Only check for updates when you're connected to WLAN"</string>
-  <string name="clean_up_button">Clean up</string>
+  <string name="clean_up_button">"クリーンアップ"</string>
   <string name="comment_invalid">Rate this update (tap the stars)</string>
   <string name="comment_publish">"送信"</string>
   <string name="comment_sending">"送信中…"</string>

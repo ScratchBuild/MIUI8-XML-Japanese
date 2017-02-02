@@ -45,14 +45,14 @@
   <string name="err_type_system">"システム"</string>
   <string name="err_type_system_summary">"メモリ、パフォーマンス、その他。"</string>
   <string name="err_type_systemapp">"MIUIアプリ"</string>
-  <string name="err_type_translate">Language</string>
+  <string name="err_type_translate">"言語"</string>
   <string name="err_type_wifi">"Wi-Fi"</string>
   <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">"カスタマーサービス"</string>
   <string name="error_no_connection">"ネットワークに接続できませんでした"</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s issue \"%2$s\"</string>
-  <string name="feedback_choose_module">Select item</string>
-  <string name="feedback_choose_module_hint">Required</string>
+  <string name="feedback_choose_module">"アイテムを選択"</string>
+  <string name="feedback_choose_module_hint">"必須"</string>
   <string name="feedback_collect_log_failed">"ログを取得できませんでした"</string>
   <string name="feedback_continue">Continue with feedback</string>
   <string name="feedback_description">Description</string>
@@ -138,15 +138,15 @@
   <string name="michat_error_need_login_btn">"ログイン"</string>
   <string name="michat_error_need_login_text">"オンラインサポートを利用するにはログインしてください"</string>
   <string name="michat_failed_to_add_media">"Sorry, can't send %1$s"</string>
-  <string name="michat_failed_to_fetch_fql">"Couldn't get FAQ info, check network connection"</string>
-  <string name="michat_feedback_title_name">Feedback survey</string>
+  <string name="michat_failed_to_fetch_fql">"FAQ情報を取得できませんでした、ネットワーク接続を確認してください"</string>
+  <string name="michat_feedback_title_name">"フィードバックのアンケート"</string>
   <string name="michat_finish_text">"完了"</string>
   <string name="michat_in_artificial_customer_state">"Can't do this while being helped by a person"</string>
   <string name="michat_invalid_url">"無効なURL"</string>
   <string name="michat_invation_invite_fail">Sorry, our support workers are busy now. Try again later.</string>
   <string name="michat_invation_invite_full">Sorry, our support workers are all busy now. Try again later.</string>
   <string name="michat_kefu_welcome">"Xiaomiオンラインサポートへようこそ！"</string>
-  <string name="michat_lose_artificial">A network error occurred, you left the chat</string>
+  <string name="michat_lose_artificial">"ネットワークエラーが発生したため、チャットから退室しました"</string>
   <string name="michat_menu_copy_text">"コピー"</string>
   <string name="michat_message_copy_info">"クリップボードにコピーしました"</string>
   <string name="michat_message_error_network">"ネットワークに接続できませんでした"</string>
@@ -198,7 +198,7 @@
   <string name="module_security">"セキュリティとMi Cloud"</string>
   <string name="module_system">"システム"</string>
   <string name="module_tools">System tools</string>
-  <string name="modules">Select item</string>
+  <string name="modules">"アイテムを選択"</string>
   <string name="multi_graph_more">Total items: %d</string>
   <string name="network_err">"ネットワークに接続できません。"</string>
   <string name="network_errorbtntip_custom">"再試行"</string>
@@ -273,7 +273,7 @@
   <string name="toast_feedbackservice_in_submit">Handling previous feedback…</string>
   <string name="toast_fill_brackets">"いくつかの情報がレポートに不足しています"</string>
   <string name="toast_log_not_exists">"必要なログが削除されたか、存在しません"</string>
-  <string name="toast_module_required">Select item</string>
+  <string name="toast_module_required">"アイテムを選択してください"</string>
   <string name="toast_network_unavailable">"送信できませんでした。ネットワークに接続できません。"</string>
   <string name="toast_pending_log_collection">"ログを取得中…"</string>
   <string name="toast_pic_not_exists">"キャッシュされた画像が削除されました"</string>
@@ -286,6 +286,6 @@
   <string name="topic_author">1#</string>
   <string name="try_again">"再試行"</string>
   <string name="upload_log_failed">"ログを送信できませんでした"</string>
-  <string name="warning_field_empty">Enter %1$s</string>
-  <string name="warning_field_invalid">Select a valid %1$s</string>
+  <string name="warning_field_empty">"%1$sを入力してください"</string>
+  <string name="warning_field_invalid">"選択した%1$sは無効です"</string>
 </resources>

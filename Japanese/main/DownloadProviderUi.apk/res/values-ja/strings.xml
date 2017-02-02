@@ -299,7 +299,7 @@ across all your devices with Xunlei"</string>
   <string name="search_website">"ウェブサイト"</string>
   <string name="search_website_more">More</string>
   <string name="select_all">"すべて選択"</string>
-  <string name="select_operation_items">Choose items</string>
+  <string name="select_operation_items">"アイテムを選択"</string>
   <string name="select_sub_file_download">Choose a file to download</string>
   <string name="select_subfile_all">"すべて選択"</string>
   <string name="selected_count">Selected %1$d out of %2$d</string>

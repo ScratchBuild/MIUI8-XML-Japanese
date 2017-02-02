@@ -12,7 +12,7 @@
   <string name="auto_backup_all_user_apps">"すべてのアプリ"</string>
   <string name="auto_backup_choose">Back up items</string>
   <string name="auto_backup_choose_empty">"バックアップなし。"</string>
-  <string name="auto_backup_choose_title">Choose items to back up</string>
+  <string name="auto_backup_choose_title">"バックアップするアイテムを選択"</string>
   <string name="auto_backup_date">"日付"</string>
   <string name="auto_backup_only_wifi">"Wi-Fi接続されている時のみ"</string>
   <string name="auto_backup_open">Back up automatically</string>
@@ -24,7 +24,7 @@
   <string name="auto_backup_time">"時刻"</string>
   <string name="auto_backup_user_data">"アプリ"</string>
   <string name="backup">"バックアップ"</string>
-  <string name="backup_data">Choose items to back up</string>
+  <string name="backup_data">"バックアップするアイテムを選択"</string>
   <string name="backup_delete">"削除:"</string>
   <string name="backup_empty">"バックアップなし。"</string>
   <string name="backup_empty_info">" データ、設定、アプリをバックアップする"</string>
@@ -151,11 +151,11 @@
   <string name="note_title">"ノート"</string>
   <string name="nothing_searched">No results.</string>
   <string name="notif_backup_complete_title">"バックアップが完了しました"</string>
-  <string name="notif_backup_content">Backing up user data</string>
-  <string name="notif_backup_title">Back up data</string>
+  <string name="notif_backup_content">"ユーザーデータのバックアップ中"</string>
+  <string name="notif_backup_title">"データのバックアップ"</string>
   <string name="notif_restore_complete_title">"復元が完了しました"</string>
-  <string name="notif_restore_content">Restoring user data</string>
-  <string name="notif_restore_title">Restore data</string>
+  <string name="notif_restore_content">"ユーザーデータの復元中"</string>
+  <string name="notif_restore_title">"データの復元"</string>
   <string name="notif_trans_receiving_completed">"データの受信が完了しました"</string>
   <string name="notif_trans_receiving_failed">"データを受信できませんでした"</string>
   <string name="notif_trans_sending_completed">"データの送信が完了しました"</string>
@@ -171,11 +171,11 @@
   <string name="remote_receive">Receive</string>
   <string name="restore">"復元"</string>
   <string name="restore_backup">"復元"</string>
-  <string name="restore_contact">Restore contacts</string>
-  <string name="restore_contact_content">Restoring may create duplicate contacts.</string>
-  <string name="restore_contacts_hit">You may need to sign in again to view restored data.</string>
+  <string name="restore_contact">"連絡先を復元"</string>
+  <string name="restore_contact_content">"復元すると、重複した連絡先が作成される場合があります。"</string>
+  <string name="restore_contacts_hit">"復元されたデータを表示するには、再度ログインする必要があります。"</string>
   <string name="restore_counts">"復元:"</string>
-  <string name="restore_data">Choose items to restore</string>
+  <string name="restore_data">"復元するアイテムを選択"</string>
   <string name="restore_failed">"復元できませんでした"</string>
   <string name="restore_finished">"復元が完了しました"</string>
   <string name="restore_is_running">Restoring device</string>
@@ -201,7 +201,7 @@
   <string name="sdcard_unmounted">"SDカードを挿入してください"</string>
   <string name="see_backup_files_on_router">View backups on Mi Router %s</string>
   <string name="select_all">"すべて選択"</string>
-  <string name="select_backup_item">Choose items</string>
+  <string name="select_backup_item">"アイテムを選択"</string>
   <string name="select_storage_location">Choose backup location</string>
   <string name="service_stoped">"サービスが停止しました"</string>
   <string name="settings_summary">"通話とメッセージの設定"</string>
@@ -331,7 +331,6 @@ Waiting for the transfer…"</string>
   <string name="trans_waiting_ensurance">"Make sure the old device is on
 and Mi Mover is on"</string>
   <string name="trans_waiting_for_sender">Waiting for the old device to connect…</string>
-  <string name="unit_byte">B</string>
   <string name="unit_piece">" items"</string>
   <string name="unknown_hint">"不明"</string>
   <string name="user_notice_declaration_ignore">"次回から表示しない"</string>
@@ -339,11 +338,8 @@ and Mi Mover is on"</string>
   <string name="user_notice_title">"注意"</string>
   <string name="wifi_title">"Wi-Fi設定"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"ダウンロードを開始できませんでした。ダウンロードマネージャーが正常に動作することを確認してください。"</string>
   <string name="xiaomi_external_storage_unavailable">"ストレージが使用できません、SDカードを確認してください。"</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_update_dialog_message">"バージョン %1$s の紹介

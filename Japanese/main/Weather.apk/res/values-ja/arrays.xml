@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
-        <item>Beijing</item>
-        <item>Shanghai</item>
-        <item>Hong Kong</item>
-        <item>Taipei City</item>
-        <item>Jakarta</item>
-        <item>Delhi</item>
-        <item>Mumbai</item>
-        <item>Moscow</item>
-        <item>Hyderabad</item>
-        <item>Chennai</item>
-        <item>Istanbul</item>
-        <item>Rio de Janeiro</item>
-        <item>Singapore</item>
-        <item>Berlin</item>
-        <item>Rome</item>
-        <item>New York</item>
-        <item>Los Angeles</item>
-        <item>Chicago</item>
-        <item>Tokyo</item>
-        <item>Paris</item>
-        <item>Bangkok</item>
-        <item>Seoul</item>
-        <item>Kuala Lumpur</item>
+        <item>北京</item>
+        <item>上海</item>
+        <item>香港</item>
+        <item>台北</item>
+        <item>ジャカルタ</item>
+        <item>デリー</item>
+        <item>ムンバイ</item>
+        <item>モスクワ</item>
+        <item>ハイデラバード</item>
+        <item>チェンナイ</item>
+        <item>イスタンブール</item>
+        <item>リオデジャネイロ</item>
+        <item>シンガポール</item>
+        <item>ベルリン</item>
+        <item>ローマ</item>
+        <item>ニューヨーク</item>
+        <item>ロサンゼルス</item>
+        <item>シカゴ</item>
+        <item>東京</item>
+        <item>パリ</item>
+        <item>バンコク</item>
+        <item>ソウル</item>
+        <item>クアラルンプール</item>
     </string-array>
     <string-array name="aqi_detail_title">
         <item>Good</item>

@@ -90,16 +90,16 @@
   <string name="button_queue_for_wifi">"キュー"</string>
   <string name="button_sort_by_date">Sort by date</string>
   <string name="button_sort_by_size">Sort by size</string>
-  <string name="button_wait_for_wifi">Wait</string>
+  <string name="button_wait_for_wifi">"待機"</string>
   <string name="buy_other_flow">Regular data</string>
   <string name="buy_traffic">China Unicom</string>
   <string name="can_not_find_resource">"リソースが見つかりません"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_running_download">"キャンセル"</string>
   <string name="channel_list_fragment_title">Radio</string>
-  <string name="chinese_female">Female artists (China)</string>
-  <string name="chinese_group">Bands (China)</string>
-  <string name="chinese_male">Male artists (China)</string>
+  <string name="chinese_female">"女性アーティスト (中国)"</string>
+  <string name="chinese_group">"バンド (中国)"</string>
+  <string name="chinese_male">"男性アーティスト (中国)"</string>
   <string name="choose_download_quality">"ダウンロード品質を選択"</string>
   <string name="choose_stream_quality">"ストリーミング品質を選択"</string>
   <string name="click_modify">Tap to edit lyrics.</string>
@@ -285,9 +285,9 @@ is mainly provided by Ultimate Inc."</string>
   <string name="enable_auto_payment_success">Renew automatically</string>
   <string name="enable_auto_payment_success_message">Turned on automatic renewal. Next payment due on %s.</string>
   <string name="enabled">Enabled</string>
-  <string name="english_female">Female artists (US/Europe)</string>
-  <string name="english_group">Bands (US/Europe)</string>
-  <string name="english_male">Male artists (US/Europe)</string>
+  <string name="english_female">"女性アーティスト (米国/欧州)"</string>
+  <string name="english_group">"バンド (米国/欧州)"</string>
+  <string name="english_male">"男性アーティスト (米国/欧州)"</string>
   <string name="enter_garbage_clean">Clean up internal storage.</string>
   <string name="eq_auto">Custom</string>
   <string name="eq_blues">Blues</string>
@@ -315,7 +315,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="error_unauthorized">"ログインの回数が多すぎるため、同期がオフになっています。"</string>
   <string name="expired">Expired</string>
   <string name="expires">Expires this month:</string>
-  <string name="fail_to_play">"Can't play song"</string>
+  <string name="fail_to_play">"曲を再生できません"</string>
   <string name="favorite_canceled">Removed from favorites</string>
   <string name="favorite_playlist">Favorites</string>
   <string name="favorite_singer">Favorite artists</string>
@@ -323,7 +323,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="favorite_tracks">Favorites</string>
   <string name="favourite_music_left_half">To add songs to this playlist, tap the</string>
   <string name="favourite_music_right_half">"Favorite icon to the right of the song's title"</string>
-  <string name="female_artist">Female artists</string>
+  <string name="female_artist">"女性アーティスト"</string>
   <string name="file_not_found">"ファイルが存在しません"</string>
   <string name="filter_by_duration">By length</string>
   <string name="filter_by_duration_format">"%2$d分%5$2d秒"</string>
@@ -409,9 +409,9 @@ is mainly provided by Ultimate Inc."</string>
   <string name="is_scanning">"ストレージの確認中…"</string>
   <string name="is_scanning_support_online">"ストレージの確認中…
 (その間、オンラインで音楽をストリーミングできます)"</string>
-  <string name="japan_korea_female">Female artists (Japan/Korea)</string>
-  <string name="japan_korea_group">Bands (Japan/Korea)</string>
-  <string name="japan_korea_male">Male artists (Japan/Korea)</string>
+  <string name="japan_korea_female">"女性アーティスト (日本/韓国)"</string>
+  <string name="japan_korea_group">"バンド (日本/韓国)"</string>
+  <string name="japan_korea_male">"男性アーティスト (日本/韓国)"</string>
   <string name="keep_queued_download">Keep</string>
   <string name="ktv_playlist">KTV playlist</string>
   <string name="latest_song">"再生履歴 (%d)"</string>
@@ -440,7 +440,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="lyric_is_empty">"利用できる歌詞がありません"</string>
   <string name="lyric_open_other_connect">"モバイルデータを使用して歌詞をダウンロード"</string>
   <string name="lyric_setting">"歌詞設定"</string>
-  <string name="male_artist">Male artists</string>
+  <string name="male_artist">"男性アーティスト"</string>
   <string name="manager_cloud_space">"Mi Cloudのストレージを管理する"</string>
   <string name="max_sleep_time">90</string>
   <string name="media_filter">"メディア"</string>
@@ -486,7 +486,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="mobile_recommended_title">Mobile data usage</string>
   <string name="modify_lyric">"歌詞を編集"</string>
-  <string name="modify_progress">Change lyrics scroll speed</string>
+  <string name="modify_progress">"歌詞のスクロール速度を変更する"</string>
   <string name="modify_progress_helper">Swipe up or down to adjust lyrics progress.</string>
   <string name="modify_song_info">"曲情報を編集"</string>
   <string name="monthly_price">Mi Credits</string>
@@ -535,7 +535,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="no_downloads">No downloads</string>
   <string name="no_enough_info">Not enough song info</string>
   <string name="no_favorites_songs">Empty</string>
-  <string name="no_file_picker_find">"File Explorer isn't installed on this device"</string>
+  <string name="no_file_picker_find">"File Explorerがお使いの端末にインストールされていません"</string>
   <string name="no_introduction">No summary.</string>
   <string name="no_local_songs">Empty</string>
   <string name="no_local_songs_selected">"Can't send songs because they haven't been downloaded"</string>
@@ -678,7 +678,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="retry_download">"再試行"</string>
   <string name="ringtone_not_support">"This song's format is not supported"</string>
   <string name="root_downloads">"ダウンロード"</string>
-  <string name="save_to_playlist">Save as playlist</string>
+  <string name="save_to_playlist">"プレイリストとして保存"</string>
   <string name="search_album">"アルバムを検索"</string>
   <string name="search_empty">No result. Please try other words</string>
   <string name="search_for_album">"アルバム"</string>
@@ -701,7 +701,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="select_local_lyric">"歌詞を選択"</string>
   <string name="select_lyric">"歌詞を選択"</string>
   <string name="select_none">"すべて選択を解除"</string>
-  <string name="select_operation_items">Choose items</string>
+  <string name="select_operation_items">"アイテムを選択"</string>
   <string name="selected_count">Selected %1$d out of %2$d</string>
   <string name="send_to">"共有"</string>
   <string name="send_to_title">Send to (%1$s)</string>
@@ -759,9 +759,9 @@ is mainly provided by Ultimate Inc."</string>
   <string name="song_not_find">"This song isn't available."</string>
   <string name="song_offline">Sorry, this song is no longer available.</string>
   <string name="song_unit">items</string>
-  <string name="sort_by_language">Language</string>
-  <string name="sort_by_name">Name</string>
-  <string name="sort_by_time">Date</string>
+  <string name="sort_by_language">"言語"</string>
+  <string name="sort_by_name">"名前"</string>
+  <string name="sort_by_time">"日付"</string>
   <string name="source_from">Source: %1$s</string>
   <string name="start_download_music">Downloading updates for Music.</string>
   <string name="start_to_download">"ダウンロード中…"</string>

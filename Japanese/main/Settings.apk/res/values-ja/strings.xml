@@ -2249,7 +2249,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_update_found">MIUIのバージョンは最新版です</string>
   <string name="no_updates_found">MIUIのバージョンは最新版です</string>
   <string name="no_updates_warning">お使いのシステムは最新です</string>
-  <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
+  <string name="no_updates_warning2">"リラックスして、更新情報があればお知らせします :)"</string>
   <string name="noise_suppression">周辺ノイズの低減</string>
   <string name="normal_smartcover_title">不透明なフロントカバー</string>
   <string name="not_installed">未インストール</string>
@@ -2345,7 +2345,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_3">ギャラリー</string>
   <string name="page_layout_30">Jai Mani</string>
   <string name="page_layout_31">Jack Tang</string>
-  <string name="page_layout_32">Play Store</string>
+  <string name="page_layout_32">Playストア</string>
   <string name="page_layout_33">Google</string>
   <string name="page_layout_4">音楽</string>
   <string name="page_layout_5">動画</string>
@@ -2923,7 +2923,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_brightness">明るさ;Screen brightness;Display brightness</string>
   <string name="search_button_light_timeout">ボタンライトの点灯を維持する;Button lights</string>
   <string name="search_calendar_sound_title">カレンダー音;calendar ringtone;calendar</string>
-  <string name="search_captioning_locale">Language</string>
+  <string name="search_captioning_locale">言語</string>
   <string name="search_change_password">Change screen lock;Screen lock;Edit screen lock;edit screenlock;screenlock</string>
   <string name="search_children_mode_title">キッズモード;Child;Parental controls</string>
   <string name="search_choose_timezone">タイムゾーンを選択;Time zone;Time zones</string>

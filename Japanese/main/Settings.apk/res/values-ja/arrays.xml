@@ -354,18 +354,6 @@
         <item>青地に黄色</item>
         <item>カスタム</item>
     </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>64K/ログバッファ</item>
         <item>256K/ログバッファ</item>
@@ -683,12 +671,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="phone_call_noise_suppression_title">
         <item>Single mic noise suppression</item>
         <item>Dual mic noise suppression</item>
-    </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Face unlock</item>
