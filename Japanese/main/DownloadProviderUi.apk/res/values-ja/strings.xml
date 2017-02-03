@@ -38,7 +38,7 @@
   <string name="confirm_delete_the_download_item_message">"これらのダウンロードを削除しますか？"</string>
   <string name="continue_download">"続行"</string>
   <string name="copy">"コピー"</string>
-  <string name="copy_info">Copied to clipboard. You can share it with friends!</string>
+  <string name="copy_info">"クリップボードにコピーしました。友だちに共有できます！"</string>
   <string name="creat_task_success">"ダウンロードキューに追加されました"</string>
   <string name="create_task">"タスクを作成"</string>
   <string name="delete">"削除"</string>
@@ -164,9 +164,9 @@
   <string name="high_speed_tryout_time">Trial time left: %1$s. Become a Xunlei member.</string>
   <string name="hint">"注意"</string>
   <string name="immediately_a_renewal">Renew now</string>
-  <string name="info_flow_only_load_wifi">Only load content using Wi-Fi</string>
+  <string name="info_flow_only_load_wifi">"Wi-Fi使用時のみコンテンツを読み込む"</string>
   <string name="info_flow_setting">"コンテンツの設定"</string>
-  <string name="info_flow_show">Show recommended content</string>
+  <string name="info_flow_show">"おすすめのコンテンツを表示する"</string>
   <string name="input_valid_address">Enter a file path</string>
   <string name="install">"インストール"</string>
   <string name="install_failed">"%1$sをインストールできませんでした"</string>
@@ -314,12 +314,12 @@ across all your devices with Xunlei"</string>
   <string name="sniff_bt_text">Torrent file</string>
   <string name="sniff_btn_text">Source</string>
   <string name="sniff_cannot_use">"Can't use global search, tap the link to download"</string>
-  <string name="sniff_connect_error_page_tips">"Couldn't open URL"</string>
-  <string name="sniff_connect_error_refresh">Reload</string>
+  <string name="sniff_connect_error_page_tips">"URLを開けませんでした"</string>
+  <string name="sniff_connect_error_refresh">"更新"</string>
   <string name="sniff_copyright_text">"Can't display results due to copyright issues"</string>
   <string name="sniff_download_task_already_exist">This download already exists</string>
   <string name="sniff_download_task_create_success">Download added</string>
-  <string name="sniff_finding_resource_prompt">Searching web…</string>
+  <string name="sniff_finding_resource_prompt">"ウェブを検索中…"</string>
   <string name="sniff_hot_text">Related</string>
   <string name="sniff_no_network_tip">"ネットワーク接続を確認して、もう一度やり直してください"</string>
   <string name="sniff_no_result_text">No results found</string>

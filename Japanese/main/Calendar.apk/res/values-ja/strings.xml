@@ -213,7 +213,7 @@
   <string name="joke_card_click_toast">"ジョークをコピーするには長押し"</string>
   <string name="joke_card_icon_text">%1$s 人笑过</string>
   <string name="joke_card_long_click_toast">已复制，长按输入框即可粘贴</string>
-  <string name="joke_card_paste_suffix">【来自小米日历】</string>
+  <string name="joke_card_paste_suffix">"【Xiaomiカレンダーから】"</string>
   <string name="jump_date_full">"日付を移動"</string>
   <string name="limit">限行</string>
   <string name="limit_after_tomorrow">后天</string>
@@ -287,9 +287,6 @@
   <string name="online_reminder_header_text">"リマインダー"</string>
   <string name="path_calendar">"システムアプリ/カレンダー/設定"</string>
   <string name="pengzu">彭祖</string>
-  <string name="prefDefault_alerts_vibrateWhen">never</string>
-  <string name="prefDefault_alerts_vibrate_false">never</string>
-  <string name="prefDefault_alerts_vibrate_true">always</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
   <string name="pref_error_no_ringtone_select">Default ringtone</string>
   <string name="pref_reminder_time">Reminder Time</string>
@@ -302,7 +299,6 @@
   <string name="preferences_default_allday_reminder_title">Default all day reminder time</string>
   <string name="preferences_default_reminder_dialog">"リマインダー通知"</string>
   <string name="preferences_default_reminder_title">"既定の通知時間"</string>
-  <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">"自宅のタイムゾーン"</string>
   <string name="preferences_import_credit_repayment">"クレジットカードの支払い"</string>
   <string name="preferences_import_travel">"交通チケット"</string>
@@ -440,7 +436,7 @@
   <string name="user_notice_button_exit">"終了"</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">"二度と表示しない"</string>
-  <string name="user_notice_message">"By using this product, you agree to Xiaomi's %1$s and %2$s. Some features require internet connection, access to location, contacts and SMS to work normally."</string>
+  <string name="user_notice_message">"この製品を使用することで、Xiaomiの%1$sと%2$sに同意したことになります。いくつかの機能が正常に動作するには、インターネットへの接続、位置情報および連絡先とSMSへのアクセスが必要です。"</string>
   <string name="user_notice_title">"注意"</string>
   <string name="user_notification">"通知"</string>
   <string name="user_notification_descrip">"カレンダーを開くたびに通知を毎回表示する"</string>
