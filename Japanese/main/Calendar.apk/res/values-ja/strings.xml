@@ -191,7 +191,7 @@
   <string name="hint_description">"説明"</string>
   <string name="hint_what">"タイトル"</string>
   <string name="hint_where">"場所"</string>
-  <string name="holiday_card_title">Holiday</string>
+  <string name="holiday_card_title">"祝日"</string>
   <string name="homepage_today">"今日"</string>
   <string name="horoscope_card_comprehensive">"総合運："</string>
   <string name="horoscope_card_financial">"金運："</string>
@@ -362,7 +362,7 @@
   <string name="setting_title_about">About</string>
   <string name="setting_title_banner_display">"旧暦カレンダーの広告カードを表示します"</string>
   <string name="setting_title_debug">"ログのエクスポート"</string>
-  <string name="setting_title_holiday_display">Show Holidays</string>
+  <string name="setting_title_holiday_display">"祝日を表示する"</string>
   <string name="setting_title_recommend_card_display">显示功能订阅推荐</string>
   <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>

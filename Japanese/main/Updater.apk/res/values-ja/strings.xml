@@ -55,17 +55,17 @@
   <string name="comment_upload_hint">Thank you for your feedback!</string>
   <string name="comment_upload_not_logined">"初めにMi Accountにログインする必要があります"</string>
   <string name="comment_upload_success">"送信しました"</string>
-  <string name="confirm_local_package_wipe_btn">Erase and update</string>
-  <string name="confirm_local_package_wipe_msg">Your personal data will be erased. Make sure to back up anything you want to keep before proceeding.</string>
-  <string name="confirm_local_package_wipe_title">Erase data?</string>
+  <string name="confirm_local_package_wipe_btn">"消去と更新"</string>
+  <string name="confirm_local_package_wipe_msg">"あなたの個人情報は消去されます。作業を続行する前に、保存が必要なデータは必ずバックアップしてください。"</string>
+  <string name="confirm_local_package_wipe_title">"データを消去しますか？"</string>
   <string name="continue_update_negative_btn">"続行"</string>
   <string name="continue_update_positive_btn">"停止"</string>
   <string name="daily_build">Nightly</string>
   <string name="delay_update_text">Update later</string>
   <string name="dialog_delay_update_cancel">"キャンセル"</string>
   <string name="dialog_delay_update_msg">"Your device will reboot to apply updates when it's on and the battery is at least 30% charged"</string>
-  <string name="dialog_delay_update_title">Update is available</string>
-  <string name="dialog_delay_update_tonight">Update tonight</string>
+  <string name="dialog_delay_update_title">"更新が利用可能"</string>
+  <string name="dialog_delay_update_tonight">"今夜更新"</string>
   <string name="download_again">"再試行"</string>
   <string name="download_cancel">"キャンセル"</string>
   <string name="download_current_rom">Reboot to apply update</string>
@@ -108,8 +108,8 @@
   <string name="menu_title_pick_rom_file">Choose update package</string>
   <string name="menu_title_recovery">Reboot to Recovery mode</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
-  <string name="miui_summary_has_new_version">"  Update available  "</string>
-  <string name="miui_summary_no_new_version">No updates available</string>
+  <string name="miui_summary_has_new_version">" 更新が利用可能 "</string>
+  <string name="miui_summary_no_new_version">"利用可能な更新はありません"</string>
   <string name="miui_summary_now_version">"ネットーワークに接続できません"</string>
   <string name="miui_summary_slogan">"  Simplify your life  "</string>
   <string name="miui_summary_updating">"  更新中…  "</string>
@@ -120,7 +120,7 @@
   <string name="my_update_feel">My feedback</string>
   <string name="my_worst_update">Worst update</string>
   <string name="network_error">"ネットワークエラーが発生しました"</string>
-  <string name="new_updates_found_notification_title">Update available</string>
+  <string name="new_updates_found_notification_title">"更新が利用可能"</string>
   <string name="next">"次へ"</string>
   <string name="no_log">No summary available</string>
   <string name="no_wifi_msg">"モバイルデータを使用すると追加料金が発生する場合があります、更新をダウンロードするにはWi-Fiに接続してください。"</string>
@@ -128,7 +128,7 @@
   <string name="not_open">"いいえ"</string>
   <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>
   <string name="notification_delay_update_button">Update in 2 hours</string>
-  <string name="notification_delay_update_cancel">"Don't update tonight"</string>
+  <string name="notification_delay_update_cancel">"今夜は更新しない"</string>
   <string name="notification_delay_update_low_power">Looks like the battery was low at night</string>
   <string name="notification_delay_update_msg">The device will reboot &amp; update in​ %ss</string>
   <string name="notification_delay_update_no_update">"Updates haven't been applied"</string>
@@ -150,7 +150,7 @@
   <string name="notification_uncrypt_summary_hm">Tap to reboot your device</string>
   <string name="notification_uncrypt_title_hm">Reboot to apply update</string>
   <string name="notification_uncrypting">Decrypting update…</string>
-  <string name="notification_update_new_version">Update available</string>
+  <string name="notification_update_new_version">"更新が利用可能"</string>
   <string name="notification_update_now">"今すぐ更新"</string>
   <string name="notification_updating">"更新中…"</string>
   <string name="on_checking">"確認中…"</string>
@@ -169,7 +169,7 @@
   <string name="pm_root_success_msg">Restart your device to complete the last step.</string>
   <string name="pm_root_success_title">Root access enabled</string>
   <string name="previous">"前へ"</string>
-  <string name="progress_title_checking">Checking for updates…</string>
+  <string name="progress_title_checking">"更新を確認中…"</string>
   <string name="reboot">"再起動"</string>
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">"Your device doesn't have enough memory to enter Recovery mode and update your system. Try using Mi PC Suite instead:
