@@ -150,7 +150,7 @@
   <string name="downloading_app_plugin">"ダウンロード中 %1$s…"</string>
   <string name="edit">"編集"</string>
   <string name="edit_comment">Add comment</string>
-  <string name="empty_data">An error occurred</string>
+  <string name="empty_data">"エラーが発生しました"</string>
   <string name="empty_keyword_hint">Enter your search in the box above</string>
   <string name="empty_tv_exiting">Exiting…</string>
   <string name="enter_detail">More Information</string>

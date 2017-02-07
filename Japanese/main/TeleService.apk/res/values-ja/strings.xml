@@ -134,7 +134,7 @@
   <string name="call_forwarding_number_hint">転送番号を入力</string>
   <string name="call_forwarding_settings">着信転送設定</string>
   <string name="call_forwarding_settings_with_label">着信転送設定 (%s)</string>
-  <string name="call_log">Call Log</string>
+  <string name="call_log">通話履歴</string>
   <string name="call_record_add_numbers">番号を追加</string>
   <string name="call_record_auto_always">すべての番号</string>
   <string name="call_record_auto_scenario_title">自動録音の設定</string>
@@ -376,8 +376,8 @@
   <string name="enable_video_calling_dialog_msg">ビデオハングアウトをONにするには、ネットワーク設定で4G LTE拡張モードを有効にする必要があります。</string>
   <string name="enable_video_calling_dialog_settings">ネットワーク設定</string>
   <string name="enable_video_calling_title">ビデオハングアウトを有効にする</string>
-  <string name="enhanced_4g_lte_mode_off_failed">"VoLTEをOffに出来ませんでした"</string>
-  <string name="enhanced_4g_lte_mode_on_failed">"VoLTEをOnに出来ませんでした。"</string>
+  <string name="enhanced_4g_lte_mode_off_failed">"VoLTEをOFFに出来ませんでした"</string>
+  <string name="enhanced_4g_lte_mode_on_failed">"VoLTEをONに出来ませんでした。"</string>
   <string name="enhanced_4g_lte_mode_summary">"LTEサービスを使用して音声などの通信を改善する（推奨）</string>
   <string name="enhanced_4g_lte_mode_title">4G LTE拡張モード</string>
   <string name="enterName">名前</string>
@@ -443,8 +443,8 @@
   <string name="ims_settings">IMS設定</string>
   <string name="incall_error_call_failed">発信できません。</string>
   <string name="incall_error_emergency_only">ご加入の通信サービスがありません</string>
-  <string name="incall_error_local_low_battery">Call is failed due to low battery.</string>
-  <string name="incall_error_low_battery">"Couldn't connect due to remote device's low battery."</string>
+  <string name="incall_error_local_low_battery">バッテリー不足のため発信に失敗しました。</string>
+  <string name="incall_error_low_battery">発信先デバイスがバッテリー不足のため接続できませんでした。</string>
   <string name="incall_error_missing_voicemail_number">ボイスメールの番号が不明です。</string>
   <string name="incall_error_no_phone_number_supplied">発信するには、有効な番号を入力してください。</string>
   <string name="incall_error_out_of_service">モバイルネットワークが利用できません。</string>

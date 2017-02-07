@@ -288,7 +288,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="english_female">"女性アーティスト (米国/欧州)"</string>
   <string name="english_group">"バンド (米国/欧州)"</string>
   <string name="english_male">"男性アーティスト (米国/欧州)"</string>
-  <string name="enter_garbage_clean">Clean up internal storage.</string>
+  <string name="enter_garbage_clean">"内部ストレージをクリーンアップ。"</string>
   <string name="eq_auto">Custom</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_classical">Classical</string>
@@ -696,7 +696,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="select_album">"アルバムを選択"</string>
   <string name="select_all">"すべて選択"</string>
   <string name="select_device">"デバイスを選択"</string>
-  <string name="select_displayed_folders">Choose folders to display</string>
+  <string name="select_displayed_folders">"表示するフォルダを選択"</string>
   <string name="select_local_album">"アルバムを選択"</string>
   <string name="select_local_lyric">"歌詞を選択"</string>
   <string name="select_lyric">"歌詞を選択"</string>
@@ -707,9 +707,9 @@ is mainly provided by Ultimate Inc."</string>
   <string name="send_to_title">Send to (%1$s)</string>
   <string name="server_error">"サーバーエラー。しばらく待ってから後ほど再試行してください"</string>
   <string name="service_and_settings">"サービスと設定"</string>
-  <string name="service_stop">Service discontinued</string>
-  <string name="set_album_successful">Album saved</string>
-  <string name="set_as_ring">Set as ringtone</string>
+  <string name="service_stop">"サービスが中止されました"</string>
+  <string name="set_album_successful">"アルバムを保存しました"</string>
+  <string name="set_as_ring">"着信音として設定"</string>
   <string name="set_id3_failed">"Can't save info"</string>
   <string name="set_id3_not_have_read_or_write_permission">"You don't have permission to edit this file"</string>
   <string name="set_id3_not_support_format">"Can't edit this file format"</string>
