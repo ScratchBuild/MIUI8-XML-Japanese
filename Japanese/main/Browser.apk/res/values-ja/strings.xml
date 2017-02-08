@@ -50,7 +50,7 @@
   <string name="actionbar_textselection_title">"テキストの選択"</string>
   <string name="actionbar_web_search">"ウェブ検索"</string>
   <string name="adblock_force_updating_rules_toast">"Ad blockerを更新中"</string>
-  <string name="adblock_notification">%d ads blocked</string>
+  <string name="adblock_notification">"%d個の広告をブロックしました"</string>
   <string name="adblock_rules_not_updated_toast">"更新できませんでした"</string>
   <string name="adblock_rules_restore">"解除"</string>
   <string name="adblock_rules_updated_toast">"正常に更新されました"</string>
@@ -96,7 +96,7 @@
   <string name="block_ads_choice_block">"ブロック"</string>
   <string name="block_ads_choice_continue">"続行"</string>
   <string name="block_ads_message">"このウェブサイトからのメッセージをブロックしますか？"</string>
-  <string name="block_ads_title">Content may contain ads</string>
+  <string name="block_ads_title">"広告を含むコンテンツ"</string>
   <string name="bookmark_add_to">Add to</string>
   <string name="bookmark_btn_select_all">"すべて選択"</string>
   <string name="bookmark_btn_select_none">"すべて選択を解除"</string>
@@ -178,7 +178,7 @@
   <string name="contextmenu_openlink">"リンクを開く"</string>
   <string name="contextmenu_openlink_newwindow">"新しいタブで開く"</string>
   <string name="contextmenu_openlink_newwindow_background">"新しいバックグラウンドタブで開く"</string>
-  <string name="contextmenu_recognise_qr_code">Recognise QR code</string>
+  <string name="contextmenu_recognise_qr_code">"QRコードの読み取り"</string>
   <string name="contextmenu_savelink">"リンクを保存"</string>
   <string name="contextmenu_send_mail">"メールを送信"</string>
   <string name="contextmenu_set_wallpaper">"壁紙として設定"</string>
@@ -497,7 +497,7 @@ Pages you view won't appear in history."</string>
   <string name="pref_accessibility_title">"ユーザー補助"</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one tap in the address bar</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
-  <string name="pref_adblock_counts">%d blocked</string>
+  <string name="pref_adblock_counts">"%d個をブロック済み"</string>
   <string name="pref_adblock_title">Ad blocker</string>
   <string name="pref_auto_update_under_wifi">"Wi-Fi使用時にアップデート"</string>
   <string name="pref_category_hint">"カテゴリー"</string>
@@ -511,16 +511,13 @@ Pages you view won't appear in history."</string>
   <string name="pref_confirm_for_exit">"ブラウザを終了する前に確認を行う"</string>
   <string name="pref_content_auto_light_mode">"明るさを自動調整"</string>
   <string name="pref_content_block_popups">"ポップアップをブロック"</string>
-  <string name="pref_content_cloud_speedup">Load content faster using proxy servers</string>
+  <string name="pref_content_cloud_speedup">"プロキシサーバーを使用してコンテンツを高速に読み込む"</string>
   <string name="pref_content_fontsize_setting">"フォント設定"</string>
   <string name="pref_content_homepage">"ホームページを設定"</string>
   <string name="pref_content_javascript">"JavaScriptを有効にする"</string>
   <string name="pref_content_night_read_mode">Night mode</string>
   <string name="pref_content_search_engine">"検索エンジンの設定"</string>
   <string name="pref_content_search_engine_summary">"検索エンジンを選択してください"</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_enable_adblock_notification">"Ad blockerの通知を表示する"</string>
   <string name="pref_enable_news">News</string>
   <string name="pref_enable_novels">Books</string>
@@ -830,7 +827,7 @@ Pages you view won't appear in history."</string>
   <string name="video_fragment_name_download">Offline video</string>
   <string name="video_fragment_name_historys">History</string>
   <string name="video_fragment_name_offine">Offline</string>
-  <string name="video_group_noupdates_list">No updates available</string>
+  <string name="video_group_noupdates_list">"利用可能な更新はありません"</string>
   <string name="video_group_updates_list">Updates</string>
   <string name="video_history_empty">"履歴はありません"</string>
   <string name="video_manager_action_bar_end_view">Videos</string>
@@ -839,7 +836,7 @@ Pages you view won't appear in history."</string>
   <string name="video_project_msg">Video is casting to %s</string>
   <string name="video_project_title">Video casting</string>
   <string name="video_push_multi_message">%1$d updates available.</string>
-  <string name="video_push_multi_title">Update available</string>
+  <string name="video_push_multi_title">"更新が利用可能"</string>
   <string name="video_push_single_message">Tap to update to %1$d.</string>
   <string name="video_subtitle_last_message1">Less than 1 minute remaining</string>
   <string name="video_subtitle_prefix1">"視聴済み"</string>

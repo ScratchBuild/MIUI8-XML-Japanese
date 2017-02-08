@@ -37,13 +37,13 @@
   <string name="already_buy_vip">has already buy vip</string>
   <string name="app_charging_wifi_mode">Charging to update app</string>
   <string name="app_charging_wifi_mode_summary">Update app automatically when connected to WLAN and in charging</string>
-  <string name="app_latest_version">No updates available</string>
+  <string name="app_latest_version">"利用可能な更新はありません"</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s installed</string>
   <string name="app_update_background">Update app in background.</string>
   <string name="app_upgrade_hint">Click to watch the full polymerization, HD online video.</string>
   <string name="app_upgrade_title">Mi Video is already upgraded to latest version.</string>
-  <string name="app_upgrade_version">Update available</string>
+  <string name="app_upgrade_version">"更新が利用可能"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi_mode">Update automatically</string>
   <string name="app_wifi_mode_summary">Update app automatically when launch app and connected to WLAN</string>
@@ -184,9 +184,9 @@
   <string name="hint_apk_download_format">Install \"%1$s\" application</string>
   <string name="hint_apk_install">"このアプリをインストール"</string>
   <string name="hint_apk_text_update">Install update (%1$s) now?</string>
-  <string name="hint_apk_title_update">Update available (%1$s)</string>
+  <string name="hint_apk_title_update">"更新が利用可能 (%1$s)"</string>
   <string name="hometown">Hometown</string>
-  <string name="i_will_write_comments">Write your comments here</string>
+  <string name="i_will_write_comments">"コメントを入力してください"</string>
   <string name="icntv">iCNTV</string>
   <string name="info_video_loading">"読み込み中…"</string>
   <string name="init">Init</string>
@@ -324,7 +324,7 @@
   <string name="passport_error_empty_username">"ユーザー名を入力してください"</string>
   <string name="passport_error_empty_vcode">"認証コードを入力してください"</string>
   <string name="passport_error_illegal_pwd">"無効なパスワード"</string>
-  <string name="passport_error_invalid_dev_id">"Your device's ID is invalid."</string>
+  <string name="passport_error_invalid_dev_id">"デバイスIDは無効です。"</string>
   <string name="passport_error_invalid_phone_num">"無効な電話番号"</string>
   <string name="passport_error_login">"ログインできません"</string>
   <string name="passport_error_network">"ネットワークに接続できません"</string>

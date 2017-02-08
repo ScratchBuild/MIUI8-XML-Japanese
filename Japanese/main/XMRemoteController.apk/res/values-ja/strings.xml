@@ -136,7 +136,7 @@
   <string name="channel_list">"チャンネルリスト"</string>
   <string name="channel_num">—</string>
   <string name="channel_removed_from_fav">%1$s removed from favorites</string>
-  <string name="check_upgrade">Check for updates</string>
+  <string name="check_upgrade">"更新を確認"</string>
   <string name="choose_ac">Choose remote</string>
   <string name="choose_address_title">Select location</string>
   <string name="choose_key_to_fix">Choose the button to fix</string>
@@ -168,7 +168,7 @@
   <string name="current_play">"再生中:"</string>
   <string name="current_stb">"Current: "</string>
   <string name="current_version_frame">Current version %s</string>
-  <string name="current_version_latest">No updates available</string>
+  <string name="current_version_latest">"利用可能な更新はありません"</string>
   <string name="data_request_error">"情報を取得できませんでした"</string>
   <string name="day">d</string>
   <string name="day_string">日</string>
@@ -603,7 +603,7 @@ Then answer the question"</string>
   <string name="passport_error_empty_username">"アカウントIDを入力してください"</string>
   <string name="passport_error_empty_vcode">"認証コードを入力してください"</string>
   <string name="passport_error_illegal_pwd">"無効なパスワード"</string>
-  <string name="passport_error_invalid_dev_id">"Your device's ID is invalid."</string>
+  <string name="passport_error_invalid_dev_id">"デバイスIDは無効です。"</string>
   <string name="passport_error_invalid_phone_num">"無効な電話番号"</string>
   <string name="passport_error_login">"ログインできませんでした"</string>
   <string name="passport_error_network">"ネットワークに接続できません"</string>
@@ -981,10 +981,10 @@ directly from your Lock screen"</string>
   <string name="unset">Not set</string>
   <string name="updated_at">"最終更新: %1$s前"</string>
   <string name="updated_just_now">Just updated</string>
-  <string name="upgrade_already_latest">No updates available</string>
+  <string name="upgrade_already_latest">"利用可能な更新はありません"</string>
   <string name="upgrade_current_version">Current version %1s</string>
   <string name="upgrade_download">"アプリをダウンロード"</string>
-  <string name="upgrade_found_new_version">Update available (%1s)</string>
+  <string name="upgrade_found_new_version">"更新が利用可能 (%1s)"</string>
   <string name="upgrade_later">"後で"</string>
   <string name="upgrade_loading">"ダウンロード中…"</string>
   <string name="upgrade_log">"What's new"</string>

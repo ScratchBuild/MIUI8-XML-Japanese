@@ -123,7 +123,7 @@
   <string name="apps_item_summary_sms">%s has access to your messages, it may cause security problems</string>
   <string name="apps_item_summary_system_rooted">Root access has been allowed. Restore default settings to avoid security risks.</string>
   <string name="apps_item_summary_system_update">Some bugs were fixed in the new version to make payments more secure.</string>
-  <string name="apps_item_title_system">System update</string>
+  <string name="apps_item_title_system">"システムの更新"</string>
   <string name="apps_item_virus_cleanup_success">Cleared successfully</string>
   <string name="apps_item_virus_cleanup_text">"消去"</string>
   <string name="apps_item_virus_summary_installed">Installed app</string>
@@ -1056,7 +1056,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_declaration">Important disclaimer</string>
   <string name="pref_title_diagnostics_show_float_notification">"フローティング通知"</string>
   <string name="pref_title_lock_screen_memory_clean">Clean at lock screen</string>
-  <string name="pref_title_manual_check_virus_db_update">Check for updates</string>
+  <string name="pref_title_manual_check_virus_db_update">"更新を確認"</string>
   <string name="pref_title_mobile_traffic">Show data usage while locked</string>
   <string name="pref_title_network_diagnostics">Test network</string>
   <string name="pref_title_over_traffic_limit_warning">When exceeded</string>
@@ -1309,7 +1309,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
   <string name="summary_mifi_insurance">Get a 1 year replacement plan which works for the cases of hardware damage</string>
-  <string name="summary_miui_update">Update available for %s.</string>
+  <string name="summary_miui_update">"%sの更新が利用可能。"</string>
   <string name="summary_mms">Block SMS spam automatically</string>
   <string name="summary_network_switch">Allow Security app to connect to the internet</string>
   <string name="summary_never_flow_verify">"This number hasn't been verified with your carrier"</string>
@@ -1435,7 +1435,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tips_of_traffic_pack_threshold">"Buy more data when you're about to reach your traffic limit"</string>
   <string name="tips_of_virus_scan">Scan your device for viruses regularly to keep it secure</string>
   <string name="title_app_lock_disable">Lock apps</string>
-  <string name="title_app_update">Updates available</string>
+  <string name="title_app_update">"更新が利用可能"</string>
   <string name="title_auto_update">Update automatically</string>
   <string name="title_cleaner_cloudscan">Cloud trash scan</string>
   <string name="title_cloud_account">Mi Account</string>
@@ -1462,7 +1462,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_limit_traffic_per_day">Daily data usage limit</string>
   <string name="title_live_talk_purchase">Turn on Top-up package</string>
   <string name="title_mifi_insurance">"延長保証"</string>
-  <string name="title_miui_update">Update available</string>
+  <string name="title_miui_update">"更新が利用可能"</string>
   <string name="title_mms_no">Message filter is off</string>
   <string name="title_mms_yes">Message filter is on</string>
   <string name="title_more_setting">"その他の設定"</string>

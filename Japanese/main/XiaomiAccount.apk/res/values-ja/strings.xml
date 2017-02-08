@@ -217,7 +217,7 @@
   <string name="passport_error_empty_username">"ユーザー名を入力してください"</string>
   <string name="passport_error_empty_vcode">"認証コードを入力してください"</string>
   <string name="passport_error_illegal_pwd">"無効なパスワード"</string>
-  <string name="passport_error_invalid_dev_id">"Your device's ID is invalid."</string>
+  <string name="passport_error_invalid_dev_id">"デバイスIDは無効です。"</string>
   <string name="passport_error_invalid_phone_num">"無効な電話番号"</string>
   <string name="passport_error_login">"ログインできません"</string>
   <string name="passport_error_network">"ネットワークに接続できません"</string>
