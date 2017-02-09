@@ -9,6 +9,7 @@
   <string name="accessibility_hdr">HDR switch button</string>
   <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
   <string name="accessibility_peak">Focus peak button</string>
+  <string name="accessibility_portrait_button">Portrait mode</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Additional settings button</string>
@@ -18,6 +19,7 @@
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="accessibility_zoom_button">Zoom mode</string>
   <string name="audio_focus_exit_button_text">Turn off Audio focus</string>
   <string name="burst_shoot_exit_button_text">Turn off Burst shoot</string>
   <string name="button_fisheye_camera_title">Fisheye</string>
@@ -73,6 +75,8 @@ The object shouldn't be further than 2 meters."</string>
   <string name="face_beauty_intelligent_level_2">Medium</string>
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="face_beauty_smart">Smart</string>
+  <string name="groupshot_mode_use_hint">"Multiple photos will be taken to select the best
+facial expression to synthesize into a photo"</string>
   <string name="message_snap_double_confirm">Long pressing the volume button triggers NFC now. Replace this feature?</string>
   <string name="no_storage">"カメラを使用する前にSDカードを挿入して下さい"</string>
   <string name="not_enough_space">"SDカードがいっぱいです"</string>
@@ -189,7 +193,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
-  <string name="pref_camera_raw_title">RAW</string>
+  <string name="pref_camera_portrait_mode_title">Portrait</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
   <string name="pref_camera_recordlocation_entry_on">On</string>
   <string name="pref_camera_recordlocation_title">"位置情報を保存"</string>
@@ -249,6 +253,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Measure</string>
   <string name="pref_camera_whitebalance_title">"ホワイトバランス"</string>
+  <string name="pref_camera_zoom_mode_title">Zoom</string>
   <string name="pref_camera_zsl_entry_off">Off</string>
   <string name="pref_camera_zsl_entry_on">On</string>
   <string name="pref_capture_settings">"カメラ"</string>
@@ -317,7 +322,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="simple_mode_button_text_manual">Turn off Manual</string>
   <string name="simple_mode_button_text_mono">Turn off B&amp;W</string>
   <string name="simple_mode_button_text_panorama">Turn off panorama</string>
-  <string name="simple_mode_button_text_raw">Turn off RAW</string>
+  <string name="simple_mode_button_text_portrait_mode">Turn off Portrait</string>
   <string name="simple_mode_button_text_scene">Turn off Scene mode</string>
   <string name="simple_mode_button_text_slow_video">Turn off time-lapse</string>
   <string name="simple_mode_button_text_square">Turn off Square</string>

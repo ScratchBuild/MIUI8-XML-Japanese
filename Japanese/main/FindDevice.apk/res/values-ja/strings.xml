@@ -44,6 +44,8 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="passport_verify">"認証"</string>
   <string name="password">パスワード</string>
   <string name="phone_locked">This device may be associated with existing Mi Account (%s). Sign in to activate this device.</string>
+  <string name="phone_locked_account_email">, associated email: %s</string>
+  <string name="phone_locked_account_phone">, associated phone number: %s</string>
   <string name="stop_on_empty_captcha">"Captchaは空白にできません"</string>
   <string name="stop_on_empty_password">"パスワードは空白にできません"</string>
   <string name="time_correction_failure">"時刻を修正できません。%s"</string>

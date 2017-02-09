@@ -89,7 +89,7 @@
   <string name="app_rate">Rate: %1$s</string>
   <string name="app_search_hint">"アプリケーションの名前を入力してください"</string>
   <string name="app_search_title_mishop">Found %d Mi Store apps</string>
-  <string name="app_search_title_thirdpatry">Found %d thir-party apps</string>
+  <string name="app_search_title_thirdpatry">来自互联网的应用</string>
   <string name="app_size">"サイズ: %1$s"</string>
   <string name="app_sort">"並べ替え"</string>
   <string name="app_uninstall">"アンインストール"</string>
@@ -116,7 +116,7 @@
   <string name="brand_title_hot">Popular</string>
   <string name="brand_title_other">"その他"</string>
   <string name="broadcast">Radio</string>
-  <string name="btn_connected_stb">Set-top box</string>
+  <string name="btn_connected_stb">Control set-top box</string>
   <string name="bullet_hint">"画面にこのメッセージを表示する"</string>
   <string name="bulletin">"メッセージ"</string>
   <string name="by">"Supported by "</string>
@@ -129,6 +129,8 @@
   <string name="cancel_timer">"タイマーをキャンセル"</string>
   <string name="cannot_be_used_in_current_mode">"現在のモードでは&lt;%1$s&gt;を使用できません"</string>
   <string name="carrier_data">Carrier info</string>
+  <string name="cast_screen">小米电视</string>
+  <string name="change_channel">机顶盒换台</string>
   <string name="change_to_channel">Switching [%1$s] %2$s</string>
   <string name="channel">"チャンネル"</string>
   <string name="channel_added_to_fav">%1$s added to favorites</string>
@@ -219,6 +221,7 @@
   <string name="epg_cancel_book_program">%1$s [%2$s] Cancel</string>
   <string name="epg_change_channel">Switch channels</string>
   <string name="epg_change_channel_casting">Change channel （being broadcasted）</string>
+  <string name="epg_change_channel_expired">换台 （已结束）</string>
   <string name="epg_change_channel_not_casting">Change channel （broadcasted in %1$s）</string>
   <string name="epg_channel_group_open">"すべて表示"</string>
   <string name="epg_channel_operation_tip">Press the channel to edit or add to favorites</string>
@@ -235,6 +238,7 @@
   <string name="epg_edit_channel_title">Channel title</string>
   <string name="epg_edit_fav_channel_num">Edit channel number</string>
   <string name="epg_episode_open">"すべて表示"</string>
+  <string name="epg_event_search_hint">输入节目名称搜索</string>
   <string name="epg_fav_channels">Favorite channel</string>
   <string name="epg_have_no_fav_channel">You have no favorite channels</string>
   <string name="epg_home_sliding_down">Sliding down</string>
@@ -249,10 +253,12 @@
   <string name="epg_more_comment_list_title">More top comments （%1$d）</string>
   <string name="epg_name">"TV番組"</string>
   <string name="epg_no_booking_data">No booking data</string>
+  <string name="epg_no_favorite_program">没有收藏的节目</string>
   <string name="epg_no_more_latest_comment">No more comments</string>
   <string name="epg_no_program_data">No program data</string>
   <string name="epg_no_search_result">"検索結果はありません"</string>
   <string name="epg_no_sys_notification">Temporarily no notification system</string>
+  <string name="epg_no_video_tips">没有找到您想要的内容，请稍后再试</string>
   <string name="epg_not_booked_program_time_left">Booked （Time left %1$s）</string>
   <string name="epg_program_comment">Write a comment</string>
   <string name="epg_program_detail_more_time_events">More time events</string>
@@ -292,6 +298,7 @@
   <string name="fan_speed">Speed</string>
   <string name="faq">FAQ</string>
   <string name="fav">Star</string>
+  <string name="favorite_channel">常看频道</string>
   <string name="feedback">"フィードバック"</string>
   <string name="feedback_error">"バグを報告"</string>
   <string name="feedback_error_success_tip">"送信が完了しました"</string>
@@ -377,8 +384,11 @@
   <string name="just_now">"ちょうど今"</string>
   <string name="just_used">"ちょうど今"</string>
   <string name="key_press_vibrate">"タッチ時に振動"</string>
+  <string name="ky_receive_audio_preferred">自动识别听到的电视节目</string>
+  <string name="ky_receive_audio_watching_tv">您正在收看</string>
   <string name="last_bak_time">Last backup: %1$s</string>
   <string name="last_use_frame">%1$s ago</string>
+  <string name="launch_milive_tips">正在打开直播，请稍等</string>
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Living room</string>
   <string name="loading_brand">"情報を取得中…"</string>
@@ -501,6 +511,8 @@ Then answer the question"</string>
   <string name="minute">"分"</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Assistant version %1$s</string>
+  <string name="mitv_no_device">没有可连接的电视，请把手机和小米电视连在同一Wifi下</string>
+  <string name="mitv_video">小米在线</string>
   <string name="mode">Mode</string>
   <string name="model_name">Device model</string>
   <string name="month">月</string>
@@ -515,10 +527,12 @@ Then answer the question"</string>
   <string name="my_appointment">My reservations</string>
   <string name="my_backup">Remote backups</string>
   <string name="my_favorite">Starred</string>
+  <string name="my_favorite_program">节目收藏</string>
   <string name="my_notification">"通知"</string>
   <string name="my_room">My room</string>
   <string name="my_room_underline">My room</string>
   <string name="my_setting">"設定"</string>
+  <string name="nearby">周边</string>
   <string name="network_diagnosis">Test network</string>
   <string name="network_no_connection">"ネットワークに接続できません。ネットワーク接続を確認してもう一度やり直してください。"</string>
   <string name="network_ok">"問題は検出されませんでした"</string>
@@ -533,6 +547,7 @@ Then answer the question"</string>
   <string name="no_introduction">No description</string>
   <string name="no_ir_other_support">You can still use your device to control your Mi TV or Mi Box over Wi-Fi.</string>
   <string name="no_ir_support">No IR devices found</string>
+  <string name="no_milink_device">没有发现小米电视/盒子，请稍后再试</string>
   <string name="no_network">"· ネットワークに接続できませんでした"</string>
   <string name="no_program">No content here</string>
   <string name="no_qq">Install QQ first</string>
@@ -849,6 +864,7 @@ directly from your Lock screen"</string>
   <string name="select_dvb_carrier">Choose service provider</string>
   <string name="select_screenshot_topic">Choose topic</string>
   <string name="select_stb">Choose set-top box</string>
+  <string name="select_stb_tips">绑定机顶盒</string>
   <string name="service_info">Service Information</string>
   <string name="setting_airkan">WIRELESS DISPLAY</string>
   <string name="setting_common">GENERAL</string>
@@ -919,7 +935,7 @@ directly from your Lock screen"</string>
   <string name="somthing_wrong">Having problems?</string>
   <string name="sorry">"エラー"</string>
   <string name="speech_init_failed">Tap to install iFly voice engine</string>
-  <string name="speed_up_channel_switch">Switch channels on some set-top boxes faster</string>
+  <string name="speed_up_channel_switch">Switch channels faster on some set-top boxes</string>
   <string name="splash_add_device_des">Start by adding some devices</string>
   <string name="splash_desc">Control everything with just a tap.</string>
   <string name="start_auto_tune">Automatically tune channel on power on</string>
@@ -943,6 +959,7 @@ directly from your Lock screen"</string>
   <string name="supporting_soon">Coming soon</string>
   <string name="swipe_loading">"読み込み中..."</string>
   <string name="switch_place">Choose city</string>
+  <string name="tab_live">精彩直播</string>
   <string name="technical_support">Technical support</string>
   <string name="temperature">"温度"</string>
   <string name="temprature_frame">%1$d ℃</string>
@@ -967,8 +984,10 @@ directly from your Lock screen"</string>
   <string name="turn_on_timeing_time_tip">AC will be turned on at %1$s</string>
   <string name="tv">TV</string>
   <string name="tv_broadcast">TV and radio</string>
+  <string name="tv_live">电视直播</string>
   <string name="tv_mirror">Display controls</string>
   <string name="tv_mirror_intro">Show display controls in landscape mode</string>
+  <string name="tv_noresponse_tips">电视/盒子没有响应，请稍后再试</string>
   <string name="tv_power">TV on/off</string>
   <string name="udt_conn_error">Device not connected</string>
   <string name="udt_timeout_error">Timeout. Please check your network connection</string>
@@ -1060,6 +1079,7 @@ To change, long press TV's power button"</string>
   <string name="wind_sweep">Swing</string>
   <string name="wx_not_installed">"最初にWeChatをインストール"</string>
   <string name="xiaomi_vip">Mi VIP</string>
+  <string name="year_format">%1$d年</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">"はい"</string>
   <string name="yesterday">"昨日"</string>

@@ -2,6 +2,8 @@
 <resources>
   <string name="app_loaction">"ホーム画面を検索"</string>
   <string name="app_name">"検索"</string>
+  <string name="appindex_description">functions of installed apps</string>
+  <string name="appindex_search_label">Apps functions</string>
   <string name="application_desc">"アプリケーション"</string>
   <string name="applications_search_label">"アプリ"</string>
   <string name="apps_search_activity"/>
@@ -57,6 +59,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="permission_prompt_start">"許可"</string>
   <string name="permission_prompt_started_info">"You've allowed global search"</string>
   <string name="permission_prompt_title">Want more?</string>
+  <string name="pull_to_input">Pull down to reveal the search bar</string>
   <string name="recent_apps">"最近使ったアプリ"</string>
   <string name="recent_apps_filter">"使用していないアプリを隠す"</string>
   <string name="recent_close_content">"この機能を今すぐ無効にしますか？
@@ -72,6 +75,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="recent_filter_functions">Turned off features</string>
   <string name="recent_function">Features</string>
   <string name="recently_shortcut_label">"最近使ったショートカット"</string>
+  <string name="release_to_input">Release to reveal the search bar</string>
   <string name="remove_from_history">"検索履歴からこの項目を消去しますか？"</string>
   <string name="remove_from_history_failed">"検索履歴から項目を削除できませんでした。"</string>
   <string name="search_apps">"アプリを検索"</string>

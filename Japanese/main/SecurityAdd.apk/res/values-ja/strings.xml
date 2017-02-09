@@ -20,8 +20,11 @@
   <string name="game_more_improve">Restrict background activities and download speed to save battery and bandwidth for gaming</string>
   <string name="game_setting">Game settings</string>
   <string name="gs_app_back_self_start">Battery saver</string>
+  <string name="gs_auto_clean_memory">Clear cache</string>
+  <string name="gs_auto_clean_memory_detail">Clear cache automatically to optimize gaming</string>
   <string name="gs_dialog_confirm_close_msg">The shortcut will be removed from your Home screen. Go to Security &gt; Settings to restore it.</string>
   <string name="gs_dialog_confirm_close_title">Turn off</string>
+  <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Time</string>
   <string name="gs_game_net_priority">Connection priority</string>
   <string name="gs_game_net_priority_detail">Limit download speed to have enough bandwidth for gaming</string>

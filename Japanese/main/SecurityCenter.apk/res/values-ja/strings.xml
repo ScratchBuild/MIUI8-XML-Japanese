@@ -166,6 +166,7 @@
   <string name="auto_task_notify_task_cancel_count_down">Automated action will be canceled in 5 seconds</string>
   <string name="auto_task_notify_task_cancel_do">Cancel action</string>
   <string name="auto_task_notify_task_canceled_summary">You can make and receive calls</string>
+  <string name="auto_task_notify_task_canceled_summary2">"Looks like you're playing a game now."</string>
   <string name="auto_task_notify_task_canceled_title">Action is canceled</string>
   <string name="auto_task_notify_task_continue_do">Start action</string>
   <string name="auto_task_notify_task_count_down">Automated action will start in 5 seconds</string>
@@ -619,7 +620,7 @@
   <string name="legal_workday_message">(Skip holidays)</string>
   <string name="list_empty_text">Empty</string>
   <string name="load_fail">"読み込めませんでした"</string>
-  <string name="load_only_under_wlan">"Wi-Fi接続時にニュースを読み込む"</string>
+  <string name="load_only_under_wlan">"Wi-Fi接続時のみ読み込む"</string>
   <string name="local_ip_exception_summary">"ローカルIPアドレスを取得できませんでした。この問題をMIUIに報告するには、お使いのデバイスのReport Bugアプリからログを送信してください。"</string>
   <string name="lock_mode_title">Lock settings</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s used at lock screen</string>
@@ -1224,6 +1225,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="showpattern">"パターンを表示"</string>
   <string name="shutdown_cancel_reminder">"Didn't power off"</string>
   <string name="shutdown_cancel_reminder_detail">"通話中だったため、デバイスの電源をオフにできませんでした"</string>
+  <string name="shutdown_cancel_reminder_detail2">"Looks like you're playing a game now. Scheduled power off is canceled."</string>
   <string name="shutdown_time">Off at %1$s</string>
   <string name="shutdown_time_day">Off in %1$dd at %2$s</string>
   <string name="shutdown_time_day_tomorrow">Off tomorrow at %1$s</string>

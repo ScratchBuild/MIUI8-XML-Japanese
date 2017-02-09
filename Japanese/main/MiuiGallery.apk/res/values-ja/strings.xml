@@ -455,7 +455,7 @@ Take more photos of your friends!"</string>
   <string name="more_face_album_name">More people</string>
   <string name="move_to_other_albums_tip">Sync with Mi Cloud will be turned off if you move this album to other albums. Move now?</string>
   <string name="must_pick_file">"写真を選択"</string>
-  <string name="name_split">, </string>
+  <string name="name_split">, </string>
   <string name="need_to_turn_on_network">"デバイスがインターネットに接続されていません"</string>
   <string name="need_to_turn_on_sync">"Mi Cloudとの同期をオンにする"</string>
   <string name="need_to_turn_on_sync_first">"初めにMi Cloudとの同期をオンにする"</string>
@@ -472,6 +472,7 @@ Take more photos of your friends!"</string>
   <string name="not_is">No</string>
   <string name="not_remind_again">"二度と表示しない"</string>
   <string name="not_remind_any_more">"二度と表示しない"</string>
+  <string name="ok">OK</string>
   <string name="open">"オンにする"</string>
   <string name="open_public_message">Create URL to share with your friends</string>
   <string name="open_public_title">"共有"</string>

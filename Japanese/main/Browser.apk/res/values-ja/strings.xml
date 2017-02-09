@@ -276,6 +276,7 @@ Pages you view won't appear in history."</string>
   <string name="edit">"編集"</string>
   <string name="edit_bookmark">"ブックマークを編集"</string>
   <string name="edit_quicklink">"編集"</string>
+  <string name="empty_app_name">other app</string>
   <string name="empty_bookmark">Empty</string>
   <string name="empty_history_hint">"履歴は空です"</string>
   <string name="empty_snapshot_hint">Empty</string>
@@ -475,6 +476,7 @@ Pages you view won't appear in history."</string>
   <string name="notif_install_successful">"ダウンロード完了"</string>
   <string name="ok">OK</string>
   <string name="older">Older</string>
+  <string name="open_app_confirm_message">Allow this page to open %s?</string>
   <string name="open_file_explorer_failed">"File Explorerを開くことができません"</string>
   <string name="opening_file_error">"選択したファイルを開けませんでした"</string>
   <string name="page_info">"ページ情報"</string>

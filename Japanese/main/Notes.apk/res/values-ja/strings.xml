@@ -16,6 +16,7 @@
   <string name="app_name">"ノート"</string>
   <string name="app_widget">"ノート"</string>
   <string name="call_folder_name">Call notes</string>
+  <string name="cloud_trash_bin_title">Delete notes in Mi Cloud</string>
   <string name="default_folder_name">"新しいフォルダ"</string>
   <string name="delete_folder_dialog_tile">"フォルダを削除"</string>
   <string name="dlg_btn_set_password">"パスワードを設定"</string>
@@ -89,10 +90,10 @@
   <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>
   <string name="permlab_accessNote">Access notes</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"ジェスチャーを使用してノートを削除する時に確認を行わない"</string>
+  <string name="pref_title_cloud_trash_bin">Delete notes in Mi Cloud</string>
   <string name="pref_title_common">"その他の設定"</string>
   <string name="pref_title_font_size">"文字サイズ"</string>
   <string name="pref_title_note_style">"スタイル"</string>
-  <string name="pref_title_recover_help">"ノートの復元"</string>
   <string name="pref_title_show_root_folder_in_homepage">Show only quick notes on the start page</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Quick delete</string>
   <string name="recover_notes_hint">"エラーが発生しました、ノートを復元するには i.mi.com へアクセスしてください。"</string>

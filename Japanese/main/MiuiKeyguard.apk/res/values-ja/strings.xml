@@ -63,6 +63,14 @@
   <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
   <string name="open_remote_center_hint_text">"右にスワイプで電話を開く"</string>
   <string name="open_wifi_settings">"ネットワーク接続を開く"</string>
+  <string name="phone_locked_foget_password">Forgot password?</string>
+  <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
+
+You won't be able to do this unless you've signed in to your Mi Account on this device. Otherwise, you'll have to flash the device again."</string>
+  <string name="phone_locked_foget_password_footer">"Steps:
+Sign in to i.mi.com, go to “Find device”, select the device and press Wipe device."</string>
+  <string name="phone_locked_foget_password_header">What should I do if I forgot my password?</string>
+  <string name="phone_locked_foget_password_ok">OK</string>
   <string name="phone_locked_string">"電話がロックされています"</string>
   <string name="phone_locked_timeout_minutes_string">"%s分後にもう一度お試しください"</string>
   <string name="phone_locked_timeout_seconds_string">"%s秒後にもう一度お試しください"</string>
