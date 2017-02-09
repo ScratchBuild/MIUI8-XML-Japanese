@@ -51,7 +51,7 @@
   <string name="image_loading_error">"画像を読み込めませんでした"</string>
   <string name="just_now">"ちょうど今"</string>
   <string name="load_err">"読み込めませんでした"</string>
-  <string name="login_reg_content">Store files and sync across multiple devices.</string>
+  <string name="login_reg_content">"ファイルを保存し、複数のデバイス間で同期します。"</string>
   <string name="login_reg_title">Use Mi Drive from anywhere.</string>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"切り取りできませんでした"</string>
@@ -98,7 +98,7 @@
   <string name="operation_send">"保存"</string>
   <string name="operation_task_manage">"転送状況を表示"</string>
   <string name="operation_upload">"アップロード"</string>
-  <string name="paused">Paused</string>
+  <string name="paused">"停止中"</string>
   <string name="pick_from_fileexplor_failed">"初めにExplorerを更新します。"</string>
   <string name="quota_info">"Mi Drive: %1$s 空き, %2$s 合計"</string>
   <string name="rename_alert">"このファイルの拡張子を変更した場合、それを開くことができなくなる場合があります。"</string>

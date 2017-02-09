@@ -86,11 +86,11 @@
   <string name="bluetooth_profile_sap">SIMアクセス</string>
   <string name="bluetooth_sap_profile_summary_connected">SAPに接続</string>
   <string name="bluetooth_sap_profile_summary_use_for">SIMアクセスに使用</string>
-  <string name="btn_text_full_scan">Full scan</string>
+  <string name="btn_text_full_scan">"フルスキャン"</string>
   <string name="btn_text_install_new_version">Latest version</string>
   <string name="btn_text_install_origin">Original version</string>
   <string name="btn_text_install_security_version_in_appstore">Replace with safe version</string>
-  <string name="btn_text_scaning">Scanning…</string>
+  <string name="btn_text_scaning">"スキャン中…"</string>
   <string name="btn_text_security_install">Replace with safe version</string>
   <string name="caller_app">"%1$sからの権限リクエスト"</string>
   <string name="cancel">"キャンセル"</string>
@@ -98,8 +98,8 @@
   <string name="connected_via_wfa">Wi-Fiアシスタント経由で接続しました</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">"終了"</string>
-  <string name="cta_dialog_msg">Security requires internet connection to get updates, as well as access to location to work normally.</string>
-  <string name="cta_dialog_title">Internet connection</string>
+  <string name="cta_dialog_msg">"セキュリティアプリは更新を入手するためインターネット接続が、正常に動作するには位置情報へのアクセスが必要です。"</string>
+  <string name="cta_dialog_title">"インターネット接続"</string>
   <string name="current_permission_template">"%1$s/%2$s"</string>
   <string name="current_permissions_category">"既存の権限"</string>
   <string name="default_permission_description">"不明な操作の実行"</string>
@@ -127,7 +127,7 @@
   <string name="install_failed">"アプリはインストールされていません。"</string>
   <string name="install_failed_blocked">The package was blocked from being installed.</string>
   <string name="install_failed_conflict">The package conflicts with an existing package by the same name.</string>
-  <string name="install_failed_incompatible">"This app isn't compatible with your phone."</string>
+  <string name="install_failed_incompatible">"このアプリはお使いの携帯電話との互換性がありません。"</string>
   <string name="install_failed_invalid_apk">"パッケージが破損しているようです。"</string>
   <string name="install_failed_msg">"%1$sを端末にインストールできませんでした。"</string>
   <string name="install_failed_system_incompatible">"このアプリはMIUIと互換性がありません"</string>

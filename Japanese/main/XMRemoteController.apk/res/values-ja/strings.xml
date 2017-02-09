@@ -792,8 +792,8 @@ directly from your Lock screen"</string>
   <string name="save">"保存"</string>
   <string name="save_share_tips">Like the app? You can rate it.</string>
   <string name="save_share_title">Save the remote on this device?</string>
-  <string name="scaning">Searching…</string>
-  <string name="scanning_milink">Searching for devices…</string>
+  <string name="scaning">"検索中…"</string>
+  <string name="scanning_milink">"デバイスの検索中…"</string>
   <string name="scene_default">Default</string>
   <string name="scene_name_frame">%1$s %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
@@ -805,7 +805,7 @@ directly from your Lock screen"</string>
   <string name="screen_shot_screenshotshow_comment_replies">Show screenshot comments</string>
   <string name="screen_shot_screenshotshow_comments">Show screenshot reviews</string>
   <string name="screen_shot_select">"選択"</string>
-  <string name="screen_shot_share">Share screenshot</string>
+  <string name="screen_shot_share">"スクリーンショットを共有"</string>
   <string name="screen_shot_share2">"共有"</string>
   <string name="screen_shot_share_cancel">Send cancellation</string>
   <string name="screen_shot_share_deny">Sharing was refused</string>

@@ -415,7 +415,7 @@
   <string name="privacy_browser_desc">Searched items</string>
   <string name="privacy_cache_desc">"アカウント、パスワード、履歴、設定その他"</string>
   <string name="privacy_cache_empty">"個人データなし"</string>
-  <string name="privacy_cache_scaning">Checking…</string>
+  <string name="privacy_cache_scaning">"確認中…"</string>
   <string name="privacy_cache_title">"個人情報"</string>
   <string name="privacy_clipboard_desc">"クリップボードの内容"</string>
   <string name="privacy_clipboard_type">"クリップボード"</string>
