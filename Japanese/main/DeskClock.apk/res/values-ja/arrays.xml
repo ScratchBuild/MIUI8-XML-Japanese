@@ -43,14 +43,14 @@
         <item>Severe</item>
     </string-array>
     <string-array name="weather_tips_value">
-        <item>Reduce outdoor activities</item>
-        <item>Pay attention to slip</item>
-        <item>Thunderstorm weather, travel safety</item>
-        <item>Fog haze weather, wearing masks</item>
-        <item>Take an umbrella when you go out</item>
-        <item>Pay attention on the road</item>
-        <item>Sand weather, wearing masks</item>
-        <item>Wish you a wonderful day</item>
+        <item>"屋外での活動は控えましょう"</item>
+        <item>"路面の凍結に注意してください"</item>
+        <item>"雷の天気です、安全に注意した旅行を"</item>
+        <item>"霧の天気です、マスクを着用しましょう"</item>
+        <item>"お出かけの際は傘をお持ちください"</item>
+        <item>"道路に注意してください"</item>
+        <item>"砂の天気です、マスクを着用しましょう"</item>
+        <item>"素敵な一日をお過ごしください"</item>
     </string-array>
     <string-array name="alarm_set">
         <item>"アラームは今から1分以内に設定されています。"</item>

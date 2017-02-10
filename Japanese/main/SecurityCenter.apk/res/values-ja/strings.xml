@@ -510,7 +510,7 @@
   <string name="gateway_exception_title">Test router</string>
   <string name="go_to">"続行"</string>
   <string name="go_to_setting_fingerprint">"設定"</string>
-  <string name="goto_set">Set</string>
+  <string name="goto_set">"設定"</string>
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="handle_bar_summary_wifi_unknown">"不明"</string>
   <string name="handle_bar_title_apps">"アプリ"</string>
@@ -862,7 +862,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_realname_now">Verify</string>
   <string name="optimize_result_button_see_detaills">"詳細"</string>
   <string name="optimize_result_button_to_open">"オンにする"</string>
-  <string name="optimize_result_button_to_set">Set</string>
+  <string name="optimize_result_button_to_set">"設定"</string>
   <string name="optimize_result_button_update_now">"更新"</string>
   <string name="optimize_result_summary_sucurity_risk">Some security features are off. Turn on these features to make your device more secure:</string>
   <string name="optimize_result_summary_system_default_settings">"Using default MIUI apps increases the level of the system's stability and security."</string>

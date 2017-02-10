@@ -129,7 +129,7 @@
   <string name="cancel_timer">"タイマーをキャンセル"</string>
   <string name="cannot_be_used_in_current_mode">"現在のモードでは&lt;%1$s&gt;を使用できません"</string>
   <string name="carrier_data">Carrier info</string>
-  <string name="cast_screen">小米电视</string>
+  <string name="cast_screen">"Mi TV"</string>
   <string name="change_channel">机顶盒换台</string>
   <string name="change_to_channel">Switching [%1$s] %2$s</string>
   <string name="channel">"チャンネル"</string>
@@ -798,7 +798,7 @@ Then answer the question"</string>
   <string name="report_problem">Report problem</string>
   <string name="require_login">Sign in first</string>
   <string name="rescan">Re-scan</string>
-  <string name="reset">Reset</string>
+  <string name="reset">"リセット"</string>
   <string name="respond">Works</string>
   <string name="retry_for_more">Tap to view more</string>
   <string name="room_guide_tips">"Control multiple devices

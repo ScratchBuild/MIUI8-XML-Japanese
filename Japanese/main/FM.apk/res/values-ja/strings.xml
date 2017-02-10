@@ -41,7 +41,7 @@
   <string name="record_completed">"録音が完了しました"</string>
   <string name="runtime_permission_ungranted">"権限が許可されていないため録音を開始できません"</string>  
   <string name="search_dialog_title">"放送局をスキャン"</string>
-  <string name="set">"セット"</string>
+  <string name="set">"設定"</string>
   <string name="station_check_favorite">"プリセットに追加"</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="stations_list">"放送局リスト"</string>

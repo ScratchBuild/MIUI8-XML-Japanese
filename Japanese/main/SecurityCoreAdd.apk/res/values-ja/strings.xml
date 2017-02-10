@@ -48,8 +48,8 @@ to be able to view them anytime"</string>
   <string name="dataSafe">"Second spaceを使用するのは、二つの端末を持つようなものです。"</string>
   <string name="declare_dialog_title">"デュアルアプリについて"</string>
   <string name="deleteAll">"すべて削除"</string>
-  <string name="deleteDataConfirm">All items will be deleted</string>
-  <string name="deleteDataDes">"You didn't select items to move. You won't be able to restore items after they are deleted."</string>
+  <string name="deleteDataConfirm">"すべてのアイテムが削除されます"</string>
+  <string name="deleteDataDes">"移動するアイテムは選択していません。アイテムを削除した後で復元することはできません。"</string>
   <string name="delete_fingerprint">"指紋認証を削除"</string>
   <string name="delete_fingerprint_desc">Second space fingerprint will be deleted together with the password</string>
   <string name="delete_phone_fingerprint">Delete Second space fingerprint</string>
@@ -186,7 +186,7 @@ to enter Second space from Lock screen"</string>
   <string name="show_private_msg">Show private messages</string>
   <string name="show_private_msg_summary">Show private messages​ in Second space</string>
   <string name="spaceSetting">"設定"</string>
-  <string name="startSet">Set</string>
+  <string name="startSet">"設定"</string>
   <string name="startTransfer">"移動"</string>
   <string name="start_input_finger_print">"指紋認証を追加"</string>
   <string name="start_new_fingerprint">Add a new fingerprint</string>
@@ -212,8 +212,8 @@ to enter Second space from Lock screen"</string>
   <string name="switch_out_photos">Export photos</string>
   <string name="switch_out_privacy_contacts">Export private contacts</string>
   <string name="switch_success">"移動が完了しました"</string>
-  <string name="switch_to_first_space">Go to First space</string>
-  <string name="switch_to_second_space">Go to Second space</string>
+  <string name="switch_to_first_space">"First spaceに移動"</string>
+  <string name="switch_to_second_space">"Second spaceに移動"</string>
   <string name="switching">"移動中…"</string>
   <string name="switching_apps">"アプリを移動中…"</string>
   <string name="switching_contacts">"連絡先を移動中…"</string>

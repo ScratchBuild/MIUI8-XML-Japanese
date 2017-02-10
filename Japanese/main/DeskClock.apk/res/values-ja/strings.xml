@@ -14,7 +14,7 @@
   <string name="alarm_notify_text">"アラームをスヌーズ/解除します。"</string>
   <string name="alarm_repeat">"繰り返し"</string>
   <string name="alarm_settings">"アラーム設定"</string>
-  <string name="alarm_settings_category_title">Alarm settings</string>
+  <string name="alarm_settings_category_title">"アラームの設定"</string>
   <string name="alarm_vibrate">"バイブレーション"</string>
   <string name="alarm_volume_summary">"アラーム音量をセット"</string>
   <string name="alarm_volume_title">"アラーム音量"</string>
@@ -35,8 +35,8 @@
   <string name="control_set_alarm_with_existing">Alarm set: %s</string>
   <string name="day">"1日"</string>
   <string name="days">"%s日"</string>
-  <string name="default_alarm_alert">Default alarm sound</string>
-  <string name="default_alarm_title">Default ringtone</string>
+  <string name="default_alarm_alert">"デフォルトのアラーム音"</string>
+  <string name="default_alarm_title">"デフォルトの着信音"</string>
   <string name="default_label">"アラーム"</string>
   <string name="delete">"削除"</string>
   <string name="delete_alarm">"アラームを削除"</string>
@@ -79,12 +79,12 @@
   <string name="life_post_wake_up_time_title">Time WakeUp</string>
   <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
   <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
-  <string name="life_post_weather_invalid">Weather need update</string>
+  <string name="life_post_weather_invalid">"天気の更新が必要です"</string>
   <string name="loading_ringtone">"着信音を読み込み中..."</string>
   <string name="menu_add_worldclock">"都市を追加"</string>
   <string name="menu_desk_clock">"時計"</string>
   <string name="menu_edit_timer_item">Edit timer task</string>
-  <string name="menu_item_dock_settings">Dock settings</string>
+  <string name="menu_item_dock_settings">"ホルダーの設定"</string>
   <string name="menu_item_sort_by_gmt_offset">"時差順"</string>
   <string name="menu_item_sort_by_name">"名前順"</string>
   <string name="minute">"1分"</string>
@@ -125,7 +125,7 @@
   <string name="stopwatch_lap_empty_text">"ラップなし"</string>
   <string name="stopwatch_title">"ストップウォッチ"</string>
   <string name="system_time_setting">"設定"</string>
-  <string name="system_time_settings_category_title">Time settings</string>
+  <string name="system_time_settings_category_title">"時刻の設定"</string>
   <string name="time">"時刻"</string>
   <string name="timer_alarm_cancel_pad">Tap on the screen to stop ringing</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>

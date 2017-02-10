@@ -47,18 +47,18 @@
         <item>Recently Watched</item>
     </string-array>
     <string-array name="epg_channel_tab_actionbar_v53">
-        <item>全部频道</item>
-        <item>经常观看</item>
-        <item>高清频道</item>
-        <item>卫视频道</item>
-        <item>央视频道</item>
+        <item>All Channels</item>
+        <item>Recently Watched</item>
+        <item>HD channels</item>
+        <item>Satellite TV Channel</item>
+        <item>CCTV Channel</item>
     </string-array>
     <string-array name="epg_channel_tab_v53">
-        <item>全部</item>
-        <item>常看</item>
-        <item>高清</item>
-        <item>卫视</item>
-        <item>央视</item>
+        <item>Complete</item>
+        <item>Recent</item>
+        <item>HD</item>
+        <item>TV</item>
+        <item>CCTV</item>
     </string-array>
     <string-array name="epg_default_hot_channels">
         <item>Hunan TV</item>

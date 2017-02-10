@@ -291,7 +291,7 @@
   <string name="pref_error_no_ringtone_select">Default ringtone</string>
   <string name="pref_reminder_time">Reminder Time</string>
   <string name="pref_title_alarm_remind">Alarm reminders</string>
-  <string name="pref_title_no_remind">No reminders</string>
+  <string name="pref_title_no_remind">"リマインダーなし"</string>
   <string name="pref_title_notification_remind">"リマインダー通知"</string>
   <string name="preferences_alerts_ringtone_title">"通知音"</string>
   <string name="preferences_alerts_vibrateWhen_title">"バイブレーション"</string>
@@ -326,10 +326,10 @@
   <string name="repeat_interval_dialog_title">Every %1$s</string>
   <string name="repeat_interval_frequency">%1$d %2$s</string>
   <string name="repeat_interval_frequency_single">%1$s</string>
-  <string name="repeat_label_choose_day">Choose day</string>
-  <string name="repeat_label_choose_month">Choose month</string>
-  <string name="repeat_label_choose_time">Choose reminder time</string>
-  <string name="repeat_label_choose_week">Choose week</string>
+  <string name="repeat_label_choose_day">"日を選択"</string>
+  <string name="repeat_label_choose_month">"月を選択"</string>
+  <string name="repeat_label_choose_time">"アラーム時刻を選択"</string>
+  <string name="repeat_label_choose_week">"週を選択"</string>
   <string name="repeat_label_day">Day</string>
   <string name="repeat_label_frequency">Frequency</string>
   <string name="repeat_label_interval">Every</string>
@@ -363,7 +363,7 @@
   <string name="setting_title_banner_display">"旧暦カレンダーの広告カードを表示します"</string>
   <string name="setting_title_debug">"ログのエクスポート"</string>
   <string name="setting_title_holiday_display">"祝日を表示する"</string>
-  <string name="setting_title_recommend_card_display">显示功能订阅推荐</string>
+  <string name="setting_title_recommend_card_display">"購読のおすすめを表示する"</string>
   <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
   <string name="settings_calendar">"カレンダー"</string>

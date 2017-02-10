@@ -57,7 +57,7 @@
   <string name="btn_text_stop">"停止"</string>
   <string name="button_optimizer">OK</string>
   <string name="button_text_add_to_white_list">Exception</string>
-  <string name="button_text_backup_uninstall">Back up first</string>
+  <string name="button_text_backup_uninstall">"初めにバックアップ"</string>
   <string name="button_text_cancel">"キャンセル"</string>
   <string name="button_text_cleanup">"クリーンアップ"</string>
   <string name="button_text_delete_from_white_list">"削除"</string>
@@ -187,7 +187,7 @@
   <string name="garbage_cleanup_detail">%1$d times, cleaned %2$s</string>
   <string name="garbage_month">Cleaned %s this month</string>
   <string name="go_to">"続行"</string>
-  <string name="goto_set">Set</string>
+  <string name="goto_set">"設定"</string>
   <string name="grabage_rank_title">Cleaned today</string>
   <string name="harass_detail">Blocked %1$d SMS and %2$d calls</string>
   <string name="header_optimizer">"この機能を利用することで、%sに同意したことになります。"</string>
@@ -231,9 +231,9 @@
   <string name="hints_list_item_lock">"保持"</string>
   <string name="hints_list_item_unlock">"消去"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
-  <string name="hints_memory_header_left">Memory</string>
+  <string name="hints_memory_header_left">"メモリ"</string>
   <string name="hints_num">0</string>
-  <string name="hints_privacy_header_left">Privacy: %d</string>
+  <string name="hints_privacy_header_left">"プライバシー: %d"</string>
   <string name="hints_quick_cleanning">Cleaning…</string>
   <string name="hints_quick_cleanuping">Optimizing…</string>
   <string name="hints_quick_deep_clean">"今すぐ消去"</string>
