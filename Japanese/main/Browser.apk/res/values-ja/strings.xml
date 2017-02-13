@@ -78,13 +78,13 @@
   <string name="app_update_install">"アップデートをインストールする準備ができました。"</string>
   <string name="application_name">"ブラウザ"</string>
   <string name="aqi_quality_index_break">Severely hazardous</string>
-  <string name="aqi_quality_index_dangerous">Dangerous</string>
-  <string name="aqi_quality_index_good">Good</string>
-  <string name="aqi_quality_index_hazardous">Hazardous</string>
-  <string name="aqi_quality_index_light_pollution">Light pollution</string>
-  <string name="aqi_quality_index_moderate">Moderate</string>
+  <string name="aqi_quality_index_dangerous">"危険"</string>
+  <string name="aqi_quality_index_good">"良好"</string>
+  <string name="aqi_quality_index_hazardous">"有害"</string>
+  <string name="aqi_quality_index_light_pollution">"注意"</string>
+  <string name="aqi_quality_index_moderate">"中程度"</string>
   <string name="aqi_quality_index_pure">Excellent</string>
-  <string name="aqi_quality_index_unhealthy">Unhealthy</string>
+  <string name="aqi_quality_index_unhealthy">"不健康"</string>
   <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
   <string name="autofill_popup_content_description">"自動入力のポップアップを表示しています"</string>
   <string name="autologin_bar_error">"ログインに失敗しました"</string>
@@ -131,7 +131,7 @@
   <string name="clear_history">"履歴を消去"</string>
   <string name="clear_most_visited">Recent history</string>
   <string name="clear_search_history">"検索履歴を消去"</string>
-  <string name="clear_video_download">Clear videos</string>
+  <string name="clear_video_download">"動画を消去"</string>
   <string name="clip_dialog_title">"コピーしたURLを開きますか？"</string>
   <string name="close_ads_choice_no">"許可する"</string>
   <string name="close_ads_choice_yes">"ブロック"</string>
@@ -431,7 +431,7 @@ Pages you view won't appear in history."</string>
   <string name="miuichromium_error_page_safe_network">Safe mode</string>
   <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
   <string name="miuichromium_error_page_title">"エラーが発生しました"</string>
-  <string name="miuichromium_error_page_unknown_error">Oops, something went wrong</string>
+  <string name="miuichromium_error_page_unknown_error">"不明なエラーが発生しました"</string>
   <string name="miuichromium_error_page_wlan">"Wi-Fiをオンにする"</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
   <string name="miuishare_account_activate_ok">Activate</string>
@@ -450,7 +450,7 @@ Pages you view won't appear in history."</string>
   <string name="miuishare_wechat_timeline_title">WeChat timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">SD card is required to modify this path.</string>
-  <string name="month_picker_dialog_title">Set month</string>
+  <string name="month_picker_dialog_title">"月を設定"</string>
   <string name="more_option">"その他のオプション"</string>
   <string name="nav_bottom_bar_back">"戻る"</string>
   <string name="nav_bottom_bar_close_all">"すべて閉じる"</string>
@@ -758,7 +758,7 @@ Pages you view won't appear in history."</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
   <string name="time_picker_dialog_pm">PM</string>
   <string name="time_picker_dialog_second_subsecond_separator">.</string>
-  <string name="time_picker_dialog_title">Set time</string>
+  <string name="time_picker_dialog_title">"時刻を設定"</string>
   <string name="title_bar_loading">"読み込み中…"</string>
   <string name="too_many_windows_dialog_message">"新しいタブを開くには1つ閉じる必要があります。"</string>
   <string name="too_many_windows_dialog_title">"タブの数が限度に達しました"</string>
@@ -800,8 +800,8 @@ Pages you view won't appear in history."</string>
   <string name="version_update_file_download_toast">"ダウンロード中"</string>
   <string name="version_update_file_not_found">"アップデートが見つかりません"</string>
   <string name="video_activity_name">Favorites</string>
-  <string name="video_buffering_percent">"Buffering "</string>
-  <string name="video_buffering_percent_string">"Buffering "</string>
+  <string name="video_buffering_percent">"バッファリング中 "</string>
+  <string name="video_buffering_percent_string">"バッファリング中 "</string>
   <string name="video_collect_cancel">Unfavorite</string>
   <string name="video_collect_success">Favorited</string>
   <string name="video_download_complete">"ダウンロード完了".</string>
@@ -823,7 +823,7 @@ Pages you view won't appear in history."</string>
   <string name="video_downloading_group">"ダウンロード中"</string>
   <string name="video_edit">"編集"</string>
   <string name="video_float_window">Pop-up</string>
-  <string name="video_float_window_playing">Playing video</string>
+  <string name="video_float_window_playing">"動画を再生中"</string>
   <string name="video_float_window_text">Pop-up</string>
   <string name="video_fragment_name_collections">Favorites</string>
   <string name="video_fragment_name_download">Offline video</string>
@@ -844,7 +844,7 @@ Pages you view won't appear in history."</string>
   <string name="video_subtitle_prefix1">"視聴済み"</string>
   <string name="video_subtitle_prefix2">"視聴済み "</string>
   <string name="video_title_prefix_message">"Offline: "</string>
-  <string name="video_unknown_duration">Unknown duration</string>
+  <string name="video_unknown_duration">"不明な再生時間"</string>
   <string name="view_certificate">"証明書を表示"</string>
   <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
@@ -859,5 +859,5 @@ Pages you view won't appear in history."</string>
   <string name="webpage_title">"ブックマークと履歴"</string>
   <string name="webview_find_on_page">"ページ内を検索"</string>
   <string name="webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>
-  <string name="week_picker_dialog_title">Set week</string>
+  <string name="week_picker_dialog_title">"週を設定"</string>
 </resources>

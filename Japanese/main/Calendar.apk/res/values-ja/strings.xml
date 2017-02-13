@@ -379,7 +379,7 @@
   <string name="subscribe_channel_footer_button">"購読の管理"</string>
   <string name="subscribe_channel_footer_desc">查看已订阅的内容，或进入管理进行退订</string>
   <string name="subscribe_channel_footer_title">已订阅</string>
-  <string name="subscribe_channel_footer_view">查看</string>
+  <string name="subscribe_channel_footer_view">"表示"</string>
   <string name="subscribe_channel_hint">"订阅适合自己的功能或服务，订阅后会展示在首页，
 你还可以在订阅后添加提醒，不错过每一个精彩！"</string>
   <string name="subscribe_channel_subscribe">"購読"</string>

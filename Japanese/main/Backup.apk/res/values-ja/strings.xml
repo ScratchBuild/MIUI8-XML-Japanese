@@ -202,13 +202,9 @@
   <string name="see_backup_files_on_router">View backups on Mi Router %s</string>
   <string name="select_all">"すべて選択"</string>
   <string name="select_backup_item">"アイテムを選択"</string>
-  <string name="select_storage_location">Choose backup location</string>
+  <string name="select_storage_location">"バックアップの保存場所を選択"</string>
   <string name="service_stoped">"サービスが停止しました"</string>
   <string name="settings_summary">"通話とメッセージの設定"</string>
-  <string name="size_byte">B</string>
-  <string name="size_giga_byte">GB</string>
-  <string name="size_kilo_byte">KB</string>
-  <string name="size_mega_byte">MB</string>
   <string name="sms_title">"メッセージ"</string>
   <string name="software_backup_info">"アプリのデータ"</string>
   <string name="start_backup">"バックアップ"</string>
