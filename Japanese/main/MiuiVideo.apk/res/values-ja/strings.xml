@@ -123,7 +123,7 @@
   <string name="device_media_empty_hint">Empty</string>
   <string name="di_count_ji">Ep. %d</string>
   <string name="dianyingwang">M1905</string>
-  <string name="disk_volume">Removable storage</string>
+  <string name="disk_volume">"リムーバブルストレージ"</string>
   <string name="dlna_list_name">DLNA device</string>
   <string name="dlna_name">Shared device</string>
   <string name="do_not_buy_vip">do not buy vip</string>
@@ -144,7 +144,7 @@
   <string name="download_running">Working…</string>
   <string name="download_start_message">Download and install %1$s?</string>
   <string name="download_task_with">%d tasks</string>
-  <string name="download_url_waiting">Getting URL info…</string>
+  <string name="download_url_waiting">"URL情報を取得中…"</string>
   <string name="download_url_waiting_no_wifi">Pending for WLAN unavailable</string>
   <string name="download_with">"ダウンロード中 %1$s/%2$s"</string>
   <string name="downloading_app_plugin">"ダウンロード中 %1$s…"</string>
@@ -223,7 +223,7 @@
   <string name="miwifi_app_download_title">Mi Router</string>
   <string name="miwifi_app_update_button">"更新"</string>
   <string name="miwifi_app_update_content">Update Mi Router app to use this feature.</string>
-  <string name="miwifi_app_update_title">Update router?</string>
+  <string name="miwifi_app_update_title">"ルーターを更新しますか？"</string>
   <string name="month">Month</string>
   <string name="my_favorite">Starred</string>
   <string name="my_local_favorite">Local starred</string>

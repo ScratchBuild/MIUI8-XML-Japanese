@@ -98,11 +98,11 @@
   <string name="auto_update_face_summary">Automatically match and add photos to Baby album</string>
   <string name="auto_update_off">"オフ"</string>
   <string name="auto_update_on">"オン"</string>
-  <string name="auto_upload_before_share_message">Back up this album to Mi Cloud before sharing</string>
+  <string name="auto_upload_before_share_message">"このアルバムを共有する前にMi Cloudへバックアップします"</string>
   <string name="auto_upload_before_share_title">"ヒント"</string>
   <string name="auto_upload_disable_tip">"Mi Cloudとの同期はオフです"</string>
-  <string name="auto_upload_disable_toast_long_press_menu">"Mi Cloudとの同期はオフです, go to other albums to view"</string>
-  <string name="auto_upload_enable_toast_long_press_menu">"Mi Cloudとの同期はオンです, go to Albums to view"</string>
+  <string name="auto_upload_disable_toast_long_press_menu">"Mi Cloudとの同期はオフです、その他のアルバムを表示するには移動します"</string>
+  <string name="auto_upload_enable_toast_long_press_menu">"Mi Cloudとの同期はオンです、アルバムを表示するには移動します"</string>
   <string name="baby_album">"赤ちゃんのアルバム"</string>
   <string name="baby_album_change_background">Change background photo</string>
   <string name="baby_album_needs_auto_backup_tip">"Can't turn off automatic backup for Baby album"</string>
@@ -189,7 +189,7 @@
   <string name="choose_people">"Choose a person's album"</string>
   <string name="choose_some_people">Choose album with %s</string>
   <string name="clear_local_photo_direction">If you delete photos or videos from your device, they will still be available in Mi Cloud</string>
-  <string name="click_download_gif">Tap to download GIF</string>
+  <string name="click_download_gif">"GIFをダウンロードするにはタップ"</string>
   <string name="click_top_right">Tap this icon</string>
   <string name="cloud_camera_display_name">Camera photos</string>
   <string name="cloud_guide_auto_backup_title">Choose albums to back up</string>

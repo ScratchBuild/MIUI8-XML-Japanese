@@ -15,7 +15,7 @@
   <string name="enable_find_device_error">"Find deviceをオンにできません。%1$s"</string>
   <string name="enable_find_device_success">"Find deviceはオンです"</string>
   <string name="find_device">Find device</string>
-  <string name="find_device_crash">Find device closed unexpectedly.</string>
+  <string name="find_device_crash">"Find deviceが予期せず終了しました。"</string>
   <string name="find_device_error_account_sys_timeout">"Mi Accountに接続できませんでした。"</string>
   <string name="find_device_error_account_unknown_error">"Mi Accountエラー (%s)。"</string>
   <string name="find_device_error_network">ネットワークエラー。</string>
@@ -27,7 +27,7 @@
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
-  <string name="find_device_stop_noise">Tap OK to silence</string>
+  <string name="find_device_stop_noise">"消音するにはOKをタップ"</string>
   <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
   <string name="find_device_success_title">Find device</string>
   <string name="find_device_telephony_fault">Find Device: Telephony fault (%s).</string>

@@ -3,8 +3,8 @@
   <string name="about_to_recover">読み込み中…</string>
   <string name="account_error">アカウントエラー</string>
   <string name="app_name">Mi Cloud backup​</string>
-  <string name="as_new_device">Replace previous Home screen and settings</string>
-  <string name="as_new_device_summary">Erase previous Mi Cloud backups</string>
+  <string name="as_new_device">"以前のホーム画面と設定を置き換える"</string>
+  <string name="as_new_device_summary">"以前のMi Cloudバックアップを消去する"</string>
   <string name="back_up_task_in_process">バックアップ中…</string>
   <string name="back_up_task_unfinished">"バックアップが完了していません"</string>
   <string name="backing_up_to_micloud">バックアップ中…</string>
@@ -39,12 +39,12 @@
   <string name="cloud_app_restore_success">アプリを復元しました</string>
   <string name="cloud_app_restore_wifi_prompt">Mi Cloudのバックアップから復元するには、Wi-Fiネットワークに接続する必要があります。</string>
   <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"These items will be backed up to Mi Cloud when your device is connected to WLAN: 
-*\u0009\u0009\u0009\u0009Apps, Home screen layout, and wallpapers 
-*\u0009\u0009\u0009\u0009Alarm, clock, and time settings 
-*\u0009\u0009\u0009\u0009Notification settings 
-*\u0009\u0009\u0009\u0009MIUI and system settings 
-Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
+  <string name="cloud_back_up_detail_discription">"お使いのデバイスがWi-Fiに接続されている時、以下のアイテムがMi Cloudにバックアップされます: 
+*\u0009\u0009\u0009\u0009アプリ、ホーム画面のレイアウト、壁紙 
+*\u0009\u0009\u0009\u0009アラーム、時計と時刻設定 
+*\u0009\u0009\u0009\u0009通知設定 
+*\u0009\u0009\u0009\u0009MIUIとシステム設定 
+注意: インストールしたアプリのデータはMi Cloudにバックアップされません。"</string>
   <string name="cloud_back_up_frequence_choice_title">"バックアップのスケジュール"</string>
   <string name="cloud_back_up_frequence_long">Every 7 days</string>
   <string name="cloud_back_up_frequence_short">Every day</string>
@@ -64,13 +64,13 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_backup_detail_state">Mi Cloud backup</string>
   <string name="cloud_backup_detail_state_summary">Apps, Home screen and system settings</string>
   <string name="cloud_backup_detail_time">前回のバックアップ: %1$s</string>
-  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
+  <string name="cloud_backup_have_data">"Mi Cloudにバックアップが見つかりました"</string>
   <string name="cloud_backup_select_recover">Mi Cloudからバックアップを選択</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
   <string name="cloud_restore_task">"復元中…"</string>
   <string name="cloud_task_in_process">"Stop %s and delete this backup? You can't reverse this action."</string>
   <string name="confirm_restore">"復元"</string>
-  <string name="confirm_restore_summary">Home screen will restart and apps will be downloaded automatically when connected to WLAN</string>
+  <string name="confirm_restore_summary">"Wi-Fiに接続されるとアプリが自動でダウンロードされ、ホーム画面が再起動します"</string>
   <string name="confirm_restore_title">"復元"</string>
   <string name="customization">&lt;u&gt;カスタマイズ&lt;/u&gt;</string>
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>

@@ -265,7 +265,7 @@ Pages you view won't appear in history."</string>
   <string name="download_no_sdcard_dlg_title">"SDカードがありません"</string>
   <string name="download_pending">"ダウンロードを開始します…"</string>
   <string name="download_phone_tip">Phone</string>
-  <string name="download_router_tip">"Mi Routerにダウンロード"</string>
+  <string name="download_router_tip">"Mi WiFiルーターにダウンロード"</string>
   <string name="download_sdcard_busy_dlg_msg">"SDカードがビジー状態です。ダウンロードを許可するには、通知シェードでUSBストレージをオフにします。"</string>
   <string name="download_sdcard_busy_dlg_title">"SDカードが使用不可"</string>
   <string name="download_status_failed">"ダウンロードできませんでした"</string>
