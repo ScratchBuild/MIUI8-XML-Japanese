@@ -5,8 +5,7 @@
   <string name="__leak_canary_delete">"削除"</string>
   <string name="__leak_canary_delete_all">"すべて削除"</string>
   <string name="__leak_canary_display_activity_label">Leaks</string>
-  <string name="__leak_canary_failure_report">"Please report this failure to http://github.com/square/leakcanary
-"</string>
+  <string name="__leak_canary_failure_report">"Please report this failure to http://github.com/square/leakcanary"</string>
   <string name="__leak_canary_leak_list_title">Leaks in %s</string>
   <string name="__leak_canary_notification_message">Click for more details</string>
   <string name="__leak_canary_share_heap_dump">Share heap dump</string>

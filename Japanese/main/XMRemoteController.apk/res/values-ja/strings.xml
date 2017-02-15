@@ -1060,7 +1060,7 @@ To change, long press TV's power button"</string>
   <string name="voice_record_start">Record voice</string>
   <string name="voice_resolving">Recognizing voice…</string>
   <string name="volume">﻿"音量"</string>
-  <string name="weather_out">Outside temperature:</string>
+  <string name="weather_out">"外気温:"</string>
   <string name="wechat_account">WeChat account</string>
   <string name="wifi_rc_create_help">How to add a Wi-Fi remote?</string>
   <string name="wifi_rc_create_shortcut_desc">Add a Home screen shortcut for \"%1$s\"?</string>
