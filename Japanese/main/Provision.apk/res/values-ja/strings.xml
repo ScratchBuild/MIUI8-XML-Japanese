@@ -15,7 +15,7 @@
   <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>
   <string name="desc_international_fingerprint">Use your fingerprint to unlock your device, or to sign in to apps and services.</string>
   <string name="disagree">"キャンセル"</string>
-  <string name="ime_privacy_policy">Privacy Policy for selected keyboard</string>
+  <string name="ime_privacy_policy">"選択したキーボードのプライバシーポリシー"</string>
   <string name="ime_privacy_policy_no_network">No network connection. View the Privacy Policy for this keyboard at %s.</string>
   <string name="input_method_category">"Choose the default keyboard that you'll use for writing messages, notes, and just about everything else. Note that you can install other third-party keyboards later."</string>
   <string name="input_method_setting">"キーボードを選択"</string>
@@ -30,10 +30,10 @@
   <string name="next">"次へ"</string>
   <string name="next_fingerprint">Next</string>
   <string name="other_settings">"その他の設定"</string>
-  <string name="other_settings_auto_update">Update automatically</string>
+  <string name="other_settings_auto_update">"自動的に更新"</string>
   <string name="other_settings_auto_update_summary">MIUI will select the most suitable time to download and install updates.</string>
-  <string name="other_settings_location">Location</string>
-  <string name="other_settings_location_summary">Allow apps to access your location</string>
+  <string name="other_settings_location">"位置情報"</string>
+  <string name="other_settings_location_summary">"アプリに位置情報へのアクセスを許可する"</string>
   <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
   <string name="other_settings_mifg_online_content_summary">"新しい画像をダウンロードするためWallpaper Carouselにインターネットへの接続を許可する"</string>
   <string name="other_settings_upload_debug_log_summary">The information we collect will be used to locate and analyze the problems in the system and may contain personal information. No data will be used to identify you personally.</string>
@@ -53,7 +53,7 @@
   <string name="sim_card_detection_info">To insert your SIM card, read the instructions that came with your device.</string>
   <string name="sim_dectection_next">"続行"</string>
   <string name="sim_redetection">Check again</string>
-  <string name="skip_underline">Skip this step</string>
+  <string name="skip_underline">"この手順をスキップ"</string>
   <string name="summary_not_set">Not set</string>
   <string name="terms_of_use">"利用規約"</string>
   <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.

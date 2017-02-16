@@ -54,13 +54,13 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Generic_Update">"更新"</string>
   <string name="Generic_UserApp">Downloaded (%d)</string>
   <string name="Generic_Version">"バージョン %1$s"</string>
-  <string name="HIPS_Action_Accept">Allow</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Allow&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept">"許可"</string>
+  <string name="HIPS_Action_Accept_Colored">"&lt;font color=#478800&gt;許可&lt;/font&gt;"</string>
   <string name="HIPS_Action_Accept_Once">Allow Once</string>
-  <string name="HIPS_Action_Prompt">Prompt</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Prompt&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject">Deny</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt">"確認"</string>
+  <string name="HIPS_Action_Prompt_Colored">"&lt;font color=#FF8A00&gt;確認&lt;/font&gt;"</string>
+  <string name="HIPS_Action_Reject">"拒否"</string>
+  <string name="HIPS_Action_Reject_Colored">"&lt;font color=#DF0000&gt;拒否&lt;/font&gt;"</string>
   <string name="HIPS_Action_Reject_Once">Deny Once</string>
   <string name="HIPS_Group_DataPrivacy">"プライバシー"</string>
   <string name="HIPS_Group_Expense">"セキュリティ"</string>

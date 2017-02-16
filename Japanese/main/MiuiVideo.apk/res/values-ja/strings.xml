@@ -45,7 +45,7 @@
   <string name="app_upgrade_title">Mi Video is already upgraded to latest version.</string>
   <string name="app_upgrade_version">"更新が利用可能"</string>
   <string name="app_version">Version</string>
-  <string name="app_wifi_mode">Update automatically</string>
+  <string name="app_wifi_mode">"自動的に更新"</string>
   <string name="app_wifi_mode_summary">Update app automatically when launch app and connected to WLAN</string>
   <string name="authenticated_failed">"ログインできませんでした"</string>
   <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>

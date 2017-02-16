@@ -92,7 +92,6 @@
   <string name="antivirus_privacy_dialog_summary_link">"プライバシーポリシーを表示"</string>
   <string name="antivirus_privacy_dialog_title">"プライバシーポリシー"</string>
   <string name="antivirus_sec_support">Powered by %s</string>
-  <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">"携帯通信会社のAPN設定をテストする"</string>
   <string name="apn_exception_title">"APNの設定を確認"</string>
   <string name="app_check_no_issue">Looks like there are no battery issues. Cool!</string>
@@ -588,7 +587,7 @@
   <string name="ip_address_exception_summary">"IPアドレスを取得できませんでした。この問題が再発する場合は、静的IPアドレスを使用してみてください。"</string>
   <string name="item_app_permission">"アプリのパーミッション"</string>
   <string name="item_dev_mode">"開発者向けオプション"</string>
-  <string name="item_install_monitor">Install monitor</string>
+  <string name="item_install_monitor">"インストールモニター"</string>
   <string name="item_mms">Filter unwanted messages</string>
   <string name="item_usb_debug">"USBデバッグ"</string>
   <string name="item_virus">"ウイルス"</string>
@@ -605,7 +604,6 @@
   <string name="keywords_powercenter_powerrank">Battery use</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
   <string name="keywords_securitycenter_settings">ROOT;Battery usage;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Battery saver;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Telemarketer;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
-  <string name="kilobyte_per_second">K/s</string>
   <string name="label_mi_stats">Mi analytics</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
   <string name="last_check_date_today">"Scanned today "</string>
@@ -708,7 +706,6 @@
   <string name="manual_item_white_list_summary">Prevent selected apps from being optimized</string>
   <string name="manual_item_white_list_title">"例外"</string>
   <string name="manual_white_list_header">%d exceptions</string>
-  <string name="megabyte_per_second">M/s</string>
   <string name="memory_check_content">Freed %s</string>
   <string name="memory_check_content_none">Empty</string>
   <string name="menu_item_about_content">Version %s</string>
@@ -720,7 +717,6 @@
   <string name="menu_item_force_stop">"強制停止"</string>
   <string name="menu_item_notification_antispam_text_avail">"ブロックリスト"</string>
   <string name="menu_item_notification_antispam_text_normal">"ブロックリスト"</string>
-  <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_power_text">Power</string>
   <string name="menu_item_notification_title">"通知シェードにメニューを表示"</string>
   <string name="menu_item_settings_title">"設定"</string>
@@ -741,7 +737,6 @@
   <string name="menu_text_networkassistants_danger">"%s 超過"</string>
   <string name="menu_text_networkassistants_remain">"%s 残り"</string>
   <string name="menu_text_power_manager">"電池使用量"</string>
-  <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Battery %s</string>
   <string name="mi_service_app_detail">Data usage details</string>
   <string name="mi_service_framework">Mi Service Framework</string>
@@ -756,9 +751,9 @@
   <string name="network_assistant_upgraded_title">Updated</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
   <string name="network_blocked_notification_summary">Test network</string>
-  <string name="network_blocked_switch_wifi">Switch networks</string>
+  <string name="network_blocked_switch_wifi">"ネットワークを切り替える"</string>
   <string name="network_connected_exception_title">Test network</string>
-  <string name="network_control">View app settings</string>
+  <string name="network_control">"アプリの設定を表示"</string>
   <string name="network_diagnostics">Test network</string>
   <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
 
@@ -808,10 +803,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="no_network">"ネットワークに接続できませんでした、後ほど再試行してください"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="none_mi_service_app_detail">Empty</string>
-  <string name="notification_battery_consume_abnormal_summary">Drained %2$s of the battery during last %1$d minutes</string>
-  <string name="notification_battery_consume_abnormal_title">Battery is being drained too fast</string>
-  <string name="notification_battery_over_heat_summary">Find what causes heating, and cool down the device.</string>
-  <string name="notification_battery_over_heat_title">Current temperature is %d℃</string>
+  <string name="notification_battery_consume_abnormal_summary">"直近の%1$d分間に%2$sのバッテリーが消費されました"</string>
+  <string name="notification_battery_consume_abnormal_title">"バッテリーの消耗が早すぎます"</string>
+  <string name="notification_battery_over_heat_summary">"加熱の原因を突き止めて、デバイスを冷却します。"</string>
+  <string name="notification_battery_over_heat_title">"現在の温度は%d℃です"</string>
   <string name="notification_charging_title">"充電中"</string>
   <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
@@ -844,9 +839,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
-  <string name="operator_number_cmcc">10086</string>
-  <string name="operator_number_telcom">10000</string>
-  <string name="operator_number_unicom">10010</string>
   <string name="optimize_result_button_cloudspace">Add cloud storage</string>
   <string name="optimize_result_button_consume_power_analysis">Scan battery</string>
   <string name="optimize_result_button_cooldown_now">Cool down</string>
@@ -854,12 +846,12 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_fix_now">"修復"</string>
   <string name="optimize_result_button_mifi_insurance">Buy now</string>
   <string name="optimize_result_button_onekey_open">"オンにする"</string>
-  <string name="optimize_result_button_onekey_restore">Restore</string>
+  <string name="optimize_result_button_onekey_restore">"復元する"</string>
   <string name="optimize_result_button_open_now">"オンにする"</string>
-  <string name="optimize_result_button_operators_diagnose">Carrier diagnostics</string>
+  <string name="optimize_result_button_operators_diagnose">"キャリア診断"</string>
   <string name="optimize_result_button_purchase">Buy</string>
-  <string name="optimize_result_button_purchase_flow">View all</string>
-  <string name="optimize_result_button_realname_now">Verify</string>
+  <string name="optimize_result_button_purchase_flow">"すべて表示"</string>
+  <string name="optimize_result_button_realname_now">"確認する"</string>
   <string name="optimize_result_button_see_detaills">"詳細"</string>
   <string name="optimize_result_button_to_open">"オンにする"</string>
   <string name="optimize_result_button_to_set">"設定"</string>
@@ -1438,7 +1430,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tips_of_virus_scan">Scan your device for viruses regularly to keep it secure</string>
   <string name="title_app_lock_disable">Lock apps</string>
   <string name="title_app_update">"更新が利用可能"</string>
-  <string name="title_auto_update">Update automatically</string>
+  <string name="title_auto_update">"自動的に更新"</string>
   <string name="title_cleaner_cloudscan">Cloud trash scan</string>
   <string name="title_cloud_account">Mi Account</string>
   <string name="title_cloud_service">Mi Cloud</string>
