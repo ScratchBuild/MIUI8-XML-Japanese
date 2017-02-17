@@ -36,7 +36,7 @@
         <item quantity="one">%1$s件のメッセージ</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d selected</item>
-        <item quantity="zero">Select items</item>
+        <item quantity="other">%d件選択済み</item>
+        <item quantity="zero">アイテムを選択</item>
     </plurals>
 </resources>

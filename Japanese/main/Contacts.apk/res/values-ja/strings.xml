@@ -255,7 +255,7 @@ Contact cards are turned off"</string>
   <string name="contactsGroupsLabel">グループ</string>
   <string name="contactsJoinedMessage">"連絡先を統合しました"</string>
   <string name="contactsList">"連絡先"</string>
-  <string name="contacts_hybrid_activity_label">Recover contacts</string>
+  <string name="contacts_hybrid_activity_label">"連絡先を復元"</string>
   <string name="contacts_setting_title">連絡先設定</string>
   <string name="contacts_unavailable_add_account">"アカウントにログイン"</string>
   <string name="contacts_unavailable_create_contact">"新しい連絡先を作成"</string>
@@ -355,7 +355,7 @@ Contact cards are turned off"</string>
   <string name="device_other_title">Import from other phones</string>
   <string name="device_paired_dialog_message">"連絡先を読み込み中…"</string>
   <string name="device_paired_dialog_title">"連絡先を読み込み中…"</string>
-  <string name="device_pairing_dialog_message">Pairing…</string>
+  <string name="device_pairing_dialog_message">"ペアとして設定中…"</string>
   <string name="device_pairing_dialog_title">Pair devices</string>
   <string name="device_transfer_by_bluetooth_message">"1. Please turn other device's \"Bluetooth\" on;
         
@@ -373,7 +373,7 @@ Contact cards are turned off"</string>
         
 
 2. Goto \"Contacts settings\" -- \"Import/Export contacts\" -- \"Import from SIM card\", long press any SIM contact, choose those contacts to be imported, then click the \"Import\" option."</string>
-  <string name="device_version_header_bluetooth">Make sure Bluetooth is on</string>
+  <string name="device_version_header_bluetooth">"Bluetoothがオンになっていることを確認"</string>
   <string name="device_version_header_no_bluetooth">"SIMカードを使用して連絡先をインポート"</string>
   <string name="dial">"ダイヤル"</string>
   <string name="dialerDialpadHintText">Dial to add a call</string>
@@ -687,7 +687,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="miprofile_bind_account_alertdialog_positive">"番号を追加"</string>
   <string name="miprofile_bind_account_alertdialog_title">"電話番号を追加"</string>
   <string name="miprofile_contact_add">"追加"</string>
-  <string name="miprofile_contact_added">Added</string>
+  <string name="miprofile_contact_added">"追加しました"</string>
   <string name="miprofile_contact_header">Contacts with contact cards</string>
   <string name="miprofile_contact_meaasge">Local contacts</string>
   <string name="miprofile_contact_verifying">Verifying</string>
@@ -697,7 +697,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="miprofile_error_not_opened">Turn off contact cards</string>
   <string name="miprofile_error_not_set">"Your contact card hasn't been synced to the server"</string>
   <string name="miprofile_error_unknown">"不明なエラー"</string>
-  <string name="miprofile_find_miprofile_title">Add to view all info</string>
+  <string name="miprofile_find_miprofile_title">"すべての情報を表示するには追加"</string>
   <string name="miprofile_find_profile_batch_add">"すべて追加"</string>
   <string name="miprofile_find_profile_batch_finish">"完了"</string>
   <string name="miprofile_find_profile_batch_request_failed">"プロフィールを追加できませんでした"</string>
@@ -1222,7 +1222,7 @@ To add a contact to your list of favorites:
   <string name="unknow_phone_number_mms_failed">"不明な番号にメッセージを送信できません"</string>
   <string name="unknown">"通知不可能"</string>
   <string name="unknown_contact_name">"不明な連絡先"</string>
-  <string name="update_sim_contact_photo_toast">Cannot set photo for SIM contacts</string>
+  <string name="update_sim_contact_photo_toast">"SIMの連絡先に写真を設定できません"</string>
   <string name="upgrade_in_progress">"連絡先リストを更新しています。"</string>
   <string name="upgrade_out_of_memory">"連絡先を更新中です。
 
@@ -1300,5 +1300,5 @@ To add a contact to your list of favorites:
   <string name="yellowpage_search_the_yellowpage">"イエローページを検索"</string>
   <string name="yellowpage_user_profile">"プロフィール"</string>
   <string name="yesterday">"昨日"</string>
-  <string name="zero_items_selected">Select items</string>
+  <string name="zero_items_selected">"アイテムを選択"</string>
 </resources>

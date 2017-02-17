@@ -55,8 +55,8 @@
         <item quantity="one">SIMカードから%d件の連絡先を削除しますか？</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d件選択済み</item>
+        <item quantity="one">%1$d件選択済み</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d remaining</item>
@@ -71,8 +71,8 @@
         <item quantity="one">%1$d recent contact</item>
     </plurals>
     <plurals name="hint_search_contacts">
-        <item quantity="other">%1$d contacts</item>
-        <item quantity="one">%1$d contact</item>
+        <item quantity="other">%1$d件の連絡先</item>
+        <item quantity="one">%1$d件の連絡先</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
         <item quantity="other">%1$d numbers</item>
@@ -103,8 +103,8 @@
         <item quantity="one">%d件の連絡先を削除</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d people</item>
-        <item quantity="one">%d person</item>
+        <item quantity="other">%d人</item>
+        <item quantity="one">%d人</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d件の連絡先をインポートしました</item>
@@ -115,9 +115,9 @@
         <item quantity="one">%d件の連絡先を削除しますか？</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d件選択済み</item>
+        <item quantity="zero">%1$d件選択済み</item>
+        <item quantity="one">%1$d件選択済み</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Block %1$d phone numbers?</item>
@@ -128,8 +128,8 @@
         <item quantity="one">Unblock %1$d phone number?</item>
     </plurals>
     <plurals name="voip_contacts_count">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d人</item>
+        <item quantity="one">%1$d人</item>
     </plurals>
     <plurals name="livetalk_unit">
         <item quantity="other">分</item>
@@ -140,8 +140,8 @@
         <item quantity="one">Rang %d time</item>
     </plurals>
     <plurals name="contacts_count">
-        <item quantity="other">%1$d contacts</item>
-        <item quantity="one">%1$d contact</item>
+        <item quantity="other">%1$d件の連絡先</item>
+        <item quantity="one">%1$d件の連絡先</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d contacts or photos haven't been synced"</item>
@@ -154,7 +154,7 @@
         <item quantity="other">30分前</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">たった今</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d分前</item>

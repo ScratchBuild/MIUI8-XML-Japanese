@@ -374,7 +374,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">新着メッセージ</string>
   <string name="number_add_hint">電話番号を入力</string>
-  <string name="open_audio_record_panel">Open audio record panel</string>
+  <string name="open_audio_record_panel">"オーディオ録音パネルを開く"</string>
   <string name="open_url_with_web">このURLをブラウザで開きますか？</string>
   <string name="over_max_mms_size">MMSが大きすぎます。</string>
   <string name="overwrite_edited_content">"今編集した内容が上書きされます。"</string>
@@ -394,12 +394,12 @@
   <string name="pref_allow_network_access_summary">配信およびその他のサービスに関する最新の情報を取得するにはオンにして下さい</string>
   <string name="pref_cell_broadcast">緊急地震速報</string>
   <string name="pref_collapse_sp_messages_summary">ご契約中のキャリアからの通知を同じスレッドにまとめますか？</string>
-  <string name="pref_delivery_ringtone">Delivery sound</string>
+  <string name="pref_delivery_ringtone">受信時の通知音</string>
   <string name="pref_edit_smsc_address">SMSセンター番号(SMSC)</string>
   <string name="pref_forward_title">転送</string>
   <string name="pref_messages_to_save">保存するメッセージ件数を設定</string>
   <string name="pref_mms_settings_title">マルチメディアメッセージ（MMS）の設定</string>
-  <string name="pref_msg_trash_bin_title">Recently deleted messages</string>
+  <string name="pref_msg_trash_bin_title">最近削除したメッセージ</string>
   <string name="pref_notification_settings_title">通知設定</string>
   <string name="pref_other_title">詳細設定</string>
   <string name="pref_show_blocked_messages_summary">スレッドリストでブロックしたSMSを表示</string>
@@ -427,7 +427,7 @@
   <string name="pref_time_auto_group_disabled_summary">"現在のフォントサイズはサポートされていません"</string>
   <string name="pref_time_auto_group_summary">互いに1分以内に受信したメッセージは同じスレッドにまとめて分類する</string>
   <string name="pref_time_auto_group_title">日時で分類</string>
-  <string name="pref_title_about_smart_sms">About Smart messages partner</string>
+  <string name="pref_title_about_smart_sms">Smart messages partnerについて</string>
   <string name="pref_title_allow_si_sl_push">WAPプッシュを許可(SI/SL)</string>
   <string name="pref_title_card_format">カード共有フォーマット</string>
   <string name="pref_title_delivery_reports">配達状況</string>

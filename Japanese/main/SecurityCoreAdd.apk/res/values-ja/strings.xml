@@ -172,7 +172,7 @@ to enter Second space from Lock screen"</string>
   <string name="setting_fingerprint_title">Add Second space password</string>
   <string name="setting_is_show_text_contacts">Set up private contacts and messages</string>
   <string name="settings_cross_notification_summary">Receive notifications from the other space</string>
-  <string name="settings_cross_notification_title">Notifications</string>
+  <string name="settings_cross_notification_title">"通知"</string>
   <string name="settings_msg_add_shortcut">Added shortcut to First space</string>
   <string name="settings_msg_remove_shortcut">Removed shortcut from First space</string>
   <string name="settings_notification_and_switch">Switching &amp; notifications</string>
@@ -221,14 +221,14 @@ to enter Second space from Lock screen"</string>
   <string name="switching_photos">"写真を移動中…"</string>
   <string name="temporary_no_set">"後で"</string>
   <string name="title_choose_app_status">"アプリの種類を選択"</string>
-  <string name="title_switch_file">Delete these files?</string>
-  <string name="title_switch_photo">Delete these photos?</string>
+  <string name="title_switch_file">"これらのファイルを削除しますか？"</string>
+  <string name="title_switch_photo">"これらの写真を削除しますか？"</string>
   <string name="transferApp">Apps installed in Second space will be moved to First space. However, all app data will be lost.</string>
   <string name="transferContact">Contacts from Second space will be moved to First space</string>
   <string name="transferDataConfirm">The remaining items will be deleted</string>
   <string name="transferDataConfirmDes">"You won't be able to restore items after they are deleted."</string>
-  <string name="transferDataLable">Select items to move</string>
-  <string name="transferFile">Select other files manually</string>
+  <string name="transferDataLable">"移動するアイテムを選択"</string>
+  <string name="transferFile">"その他のファイルを手動で選択"</string>
   <string name="transferImage">Photos from Second space will be moved to \"Second space\" album in First space</string>
   <string name="transferMessage">Messages from Second space will be moved to First space</string>
   <string name="tryNow">Try now</string>

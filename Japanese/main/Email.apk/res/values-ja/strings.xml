@@ -272,8 +272,8 @@
   <string name="contact_edit_set_black_list_receive">"この送信者からのメールをゴミ箱に移動 (新しいメールのみ)"</string>
   <string name="contact_edit_set_black_list_receive_summary">"ToまたはCcフィールドにこの受信者が含まれるメールを削除"</string>
   <string name="contact_edit_set_black_list_title">"ブロックリストに追加"</string>
-  <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
-  <string name="contact_edit_title_phone_contact">Phone contacts list</string>
+  <string name="contact_edit_set_phone_contact">"電話の連絡先を編集"</string>
+  <string name="contact_edit_title_phone_contact">"電話の連絡先リスト"</string>
   <string name="contact_in_filter_title">"送信者"</string>
   <string name="contact_info_string">%1$sの連絡先情報を表示</string>
   <string name="contact_info_string_default">"連絡先の情報を表示"</string>
@@ -480,7 +480,7 @@
   <string name="gmail_web_login_required_message">"Gmailにログイン"</string>
   <string name="header_category_account">"アカウント"</string>
   <string name="header_category_other">"フィードバック"</string>
-  <string name="header_label_general_preferences">General</string>
+  <string name="header_label_general_preferences">"全般"</string>
   <string name="help_and_info">"ヘルプ"</string>
   <string name="help_config">Self configuration</string>
   <string name="hide_atts_remaining">Hide %1$d attachments</string>
@@ -629,7 +629,7 @@
   <string name="no_matched_attachment">No results.</string>
   <string name="no_remind">Not to remind</string>
   <string name="not_subject">"(件名なし)"</string>
-  <string name="not_synced_title">Account not synced</string>
+  <string name="not_synced_title">"アカウントが同期していません"</string>
   <string name="note_text">Possible through the network of China Mobile or SMS verification, may generate additional costs to flow or SMS.</string>
   <string name="note_title">139 Email Automatic Configuration</string>
   <string name="notification_action_archive">"アーカイブ"</string>

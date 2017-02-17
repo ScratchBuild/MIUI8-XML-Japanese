@@ -510,7 +510,6 @@
   <string name="go_to">"続行"</string>
   <string name="go_to_setting_fingerprint">"設定"</string>
   <string name="goto_set">"設定"</string>
-  <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="handle_bar_summary_wifi_unknown">"不明"</string>
   <string name="handle_bar_title_apps">"アプリ"</string>
   <string name="handle_bar_title_paysms">"メッセージ"</string>
@@ -614,7 +613,7 @@
   <string name="last_check_never_checked">"今すぐスキャン"</string>
   <string name="last_checked_date2">Scanned %d days ago</string>
   <string name="last_checked_default">Scanned %s days ago</string>
-  <string name="later">稍后处理</string>
+  <string name="later">"後で"</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Holiday</string>
   <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
@@ -888,9 +887,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="password_promotion_title">Privacy protection password</string>
   <string name="path_antispam">システムアプリ/セキュリティ/ブロックリスト</string>
   <string name="path_antivirus">システムアプリ/セキュリティ/ウイルススキャン</string>
-  <string name="path_app_permissions">System apps/Security/Permissions/App permissions</string>
-  <string name="path_auto_restart">System apps/Security/Permissions/Manage autostart</string>
-  <string name="path_buy_flow">System apps/Security/Data usage/Buy mobile data</string>
+  <string name="path_app_permissions">システムアプリ/セキュリティ/パーミッション/App permissions</string>
+  <string name="path_auto_restart">システムアプリ/セキュリティ/パーミッション/Manage autostart</string>
+  <string name="path_buy_flow">システムアプリ/セキュリティ/Data usage/Buy mobile data</string>
   <string name="path_cleanmaster">システムアプリ/セキュリティ/クリーナー</string>
   <string name="path_networkassistant_1">システムアプリ/セキュリティ/データ使用量</string>
   <string name="path_networkassistant_2">システムアプリ/セキュリティ/データ使用量</string>
@@ -900,9 +899,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_powercenter_powerrank">電池とパフォーマンス/電池使用量</string>
   <string name="path_securitycenter">システムアプリ/セキュリティ</string>
   <string name="path_securitycenter_settings">システムアプリ/セキュリティ</string>
-  <string name="path_usb_install">System apps/Security/Permissions/Install via USB</string>
+  <string name="path_usb_install">システムアプリ/セキュリティ/パーミッション/USB経由でインストール</string>
   <string name="pay_charge">Purchase additional data</string>
-  <string name="pc_install_manager">Install via USB</string>
+  <string name="pc_install_manager">"USB経由でインストール"</string>
   <string name="pc_to_phone_install">Blocked installation of %s via USB</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
   <string name="permission_action_accept">Accept</string>
@@ -919,7 +918,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
   <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call history.</string>
   <string name="permit_running_network">Background data</string>
-  <string name="person_have_hongbao">%1$s 给你发红包啦！</string>
   <string name="person_hotpot">Mobile hotspots</string>
   <string name="pkg_traffic">Set data usage limit</string>
   <string name="pm_auto_start_by_other">Triggered start</string>
@@ -927,7 +925,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pm_auto_start_by_system">Start apps</string>
   <string name="pm_auto_start_by_system_event">Allow apps to start automatically</string>
   <string name="pm_auto_start_proc_is_running">Running</string>
-  <string name="pm_remember_choice">Remember my choice</string>
+  <string name="pm_remember_choice">"次回から表示しない"</string>
   <string name="pm_root_success_notification_infomation">Make sure you understand the risks related with root access</string>
   <string name="pm_root_success_notification_title">Allowed root access</string>
   <string name="power_20s_shutdown">Device will power off in %d seconds</string>
@@ -1010,7 +1008,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_category_title_module_settings">Feature settings</string>
   <string name="pref_category_title_other">"その他の設定"</string>
   <string name="pref_category_title_reference_settings">"その他の設定"</string>
-  <string name="pref_category_title_securitycenter_settings">General</string>
+  <string name="pref_category_title_securitycenter_settings">"全般"</string>
   <string name="pref_category_title_virus_lib_auto_update">Automatically update definitions</string>
   <string name="pref_category_title_virus_white_list">"例外"</string>
   <string name="pref_check_network_diagnostics">"Test device's internet connection"</string>
@@ -1061,7 +1059,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_network_diagnostics">Test network</string>
   <string name="pref_title_over_traffic_limit_warning">When exceeded</string>
   <string name="pref_title_traffic_limit_number">Size</string>
-  <string name="pref_title_traffic_speed_state">Show network speed</string>
+  <string name="pref_title_traffic_speed_state">"ネットワーク速度を表示"</string>
   <string name="pref_title_update_notification">Data usage notifications</string>
   <string name="pref_title_virus_white_list">"例外"</string>
   <string name="pref_traffic_manage_title">Data usage</string>
@@ -1129,7 +1127,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="resource_powercenter_powerrank">"電池とパフォーマンス"</string>
   <string name="resource_securitycenter">"セキュリティ"</string>
   <string name="resource_securitycenter_settings">"セキュリティ"</string>
-  <string name="resource_usb_install">Install via USB</string>
+  <string name="resource_usb_install">"USB経由でインストール"</string>
   <string name="result_autoscan_header">Payment monitoring</string>
   <string name="result_autoscan_info">Automatically monitor system environment when payment apps are started</string>
   <string name="result_sign_header">Found %d unofficial apps</string>
@@ -1506,7 +1504,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="toast_removed_from_virus_white_list">Removed from exceptions. Item will be scanned next time.</string>
   <string name="toast_root_apply_accept">Root access granted to %s</string>
   <string name="toast_root_apply_reject">Denied root access for %s</string>
-  <string name="toast_select_virus_white_need_remove">Select items</string>
+  <string name="toast_select_virus_white_need_remove">"アイテムを選択"</string>
   <string name="toast_set_success">Turned on successfully</string>
   <string name="toast_shortcut_install">"ホーム画面にショートカットを配置しました"</string>
   <string name="toast_shortcut_uninstall">"ショートカットを削除しました"</string>
