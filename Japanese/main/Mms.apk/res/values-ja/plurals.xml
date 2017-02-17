@@ -35,4 +35,8 @@
         <item quantity="other">%1$s件のメッセージ</item>
         <item quantity="one">%1$s件のメッセージ</item>
     </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d selected</item>
+        <item quantity="zero">Select items</item>
+    </plurals>
 </resources>

@@ -24,10 +24,10 @@
   <string name="already_voted">"投票済み"</string>
   <string name="already_voted_toast">"今日の天気は既に選択済みです"</string>
   <string name="app_name">"天気"</string>
-  <string name="aqi_data_source">powered by Colorful Clouds</string>
+  <string name="aqi_data_source">Powered by Colorful Clouds</string>
   <string name="aqi_desc">Air Quality Index</string>
   <string name="aqi_detail_24_hours">"1時間ごとの予報"</string>
-  <string name="aqi_detail_5_days">"毎日の予報"</string>
+  <string name="aqi_detail_5_days">"5日間の予報"</string>
   <string name="aqi_detail_sub_title">"AQIの詳細"</string>
   <string name="aqi_detail_title">Air Quality Index</string>
   <string name="aqi_detail_unit">"単位: µg/m³ (CO: mg/m³)"</string>
@@ -52,7 +52,7 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
   <string name="daily_forcast_whirl_wind">"つむじ風"</string>
   <string name="daily_forecast_detail">"予報の詳細"</string>
-  <string name="daily_forecast_no_data">"データの取得に失敗しました
+  <string name="daily_forecast_no_data">"気象情報の取得に失敗しました
 手動で更新を行うか、ネットワークの設定を確認してください"</string>
   <string name="edit_alert_city_title">"アラートの管理"</string>
   <string name="edit_city">"都市を編集"</string>

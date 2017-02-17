@@ -124,7 +124,7 @@
   <string name="install_confirm_question_update_system">"この内蔵アプリケーションへのアップデートをインストールしてもよろしいですか？既存のデータは失われません。アップデート後のアプリケーションは下記にアクセスする場合があります:"</string>
   <string name="install_confirm_question_update_system_no_perms">"この内蔵アプリにアップデートをインストールしますか？既存のデータが失われることはありません。特別なアクセス権も必要ありません。"</string>
   <string name="install_done">"アプリをインストールしました。"</string>
-  <string name="install_failed">"アプリはインストールされていません。"</string>
+  <string name="install_failed">"アプリをインストールできませんでした"</string>
   <string name="install_failed_blocked">The package was blocked from being installed.</string>
   <string name="install_failed_conflict">The package conflicts with an existing package by the same name.</string>
   <string name="install_failed_incompatible">"このアプリはお使いの携帯電話との互換性がありません。"</string>

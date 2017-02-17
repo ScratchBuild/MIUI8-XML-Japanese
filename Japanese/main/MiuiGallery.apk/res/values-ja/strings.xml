@@ -697,6 +697,13 @@ Take more photos of your friends!"</string>
   <string name="syncing_metadata_title">Syncing Mi Cloud data</string>
   <string name="syncing_normal_title">Backing up photos and videos</string>
   <string name="system_album">System album</string>
+  <string name="text_append">Text</string>
+  <string name="text_append_color">Color</string>
+  <string name="text_append_font">Font</string>
+  <string name="text_append_font_example">Aa</string>
+  <string name="text_append_hint">Enter text</string>
+  <string name="text_append_style">Bubble</string>
+  <string name="text_append_transparent">Opacity</string>
   <string name="tip_capture_location">Location:</string>
   <string name="tip_capture_params">EXIF data:</string>
   <string name="tip_capture_time">Taken on:</string>

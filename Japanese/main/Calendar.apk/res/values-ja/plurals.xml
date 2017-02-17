@@ -32,8 +32,8 @@
         <item quantity="one">%1$d day ago at %2$s</item>
     </plurals>
     <plurals name="Ndays_after">
-        <item quantity="other">After %1$d days at %2$s</item>
-        <item quantity="one">After %1$d day at %2$s</item>
+        <item quantity="other">In %1$d days at %2$s</item>
+        <item quantity="one">In %1$d day at %2$s</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">"%d週間前"</item>

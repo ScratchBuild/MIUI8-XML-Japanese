@@ -64,7 +64,6 @@
   <string name="no_applications">Empty</string>
   <string name="none">"プロセスなし"</string>
   <string name="normal">Default mode</string>
-  <string name="notify_app_consume_abnormal_title">is draining battery</string>
   <string name="operation_create_group">"名前"</string>
   <string name="operation_create_group_message">Enter new group name</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s abnormal running</string>

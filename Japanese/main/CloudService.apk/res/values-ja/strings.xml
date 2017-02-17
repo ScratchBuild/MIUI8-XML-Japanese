@@ -174,6 +174,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_toast_confirm">Device confirmed</string>
   <string name="micloud_confusion_toast_deny">"Mi Accountにログイン"</string>
   <string name="micloud_confusion_yes">はい</string>
+  <string name="micloud_detail_battery_low">Battery low</string>
   <string name="micloud_detail_battery_low_message">Battery is low. Please charge your phone and sync.</string>
   <string name="micloud_detail_battery_low_title">Battery is low</string>
   <string name="micloud_detail_depend_wifi_message">"Wi-Fiに接続するか、同期設定を確認してください。"</string>
@@ -184,9 +185,11 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_force_sync">今すぐ同期</string>
   <string name="micloud_detail_lastest">"同期済み"</string>
   <string name="micloud_detail_lastest_with_off">"同期済み"</string>
+  <string name="micloud_detail_need_charge">Need charge to sync</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
   <string name="micloud_detail_not_synced">Not synced</string>
   <string name="micloud_detail_ok">OK</string>
+  <string name="micloud_detail_pause">Sync pause</string>
   <string name="micloud_detail_pending">待機中</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
   <string name="micloud_detail_query_error">"同期の進捗状況に関する情報を取得できませんでした"</string>
@@ -197,6 +200,10 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_syncing">同期中</string>
   <string name="micloud_detail_upload_syncing">Uploading %s</string>
   <string name="micloud_detail_wlan">%d waiting to sync</string>
+  <string name="micloud_dialog_sync_now_message">Suggest you using WLAN</string>
+  <string name="micloud_dialog_sync_now_negative">Not now</string>
+  <string name="micloud_dialog_sync_now_positive">Using data transfer flow</string>
+  <string name="micloud_dialog_sync_now_title">Sync data now using data transfer flow</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="micloud_find_device_finish">完了</string>
@@ -236,6 +243,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
   <string name="micloud_main_battery_low">Not enough battery to sync</string>
   <string name="micloud_main_battery_message">Connect your device to a power source to sync</string>
+  <string name="micloud_main_cancel_sync">Cancel sync</string>
   <string name="micloud_main_clear_now">"消去"</string>
   <string name="micloud_main_detail">詳細を表示</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
@@ -261,10 +269,11 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_suggest_sync">すべてを同期できませんでした</string>
   <string name="micloud_main_sync_exception">同期エラー</string>
   <string name="micloud_main_sync_init">情報の取得中</string>
+  <string name="micloud_main_sync_need_charge">Waiting to charge</string>
   <string name="micloud_main_sync_now">今すぐ同期</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
-  <string name="micloud_main_sync_pause">Sync paused</string>
+  <string name="micloud_main_sync_pause">Sync pause</string>
   <string name="micloud_main_sync_pending">Waiting to sync</string>
   <string name="micloud_main_sync_setting">同期設定</string>
   <string name="micloud_main_sync_stop">Sync stopped</string>

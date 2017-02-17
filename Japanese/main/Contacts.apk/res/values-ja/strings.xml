@@ -1222,6 +1222,7 @@ To add a contact to your list of favorites:
   <string name="unknow_phone_number_mms_failed">"不明な番号にメッセージを送信できません"</string>
   <string name="unknown">"通知不可能"</string>
   <string name="unknown_contact_name">"不明な連絡先"</string>
+  <string name="update_sim_contact_photo_toast">Cannot set photo for SIM contacts</string>
   <string name="upgrade_in_progress">"連絡先リストを更新しています。"</string>
   <string name="upgrade_out_of_memory">"連絡先を更新中です。
 

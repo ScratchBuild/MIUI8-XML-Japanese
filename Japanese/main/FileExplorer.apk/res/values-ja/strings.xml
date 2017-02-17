@@ -7,6 +7,7 @@
   <string name="activity_rule">"ルール"</string>
   <string name="ad_download">"ダウンロード"</string>
   <string name="ad_downloading">"読み込み中…"</string>
+  <string name="add_follow">Follow</string>
   <string name="add_one">+1</string>
   <string name="add_private">Hide files now</string>
   <string name="add_private_files">"ファイルを追加"</string>
@@ -98,9 +99,12 @@
   <string name="claim_video_success">Claimed successfully</string>
   <string name="claim_video_unlogin">Sign in to claim videos</string>
   <string name="clean_hint">"空き容量を増やすにはタップ"</string>
+  <string name="click_login_str">Sign in</string>
   <string name="click_to_refresh">"更新するにはここをタップ"</string>
   <string name="click_to_switch_volume">"内部ストレージとSDカードを切り替えるにはタップ"</string>
   <string name="click_to_switch_volume_pad">"内部ストレージとSDカードを切り替えるにはタップ"</string>
+  <string name="comment_added">Added successfully</string>
+  <string name="comment_added_tip">"You're adding lots of comments. Follow this person?"</string>
   <string name="comment_delete_message">"コメントは完全に削除されます。"</string>
   <string name="comment_delete_title">"コメントを削除"</string>
   <string name="comment_hint">"コメントを追加"</string>
@@ -142,6 +146,7 @@
   <string name="decrypt_to">Decrypt and save to…</string>
   <string name="decrypting">Decrypting…</string>
   <string name="default_prize_text">That goes right into my treasury!</string>
+  <string name="default_user_desc">"This person hasn't added description yet"</string>
   <string name="delete_dialog_button">"削除"</string>
   <string name="delete_error">"ファイルを削除できませんでした、もう一度お試しください"</string>
   <string name="delete_file">"このファイルを削除しますか？"</string>
@@ -204,9 +209,11 @@
   <string name="file_loading">"読み込み中…"</string>
   <string name="file_name_invalid">"ファイル名には次の文字を含めることはできません: /\\:*?&lt;>"</string>
   <string name="file_not_exist">"ファイルが存在しません"</string>
+  <string name="finish_str">Done</string>
   <string name="folder_name_empty">"フォルダ名は空にすることはできません"</string>
   <string name="folder_name_illegal">"無効なフォルダ名"</string>
   <string name="follow_fail">"Couldn't follow, try again later"</string>
+  <string name="follow_success_tip">Followed successfully</string>
   <string name="follow_tip_1">Follow me to watch more videos</string>
   <string name="follow_tip_2">Follow me to watch more videos</string>
   <string name="force_touch_clean">Clean up</string>
@@ -317,8 +324,11 @@
   <string name="move_icon_to_desktop_success">"ホーム画面にショートカットを追加しました。"</string>
   <string name="move_to">"移動先を指定…"</string>
   <string name="msg_notify_setting">"通知設定"</string>
+  <string name="msg_page_video_default_title">I uploaded a video, take a look!</string>
   <string name="msg_set_password">"初めにパスワードを設定"</string>
+  <string name="my_follows">My feed</string>
   <string name="name_empty">"名前を入力する必要があります。"</string>
+  <string name="need_login">Sign in first</string>
   <string name="need_read_storage_permission">"Explorerが正常に動作するには、デバイスの内部ストレージにアクセスする必要があります。"</string>
   <string name="network_dialog_checkbox_tip">"二度と表示しない"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
@@ -326,6 +336,7 @@
   <string name="network_spent_reminding_title">Data usage notification</string>
   <string name="new_comments">New comments</string>
   <string name="new_folder_name">Unnamed folder</string>
+  <string name="next_time">Not now</string>
   <string name="no">"いいえ"</string>
   <string name="no_apk">Tap to get apps</string>
   <string name="no_app_tags">Empty</string>
@@ -342,6 +353,7 @@
   <string name="no_new_content_tip">"すべての項目が最新の状態です"</string>
   <string name="no_recent_files">No recent files</string>
   <string name="no_topic">No topics</string>
+  <string name="no_videos">Nothing here. Check out the ones below!</string>
   <string name="no_wifi">"ネットワークが見つかりません"</string>
   <string name="no_wifi_hint">No connection</string>
   <string name="not_installed_documentsui">"DocumentsUIがインストールされていません"</string>
@@ -399,6 +411,7 @@
   <string name="operation_show_sys">"隠しファイルを表示"</string>
   <string name="operation_unfavorite">Unfavorite</string>
   <string name="origin_name">%1$s: </string>
+  <string name="original_user_desc">Upload original videos regularly to gain the Creator status</string>
   <string name="original_user_qq_group">Join Talent team QQ group</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; joined the community</string>
   <string name="original_user_signal">Talent team</string>
@@ -473,6 +486,7 @@
   <string name="qzone_platform">Qzone</string>
   <string name="recent_show">Recent</string>
   <string name="recommend">Recommended</string>
+  <string name="recommend_popup_title">Recommendations</string>
   <string name="recommend_topic">Recommended topics</string>
   <string name="recommend_user">Recommended profiles</string>
   <string name="remote_video_report_success">"Thank you for your feedback! We'll follow up as soon as possible."</string>
@@ -529,6 +543,8 @@
   <string name="search_title_hint">Search</string>
   <string name="select_dest_folder">Select folder</string>
   <string name="select_image">Images</string>
+  <string name="select_interest_str">Select the topics you like</string>
+  <string name="select_interest_tip">Theres a lot to discover!</string>
   <string name="select_music">Audio files</string>
   <string name="select_video">Video files</string>
   <string name="select_volume">Select volume</string>
@@ -564,6 +580,8 @@
   <string name="share_title_09">%s I shared a video, take a look!</string>
   <string name="share_title_1">Found a cool sticker bundle!</string>
   <string name="share_to">Share to…</string>
+  <string name="share_topic_desc">Upload videos to get prizes</string>
+  <string name="share_topic_title">"I'm watching #%1$s#, take a look!"</string>
   <string name="share_youliao1">Upgrade to watch more episodes.</string>
   <string name="share_youliao2">Upgrade to watch more episodes.</string>
   <string name="share_youliao3">Upgrade to watch more episodes.</string>
@@ -607,6 +625,7 @@
   <string name="tab_local">LOCAL</string>
   <string name="tab_mine">Profile</string>
   <string name="tab_more">More</string>
+  <string name="tab_msg">Messages</string>
   <string name="tab_newest_video">New</string>
   <string name="tab_ranking_list">Ranking list</string>
   <string name="tab_source">Apps</string>
@@ -673,11 +692,13 @@
   <string name="used">Used</string>
   <string name="user_cancel">"キャンセルしました"</string>
   <string name="user_center_title">Home</string>
+  <string name="user_desc_default_tip">Sign in to collect points and win prizes.</string>
   <string name="user_follow_me_title">My followers</string>
   <string name="user_follow_title">People I follow</string>
   <string name="user_guide_continue_use">OK</string>
   <string name="user_guide_more_login">"その他の方法でログイン"</string>
   <string name="user_icon">"プロフィール写真"</string>
+  <string name="user_id_tip">ID: </string>
   <string name="user_info_setting">"情報を編集"</string>
   <string name="user_like_text">Likes</string>
   <string name="user_liked_video_title">Videos I liked</string>
@@ -749,6 +770,7 @@
   <string name="video_publish_hint">A good description will help other people find your video</string>
   <string name="video_publish_hint2">Description</string>
   <string name="video_publish_origin_tag">Original tag</string>
+  <string name="video_publish_watchable_limit">You can do this twice every day</string>
   <string name="video_publish_watchable_tag">Follow me to watch this video</string>
   <string name="video_recommend_upload">Recommended</string>
   <string name="video_status_reject">Rejected</string>
@@ -794,6 +816,12 @@
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">"はい"</string>
   <string name="yesterday">"昨日"</string>
+  <string name="you_liao_god_desc">Upload videos regularly and expand your fan base to gain the Gentleman status</string>
+  <string name="you_liao_god_str">Gentleman</string>
+  <string name="you_liao_goddess_desc">Upload videos regularly and expand your fan base to gain the Lady status​</string>
+  <string name="you_liao_goddess_str">Lady</string>
+  <string name="you_liao_xunlei_desc">Sign a contract with us to gain the Host status</string>
+  <string name="you_liao_xunlei_str">Xunlei host</string>
   <string name="youliao_ad_msg">"Have fun with \"Youliao\"!
 Join 170 million Mi Fans!"</string>
   <string name="youliao_ad_title">Popular videos have been upgraded!</string>

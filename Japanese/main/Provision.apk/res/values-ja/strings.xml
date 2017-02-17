@@ -21,7 +21,6 @@
   <string name="input_method_setting">"キーボードを選択"</string>
   <string name="install_preinstall_app">"アプリを読み込み中…"</string>
   <string name="language_picker_other_languages_title">"その他の言語"</string>
-  <string name="language_picker_popular_languages_title">"人気のある言語"</string>
   <string name="locale_picker_title">Choose your region</string>
   <string name="miui_privacy_policy_no_network">"You don't have an internet connection. View the Privacy Policy at %s."</string>
   <string name="miui_terms_no_network">"You don't have an internet connection. View the Terms of Service at %s."</string>
@@ -58,7 +57,7 @@
   <string name="terms_of_use">"利用規約"</string>
   <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. You need to connect to the internet to activate Mi services, SIM card activation, Find device and Mi Home."</string>
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Find device, system component MSA, and statistic components will connect to the internet and acquire your location."</string>
   <string name="title_fingerprint">Add your fingerprint</string>
   <string name="user_agreement">"利用規約"</string>
   <string name="welcome">"ようこそ"</string>

@@ -13,6 +13,7 @@
   <string name="default_directory">"連絡先"</string>
   <string name="edit_contact">"連絡先に追加"</string>
   <string name="local_invisible_directory">"その他"</string>
+  <string name="low_memory_toast">"Can't continue to use due to low memory."</string>
   <string name="pound_search_tip">"連絡先を検索するには#の後に番号を入力"</string>
   <string name="provider_label">"連絡先"</string>
   <string name="read_write_all_voicemail_description">Allows the app to store and retrieve all voicemails that this device can access.</string>
