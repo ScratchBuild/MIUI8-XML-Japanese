@@ -157,7 +157,7 @@
   <string name="add_pre_message_attachments_no">"追加しない"</string>
   <string name="add_pre_message_attachments_yes">"追加する"</string>
   <string name="add_star">Star</string>
-  <string name="allread">Read all</string>
+  <string name="allread">"すべてを既読にする"</string>
   <string name="always_bcc_myself">Always Bcc self</string>
   <string name="always_show_images">この送信者からの画像を常に表示する</string>
   <string name="app_name">"メール"</string>
@@ -366,15 +366,14 @@
   <string name="download_confirm_title">"添付ファイルをダウンロード"</string>
   <string name="download_message_failed_for_too_large">"メッセージが大きすぎてダウンロードできません。"</string>
   <string name="draft_count_format"> (%1$s)</string>
-  <string name="drawer_close">Close navigation drawer</string>
+  <string name="drawer_close">"ナビゲーションドロワーを閉じる"</string>
   <string name="drawer_contacts">"連絡先"</string>
-  <string name="drawer_open">Open navigation drawer</string>
+  <string name="drawer_open">"ナビゲーションドロワーを開く"</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">"クイック返信"</string>
   <string name="elided_padding_token"> </string>
   <string name="email_address">"メールアドレス"</string>
-  <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Mail</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_setting">Mail</string>
@@ -736,7 +735,6 @@
   <string name="pop3_name">POP3</string>
   <string name="prefDefault_autoAdvance">list</string>
   <string name="preference_eas_tips">Tap Activate to set up mail server.</string>
-  <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">In POP3, attachments will be automatically downloaded with email. This may increase your mobile data usage.</string>
   <string name="preference_sender_image_description">"Show profile pictures next to sender's name in inbox"</string>
   <string name="preference_sender_image_title">Show profile pictures in inbox</string>
@@ -893,7 +891,6 @@
   <string name="ser_resp_err_map_serclosed">%s server closed</string>
   <string name="ser_resp_err_map_ssl">"Choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
   <string name="set_network">Set network</string>
-  <string name="setting_default_lable"/>
   <string name="settings_activity_title">"設定"</string>
   <string name="share_choose">"共有するファイルを選択"</string>
   <string name="sharing">"共有"</string>
@@ -985,10 +982,6 @@
   <string name="upload_logs_keywords">upload logs</string>
   <string name="uploading_logs">"読み込み中…"</string>
   <string name="validation_failed_prompt">"アカウントを確認できません、%sのサーバー設定を確認してください"</string>
-  <string name="veiled_address"/>
-  <string name="veiled_alternate_text"/>
-  <string name="veiled_alternate_text_unknown_person"/>
-  <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">View more conversations</string>
   <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.

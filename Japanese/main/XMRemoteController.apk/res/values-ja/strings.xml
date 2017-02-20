@@ -756,7 +756,7 @@ Then answer the question"</string>
   <string name="program_booking_channel_filter_all_channels">All Channels</string>
   <string name="program_booking_date_filter_day_0">"今日"</string>
   <string name="program_booking_date_filter_day_1">"明日"</string>
-  <string name="program_booking_date_filter_day_2">Day after tomorrow</string>
+  <string name="program_booking_date_filter_day_2">"明後日"</string>
   <string name="program_booking_date_filter_friday">Friday</string>
   <string name="program_booking_date_filter_monday">Monday</string>
   <string name="program_booking_date_filter_next">"次へ"</string>

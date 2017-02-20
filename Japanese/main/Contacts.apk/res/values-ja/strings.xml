@@ -130,7 +130,7 @@
   <string name="callrecordview_menu_recharge">Top up</string>
   <string name="callrecordview_menu_save_to_group">グループへ通話履歴を保存する</string>
   <string name="callrecordview_menu_settings">"設定"</string>
-  <string name="callrecordview_menu_show">"フィルター"</string>
+  <string name="callrecordview_menu_show">"フィルタ"</string>
   <string name="callrecordview_menu_show_accepted">"着信のみ"</string>
   <string name="callrecordview_menu_show_all">"すべての通話"</string>
   <string name="callrecordview_menu_show_called">"発信のみ"</string>

@@ -230,11 +230,11 @@
   <string name="context_menu_add_contact">"連絡先に追加"</string>
   <string name="context_menu_copy">"コピー"</string>
   <string name="context_menu_copy_notice">"クリップボードにコピーしました"</string>
-  <string name="create_baby_album">Create a Baby album</string>
-  <string name="create_baby_album_dialog_msg">Create an album for \"%s\"?</string>
-  <string name="create_baby_album_later_toast">Create a Baby album anytime in Settings</string>
-  <string name="create_new_album">Create an album</string>
-  <string name="create_new_album_failed">"Couldn't create"</string>
+  <string name="create_baby_album">"赤ちゃんのアルバムを作成"</string>
+  <string name="create_baby_album_dialog_msg">"\"%s\"のためのアルバムを作成しますか？"</string>
+  <string name="create_baby_album_later_toast">"[設定]からいつでも赤ちゃんのアルバムを作成できます"</string>
+  <string name="create_new_album">"アルバムを作成"</string>
+  <string name="create_new_album_failed">"作成できませんでした"</string>
   <string name="create_new_face">New person</string>
   <string name="create_quick_icon_on_desk">"ショートカットを作成"</string>
   <string name="creating_baby_album">"アルバムを作成中…"</string>
@@ -291,7 +291,7 @@
   <string name="download_title">"ファイルの準備中…"</string>
   <string name="download_without_wifi_msg">"Using mobile data connection to download photos will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="download_without_wifi_title">"データ使用の警告"</string>
-  <string name="edit_baby_info">View baby info</string>
+  <string name="edit_baby_info">"赤ちゃんの情報を表示"</string>
   <string name="email_picker_title">Add shared email</string>
   <string name="empty_query_text_msg">"Don't know what to search for…"</string>
   <string name="empty_recommend_back">"戻る"</string>
