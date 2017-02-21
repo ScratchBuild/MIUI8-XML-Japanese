@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">"ホームに移動"</string>
+  <string name="abc_action_bar_home_description">"ホームへ移動"</string>
   <string name="abc_action_bar_home_description_format">%1$s、%2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s、%2$s、%3$s</string>
-  <string name="abc_action_bar_up_description">"上に移動"</string>
+  <string name="abc_action_bar_up_description">"上へ移動"</string>
   <string name="abc_action_menu_overflow_description">"その他のオプション"</string>
   <string name="abc_action_mode_done">"完了"</string>
   <string name="abc_activity_chooser_view_see_all">"すべて表示"</string>
-  <string name="abc_activitychooserview_choose_application">"アプリを選択"</string>
+  <string name="abc_activitychooserview_choose_application">"アプリの選択"</string>
   <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
   <string name="abc_search_hint">"検索…"</string>
@@ -128,9 +128,9 @@
   <string name="cancel_share_done">"共有を停止しました"</string>
   <string name="cancel_timer">"タイマーをキャンセル"</string>
   <string name="cannot_be_used_in_current_mode">"現在のモードでは&lt;%1$s&gt;を使用できません"</string>
-  <string name="carrier_data">Carrier info</string>
+  <string name="carrier_data">"キャリア情報"</string>
   <string name="cast_screen">"Mi TV"</string>
-  <string name="change_channel">机顶盒换台</string>
+  <string name="change_channel">"チャンネルを変更"</string>
   <string name="change_to_channel">Switching [%1$s] %2$s</string>
   <string name="channel">"チャンネル"</string>
   <string name="channel_added_to_fav">%1$s added to favorites</string>
@@ -221,7 +221,7 @@
   <string name="epg_cancel_book_program">%1$s [%2$s] Cancel</string>
   <string name="epg_change_channel">Switch channels</string>
   <string name="epg_change_channel_casting">Change channel （being broadcasted）</string>
-  <string name="epg_change_channel_expired">换台 （已结束）</string>
+  <string name="epg_change_channel_expired">Change channel （ended broadcasted）</string>
   <string name="epg_change_channel_not_casting">Change channel （broadcasted in %1$s）</string>
   <string name="epg_channel_group_open">"すべて表示"</string>
   <string name="epg_channel_operation_tip">Press the channel to edit or add to favorites</string>
@@ -243,7 +243,7 @@
   <string name="epg_have_no_fav_channel">You have no favorite channels</string>
   <string name="epg_home_sliding_down">Sliding down</string>
   <string name="epg_home_sliding_up">Sliding up</string>
-  <string name="epg_hot_channels">Channels</string>
+  <string name="epg_hot_channels">"チャンネル"</string>
   <string name="epg_hot_comment_list_title">Top comments</string>
   <string name="epg_hot_programs">Shows</string>
   <string name="epg_latest_comment_list_title">Recent Comments （%1$d）</string>
@@ -989,15 +989,15 @@ directly from your Lock screen"</string>
   <string name="tv_mirror_intro">Show display controls in landscape mode</string>
   <string name="tv_noresponse_tips">电视/盒子没有响应，请稍后再试</string>
   <string name="tv_power">TV on/off</string>
-  <string name="udt_conn_error">Device not connected</string>
-  <string name="udt_timeout_error">Timeout. Please check your network connection</string>
-  <string name="udt_version_error">Version error，please update to the latest version</string>
+  <string name="udt_conn_error">"デバイスが接続されていません"</string>
+  <string name="udt_timeout_error">"タイムアウト。ネットワーク接続を確認してください"</string>
+  <string name="udt_version_error">"バージョンエラー、最新バージョンに更新してください"</string>
   <string name="unknown">"不明"</string>
   <string name="unkown_device_input_hint">Enter device model</string>
   <string name="unkown_device_main">"Can't pair this device."</string>
   <string name="unkown_device_sub">Send us details about this device so that we can support it later on</string>
   <string name="unkown_device_title">"Couldn't get device info"</string>
-  <string name="unset">Not set</string>
+  <string name="unset">"未設定"</string>
   <string name="updated_at">"最終更新: %1$s前"</string>
   <string name="updated_just_now">Just updated</string>
   <string name="upgrade_already_latest">"利用可能な更新はありません"</string>

@@ -767,7 +767,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="start_to_download">"ダウンロード中…"</string>
   <string name="start_to_play">"再生"</string>
   <string name="start_to_use">Open Music</string>
-  <string name="start_update">Update to the latest version of the Music app.</string>
+  <string name="start_update">"Musicアプリを最新バージョンに更新する。"</string>
   <string name="stop">"停止"</string>
   <string name="stop_backup">"停止"</string>
   <string name="storage_internal">"内部ストレージ"</string>

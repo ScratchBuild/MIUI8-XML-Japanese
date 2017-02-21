@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">"ホームに移動"</string>
-  <string name="abc_action_bar_up_description">"上に移動"</string>
+  <string name="abc_action_bar_home_description">"ホームへ移動"</string>
+  <string name="abc_action_bar_up_description">"上へ移動"</string>
   <string name="abc_action_menu_overflow_description">"もっと"</string>
   <string name="abc_action_mode_done">"完了"</string>
   <string name="abc_action_mode_select_all">"すべて選択"</string>

@@ -42,7 +42,7 @@
   <string name="app_plugin_ready">%1$s installed</string>
   <string name="app_update_background">Update app in background.</string>
   <string name="app_upgrade_hint">Click to watch the full polymerization, HD online video.</string>
-  <string name="app_upgrade_title">Mi Video is already upgraded to latest version.</string>
+  <string name="app_upgrade_title">"Mi Videoは既に最新バージョンに更新済みです。"</string>
   <string name="app_upgrade_version">"更新が利用可能"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi_mode">"自動的に更新"</string>

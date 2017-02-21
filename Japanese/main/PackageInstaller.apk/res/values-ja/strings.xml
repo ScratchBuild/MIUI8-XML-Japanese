@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Parse_error_dlg_text">"パッケージの解析中に問題が発生しました。"</string>
-  <string name="abc_action_bar_home_description">"ホームに移動"</string>
+  <string name="abc_action_bar_home_description">"ホームへ移動"</string>
   <string name="abc_action_bar_home_description_format">%1$s、%2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s、%2$s、%3$s</string>
-  <string name="abc_action_bar_up_description">"上に移動"</string>
+  <string name="abc_action_bar_up_description">"上へ移動"</string>
   <string name="abc_action_menu_overflow_description">"その他のオプション"</string>
   <string name="abc_action_mode_done">"完了"</string>
   <string name="abc_activity_chooser_view_see_all">"すべて表示"</string>
-  <string name="abc_activitychooserview_choose_application">"アプリを選択"</string>
+  <string name="abc_activitychooserview_choose_application">"アプリの選択"</string>
   <string name="abc_search_hint">"検索…"</string>
   <string name="abc_searchview_description_clear">"検索キーワードを削除"</string>
   <string name="abc_searchview_description_query">"検索キーワード"</string>
@@ -87,11 +87,11 @@
   <string name="bluetooth_sap_profile_summary_connected">SAPに接続</string>
   <string name="bluetooth_sap_profile_summary_use_for">SIMアクセスに使用</string>
   <string name="btn_text_full_scan">"フルスキャン"</string>
-  <string name="btn_text_install_new_version">Latest version</string>
-  <string name="btn_text_install_origin">Original version</string>
-  <string name="btn_text_install_security_version_in_appstore">Replace with safe version</string>
+  <string name="btn_text_install_new_version">"最新バージョン"</string>
+  <string name="btn_text_install_origin">"元のバージョン"</string>
+  <string name="btn_text_install_security_version_in_appstore">"安全なバージョンに置き換える"</string>
   <string name="btn_text_scaning">"スキャン中…"</string>
-  <string name="btn_text_security_install">Replace with safe version</string>
+  <string name="btn_text_security_install">"安全なバージョンに置き換える"</string>
   <string name="caller_app">"%1$sからの権限リクエスト"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="connected_via_passpoint">%1$s経由で接続しました</string>
@@ -307,8 +307,8 @@
   <string name="uninstall_failed_device_policy_manager_of_user">"このパッケージは、現在%1$sさんの端末を管理しているため、アンインストールできません。"</string>
   <string name="uninstall_failed_msg">"%1$sをアンインストールできませんでした。"</string>
   <string name="uninstall_failed_retained_app_msg">"This app has been modified and can't be uninstalled in its current form."</string>
-  <string name="uninstall_update_text">Replace this app with the factory version? All data will be removed.</string>
-  <string name="uninstall_update_text_multiuser">Replace this app with the factory version? All data will be removed. This affects all users of this device, including those with work profiles.</string>
+  <string name="uninstall_update_text">"アプリを工場出荷時のバージョンに置き換えますか？すべてのデータが削除されます。"</string>
+  <string name="uninstall_update_text_multiuser">"アプリを工場出荷時のバージョンに置き換えますか？すべてのデータが削除されます。この操作はこのデバイス上のすべてのユーザーに影響を与えます。これは仕事用プロファイルも含みます。"</string>
   <string name="uninstall_update_title">"アップデートをアンインストール"</string>
   <string name="uninstalling">"アンインストール中..."</string>
   <string name="unknown">"不明"</string>
@@ -334,9 +334,5 @@
   <string name="wifi_no_internet">インターネットアクセスを検出できないため、自動的に再接続されません。</string>
   <string name="wifi_not_in_range">"圏外"</string>
   <string name="wifi_remembered">"保存済み"</string>
-  <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-  <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_none">"なし"</string>
-  <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-  <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
 </resources>

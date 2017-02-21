@@ -1116,7 +1116,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_info_settings">端末の状態</string>
   <string name="device_internal_memory">内部ストレージ</string>
   <string name="device_memory">RAM</string>
-  <string name="device_miui_more">View more</string>
+  <string name="device_miui_more">もっと見る</string>
   <string name="device_miui_version">MIUIバージョン</string>
   <string name="device_miui_version_update">MIUIの更新が利用可能です</string>
   <string name="device_name">端末名</string>
@@ -4311,11 +4311,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_scan_notify_remember_choice">次回から表示しない</string>
   <string name="wifi_scan_notify_text">位置情報の精度を向上させるため、Wi-FiがOFFの場合でもシステムのアプリやサービスはWi‑Fiネットワークをスキャンできます。この設定は、LINK_BEGINスキャンの設定LINK_ENDで変更できます。</string>
   <string name="wifi_security">セキュリティ</string>
-  <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-  <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_none">なし</string>
-  <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-  <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_select_assistant_dialog_title">アシスタントの選択</string>
   <string name="wifi_select_network">Wi-Fiを選択</string>
   <string name="wifi_setting_category">利用可能なネットワーク</string>

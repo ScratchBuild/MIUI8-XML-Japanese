@@ -312,8 +312,8 @@ EEEE"</string>
   <string name="status_bar_recording_pause">レコーダー 一時停止</string>
   <string name="status_bar_safepay_risk">Payment risks found</string>
   <string name="status_bar_safepay_safe">No payment risks found</string>
-  <string name="status_bar_safepay_scanning">Checking payment environment…</string>
-  <string name="status_bar_safepay_unknown">"Couldn't check payment environment"</string>
+  <string name="status_bar_safepay_scanning">支払い環境を確認しています…</string>
+  <string name="status_bar_safepay_unknown">支払い環境を確認できませんでした</string>
   <string name="status_bar_settings_airplane">機内モード</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">インターネット接続なし</string>
@@ -375,9 +375,5 @@ EEEE"</string>
   <string name="wifi_no_internet">インターネットアクセスを検出できないため、自動的に再接続されません。</string>
   <string name="wifi_not_in_range">圏外</string>
   <string name="wifi_remembered">保存済み</string>
-  <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-  <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_none">なし</string>
-  <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-  <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
 </resources>

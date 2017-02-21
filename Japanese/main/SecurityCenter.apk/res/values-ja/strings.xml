@@ -330,8 +330,8 @@
   <string name="card_main_netcheck_title">Test network</string>
   <string name="card_main_overscroll_tips">Security at its best</string>
   <string name="card_main_paysafe_action">"オンにする"</string>
-  <string name="card_main_paysafe_summary">Scan payment environment for potential risks</string>
-  <string name="card_main_paysafe_title">Payment security</string>
+  <string name="card_main_paysafe_summary">"支払い環境の潜在的リスクをスキャンする"</string>
+  <string name="card_main_paysafe_title">"支払いのセキュリティ"</string>
   <string name="card_main_private_space_action">"作成"</string>
   <string name="card_main_private_space_summary">Using Second space is like having 2 devices</string>
   <string name="card_main_private_space_title">Second space</string>
@@ -837,7 +837,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="open_app">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
   <string name="open_now">Allow app to use mobile data</string>
-  <string name="operator_diagnostic">Carrier diagnostics</string>
+  <string name="operator_diagnostic">"キャリア診断"</string>
   <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
@@ -1315,7 +1315,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_mms">Block SMS spam automatically</string>
   <string name="summary_network_switch">Allow Security app to connect to the internet</string>
   <string name="summary_never_flow_verify">"This number hasn't been verified with your carrier"</string>
-  <string name="summary_payment_risk">"Looks like payment environment isn't secure"</string>
+  <string name="summary_payment_risk">"支払い環境が安全ではないように見えます。"</string>
   <string name="summary_permission">Avoid unwanted payments and protect personal data</string>
   <string name="summary_permission_root">Looks like this device has root access. It may damage the security of your device.</string>
   <string name="summary_power_optimizer">"Reduce your device's performance when battery is low"</string>
@@ -1354,12 +1354,12 @@ If you haven't modified MIUI in any way, make sure you know where this device co
 2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Tap to adjust location</string>
   <string name="tc_diagnostic_location_error_notification_title">Wrong location</string>
-  <string name="tc_diagnostic_notification_sumarry">Tap to view results</string>
+  <string name="tc_diagnostic_notification_sumarry">"結果を表示するにはタップ"</string>
   <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
-  <string name="tc_diagnostic_notification_title">Carrier diagnostics</string>
+  <string name="tc_diagnostic_notification_title">"キャリア診断"</string>
   <string name="tc_diagnostic_onekey_repair_botton">"修復"</string>
-  <string name="tc_diagnostic_operator_error_notification_summary">Tap to change carrier settings</string>
-  <string name="tc_diagnostic_operator_error_notification_title">Wrong carrier</string>
+  <string name="tc_diagnostic_operator_error_notification_summary">"キャリアの設定を変更するにはタップ"</string>
+  <string name="tc_diagnostic_operator_error_notification_title">"間違ったキャリア"</string>
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier&lt;br/&gt;&lt;br/&gt;Set carrier: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Fix and continue</string>
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location issues.&lt;/font&gt;"</string>
@@ -1378,7 +1378,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
   <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_title">Carrier diagnostics</string>
+  <string name="tc_diagnostic_title">"キャリア診断"</string>
   <string name="tc_diagnostic_upload_button">"報告"</string>
   <string name="tc_diagnostic_upload_no_network">"ご意見ありがとうございます！ あなたの報告はネットワークに接続したときに送信されます。"</string>
   <string name="tc_diagnostic_upload_success">"ご意見ありがとうございます！"</string>
@@ -1471,7 +1471,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_network_switch">Network connection</string>
   <string name="title_of_app_manage">"アプリ"</string>
   <string name="title_of_auto_launch_manage">Autostart</string>
-  <string name="title_of_operators_set">Carrier settings</string>
+  <string name="title_of_operators_set">"キャリアの設定"</string>
   <string name="title_of_package_set">"データプランの設定"</string>
   <string name="title_payment_risk">Payment risks found</string>
   <string name="title_permission_no">Permission manager off</string>
