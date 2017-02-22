@@ -37,9 +37,9 @@
   <string name="STRANGER_BLOCK">Stranger blocklist</string>
   <string name="action_source_sms_title">Blocked SMS</string>
   <string name="ad_block_hint">%d blocked</string>
-  <string name="ad_install_monitor">Inspect apps for adware</string>
-  <string name="ad_install_monitor_hint">Check for adware when installing apps</string>
-  <string name="ad_permission_hint">"Using Ad blocker may affect your apps' performance or prevent them from working normally."</string>
+  <string name="ad_install_monitor">"アドウェアのアプリを検査"</string>
+  <string name="ad_install_monitor_hint">"アプリのインストール時にアドウェアをチェックする"</string>
+  <string name="ad_permission_hint">"Ad blockerを使用すると、他のアプリのパフォーマンスが低下したり、正常に動作しなくなる可能性があります。"</string>
   <string name="ad_relative_setting">"関連する設定"</string>
   <string name="ad_single_block_hint">Blocked</string>
   <string name="ad_update_setting">"更新"</string>
@@ -56,23 +56,23 @@
   <string name="antispam_notification_setting_title">"通知"</string>
   <string name="antispam_xpace_text">Switch to First space to set Blocklist</string>
   <string name="app_name">"ブロックリスト"</string>
-  <string name="backsound_set_hint">Set your away message to %s?</string>
+  <string name="backsound_set_hint">"不在メッセージを%sに設定しますか？"</string>
   <string name="baidu_thanks">Powered by Baidu</string>
   <string name="birthday">"誕生日"</string>
-  <string name="bl_block_info" formatted="false">Calls: %d | SMS: %d</string>
-  <string name="bl_no_blacklist">No blocked numbers.</string>
-  <string name="bl_no_block_call">No blocked calls.</string>
-  <string name="bl_no_block_sms">No blocked SMS.</string>
-  <string name="blacklist_prefix_add_hint">Block all numbers that begin with this prefix</string>
+  <string name="bl_block_info" formatted="false">"通話: %d | SMS: %d"</string>
+  <string name="bl_no_blacklist">"ブロックされた番号はありません。"</string>
+  <string name="bl_no_block_call">"ブロックされた通話はありません。"</string>
+  <string name="bl_no_block_sms">"ブロックされたSMSはありません。"</string>
+  <string name="blacklist_prefix_add_hint">"このプレフィックスで始まるすべての番号をブロックする"</string>
   <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
-  <string name="block_phone_number">Calls: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">"通話: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;"</string>
   <string name="button_text_delete">"削除"</string>
   <string name="button_to_setting">"設定"</string>
-  <string name="call_delete_hint">Delete all blocked calls from this number?</string>
-  <string name="call_delete_title">Remove Call</string>
-  <string name="call_transfer_block">Block forwarded calls</string>
-  <string name="call_transfer_block_type">Block forwarded calls</string>
-  <string name="call_transfer_info">Block calls forwarded from unknown numbers</string>
+  <string name="call_delete_hint">"この番号からブロックされたすべての通話を削除しますか？"</string>
+  <string name="call_delete_title">"通話を削除"</string>
+  <string name="call_transfer_block">"転送された通話をブロック"</string>
+  <string name="call_transfer_block_type">"転送された通話をブロック"</string>
+  <string name="call_transfer_info">"不明な番号から転送された通話をブロックする"</string>
   <string name="cancle">"キャンセル"</string>
   <string name="close_callwait">Off</string>
   <string name="customizer_mode_user_define_name">"マイルール"</string>
@@ -197,7 +197,7 @@
   <string name="note_call_none">No calls</string>
   <string name="note_keyword_none">No keywords</string>
   <string name="note_list_none">"リストは空です"</string>
-  <string name="note_preference_delete">"Can't delete this rule while it's in use"</string>
+  <string name="note_preference_delete">"使用中にこのルールを削除することはできません"</string>
   <string name="note_sms_none">No messages</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">On</string>
@@ -222,7 +222,7 @@
   <string name="sim_not_ready">"SIM card isn't ready"</string>
   <string name="sim_not_ready_toast">"SIM card isn't ready"</string>
   <string name="sip_phone">SIP Phone</string>
-  <string name="sms_delete_hint">Delete all blocked messages from this number?</string>
+  <string name="sms_delete_hint">"この番号からブロックされたメッセージをすべて削除しますか？"</string>
   <string name="sms_delete_title">"メッセージを削除"</string>
   <string name="sms_smart_engine_update">"SMSフィルタを自動的に更新する"</string>
   <string name="special_number_group">Block reported numbers</string>
@@ -240,7 +240,7 @@
   <string name="st_antispam_des_smart_anti">"フィルタ"</string>
   <string name="st_antispam_des_uesless">Off</string>
   <string name="st_antispam_mode_add_new">"ルールを追加"</string>
-  <string name="st_antispam_mode_blacklist">Blocked numbers</string>
+  <string name="st_antispam_mode_blacklist">"ブロックされた番号"</string>
   <string name="st_antispam_mode_blacklist_sum">"Block calls and SMS from numbers you've added manually to the blocklist"</string>
   <string name="st_antispam_mode_customize_sum">"ブロックリストのルールを作成"</string>
   <string name="st_antispam_mode_denyownself_sum">"カスタムルール"</string>
@@ -306,7 +306,7 @@
   <string name="st_title_addwhitelist">"例外に追加"</string>
   <string name="st_title_adress">Add locations</string>
   <string name="st_title_adress_num">%d selected</string>
-  <string name="st_title_anticomintcall_backsound_setting">Message played to blocked numbers</string>
+  <string name="st_title_anticomintcall_backsound_setting">"ブロックされた番号に再生するメッセージ"</string>
   <string name="st_title_antispam_mode">"ルール"</string>
   <string name="st_title_back_sound_busy">Busy</string>
   <string name="st_title_back_sound_choose">Away message</string>
@@ -314,7 +314,7 @@
   <string name="st_title_back_sound_none">"Number doesn't exist"</string>
   <string name="st_title_back_sound_stop">Not in service</string>
   <string name="st_title_backsound_group">Away message</string>
-  <string name="st_title_blacklist_numbers">Blocked numbers</string>
+  <string name="st_title_blacklist_numbers">"ブロックされた番号"</string>
   <string name="st_title_call_wait">Call waiting notification</string>
   <string name="st_title_call_wait_setting">Call waiting</string>
   <string name="st_title_editblacklist">"ブロックリストを編集"</string>

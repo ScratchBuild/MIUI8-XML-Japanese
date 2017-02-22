@@ -34,7 +34,7 @@
   <string name="auto_play_recommend_tips">"自動で動画の再生を開始する"</string>
   <string name="auto_play_toast">"動画は自動で再生されます。これは[設定]から変更することができます。"</string>
   <string name="backup_cancel">"バックアップしない"</string>
-  <string name="backup_checkbox_msg">Back up automatically</string>
+  <string name="backup_checkbox_msg">"自動的にバックアップ"</string>
   <string name="backup_confirm">"今すぐバックアップ"</string>
   <string name="backup_success_cancel">OK</string>
   <string name="backup_success_confirm">"表示"</string>
@@ -114,7 +114,7 @@
   <string name="compress_message">"圧縮先を指定…"</string>
   <string name="compress_title">"圧縮"</string>
   <string name="confirm">OK</string>
-  <string name="confirm_clean">Clean up</string>
+  <string name="confirm_clean">"クリーンアップ"</string>
   <string name="confirm_know">OK</string>
   <string name="connecting">"接続中…"</string>
   <string name="connection_error">"接続できませんでした"</string>
@@ -216,7 +216,7 @@
   <string name="follow_success_tip">Followed successfully</string>
   <string name="follow_tip_1">Follow me to watch more videos</string>
   <string name="follow_tip_2">Follow me to watch more videos</string>
-  <string name="force_touch_clean">Clean up</string>
+  <string name="force_touch_clean">"クリーンアップ"</string>
   <string name="force_touch_search">"ファイルを検索"</string>
   <string name="found_router">Router connected</string>
   <string name="found_usb">"USBストレージが接続されました"</string>
@@ -289,7 +289,7 @@
   <string name="make_private_msg_2">Hide these files?</string>
   <string name="make_private_msg_3">All files in this folder will be hidden.</string>
   <string name="male">"男性"</string>
-  <string name="menu_item_cleanup">Clean up</string>
+  <string name="menu_item_cleanup">"クリーンアップ"</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Mi Drop</string>
   <string name="menu_item_router">"ルーター"</string>
@@ -453,7 +453,7 @@
   <string name="phone_storage_apk_title">APKs: </string>
   <string name="phone_storage_audio_title">Music: </string>
   <string name="phone_storage_cal">Checking…</string>
-  <string name="phone_storage_clean">Clean up</string>
+  <string name="phone_storage_clean">"クリーンアップ"</string>
   <string name="phone_storage_doc_title">Docs: </string>
   <string name="phone_storage_free_title">Available: </string>
   <string name="phone_storage_image_title">Images: </string>

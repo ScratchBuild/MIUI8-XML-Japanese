@@ -201,7 +201,7 @@
   <string name="app_disable_dlg_positive">アプリを無効にする</string>
   <string name="app_disable_dlg_text">このアプリを無効にすると、他のアプリが意図されたとおりに動作しなくなる可能性があります。</string>
   <string name="app_disable_dlg_title">内蔵アプリを無効にしますか？</string>
-  <string name="app_disable_notifications_dlg_text">このアプリの通知をOFFにすると、重要なアラートや更新を見逃すおそれがあります。</string>
+  <string name="app_disable_notifications_dlg_text">このアプリの通知をOFFにすると、重要なアラートや更新を見逃す恐れがあります。</string>
   <string name="app_disable_notifications_dlg_title">通知をOFFにしますか？</string>
   <string name="app_factory_reset">アップデートのアンインストール</string>
   <string name="app_factory_reset_dlg_text">このAndroidシステムアプリへのすべてのアップデートはアンインストールされます。</string>
@@ -1087,7 +1087,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="deny">許可しない</string>
   <string name="details_subtitle">使用状況の詳細</string>
   <string name="details_title">使用状況の詳細</string>
-  <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりするおそれがあります。</string>
+  <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりする恐れがあります。</string>
   <string name="dev_settings_warning_title">開発用の設定を許可しますか？</string>
   <string name="developer_build">" | Beta"</string>
   <string name="development_enable">開発者向けオプション</string>
@@ -3167,7 +3167,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="service_restarting">再起動中</string>
   <string name="service_started_by_app">アプリによって起動されたサービス。</string>
   <string name="service_stop">停止</string>
-  <string name="service_stop_description">このサービスはアプリによって起動されました。停止するとアプリに問題が発生するおそれがあります。</string>
+  <string name="service_stop_description">このサービスはアプリによって起動されました。停止するとアプリに問題が発生する恐れがあります。</string>
   <string name="services_subtitle">サービス</string>
   <string name="setting_privacy_password">プライバシー保護パスワードを設定</string>
   <string name="settings_ad_loading">読み込み中…</string>
@@ -3552,7 +3552,7 @@ PINが正しくない可能性があります。"</string>
   <string name="storage_wizard_ready_title">"^1の準備が整いました"</string>
   <string name="storage_wizard_slow_body">"この^1は速度が遅いようです。
 
-続行することはできますが、この場所に移動したアプリはスムーズに動作しないおそれがあります。また、データの転送に時間がかかる可能性があります。
+続行することはできますが、この場所に移動したアプリはスムーズに動作しない恐れがあります。また、データの転送に時間がかかる可能性があります。
 
 快適にご利用いただくには、高速の^1を使用することをご検討ください。"</string>
   <string name="storageuse_settings_summary">アプリのストレージ使用状況を表示する</string>

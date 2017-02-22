@@ -468,8 +468,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_dspt_provision">"Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">". You can turn this feature on or off anytime in Settings.
-"</string>
+  <string name="sync_dspt_provision3">". You can turn this feature on or off anytime in Settings."</string>
   <string name="sync_dspt_provision_header">同期</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
@@ -499,8 +498,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="upgrade_space_successful_total">%sGB available</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">"利用規約"</string>
-  <string name="user_agreement_p5">"
-"</string>
+  <string name="user_agreement_p5">""</string>
   <string name="user_agreement_p6">"このサービスを利用することで、あなたは "</string>
   <string name="user_agreement_p7">"Mi Cloud 利用規約"</string>
   <string name="user_agreement_p8">" に同意されたものとみなします。"</string>

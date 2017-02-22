@@ -15,7 +15,7 @@
   <string name="auto_backup_choose_title">"バックアップするアイテムを選択"</string>
   <string name="auto_backup_date">"日付"</string>
   <string name="auto_backup_only_wifi">"Wi-Fi接続されている時のみ"</string>
-  <string name="auto_backup_open">Back up automatically</string>
+  <string name="auto_backup_open">"自動的にバックアップ"</string>
   <string name="auto_backup_progress">"バックアップ中…"</string>
   <string name="auto_backup_select_user_apps">"アプリを選択"</string>
   <string name="auto_backup_selected_user_apps">"選択したアプリ"</string>
@@ -95,7 +95,7 @@
   <string name="enable_encrypt_summery1">Sign in with your Mi Account to access encrypted backups.</string>
   <string name="enable_encrypt_summery2">"Your backups will be encrypted automatically. You'll need to sign in to your Mi Account to access them."</string>
   <string name="enable_encrypt_title">Encrypt backups</string>
-  <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s. To restore, delete the current account and sign in as %2$s.</string>
+  <string name="enable_encrypt_xiaomi_account">"このバックアップは%1$sによって作成されました。復元するには現在のアカウントを削除し、%2$sとしてログインしてください。"</string>
   <string name="err_authentication_failed">"認証に失敗しました"</string>
   <string name="err_bakfile_broken">"このバックアップは使用できません。"</string>
   <string name="err_filesystem_mount">"ルーターのストレージにアクセスできません"</string>
@@ -118,12 +118,12 @@
   <string name="guarded_mode_dialog_backup_message">"ゲストモードでのバックアップは許可されていません。"</string>
   <string name="guarded_mode_dialog_title">"あなたはゲストモードです"</string>
   <string name="guarded_mode_dialog_transfer_message">"ゲストモードでMi Moverを使用することはできません。"</string>
-  <string name="import_from_xiaomi_account_hint1">"1.\u0009Download the Mi Talk app and sign in.
+  <string name="import_from_xiaomi_account_hint1">"1.\u0009Mi Talkアプリをダウンロードしログインしてください。
 \u0009http://www.miliao.com
 
-2.\u0009Go to Mi Talk Settings and select ”Back up contacts to Mi Account”"</string>
-  <string name="import_from_xiaomi_account_hint2">If you already have a backup, touch Next.</string>
-  <string name="import_from_xiaomi_account_hint_title">Use Mi Talk to back up your contacts across devices.</string>
+2.\u0009Mi Talkアプリの設定を開き、”Mi Accountに連絡先をバックアップ”を選択します。"</string>
+  <string name="import_from_xiaomi_account_hint2">"既にバックアップがあれば、[次へ]をタップ。"</string>
+  <string name="import_from_xiaomi_account_hint_title">"Mi Talkを使用して、デバイス間で連絡先をバックアップします。"</string>
   <string name="local_app_name">"バックアップ"</string>
   <string name="local_backup_window_title">Local backup data</string>
   <string name="local_home_title">Back up locally</string>
@@ -178,7 +178,7 @@
   <string name="restore_data">"復元するアイテムを選択"</string>
   <string name="restore_failed">"復元できませんでした"</string>
   <string name="restore_finished">"復元が完了しました"</string>
-  <string name="restore_is_running">Restoring device</string>
+  <string name="restore_is_running">"デバイスを復元中"</string>
   <string name="restore_launcher_layout_hit">"ランチャーの設定を復元する"</string>
   <string name="restore_progress">"復元中…"</string>
   <string name="restore_report">"復元の詳細"</string>

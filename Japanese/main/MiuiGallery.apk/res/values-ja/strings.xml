@@ -124,7 +124,7 @@
   <string name="baby_sexy">"性別"</string>
   <string name="baby_suffix">"の赤ちゃん"</string>
   <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conviniently browse, sort, edit, and share photos and videos on all your devices.</string>
-  <string name="backup_automatically_title">Back up automatically</string>
+  <string name="backup_automatically_title">"自動的にバックアップ"</string>
   <string name="backup_battery_low_desc">You can still choose to continue backing up items</string>
   <string name="backup_battery_low_title">Backup paused due to low battery</string>
   <string name="backup_cloud_space_low_btn_text">Get more</string>
@@ -191,9 +191,9 @@
   <string name="click_download_gif">"GIFをダウンロードするにはタップ"</string>
   <string name="click_top_right">Tap this icon</string>
   <string name="cloud_camera_display_name">Camera photos</string>
-  <string name="cloud_guide_auto_backup_title">Choose albums to back up</string>
-  <string name="cloud_guide_login_title">Back up photos and videos automatically</string>
-  <string name="cloud_guide_slim_text">Back up automatically. Save more than 90% of local storage.</string>
+  <string name="cloud_guide_auto_backup_title">"バックアップするアルバムを選択"</string>
+  <string name="cloud_guide_login_title">"写真や動画を自動的にバックアップ"</string>
+  <string name="cloud_guide_slim_text">"自動的にバックアップ。ローカルストレージの90%以上を節約します。"</string>
   <string name="cloud_guide_slim_title">Optimize local storage to save %1$s</string>
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">"スクリーンショット"</string>

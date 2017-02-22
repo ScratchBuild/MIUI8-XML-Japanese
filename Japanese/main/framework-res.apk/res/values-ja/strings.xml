@@ -442,7 +442,7 @@
   <string name="kg_failed_attempts_now_wiping">携帯端末のロック解除を%d回失敗しました。端末は出荷時設定にリセットされます。</string>
   <string name="kg_forgot_pattern_button_text">パターンを忘れた場合</string>
   <string name="kg_invalid_confirm_pin_hint">PINコードが一致しません</string>
-  <string name="kg_invalid_puk">正しいPUKコードを再入力してください。誤入力を繰り返すと、SIMが永久に無効になるおそれがあります。</string>
+  <string name="kg_invalid_puk">正しいPUKコードを再入力してください。誤入力を繰り返すと、SIMが永久に無効になる恐れがあります。</string>
   <string name="kg_invalid_sim_pin_hint">PINは4～8桁の数字で入力してください。</string>
   <string name="kg_invalid_sim_puk_hint">PUKコードは8桁の番号です。</string>
   <string name="kg_login_account_recovery_hint">ユーザー名またはパスワードを忘れた場合は
