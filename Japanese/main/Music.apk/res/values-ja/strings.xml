@@ -152,7 +152,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="desktop_lyric_dialog_positive_button">"今すぐ試す"</string>
   <string name="desktop_lyric_dialog_title">"今すぐ試す"</string>
   <string name="desktop_lyric_lock_toast">Locked. You can unlock Music in Notification shade.</string>
-  <string name="desktop_lyric_setting_summary">Show lyrics on Home screen</string>
+  <string name="desktop_lyric_setting_summary">"ホーム画面に歌詞を表示する"</string>
   <string name="desktop_lyric_setting_title">Home screen lyrics</string>
   <string name="desktop_lyric_textsize">Text</string>
   <string name="device_connected">"接続されました"</string>
@@ -187,7 +187,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_song_view_type_song">By song</string>
   <string name="dialog_title_add_playlist">Add playlist</string>
   <string name="dialog_title_delete_tracks">"削除"</string>
-  <string name="dialog_title_name_playlist">Playlist name</string>
+  <string name="dialog_title_name_playlist">"プレイリスト名"</string>
   <string name="dialog_title_not_available">"ダウンロードできませんでした"</string>
   <string name="dialog_title_queued_body">File not yet available</string>
   <string name="dialog_title_remove_tracks">"削除"</string>
@@ -212,8 +212,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_auto_after_favorite_title">Download favorites</string>
   <string name="download_auto_cancel">Download favorites is off</string>
   <string name="download_auto_message">"Songs that you favorite will be downloaded automatically when you're connected to WLAN. You can change this in Settings."</string>
-  <string name="download_auto_when_all_network">Use mobile network and WLAN</string>
-  <string name="download_auto_when_free_network">Use WLAN only</string>
+  <string name="download_auto_when_all_network">"モバイルネットワークとWi-Fiを使用"</string>
+  <string name="download_auto_when_free_network">"Wi-Fiのみ使用"</string>
   <string name="download_auto_when_free_network_summary">Additional settings for songs that you favorite</string>
   <string name="download_cloud_error_not_auth">"Mi Accountにログインしてもう一度お試しください。"</string>
   <string name="download_cloud_error_retryable">"Mi Cloudサーバーエラー、後ほど再試行してください。"</string>
@@ -260,8 +260,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
   <string name="download_traffic_dialog_buy_package">Buy music data plan</string>
   <string name="download_traffic_dialog_msg">Using your mobile data to download songs may increase your mobile data charges</string>
-  <string name="download_traffic_dialog_negative_button">Wait for WLAN</string>
-  <string name="download_traffic_dialog_position_button">Still download</string>
+  <string name="download_traffic_dialog_negative_button">"Wi-Fi接続を待機"</string>
+  <string name="download_traffic_dialog_position_button">"ダウンロードを継続"</string>
   <string name="download_unknown_title">&lt;Untitled></string>
   <string name="download_wait_connect">Waiting to connect</string>
   <string name="download_when_network_connected">Download when connected to the internet</string>
@@ -405,7 +405,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="in_searching_please_wait">"検索中…"</string>
   <string name="input_hint_prefix">"%1$sを入力してください"</string>
   <string name="insufficient_space">"お使いの端末の内部ストレージに十分な空き領域がありません"</string>
-  <string name="is_loading_data">Still loading songs. Wait a minute or two and try again.</string>
+  <string name="is_loading_data">"曲を読み込んでいます。しばらくしてからもう一度お試しください。"</string>
   <string name="is_scanning">"ストレージの確認中…"</string>
   <string name="is_scanning_support_online">"ストレージの確認中…
 (その間、オンラインで音楽をストリーミングできます)"</string>
@@ -625,9 +625,9 @@ is mainly provided by Ultimate Inc."</string>
   <string name="please_select_song">"初めに曲を選択してください"</string>
   <string name="power_save_mode_dialog_msg">Battery saver is on. Start downloading now?</string>
   <string name="pref_download_settings_title">"ダウンロードサイズ制限"</string>
-  <string name="pref_summary_any_bytes_popup">Always wait for WLAN connection to download files</string>
-  <string name="pref_summary_enable_max_bytes_popup">Show popup notification when using mobile data to download files</string>
-  <string name="pref_summary_max_bytes_limit_format">Wait for WLAN if file size exceeds %s</string>
+  <string name="pref_summary_any_bytes_popup">"ファイルのダウンロード時は常にWi-Fi接続を待機"</string>
+  <string name="pref_summary_enable_max_bytes_popup">"ファイルのダウンロードにモバイルデータを使用する時はポップアップ通知を表示"</string>
+  <string name="pref_summary_max_bytes_limit_format">"ファイルサイズが%sを超える場合はWi-Fi接続を待機"</string>
   <string name="pref_summary_no_limit_popup">"無制限"</string>
   <string name="pref_title_enable_max_bytes_popup">Show data usage prompt</string>
   <string name="preferences_title">"設定"</string>
@@ -773,7 +773,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="storage_internal">"内部ストレージ"</string>
   <string name="storage_sd_card">"SDカード"</string>
   <string name="storage_usb">"USBストレージ"</string>
-  <string name="stream_quality">Streaming quality</string>
+  <string name="stream_quality">"ストリーミング品質"</string>
   <string name="streamloadingtext">"%sに接続しています..."</string>
   <string name="sub_explanation">Mi Music data plan</string>
   <string name="sub_explanation_message">"Mi Music data plan is currently supported by China Unicom. Your network provider doesn't support this feature. You can buy regular mobile data."</string>
@@ -796,18 +796,18 @@ is mainly provided by Ultimate Inc."</string>
   <string name="take_effect_afater_restart">You need to restart the app for this setting to take effect.</string>
   <string name="talkback_back">Go back</string>
   <string name="talkback_device">Play on other devices</string>
-  <string name="talkback_download">Download</string>
+  <string name="talkback_download">"ダウンロード"</string>
   <string name="talkback_favorite">Like this song</string>
   <string name="talkback_mode">Loop playlist</string>
   <string name="talkback_more">More menus</string>
   <string name="talkback_next">"次の曲"</string>
   <string name="talkback_play">"再生 / 停止"</string>
   <string name="talkback_pre">"前の曲"</string>
-  <string name="talkback_progress">Progress bar</string>
+  <string name="talkback_progress">"プログレスバー"</string>
   <string name="talkback_radar">Music recognition</string>
   <string name="talkback_search">"検索"</string>
   <string name="talkback_share">"共有"</string>
-  <string name="task_already_exist">Task already exists</string>
+  <string name="task_already_exist">"タスクが既に存在します"</string>
   <string name="ticket_summary">Buy tickets for shows, concerts, plays, and other events</string>
   <string name="ticket_title">Show tickets</string>
   <string name="time_to_upgrade">Update Mi Music</string>

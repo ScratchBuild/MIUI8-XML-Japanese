@@ -57,7 +57,7 @@
   <string name="apk_files_list_title">Local installation package</string>
   <string name="app_clear">"データを消去"</string>
   <string name="app_detail_comments">"レビュー"</string>
-  <string name="app_detail_content_hidemore_text">Collapse</string>
+  <string name="app_detail_content_hidemore_text">"折りたたむ"</string>
   <string name="app_detail_content_showmore_text">"展開"</string>
   <string name="app_detail_content_title_text">Title</string>
   <string name="app_detail_info">"詳細を表示"</string>
@@ -169,7 +169,7 @@
   <string name="current_place">"Current location: "</string>
   <string name="current_play">"再生中:"</string>
   <string name="current_stb">"Current: "</string>
-  <string name="current_version_frame">Current version %s</string>
+  <string name="current_version_frame">"現在のバージョン %s"</string>
   <string name="current_version_latest">"利用可能な更新はありません"</string>
   <string name="data_request_error">"情報を取得できませんでした"</string>
   <string name="day">d</string>
@@ -947,7 +947,7 @@ directly from your Lock screen"</string>
   <string name="stop_diagnosis">"停止"</string>
   <string name="study_room">Study</string>
   <string name="submit">"送信"</string>
-  <string name="submit_fail_retry">"Couldn't submit device info. Wait a minute or two and try again."</string>
+  <string name="submit_fail_retry">"デバイス情報を送信できませんでした。しばらくしてからもう一度お試しください。"</string>
   <string name="succeed_content">Added %3$s %4$s successfully.</string>
   <string name="succeed_finish">"完了"</string>
   <string name="succeed_title">"登録"</string>

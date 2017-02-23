@@ -505,7 +505,7 @@ Take more photos of your friends!"</string>
   <string name="operation_show_on_map">Show on map</string>
   <string name="operation_slide_show">"スライドショーを開始"</string>
   <string name="operation_successful">"完了"</string>
-  <string name="operation_too_often">Whoa there! Too many requests are being made from your IP address. Wait a minute or two and try again.</string>
+  <string name="operation_too_often">"うわあ！あなたのIPアドレスから大量のリクエストが行われています。しばらくしてからもう一度お試しください。"</string>
   <string name="operation_unforce_top">Unpin</string>
   <string name="operation_unhide">Unhide</string>
   <string name="orientation_lock_tip">Auto-rotate off</string>

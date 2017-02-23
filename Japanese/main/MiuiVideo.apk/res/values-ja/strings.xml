@@ -46,10 +46,10 @@
   <string name="app_upgrade_version">"更新が利用可能"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi_mode">"自動的に更新"</string>
-  <string name="app_wifi_mode_summary">Update app automatically when launch app and connected to WLAN</string>
+  <string name="app_wifi_mode_summary">"アプリの起動時、Wi-Fiに接続している場合は自動的にアプリを更新する"</string>
   <string name="authenticated_failed">"ログインできませんでした"</string>
   <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
-  <string name="authenticating_manually">"Couldn't authenticate"</string>
+  <string name="authenticating_manually">"認証できませんでした"</string>
   <string name="average_score">Average rating</string>
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
@@ -158,7 +158,7 @@
   <string name="error_empty_epg">No EPG Information</string>
   <string name="error_empty_filter_title">No results</string>
   <string name="error_empty_live_favor">No Collection of TV Channels</string>
-  <string name="error_empty_title">Something went wrong.</string>
+  <string name="error_empty_title">"エラーが発生しました。"</string>
   <string name="expire_time">expire time</string>
   <string name="expired_buy_vip">vip has already expired</string>
   <string name="favorite">Favorite</string>

@@ -27,16 +27,16 @@
   <string name="autosetmode">"設定"</string>
   <string name="best_update">Best update so far</string>
   <string name="boot_recovery">"リカバリーモードで再起動しますか？"</string>
-  <string name="button_delay_update_reboot">Reboot &amp; update</string>
+  <string name="button_delay_update_reboot">"再起動と更新"</string>
   <string name="button_text_check">"更新を確認"</string>
   <string name="button_text_later_reboot">"後で"</string>
   <string name="button_text_reboot">"今すぐ再起動"</string>
   <string name="button_text_reboot_hm">"今すぐ再起動"</string>
   <string name="button_text_update">"更新"</string>
-  <string name="cancel_download">Stop downloading update?</string>
+  <string name="cancel_download">"更新のダウンロードを停止しますか？"</string>
   <string name="cancel_download_buton_text">"キャンセル"</string>
-  <string name="check_local_package_update_btn">Reboot and update</string>
-  <string name="check_local_package_update_msg">Your device will reboot automatically to update to MIUI version %s.</string>
+  <string name="check_local_package_update_btn">"再起動と更新"</string>
+  <string name="check_local_package_update_msg">"お使いのデバイスはMIUIバージョン%sに更新するため自動的に再起動します。"</string>
   <string name="check_local_package_update_title">"更新"</string>
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">"更新パッケージを確認できませんでした。"</string>
@@ -70,8 +70,8 @@
   <string name="download_cancel">"キャンセル"</string>
   <string name="download_current_rom">"再起動して更新を適用"</string>
   <string name="download_diff">"差分ダウンロード"</string>
-  <string name="download_error">Something went wrong. Wait a minute or two and try again.</string>
-  <string name="download_failed">Download failed</string>
+  <string name="download_error">"エラーが発生しました。しばらくしてからもう一度お試しください。"</string>
+  <string name="download_failed">"ダウンロードに失敗しました"</string>
   <string name="download_full">Download full</string>
   <string name="download_success_reboot_immediately">"再起動して更新を適用"</string>
   <string name="download_title">"ダウンロード中 (%s)"</string>
@@ -92,7 +92,7 @@
   <string name="go_on_download">"ダウンロード"</string>
   <string name="important_suggestion">"プライバシーポリシーが変更されました"</string>
   <string name="install">"インストール"</string>
-  <string name="install_failed">Update failed</string>
+  <string name="install_failed">"更新に失敗しました"</string>
   <string name="install_file_explorer">"初めにFile Explorerをインストールします"</string>
   <string name="install_local">Install local</string>
   <string name="install_qq">"Weiboアプリをインストール"</string>
@@ -185,7 +185,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_auto">"自動的に更新を確認"</string>
   <string name="set_auto_msg">Download updates when connected to WLAN and install at night?</string>
   <string name="set_auto_update_title">"自動的に更新しますか？"</string>
-  <string name="set_installfail_full_msg">Something went wrong. Tap OK to report this error.</string>
+  <string name="set_installfail_full_msg">"エラーが発生しました。このエラーを報告するには[OK]をタップ。"</string>
   <string name="set_installfail_msg">"You aren't connected to a WLAN network. Using your mobile data connection to download the update will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="set_installfail_title">Try to download update again?</string>
   <string name="set_installfail_title_full">"Can't update"</string>
@@ -226,7 +226,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="unstable_build">Unstable</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Comment</string>
-  <string name="update_downfull_no_info_sum">Wait a minute or two and try again.</string>
+  <string name="update_downfull_no_info_sum">"しばらくしてからもう一度お試しください。"</string>
   <string name="update_downfull_no_info_title">"Can't download update"</string>
   <string name="update_feedback">Rate this update</string>
   <string name="update_feedback_end">"You missed this week's vote"</string>
@@ -268,8 +268,8 @@ Update your device and try again"</string>
   <string name="vote_error3">"Couldn't sign in.
 Try signing in your Mi Account again."</string>
   <string name="vote_error4">You already submitted feedback</string>
-  <string name="vote_error5">"Something went wrong
-Couldn't submit feedback"</string>
+  <string name="vote_error5">"エラーが発生しました
+フィードバックを送信できませんでした"</string>
   <string name="vote_error_nonetwork">"ネットワークに接続できません"</string>
   <string name="vote_experience">Forum experience</string>
   <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>
