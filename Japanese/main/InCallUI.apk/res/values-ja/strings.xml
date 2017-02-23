@@ -7,7 +7,6 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">"不明な番号"</string>
   <string name="antispam_provider">Identified by %s</string>
-  <string name="areacode_set_default">"デフォルトとして設定"</string>
   <string name="callFailed_cb_enabled">"通話制限中は発信できません"</string>
   <string name="callFailed_congestion">ネットワークがビジー状態です</string>
   <string name="callFailed_dialToDial">DIALリクエストは別の番号のDIALに変更されました。</string>
@@ -84,7 +83,6 @@
   <string name="conference_caller_name_me">Me</string>
   <string name="conference_callers_exceeded">Callers in conference exceeded</string>
   <string name="contacts_icon_label">"連絡先"</string>
-  <string name="default_area_code_setting">Default area code</string>
   <string name="description_image_button_answer">"応答"</string>
   <string name="description_image_button_dialpad">"ダイヤルパッド"</string>
   <string name="description_image_button_eight">"8"</string>
@@ -155,7 +153,6 @@
   <string name="modify_call_option_vt_tx">Video transmit</string>
   <string name="modify_call_prompt_no">"いいえ"</string>
   <string name="modify_call_prompt_yes">"はい"</string>
-  <string name="msim_select_default_time_left">"(%d秒)"</string>
   <string name="network_error_message">Current network is unstable. Switching to regular call for which you might be charged by the carrier.</string>
   <string name="network_error_title">Unstable network</string>
   <string name="no_balance_message">Insufficient funds on your Top-up package balance. You can still make a regular call for which youll be charged by the carrier.</string>

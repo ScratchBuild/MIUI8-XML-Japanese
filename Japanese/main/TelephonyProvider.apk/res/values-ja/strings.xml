@@ -5,6 +5,5 @@
   <string name="mms_sms_provider_label">Messaging</string>
   <string name="ppp_number">ppp_number</string>
   <string name="read_only">read_only</string>
-  <string name="siminfo_default_name">SIM %d</string>
   <string name="sms_provider_label">Messages</string>
 </resources>

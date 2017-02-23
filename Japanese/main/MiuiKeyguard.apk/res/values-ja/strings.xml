@@ -4,7 +4,6 @@
   <string name="click_to_enter_text">"表示するにはタップ"</string>
   <string name="confirm_pin_msg">"もう一度PINコードを入力してください"</string>
   <string name="custom_lock_wallpaper_enter">Enter</string>
-  <string name="default_lockscreen_unlock_hint_text">"上にスワイプでロック解除"</string>
   <string name="delete">"削除"</string>
   <string name="emergency_call_string">"緊急通報"</string>
   <string name="experimental_try_string">Try</string>
@@ -38,7 +37,6 @@
   <string name="invalid_sim_pin_hint">"PINは4～8桁の数字を含める必要があります"</string>
   <string name="invalid_sim_puk_hint">"PUKは8桁以上の数字にする必要があります"</string>
   <string name="keyguard_torch_cover_text">"ライトをオンにするには、電源ボタンを押し続けます"</string>
-  <string name="left_action_default_hint_text">"電話"</string>
   <string name="lock_screen_date">"M月d日 EEEE"</string>
   <string name="lock_screen_date_12">"M月d日 EEEE"</string>
   <string name="lock_wallpaper_enter">Enter</string>

@@ -2,7 +2,6 @@
 <resources>
   <string name="accessibility_calllog_detail">"通話履歴の詳細"</string>
   <string name="account_container_title">Imported from</string>
-  <string name="account_default">Phone</string>
   <string name="account_phone">電話のみ、非同期</string>
   <string name="account_sim">"SIMカード"</string>
   <string name="account_sim2">"SIMカード %d"</string>
@@ -165,7 +164,6 @@
   <string name="clearFrequentsConfirmation_title">よく使う連絡先を削除しますか？</string>
   <string name="clearFrequentsProgress_title">よく使う連絡先を削除しています…</string>
   <string name="clear_copy_number_description">コピーした番号を消去</string>
-  <string name="clear_default">"デフォルトを解除"</string>
   <string name="clear_digits">電話番号を消去</string>
   <string name="click_close">閉じるにはタップ</string>
   <string name="clip_dialog_title">コピーした番号に発信しますか？</string>
@@ -272,7 +270,6 @@ Contact cards are turned off"</string>
   <string name="data_unit_mb">MB</string>
   <string name="date_time_set">"設定"</string>
   <string name="date_year_toggle">"年を入力する"</string>
-  <string name="default_ringtone">"デフォルトの着信音"</string>
   <string name="deleteConfirmation">"この連絡先を削除します。"</string>
   <string name="deleteConfirmationDetail">"\"%s\"を削除しますか？"</string>
   <string name="deleteConfirmation_title">"この連絡先を削除しますか？"</string>
@@ -1086,7 +1083,6 @@ To add a contact to your list of favorites:
   <string name="service_provider">Directory</string>
   <string name="service_provider_detail">Directory details</string>
   <string name="set_data_package">"初めにデータプランを設定"</string>
-  <string name="set_default">"デフォルトに設定"</string>
   <string name="set_photo_failed_msg">"Couldn't assign picture."</string>
   <string name="share_error">"この連絡先は共有することができません"</string>
   <string name="share_over_limit">"Can't share over 1000 contacts"</string>
@@ -1227,7 +1223,6 @@ To add a contact to your list of favorites:
   <string name="vcard_import_failed">"vCard %s をインポートできません。"</string>
   <string name="vcard_import_request_rejected_message">vCardのインポートが拒否されました。再度実行してください。</string>
   <string name="vcard_import_will_start_message">まもなく %s がインポートされます。</string>
-  <string name="vcard_import_will_start_message_with_default_name">まもなくファイルがインポートされます。</string>
   <string name="vcard_info_send_error">"vCardエラーのため送信できませんでした"</string>
   <string name="vcard_unknown_filename">contact</string>
   <string name="video_call">Video call</string>

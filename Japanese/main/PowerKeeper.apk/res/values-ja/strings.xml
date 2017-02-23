@@ -44,7 +44,6 @@
   <string name="hide_mode_ultimate_desc">Ultimate mode is on. The apps in the background will be frozen. Turn off Battery saver to exit Ultimate mode.</string>
   <string name="high">"パフォーマンス"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
-  <string name="invalid_size_value">"パッケージサイズを取得できませんでした。"</string>
   <string name="location_disable_description">Apps in the background can only access location services for a brief period of time while continuous access is restricted</string>
   <string name="location_disable_title">"制限する"</string>
   <string name="location_enable_description">"アプリはバックグラウンドで位置情報サービスを使用できます"</string>

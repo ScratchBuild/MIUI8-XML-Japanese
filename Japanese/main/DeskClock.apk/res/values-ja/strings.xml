@@ -35,9 +35,6 @@
   <string name="control_set_alarm_with_existing">Alarm set: %s</string>
   <string name="day">"1日"</string>
   <string name="days">"%s日"</string>
-  <string name="default_alarm_alert">"デフォルトのアラーム音"</string>
-  <string name="default_alarm_title">"デフォルトの着信音"</string>
-  <string name="default_label">"アラーム"</string>
   <string name="delete">"削除"</string>
   <string name="delete_alarm">"アラームを削除"</string>
   <string name="delete_alarm_confirm">"このアラームを削除しますか？"</string>

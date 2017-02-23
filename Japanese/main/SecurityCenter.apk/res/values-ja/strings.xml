@@ -28,7 +28,6 @@
   <string name="activity_title_auto_start_manager">"自動起動"</string>
   <string name="activity_title_create_shortcut">"ショートカットを管理"</string>
   <string name="activity_title_deep_clean">Deep clean</string>
-  <string name="activity_title_default_apps_manager">"既定のアプリ"</string>
   <string name="activity_title_garbage_cleanup">"クリーナー"</string>
   <string name="activity_title_license_manager">"パーミッション"</string>
   <string name="activity_title_memory">"メモリ"</string>
@@ -116,7 +115,6 @@
   <string name="apps_item_sign_dialog_content">"%s's signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data."</string>
   <string name="apps_item_sign_dialog_title">Install official app</string>
   <string name="apps_item_sign_install_button_text">Replace</string>
-  <string name="apps_item_sms_default_set_success">Set successfully</string>
   <string name="apps_item_sms_reset_button_text">Restore defaults</string>
   <string name="apps_item_sms_title">Default messaging settings</string>
   <string name="apps_item_summary_sms">%s has access to your messages, it may cause security problems</string>
@@ -565,7 +563,6 @@
   <string name="hints_virus_app_list_item_summary">app</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_descx_title">Description:</string>
-  <string name="hints_virus_lib_update_default_summary">Last update time unknown</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"This app is a major risk to your phone's security."</string>
   <string name="history_details_title">"履歴の詳細"</string>
@@ -612,7 +609,6 @@
   <string name="last_check_date_yesterday">"Scanned yesterday "</string>
   <string name="last_check_never_checked">"今すぐスキャン"</string>
   <string name="last_checked_date2">Scanned %d days ago</string>
-  <string name="last_checked_default">Scanned %s days ago</string>
   <string name="later">"後で"</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Holiday</string>
@@ -632,7 +628,6 @@
   <string name="lock_screen_warning_category">"ロック画面の通知"</string>
   <string name="lock_screen_warning_switch_summary">"データ使用量が一定量を超えたら、ロック画面に警告を表示する"</string>
   <string name="lock_screen_warning_switch_title">"ロック画面に警告を表示"</string>
-  <string name="lock_screen_warning_value">"データ使用の警告"</string>
   <string name="lock_settings_title">"ロック画面とパスワード"</string>
   <string name="lockpassword_confirm_your_password_header">"パスワードを確認"</string>
   <string name="lockpassword_confirm_your_pattern_header">"パターンの確認"</string>
@@ -860,10 +855,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_to_set">"設定"</string>
   <string name="optimize_result_button_update_now">"更新"</string>
   <string name="optimize_result_summary_sucurity_risk">Some security features are off. Turn on these features to make your device more secure:</string>
-  <string name="optimize_result_summary_system_default_settings">"Using default MIUI apps increases the level of the system's stability and security."</string>
   <string name="optimize_result_title_sucurity_risk">Security risks found</string>
-  <string name="optimize_result_title_system_default_settings">Default settings have been changed</string>
-  <string name="optimize_result_toast_system_default_settings">Restored default settings</string>
   <string name="optimize_result_toast_system_no_item_selected">No items selected</string>
   <string name="optmizingbar_optimize_done">Optimized</string>
   <string name="optmizingbar_ready">Optimizing…</string>
@@ -1064,7 +1056,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_virus_white_list">"例外"</string>
   <string name="pref_traffic_manage_title">Data usage</string>
   <string name="pref_version">Version %s</string>
-  <string name="pref_warning_values">"データ使用の警告レベル"</string>
   <string name="pref_whitelist_setting">Data roaming exceptions</string>
   <string name="preferred_app_entries_browser">"ブラウザ"</string>
   <string name="preferred_app_entries_camera">"カメラ"</string>
@@ -1099,8 +1090,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="quick_optimize_sub_summary_text">Added %sto battery life</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">The phone is draining battery, fix it</string>
   <string name="quick_optimize_suggest_battery_over_heat">The phone is overheating, fix it</string>
-  <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
-  <string name="reach_daily_limit_value_title">Daily data limit reached</string>
   <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
   <string name="recently_reject_message_one">Rejected %1$s installation requests</string>
   <string name="recommend_app">Recommended apps</string>
@@ -1165,7 +1154,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="safe_result_item_info_app_sign">No unofficial apps</string>
   <string name="safe_result_item_info_app_virus">No viruses and risky apps</string>
   <string name="safe_result_item_info_sms_auth">Restrict access of third party apps to verification codes</string>
-  <string name="safe_result_item_info_sms_default">Switch to default messaging app</string>
   <string name="safe_result_item_info_sms_url">Protection from malicious SMS URLs</string>
   <string name="safe_result_item_info_system_antivirus">Protection from the phishing viruses</string>
   <string name="safe_result_item_info_system_root">Root secure</string>
@@ -1298,7 +1286,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_cmcc_app_check">"Some apps couldn't be verified"</string>
   <string name="summary_consume_power">Heating issues found, they can affect battery life span</string>
   <string name="summary_data_flow">Control mobile data usage to avoid additional fees</string>
-  <string name="summary_default_app">"%s isn't set as a default system app"</string>
   <string name="summary_dev">Avoid malware and protect personal data</string>
   <string name="summary_find_device">Locate and lock your device from anywhere</string>
   <string name="summary_flow_notification">Show your monthly data usage stats in the notification shade</string>
@@ -1384,7 +1371,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_upload_success">"ご意見ありがとうございます！"</string>
   <string name="tc_sms_report_direction">"SMS問い合わせコード"</string>
   <string name="tc_sms_report_do_report">"送信"</string>
-  <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
   <string name="tc_sms_report_get_sms">Get SMS</string>
   <string name="tc_sms_report_get_sms2">Get SMS</string>
   <string name="tc_sms_report_get_sms_again">Refresh SMS</string>
@@ -1448,7 +1434,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_consume_power">Battery issues found</string>
   <string name="title_consume_power_rank">"電池使用量"</string>
   <string name="title_data_flow">Control mobile data</string>
-  <string name="title_default_app">"MIUI %s isn't set as default"</string>
   <string name="title_dev_no">Developer options on</string>
   <string name="title_dev_yes">Developer options off</string>
   <string name="title_find_device">Find device</string>
@@ -1494,7 +1479,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="toast_add_virus_white_list_success">"例外に追加しました。セキュリティ設定でアイテムを表示します。"</string>
   <string name="toast_auto_traffic_correct">Data usage is adjusted automatically</string>
   <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
-  <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
   <string name="toast_flow_notification">Turned on data usage notifications</string>
   <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
   <string name="toast_lockscreen_glogin_empty_password">Password required</string>

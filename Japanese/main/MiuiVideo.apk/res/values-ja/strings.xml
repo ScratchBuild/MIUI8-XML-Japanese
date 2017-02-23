@@ -109,7 +109,6 @@
 3. Our HD Vvideo plug-in will be installed automatically.
 4. This application needs to connect to the internet to work normally."</string>
   <string name="declaration_content_td_custom">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
-  <string name="defaults">Default</string>
   <string name="delete">"削除"</string>
   <string name="delete_action_text">"削除 (%d)"</string>
   <string name="delete_addon">"削除"</string>

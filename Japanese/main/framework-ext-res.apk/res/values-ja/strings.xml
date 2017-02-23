@@ -31,7 +31,6 @@
   <string name="configure_input_methods">"キーボードの選択"</string>
   <string name="copy">"コピー"</string>
   <string name="cut">"切り取り"</string>
-  <string name="default_name">Default</string>
   <string name="enable_livetalk_summary">Save 70% on your calling charges</string>
   <string name="enable_livetalk_title">Turn on Top-up package</string>
   <string name="fc_dialog_body">"分析のためMiにバグレポートを送信しますか？このレポートには個人情報が含まれています。このバグを修正するのに役立てるためにのみ使用され、任意の商業コンテキスト内で共有されることはありません。"</string>

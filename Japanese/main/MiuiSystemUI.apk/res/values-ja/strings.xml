@@ -184,7 +184,6 @@
   <string name="label_view">表示</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
-  <string name="lockscreen_carrier_default">"通信サービスなし"</string>
   <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
   <string name="long_screenshot_out_of_memory_error">画像サイズが大きすぎます</string>
   <string name="long_screenshot_processing">"処理中…"</string>

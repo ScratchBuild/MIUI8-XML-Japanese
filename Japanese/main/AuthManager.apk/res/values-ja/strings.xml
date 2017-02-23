@@ -275,7 +275,6 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="SysOpt_Boost_Receiver">"バックグラウンド"</string>
   <string name="app_name">Permission manager</string>
   <string name="current_permission_template">"%1$s/%2$s"</string>
-  <string name="default_permission_description">"不明な操作の実行"</string>
   <string name="grant_confirm_question">"次の権限を許可してもよろしいですか？許可すると、次にアクセスされます:"</string>
   <string name="grant_dialog_button_allow">"許可"</string>
   <string name="grant_dialog_button_deny">"拒否"</string>

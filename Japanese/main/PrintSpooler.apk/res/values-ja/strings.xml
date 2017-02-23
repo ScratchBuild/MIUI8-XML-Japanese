@@ -39,7 +39,6 @@
   <string name="print_add_printer">"プリンタを追加"</string>
   <string name="print_button">"印刷"</string>
   <string name="print_dialog">"印刷ダイアログ"</string>
-  <string name="print_error_default_message">"エラーです。もう一度お試しください。"</string>
   <string name="print_error_printer_unavailable">"現在このプリンターは使用できません。"</string>
   <string name="print_error_retry">"再試行"</string>
   <string name="print_forget_printer">"プリンタを切断"</string>

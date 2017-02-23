@@ -6,7 +6,6 @@
   <string name="activate_auto_sms_notification_desc_2_cards">"\"Finde device\"を有効にするためにSIMカード %s からSMSが送信されました"</string>
   <string name="activate_auto_sms_notification_title">"SIMカードの有効化"</string>
   <string name="activate_feature_call_log_sync">"通話履歴の同期"</string>
-  <string name="activate_feature_default_name">Mi services</string>
   <string name="activate_feature_find_device">Find device</string>
   <string name="activate_feature_live_talk">Top-up package</string>
   <string name="activate_feature_mms_sync">"メッセージの同期"</string>

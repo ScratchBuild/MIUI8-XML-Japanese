@@ -246,7 +246,6 @@
   <string name="custom_select_title_select_all">"すべて選択"</string>
   <string name="custom_select_title_select_item">"アイテムを選択"</string>
   <string name="debugging_tip">"デバッグデータの生成中"</string>
-  <string name="default_album_name">New album</string>
   <string name="delete">"削除"</string>
   <string name="delete_album_failed">"アルバムを削除できません"</string>
   <string name="delete_album_msg_format">Delete \"%2$s\" album %1$s %3$s?</string>
@@ -667,7 +666,6 @@ Take more photos of your friends!"</string>
   <string name="slideshow_interval_dialog_title">Enter interval</string>
   <string name="slideshow_interval_invalid">Interval must be between 3 and 3600 seconds</string>
   <string name="slideshow_interval_title">Show each slide for</string>
-  <string name="slideshow_interval_value">%1$d seconds</string>
   <string name="slim_after_backuped_summary">Replace full-resolution photos on the device with optimized versions after they have been backed up to Mi Cloud. Full-resolution photos will still be available in Mi Cloud. This can save a lot of local storage.</string>
   <string name="slim_after_backuped_title">Optimize local storage after backups</string>
   <string name="slim_introduce">Replace full-resolution photos with optimized versions after they have been backed up to Mi Cloud. Full-resolution items will still be available in Mi Cloud.</string>

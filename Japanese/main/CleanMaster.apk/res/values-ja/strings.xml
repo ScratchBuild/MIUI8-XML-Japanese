@@ -143,7 +143,6 @@
   <string name="deepclean_title_uninstall_apps">Rarely used apps</string>
   <string name="deepclean_video_content">Delete already viewed or unnecessary videos</string>
   <string name="deepclean_video_summary_empty">Everything looks good</string>
-  <string name="default_cache_type">"データファイル"</string>
   <string name="delete_confirm">"削除"</string>
   <string name="delete_confirm_msg">"選択したすべてのファイルを完全に削除しますか？"</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Delete photos from Mi Cloud as well</string>
@@ -346,7 +345,6 @@
   <string name="low_memory_warning_dialog_ok_button">"消去"</string>
   <string name="low_memory_warning_dialog_title">"十分な空き領域がありません"</string>
   <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
-  <string name="mainbtn_text_quick_cleanup_default">"クリーンアップ"</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
   <string name="month_day_format">MMM dd</string>
   <string name="msg_cleanup_db_update_checking">"アップデートの確認中…"</string>

@@ -6,13 +6,6 @@
   <string name="button_no">"いいえ"</string>
   <string name="button_ok">"OK"</string>
   <string name="button_yes">"はい"</string>
-  <string name="default_call_setup_msg">"通話中..."</string>
-  <string name="default_close_channel_msg">"チャンネルは閉じています"</string>
-  <string name="default_open_channel_msg">"チャンネルを開きますか？"</string>
-  <string name="default_receive_data_msg">"データを受信しています…"</string>
-  <string name="default_send_data_msg">"データを送信しています…"</string>
-  <string name="default_setup_call_msg">"発信しています…"</string>
-  <string name="default_tone_dialog_msg">"デフォルトの着信音"</string>
   <string name="digits">"数字 (0-9、*、#、+)"</string>
   <string name="disable_app">"オフ"</string>
   <string name="enable_app">"オン"</string>

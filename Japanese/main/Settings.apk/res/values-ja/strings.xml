@@ -59,7 +59,6 @@
 
 注意: トリプルタップで拡大する方法は、キーボードとナビゲーションバー以外で使用できます。"</string>
   <string name="accessibility_screen_magnification_title">拡大操作</string>
-  <string name="accessibility_service_default_description">説明はありません。</string>
   <string name="accessibility_services_title">サービス</string>
   <string name="accessibility_settings">ユーザー補助</string>
   <string name="accessibility_settings_title">ユーザー補助の設定</string>
@@ -215,7 +214,6 @@
   <string name="app_launch_domain_links_title">アプリリンク</string>
   <string name="app_launch_open_domain_urls_summary">確認なしで開く</string>
   <string name="app_launch_open_domain_urls_title">対応リンクを開く</string>
-  <string name="app_launch_other_defaults_title">その他のデフォルト</string>
   <string name="app_launch_supported_domain_urls_title">対応リンク</string>
   <string name="app_link_open_always">このアプリで開く</string>
   <string name="app_link_open_ask">その都度確認</string>
@@ -334,7 +332,6 @@
   <string name="background_data_dialog_title">バックグラウンドを無効化</string>
   <string name="background_data_summary">アプリがデータをいつでも同期、送信、受信可能にする</string>
   <string name="background_process_stop_description">以前のアプリのプロセスです。再度必要になった場合に備えてまだ実行中です。通常は停止する必要はありません。</string>
-  <string name="backup_configure_account_default_summary">バックアップデータを保存しているアカウントはありません</string>
   <string name="backup_configure_account_title">バックアップアカウント</string>
   <string name="backup_data_summary">アプリのデータ、Wi-Fiパスワード、その他の設定をGoogleサーバーにバックアップする</string>
   <string name="backup_data_title">データのバックアップ</string>
@@ -590,8 +587,6 @@
   <string name="bluetooth_pb_remember_choice">次回から表示しない</string>
   <string name="bluetooth_permission_request">Bluetooth許可リクエスト</string>
   <string name="bluetooth_phonebook_request">電話帳へのアクセスのリクエスト</string>
-  <string name="bluetooth_pin_values_hint">通常は0000または1234です</string>
-  <string name="bluetooth_pin_values_hint_16_digits">16桁の数字を入力してください</string>
   <string name="bluetooth_preference_connected_devices">接続済みデバイス</string>
   <string name="bluetooth_preference_device_settings">デバイスの設定</string>
   <string name="bluetooth_preference_found_devices">使用可能なデバイス</string>
@@ -1067,17 +1062,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="debug_networking_category">ネットワーク</string>
   <string name="debug_view_attributes">表示属性検査を有効にする</string>
   <string name="defalut_launcher_title">既定のランチャー</string>
-  <string name="default_app">（既定）</string>
-  <string name="default_apps_title">既定のアプリ</string>
-  <string name="default_assist_none">なし</string>
-  <string name="default_assist_title">アシストアプリ</string>
-  <string name="default_browser_title">ブラウザアプリ</string>
-  <string name="default_browser_title_none">既定のブラウザなし</string>
-  <string name="default_emergency_app">緊急アプリ</string>
-  <string name="default_input_method">標準キーボードを選択</string>
-  <string name="default_phone_title">電話アプリ</string>
-  <string name="default_sound">デフォルトの通知音</string>
-  <string name="default_usb_mode">USB接続</string>
   <string name="delete">削除</string>
   <string name="delete_fingerprint_confirm_msg">指紋認証を削除しますか？</string>
   <string name="delete_fingerprint_text">指紋認証を削除</string>
@@ -1110,7 +1094,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">端末名を編集</string>
   <string name="device_feedback">この端末についてフィードバックを送信</string>
-  <string name="device_info_default">不明</string>
   <string name="device_info_label">端末情報</string>
   <string name="device_info_not_available">該当なし</string>
   <string name="device_info_settings">端末の状態</string>
@@ -1629,7 +1612,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="internal_storage">内部ストレージ</string>
   <string name="internal_storage_sentence">内部ストレージ</string>
   <string name="invalid_location">インストール先が無効です。</string>
-  <string name="invalid_size_value">パッケージのサイズを計算できませんでした。</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_first">%1$s、%2$s</string>
   <string name="join_many_items_last">%1$s、および%2$s</string>
@@ -1642,7 +1624,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="key_position_cat">ボタンの配置</string>
   <string name="key_settings">ボタン</string>
   <string name="key_settings_title">ボタン</string>
-  <string name="keyboard_layout_default_label">デフォルト</string>
   <string name="keyboard_layout_dialog_setup_button">キーボードレイアウトの設定</string>
   <string name="keyboard_layout_dialog_switch_hint">切り替えるにはCtrl+スペースを押します</string>
   <string name="keyboard_layout_dialog_title">キーボードレイアウトの選択</string>
@@ -1664,8 +1645,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keywords_app_permissions">apps permissions security</string>
   <string name="keywords_battery">電源</string>
   <string name="keywords_date_and_time">時計</string>
-  <string name="keywords_default_apps">apps default</string>
-  <string name="keywords_default_phone_app">phone dialer default</string>
   <string name="keywords_display">画面 タッチスクリーン</string>
   <string name="keywords_display_auto_brightness">暗くする 画面 タッチスクリーン</string>
   <string name="keywords_display_brightness_level">暗くする 画面 タッチスクリーン</string>
@@ -1681,7 +1660,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keywords_location">付近の 場所 履歴 レポート</string>
   <string name="keywords_location_mode">精度</string>
   <string name="keywords_lockscreen">スライド パスワード パターン pin</string>
-  <string name="keywords_more_default_sms_app">テキスト メッセージ</string>
   <string name="keywords_more_mobile_networks">モバイル 携帯通信会社 無線</string>
   <string name="keywords_network_reset">reset restore factory</string>
   <string name="keywords_printing">プリンタ</string>
@@ -1705,9 +1683,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="last_synced">最終同期日時: %1$s</string>
   <string name="last_time_used_label">前回の使用</string>
   <string name="lattice_smartcover_title">Lattice front cover</string>
-  <string name="launch_by_default">既定で開く</string>
-  <string name="launch_defaults_none">既定の設定なし</string>
-  <string name="launch_defaults_some">一部デフォルトを設定</string>
   <string name="launcher_auto_fill_empty_title">空のセルを埋める</string>
   <string name="launcher_title">Home screen</string>
   <string name="launching_cit">Launching CIT</string>
@@ -1754,7 +1729,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="local_backup_password_toast_validation_failure">バックアップパスワードの設定に失敗しました</string>
   <string name="local_backup_section_summary">システム設定、アカウント情報、アプリをバックアップ</string>
   <string name="local_backup_section_title">ローカルバックアップ</string>
-  <string name="locale_default">デフォルト</string>
   <string name="locale_settings">地域</string>
   <string name="location_access_summary">ユーザーの許可をリクエストしたアプリに位置情報の使用を許可する</string>
   <string name="location_access_title">位置情報にアクセス</string>
@@ -2208,18 +2182,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="nfc_how_it_works_title">端末機器でのお支払い</string>
   <string name="nfc_more_title">その他...</string>
   <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
-  <string name="nfc_payment_default">支払いに使用する既定のアプリ</string>
-  <string name="nfc_payment_default_not_set">未設定</string>
-  <string name="nfc_payment_favor_default">常時</string>
   <string name="nfc_payment_favor_open">別の決済アプリが起動されている場合を除く</string>
   <string name="nfc_payment_how_it_works">仕組み</string>
   <string name="nfc_payment_no_apps">店舗でスマートフォンを使用して決済</string>
   <string name="nfc_payment_pay_with">タップ＆ペイ端末で使用するアプリ:</string>
-  <string name="nfc_payment_set_default">タップ＆ペイの際に常に%1$sを使用しますか？</string>
-  <string name="nfc_payment_set_default_instead_of">タップ＆ペイの際に%2$sの代わりに常に%1$sを使用しますか？</string>
-  <string name="nfc_payment_set_default_label">設定として保存しますか？</string>
   <string name="nfc_payment_settings_title">タップ＆ペイ</string>
-  <string name="nfc_payment_use_default">既定を使用</string>
   <string name="nfc_quick_toggle_summary">端末が他のデバイスと接触したときのデータ交換を許可する</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">セキュアエレメントの位置</string>
@@ -2235,7 +2202,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_battery_summary">前回のフル充電から電池を使用していません</string>
   <string name="no_connected_devices">接続されたデバイスはありません</string>
   <string name="no_data_usage">データ通信の使用はありません</string>
-  <string name="no_default_apps">既定のアプリがありません。</string>
   <string name="no_device_admins">有効なデバイス管理者がいません</string>
   <string name="no_internet_access_remember">このネットワークについて次回から表示しない</string>
   <string name="no_internet_access_text">このネットワークはインターネットに接続していません。接続を維持しますか？</string>
@@ -2464,7 +2430,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="pref_volume_wake_title">音量ボタンで復帰</string>
   <string name="preference_change_password_title">パスワードを変更</string>
   <string name="preferred_app_settings">デフォルト</string>
-  <string name="preferred_app_settings_default">デフォルト</string>
   <string name="preferred_app_settings_not_selected">選択されていません</string>
   <string name="preferred_app_settings_reset">デフォルトにリセット</string>
   <string name="preferred_app_settings_reset_button">リセット</string>
@@ -2587,7 +2552,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="provision_skip">スキップ</string>
   <string name="proxy_action_text">終了</string>
   <string name="proxy_clear_text">消去</string>
-  <string name="proxy_defaultView_text">初期設定に戻す</string>
   <string name="proxy_error">注意</string>
   <string name="proxy_error_dismiss">OK</string>
   <string name="proxy_error_empty_host_set_port">[ホスト]フィールドが空の場合は、[ポート]フィールドも空にしてください。</string>
@@ -2722,8 +2686,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="resetting_second_space_passwd">Second spaceのパスワードをリセット中</string>
   <string name="resolver_settings_label">並べ替え</string>
   <string name="resource_ringtone_volume_mute">現在の着信音量はミュートされています</string>
-  <string name="restore_default_apn">デフォルトのAPN設定を復元しています。</string>
-  <string name="restore_default_apn_completed">APN設定をリセットしました。</string>
   <string name="restr_pin_enter_admin_pin">管理者PINを入力</string>
   <string name="restriction_bluetooth_config_summary">Bluetoothのペア設定や設定の変更を許可する</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -3303,9 +3265,6 @@ PINが正しくない可能性があります。"</string>
   <string name="smartcover_sensitive_summary">スマートカバーを使用して端末をロックまたはロック解除する</string>
   <string name="smartcover_sensitive_title">スマートカバー</string>
   <string name="sms_application_title">SMSアプリ</string>
-  <string name="sms_change_default_dialog_text">SMSアプリとして%2$sの代わりに%1$sを使用しますか？</string>
-  <string name="sms_change_default_dialog_title">SMSアプリを変更しますか？</string>
-  <string name="sms_change_default_no_previous_dialog_text">SMSアプリとして%sを使用しますか？</string>
   <string name="sms_delivered_sound_dialog_title">メッセージ送信時の音を選択</string>
   <string name="sms_delivered_sound_title">メッセージ送信時の音</string>
   <string name="sms_messages_title">SMSメッセージ</string>
@@ -3681,16 +3640,6 @@ PINが正しくない可能性があります。"</string>
   <string name="trusted_credentials_system_tab">システム</string>
   <string name="trusted_credentials_user_tab">ユーザー</string>
   <string name="tts_data_installed_summary">音声合成に必要な音声は正常にインストールされています</string>
-  <string name="tts_default_lang_summary">テキスト読み上げに使用する言語固有の音声を設定する</string>
-  <string name="tts_default_lang_title">言語</string>
-  <string name="tts_default_pitch_summary">テキスト読み上げの音程を変更する</string>
-  <string name="tts_default_pitch_title">音の高さ</string>
-  <string name="tts_default_rate_summary">テキストの読み上げ速度</string>
-  <string name="tts_default_rate_title">音声の速度</string>
-  <string name="tts_default_sample_string">これは音声合成のサンプルです</string>
-  <string name="tts_default_settings_section">デフォルト設定</string>
-  <string name="tts_default_synth_summary">テキスト読み上げに使用する音声合成エンジンを設定</string>
-  <string name="tts_default_synth_title">デフォルトのエンジン</string>
   <string name="tts_engine_error">選択したエンジンは実行できません。</string>
   <string name="tts_engine_error_config">設定</string>
   <string name="tts_engine_error_reselect">別のエンジンを選択</string>
@@ -3859,8 +3808,6 @@ PINが正しくない可能性があります。"</string>
   <string name="usb_use_charging_only">充電のみ</string>
   <string name="usb_use_file_transfers">ファイルの転送（MTP）</string>
   <string name="usb_use_photo_transfers">写真の転送（PTP）</string>
-  <string name="use_default_tts_settings_summary">アプリの設定を以下のデフォルト設定でオーバーライドする</string>
-  <string name="use_default_tts_settings_title">常に自分の設定を使用</string>
   <string name="use_location_summary">検索結果やサービスの品質向上にGoogleが現在地情報を使用することを許可する</string>
   <string name="use_location_title">位置情報とGoogle検索</string>
   <string name="use_personalized_ad_service">"広告識別子を使用する"</string>

@@ -122,7 +122,6 @@
   <string name="callFailed_userBusy">話し中</string>
   <string name="callUnanswered_forwarded">Call unanswered and forwarded</string>
   <string name="call_advanced_setting_title">"詳細設定"</string>
-  <string name="call_background_default">デフォルト</string>
   <string name="call_background_lock_wallpaper">ロック画面の壁紙</string>
   <string name="call_background_setting">Call background</string>
   <string name="call_barring">発着信制限</string>
@@ -230,21 +229,17 @@
   <string name="cfnry_title">不在の時は転送</string>
   <string name="cfu_title">常に転送</string>
   <string name="change_data_preference_4g_only_prompt">Looks like you have a 4G only SIM card. Set it as default for mobile data?</string>
-  <string name="change_default_data_card">デフォルトのモバイルデータSIM</string>
-  <string name="change_default_data_card_summary">SIMカードが変更されたようです。モバイルデータ接続のために、このSIMカードをデフォルトに設定しますか？</string>
   <string name="change_num">更新</string>
   <string name="change_password">発着信制限のパスワードを変更</string>
   <string name="change_pin">SIM PINの変更</string>
   <string name="change_pin2">PIN2を変更</string>
   <string name="clir_choices_hide_number">番号を非表示</string>
-  <string name="clir_choices_network_default">ネットワークデフォルト</string>
   <string name="clir_choices_show_number">番号を表示</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">閉じる</string>
   <string name="cloud_antispam_title">不明な番号を識別</string>
   <string name="cmcc_ut_data_enable_prompt">このサービスはモバイルデータ接続が必要です。続けるにはモバイルデータ接続をOnにしてください。</string>
   <string name="command_error_fdn_failure">最初にFDN（発信先固定）をOffにしてください。</string>
-  <string name="config_default_data_sim">設定</string>
   <string name="config_disable_cdma_activation_code">false</string>
   <string name="confirm">確認</string>
   <string name="confirmPin2Label">新しいPIN2の確認</string>
@@ -258,7 +253,6 @@
   <string name="connect_disconnect_vibrate_title">応答時のバイブレーション</string>
   <string name="connect_disconnect_vibrate_weak">弱</string>
   <string name="connect_later">"現在このネットワークに接続できません。しばらくしてからもう一度お試しください。"</string>
-  <string name="connection_service_default_label">組み込みの接続サービス</string>
   <string name="contactAddFailed">"SIMに連絡先を追加出来ません。"</string>
   <string name="contactAddSuccess">SIMに連絡先を追加しました。</string>
   <string name="contactPhoto">連絡先の写真</string>
@@ -273,10 +267,6 @@
   <string name="data_enable_summary">"モバイルデータの使用を許可"</string>
   <string name="data_enabled">"データ通信を有効にする"</string>
   <string name="deactivate_all">すべてキャンセル</string>
-  <string name="default_notification_description">デフォルトの通知音(%1$s)</string>
-  <string name="default_port">5060</string>
-  <string name="default_preference_summary">&lt;未設定></string>
-  <string name="default_transport">UDP</string>
   <string name="delete">削除</string>
   <string name="deleteAllSimEntries">Delete all SIM contacts</string>
   <string name="deleteSimContacts">Deleting SIM contacts</string>
@@ -578,11 +568,7 @@
   <string name="mobile_network_settings_not_available">携帯電話ネットワークの設定は、このユーザーには使用できません</string>
   <string name="mobile_networks">モバイルネットワーク設定</string>
   <string name="msim_apn_not_set">"未設定"</string>
-  <string name="msim_default_setting">"デフォルト設定"</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
-  <string name="msim_disable_sim_card_summary_default_card">このカードは、現在ご利用中のデフォルトのSIMとして設定されています。このカードの使用を中止した場合、電話の発信やモバイルデータ接続の使用が出来なくなります。他のSIMカードをデフォルトのカードとして設定した後で、このSIMカードの使用を中止出来ます。</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">電話の発信やモバイルデータ接続の使用が出来ません。SIMカード%sの使用を中止しますか？</string>
-  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"緊急通報待機モードでセカンダリSIMを制限しないでください。"</string>
   <string name="msim_disable_sim_card_title">SIMカードの使用を中止</string>
   <string name="msim_enable_sim">"オンにする"</string>
   <string name="msim_general_setting">"設定"</string>
@@ -792,7 +778,6 @@
   <string name="preference_category_ringtone">着信音とバイブレーション</string>
   <string name="preference_data_usage_summary">"データプランを設定して使用量を管理する"</string>
   <string name="preference_data_usage_title">"データプランを設定"</string>
-  <string name="preference_dial_pad_touch_tone_default">デフォルト</string>
   <string name="preference_dial_pad_touch_tone_off">オフ</string>
   <string name="preference_dial_pad_touch_tone_piano">ピアノの鍵盤</string>
   <string name="preference_dial_pad_touch_tone_title">ダイヤルキーのタッチ音</string>
@@ -939,7 +924,6 @@
   <string name="respond_via_sms_cannot_empty">拒否メッセージは空欄のままに出来ません。</string>
   <string name="respond_via_sms_confirmation_format">%sにメッセージを送信しました。</string>
   <string name="respond_via_sms_edittext_dialog_title">クイック返信</string>
-  <string name="respond_via_sms_menu_reset_default_activity">デフォルトに戻す</string>
   <string name="respond_via_sms_setting_summary">クイック返信の編集</string>
   <string name="respond_via_sms_setting_title">クイック返信</string>
   <string name="response_error">ネットワークから予期しない応答が返されました。</string>
@@ -998,7 +982,6 @@
   <string name="sim_card_num">SIM %s</string>
   <string name="sim_contact_name">名前</string>
   <string name="sim_contact_number">番号</string>
-  <string name="sim_description_default">"SIMカード、スロット: %s"</string>
   <string name="sim_description_emergency_calls">緊急通報のみ</string>
   <string name="sim_label_emergency_calls">緊急通報</string>
   <string name="sim_ndp_dismiss_text">無効</string>
@@ -1056,7 +1039,6 @@
   <string name="sum_cfu_enabled_no_number">番号が利用できません</string>
   <string name="sum_cw_disabled">通話中も着信を知らせる</string>
   <string name="sum_cw_enabled">通話中も着信を知らせる</string>
-  <string name="sum_default_caller_id">発信者番号表示に通信事業者のデフォルト値を使用する</string>
   <string name="sum_fdn">電話番号の指定による発信制限</string>
   <string name="sum_fdn_change_pin">発信番号制限のPINを変更</string>
   <string name="sum_fdn_manage_list">電話番号リストを管理</string>
@@ -1155,7 +1137,6 @@
   <string name="voice_report_unknown_num">不明な番号</string>
   <string name="voicemail">ボイスメール</string>
   <string name="voicemail_abbreviated">VM:</string>
-  <string name="voicemail_default">携帯通信会社</string>
   <string name="voicemail_notification_ringtone_title">通知音</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">バイブレーション</string>
   <string name="voicemail_notification_vibrate_when_default">バイブレーションしない</string>

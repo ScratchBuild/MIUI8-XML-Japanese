@@ -102,7 +102,6 @@
   <string name="cta_dialog_title">"インターネット接続"</string>
   <string name="current_permission_template">"%1$s/%2$s"</string>
   <string name="current_permissions_category">"既存の権限"</string>
-  <string name="default_permission_description">"不明な操作の実行"</string>
   <string name="devicePerms">"端末アクセス"</string>
   <string name="dlg_app_replacement_statement">"このアプリは既存のアプリを上書きします。\n\n既存のアプリデータはすべて保存されます。"</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) は現在インストールされているバージョン (%3$s) を更新します。既存のアプリデータはすべて保存されます。"</string>

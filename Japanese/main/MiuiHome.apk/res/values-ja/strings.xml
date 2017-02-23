@@ -199,7 +199,6 @@
   <string name="pref_wallpaper_scroll_type_title">Wallpaper alignment</string>
   <string name="preferences_general_title">"その他の設定"</string>
   <string name="preferences_title">"ランチャーの設定"</string>
-  <string name="recommend_apps_default_title">Empty</string>
   <string name="recommend_apps_notice">Promoted apps</string>
   <string name="recommend_apps_notice_nodata">Promoted apps (No data)</string>
   <string name="recommend_apps_switch_title">Promoted apps</string>

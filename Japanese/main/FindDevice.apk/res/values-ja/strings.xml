@@ -5,8 +5,6 @@
   <string name="app_name">Find device</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Couldn't unlock. %s."</string>
-  <string name="default_lock_msg_words">This device is associated with an existing Mi Account. For security reasons, you need to enter password to verify the device.</string>
-  <string name="default_lock_msg_words_with_phone">Hi! I lost my phone. Could you please contact me? Thanks!</string>
   <string name="device_locked">"このデバイスはロックされています"</string>
   <string name="device_lost">This device is lost</string>
   <string name="disable_find_device_error">"Find deviceをオフにできません。%1$s"</string>

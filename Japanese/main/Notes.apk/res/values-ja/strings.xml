@@ -17,7 +17,6 @@
   <string name="app_widget">"ノート"</string>
   <string name="call_folder_name">Call notes</string>
   <string name="cloud_trash_bin_title">"Mi Cloudのノートを削除"</string>
-  <string name="default_folder_name">"新しいフォルダ"</string>
   <string name="delete_folder_dialog_tile">"フォルダを削除"</string>
   <string name="dlg_btn_set_password">"パスワードを設定"</string>
   <string name="dlg_check_reminder">"次回から表示しない"</string>
@@ -119,7 +118,6 @@
   <string name="sns_choose_quality_high">"高画質 (%1$s)"</string>
   <string name="sns_choose_quality_low">"低画質"</string>
   <string name="sns_choose_quality_title">"写真の画質を選択"</string>
-  <string name="sns_content_default">"写真を共有"</string>
   <string name="sns_desc_image_preview">"メッセージのプレビュー"</string>
   <string name="sns_desc_preview_weibo">Weibo message preview</string>
   <string name="sns_footer_text">Created with Mi Notes</string>
@@ -136,7 +134,6 @@
   <string name="theme_title_blue">Blue</string>
   <string name="theme_title_candy">Candy</string>
   <string name="theme_title_dark">Dark</string>
-  <string name="theme_title_default">Default</string>
   <string name="theme_title_green">Green</string>
   <string name="theme_title_invitation">Invitation</string>
   <string name="theme_title_red">Red</string>

@@ -10,7 +10,6 @@
   <string name="debug_dump_email_subject">"連絡先データベースを添付"</string>
   <string name="debug_dump_start_button">"開始"</string>
   <string name="debug_dump_title">"連絡先データベースをコピー"</string>
-  <string name="default_directory">"連絡先"</string>
   <string name="edit_contact">"連絡先に追加"</string>
   <string name="local_invisible_directory">"その他"</string>
   <string name="low_memory_toast">"メモリ不足のため、使用を続けることができません。"</string>

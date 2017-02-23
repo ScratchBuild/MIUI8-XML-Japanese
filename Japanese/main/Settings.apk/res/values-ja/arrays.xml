@@ -472,11 +472,6 @@
         <item>Chimp</item>
         <item>Monkey</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>確認する</item>
-        <item>許可しない</item>
-        <item>常に許可する</item>
-    </string-array>
     <string-array name="ram_states">
         <item>標準</item>
         <item>やや不足</item>

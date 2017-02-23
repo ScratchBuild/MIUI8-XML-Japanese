@@ -228,7 +228,6 @@ across all your devices with Xunlei"</string>
   <string name="paused_waiting_for_network">Waiting for network</string>
   <string name="paused_waiting_to_retry">Waiting to retry</string>
   <string name="period_of_validity">Validity:</string>
-  <string name="pref_download_revert_default">Default</string>
   <string name="pref_download_settings_title">"ダウンロードサイズ制限"</string>
   <string name="pref_download_storage_path">Create a new folder for downloads</string>
   <string name="pref_sniff_shortcut">Create Home screen shortcut for web search</string>
@@ -264,7 +263,6 @@ across all your devices with Xunlei"</string>
   <string name="resume_download">Resume</string>
   <string name="retry_after_network_available">"ネットワークに接続できませんでした。データ接続を確認してもう一度お試しください"</string>
   <string name="retry_download">"再試行"</string>
-  <string name="revert_default">"デフォルト設定を復元"</string>
   <string name="revert_download_path">Use default downloads location?</string>
   <string name="save_path">"Save downloads to: "</string>
   <string name="save_text">Save ￥%1$s</string>
@@ -371,7 +369,6 @@ across all your devices with Xunlei"</string>
   <string name="text_showmore_infoflow">View more sources</string>
   <string name="third_web_cancel">"キャンセル"</string>
   <string name="third_web_confirm">OK</string>
-  <string name="third_web_default">Remember this location</string>
   <string name="third_web_filename_hint">Name</string>
   <string name="third_web_filesize">Size</string>
   <string name="third_web_savepath">Location</string>

@@ -109,9 +109,7 @@
   <string name="other">"その他"</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_aqi_title">Air Quality Index</string>
-  <string name="realtime_cityname_default">Location city</string>
   <string name="realtime_humidity_title">"相対湿度"</string>
-  <string name="realtime_wind_default_title">Wind</string>
   <string name="refresh_fail">"ネットワークに接続できませんでした"</string>
   <string name="retry">"再試行"</string>
   <string name="search_weather">Weather</string>

@@ -114,7 +114,6 @@
   <string name="account_setup_incoming_security_tls_trust_certificates_label">"STARTTLS（証明書をすべて承認）"</string>
   <string name="account_setup_incoming_server_label">"サーバー"</string>
   <string name="account_setup_incoming_username_label">"ユーザー名"</string>
-  <string name="account_setup_incoming_username_label_default_hint">"ドメインを含めることができます"</string>
   <string name="account_setup_need_password_verification">Your account has secondary password authentication. Authentication is required.</string>
   <string name="account_setup_options_mail_check_frequency_10min">"10分ごと"</string>
   <string name="account_setup_options_mail_check_frequency_12hour">"12時間ごと"</string>
@@ -131,7 +130,6 @@
   <string name="account_setup_options_mail_window_3days">"過去3日間"</string>
   <string name="account_setup_options_mail_window_all">"すべて"</string>
   <string name="account_setup_options_mail_window_auto">"自動"</string>
-  <string name="account_setup_options_mail_window_default">"アカウントの既定値を使用"</string>
   <string name="account_setup_options_mail_window_label">"同期するメールの送信元:"</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Keep for</string>
   <string name="account_setup_options_title">"アカウント設定"</string>
@@ -276,7 +274,6 @@
   <string name="contact_edit_title_phone_contact">"電話の連絡先リスト"</string>
   <string name="contact_in_filter_title">"送信者"</string>
   <string name="contact_info_string">%1$sの連絡先情報を表示</string>
-  <string name="contact_info_string_default">"連絡先の情報を表示"</string>
   <string name="contact_list_add_btn">"追加"</string>
   <string name="contact_list_search_hint">"連絡先の検索"</string>
   <string name="contact_list_title">"連絡先"</string>
@@ -318,12 +315,6 @@
   <string name="date_heading">"日付: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">"今日, %1$s"</string>
-  <string name="default_">DEFAULT</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
-  <string name="default_setup">DEFAULT SETTINGS</string>
-  <string name="default_signature">Sent from my Mi phone</string>
   <string name="del_account_questionnair_hint">"このアカウントを削除する理由を教えてください"</string>
   <string name="delete">"削除"</string>
   <string name="delete_message_flow">Delete message flow</string>
@@ -408,7 +399,6 @@
   <string name="file_not_found">"ファイルが見つかりませんでした"</string>
   <string name="file_not_found_redownload">"ファイルが見つかりませんでした"</string>
   <string name="file_rar_not_support">"暗号化されたrarファイルを開くことができません"</string>
-  <string name="first_quick_default_reply">Tap the button to send \"%s\" to all people in the conversation</string>
   <string name="float_window_content">Detects that you are using the mailbox, click Confirm for you to automatically fill 139 E-mail account and password.</string>
   <string name="float_window_info">"When configuring the 139 mailbox, don't operate the phone, in case of configuration failures."</string>
   <string name="float_window_title">Configuration………</string>
@@ -566,7 +556,6 @@
   <string name="meeting_where">"場所: %s"</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">"添付ファイル"</string>
-  <string name="menu_att_mgr_order_default">Recently viewed</string>
   <string name="menu_att_mgr_order_mime">Sort by format</string>
   <string name="menu_att_mgr_order_name">Sort by name</string>
   <string name="menu_att_mgr_order_rev_date">Sort by date received</string>

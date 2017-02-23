@@ -48,7 +48,6 @@
   <string name="action_bar_up_description">上へ移動</string>
   <string name="action_menu_overflow_description">その他のオプション</string>
   <string name="action_mode_done">完了</string>
-  <string name="activity_chooser_view_dialog_title_default">操作の選択</string>
   <string name="activity_chooser_view_see_all">すべて表示</string>
   <string name="activity_list_empty">一致するアクティビティが見つかりません。</string>
   <string name="activity_resolver_use_always">常時</string>
@@ -371,7 +370,6 @@
   <string name="imTypeHome">自宅</string>
   <string name="imTypeOther">その他</string>
   <string name="imTypeWork">勤務先</string>
-  <string name="ime_action_default">実行</string>
   <string name="ime_action_done">完了</string>
   <string name="ime_action_go">移動</string>
   <string name="ime_action_next">次へ</string>
@@ -505,7 +503,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lockscreen_access_pattern_cleared">パターンを消去しました</string>
   <string name="lockscreen_access_pattern_detected">パターンの描画が完了しました</string>
   <string name="lockscreen_access_pattern_start">パターンの描画を開始しました</string>
-  <string name="lockscreen_carrier_default">通信サービスはありません</string>
   <string name="lockscreen_emergency_call">緊急通報</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">端末のロック解除に%d回失敗しました。あと%d回失敗すると、端末は工場出荷状態にリセットされ、ユーザーのデータはすべて失われます。</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">ロック解除パターンの入力を%d回間違えました。あと%d回間違えると、携帯端末のロック解除にGoogleへのログインが必要になります。
@@ -1003,8 +1000,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="restr_pin_incorrect">間違っています</string>
   <string name="restr_pin_try_later">しばらくしてから再試行</string>
   <string name="revoke">取り消し</string>
-  <string name="ringtone_default">プリセット着信音</string>
-  <string name="ringtone_default_with_actual">端末の基本着信音（%1$s）</string>
   <string name="ringtone_picker_title">着信音</string>
   <string name="ringtone_silent">なし</string>
   <string name="ringtone_unknown">不明な着信音</string>
@@ -1243,7 +1238,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="wifi_calling_off_summary">OFF</string>
   <string name="wifi_connect_alert_message">アプリ%1$sがWi-Fiネットワーク%2$sへの接続を希望しています</string>
   <string name="wifi_connect_alert_title">接続を許可しますか？</string>
-  <string name="wifi_connect_default_application">アプリ</string>
   <string name="wifi_no_internet">Wi-Fiはインターネットに接続していません</string>
   <string name="wifi_no_internet_detailed">タップするとオプションが表示されます</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1271,9 +1265,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="years">年</string>
   <string name="yes">OK</string>
   <string name="zen_mode_alarm">%1$s（次のアラーム）まで</string>
-  <string name="zen_mode_default_events_name">予定</string>
-  <string name="zen_mode_default_weekends_name">週末</string>
-  <string name="zen_mode_default_weeknights_name">平日の夜</string>
   <string name="zen_mode_downtime_feature_name">ダウンタイム</string>
   <string name="zen_mode_feature_name">通知を非表示</string>
   <string name="zen_mode_forever">ユーザーがOFFにするまで</string>

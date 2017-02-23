@@ -240,8 +240,6 @@ Pages you view won't appear in history."</string>
   <string name="download_btn_select_none">"すべて選択を解除"</string>
   <string name="download_complete">"正常にダウンロードされました"</string>
   <string name="download_completed">"ダウンロード済み"</string>
-  <string name="download_default_path_txt">"この選択を記憶する"</string>
-  <string name="download_dialog_default_path_invalid">"選択したダウンロードの場所は無効です。既定の場所に保存しています…"</string>
   <string name="download_dialog_file_length_hint_txt">"ファイルサイズ: "</string>
   <string name="download_dialog_file_length_lessthan1kb">"1K未満"</string>
   <string name="download_dialog_file_length_nolength_error_txt">"ダウンロードできませんでした"</string>
@@ -524,17 +522,9 @@ Pages you view won't appear in history."</string>
   <string name="pref_enable_news">News</string>
   <string name="pref_enable_novels">Books</string>
   <string name="pref_enable_videos">Videos</string>
-  <string name="pref_extras_reset_default">"初期設定にリセット"</string>
-  <string name="pref_extras_reset_default_dlg">"設定をデフォルト値に戻しますか？"</string>
-  <string name="pref_extras_reset_default_summary">"初期設定に戻す"</string>
-  <string name="pref_extras_reset_default_title">"初期設定にリセット"</string>
   <string name="pref_extras_send_feedback">"フィードバックを送信"</string>
   <string name="pref_extras_title">"高度な設定"</string>
   <string name="pref_extras_title_version">"バージョン情報"</string>
-  <string name="pref_file_downlaod_save_is_reset_default_settings">"Save files to Browser's default location"</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">Restore default location</string>
-  <string name="pref_file_download_default_path_prefix">Default location: %s</string>
-  <string name="pref_file_download_save_modify_default_path">Downloads location</string>
   <string name="pref_file_download_save_title">"ダウンロード"</string>
   <string name="pref_fling_on_border">"端からスワイプ"</string>
   <string name="pref_fling_on_border_title_summary">"画面の左または右の端からスワイプ"</string>
@@ -617,7 +607,6 @@ Pages you view won't appear in history."</string>
   <string name="quicklink_saved_before">This site has already been added</string>
   <string name="quicklink_user_define_webpage_title">Name</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
-  <string name="quicklinks_group_default_subtitle">Empty</string>
   <string name="quicklinks_management">Popular</string>
   <string name="quicklinks_most_visited">"スタートページに追加"</string>
   <string name="quicklinks_most_visited_subtitle">Show recently visited sites in new tab</string>
@@ -786,7 +775,6 @@ Pages you view won't appear in history."</string>
   <string name="v5_edit_mode_title_empty">0 selected</string>
   <string name="v5_select_all">"すべて選択"</string>
   <string name="version_check_button_checking">"確認中…"</string>
-  <string name="version_check_button_default">"アップデートを確認"</string>
   <string name="version_check_button_download_failed">"ダウンロードの再開"</string>
   <string name="version_check_button_downloading">"ダウンロード中…"</string>
   <string name="version_check_button_install">"インストール"</string>

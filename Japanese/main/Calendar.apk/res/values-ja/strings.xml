@@ -41,7 +41,6 @@
   <string name="birthday_event_description_day_before_yesterday">The day before yesterday was</string>
   <string name="birthday_event_description_days_ago">%1$s days since</string>
   <string name="birthday_event_description_days_later">%1$s days until</string>
-  <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s %2$s's %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">"今日は"</string>
   <string name="birthday_event_description_tomorrow">"明日は"</string>
@@ -101,7 +100,6 @@
   <string name="date_pattern_mm_dd">M月d日</string>
   <string name="date_time_fmt" formatted="false">%sの%s</string>
   <string name="day_view_new_event_hint">"新しい予定を追加"</string>
-  <string name="default_reminder_mode">"リマインダー"</string>
   <string name="delete_calendar">"購読解除"</string>
   <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
   <string name="delete_this_event_title">"この予定を削除しますか？"</string>
@@ -129,7 +127,6 @@
   <string name="edit_event_from_label">"開始"</string>
   <string name="edit_event_input_year">"年を入力"</string>
   <string name="edit_event_label">"詳細"</string>
-  <string name="edit_event_no_reminder_value">"Don't remind"</string>
   <string name="edit_event_reminder_text">On %1$s at %2$s</string>
   <string name="edit_event_reminder_with_another_day_text">On %1$s, %2$s at %3$s</string>
   <string name="edit_event_show_all">"すべて表示"</string>
@@ -164,7 +161,6 @@
   <string name="event_info_where">"場所"</string>
   <string name="event_lunar_month">月</string>
   <string name="event_reminder_allday_day_zero">On that day at %2$s</string>
-  <string name="event_reminder_value_zero">Before the event</string>
   <string name="event_reminders_to_max">Can set up to %d reminders</string>
   <string name="event_title">"タイトル"</string>
   <string name="event_view">"予定を表示"</string>
@@ -296,9 +292,6 @@
   <string name="preferences_alerts_ringtone_title">"通知音"</string>
   <string name="preferences_alerts_vibrateWhen_title">"バイブレーション"</string>
   <string name="preferences_alerts_vibrate_title">"バイブレーションと通知音"</string>
-  <string name="preferences_default_allday_reminder_title">Default all day reminder time</string>
-  <string name="preferences_default_reminder_dialog">"リマインダー通知"</string>
-  <string name="preferences_default_reminder_title">"既定の通知時間"</string>
   <string name="preferences_home_tz_title">"自宅のタイムゾーン"</string>
   <string name="preferences_import_credit_repayment">"クレジットカードの支払い"</string>
   <string name="preferences_import_travel">"交通チケット"</string>

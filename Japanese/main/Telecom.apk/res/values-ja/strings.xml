@@ -5,9 +5,6 @@
   <string name="add_vm_number_str">"番号を追加"</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Can't make a video call while a voice call is in progress"</string>
   <string name="can_not_dial_while_vt_prompt">"Can't dial while a video call in process"</string>
-  <string name="change_default_dialer_dialog_title">"既定の電話アプリを変更しますか？"</string>
-  <string name="change_default_dialer_no_previous_app_set_text">"%sを既定の電話アプリとして使用しますか？"</string>
-  <string name="change_default_dialer_with_previous_app_set_text">"%1$sを%2$sの代わりに既定の電話アプリとして使用しますか？"</string>
   <string name="dial_conference_fail_prompt">"現在のネットワークはVoLTEをサポートしていないため、直接グループ通話に発信することはできません。"</string>
   <string name="dial_vt_fail_prompt">"現在のネットワークはVoLTEをサポートしていません。通常の音声通話に切り替えますか？"</string>
   <string name="duplicate_video_call_not_allowed">"通話は現在追加できません。"</string>

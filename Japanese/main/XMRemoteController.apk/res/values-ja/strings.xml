@@ -450,7 +450,6 @@ Then answer the question"</string>
   <string name="match_mibox_sencond">· Control your Mi TV with this device.</string>
   <string name="match_mibox_third">· Add other Mi devices automatically</string>
   <string name="match_name_power">"電源"</string>
-  <string name="match_number_default">Do number buttons work?</string>
   <string name="match_power_confirm_tip_frame">Is %1$s on?</string>
   <string name="match_power_main_tip_frame">Is %1$s on?</string>
   <string name="match_stb_intro_left">Release when cursor moves left</string>
@@ -461,7 +460,6 @@ Then answer the question"</string>
   <string name="match_stb_name_up">Up</string>
   <string name="match_stb_seletion_des">Choose your location</string>
   <string name="match_succuss">"You're all set"</string>
-  <string name="match_tip_default">Does device respond?</string>
   <string name="match_tip_eject">Does the eject button work?</string>
   <string name="match_tip_exit">Does the exit button work?</string>
   <string name="match_tip_ff">Does the fast forward button work?</string>
@@ -809,7 +807,6 @@ directly from your Lock screen"</string>
   <string name="save_share_title">Save the remote on this device?</string>
   <string name="scaning">"検索中…"</string>
   <string name="scanning_milink">"デバイスの検索中…"</string>
-  <string name="scene_default">Default</string>
   <string name="scene_name_frame">%1$s %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screen_shot_button_title">Interception of the TV screen</string>

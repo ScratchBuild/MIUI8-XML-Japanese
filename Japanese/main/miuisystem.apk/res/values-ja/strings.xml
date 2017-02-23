@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_frequent_phrases">"よく使うフレーズを追加"</string>
-  <string name="android_ringtone_default_with_actual">"デフォルトの着信音 (%1$s)"</string>
   <string name="android_ringtone_silent">None</string>
   <string name="android_ringtone_unknown">"不明な着信音"</string>
   <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
