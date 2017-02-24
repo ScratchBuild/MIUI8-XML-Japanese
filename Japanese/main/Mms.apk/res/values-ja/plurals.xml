@@ -5,14 +5,14 @@
         <item quantity="one">このスレッドを削除しますか？</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s秒</item>
-        <item quantity="one">%s秒</item>
-        <item quantity="few">%s秒</item>
+        <item quantity="other">%d秒</item>
+        <item quantity="one">%d秒</item>
+        <item quantity="few">%d秒</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s秒</item>
-        <item quantity="one">%s秒</item>
-        <item quantity="few">%s秒</item>
+        <item quantity="other">%d秒</item>
+        <item quantity="one">%d秒</item>
+        <item quantity="few">%d秒</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">「%2$s」の検索結果 %1$s件</item>

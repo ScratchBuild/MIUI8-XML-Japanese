@@ -32,6 +32,8 @@
   <string name="alarm_label">"閉じる"</string>
   <string name="alert_reminder_expired">"期限切れ"</string>
   <string name="alert_title">"カレンダーの通知"</string>
+  <string name="anniversary_card_title">Anniversary</string>
+  <string name="anniversary_event_title">[Anniversary]%1$s</string>
   <string name="app_label">"カレンダー"</string>
   <string name="birthday_calendar_display_name">"誕生日のリマインダー"</string>
   <string name="birthday_card_title">"今日の誕生日"</string>
@@ -39,8 +41,8 @@
   <string name="birthday_event_description_a_week_later">"1週間後"</string>
   <string name="birthday_event_description_day_after_tomorrow">"明後日は"</string>
   <string name="birthday_event_description_day_before_yesterday">The day before yesterday was</string>
-  <string name="birthday_event_description_days_ago">%1$s days since</string>
-  <string name="birthday_event_description_days_later">%1$s days until</string>
+  <string name="birthday_event_description_days_ago">%1$d days since</string>
+  <string name="birthday_event_description_days_later">%1$d days until</string>
   <string name="birthday_event_description_special">"%1$s %2$s's %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">"今日は"</string>
   <string name="birthday_event_description_tomorrow">"明日は"</string>
@@ -77,6 +79,11 @@
   <string name="chongsha">冲煞</string>
   <string name="copy_email">"メールアドレスをコピー"</string>
   <string name="copy_number">"電話番号をコピー"</string>
+  <string name="countdown_card_title">Countdown Days</string>
+  <string name="countdown_event_title">[Countdown]%1$s</string>
+  <string name="countdown_notify_before_3_day_title">[Countdown]%1$s in 3 days</string>
+  <string name="countdown_notify_title">[Countdown]%1$s</string>
+  <string name="countdown_today">Today</string>
   <string name="create_an_account_desc">"Mi Accountがあればカレンダーをもっと活用できます。
 
 • どのウェブブラウザからもアクセスできます
@@ -105,6 +112,8 @@
   <string name="delete_this_event_title">"この予定を削除しますか？"</string>
   <string name="deleting_calendar">"解除中"</string>
   <string name="departure">"出発"</string>
+  <string name="description_calendar">"システムアプリ/カレンダー"</string>
+  <string name="description_calendar_edit_event">"システムアプリ/カレンダー/予定"</string>
   <string name="directory_searching_fmt">"%sを検索中…"</string>
   <string name="discard_label">"キャンセル"</string>
   <string name="does_not_repeat">"繰り返しなし"</string>
@@ -114,20 +123,26 @@
   <string name="downloading">"ダウンロード中"</string>
   <string name="downloading_wallpaper">"壁紙をダウンロード中"</string>
   <string name="edit_event_all_day_label">"終日"</string>
+  <string name="edit_event_anniversary_name_empty_hint">Please enter a anniversary</string>
+  <string name="edit_event_anniversary_name_hint">Content</string>
   <string name="edit_event_birthday_import_from_contact">"連絡先から誕生日をインポート"</string>
   <string name="edit_event_birthday_name_empty_hint">"名前を入力"</string>
   <string name="edit_event_birthday_name_hint">"名前"</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Remind 3 days in advance as well</string>
-  <string name="edit_event_birthday_reminder_summary">On that day at %1$s</string>
-  <string name="edit_event_birthday_reminder_summary_3_days_before">3 days in advance and on that day at %1$s</string>
   <string name="edit_event_birthday_reminder_time">Reminder time</string>
   <string name="edit_event_calendar_label">"カレンダー"</string>
   <string name="edit_event_choose_date">"日付を選択"</string>
   <string name="edit_event_confirm_message">"変更を破棄しますか？"</string>
+  <string name="edit_event_countdown_name_empty_hint">Please enter countdown content</string>
+  <string name="edit_event_countdown_name_hint">Content</string>
   <string name="edit_event_from_label">"開始"</string>
   <string name="edit_event_input_year">"年を入力"</string>
   <string name="edit_event_label">"詳細"</string>
+  <string name="edit_event_no_reminder_value">"Don't remind"</string>
+  <string name="edit_event_reminder_3_days_before">Remind 3 days in advance as well</string>
+  <string name="edit_event_reminder_summary">On that day at %1$s</string>
+  <string name="edit_event_reminder_summary_3_days_before">3 days in advance and on that day at %1$s</string>
   <string name="edit_event_reminder_text">On %1$s at %2$s</string>
+  <string name="edit_event_reminder_time">Reminder time</string>
   <string name="edit_event_reminder_with_another_day_text">On %1$s, %2$s at %3$s</string>
   <string name="edit_event_show_all">"すべて表示"</string>
   <string name="edit_event_tab_anniversary">"記念日"</string>
@@ -161,6 +176,7 @@
   <string name="event_info_where">"場所"</string>
   <string name="event_lunar_month">月</string>
   <string name="event_reminder_allday_day_zero">On that day at %2$s</string>
+  <string name="event_reminder_value_zero">Before the event</string>
   <string name="event_reminders_to_max">Can set up to %d reminders</string>
   <string name="event_title">"タイトル"</string>
   <string name="event_view">"予定を表示"</string>
@@ -188,6 +204,7 @@
   <string name="hint_what">"タイトル"</string>
   <string name="hint_where">"場所"</string>
   <string name="holiday_card_title">"祝日"</string>
+  <string name="homepage_nowadays">"今日"</string>
   <string name="homepage_today">"今日"</string>
   <string name="horoscope_card_comprehensive">"総合運："</string>
   <string name="horoscope_card_financial">"金運："</string>
@@ -281,7 +298,7 @@
   <string name="no_visiable_calendar_title">"カレンダーアカウントを選択"</string>
   <string name="not_synced">"未同期"</string>
   <string name="online_reminder_header_text">"リマインダー"</string>
-  <string name="path_calendar">"システムアプリ/カレンダー/設定"</string>
+  <string name="path_calendar_settings">"システムアプリ/カレンダー/設定"</string>
   <string name="pengzu">彭祖</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
   <string name="pref_error_no_ringtone_select">Default ringtone</string>
@@ -338,7 +355,9 @@
   <string name="saving_event">"予定を保存しました"</string>
   <string name="saving_event_with_guest">"アップデートを送信します"</string>
   <string name="search">"検索"</string>
-  <string name="search_calendar">Calendar;Agenda;Reminder</string>
+  <string name="search_calendar">"Date;Solar Terms;Lunar;Almanac;Fortune;Agenda;Meeting;Reminder;Vacation;Holiday;Birthday;2016;2017;Spring Festival;New Year's Day;International Labour Day;Mid-Autumn Festival"</string>
+  <string name="search_calendar_edit_event">Meeting;Reminder;Agenda</string>
+  <string name="search_calendar_settings">Calendar;Agenda;Reminder</string>
   <string name="select_date">"日付を選択"</string>
   <string name="select_synced_calendars_title">"カレンダーと同期"</string>
   <string name="set_as_wallpaper">"壁紙に設定"</string>
@@ -384,6 +403,7 @@
   <string name="taishen">胎神</string>
   <string name="template_announce_item_index">"%2$s件中%1$s件目の予定"</string>
   <string name="template_week_num">Week %1$s</string>
+  <string name="text_day">日</string>
   <string name="text_year">年</string>
   <string name="ticket_card_date">%1$s月%2$s日</string>
   <string name="ticket_card_description">今日可预定</string>

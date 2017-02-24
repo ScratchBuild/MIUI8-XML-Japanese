@@ -246,4 +246,9 @@
         <item>Time</item>
         <item>Count</item>
     </string-array>
+    <string-array name="repeat_countdown">
+        <item>Never</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
 </resources>

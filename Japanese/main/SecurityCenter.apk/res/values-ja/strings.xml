@@ -809,6 +809,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_item">Protect selected apps with App lock</string>
+  <string name="notification_quick_charging_title">"急速充電"</string>
   <string name="notification_subtitle">"オンにするにはタップ"</string>
   <string name="notification_summary_cmcc_app_check">"詳細を表示するにはタップ。"</string>
   <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
@@ -886,7 +887,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_networkassistant_1">システムアプリ/セキュリティ/データ使用量</string>
   <string name="path_networkassistant_2">システムアプリ/セキュリティ/データ使用量</string>
   <string name="path_networkassistant_4">システムアプリ/セキュリティ/データ使用量/ネットワークをテスト</string>
-  <string name="path_permcenter">システムアプリ/セキュリティ/パーミッション</string>
+  <string name="path_payment_security">システムアプリ/セキュリティ/Payment security</string>
   <string name="path_powercenter">システムアプリ/セキュリティ/電池使用量</string>
   <string name="path_powercenter_powerrank">電池とパフォーマンス/電池使用量</string>
   <string name="path_securitycenter">システムアプリ/セキュリティ</string>

@@ -34,7 +34,7 @@
   <string name="control_set_alarm">"アラームを設定"</string>
   <string name="control_set_alarm_with_existing">Alarm set: %s</string>
   <string name="day">"1日"</string>
-  <string name="days">"%s日"</string>
+  <string name="days">"%d日"</string>
   <string name="delete">"削除"</string>
   <string name="delete_alarm">"アラームを削除"</string>
   <string name="delete_alarm_confirm">"このアラームを削除しますか？"</string>
@@ -51,7 +51,7 @@
   <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
   <string name="hour">"1時間"</string>
   <string name="hour_unit">Hr +</string>
-  <string name="hours">"%s時間"</string>
+  <string name="hours">"%d時間"</string>
   <string name="keep_screen_on">"画面を点灯したままにする"</string>
   <string name="label">"ラベル"</string>
   <string name="label_pref_summary">"ラベル"</string>
@@ -76,7 +76,7 @@
   <string name="life_post_wake_up_time_title">"起床時間"</string>
   <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
   <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
-  <string name="life_post_weather_invalid">"天気の更新が必要です"</string>
+  <string name="life_post_weather_invalid">"天気情報を取得できませんでした、再試行するにはタップ"</string>
   <string name="loading_ringtone">"着信音を読み込み中..."</string>
   <string name="menu_add_worldclock">"都市を追加"</string>
   <string name="menu_desk_clock">"時計"</string>
@@ -85,7 +85,7 @@
   <string name="menu_item_sort_by_gmt_offset">"時差順"</string>
   <string name="menu_item_sort_by_name">"名前順"</string>
   <string name="minute">"1分"</string>
-  <string name="minutes">"%s分"</string>
+  <string name="minutes">"%d分"</string>
   <string name="more_settings">"設定"</string>
   <string name="never">"一度だけ"</string>
   <string name="oneshot_alarm">Delete after goes off</string>

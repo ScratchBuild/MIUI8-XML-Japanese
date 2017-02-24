@@ -478,7 +478,7 @@
   <string name="private_toast_hint3">Pull down to view hidden folders</string>
   <string name="prize_result_tip">Exchange</string>
   <string name="prize_result_tip2">Gems go to your treasury</string>
-  <string name="promot_enctypt_password">Enter password used to unlock your device or to turn off Child mode</string>
+  <string name="promot_enctypt_password">Enter password used to unlock your device</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
   <string name="qq_not_installed">"QQがインストールされていません"</string>

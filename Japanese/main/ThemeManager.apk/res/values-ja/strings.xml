@@ -18,6 +18,8 @@
   <string name="backup_theme_name">Theme backup</string>
   <string name="backup_theme_progress_message">"バックアップ中…"</string>
   <string name="backup_theme_success_message">"現在のテーマ設定がバックアップされました。"</string>
+  <string name="both_all_apply_failured">"壁紙を適用できません"</string>
+  <string name="both_all_apply_success">"壁紙を適用しました"</string>
   <string name="browser_local_resource">Local resources</string>
   <string name="change_host_hint">"ホストを変更"</string>
   <string name="change_wallpaper">"壁紙"</string>
@@ -80,14 +82,21 @@
   <string name="gift_use_confirmation_dlg_title">"このギフトを送信しますか？"</string>
   <string name="gift_use_fail_dlg_title">"エラーが発生しました"</string>
   <string name="gift_used">Sent</string>
+  <string name="home_apply_failured">"ホーム画面の壁紙を適用できません"</string>
+  <string name="home_apply_success">"ホーム画面の壁紙を適用しました"</string>
   <string name="incompatible_dialog_message">"このテーマはMIUI8との完全な互換性がありません。いくつかの要素は正しく表示されない可能性があります。"</string>
   <string name="incompatible_dialog_ok">"入手する"</string>
   <string name="incompatible_dialog_title">"互換性の問題"</string>
+  <string name="is_setting_wallpaper_message">"壁紙を設定中…"</string>
   <string name="live_wallpaper">"ライブ壁紙"</string>
   <string name="loading">"読み込み中…"</string>
   <string name="loading_resource_detail_fail">"テーマを読み込めません"</string>
   <string name="loading_resource_detail_info">"読み込み中…"</string>
   <string name="local_resouce_creator_name">Developer: %1$s</string>
+  <string name="lockscreen_apply_failured">"ロック画面の壁紙を適用できません"</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">"ホーム画面の壁紙を適用したが、ロック画面の壁紙を適用できませんでした"</string>
+  <string name="lockscreen_apply_success">"ロック画面の壁紙を適用しました"</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">"ロック画面の壁紙を適用したが、ホーム画面の壁紙を適用できませんでした"</string>
   <string name="lockscreen_magazine_subscribe">%1$s followers</string>
   <string name="lockscreen_magazine_summary">"カテゴリー"</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s wallpapers</string>
@@ -306,6 +315,7 @@
   <string name="search_hint_header_text">Hot words</string>
   <string name="selected_resource_file_invalid">"選択したテーマファイルを使用できません"</string>
   <string name="settings">"設定"</string>
+  <string name="the_picture_is_too_small">"画像が小さすぎます"</string>
   <string name="theme_apply_audio_dialog_item_alarm">"アラーム"</string>
   <string name="theme_apply_audio_dialog_item_notification">"通知音"</string>
   <string name="theme_apply_audio_dialog_item_ringtone">"着信音"</string>
@@ -390,7 +400,7 @@
   <string name="to_activate_the_account">Activate your Mi Account now</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">"壁紙を読み込むことができません"</string>
-  <string name="wallpaper_loading_text">"読み込み中…"</string>
+  <string name="wallpaper_scroll_type_tips">"壁紙のスクロール"</string>
   <string name="wallpaper_set_as_both">"両方に設定"</string>
   <string name="wallpaper_set_as_destop">"ホーム画面に設定"</string>
   <string name="wallpaper_set_as_lockscreen">"ロック画面に設定"</string>

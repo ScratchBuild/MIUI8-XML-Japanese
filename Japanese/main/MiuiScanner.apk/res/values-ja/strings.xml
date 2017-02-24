@@ -69,6 +69,13 @@
   <string name="impunity_declaration_negative_text">終了</string>
   <string name="impunity_declaration_positive_text">許可</string>
   <string name="impunity_declaration_title">利用規約</string>
+  <string name="keywords_search_code">Scanner;Scan;QR code;QR;Recognition;Barcode;Barcodes;Product;Products;Alipay;WeChat;How to scan QR code;How to scan barcode;How to scan;MIUI Scanner</string>
+  <string name="keywords_search_document">Scanner;Scan document;Scan documents;OCR;Scan text;Scan</string>
+  <string name="keywords_search_namecard">Scanner;Business card;Business cards;Scan;Scan cards;Card;Cards;Contacts;Contact</string>
+  <string name="keywords_search_settings">Scanner;Scanner network settings</string>
+  <string name="keywords_search_shopping">Shopping;Scanner;Scan products;Scan product;Check price;Products;Taobao;Tmall;Prices;Online shopping</string>
+  <string name="keywords_search_study">Scanner;Problems;Solve problems;Homework;School;Physics;Chemistry;Math;Maths;English;History;Chinese</string>
+  <string name="keywords_search_translation">Scanner;Translate;Dictionary;English;Foreign language;Language;Languages;English to Chinese;Italian;German;Japanese;Korean;Spanish;French; Baidu Translate;Youdao Dictionary;Baidu Dictionary;Google Translate</string>
   <string name="language_entry_chinese_cn">中国語(簡体字)</string>
   <string name="language_entry_chinese_tw">中国語(繁体字)</string>
   <string name="language_entry_danish">デンマーク語</string>
@@ -104,6 +111,7 @@
   <string name="not_recommend_access_web_url">とにかく移動</string>
   <string name="not_tips">次回から表示しない</string>
   <string name="note">Remark:</string>
+  <string name="path_scanner_setting">System apps/Scanner</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Phone:</string>

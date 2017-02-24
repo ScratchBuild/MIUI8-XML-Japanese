@@ -27,6 +27,7 @@
   <string name="currency_update_time_format">Exchange rates are provided by webull (%s)</string>
   <string name="dateformat">yyyy/MM/dd</string>
   <string name="day">day</string>
+  <string name="devided_by_zero_reminder_message">"0で割ることはできません"</string>
   <string name="divDesc">割る</string>
   <string name="dotDesc">小数点</string>
   <string name="eDesc">オイラー数</string>

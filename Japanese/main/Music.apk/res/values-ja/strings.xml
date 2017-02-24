@@ -49,7 +49,16 @@
   <string name="app_label">"ダウンロード"</string>
   <string name="artist">"アーティスト"</string>
   <string name="artist_album">"アルバム"</string>
+  <string name="artist_area_all">"すべて"</string>
+  <string name="artist_area_china">"中国"</string>
+  <string name="artist_area_europe_usa">"欧米"</string>
+  <string name="artist_area_japan">"日本"</string>
+  <string name="artist_area_korea">"韓国"</string>
   <string name="artist_favor">Featured</string>
+  <string name="artist_gender_all">"すべて"</string>
+  <string name="artist_gender_female">"女性"</string>
+  <string name="artist_gender_group">"グループ"</string>
+  <string name="artist_gender_male">"男性"</string>
   <string name="artist_is_empty">Artist name can not be empty.</string>
   <string name="artist_name">"アーティスト"</string>
   <string name="artist_news">News</string>
@@ -69,6 +78,7 @@
   <string name="auto_payment">Automatic renewal</string>
   <string name="auto_payment_date">Next payment: %s</string>
   <string name="auto_restart_under_wifi">File will be downloaded when the device is connected to WLAN</string>
+  <string name="auto_upgrade">"自動更新"</string>
   <string name="avail_services">Available</string>
   <string name="available_playlist_name_format">New playlist %d</string>
   <string name="avoid_to_use_traffic_summary">"モバイルデータを使用して曲をストリーミングしない"</string>
@@ -321,6 +331,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="favorite_singer">Favorite artists</string>
   <string name="favorite_succeed">Added to favorites</string>
   <string name="favorite_tracks">Favorites</string>
+  <string name="favorites">Favorites</string>
   <string name="favourite_music_left_half">To add songs to this playlist, tap the</string>
   <string name="favourite_music_right_half">"Favorite icon to the right of the song's title"</string>
   <string name="female_artist">"女性アーティスト"</string>
@@ -389,6 +400,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
   <string name="home_tab_local">My music</string>
   <string name="home_tab_online">Discover</string>
+  <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">OK</string>
   <string name="impunity_declaration_content1">"同意をタップすることで、あなたは我々の"</string>
@@ -430,8 +442,10 @@ is mainly provided by Ultimate Inc."</string>
   <string name="local_page_artist">Followed artists</string>
   <string name="local_page_custom_subtitle">New songs every day</string>
   <string name="local_page_custom_title">For you</string>
+  <string name="local_page_playlist">My playlists</string>
   <string name="local_page_song_all">"すべての曲"</string>
   <string name="local_page_song_download">Local songs</string>
+  <string name="local_page_song_download_history">Downloads</string>
   <string name="local_page_song_favorite">Favorite songs</string>
   <string name="local_tracks_short">Offline</string>
   <string name="lrc_search_failed">"歌詞が見つかりませんでした"</string>
@@ -542,6 +556,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="no_local_source_find">"Couldn't find song"</string>
   <string name="no_online_song_selected">No songs selected</string>
   <string name="no_results_return">"検索結果はありません"</string>
+  <string name="no_scanned_songs">Empty</string>
   <string name="no_song">No songs</string>
   <string name="no_song_downloaded">"サーバーに接続できませんでした"</string>
   <string name="normal_quality">Good</string>
@@ -612,6 +627,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="play_next">"次を再生"</string>
   <string name="playback_failed_no_title_by_bad_file">"This song's format isn't supported or the file doesn't exist."</string>
   <string name="playlist_deleted_message">"プレイリストを削除しました。"</string>
+  <string name="playlist_empty">"プレイリストが見つかりません。"</string>
   <string name="playlist_renamed_message">"プレイリストの名前を変更しました。"</string>
   <string name="playlist_type_album">"アルバム"</string>
   <string name="playlist_type_artist">"アーティスト"</string>
@@ -658,6 +674,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Pay now?</string>
   <string name="recently_played">Recently played</string>
+  <string name="recently_played_songs">Recently played</string>
   <string name="recommend_fragment_title">Featured</string>
   <string name="recommended_file_size_download_in_mobile">Use %s of mobile data to download this file?</string>
   <string name="recommended_no_file_size_download_in_mobile">Use your mobile data connection to download this file?</string>

@@ -124,10 +124,10 @@
   <string name="find_device_locked_account_email" formatted="false">%s,associated email address:%s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s,associated phone number:%s</string>
   <string name="find_device_null_credential_error">"Can't get device info, contact Xiaomi customer service"</string>
-  <string name="find_device_operation_failed_error">"エラーが発生しました"</string>
+  <string name="find_device_operation_failed_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_operation_failed_error_unknown">"エラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_remote_exception">RPC error</string>
-  <string name="find_device_request_error">"Can't request status info, try again later"</string>
+  <string name="find_device_request_error">"Can't request status info to server error, try again later"</string>
   <string name="find_device_request_prepare_error">"Can't get status, try again later"</string>
   <string name="find_device_unknown_error">"Can't get status, try again later"</string>
   <string name="first_login_time">First sign in attempt: %s</string>

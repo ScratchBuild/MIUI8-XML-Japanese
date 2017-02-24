@@ -11,6 +11,7 @@
   <string name="baidu_search_url_from_launcher">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="choose_search_engine">"デフォルトのweb検索エンジンを選択"</string>
   <string name="clear_history">"履歴を消去"</string>
   <string name="clear_shortcuts">"ショートカットを消去"</string>
   <string name="clear_shortcuts_agree">"ショートカットを消去"</string>

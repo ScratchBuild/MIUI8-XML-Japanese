@@ -45,12 +45,12 @@
     <string-array name="weather_tips_value">
         <item>"屋外での活動は控えましょう"</item>
         <item>"路面の凍結に注意してください"</item>
-        <item>"雷の天気です、安全に注意した旅行を"</item>
-        <item>"霧の天気です、マスクを着用しましょう"</item>
+        <item>"雷の天気です、安全に注意してください！"</item>
+        <item>"霧の天気です、マスクを着用しましょう！"</item>
         <item>"お出かけの際は傘をお持ちください"</item>
         <item>"道路に注意してください"</item>
-        <item>"砂の天気です、マスクを着用しましょう"</item>
-        <item>"素敵な一日をお過ごしください"</item>
+        <item>"砂の天気です、マスクを着用しましょう！"</item>
+        <item>"素敵な一日をお過ごしください！"</item>
     </string-array>
     <string-array name="alarm_set">
         <item>"アラームは今から1分以内に設定されています。"</item>

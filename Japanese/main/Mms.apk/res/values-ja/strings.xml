@@ -200,8 +200,8 @@
   <string name="group_message">グループメッセージ</string>
   <string name="group_message_failed_title">"%d人に送信できませんでした。"</string>
   <string name="group_resend_message">再送信 (%d)</string>
-  <string name="guild_add_attachments">タップして顔文字・その他のコンテンツを追加</string>
-  <string name="guild_add_recipients">タップしてアドレスブックに宛先を追加</string>
+  <string name="guild_add_attachments">タップして顔文字・その他のアイテムを追加</string>
+  <string name="guild_add_recipients">タップして連絡先に宛先を追加</string>
   <string name="guild_msim_switcher">タップしてSIMカードを切替</string>
   <string name="has_invalid_recipient">"不明な宛先: &lt;%1$s&gt;"</string>
   <string name="hidden_sender_address">差出人アドレス非表示</string>
@@ -260,7 +260,7 @@
   <string name="message_download_failed_title">メッセージのダウンロード失敗</string>
   <string name="message_expired">期限切れ</string>
   <string name="message_failed">失敗</string>
-  <string name="message_failed_body">タップしてメッセージを確認してからもう一度お試しください。</string>
+  <string name="message_failed_body">タップしてメッセージを確認してからもう一度お試しください</string>
   <string name="message_number">"電話番号: "</string>
   <string name="message_pending">送信中</string>
   <string name="message_queued">"現在メッセージを送信できません。サービスが利用できる状態になり次第送信されます。"</string>
@@ -482,7 +482,6 @@
   <string name="recipient_label">"宛先: "</string>
   <string name="recipients_over_size">宛先が多すぎます</string>
   <string name="recording_failed">"録音できません"</string>
-  <string name="red_package_btn">開ける</string>
   <string name="refill_now">今すぐ補充</string>
   <string name="refresh">更新</string>
   <string name="refresh_failed">更新に失敗しました</string>
@@ -574,8 +573,8 @@
   <string name="sim_full_title">SIMカード空き領域なし</string>
   <string name="sim_manage_messages_title">SIMカード内のテキストメッセージ</string>
   <string name="sim_view">表示</string>
-  <string name="slide_number">スライド %s秒</string>
-  <string name="slide_show_part">Part %1$s/%2$s</string>
+  <string name="slide_number">スライド %d</string>
+  <string name="slide_show_part">パート %1$d/%2$d</string>
   <string name="slide_up_to_cancel">"上にスライドしてキャンセル"</string>
   <string name="slideshow_activity">スライドショー</string>
   <string name="sms_card_partner_label">"SMSカードパートナー: "</string>
@@ -589,7 +588,6 @@
   <string name="sms_report_success">レポートを送信しました</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
-  <string name="snippet_red_package">[Red Packet]</string>
   <string name="sp_category_all">全サービスメッセージ</string>
   <string name="sp_category_bank">銀行通知メッセージ</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -629,13 +627,11 @@
   <string name="timed_message_to">to</string>
   <string name="title_allow_network_access">情報を自動的に更新</string>
   <string name="title_collapse_sp_messages">キャリアメッセージをまとめる</string>
-  <string name="title_recv_red_package">お年玉を受け取る</string>
-  <string name="title_red_package">良いお年を！</string>
-  <string name="title_send_red_package">お年玉を送る</string>
   <string name="title_show_blocked_messages">ブロックしたSMSを表示</string>
   <string name="title_show_sms_template">認証コードをSMSで確認してください</string>
   <string name="title_show_sms_template_in">ワンタイムパスワードをSMSで確認してください</string>
   <string name="title_timed_message_dialog">SMSの時間を設定してください</string>
+  <string name="title_use_gsm_alphabet">Use GSM alphabet</string>
   <string name="to_address_label">"To: "</string>
   <string name="to_count">"宛先 %d件"</string>
   <string name="to_label">"To "</string>
