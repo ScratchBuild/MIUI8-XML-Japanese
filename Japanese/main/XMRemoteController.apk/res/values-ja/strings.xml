@@ -75,11 +75,11 @@
   <string name="app_install_count">%1$s installed</string>
   <string name="app_install_dialog_install_complete">"インストールが完了しました"</string>
   <string name="app_install_dialog_install_failed">"インストールに失敗、関連するアプリが見つかりません"</string>
-  <string name="app_install_dialog_installing">"インストールしています、しばらくお待ち下さい"</string>
+  <string name="app_install_dialog_installing">"インストールしています、しばらくお待ちください"</string>
   <string name="app_install_dialog_negative_text">"キャンセル"</string>
   <string name="app_install_dialog_positive_text">"インストール"</string>
   <string name="app_install_dialog_search_failed">"関連するアプリの検索が失敗しました"</string>
-  <string name="app_install_dialog_searching">"関連するアプリを探しています、しばらくお待ち下さい"</string>
+  <string name="app_install_dialog_searching">"関連するアプリを探しています、しばらくお待ちください"</string>
   <string name="app_installing">"インストール中…"</string>
   <string name="app_lastest">Latest</string>
   <string name="app_listitem_installing">"インストール中"</string>

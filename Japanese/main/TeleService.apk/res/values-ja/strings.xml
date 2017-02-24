@@ -159,7 +159,7 @@
   <string name="call_recording_setting">通話録音</string>
   <string name="call_remove_exception_numbers_confirm">%d件の番号が削除されます。</string>
   <string name="call_settings">通話設定</string>
-  <string name="call_settings_primary_user_only">通話設定はプライマリユーザーのみ変更出来ます。</string>
+  <string name="call_settings_primary_user_only">通話設定はプライマリユーザーのみ変更できます。</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
   <string name="call_settings_with_label">通話設定 (%s)</string>
   <string name="call_waiting_summary">通話中に他の着信があった場合に通知します。</string>
@@ -945,7 +945,7 @@
   <string name="roaming_alert_title">データローミングを許可しますか？</string>
   <string name="roaming_disable">ローミング時にデータサービスに接続する</string>
   <string name="roaming_enable">"ローミング時にデータサービスに接続する"</string>
-  <string name="roaming_notification_content">ローミング時に、より便利に発信するため国コードを追加出来ます。</string>
+  <string name="roaming_notification_content">ローミング時に、より便利に発信するため国コードを追加できます。</string>
   <string name="roaming_notification_title">ローミングが有効になったようです。</string>
   <string name="roaming_reenable_message">"データローミングをOFFにしてホームネットワークを離れたため、データ接続が切断されました。"</string>
   <string name="roaming_warning">データローミングを許可しますか？高額な通信料が発生することがあります！</string>
@@ -1111,7 +1111,7 @@
   <string name="tty_mode_not_allowed_video_call">TTYモードの変更はビデオハングアウト中には行えません</string>
   <string name="tty_mode_option_summary">TTYモードの設定</string>
   <string name="tty_mode_option_title">TTYモード</string>
-  <string name="turnover_mute_summary">"携帯を水平方向に回転させて、素早く裏返すと着信音をミュート出来ます。この機能は着信呼出のバイブレーションがOnになっている場合は機能しません。"</string>
+  <string name="turnover_mute_summary">"携帯を水平方向に回転させて、素早く裏返すと着信音をミュートできます。この機能は着信呼出のバイブレーションがOnになっている場合は機能しません。"</string>
   <string name="turnover_mute_title">携帯をひっくり返して着信音をミュート</string>
   <string name="undefined">未設定</string>
   <string name="unknown">通知不可能</string>

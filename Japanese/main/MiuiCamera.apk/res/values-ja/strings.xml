@@ -78,7 +78,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="groupshot_mode_use_hint">"Multiple photos will be taken to select the best
 facial expression to synthesize into a photo"</string>
   <string name="message_snap_double_confirm">Long pressing the volume button triggers NFC now. Replace this feature?</string>
-  <string name="no_storage">"カメラを使用する前にSDカードを挿入して下さい"</string>
+  <string name="no_storage">"カメラを使用する前にSDカードを挿入してください"</string>
   <string name="not_enough_space">"SDカードがいっぱいです"</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Align the arrow with the reference line</string>

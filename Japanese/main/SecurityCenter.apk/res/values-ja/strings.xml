@@ -62,12 +62,12 @@
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Data roaming exceptions</string>
   <string name="add_white_list">"追加"</string>
-  <string name="adjust_traffic_carrier_summary_more_onemonth_before">Updated over a month ago</string>
-  <string name="adjust_traffic_carrier_summary_more_oneweek_before">Updated over a week ago</string>
-  <string name="adjust_traffic_carrier_summary_oneweek_before">Updated 1 week ago</string>
-  <string name="adjust_traffic_carrier_summary_today">Updated today at %s</string>
-  <string name="adjust_traffic_carrier_summary_two_day_before">Updated 2 days ago</string>
-  <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
+  <string name="adjust_traffic_carrier_summary_more_onemonth_before">"1ヶ月以上前に更新"</string>
+  <string name="adjust_traffic_carrier_summary_more_oneweek_before">"1週間以上前に更新"</string>
+  <string name="adjust_traffic_carrier_summary_oneweek_before">"1週間前に更新"</string>
+  <string name="adjust_traffic_carrier_summary_today">"今日の%sに更新"</string>
+  <string name="adjust_traffic_carrier_summary_two_day_before">"2日前に更新"</string>
+  <string name="adjust_traffic_carrier_summary_yesterday">"昨日の%sに更新"</string>
   <string name="adjust_traffic_data">Set data usage</string>
   <string name="after_the_lock_screen">"App is locked together with the screen, you can change this in App lock's settings."</string>
   <string name="antivirus_choose_engine_dialog_title">Choose definitions</string>
@@ -123,7 +123,7 @@
   <string name="apps_item_title_system">"システムの更新"</string>
   <string name="apps_item_virus_cleanup_success">Cleared successfully</string>
   <string name="apps_item_virus_cleanup_text">"消去"</string>
-  <string name="apps_item_virus_summary_installed">Installed app</string>
+  <string name="apps_item_virus_summary_installed">"インストール済みアプリ"</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Check messaging app</string>
   <string name="apps_list_header_title_sms_access">Restrict access to verification codes</string>

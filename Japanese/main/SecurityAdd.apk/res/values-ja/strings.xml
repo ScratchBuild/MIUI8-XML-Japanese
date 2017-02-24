@@ -27,9 +27,9 @@
   <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Time</string>
   <string name="gs_game_net_priority">Connection priority</string>
-  <string name="gs_game_net_priority_detail">Limit download speed to have enough bandwidth for gaming</string>
+  <string name="gs_game_net_priority_detail">"ダウンロード速度を制限してゲームのために十分な帯域幅を確保する"</string>
   <string name="gs_game_performance">Performance</string>
-  <string name="gs_only_self_start_for_list">Restrict background processes to save battery for gaming</string>
+  <string name="gs_only_self_start_for_list">"バックグラウンドプロセスを制限してゲームのためにバッテリーを節約する"</string>
   <string name="gs_open_game_booster">Boost speed</string>
   <string name="gs_performance_mode">"パフォーマンスモード"</string>
   <string name="gs_performance_mode_detail">Increase CPU usage to ensure seamless performance</string>
@@ -70,7 +70,7 @@
   <string name="privacy_declare_dialog_title">"利用規約"</string>
   <string name="privacy_prompt_traffic_purchase_message">"あなたの電話番号とキャリアに関する情報は、暗号化された状態でデータ購入オプションの詳細を取得するためにXiaomiのサーバーにアップロードされます。"</string>
   <string name="release_memory">"キャッシュを消去"</string>
-  <string name="scan_installed_games">Checking installed games…</string>
+  <string name="scan_installed_games">"インストール済みゲームの確認中…"</string>
   <string name="setting">"設定"</string>
   <string name="share">"共有"</string>
   <string name="shield_keyboard_detail">"ボタンをダブルタップすることで有効に戻します"</string>

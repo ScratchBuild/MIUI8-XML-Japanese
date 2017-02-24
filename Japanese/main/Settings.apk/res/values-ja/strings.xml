@@ -1501,7 +1501,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="handy_mode">片手操作モード</string>
   <string name="handy_mode_enter_ask">片手操作モードへの切り替え前に確認</string>
   <string name="handy_mode_size">画面サイズ</string>
-  <string name="handy_mode_tips">ホームボタンから左または右にスワイプする事で、画面を片一方に寄せる事が出来ます。</string>
+  <string name="handy_mode_tips">ホームボタンから左または右にスワイプする事で、画面を片一方に寄せる事ができます。</string>
   <string name="haptic_feedback_enable_title">タッチ操作バイブ</string>
   <string name="haptic_feedback_level">バイブレーションの強さ</string>
   <string name="hardkeyboard_category">キーボードの設定</string>
@@ -4206,7 +4206,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_notify_open_networks_summary">公衆通信回線が利用可能なときは通知する</string>
   <string name="wifi_off_airplane_on_cancel">キャンセル</string>
   <string name="wifi_off_airplane_on_confirm">OK</string>
-  <string name="wifi_off_airplane_on_content">機内モードでは、手動でWi-Fiをオンに出来ます。</string>
+  <string name="wifi_off_airplane_on_content">機内モードでは、手動でWi-Fiをオンにできます。</string>
   <string name="wifi_off_airplane_on_not_remind">二度と表示しない</string>
   <string name="wifi_off_airplane_on_title">Wi-Fiネットワークを有効にしますか？</string>
   <string name="wifi_on_time">Wi-FiをONにしている時間</string>
@@ -4309,7 +4309,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_share_action_turn_on_summary">共有するには、Miアカウントにログインしてください。</string>
   <string name="wifi_share_add">自分の公衆無線LANネットワークを共有</string>
   <string name="wifi_share_add_summary">"公衆無線LANネットワークを共有すると、
-あなたも、他のユーザーの公衆無線LANネットワークを使用することが出来ます。"</string>
+あなたも、他のユーザーの公衆無線LANネットワークを使用することができます。"</string>
   <string name="wifi_share_connect">接続</string>
   <string name="wifi_share_connected_summary">他のユーザーによって共有されている公衆無線LANネットワークに接続しました。</string>
   <string name="wifi_share_connected_title">MIUI公衆無線LAN共有</string>
@@ -4318,7 +4318,7 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_share_know">OK</string>
   <string name="wifi_share_list_empty">共有しているネットワークは見つかりませんでした。</string>
   <string name="wifi_share_login">公衆無線LANネットワークを共有</string>
-  <string name="wifi_share_login_summary">この接続が公衆無線LANネットワークの場合には、他のMIUIユーザーと共有することが出来ます。</string>
+  <string name="wifi_share_login_summary">この接続が公衆無線LANネットワークの場合には、他のMIUIユーザーと共有することができます。</string>
   <string name="wifi_share_notification_summary">MIUIは、公衆無線LANネットワークにあなたを接続しました。</string>
   <string name="wifi_share_other_network">その他のネットワーク</string>
   <string name="wifi_share_qrcode_finish">OK</string>

@@ -83,7 +83,7 @@
   <string name="countdown_event_title">[Countdown]%1$s</string>
   <string name="countdown_notify_before_3_day_title">[Countdown]%1$s in 3 days</string>
   <string name="countdown_notify_title">[Countdown]%1$s</string>
-  <string name="countdown_today">Today</string>
+  <string name="countdown_today">"今日"</string>
   <string name="create_an_account_desc">"Mi Accountがあればカレンダーをもっと活用できます。
 
 • どのウェブブラウザからもアクセスできます
@@ -123,7 +123,7 @@
   <string name="downloading">"ダウンロード中"</string>
   <string name="downloading_wallpaper">"壁紙をダウンロード中"</string>
   <string name="edit_event_all_day_label">"終日"</string>
-  <string name="edit_event_anniversary_name_empty_hint">Please enter a anniversary</string>
+  <string name="edit_event_anniversary_name_empty_hint">"記念日を入力してください"</string>
   <string name="edit_event_anniversary_name_hint">Content</string>
   <string name="edit_event_birthday_import_from_contact">"連絡先から誕生日をインポート"</string>
   <string name="edit_event_birthday_name_empty_hint">"名前を入力"</string>
@@ -132,7 +132,7 @@
   <string name="edit_event_calendar_label">"カレンダー"</string>
   <string name="edit_event_choose_date">"日付を選択"</string>
   <string name="edit_event_confirm_message">"変更を破棄しますか？"</string>
-  <string name="edit_event_countdown_name_empty_hint">Please enter countdown content</string>
+  <string name="edit_event_countdown_name_empty_hint">"カウントダウンの内容を入力してください"</string>
   <string name="edit_event_countdown_name_hint">Content</string>
   <string name="edit_event_from_label">"開始"</string>
   <string name="edit_event_input_year">"年を入力"</string>

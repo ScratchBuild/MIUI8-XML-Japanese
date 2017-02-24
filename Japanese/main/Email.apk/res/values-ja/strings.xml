@@ -233,14 +233,14 @@
   <string name="chat_item_msg_people_unit">"人"</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"サーバー設定を確認しています…"</string>
-  <string name="choosertitle_sharevia">Share using</string>
+  <string name="choosertitle_sharevia">"共有ツール"</string>
   <string name="clear">"消去"</string>
   <string name="clear_display_images_whitelist_dialog_message">Stop displaying inline images from senders you previously allowed.</string>
   <string name="clear_display_images_whitelist_dialog_title">Clear picture approvals?</string>
   <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
   <string name="click_download_all_content">[ Tap to download content ]</string>
   <string name="click_to_reload">"更新するには画面をタップ"</string>
-  <string name="close">Shut down</string>
+  <string name="close">"閉じる"</string>
   <string name="collapse_recipient_details">"受信者の詳細を折りたたむ"</string>
   <string name="colon">:</string>
   <string name="compose">"作成"</string>

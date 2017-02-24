@@ -37,10 +37,10 @@
   <string name="factorialDesc">階乗</string>
   <string name="from_unit_en">Kilometer per hour</string>
   <string name="from_unit_short">km/h</string>
-  <string name="home_title_calculator">Calculator</string>
+  <string name="home_title_calculator">電卓</string>
   <string name="item_title_aa_payment">Split the bill</string>
   <string name="item_title_area_conversion">Area</string>
-  <string name="item_title_calculator">Calculator</string>
+  <string name="item_title_calculator">電卓</string>
   <string name="item_title_currency">通貨</string>
   <string name="item_title_dress_size">Clothing size</string>
   <string name="item_title_length_conversion">長さ</string>

@@ -210,7 +210,7 @@
   <string name="network_errorbtntip_unknow">"再試行"</string>
   <string name="network_errortip_custom">Customization error</string>
   <string name="network_errortip_login">"初めにログイン"</string>
-  <string name="network_errortip_noconnection">"ネットワークに接続できませんでした、ネットワークの設定を確認して下さい"</string>
+  <string name="network_errortip_noconnection">"ネットワークに接続できませんでした、ネットワークの設定を確認してください"</string>
   <string name="network_errortip_parse">"エラーが発生しました"</string>
   <string name="network_errortip_server">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="network_errortip_timeout">"接続がタイムアウトしました、後ほど再試行してください"</string>
