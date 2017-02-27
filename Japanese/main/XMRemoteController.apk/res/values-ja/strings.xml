@@ -1058,8 +1058,8 @@ To change, long press TV's power button"</string>
   <string name="video_search_hint">Please enter a movie, actor name</string>
   <string name="video_search_title">Found %d</string>
   <string name="video_today_recommend">"Seh what's on tonight"</string>
-  <string name="virtual_keyhboard">Use device keyboard</string>
-  <string name="virtual_keyhboard_intro">"Use your device's keyboard to type on display"</string>
+  <string name="virtual_keyhboard">"デバイスのキーボードを使用"</string>
+  <string name="virtual_keyhboard_intro">"デバイスのキーボードを使用してディスプレイに入力"</string>
   <string name="voice">Audio</string>
   <string name="voice_download_tips">Tap \"OK\" to download voice engine</string>
   <string name="voice_download_title">"注意"</string>

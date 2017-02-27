@@ -2481,7 +2481,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="priority_storage_settings_summary">SDカードが検出されない場合、自動的に端末の内部ストレージに保存されます。</string>
   <string name="priority_storage_summary">データを保存する場所を選択</string>
   <string name="priority_storage_title">ストレージ設定</string>
-  <string name="privacy_applock">App lock</string>
+  <string name="privacy_applock">アプリロック</string>
   <string name="privacy_file">ファイル</string>
   <string name="privacy_gallery">写真</string>
   <string name="privacy_mms">メッセージ</string>

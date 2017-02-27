@@ -24,7 +24,7 @@
   <string name="activity_title_tedious_image">Accidental photos</string>
   <string name="activity_title_uninstall_apps">"アプリ"</string>
   <string name="activity_title_video">"動画を削除"</string>
-  <string name="activity_title_white_list">Exceptions</string>
+  <string name="activity_title_white_list">"例外"</string>
   <string name="ad_install_success_dialog_lunch">"開く"</string>
   <string name="ad_install_success_dialog_title">"%1$sが正常にインストールされました。今すぐ開きますか？"</string>
   <string name="analying">"分析中…"</string>
@@ -56,7 +56,7 @@
   <string name="btn_text_quick_scan">"スキャン"</string>
   <string name="btn_text_stop">"停止"</string>
   <string name="button_optimizer">OK</string>
-  <string name="button_text_add_to_white_list">Exception</string>
+  <string name="button_text_add_to_white_list">"例外"</string>
   <string name="button_text_backup_uninstall">"初めにバックアップ"</string>
   <string name="button_text_cancel">"キャンセル"</string>
   <string name="button_text_cleanup">"クリーンアップ"</string>
@@ -173,7 +173,7 @@
   <string name="empty_title_ad">No obsolete files found</string>
   <string name="empty_title_apk">No install packages found</string>
   <string name="empty_title_garbage_cache">Nothing to clear</string>
-  <string name="empty_title_garbage_white_list">Hold items to add them to exceptions.</string>
+  <string name="empty_title_garbage_white_list">"アイテムを長押しして例外に追加。"</string>
   <string name="empty_title_installed_apps">Empty</string>
   <string name="empty_title_large_files">Empty</string>
   <string name="empty_title_photos">No photos found</string>
@@ -235,7 +235,7 @@
   <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">"プライバシー: %d"</string>
   <string name="hints_quick_cleanning">Cleaning…</string>
-  <string name="hints_quick_cleanuping">Optimizing…</string>
+  <string name="hints_quick_cleanuping">"最適化しています…"</string>
   <string name="hints_quick_deep_clean">"今すぐ消去"</string>
   <string name="hints_quick_deep_scanning">"スキャン中"</string>
   <string name="hints_quick_deep_uninstall">"今すぐ削除"</string>
@@ -398,7 +398,7 @@
   <string name="pref_title_auto_update_cleanup_db">"自動的に更新"</string>
   <string name="pref_title_choose_engine">Definitions</string>
   <string name="pref_title_clean_alert">Clean automatically</string>
-  <string name="pref_title_cleanup_white_list">Exceptions</string>
+  <string name="pref_title_cleanup_white_list">"例外"</string>
   <string name="pref_title_expand_cache_group">Show cached items</string>
   <string name="pref_title_garbage_cleanup_check_size">Trash size limit</string>
   <string name="pref_title_garbage_cleanup_check_time">"スケジュール"</string>

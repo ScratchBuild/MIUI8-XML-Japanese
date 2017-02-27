@@ -106,7 +106,7 @@
   <string name="app_install_tips_go_to">"開く"</string>
   <string name="app_install_tips_install_success">"%1$sが正常にインストールされました"</string>
   <string name="app_mobile">Mobile</string>
-  <string name="app_name">App lock</string>
+  <string name="app_name">"アプリロック"</string>
   <string name="app_name_na">Data usage</string>
   <string name="app_name_securitycenter">"セキュリティ"</string>
   <string name="app_not_installed_toast">"アプリはお使いのデバイスにインストールされていません。"</string>
@@ -258,7 +258,7 @@
   <string name="btn_text_network_speed_detail">Connection</string>
   <string name="btn_text_open_now">"オンにする"</string>
   <string name="btn_text_optimize_extend_battery_time">Add %s</string>
-  <string name="btn_text_optimize_manually">Optimize manually</string>
+  <string name="btn_text_optimize_manually">"手動で最適化"</string>
   <string name="btn_text_optimize_now">"最適化"</string>
   <string name="btn_text_power_cleanup">Deep clean</string>
   <string name="btn_text_power_consume_suggest_optimize">"最適化"</string>
@@ -270,7 +270,7 @@
   <string name="btn_text_start_check">"スキャン"</string>
   <string name="btn_text_stop">"停止"</string>
   <string name="btn_text_virus_scan">"スキャン"</string>
-  <string name="button_open">立即开启</string>
+  <string name="button_open">"今すぐ開く"</string>
   <string name="button_text_accept">"許可"</string>
   <string name="button_text_accept_timer">"許可 (%d)"</string>
   <string name="button_text_cancel">"キャンセル"</string>
@@ -309,7 +309,7 @@
   <string name="cancel_button">"キャンセル"</string>
   <string name="card_main_applock_action">"オンにする"</string>
   <string name="card_main_applock_summary">Protect private items with App lock</string>
-  <string name="card_main_applock_title">App lock</string>
+  <string name="card_main_applock_title">"アプリロック"</string>
   <string name="card_main_datasave_action">"オンにする"</string>
   <string name="card_main_datasave_summary">Compress data to save up to 20%</string>
   <string name="card_main_datasave_title">Data saver</string>
@@ -657,7 +657,7 @@
   <string name="long_click_dialog_summary">Hold the results in the list to add them to exceptions</string>
   <string name="long_click_dialog_title">"注意"</string>
   <string name="main_activity_content_summary_root">Root access</string>
-  <string name="main_activity_content_summary_update">System update</string>
+  <string name="main_activity_content_summary_update">"システムの更新"</string>
   <string name="main_activity_content_title_scanning">"スキャン中…"</string>
   <string name="main_alert_message_month_limit_error">Data limit incorrect</string>
   <string name="main_alert_message_no_imsi">"SIMカードが検出できません"</string>
@@ -741,7 +741,7 @@
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">"海外ローミング"</string>
   <string name="modifypassword">"パスワードの変更"</string>
-  <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
+  <string name="monitor_requests_from_pc">"USB経由でアプリのインストールを管理"</string>
   <string name="month_report_month_report_switch">"月次レポートを表示"</string>
   <string name="msg_update_error_code_success">"完了"</string>
   <string name="msg_update_up">"隠す"</string>
@@ -859,9 +859,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_title_sucurity_risk">Security risks found</string>
   <string name="optimize_result_toast_system_no_item_selected">No items selected</string>
   <string name="optmizingbar_optimize_done">Optimized</string>
-  <string name="optmizingbar_ready">Optimizing…</string>
+  <string name="optmizingbar_ready">"最適化しています…"</string>
   <string name="optmizingbar_stop_optmize">"停止"</string>
-  <string name="optmizingbar_title_acceleration">Optimizing…</string>
+  <string name="optmizingbar_title_acceleration">"最適化しています…"</string>
   <string name="optmizingbar_title_clear">Clear cache</string>
   <string name="optmizingbar_title_security">"セキュリティ"</string>
   <string name="optmizingbar_title_system">System security</string>
@@ -1186,9 +1186,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="section_title_clear_acc">Clear cache</string>
   <string name="section_title_security_defend">"セキュリティ"</string>
   <string name="section_title_system">System security</string>
-  <string name="security_app_lock">App lock</string>
+  <string name="security_app_lock">"アプリロック"</string>
   <string name="security_scan_card_clean_now">"スキャン"</string>
-  <string name="security_scan_optimizing">Optimizing…</string>
+  <string name="security_scan_optimizing">"最適化しています…"</string>
   <string name="see_detail">"詳細"</string>
   <string name="see_more">"もっと"</string>
   <string name="select_pattern">パターンを選択</string>
