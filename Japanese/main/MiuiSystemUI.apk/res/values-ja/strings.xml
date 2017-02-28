@@ -180,7 +180,6 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="invalid_charger">"USB充電はサポートしていません。
 付属の充電器を使用してください。"</string>
-  <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">表示</string>
   <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
@@ -201,7 +200,6 @@
   <string name="media_projection_action_text">今すぐ開始</string>
   <string name="media_projection_dialog_text">%sで、画面に表示されているコンテンツのキャプチャを開始します。</string>
   <string name="media_projection_remember_text">"再度表示しない"</string>
-  <string name="megabyte_per_second">M/s</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">はい</string>
   <string name="nav_guide_cancel">無視</string>

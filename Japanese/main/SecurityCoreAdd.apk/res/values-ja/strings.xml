@@ -231,7 +231,7 @@ to enter Second space from Lock screen"</string>
   <string name="transferFile">"その他のファイルを手動で選択"</string>
   <string name="transferImage">Photos from Second space will be moved to \"Second space\" album in First space</string>
   <string name="transferMessage">Messages from Second space will be moved to First space</string>
-  <string name="tryNow">Try now</string>
+  <string name="tryNow">"今すぐ試す"</string>
   <string name="wating">"読み込み中…"</string>
   <string name="xspace_chocie">Dual app support</string>
   <string name="xspace_creating">"デュアルアプリを作成中…"</string>

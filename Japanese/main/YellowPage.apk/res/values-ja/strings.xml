@@ -108,7 +108,6 @@
   <string name="express_inquiry_button_text">Track</string>
   <string name="express_inquiry_clipboard_number_message">コピーされた番号を追跡しますか？</string>
   <string name="express_inquiry_data_owner_prefix">"Tracking info provided by "</string>
-  <string name="express_inquiry_data_owner_suffix"/>
   <string name="express_inquiry_delete_warning_multiple">Delete %d entries?</string>
   <string name="express_inquiry_delete_warning_single">Delete this entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
@@ -215,17 +214,13 @@
   <string name="general_recent_title">"履歴"</string>
   <string name="general_unfollow_hint">Stop following %1$s?</string>
   <string name="general_yellow_page_title">General</string>
-  <string name="group_name_banner"/>
-  <string name="group_name_basic"/>
   <string name="group_name_data_source">Source</string>
-  <string name="group_name_enroll"/>
   <string name="group_name_gallery">Gallery</string>
   <string name="group_name_management">Manage</string>
   <string name="group_name_more">その他</string>
   <string name="group_name_service">サービス</string>
   <string name="group_name_shop_info">Information</string>
   <string name="group_name_shop_recommendation">Nearby</string>
-  <string name="group_name_title"/>
   <string name="hms_no_subject_view">(件名なし)</string>
   <string name="hms_notification">Messages</string>
   <string name="homepage_barcode_prompt">Scan to open home page</string>

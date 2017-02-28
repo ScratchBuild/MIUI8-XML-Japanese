@@ -23,11 +23,6 @@
   <string name="label_pages">"ページ"</string>
   <string name="label_paper_size">"用紙サイズ"</string>
   <string name="label_paper_size_summary">"用紙サイズ:"</string>
-  <string name="mediasize_default">ISO_A4</string>
-  <string name="mediasize_standard_china">3</string>
-  <string name="mediasize_standard_iso">0</string>
-  <string name="mediasize_standard_japan">2</string>
-  <string name="mediasize_standard_north_america">1</string>
   <string name="more_options_button">"その他のオプション"</string>
   <string name="no_connection_to_printer">"プリンタに接続されていません"</string>
   <string name="page_description_template">"%1$d/%2$dページ"</string>

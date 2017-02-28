@@ -395,7 +395,7 @@
   <string name="feedback_user_edit_hint">Describe the issue here. We will send you an email after we look into it.</string>
   <string name="feedback_user_edit_tag">From MIUI </string>
   <string name="fetching_attachment">Getting attachment</string>
-  <string name="file_deleted_success">File deleted</string>
+  <string name="file_deleted_success">"ファイルを削除しました"</string>
   <string name="file_not_found">"ファイルが見つかりませんでした"</string>
   <string name="file_not_found_redownload">"ファイルが見つかりませんでした"</string>
   <string name="file_rar_not_support">"暗号化されたrarファイルを開くことができません"</string>
@@ -595,7 +595,7 @@
   <string name="more_atts_remaining">%1$d more remaining</string>
   <string name="more_context">More</string>
   <string name="more_string">+%1$s</string>
-  <string name="move_to_selection_dialog_title">Move to another folder</string>
+  <string name="move_to_selection_dialog_title">"別のフォルダに移動"</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">"ミュート"</string>
   <string name="network_error">"接続なし"</string>
@@ -961,14 +961,14 @@
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Refreshed at %1$s</string>
-  <string name="upload_log">Upload logs</string>
+  <string name="upload_log">"ログをアップロード"</string>
   <string name="upload_log_failed">"ログを送信できませんでした"</string>
   <string name="upload_log_no">"キャンセル"</string>
   <string name="upload_log_success">"送信が完了しました, we'll get back to you soon."</string>
   <string name="upload_log_title">Send error logs to help us improve Mail</string>
   <string name="upload_log_yes">Send</string>
-  <string name="upload_logs">Upload logs</string>
-  <string name="upload_logs_keywords">upload logs</string>
+  <string name="upload_logs">"ログをアップロード"</string>
+  <string name="upload_logs_keywords">"ログをアップロード"</string>
   <string name="uploading_logs">"読み込み中…"</string>
   <string name="validation_failed_prompt">"アカウントを確認できません、%sのサーバー設定を確認してください"</string>
   <string name="via_domain">via %1$s</string>

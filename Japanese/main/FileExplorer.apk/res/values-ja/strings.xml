@@ -103,8 +103,8 @@
   <string name="click_to_refresh">"更新するにはここをタップ"</string>
   <string name="click_to_switch_volume">"内部ストレージとSDカードを切り替えるにはタップ"</string>
   <string name="click_to_switch_volume_pad">"内部ストレージとSDカードを切り替えるにはタップ"</string>
-  <string name="comment_added">Added successfully</string>
-  <string name="comment_added_tip">"You're adding lots of comments. Follow this person?"</string>
+  <string name="comment_added">"正常に追加されました"</string>
+  <string name="comment_added_tip">"あなたは多くのコメントを追加しています。このユーザーをフォローしますか？"</string>
   <string name="comment_delete_message">"コメントは完全に削除されます。"</string>
   <string name="comment_delete_title">"コメントを削除"</string>
   <string name="comment_hint">"コメントを追加"</string>
@@ -158,7 +158,7 @@
   <string name="delete_video_dialog_tip">"動画を削除した後、復元することはできません。"</string>
   <string name="delete_video_dialog_title">"動画を削除"</string>
   <string name="delete_video_success">"正常に削除されました"</string>
-  <string name="deleted_video_msg">"You're a bit late. This video was deleted."</string>
+  <string name="deleted_video_msg">"この動画は既に削除されました。"</string>
   <string name="dialog_logout_message">"今すぐログアウトしますか？"</string>
   <string name="dialog_logout_title">"ログアウト"</string>
   <string name="dialog_select_type">"タイプを選択"</string>
@@ -235,7 +235,7 @@
   <string name="gender_choose_sub_tile">"パーソナライズされたコンテンツを入手する"</string>
   <string name="gender_choose_sub_title">Receive useful recommendations</string>
   <string name="gender_choose_tip">"性別を選択してください"</string>
-  <string name="get_user_info_err">"Couldn't get info about this person"</string>
+  <string name="get_user_info_err">"このユーザーに関する情報を取得できませんでした"</string>
   <string name="get_verification_code_fail">"Couldn't get verification code"</string>
   <string name="group_title">%2$s from %1$s</string>
   <string name="group_title_extra_backup">"バックアップ"</string>
@@ -760,7 +760,7 @@
   <string name="video_encrypt_login_text">"この動画を再生するにはログインしてください"</string>
   <string name="video_operation_need_fans">Follow the person who made the video to do this</string>
   <string name="video_operation_need_login">Sign in to do this</string>
-  <string name="video_parse_btn">Start</string>
+  <string name="video_parse_btn">"開始"</string>
   <string name="video_parse_error_unknown">"This link isn't supported, try a different one."</string>
   <string name="video_parse_hint">Supported services: WeChat, Weibo, Youku.</string>
   <string name="video_parse_success">Parsed successfully</string>

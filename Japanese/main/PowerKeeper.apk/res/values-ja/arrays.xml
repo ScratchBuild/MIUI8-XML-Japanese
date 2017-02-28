@@ -27,7 +27,7 @@
         <item>"位置情報"</item>
         <item>First notification</item>
         <item>"ロック画面の通知"</item>
-        <item>Restrict background data connections</item>
+        <item>"バックグラウンドのデータ接続を制限"</item>
     </string-array>
     <string-array name="action_param_translate">
         <item>"なし"</item>
@@ -78,5 +78,4 @@
         <item>selected</item>
         <item>unselected</item>
     </string-array>
-    <array name="read_enable" />
 </resources>
