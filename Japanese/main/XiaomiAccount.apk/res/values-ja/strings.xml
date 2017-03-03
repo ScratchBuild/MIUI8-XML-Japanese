@@ -331,10 +331,10 @@
   <string name="passport_wrong_vcode">"入力したコードが正しくありません"</string>
   <string name="phone_activated">%s activated</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
-  <string name="push_notification_content">Click and get verification code</string>
-  <string name="push_notification_title">You sign in to your Mi Account on an unknown device</string>
-  <string name="push_notify_dialog_message">有新设备尝试登录您的小米帐号，请在新设备上输入验证码完成安全验证。如非本人操作请修改小米帐号密码，请勿将验证码告诉他人。</string>
-  <string name="push_notify_dialog_title">Login Security Verification</string>
+  <string name="push_notification_content">Get verification code</string>
+  <string name="push_notification_title">You signed in to your Mi Account on an unknown device</string>
+  <string name="push_notify_dialog_message">"An unknown device is used to sign in to your Mi Account. Enter this verification code on the device. If that wasn't you, change your Mi Account password right away. Don't disclose the verification code to other people."</string>
+  <string name="push_notify_dialog_title">Account verification</string>
   <string name="qq">QQ</string>
   <string name="remove_device_success_notice">If you remove this device from your trusted devices, you may need to go the verification process again when you sign in.​</string>
   <string name="remove_trust_btn">Remove from trusted devices</string>

@@ -48,12 +48,12 @@
         <item quantity="one">"1週間前"</item>
     </plurals>
     <plurals name="anniversary_notify_title">
-        <item quantity="other">[Anniversary]%2$d years anniversary of %1$s</item>
-        <item quantity="one">[Anniversary]%2$d year anniversary of %1$s</item>
+        <item quantity="other">Anniversary: %2$d years since %1$s</item>
+        <item quantity="one">Anniversary: %2$d year since %1$s</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">[Anniversary]%2$d years anniversary of %1$s in 3 days</item>
-        <item quantity="one">[Anniversary]%2$d year anniversary of %1$s in 3 days</item>
+        <item quantity="other">Anniversary: %2$d years since %1$s in 3 days</item>
+        <item quantity="one">Anniversary: %2$d year since %1$s in 3 days</item>
     </plurals>
     <plurals name="anniversary_year">
         <item quantity="other">years</item>

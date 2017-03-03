@@ -205,11 +205,24 @@
   <string name="auto_mail_title_note">Find the option \"139 Mailbox Automatical Configuring\", click it to start.</string>
   <string name="auto_mail_window_description">139 Email Service Automatical Configuring</string>
   <string name="auto_mail_window_label">139 Mailbox Automatical Configuring</string>
+  <string name="auto_remind_bind">"追加"</string>
+  <string name="auto_remind_discribe_text">Turn on to receive automatic reminders</string>
+  <string name="auto_remind_text">Automatic reminders</string>
+  <string name="auto_remind_unbind">"停止"</string>
   <string name="auto_sync_off">"自動同期はオフです。"</string>
+  <string name="bank_card_detail">Credit card details</string>
+  <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Battery saver</string>
   <string name="battery_saver_keywords">battery saver;mail battery</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
+  <string name="bill_center_setting">Billing settings</string>
+  <string name="bill_center_setting_head">Import info from these accounts</string>
+  <string name="bill_cycle_text">Billing cycle</string>
+  <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
+  <string name="bill_list_card_num_fmt">**** **** **** %s</string>
+  <string name="bill_remind">Repayment reminder</string>
+  <string name="bill_remind_due">A repayment is due on %s, tap to view</string>
   <string name="blank_feedback_toast">"フィードバックを記入してください"</string>
   <string name="body_forward_email_text">[Forward]</string>
   <string name="body_hint">"メールを作成"</string>
@@ -311,6 +324,8 @@
   <string name="copy_email">"メールアドレスをコピー"</string>
   <string name="copy_number">"電話番号をコピー"</string>
   <string name="create_action">"新規作成"</string>
+  <string name="credit_limit_text">Credit limit</string>
+  <string name="cur_debt">Account balance</string>
   <string name="custom_from_account_label">Send mail as:</string>
   <string name="date_heading">"日付: "</string>
   <string name="date_message_received">%1$s %2$s</string>
@@ -357,9 +372,13 @@
   <string name="download_confirm_title">"添付ファイルをダウンロード"</string>
   <string name="download_message_failed_for_too_large">"メッセージが大きすぎてダウンロードできません。"</string>
   <string name="draft_count_format"> (%1$s)</string>
+  <string name="drawer_bank_bill">Bank statements</string>
+  <string name="drawer_bill_title">Bills</string>
   <string name="drawer_close">"ナビゲーションドロワーを閉じる"</string>
   <string name="drawer_contacts">"連絡先"</string>
   <string name="drawer_open">"ナビゲーションドロワーを開く"</string>
+  <string name="due">Due</string>
+  <string name="due_date_text">Final repayment</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">"クイック返信"</string>
@@ -394,6 +413,7 @@
   <string name="feedback_sent">Thank you for your feedback</string>
   <string name="feedback_user_edit_hint">Describe the issue here. We will send you an email after we look into it.</string>
   <string name="feedback_user_edit_tag">From MIUI </string>
+  <string name="fetch_bank_sender_list_failure">"情報を取得できませんでした"</string>
   <string name="fetching_attachment">Getting attachment</string>
   <string name="file_deleted_success">"ファイルを削除しました"</string>
   <string name="file_not_found">"ファイルが見つかりませんでした"</string>
@@ -447,6 +467,7 @@
   <string name="forward_download_failed_ticker">"添付ファイルを転送できませんでした。"</string>
   <string name="forward_download_failed_title">"添付ファイルを転送できません"</string>
   <string name="forward_subject_label">Fwd:</string>
+  <string name="free_period_text">Interest-free period</string>
   <string name="from_heading">"From: "</string>
   <string name="general_preference_confirm_delete_label">"削除前に確認する"</string>
   <string name="general_preference_confirm_send_label">"送信前に確認する"</string>
@@ -480,6 +501,8 @@
   <string name="hint_quick_reply_all">"全員に返信"</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">"受信メールサーバーのパスワードが間違っています"</string>
+  <string name="import_button_text">"インポート"</string>
+  <string name="import_from_other_account">"他のアカウントからインポート"</string>
   <string name="info_actionbar_normal_detail">Promotion</string>
   <string name="info_item_hide">"隠す"</string>
   <string name="info_switch_summary">Show promotions on top of the inbox</string>
@@ -498,7 +521,7 @@
   <string name="local_search">Local search</string>
   <string name="local_search_result">%s results in synced messages</string>
   <string name="login">"ログイン"</string>
-  <string name="login139">CMCC Sign in by one key</string>
+  <string name="login139">Sign in with China Mobile</string>
   <string name="login_failed_ticker">"%sでログインできませんでした。"</string>
   <string name="login_failed_title">"ログインできませんでした"</string>
   <string name="long_press_to_select_tip">Touch &amp; hold to select one conversation, then touch to select more.</string>
@@ -507,7 +530,8 @@
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
   <string name="mail_header_network_not_available">"You don't have a network connection."</string>
   <string name="mailbox_list_account_selector_combined_view">"統合ビュー"</string>
-  <string name="mailbox_name_display_ad">"広告と通知"</string>
+  <string name="mailbox_name_display_ad">"広告"</string>
+  <string name="mailbox_name_display_circular">"通知"</string>
   <string name="mailbox_name_display_drafts">"下書き"</string>
   <string name="mailbox_name_display_inbox">"受信トレイ"</string>
   <string name="mailbox_name_display_junk">"迷惑メール"</string>
@@ -574,7 +598,7 @@
   <string name="menu_search">"検索"</string>
   <string name="menu_settings">"設定"</string>
   <string name="merged_mailbox_compose_select_account">"アカウントの選択"</string>
-  <string name="message_body_load_set_description">Load size for new emails when using mobile data</string>
+  <string name="message_body_load_set_description">Load emails when using mobile data</string>
   <string name="message_compose_insert_quick_response_list_title">"クイック返信の挿入"</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">"メッセージのデコード中にエラーが発生しました。"</string>
@@ -592,6 +616,7 @@
   <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
   <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our "<a href="https://www.mipay.com/res/doc/eula/email.html">Terms of Service</a></string>
   <string name="mibill_privacy_policy_title">Manage bills automatically</string>
+  <string name="min_payment_text">Minimum payment</string>
   <string name="more_atts_remaining">%1$d more remaining</string>
   <string name="more_context">More</string>
   <string name="more_string">+%1$s</string>
@@ -599,6 +624,7 @@
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">"ミュート"</string>
   <string name="network_error">"接続なし"</string>
+  <string name="network_invaild">"ネットワークに接続できません"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="network_tip">Authentication failed, please check your network connection</string>
   <string name="network_try_again">"ネットワーク接続を確認してもう一度お試しください"</string>
@@ -610,9 +636,12 @@
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">"この添付ファイルを開くためのアプリケーションが見つかりませんでした。"</string>
   <string name="no_application_found_title">"この添付ファイルを開く。"</string>
+  <string name="no_bill_discribe">"Couldn't find any bills.
+Try switching to a different email account."</string>
   <string name="no_contacts">"連絡先なし。"</string>
   <string name="no_content_in_body">"[本文なし]"</string>
   <string name="no_conversations">"メッセージなし"</string>
+  <string name="no_filtrable_email_account">No accounts to filter</string>
   <string name="no_mails">"メールなし。"</string>
   <string name="no_matched_attachment">No results.</string>
   <string name="no_remind">Not to remind</string>
@@ -632,7 +661,7 @@
   <string name="oauth_error_description">"認証できません"</string>
   <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
   <string name="oauth_login_continue">"続行"</string>
-  <string name="oauth_login_continue_qq">Get authorization code to log in &gt;</string>
+  <string name="oauth_login_continue_qq">Get a passcode and sign in &gt;</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="outbox_alert_button_no_resend">"送信しない"</string>
@@ -656,6 +685,7 @@
   <string name="outbox_alert_select_operation">Choose an action</string>
   <string name="outbox_alert_title_sent_failed">"メールを送信できませんでした"</string>
   <string name="outbox_no_mails">Empty</string>
+  <string name="over_due">Overdue</string>
   <string name="overlays_fail_tip">Very sorry that your mailbox is not configured successfully, open the floating Windows permissions and try again</string>
   <string name="overlays_ok">Open permissions</string>
   <string name="overlays_tip">Open floating Windows permissions, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
@@ -692,7 +722,9 @@
   <string name="phone">phone</string>
   <string name="photo_load_failed">"画像を読み込めませんでした"</string>
   <string name="photo_view_count" formatted="false">%d of %d</string>
-  <string name="please_fill_in_your_mailbox_information2">Enter your mailbox info</string>
+  <string name="please_fill_in_your_mailbox_information2">"受信トレイの情報を入力してください"</string>
+  <string name="pls_parse_bill_discribe">"Analyze bills and travel info in your email
+to receive reminders about payments and trips"</string>
   <string name="policy_app_blacklist">"指定したアプリを許可しない"</string>
   <string name="policy_app_whitelist">"指定したアプリのみ許可する"</string>
   <string name="policy_bluetooth_restricted">"Bluetoothの使用を制限する"</string>
@@ -738,6 +770,7 @@
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
+  <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
   <string name="pull_to_refresh">"画面を引っ張って"</string>
   <string name="push_wps_better_confirm_download">"ダウンロード"</string>
   <string name="push_wps_better_confirm_exit">"後で"</string>
@@ -749,17 +782,17 @@
   <string name="push_wps_confirm_message">"この添付ファイルを開くためにWPS Officeを試す。"</string>
   <string name="push_wps_confirm_title">"WPS Officeを試す"</string>
   <string name="push_wps_no_response_app">"この操作を処理するためのアプリが見つかりませんでした"</string>
-  <string name="qq_bar_open_imap">Enable</string>
+  <string name="qq_bar_open_imap">Help</string>
   <string name="qq_bar_send_message">Send SMS</string>
-  <string name="qq_login_basecode">Logging in QQ Email via web page. Please enter your independent password.</string>
-  <string name="qq_login_get_auth">Failed to send an verification SMS? Please authenticate via password protection questions</string>
-  <string name="qq_login_open_imap">Click \"Enable\" to enable \"IMAP/SMTP\"</string>
-  <string name="qq_login_origin_setting">Input username and password to log in &gt;</string>
-  <string name="qq_login_send_message">Click \"Send SMS\" to obtain an authorization code</string>
-  <string name="qq_login_webview">Logging in QQ Email via web page. Please enter your password.</string>
-  <string name="qq_next_generation_auth_toast">Please complete the application for second-generation password protection via browser</string>
-  <string name="qq_uthentication_failed">Authentication failed, please sign in again</string>
-  <string name="qq_webview_loading">Skipping now, please wait...</string>
+  <string name="qq_login_basecode">Signing in to the web QQ Mail. Enter independent password.</string>
+  <string name="qq_login_get_auth">"Turn on password protection if you can't receive SMS"</string>
+  <string name="qq_login_open_imap">Tap \"Help\" to turn on IMAP/SMTP</string>
+  <string name="qq_login_origin_setting">Enter username and password to sign in &gt;</string>
+  <string name="qq_login_send_message">Tap \"Send SMS\" to get a verification code</string>
+  <string name="qq_login_webview">Signing in to the web QQ Mail. Enter your password.</string>
+  <string name="qq_next_generation_auth_toast">Turn on password protection in your browser</string>
+  <string name="qq_uthentication_failed">"Couldn't verify account, sign in again"</string>
+  <string name="qq_webview_loading">"読み込み中…"</string>
   <string name="questionnair_body_invisibility">"メッセージが表示されない"</string>
   <string name="questionnair_confirm_delete">"削除"</string>
   <string name="questionnair_instability">"頻繁にクラッシュする"</string>
@@ -879,6 +912,8 @@
   <string name="ser_resp_err_map_pserr">"ユーザー名かパスワードが間違っています"</string>
   <string name="ser_resp_err_map_serclosed">%s server closed</string>
   <string name="ser_resp_err_map_ssl">"Choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
+  <string name="service_protocol_discribe">&lt;u&gt;"I've read and agree with WPS Mail Service Agreement"&lt;/u&gt;</string>
+  <string name="service_protocol_title">Service Agreement</string>
   <string name="set_network">Set network</string>
   <string name="settings_activity_title">"設定"</string>
   <string name="share_choose">"共有するファイルを選択"</string>
@@ -886,14 +921,9 @@
   <string name="shortcut_name_title">Name folder shortcut</string>
   <string name="show_elided">▶ Show quoted text</string>
   <string name="show_images">Download and show pictures</string>
-  <string name="signature">"
-
-
-
-%s"</string>
+  <string name="signature">"%s"</string>
   <string name="silent_ringtone">マナーモード</string>
-  <string name="single_new_message_notification_big_text">"%1$s
-%2$s"</string>
+  <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">Authentication fails, check whether the antivirus software to intercept SMS</string>
   <string name="smtp_password_error">"送信メールサーバーのパスワードが正しくありません"</string>
@@ -933,6 +963,7 @@
   <string name="toast_bar_invalid_account">"もう一度ログインする必要があります"</string>
   <string name="toast_bar_no_connection_network">"You don't have an internet connection"</string>
   <string name="toast_bar_open_gmail_synchronization">Tap to use proxy server for Gmail</string>
+  <string name="today_text">"今日"</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
   <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
@@ -955,7 +986,10 @@
     between the web, your other devices, and your %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">"ONにする"</string>
   <string name="turn_auto_sync_on_dialog_title">"自動同期をONにしますか？"</string>
+  <string name="unbind_dialog_text">"You won't be able to receive reminders after you stop analyzing bills.
+Stop now?"</string>
   <string name="undo">"元に戻す"</string>
+  <string name="unknow">"不明"</string>
   <string name="unread_string">"未読のスレッド"</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
@@ -977,12 +1011,12 @@
 Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
   <string name="wait_for_sync_title">Waiting for sync</string>
   <string name="wait_help_context">wait</string>
-  <string name="webview_logout">Do you really want to give up logging in? Come on and Try again!</string>
-  <string name="webview_logout_cancel">"Won't try any more"</string>
-  <string name="webview_logout_sure">Try once more</string>
+  <string name="webview_logout">You can try to sign in again</string>
+  <string name="webview_logout_cancel">"後で"</string>
+  <string name="webview_logout_sure">"再試行"</string>
   <string name="webview_sslerror_handle_cancel">"キャンセル"</string>
   <string name="webview_sslerror_handle_continue">"続行"</string>
-  <string name="webview_sslerror_handle_hitmessage">Certificate Error! Continue to this website (not recommended)?</string>
+  <string name="webview_sslerror_handle_hitmessage">A certificate error occurred, proceed anyway?</string>
   <string name="widget_all_mail">"すべてのメール"</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">"その他"</string>

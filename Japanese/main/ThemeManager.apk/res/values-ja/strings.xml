@@ -3,6 +3,8 @@
   <string name="account_info">My Account</string>
   <string name="account_name_not_login">"ログイン"</string>
   <string name="account_unactivated">Account not activated</string>
+  <string name="ad_app_download_start">"ダウンロードを開始しています…"</string>
+  <string name="ad_app_is_downloading">ダウンロード中…</string>
   <string name="add_resource_detail_fail">"テーマを追加できません"</string>
   <string name="all_resources">"すべて"</string>
   <string name="app_name">"テーマ"</string>
@@ -398,6 +400,7 @@
   <string name="title_system_audio_resource">"システムの着信音"</string>
   <string name="title_system_wallpaper_resource">"システムの壁紙"</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
+  <string name="wallpaper_auto_change_title">"ロック画面"</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">"壁紙を読み込むことができません"</string>
   <string name="wallpaper_scroll_type_tips">"壁紙のスクロール"</string>
@@ -405,4 +408,8 @@
   <string name="wallpaper_set_as_destop">"ホーム画面に設定"</string>
   <string name="wallpaper_set_as_lockscreen">"ロック画面に設定"</string>
   <string name="wallpaper_settings">"壁紙の設定"</string>
+  <string name="wallpaper_settings_change_wallpaper">"変更"</string>
+  <string name="wallpaper_settings_desktop_text">"ホーム画面"</string>
+  <string name="wallpaper_settings_lockscreen_text">"ロック画面"</string>
+  <string name="wallpaper_settings_page_title">"壁紙"</string>
 </resources>

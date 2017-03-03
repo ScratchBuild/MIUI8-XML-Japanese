@@ -193,6 +193,8 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
+  <string name="pref_camera_portrait_mode_entry_off">Portrait mode off</string>
+  <string name="pref_camera_portrait_mode_entry_on">Portrait mode on</string>
   <string name="pref_camera_portrait_mode_title">Portrait</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
   <string name="pref_camera_recordlocation_entry_on">On</string>

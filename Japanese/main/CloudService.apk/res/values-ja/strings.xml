@@ -175,10 +175,10 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_toast_deny">"Mi Accountにログイン"</string>
   <string name="micloud_confusion_yes">はい</string>
   <string name="micloud_detail_battery_low">Battery low</string>
-  <string name="micloud_detail_battery_low_message">Battery is low. Please charge your phone and sync.</string>
+  <string name="micloud_detail_battery_low_message">Battery is low. Charge your phone to sync.</string>
   <string name="micloud_detail_battery_low_title">Battery is low</string>
   <string name="micloud_detail_depend_wifi_message">"Wi-Fiに接続するか、同期設定を確認してください。"</string>
-  <string name="micloud_detail_depend_wifi_title">"Wi-Fi接続が必要"</string>
+  <string name="micloud_detail_depend_wifi_title">"Wi-Fiに接続"</string>
   <string name="micloud_detail_do_not_sync">同期しない</string>
   <string name="micloud_detail_download_syncing">ダウンロード中 %s</string>
   <string name="micloud_detail_fail">"同期できません"</string>
@@ -200,10 +200,10 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_syncing">同期中</string>
   <string name="micloud_detail_upload_syncing">Uploading %s</string>
   <string name="micloud_detail_wlan">%d waiting to sync</string>
-  <string name="micloud_dialog_sync_now_message">Suggest you using WLAN</string>
+  <string name="micloud_dialog_sync_now_message">Connect to WLAN to avoid additional mobile data fees</string>
   <string name="micloud_dialog_sync_now_negative">"後で"</string>
-  <string name="micloud_dialog_sync_now_positive">Using data transfer flow</string>
-  <string name="micloud_dialog_sync_now_title">Sync data now using data transfer flow</string>
+  <string name="micloud_dialog_sync_now_positive">Use mobile data</string>
+  <string name="micloud_dialog_sync_now_title">Connect to WLAN to sync</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="micloud_find_device_finish">完了</string>
@@ -269,7 +269,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_suggest_sync">すべてを同期できませんでした</string>
   <string name="micloud_main_sync_exception">同期エラー</string>
   <string name="micloud_main_sync_init">情報の取得中</string>
-  <string name="micloud_main_sync_need_charge">Waiting to charge</string>
+  <string name="micloud_main_sync_need_charge">Charge your device</string>
   <string name="micloud_main_sync_now">今すぐ同期</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>

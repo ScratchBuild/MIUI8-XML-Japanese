@@ -37,7 +37,7 @@
   <string name="location_enable_later">後で</string>
   <string name="location_enabled">設定メニューでロケーションサービス機能を無効化にできます</string>
   <string name="location_north">北緯</string>
-  <string name="location_not_enabled_summary">Directory needs your location info to work normally.</string>
+  <string name="location_not_enabled_summary">コンパスアプリは座標と高度を表示するため現在地情報にアクセスする必要があります。</string>
   <string name="location_not_enabled_title">位置情報サービス</string>
   <string name="location_south">南緯</string>
   <string name="location_west">西経</string>

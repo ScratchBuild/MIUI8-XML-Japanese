@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_package_delete_confirm_title">"重要な警告"</string>
+  <string name="activity_package_delete_confirm_title">Attention</string>
   <string name="add_frequent_phrases">"よく使うフレーズを追加"</string>
   <string name="all_call_livetalk_enable">Using top-up package for domestic and international calls</string>
   <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic or %2$s international</string>
@@ -140,7 +140,7 @@
   <string name="status_bar_toggle_wifi_ap">"ホットスポット"</string>
   <string name="translation_more">More</string>
   <string name="translation_query_error">"結果が見つかりませんでした"</string>
-  <string name="translation_query_error_network">"ネットワークに接続できませんでした。設定を確認して、もう一度やり直してください"</string>
+  <string name="translation_query_error_network">"情報を取得できませんでした。ネットワーク接続を確認してもう一度お試しください"</string>
   <string name="turn_off">"オフにする"</string>
   <string name="unknown_caller">"不明な番号"</string>
   <string name="user_switching_dialog_text">"切り替え中…"</string>

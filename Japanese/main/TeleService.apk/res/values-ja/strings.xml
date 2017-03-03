@@ -263,6 +263,8 @@
   <string name="contactdeleteSuccess">SIMから連絡先を削除しました。</string>
   <string name="corporate_unlock_failed">SIM Corporate unlock request unsuccessful.</string>
   <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
+  <string name="crescendo_ringer_summary">"着信音のボリュームは設定したレベルまで徐々に大きくなります"</string>
+  <string name="crescendo_ringer_title">"着信音量を徐々に大きくする"</string>
   <string name="cursorError">"カーソルエラー"</string>
   <string name="data_enable_summary">"モバイルデータの使用を許可"</string>
   <string name="data_enabled">"データ通信を有効にする"</string>
@@ -304,6 +306,7 @@
   <string name="disable_fdn_ok">発信番号制限をONにする</string>
   <string name="disable_pin_ok">PINを消去しました</string>
   <string name="disable_sim_pin">SIM PINの消去</string>
+  <string name="disabled_by_admin">"管理者によって無効にされています"</string>
   <string name="display_name">表示名</string>
   <string name="display_name_summary">&lt;ユーザー名と同じ></string>
   <string name="display_name_title">表示名</string>
@@ -366,6 +369,7 @@
   <string name="enable_video_calling_dialog_msg">ビデオハングアウトをONにするには、ネットワーク設定で4G LTE拡張モードを有効にする必要があります。</string>
   <string name="enable_video_calling_dialog_settings">ネットワーク設定</string>
   <string name="enable_video_calling_title">ビデオハングアウトを有効にする</string>
+  <string name="enabled_by_admin">"管理者によって有効にされています"</string>
   <string name="enhanced_4g_lte_mode_off_failed">"VoLTEをOFFに出来ませんでした"</string>
   <string name="enhanced_4g_lte_mode_on_failed">"VoLTEをONに出来ませんでした。"</string>
   <string name="enhanced_4g_lte_mode_summary">"LTEサービスを使用して音声などの通信を改善する（推奨）</string>
@@ -715,6 +719,7 @@
   <string name="path_caller_id_title">システムアプリ/Phone/Advanced settings/Caller ID</string>
   <string name="path_cloud_antispam_title">システムアプリ/Phone/Identify unknown numbers</string>
   <string name="path_connect_disconnect_vibrate_title">システムアプリ/Phone/Advanced settings/Vibrate when your call is answered</string>
+  <string name="path_crescendo_ringer_title">システムアプリ/Phone/Incoming call settings/Increasing ringtone volume</string>
   <string name="path_dtmf_tones_title">システムアプリ/Phone/Advanced settings/DTMF tones</string>
   <string name="path_enable_antispam_strange_title">Phone/Incoming call settings/Mute first ring</string>
   <string name="path_enable_proximity_title">システムアプリ/Phone/Incoming call settings/Proximity sensor</string>
@@ -733,7 +738,6 @@
   <string name="path_telocation_enable_title">システムアプリ/Phone/Location/Show location</string>
   <string name="path_turnover_mute_title">システムアプリ/Phone/Incoming call settings/Flip to silence ringer</string>
   <string name="path_voicemail_settings">システムアプリ/Phone/Advanced settings/Voicemail settings</string>
-  <string name="path_voip_setting">システムアプリ/Phone/Mi Voice</string>
   <string name="pause_prompt_no">いいえ</string>
   <string name="pause_prompt_str">"番号送信\n"</string>
   <string name="pause_prompt_yes">はい</string>

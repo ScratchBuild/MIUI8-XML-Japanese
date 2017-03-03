@@ -38,6 +38,9 @@
   <string name="error_sdcard_access">"ストレージにアクセスできません"</string>
   <string name="error_sdcard_unmounted">"今すぐSDカードを挿入してください"</string>
   <string name="export_to_note">Export to Notes</string>
+  <string name="head_set_tip_dialog_msg">Disconnect your earphones to be able to record sound with specific presets (e.g., Music, Voice).</string>
+  <string name="head_set_tip_dialog_ok">OK</string>
+  <string name="head_set_tip_dialog_title">"内蔵マイクを使用"</string>
   <string name="invalid_argument">"無効な引数"</string>
   <string name="keywords_search_call_record">Record calls;Record call;Call recording;Call recordings</string>
   <string name="keywords_search_record">New recording;Add recording;Recording;Recordings;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>

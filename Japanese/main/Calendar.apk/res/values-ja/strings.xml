@@ -47,6 +47,8 @@
   <string name="birthday_event_description_today">"今日は"</string>
   <string name="birthday_event_description_tomorrow">"明日は"</string>
   <string name="birthday_event_description_yesterday">"昨日は"</string>
+  <string name="birthday_metric">-year-old</string>
+  <string name="birthday_notification_age_term">%1$s%2$s</string>
   <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s is coming up."</string>
@@ -60,7 +62,7 @@
   <string name="button_week">"週"</string>
   <string name="calendar_network_error">"ネットワークエラー"</string>
   <string name="calendar_refresh">"更新"</string>
-  <string name="can_not_create_long_event">"予定の内容が長すぎます"</string>
+  <string name="can_not_create_long_event">"予定の名前が長すぎます"</string>
   <string name="can_not_modify_allday_event">"終日の予定が変更できません"</string>
   <string name="can_not_modify_event">"予定が変更できません"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Can't change multi-day event"</string>
@@ -79,10 +81,10 @@
   <string name="chongsha">冲煞</string>
   <string name="copy_email">"メールアドレスをコピー"</string>
   <string name="copy_number">"電話番号をコピー"</string>
-  <string name="countdown_card_title">Countdown Days</string>
-  <string name="countdown_event_title">[Countdown]%1$s</string>
-  <string name="countdown_notify_before_3_day_title">[Countdown]%1$s in 3 days</string>
-  <string name="countdown_notify_title">[Countdown]%1$s</string>
+  <string name="countdown_card_title">Countdown</string>
+  <string name="countdown_event_title">Countdown: %1$s</string>
+  <string name="countdown_notify_before_3_day_title">Countdown: %1$s in 3 days</string>
+  <string name="countdown_notify_title">Countdown: %1$s</string>
   <string name="countdown_today">"今日"</string>
   <string name="create_an_account_desc">"Mi Accountがあればカレンダーをもっと活用できます。
 
@@ -123,8 +125,8 @@
   <string name="downloading">"ダウンロード中"</string>
   <string name="downloading_wallpaper">"壁紙をダウンロード中"</string>
   <string name="edit_event_all_day_label">"終日"</string>
-  <string name="edit_event_anniversary_name_empty_hint">"記念日を入力してください"</string>
-  <string name="edit_event_anniversary_name_hint">Content</string>
+  <string name="edit_event_anniversary_name_empty_hint">"記念日の名前を入力"</string>
+  <string name="edit_event_anniversary_name_hint">"予定"</string>
   <string name="edit_event_birthday_import_from_contact">"連絡先から誕生日をインポート"</string>
   <string name="edit_event_birthday_name_empty_hint">"名前を入力"</string>
   <string name="edit_event_birthday_name_hint">"名前"</string>

@@ -24,7 +24,7 @@
   <string name="convertion_unit_volume">Volume converter</string>
   <string name="convertion_unit_weight">Mass converter</string>
   <string name="cosDesc">cosine</string>
-  <string name="currency_update_time_format">Exchange rates are provided by webull (%s)</string>
+  <string name="currency_update_time_format">Exchange rates are provided by Webull (%s)</string>
   <string name="dateformat">yyyy/MM/dd</string>
   <string name="day">day</string>
   <string name="devided_by_zero_reminder_message">"0で割ることはできません"</string>
@@ -107,8 +107,8 @@
   <string name="preference_alert_follow_qq_group">Copy and paste into QQ to feedback</string>
   <string name="preference_alert_follow_wechat">Copy and paste into WeChat to follow</string>
   <string name="preference_alert_follow_wechat_button">コピー</string>
-  <string name="preference_check_update_summary_current_version">Current version：%s</string>
-  <string name="preference_check_update_summary_new_version">Has new version：%s</string>
+  <string name="preference_check_update_summary_current_version">Current version: %s</string>
+  <string name="preference_check_update_summary_new_version">Update available: %s</string>
   <string name="preference_check_update_title">アップデートをチェック</string>
   <string name="preference_feedback_title">FAQ</string>
   <string name="preference_follow_qq_group">QQ Group:523274279</string>
@@ -155,7 +155,7 @@
   <string name="tax_thershold_native">%s (Mainland China)</string>
   <string name="tax_threshold">Tax-free threshold</string>
   <string name="tax_unemployment">Unemployment</string>
-  <string name="tax_update_time_format">Data in year %s, provide by HeXun</string>
+  <string name="tax_update_time_format">Data provided by HeXun (%s)</string>
   <string name="title_bar">Length converter</string>
   <string name="unit_data_display_area_acre">Acre</string>
   <string name="unit_data_display_area_are">Are</string>

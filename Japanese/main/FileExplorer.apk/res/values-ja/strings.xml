@@ -544,7 +544,7 @@
   <string name="select_dest_folder">Select folder</string>
   <string name="select_image">Images</string>
   <string name="select_interest_str">"好きなトピックを選択"</string>
-  <string name="select_interest_tip">Theres a lot to discover!</string>
+  <string name="select_interest_tip">"There's a lot to discover!"</string>
   <string name="select_music">Audio files</string>
   <string name="select_video">Video files</string>
   <string name="select_volume">Select volume</string>

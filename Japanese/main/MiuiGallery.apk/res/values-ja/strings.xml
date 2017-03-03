@@ -127,6 +127,7 @@
   <string name="backup_automatically_title">"自動的にバックアップ"</string>
   <string name="backup_battery_low_desc">You can still choose to continue backing up items</string>
   <string name="backup_battery_low_title">Backup paused due to low battery</string>
+  <string name="backup_close">Close backup</string>
   <string name="backup_cloud_space_low_btn_text">Get more</string>
   <string name="backup_cloud_space_low_desc">%1$s in Mi Cloud | Available %2$s</string>
   <string name="backup_cloud_space_low_title">Not enough Mi Cloud storage</string>
@@ -150,6 +151,7 @@
   <string name="backup_only_in_wifi">"写真や動画のバックアップにはWi-Fiのみ使用"</string>
   <string name="backup_only_in_wifi_summary">"写真や動画のバックアップにモバイルデータを使用しない"</string>
   <string name="backup_pause">"バックアップを中断"</string>
+  <string name="backup_pause_title">Back up in %s</string>
   <string name="backup_pending">"自動的にバックアップされます"</string>
   <string name="backup_stop">"バックアップを停止"</string>
   <string name="backup_sync_error_btn_text">"再試行"</string>
@@ -245,6 +247,7 @@
   <string name="custom_select_title_select_all">"すべて選択"</string>
   <string name="custom_select_title_select_item">"アイテムを選択"</string>
   <string name="debugging_tip">"デバッグデータの生成中"</string>
+  <string name="define_by_user">Custom</string>
   <string name="delete">"削除"</string>
   <string name="delete_album_failed">"アルバムを削除できません"</string>
   <string name="delete_album_msg_format">Delete \"%2$s\" album %1$s %3$s?</string>
@@ -405,6 +408,7 @@ Take more photos of your friends!"</string>
   <string name="input_baby_nick_name">"ニックネームを入力"</string>
   <string name="input_nickname_toast">"赤ちゃんの名前を入力"</string>
   <string name="input_or_select_a_name">"名前を入力または選択"</string>
+  <string name="input_relation_name">"グループ名を入力"</string>
   <string name="invalid_invition_url">Invalid invitation URL</string>
   <string name="invalid_recipient_message">The recipient names you entered are invalid</string>
   <string name="invite_sharer_confirm_button_text">Invite</string>
@@ -420,6 +424,7 @@ Take more photos of your friends!"</string>
   <string name="kick_sharer_successfully">This person was removed</string>
   <string name="limit_height">Height should be > 0</string>
   <string name="limit_width">Width should be > 0</string>
+  <string name="load_relations">"読み込み中…"</string>
   <string name="loading_dual_tip">Loading dual photo…</string>
   <string name="loading_fail">"ダウンロードできませんでした"</string>
   <string name="loading_fail_sync_off">"Mi Cloudとの同期をオンにしてダウンロード"</string>
@@ -461,6 +466,9 @@ Take more photos of your friends!"</string>
   <string name="new_album_invalid_char">"Names can't contain \"%s\", enter a letter or a number."</string>
   <string name="new_album_invalid_name">\"%s\" is system album, please rename for it.</string>
   <string name="new_album_invalid_prefix">"Don't use \".\" or \"_\" in the beginning of the album's name."</string>
+  <string name="new_relation_invalid_char">"Group names can't contain “%s”. Use letters, numbers, or characters."</string>
+  <string name="new_relation_invalid_name">“%s” group already exists, rename this group.</string>
+  <string name="new_relation_invalid_prefix">"Can't start group names with “.” or “_”"</string>
   <string name="next">"次へ"</string>
   <string name="no">"いいえ"</string>
   <string name="no_map_app">"この操作を処理するためのアプリが見つかりませんでした"</string>
@@ -482,6 +490,7 @@ Take more photos of your friends!"</string>
   <string name="operation_do_delete_local_thumnail">Delete from device</string>
   <string name="operation_download">Download original (%s)</string>
   <string name="operation_edit">"編集"</string>
+  <string name="operation_edit_video">"編集"</string>
   <string name="operation_enable_auto_upload">"Mi Cloudとの同期をオンにする"</string>
   <string name="operation_enter_delete_local">Delete backed up photos and videos from device</string>
   <string name="operation_failed">"操作を完了できませんでした"</string>
@@ -495,6 +504,7 @@ Take more photos of your friends!"</string>
   <string name="operation_remove_from_face_album">"アルバムから削除"</string>
   <string name="operation_remove_from_other_albums">"他のアルバムから移動"</string>
   <string name="operation_remove_secret">Unhide</string>
+  <string name="operation_rename">"名前を変更"</string>
   <string name="operation_save">"保存"</string>
   <string name="operation_send">"送る"</string>
   <string name="operation_set_contact_photo">"連絡先の写真として設定"</string>
@@ -576,6 +586,9 @@ Take more photos of your friends!"</string>
   <string name="remove_from_secret_successful">Removed from hidden album</string>
   <string name="remove_to_album_title">Merge with</string>
   <string name="remove_to_other_album">Merge with a different person</string>
+  <string name="rename_album">"アルバム名を変更"</string>
+  <string name="rename_album_failed">"名前を変更できません"</string>
+  <string name="rename_album_succeeded">"名前が変更されました"</string>
   <string name="rename_face_album">"名前を変更"</string>
   <string name="rename_fail_msg">"名前を変更できません"</string>
   <string name="rename_from_contact">Name from contacts</string>
@@ -687,8 +700,10 @@ Take more photos of your friends!"</string>
   <string name="sync_battery_low">Low battery</string>
   <string name="sync_cloud_space_full">"Mi Cloudに十分な空き領域がありません"</string>
   <string name="sync_diabled_toast">"同期はオフです"</string>
+  <string name="sync_metatata_wait_title">Waiting to sync Mi Cloud data</string>
   <string name="sync_off_title">"Mi Cloudとの同期をオンにして、写真や動画を自動的にバックアップする"</string>
   <string name="sync_pending_title">Will be synced automatically</string>
+  <string name="sync_state_unknow">"情報の取得中"</string>
   <string name="synced_title">Backed up photos and videos successfully</string>
   <string name="syncing_gprs_title">Using mobile data to back up items</string>
   <string name="syncing_metadata_title">Syncing Mi Cloud data</string>

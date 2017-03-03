@@ -117,9 +117,9 @@
   <string name="callrecordview_menu_delete_called">"発信履歴を消去"</string>
   <string name="callrecordview_menu_delete_confirm">"%sを削除しますか？"</string>
   <string name="callrecordview_menu_delete_missed">"不在着信を消去"</string>
-  <string name="callrecordview_menu_delete_new">Clear call histories with new contacts</string>
+  <string name="callrecordview_menu_delete_new">Clear call history for new contacts</string>
   <string name="callrecordview_menu_delete_one">"通話履歴から削除"</string>
-  <string name="callrecordview_menu_delete_sim">Clear %s call histories</string>
+  <string name="callrecordview_menu_delete_sim">Clear call history records (%s)</string>
   <string name="callrecordview_menu_delete_stranger">"不明な番号を消去"</string>
   <string name="callrecordview_menu_edit_call_note">Edit call note</string>
   <string name="callrecordview_menu_ip">Auto IP dialing</string>
@@ -199,7 +199,7 @@
   <string name="contact_detail_action_item_calllog">"通話履歴"</string>
   <string name="contact_detail_action_item_nocalllog">"通話履歴はありません"</string>
   <string name="contact_detail_calllog_call_note_tips">"ノート"</string>
-  <string name="contact_detail_calllog_call_record_tips">Record call</string>
+  <string name="contact_detail_calllog_call_record_tips">Recorded call</string>
   <string name="contact_detail_calllog_empty">"通話履歴はありません"</string>
   <string name="contact_detail_menu_delete_miprofile">"カードを削除"</string>
   <string name="contact_detail_miprofile_accept">Exchange contact cards</string>
@@ -360,10 +360,10 @@ Contact cards are turned off"</string>
         
 
 3. Click \"Next\", and allow the contacts accessing permission in the following step."</string>
-  <string name="device_transfer_by_sim_message">"1. Save your other device's contacts on the SIM card;
+  <string name="device_transfer_by_sim_message">"1. Save the contacts from the other device on the SIM card;
         
 
-2. Goto \"Contacts settings\" -- \"Import/Export contacts\" -- \"Import from SIM card\", long press any SIM contact, choose those contacts to be imported, then click the \"Import\" option."</string>
+2. Open settings in the Contacts app,  and then go to \"Import/Export contacts\" -- \"Import from SIM card\", hold any SIM contact to select it, select all the required contacts, and tap \"Import\"."</string>
   <string name="device_version_header_bluetooth">"Bluetoothがオンになっていることを確認"</string>
   <string name="device_version_header_no_bluetooth">"SIMカードを使用して連絡先をインポート"</string>
   <string name="dial">"ダイヤル"</string>
@@ -580,11 +580,11 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="list_filter_customize">Customize</string>
   <string name="list_filter_phones">All contacts with phone numbers</string>
   <string name="list_filter_single">"連絡先"</string>
-  <string name="live_talk_switch_on_toast">Live talk has been enabled</string>
-  <string name="livetalk_charge">Charge</string>
-  <string name="livetalk_left">Remaining livetalk</string>
-  <string name="livetalk_switch_on">Switch on</string>
-  <string name="livetalk_title">Live talk</string>
+  <string name="live_talk_switch_on_toast">Turned on Top-up package successfully</string>
+  <string name="livetalk_charge">Top up</string>
+  <string name="livetalk_left">Remaining</string>
+  <string name="livetalk_switch_on">Turn on</string>
+  <string name="livetalk_title">Top-up package</string>
   <string name="loading_accounts">"読み込み中…"</string>
   <string name="loading_group_members">"読み込み中…"</string>
   <string name="loading_groups">"読み込み中…"</string>
@@ -1205,7 +1205,7 @@ To add a contact to your list of favorites:
   <string name="unknow_phone_number_mms_failed">"不明な番号にメッセージを送信できません"</string>
   <string name="unknown">"通知不可能"</string>
   <string name="unknown_contact_name">"不明な連絡先"</string>
-  <string name="update_sim_contact_photo_toast">"SIMの連絡先に写真を設定できません"</string>
+  <string name="update_sim_contact_photo_toast">"SIMの連絡先にプロフィール写真を設定できません"</string>
   <string name="upgrade_in_progress">"連絡先リストを更新しています。"</string>
   <string name="upgrade_out_of_memory">"連絡先を更新中です。
 

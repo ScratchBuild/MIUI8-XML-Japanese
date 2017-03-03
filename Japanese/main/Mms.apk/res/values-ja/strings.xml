@@ -164,6 +164,7 @@
   <string name="exceed_message_text_limitation">メッセージテキストの長さが上限に達しました。</string>
   <string name="expire_on">"有効期限: %s"</string>
   <string name="exporting_progress_private_message">"エクスポート中..."</string>
+  <string name="fail_to_add_attachment">"添付ファイルを追加できませんでした"</string>
   <string name="failed_to_add_media">"この%1$sはメッセージに追加できません"</string>
   <string name="failed_to_resize_image">画像のサイズを変更できません</string>
   <string name="fake_cell_alert_hint">このメッセージは表示されたものとは異なる電話番号から送信されたようです。金銭の要求を含むSMSには注意してください。</string>
