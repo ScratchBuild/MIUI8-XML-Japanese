@@ -16,8 +16,8 @@
   <string name="administrative_enable">管理は有効になっています</string>
   <string name="advanced_settings">オプション設定</string>
   <string name="advanced_settings_container">詳細設定コンテナ</string>
-  <string name="advanced_settings_hide">▽ タップして全て非表示</string>
-  <string name="advanced_settings_show">▷ タップして全て表示</string>
+  <string name="advanced_settings_hide">▽ タップしてすべて非表示</string>
+  <string name="advanced_settings_show">▷ タップしてすべて表示</string>
   <string name="advertisements_disable">広告は無効になっています</string>
   <string name="advertisements_enable">広告は有効になっています</string>
   <string name="alert_dialog_close">プロファイルを閉じる</string>

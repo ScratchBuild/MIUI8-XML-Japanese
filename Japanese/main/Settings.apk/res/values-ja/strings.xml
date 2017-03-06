@@ -639,9 +639,9 @@
   <string name="bluetooth_unlock_add_device">デバイスを追加</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">古いデバイスは、現在のデバイスに置き換えられます。</string>
   <string name="bluetooth_unlock_change_matched_device">他のデバイスを選択</string>
-  <string name="bluetooth_unlock_confirm_device_text">タッチしてロックを解除する</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Tap the button on the watch to unlock.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Tap the button on device to unlock.</string>
+  <string name="bluetooth_unlock_confirm_device_text">タップしてロックを解除する</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">時計のボタンをタップするとロックが解除されます。</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">端末のボタンをタップするとロックが解除されます。</string>
   <string name="bluetooth_unlock_delete_device">このデバイスを削除する</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">このデバイスを削除しますか？</string>
   <string name="bluetooth_unlock_device_matched_text">このデバイスをロック解除に使用する</string>
@@ -2806,7 +2806,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_locking_sounds_title">画面ロック音</string>
   <string name="screen_monochrome_mode_apps_loading">読み込み中…</string>
   <string name="screen_monochrome_mode_apps_title">モノクロモードを使用</string>
-  <string name="screen_monochrome_mode_global_summary">全てのアプリでモノクロモードを使用する</string>
+  <string name="screen_monochrome_mode_global_summary">すべてのアプリでモノクロモードを使用する</string>
   <string name="screen_monochrome_mode_global_title">すべてのアプリ</string>
   <string name="screen_monochrome_mode_local_summary">選択したアプリでモノクロモードを使用する</string>
   <string name="screen_monochrome_mode_local_title">選択したアプリ</string>
@@ -4032,7 +4032,7 @@ PINが正しくない可能性があります。"</string>
   <string name="volume_notification_description">通知</string>
   <string name="volume_notification_mute">通知音をミュート</string>
   <string name="volume_restore">音量をリセット</string>
-  <string name="volume_restore_alert">全ての音量設定をリセットしてデフォルト設定に戻しますか？</string>
+  <string name="volume_restore_alert">すべての音量設定をリセットしてデフォルト設定に戻しますか？</string>
   <string name="volume_ring_description">着信音と通知音</string>
   <string name="volume_ring_mute">着信音と通知音をミュート</string>
   <string name="volume_system_description">カメラシャッター・画面ロック・その他のシステム通知</string>

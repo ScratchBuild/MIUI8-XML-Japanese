@@ -58,7 +58,7 @@
         <item>2日</item>
     </string-array>
     <string-array name="wild_msg_sync_options">
-        <item>全てのメッセージを同期</item>
+        <item>すべてのメッセージを同期</item>
         <item>選択したSIMカードからメッセージを同期</item>
     </string-array>
     <string-array name="select_dialog_items">

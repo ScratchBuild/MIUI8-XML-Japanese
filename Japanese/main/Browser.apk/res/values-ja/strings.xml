@@ -384,7 +384,7 @@ Pages you view won't appear in history."</string>
   <string name="menu_theme_setting">"テーマ設定"</string>
   <string name="menu_title_clear_all">"すべて消去"</string>
   <string name="menu_title_open_file_management">"File Explorerを開く"</string>
-  <string name="menu_title_pause_all">"全て停止"</string>
+  <string name="menu_title_pause_all">"すべて停止"</string>
   <string name="menu_title_resume_all">"すべて開始"</string>
   <string name="miui_autologin_bar_error">"ログインに失敗しました"</string>
   <string name="miui_autologin_bar_title">"Mi Accountでログイン"</string>

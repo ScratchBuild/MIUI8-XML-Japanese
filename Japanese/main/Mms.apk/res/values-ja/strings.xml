@@ -77,7 +77,7 @@
   <string name="confirm_add_blacklist_dialog_dspt">この番号をブロックリストに追加しますか？</string>
   <string name="confirm_delete_SIM_message">SIMカードからこのメッセージを削除しますか？</string>
   <string name="confirm_delete_all_SIM_messages">SIMカードのすべてのメッセージを削除しますか？</string>
-  <string name="confirm_delete_all_conversations">全てのスレッドを削除しますか？</string>
+  <string name="confirm_delete_all_conversations">すべてのスレッドを削除しますか？</string>
   <string name="confirm_delete_conversation">この全スレッドを削除しますか？</string>
   <string name="confirm_delete_group_message">グループメッセージを削除しますか？</string>
   <string name="confirm_delete_locked_message">ロックされているこのメッセージを削除しますか？</string>
@@ -126,7 +126,7 @@
   <string name="delete_phrase">定型文を削除</string>
   <string name="delete_unlocked">ロックされたメッセージを削除</string>
   <string name="delete_wild_sims">番号を削除</string>
-  <string name="delete_wild_sims_confirm">選択した番号に属すメッセージはこの携帯端末から全て削除されます。削除したメッセージはmi.comで復元できます。</string>
+  <string name="delete_wild_sims_confirm">選択した番号に属すメッセージはこの携帯端末からすべて削除されます。削除したメッセージはmi.comで復元できます。</string>
   <string name="delete_wild_sims_title">選択した番号を削除</string>
   <string name="delivery_report_activity">受取確認通知</string>
   <string name="delivery_toast_body">"%sさん宛てのメッセージ"</string>
@@ -500,7 +500,7 @@
   <string name="resent_message">再送信</string>
   <string name="resize_image_error_information">この画像は大きすぎるため、サイズを変更しても送信できません</string>
   <string name="resource_price_free">無料</string>
-  <string name="restore_all_button_msg">この番号から送信されたメッセージを全て復元</string>
+  <string name="restore_all_button_msg">この番号から送信されたメッセージをすべて復元</string>
   <string name="restore_blocked_message">復元</string>
   <string name="restore_to_phone_memory_failed">"復元できませんでした"</string>
   <string name="restored_to_phone_memory">復元しました</string>
@@ -561,7 +561,7 @@
   <string name="service_not_activated">ネットワークでサービスが有効化されていません</string>
   <string name="set">設定</string>
   <string name="share_img">共有</string>
-  <string name="show_all_messages">全てのメッセージを表示</string>
+  <string name="show_all_messages">すべてのメッセージを表示</string>
   <string name="show_delivery_status">配送状況を表示</string>
   <string name="show_sender">送信者情報を表示</string>
   <string name="sim_card1">"SIMカード 1"</string>
@@ -593,10 +593,10 @@
   <string name="sp_category_bank">銀行通知メッセージ</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">通知</string>
-  <string name="sp_mark_as_read">全てのメッセージを既読としてマークしますか？</string>
+  <string name="sp_mark_as_read">すべてのメッセージを既読としてマークしますか？</string>
   <string name="sp_mark_as_read_menu_title">既読としてマーク</string>
   <string name="sp_mark_as_read_progress">作業中...</string>
-  <string name="sp_mark_as_read_title">全てに既読としてマーク</string>
+  <string name="sp_mark_as_read_title">すべてに既読としてマーク</string>
   <string name="status_failed">失敗</string>
   <string name="status_label">"ステータス: "</string>
   <string name="status_pending">保留</string>

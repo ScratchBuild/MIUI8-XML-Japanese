@@ -514,7 +514,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="imei">IMEI</string>
   <string name="imei_invalid">"無効なIMEI"</string>
   <string name="import_all_sim_entries_miui">"すべての連絡先をインポート"</string>
-  <string name="import_all_vcard_string">全てのvCardファイルをインポートする</string>
+  <string name="import_all_vcard_string">すべてのvCardファイルをインポートする</string>
   <string name="import_contact_card_aggregate_suggestion_button">"カードを統合"</string>
   <string name="import_contact_card_button">"連絡先をインポート"</string>
   <string name="import_failure_no_vcard_file">SDカード内にvCardファイルがありません。</string>
