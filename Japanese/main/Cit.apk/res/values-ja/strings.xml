@@ -33,9 +33,7 @@ Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_audio_cali_failed">Calibration Failed, please Retry!</string>
   <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
   <string name="cit_audio_cali_playing">Check Calibrated Data</string>
-  <string name="cit_audio_cali_q">Q:</string>
   <string name="cit_audio_cali_summary">Calibrate Speaker PA</string>
-  <string name="cit_audio_cali_t0">T0:</string>
   <string name="cit_audio_cali_title">Speaker PA Calibration Test</string>
   <string name="cit_audio_calibrating">Calibration is ongoing...</string>
   <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
@@ -107,8 +105,9 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_calibration_pass">Calibration passed</string>
   <string name="cit_camera_calibration_summary">"Test instructions:
 
-1.Tap the calibration button below to start OIS calibration.
-2.There will be a calibration pass label to indicate the ois has been calibrated"</string>
+1.Tap the calibration button below to enter Camera interface
+2.Press Back button to exit the camera interface
+3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
   <string name="cit_camera_sdcard_error">写真を撮影できません。SDカードがいっぱいです。</string>
   <string name="cit_charger_plugin_check_summary">When USB charger is connected the text \"Charging via USB/AC\" should be displayed below.</string>
   <string name="cit_charger_plugin_check_title">充電器(接続済み)</string>
@@ -299,9 +298,6 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_modem_mbn">Change Modem Config</string>
   <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
   <string name="cit_tool_nfc">NFC test tools</string>
-  <string name="cit_tool_nfc_ce_disable">Disable Ce</string>
-  <string name="cit_tool_nfc_ce_enable">Enable Ce</string>
-  <string name="cit_tool_nfc_ce_status">Ce Status:</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>
   <string name="cit_tool_nfc_st_confreq">freq:</string>
   <string name="cit_tool_nfc_st_run">Run</string>

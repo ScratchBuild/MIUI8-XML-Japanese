@@ -45,11 +45,11 @@
   <string name="accessibility_ringer_vibrate">バイブレーション着信。</string>
   <string name="accessibility_search_light">検索</string>
   <string name="accessibility_tty_enabled">テレタイプライターが有効です。</string>
-  <string name="accessibility_wifi_off">Wifi off.</string>
-  <string name="accessibility_wifi_one_bar">WLAN one bar.</string>
-  <string name="accessibility_wifi_signal_full">WLAN signal full.</string>
-  <string name="accessibility_wifi_three_bars">WLAN three bars.</string>
-  <string name="accessibility_wifi_two_bars">WLAN two bars.</string>
+  <string name="accessibility_wifi_off">Wi-FiはOFFです。</string>
+  <string name="accessibility_wifi_one_bar">Wi-Fi電波状態:レベル1</string>
+  <string name="accessibility_wifi_signal_full">Wi-Fi電波状態:フル</string>
+  <string name="accessibility_wifi_three_bars">Wi-Fi電波状態:レベル3</string>
+  <string name="accessibility_wifi_two_bars">Wi-Fi電波状態:レベル2</string>
   <string name="accessibility_wimax_one_bar">WiMAX電波状態:レベル1</string>
   <string name="accessibility_wimax_signal_full">WiMAX電波状態:フル</string>
   <string name="accessibility_wimax_three_bars">WiMAX電波状態:レベル3</string>

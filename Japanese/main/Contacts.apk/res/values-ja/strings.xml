@@ -21,7 +21,7 @@
   <string name="add_contact_dlg_message_fmt">\"%s\"を連絡先に追加しますか？</string>
   <string name="add_display_photo_entry">"プロフィール写真を追加"</string>
   <string name="add_field">"別の項目を追加"</string>
-  <string name="add_incall_show_entry">Add video</string>
+  <string name="add_incall_show_entry">"動画を追加"</string>
   <string name="add_new_account">"新しいアカウントを追加"</string>
   <string name="add_new_entry_for_section">"新しく追加"</string>
   <string name="add_organization">"所属を追加"</string>

@@ -73,7 +73,7 @@
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">画面の拡大を自動更新</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">画面の拡大</string>
   <string name="accessibility_toggle_speak_password_preference_title">パスワードの音声出力</string>
-  <string name="accessibility_wifi_off">Wifi off.</string>
+  <string name="accessibility_wifi_off">Wi-FiはOFFです。</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi電波状態:レベル1</string>
   <string name="accessibility_wifi_signal_full">Wi-Fi電波状態:フル</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi電波状態:レベル3</string>

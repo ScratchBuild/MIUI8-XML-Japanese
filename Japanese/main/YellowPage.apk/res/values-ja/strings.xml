@@ -404,7 +404,7 @@ Total: RMB %3$s"</string>
   <string name="turn_on_yellowpage_service_title">Caller IDをオンにする</string>
   <string name="upload_and_verify_fraud_num_off">Share unwanted calls info</string>
   <string name="upload_and_verify_fraud_num_on">Share unwanted calls info</string>
-  <string name="uploads_disabled">File uploads are disabled</string>
+  <string name="uploads_disabled">"ファイルのアップロードが無効になっています"</string>
   <string name="user_agreement2">" 利用規約"</string>
   <string name="user_agreement4">プライバシーポリシー</string>
   <string name="user_notice_identify_summary_format">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By using this service, you agree to our %1$s and %2$s."</string>
@@ -413,7 +413,7 @@ Total: RMB %3$s"</string>
   <string name="user_notice_yp_detail_summary_format">Some of your Caller ID info is outdated. Do you want to update it? By using this service, you agree to our %1$s and %2$s.</string>
   <string name="user_notice_yp_detail_summary_format_cta">Some of your Caller ID info is outdated. Do you want to update it? By using this service, you agree to our %1$s and %2$s.</string>
   <string name="view_orders">View orders</string>
-  <string name="voicemail">Voicemail</string>
+  <string name="voicemail">ボイスメール</string>
   <string name="web_permission_message">%1$s needs to view your %2$s to work as designed.</string>
   <string name="yellow_page_details">企業の詳細</string>
   <string name="yellow_page_website">公式ウェブサイト</string>

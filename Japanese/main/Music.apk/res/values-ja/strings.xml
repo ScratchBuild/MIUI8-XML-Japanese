@@ -195,7 +195,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_song_view_type_artist">By artist</string>
   <string name="dialog_song_view_type_folder">By folder</string>
   <string name="dialog_song_view_type_song">By song</string>
-  <string name="dialog_title_add_playlist">Add playlist</string>
+  <string name="dialog_title_add_playlist">"プレイリストに追加"</string>
   <string name="dialog_title_delete_tracks">"削除"</string>
   <string name="dialog_title_name_playlist">"プレイリスト名"</string>
   <string name="dialog_title_not_available">"ダウンロードできませんでした"</string>
@@ -262,7 +262,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_running">In progress</string>
   <string name="download_running_percent">In progress, %d%%</string>
   <string name="download_share_dialog">Share using</string>
-  <string name="download_speed_null"/>
   <string name="download_start">Starting download…</string>
   <string name="download_start_btn">"ダウンロード"</string>
   <string name="download_success">"完了"</string>
@@ -280,7 +279,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_while_playing_title">Download while streaming</string>
   <string name="downloaded_empty">Empty</string>
   <string name="downloading_empty">Empty</string>
-  <string name="downloads_operating">Working…</string>
+  <string name="downloads_operating">"作業中…"</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -304,7 +303,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="eq_classical">Classical</string>
   <string name="eq_country">Country</string>
   <string name="eq_dance">Dance</string>
-  <string name="eq_delete">Remove</string>
+  <string name="eq_delete">"削除"</string>
   <string name="eq_delete_success">"完了"</string>
   <string name="eq_electronic">Electronic</string>
   <string name="eq_flat">Flat</string>
