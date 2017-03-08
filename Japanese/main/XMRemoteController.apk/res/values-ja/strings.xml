@@ -245,7 +245,7 @@
   <string name="epg_edit_channel_title">Channel title</string>
   <string name="epg_edit_fav_channel_num">Edit channel number</string>
   <string name="epg_episode_open">"すべて表示"</string>
-  <string name="epg_event_search_hint">输入节目名称搜索</string>
+  <string name="epg_event_search_hint">"番組名を入力して検索"</string>
   <string name="epg_fav_channels">Favorite channel</string>
   <string name="epg_have_no_fav_channel">You have no favorite channels</string>
   <string name="epg_home_sliding_down">Sliding down</string>
@@ -469,7 +469,7 @@ Then answer the question"</string>
   <string name="match_stb_name_ok">OK</string>
   <string name="match_stb_name_up">Up</string>
   <string name="match_stb_seletion_des">Choose your location</string>
-  <string name="match_succuss">"You're all set"</string>
+  <string name="match_succuss">"設定が完了しました"</string>
   <string name="match_tip_eject">Does the eject button work?</string>
   <string name="match_tip_exit">Does the exit button work?</string>
   <string name="match_tip_ff">Does the fast forward button work?</string>

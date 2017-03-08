@@ -7,10 +7,10 @@ Messages will only appear in Second space."</string>
   <string name="PrivacyContactDes2">"If you used private messages in First space,
 this feature will be added to Second space automatically."</string>
   <string name="add_finger_print">"指紋認証を追加"</string>
-  <string name="air_space_created">Created Work space successfully</string>
-  <string name="air_space_deleted">Deleted Work space successfully</string>
-  <string name="air_space_exit">Exit space</string>
-  <string name="air_space_setting">Space Settings</string>
+  <string name="air_space_created">"Work spaceを作成しました"</string>
+  <string name="air_space_deleted">"Work spaceを削除しました"</string>
+  <string name="air_space_exit">"spaceを終了"</string>
+  <string name="air_space_setting">"Spaceの設定"</string>
   <string name="airspace_users_full">"Couldn't create more Work space"</string>
   <string name="appData">"インストール済みアプリ"</string>
   <string name="app_name">Security Core Component</string>
@@ -20,9 +20,9 @@ this feature will be added to Second space automatically."</string>
   <string name="changePassword">"パスワードを変更"</string>
   <string name="chooseDataTransfer">What should be done with Second space data?</string>
   <string name="chooseFile">"その他のファイルを選択"</string>
-  <string name="click_to_back_first_space">Tap to go back to First space</string>
+  <string name="click_to_back_first_space">"First spaceに戻るにはタップ"</string>
   <string name="click_to_switch">"表示するにはタップ"</string>
-  <string name="closePassword">Turn off password</string>
+  <string name="closePassword">"パスワードをオフにする"</string>
   <string name="closePasswordGuide">"You won't be able to enter Second space from Lock screen after you turn off password"</string>
   <string name="closeSecondSpace">"Second spaceを削除"</string>
   <string name="closeSecondSpaceSummary">"Second spaceをデータと共に削除する"</string>
@@ -31,7 +31,7 @@ this feature will be added to Second space automatically."</string>
   <string name="closed">Off</string>
   <string name="complete_setting">"完了"</string>
   <string name="complete_setting_sub_title">You can also come back later to adjust settings.</string>
-  <string name="complete_setting_title">"You're all set!"</string>
+  <string name="complete_setting_title">"設定が完了しました！"</string>
   <string name="confirm">OK</string>
   <string name="confirmClose">"オフにする"</string>
   <string name="confirmCloseSpaceDes">"You won't be able to enter Second space after you delete it. All data will be moved or deleted."</string>
@@ -44,14 +44,14 @@ this feature will be added to Second space automatically."</string>
   <string name="contact_sub_titile_text">Messaging data will be shared between the two spaces</string>
   <string name="contact_titile_text">"Show private messages in Second space
 to be able to view them anytime"</string>
-  <string name="contact_us">Contact us</string>
+  <string name="contact_us">"お問い合わせ"</string>
   <string name="continueButton">"続行"</string>
   <string name="createANewSpace">Create a separate space on your phone.</string>
   <string name="createUserFail">"作成できませんでした"</string>
   <string name="create_app_icon_failed">"アイコンを作成できませんでした"</string>
   <string name="create_app_icon_success">"アイコンが正常に作成されました"</string>
   <string name="create_space_loading">"Second spaceを作成中…"</string>
-  <string name="create_work_space">Create Work space</string>
+  <string name="create_work_space">"Work spaceを作成"</string>
   <string name="creating_app_icon">"アイコンを作成中…"</string>
   <string name="dataSafe">"Second spaceを使用するのは、二つの端末を持つようなものです。"</string>
   <string name="declare_dialog_title">"デュアルアプリについて"</string>
@@ -140,7 +140,7 @@ You can also download them separately."</string>
   <string name="notification_setting_second_space">Set up Second space</string>
   <string name="notification_setting_second_space_desc">Add Second space password and move data</string>
   <string name="ok_button">OK</string>
-  <string name="openPasswordGuard">Set Second space password</string>
+  <string name="openPasswordGuard">"Second spaceのパスワードを設定"</string>
   <string name="openSuccess">"オンにしました"</string>
   <string name="opened">On</string>
   <string name="other">"その他"</string>
@@ -187,8 +187,8 @@ to enter Second space from Lock screen"</string>
   <string name="second_space_finger_printf_title">Second space fingerprint</string>
   <string name="select_existed_fingerprint">Select fingerprint</string>
   <string name="serNameSummary">Second space</string>
-  <string name="setSecondSpacePassword">Set Second space password</string>
-  <string name="setSecondSpacePasswordGuide">Set Second space password</string>
+  <string name="setSecondSpacePassword">"Second spaceのパスワードを設定"</string>
+  <string name="setSecondSpacePasswordGuide">"Second spaceのパスワードを設定"</string>
   <string name="setSecondSpacePasswordGuideDes">Use this password to enter Second space from Lock screen</string>
   <string name="setSpacePasswordGuide">Use different passwords to enter both spaces from Lock screen</string>
   <string name="setSuccess">"パスワードの設定が完了しました"</string>
@@ -263,12 +263,12 @@ to enter Second space from Lock screen"</string>
   <string name="transferMessage">Messages from Second space will be moved to First space</string>
   <string name="tryNow">"今すぐ試す"</string>
   <string name="wating">"読み込み中…"</string>
-  <string name="xpsace_guide_button">Create</string>
+  <string name="xpsace_guide_button">"作成"</string>
   <string name="xspace_chocie">Dual app support</string>
   <string name="xspace_creating">"デュアルアプリを作成中…"</string>
   <string name="xspace_description">Create dual apps to use them separately. Dual apps will have specific Home screen icons.</string>
-  <string name="xspace_guide_des">Use 2 accounts without switching</string>
-  <string name="xspace_guide_title">Create Dual app for %s</string>
+  <string name="xspace_guide_des">"2つのアカウントを切り替えずに使用する"</string>
+  <string name="xspace_guide_title">"%sのデュアルアプリを作成"</string>
   <string name="xspace_header">"デュアルアプリ"</string>
   <string name="xspace_install_completed">"ホーム画面にアイコンを追加しました"</string>
   <string name="xspace_install_failed">"作成できませんでした"</string>

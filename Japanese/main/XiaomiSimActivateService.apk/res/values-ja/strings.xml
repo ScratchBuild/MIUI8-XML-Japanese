@@ -13,7 +13,7 @@
   <string name="activate_feature_mx_and_voip">Mi Message and Voice</string>
   <string name="activate_feature_register_xiaomi_account">"Mi Accountの設定"</string>
   <string name="activate_feature_remote_assist">"リモートアシスタント"</string>
-  <string name="activate_feature_verify_mx_token">Mi Account verification</string>
+  <string name="activate_feature_verify_mx_token">"Mi Accountの確認"</string>
   <string name="activate_history_canceled_overview">SIM card activation was canceled. Activation is triggered by \"%1$s\".</string>
   <string name="activate_history_multisim_canceled_overview">SIM card %2$d activation was canceled. Activation is triggered by \"%1$s\".</string>
   <string name="activate_history_multisim_success_overview">Activated SIM card %2$d successfully. Activation is triggered by \"%1$s\".</string>

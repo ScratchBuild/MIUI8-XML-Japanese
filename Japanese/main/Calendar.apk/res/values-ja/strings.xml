@@ -40,14 +40,14 @@
   <string name="birthday_event_description_a_week_ago">"1週間前"</string>
   <string name="birthday_event_description_a_week_later">"1週間後"</string>
   <string name="birthday_event_description_day_after_tomorrow">"明後日は"</string>
-  <string name="birthday_event_description_day_before_yesterday">The day before yesterday was</string>
+  <string name="birthday_event_description_day_before_yesterday">"一昨日は"</string>
   <string name="birthday_event_description_days_ago">%1$d days since</string>
   <string name="birthday_event_description_days_later">%1$d days until</string>
   <string name="birthday_event_description_special">"%1$s %2$s's %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">"今日は"</string>
   <string name="birthday_event_description_tomorrow">"明日は"</string>
   <string name="birthday_event_description_yesterday">"昨日は"</string>
-  <string name="birthday_metric">-year-old</string>
+  <string name="birthday_metric">"歳"</string>
   <string name="birthday_notification_age_term">%1$s%2$s</string>
   <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
@@ -135,7 +135,7 @@
   <string name="edit_event_choose_date">"日付を選択"</string>
   <string name="edit_event_confirm_message">"変更を破棄しますか？"</string>
   <string name="edit_event_countdown_name_empty_hint">"カウントダウンの内容を入力してください"</string>
-  <string name="edit_event_countdown_name_hint">Content</string>
+  <string name="edit_event_countdown_name_hint">"内容"</string>
   <string name="edit_event_from_label">"開始"</string>
   <string name="edit_event_input_year">"年を入力"</string>
   <string name="edit_event_label">"詳細"</string>
@@ -391,14 +391,14 @@
   <string name="subscribe_channel_bottom_hint">—— Xiaomiカレンダー ——</string>
   <string name="subscribe_channel_click_hint">订阅后可阅读</string>
   <string name="subscribe_channel_footer_button">"購読の管理"</string>
-  <string name="subscribe_channel_footer_desc">查看已订阅的内容，或进入管理进行退订</string>
-  <string name="subscribe_channel_footer_title">已订阅</string>
+  <string name="subscribe_channel_footer_desc">"登録した内容を表示、または購読を解除するための管理画面を開く"</string>
+  <string name="subscribe_channel_footer_title">"購読済み"</string>
   <string name="subscribe_channel_footer_view">"表示"</string>
   <string name="subscribe_channel_hint">"订阅适合自己的功能或服务，订阅后会展示在首页，
 你还可以在订阅后添加提醒，不错过每一个精彩！"</string>
   <string name="subscribe_channel_subscribe">"購読"</string>
   <string name="subscribe_channel_subscribing">"購読中"</string>
-  <string name="subscribe_channel_title">订阅频道</string>
+  <string name="subscribe_channel_title">"チャンネルを購読"</string>
   <string name="subscribing_card">"購読中"</string>
   <string name="swipe_up_guide_hint_text">"詳細を確認するには上にスワイプ"</string>
   <string name="synced">"同期済み"</string>

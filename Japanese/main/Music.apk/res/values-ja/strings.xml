@@ -262,7 +262,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_running">In progress</string>
   <string name="download_running_percent">In progress, %d%%</string>
   <string name="download_share_dialog">Share using</string>
-  <string name="download_start">Starting download…</string>
+  <string name="download_start">"ダウンロードを開始します…"</string>
   <string name="download_start_btn">"ダウンロード"</string>
   <string name="download_success">"完了"</string>
   <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
@@ -311,7 +311,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="eq_jazz">Jazz</string>
   <string name="eq_metal">Metal</string>
   <string name="eq_pop">Pop</string>
-  <string name="eq_preset_create">Create</string>
+  <string name="eq_preset_create">"作成"</string>
   <string name="eq_preset_format">User preset %d</string>
   <string name="eq_preset_hint">"エフェクト名"</string>
   <string name="eq_preset_rename">"名前を変更"</string>
@@ -325,10 +325,10 @@ is mainly provided by Ultimate Inc."</string>
   <string name="expired">Expired</string>
   <string name="expires">Expires this month:</string>
   <string name="fail_to_play">"曲を再生できません"</string>
-  <string name="favorite_canceled">Removed from favorites</string>
+  <string name="favorite_canceled">"お気に入りから削除しました"</string>
   <string name="favorite_playlist">Favorites</string>
   <string name="favorite_singer">Favorite artists</string>
-  <string name="favorite_succeed">Added to favorites</string>
+  <string name="favorite_succeed">"お気に入りに追加しました"</string>
   <string name="favorite_tracks">Favorites</string>
   <string name="favorites">Favorites</string>
   <string name="favourite_music_left_half">To add songs to this playlist, tap the</string>

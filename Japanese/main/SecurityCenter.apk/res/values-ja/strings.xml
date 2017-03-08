@@ -1606,12 +1606,12 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="warning_open_mi_sim">"Mi SIMをオンにする"</string>
   <string name="white_list_risk_app_header">"危険なアプリ: %d"</string>
   <string name="white_list_trojan_header">"トロイの木馬: %d"</string>
-  <string name="wifi_exception_summary">Test available WLAN networks</string>
-  <string name="wifi_exception_title">Test WLAN network</string>
-  <string name="wifi_item_status_connection_no">Not connected</string>
-  <string name="wifi_item_status_connection_yes">Connected</string>
+  <string name="wifi_exception_summary">"利用可能なWi-Fiネットワークをテストする"</string>
+  <string name="wifi_exception_title">"Wi-Fiネットワークのテスト"</string>
+  <string name="wifi_item_status_connection_no">"接続されていません"</string>
+  <string name="wifi_item_status_connection_yes">"接続済み"</string>
   <string name="wifi_item_title_arp_attack">ARP attacks</string>
-  <string name="wifi_item_title_connection">WLAN connection</string>
+  <string name="wifi_item_title_connection">"Wi-Fi接続"</string>
   <string name="wifi_item_title_dns">DNS server security</string>
   <string name="wifi_item_title_encryption">WLAN encryption</string>
   <string name="wifi_item_title_fake">Detect fake WLAN</string>
