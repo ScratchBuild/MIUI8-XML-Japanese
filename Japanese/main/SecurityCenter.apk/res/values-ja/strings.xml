@@ -838,6 +838,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
+  <string name="optimize_result_ads_close_text">Ad</string>
   <string name="optimize_result_button_cloudspace">Add cloud storage</string>
   <string name="optimize_result_button_consume_power_analysis">Scan battery</string>
   <string name="optimize_result_button_cooldown_now">Cool down</string>
@@ -1594,6 +1595,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
   <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
   <string name="use_immediately">Use</string>
+  <string name="virus_ad_icon_text">Ad</string>
   <string name="virus_already_update">Definitions are up to date</string>
   <string name="virus_dp_update_title">Definition updates</string>
   <string name="virus_scan">"ウイルススキャン"</string>

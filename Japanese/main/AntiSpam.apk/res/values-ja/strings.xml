@@ -153,7 +153,7 @@
   <string name="mark_harass_time_setting">Block numbers that have been reported as nuisances a specified number of times</string>
   <string name="mark_number_agent">Agent</string>
   <string name="mark_number_fraud">Fraud</string>
-  <string name="mark_number_harass">Harass</string>
+  <string name="mark_number_harass">Harassment</string>
   <string name="mark_number_info">"Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
   <string name="mark_number_sell">Telemarketer</string>
   <string name="mark_number_setting_guide_content1">Block calls from reported numbers?</string>

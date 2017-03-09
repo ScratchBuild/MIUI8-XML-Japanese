@@ -297,6 +297,7 @@
   <string name="empty_query_text_msg">"Don't know what to search for…"</string>
   <string name="empty_recommend_back">"戻る"</string>
   <string name="empty_recommend_face_page_view">"おすすめはありません"</string>
+  <string name="empty_relation">"Group name can't be blank"</string>
   <string name="enable_auto_upload_tip">This album will be removed from other albums after you turn on.</string>
   <string name="enable_auto_upload_title">"Mi Cloudとの同期をオンにする"</string>
   <string name="enable_cloud_for_sharing">Turn on Mi Cloud albums to view shared photos.</string>
@@ -395,7 +396,7 @@ Take more photos of your friends!"</string>
   <string name="ignore_alert_title">"このアルバムを非表示にしますか？"</string>
   <string name="ignore_face">Ignore this person</string>
   <string name="image_decode_failed">"Couldn't decode image"</string>
-  <string name="image_download_item_title">Download photo (%s)</string>
+  <string name="image_download_item_title">Download original file (%s)</string>
   <string name="image_invalid_path">Invalid path</string>
   <string name="image_not_found">"Couldn't find image"</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>

@@ -98,7 +98,7 @@
   <string name="clean_content_zero">None</string>
   <string name="clear_bigfiles">"大きいファイル、重複した写真、その他の古いアイテムを削除"</string>
   <string name="clear_immediately">"今すぐ消去"</string>
-  <string name="clear_safe_notify">Security notification bar</string>
+  <string name="clear_safe_notify">Notification shade widget</string>
   <string name="clip_board_history_desc">"コピー/切り取りした内容"</string>
   <string name="clipboard">"クリップボード"</string>
   <string name="close">"閉じる"</string>

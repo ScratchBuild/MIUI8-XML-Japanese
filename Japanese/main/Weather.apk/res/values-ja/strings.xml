@@ -79,10 +79,11 @@
   <string name="indices_title_sport">"運動"</string>
   <string name="indices_title_uv">"UV指数"</string>
   <string name="indices_title_visibility">"視程"</string>
+  <string name="information_manager_default_weather_bg">Default weather background</string>
   <string name="information_manager_extension">Weather extension</string>
   <string name="information_manager_information">"天気情報"</string>
   <string name="information_manager_wlan">"Wi-Fi接続されている時に表示"</string>
-  <string name="information_set">"スタートページの設定"</string>
+  <string name="information_set">"その他の設定"</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="install">"インストール"</string>
   <string name="international_detail_menu_title">"詳細"</string>

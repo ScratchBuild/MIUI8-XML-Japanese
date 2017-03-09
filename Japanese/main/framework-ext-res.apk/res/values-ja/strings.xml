@@ -39,10 +39,10 @@
   <string name="fm_record_smaple_prefix_miui">FM recording</string>
   <string name="force_exit_message">"%1$sを強制終了しました"</string>
   <string name="force_exit_skip_message">"%1$sはシステムで必要なため、終了することができません。"</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">You can return to your Home screen lightly tapping the Home button. Just go to Settings &gt; Additional settings &gt; Buttons and turn on Tap for Home screen.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">You can return to your Home screen by lightly tapping the Home button. You can turn this feature on and off in Settings &gt; Additional settings &gt; Buttons &gt; Tap Home button to go back to Home screen.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">"後で"</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">"設定を開く"</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Quick tap to Home screen</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">"オンにする"</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Turn on Quick tap</string>
   <string name="frequent_phrases">"よく使うフレーズ"</string>
   <string name="global_actions_airplane_mode">"機内モード"</string>
   <string name="global_actions_reboot">"再起動"</string>

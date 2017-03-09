@@ -81,7 +81,7 @@
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">"%1$s's conference call"</string>
   <string name="conference_caller_name_me">Me</string>
-  <string name="conference_callers_exceeded">Callers in conference exceeded</string>
+  <string name="conference_callers_exceeded">"Can't add more people"</string>
   <string name="contacts_icon_label">"連絡先"</string>
   <string name="description_image_button_answer">"応答"</string>
   <string name="description_image_button_dialpad">"ダイヤルパッド"</string>

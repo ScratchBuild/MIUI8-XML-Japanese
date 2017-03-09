@@ -4,7 +4,6 @@
   <string name="action_mode_deselect_all">"すべて選択を解除"</string>
   <string name="action_mode_select_all">"すべて選択"</string>
   <string name="activity_parse_video_title">"動画のリンクを貼り付け"</string>
-  <string name="activity_rule">"ルール"</string>
   <string name="ad_download">"ダウンロード"</string>
   <string name="ad_downloading">"読み込み中…"</string>
   <string name="add_follow">Follow</string>
@@ -107,6 +106,10 @@
   <string name="comment_added_tip">"あなたは多くのコメントを追加しています。このユーザーをフォローしますか？"</string>
   <string name="comment_delete_message">"コメントは完全に削除されます。"</string>
   <string name="comment_delete_title">"コメントを削除"</string>
+  <string name="comment_fail">"Couldn't publish comment, try again"</string>
+  <string name="comment_fail_banned_forever">"You've been permanently banned for inappropriate comments. Contact our QQ group (374463568) for more information."</string>
+  <string name="comment_fail_banned_forever_positive">Got it</string>
+  <string name="comment_fail_banned_temporary">"You've been temporarily banned for inappropriate comments"</string>
   <string name="comment_hint">"コメントを追加"</string>
   <string name="comment_reply">Reply %1$s: </string>
   <string name="compress_fail">"圧縮できませんでした。同じ名前のファイルが既に存在します。"</string>
@@ -309,7 +312,6 @@
   <string name="message_praise_video">" liked this video"</string>
   <string name="message_reply_prefix">Reply</string>
   <string name="message_reply_suffix">": "</string>
-  <string name="message_title">My messages</string>
   <string name="mi_router_label">"ルーター"</string>
   <string name="midrop_msg_1">Turn on Mi Drop on the other device</string>
   <string name="midrop_msg_2">When Mi Drop is on, you can search for devices nearby and send files</string>
@@ -417,14 +419,10 @@
   <string name="original_user_signal">Talent team</string>
   <string name="original_user_title">Congratulations on becoming a member of the Talent team!</string>
   <string name="original_user_verify">• Thank you for sticking around!</string>
-  <string name="other_user_fans_tab">Fans</string>
   <string name="other_user_follow_tab">Following</string>
   <string name="other_user_liked_topic_tip">No topics</string>
-  <string name="other_user_liked_video_tab">Favorites</string>
   <string name="other_user_no_follow_tip">"You haven't followed anyone yet."</string>
   <string name="other_user_no_liked_video_tip">No videos liked.</string>
-  <string name="other_user_topic_tab">Topics</string>
-  <string name="other_user_video_tab">Uploads</string>
   <string name="partial_cancel_successful">"Couldn't remove some files. Moved the rest of the files to %s."</string>
   <string name="partial_delete_failure">"Couldn't delete some files, try again"</string>
   <string name="partial_encrypt_success">"Couldn't hide some files, try again"</string>
@@ -549,7 +547,6 @@
   <string name="select_video">Video files</string>
   <string name="select_volume">Select volume</string>
   <string name="send_comment">"送信"</string>
-  <string name="send_error">"コメントを追加できませんでした"</string>
   <string name="send_sticker">"ステッカーを送信"</string>
   <string name="send_to_qq">"QQに送信"</string>
   <string name="send_to_weixin">"WeChatに送信"</string>
@@ -582,10 +579,6 @@
   <string name="share_to">Share to…</string>
   <string name="share_topic_desc">Upload videos to get prizes</string>
   <string name="share_topic_title">"I'm watching #%1$s#, take a look!"</string>
-  <string name="share_youliao1">Upgrade to watch more episodes.</string>
-  <string name="share_youliao2">Upgrade to watch more episodes.</string>
-  <string name="share_youliao3">Upgrade to watch more episodes.</string>
-  <string name="share_youliao4">Upgrade to watch more episodes.</string>
   <string name="shared_sticker_network_permission_tip">"ネットワークに接続できませんでした。ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="shared_sticker_page_no_file">"ネットワークに接続できませんでした。ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="shared_sticker_str">Recent</string>
@@ -644,7 +637,6 @@
   <string name="topic_follow">Follow</string>
   <string name="topic_followed">Following</string>
   <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
-  <string name="topic_winners">Previous winners</string>
   <string name="transfer_done">Files moved successfully.</string>
   <string name="transfer_private_data">Moving hidden folders from SD card…</string>
   <string name="type_not_support">"This file format isn't supported. Unpack this file and try again."</string>
@@ -660,7 +652,6 @@
   <string name="unlogin">"初めにログイン"</string>
   <string name="unmount_inform_text">Unmount USB storage?</string>
   <string name="unreviewed_video_cannot_share">Videos should be reviewed before sharing</string>
-  <string name="update">"更新"</string>
   <string name="update_failed">"保存できませんでした、もう一度お試しください"</string>
   <string name="update_loading">"保存中…"</string>
   <string name="upload_avatar_camera">Camera</string>
@@ -700,12 +691,10 @@
   <string name="user_icon">"プロフィール写真"</string>
   <string name="user_id_tip">ID: </string>
   <string name="user_info_setting">"情報を編集"</string>
-  <string name="user_like_text">Likes</string>
   <string name="user_liked_video_title">Videos I liked</string>
   <string name="user_login_dialog_cancle">"キャンセル"</string>
   <string name="user_login_dialog_tip">Sign in to upload videos, participate in rankings, and win awards</string>
   <string name="user_login_dialog_title">"ログイン"</string>
-  <string name="user_message_text">"メッセージ"</string>
   <string name="user_nickname">"ニックネーム"</string>
   <string name="user_nickname_limit">"ニックネームは4～20文字以内に収める必要があります"</string>
   <string name="user_no_fans_tip">No followers</string>
@@ -738,7 +727,6 @@
   <string name="user_sex">"性別"</string>
   <string name="user_sign">Signature</string>
   <string name="user_topic_text">My topics</string>
-  <string name="user_upload_text">Uploads</string>
   <string name="user_video_text">My videos</string>
   <string name="utf8_summary">System FTP default encoding</string>
   <string name="utf8_title">UTF-8</string>
@@ -805,9 +793,6 @@
   <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">"WeChatがインストールされていません"</string>
   <string name="weixin_sticker_tag_str">"ステッカー"</string>
-  <string name="welcome_to_my_page">Welcome to my home page</string>
-  <string name="welcome_to_my_page_1">Follow me!</string>
-  <string name="welcome_to_my_page_2">Follow me!</string>
   <string name="wifi_state">"Wi-Fiネットワーク"</string>
   <string name="wxcircle_platform">Moments</string>
   <string name="xiaomi_btn_bind">Mi Account</string>
@@ -826,9 +811,5 @@
 Join 170 million Mi Fans!"</string>
   <string name="youliao_ad_title">Popular videos have been upgraded!</string>
   <string name="youliao_ad_update">"更新"</string>
-  <string name="youliao_dialog_msg">"Popular videos were replaced with \"Youliao\" 
-which is an app dedicated to bringing you more fun!"</string>
-  <string name="youliao_dialog_title">No interesting videos?</string>
   <string name="youliao_master_rank">Youliao top</string>
-  <string name="zero">0</string>
 </resources>

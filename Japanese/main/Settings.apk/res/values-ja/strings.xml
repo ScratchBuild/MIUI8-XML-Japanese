@@ -844,6 +844,7 @@
   <string name="confirm_erase">消去する</string>
   <string name="confirm_fingerprint_icon_content_description">続行するには指紋認証を使用してください。</string>
   <string name="confirm_fingerprint_msg">指をセンサーに当ててください</string>
+  <string name="confirm_install_and_connect">Install &amp; connect</string>
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
   <string name="confirm_privacy_password">プライバシー保護パスワードを入力</string>
   <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護パスワードを入力</string>
@@ -1411,8 +1412,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="firmware_version">Androidバージョン</string>
   <string name="floating_window_switch_label">フローティングウィンドウを有効にする</string>
   <string name="floating_window_switch_label_disable">フローティングウィンドウを無効にする</string>
-  <string name="fluency_mode">システムアニメーション</string>
-  <string name="fluency_mode_confirm_and_reboot">今すぐ再起動</string>
   <string name="font_size_exhuge">Extra Huge</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Larger</string>
@@ -2143,7 +2142,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear Headphones (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Diracオフ</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -2783,7 +2782,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="runtime_permissions_summary_no_permissions_requested">リクエストされた権限はありません</string>
   <string name="save">保存</string>
   <string name="saved_network">%1$sで保存</string>
-  <string name="saved_wifi">保存されたネットワーク</string>
+  <string name="saved_wifi">保存されたネットワークの管理</string>
   <string name="saved_wifi_delete">削除</string>
   <string name="scan_list_label">スキャン結果:</string>
   <string name="screen">画面</string>

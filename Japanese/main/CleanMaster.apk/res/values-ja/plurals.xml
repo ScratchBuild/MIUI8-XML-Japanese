@@ -86,7 +86,7 @@
         <item quantity="one">"Couldn't export %d video. Free up space and try again."</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">（%1$d empty files）%2$s</item>
-        <item quantity="one">（%1$d empty file）%2$s</item>
+        <item quantity="other">(%1$d empty files) %2$s</item>
+        <item quantity="one">(%1$d empty file) %2$s</item>
     </plurals>
 </resources>

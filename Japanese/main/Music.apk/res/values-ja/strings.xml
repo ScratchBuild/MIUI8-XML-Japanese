@@ -337,15 +337,15 @@ is mainly provided by Ultimate Inc."</string>
   <string name="file_not_found">"ファイルが存在しません"</string>
   <string name="filter_by_duration">By length</string>
   <string name="filter_by_duration_format">"%2$d分%5$2d秒"</string>
-  <string name="filter_by_duration_max">"5分"</string>
-  <string name="filter_by_duration_min">"0秒"</string>
+  <string name="filter_by_duration_max">"%d分"</string>
+  <string name="filter_by_duration_min">"%d秒"</string>
   <string name="filter_by_duration_prefix">"Hide files shorter than "</string>
   <string name="filter_by_duration_summary">Hide short audio files</string>
   <string name="filter_by_folder">By folder</string>
   <string name="filter_by_folder_summary">Choose folders to display</string>
   <string name="filter_by_size">By size</string>
-  <string name="filter_by_size_max">2MB</string>
-  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_max">%dMB</string>
+  <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Hide files smaller than "</string>
   <string name="filter_by_size_summary">Hide small audio files</string>
   <string name="find_music">Discover songs</string>
@@ -455,7 +455,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="lyric_setting">"歌詞設定"</string>
   <string name="male_artist">"男性アーティスト"</string>
   <string name="manager_cloud_space">"Mi Cloudのストレージを管理する"</string>
-  <string name="max_sleep_time">90</string>
+  <string name="max_sleep_time">%d</string>
   <string name="media_filter">"メディア"</string>
   <string name="menu_all_task_pause">"すべて中断"</string>
   <string name="menu_all_task_start">"すべて開始"</string>
@@ -478,7 +478,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="metered_serious_alert_msg_with_data">"モバイルデータの残りは %s です。モバイルデータを使用して曲を再生しますか？"</string>
   <string name="metered_serious_allow">"とにかく再生"</string>
   <string name="milink_unavaliable_please_update">"Mi Link isn't available. Update MIUI."</string>
-  <string name="min_sleep_time">1</string>
+  <string name="min_sleep_time">%d</string>
   <string name="missing_title">"&lt;不明>"</string>
   <string name="miui_music">Mi Music</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>

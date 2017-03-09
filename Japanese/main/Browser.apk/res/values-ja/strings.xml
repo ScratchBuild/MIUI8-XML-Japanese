@@ -324,7 +324,7 @@ Pages you view won't appear in history."</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">"ホーム画面に設置しました"</string>
   <string name="hint">"ヒント"</string>
-  <string name="history_saved_webpage">"ページを保存"</string>
+  <string name="history_saved_webpage">"保存したページ"</string>
   <string name="homepage_base">https://www.google.co.jp/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">"削除"</string>
   <string name="homepage_get_location">"位置情報を取得"</string>

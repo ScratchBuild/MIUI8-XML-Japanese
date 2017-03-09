@@ -305,6 +305,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_content_battery_low">Battery is too low.</string>
   <string name="micloud_notif_content_clipboard_push">You can paste it anywhere.</string>
   <string name="micloud_notif_content_depend_wifi">Connect to WLAN to sync.</string>
+  <string name="micloud_notif_content_dirty_data">Detail</string>
   <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
   <string name="micloud_notif_content_memory_low">十分な空き領域がありません。</string>
   <string name="micloud_notif_content_multi_user_error">You signed in with the same account as in First space.</string>
@@ -313,6 +314,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
   <string name="micloud_notif_title_battery_low">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_clipboard_push">クリップボードにコピーしました</string>
+  <string name="micloud_notif_title_dirty_data">You have data not synced</string>
   <string name="micloud_notif_title_master_depend_wifi">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_memory_low">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_multi_user_error">"Mi Cloudと同期できません"</string>
@@ -361,7 +363,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
   <string name="micloud_upgrade_member">Get more storage space</string>
-  <string name="micloud_upgrade_space">Get more storage space</string>
+  <string name="micloud_upgrade_space">Get storage</string>
   <string name="micloud_user_space_title">Storage space</string>
   <string name="micloud_user_space_usage">Storage space</string>
   <string name="micloud_warn_full_sum">"New items won't be synced with Mi Cloud."</string>

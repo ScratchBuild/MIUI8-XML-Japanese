@@ -9,16 +9,16 @@
         <item quantity="one">"%1$d日後"</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">"%d分"</item>
-        <item quantity="one">"1分"</item>
+        <item quantity="other">"%d分前"</item>
+        <item quantity="one">"1分前"</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">"%d時間"</item>
-        <item quantity="one">"1時間"</item>
+        <item quantity="other">"%d時間前"</item>
+        <item quantity="one">"1時間前"</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">"%d日"</item>
-        <item quantity="one">"1日"</item>
+        <item quantity="other">"%d日前"</item>
+        <item quantity="one">"1日前"</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">"第%d週"</item>
@@ -64,7 +64,7 @@
         <item quantity="one">day</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">days later</item>
-        <item quantity="one">day later</item>
+        <item quantity="other">days left</item>
+        <item quantity="one">day left</item>
     </plurals>
 </resources>

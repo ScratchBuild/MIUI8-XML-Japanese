@@ -232,14 +232,6 @@
         <item quantity="few">followers</item>
         <item quantity="many">followers</item>
     </plurals>
-    <plurals name="user_upload_items">
-        <item quantity="other">videos</item>
-        <item quantity="zero">videos</item>
-        <item quantity="one">video</item>
-        <item quantity="two">videos</item>
-        <item quantity="few">videos</item>
-        <item quantity="many">videos</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> videos</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> video</item>

@@ -91,7 +91,8 @@
   <string name="badPin2">"これまでのPIN2が正しくありません。もう一度お試しください。"</string>
   <string name="badPuk2">"PUK2が正しくありません。もう一度お試しください。"</string>
   <string name="bad_pin">入力したPINが不正です。</string>
-  <string name="bad_pin2">入力した古いPIN2が不正です。</string>
+  <string name="bad_pin2">入力したPIN2が不正です。</string>
+  <string name="bad_pin2_old">入力した古いPIN2が不正です。</string>
   <string name="bad_puk">入力したPUKが不正です。</string>
   <string name="bad_puk2">入力したPUK2が不正です。</string>
   <string name="bf_news_settings">ビジネス金融ニュース</string>

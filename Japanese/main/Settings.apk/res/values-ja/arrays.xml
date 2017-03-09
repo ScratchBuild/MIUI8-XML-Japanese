@@ -731,17 +731,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2分</item>
         <item>5分</item>
     </string-array>
-    <string-array name="fluency_mode_entries">
-        <item>システムアニメーションを隠す</item>
-        <item>システムアニメーションを表示</item>
-    </string-array>
-    <string-array name="fluency_mode_summaries">
-        <item>デバイスのパフォーマンスを高速化します</item>
-        <item>デバイスのパフォーマンスが低下する可能性があります</item>
-    </string-array>
-    <string-array name="fluency_mode_confirms">
-        <item>変更を反映するために端末を再起動しますか？</item>
-        <item>変更を反映するために端末を再起動しますか？</item>
     </string-array>
     <string-array name="screen_resolution_entries">
         <item>最高 (2K)</item>
