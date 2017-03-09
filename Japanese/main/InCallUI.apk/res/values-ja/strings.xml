@@ -26,7 +26,7 @@
   <string name="callFailed_powerOff">無線通信OFF</string>
   <string name="callFailed_server_error">"サーバーエラー: しばらくしてからもう一度お試しください。"</string>
   <string name="callFailed_server_unreachable">"サーバーに接続できません"</string>
-  <string name="callFailed_simError">SIM card error</string>
+  <string name="callFailed_simError">"SIMカードのエラー"</string>
   <string name="callFailed_timedOut">"サーバーからの応答がありません"</string>
   <string name="callFailed_unobtainable_number">"無効な番号"</string>
   <string name="callFailed_userBusy">"回線がビジー"</string>
@@ -51,7 +51,7 @@
   <string name="call_recording_notification_message_sd_unmounted">"SDカードが取り外されました。"</string>
   <string name="call_recording_notification_title">"通話の録音を開始しました"</string>
   <string name="call_recording_notification_title_error">"通話を録音できませんでした"</string>
-  <string name="call_title_redialing_with_times">Redialed %d times</string>
+  <string name="call_title_redialing_with_times">"リダイヤル %d回"</string>
   <string name="caller_manage_header">"グループ通話 %s"</string>
   <string name="calling_via_template">"%sで発信中"</string>
   <string name="can_not_call_oneself">"この番号に発信できません"</string>
@@ -89,8 +89,8 @@
   <string name="description_image_button_five">"5"</string>
   <string name="description_image_button_four">"4"</string>
   <string name="description_image_button_hangup">"電話を切る"</string>
-  <string name="description_image_button_message_enter">Reply with message</string>
-  <string name="description_image_button_message_exit">Hide messages</string>
+  <string name="description_image_button_message_enter">"メッセージで返信"</string>
+  <string name="description_image_button_message_exit">"メッセージを隠す"</string>
   <string name="description_image_button_nine">"9"</string>
   <string name="description_image_button_one">"1"</string>
   <string name="description_image_button_pound">"ポンド"</string>

@@ -5,7 +5,6 @@
   <string name="SMTP_username_text">"ユーザー名"</string>
   <string name="accessibility_guide_first">In the next screen, select the \"Services\" tab to activate the 139 Mailbox Automatical Configuring</string>
   <string name="accessibility_guide_second">Then click the switch on the top right corner, click the \"Confirm\" to continue.</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"このユーザー名はアカウント「%s」で既に使用しています。"</string>
   <string name="account_duplicate_dlg_title">"重複するアカウント"</string>
   <string name="account_name_toast">"同じ名前のアカウントが既に存在します"</string>
@@ -167,11 +166,11 @@
   <string name="att_download_failed_title">"添付ファイルをダウンロードできません"</string>
   <string name="att_file_not_exists">"%sが見つかりませんでした"</string>
   <string name="att_mgr_no_attachment">"添付ファイルなし。"</string>
-  <string name="att_mgr_title_order_mime">Format</string>
-  <string name="att_mgr_title_order_name">Name</string>
-  <string name="att_mgr_title_order_rev_date">Date</string>
-  <string name="att_mgr_title_order_sender">Sender</string>
-  <string name="att_mgr_title_order_size">File size</string>
+  <string name="att_mgr_title_order_mime">"種類"</string>
+  <string name="att_mgr_title_order_name">"名前"</string>
+  <string name="att_mgr_title_order_rev_date">"日時"</string>
+  <string name="att_mgr_title_order_sender">"送信者"</string>
+  <string name="att_mgr_title_order_size">"サイズ"</string>
   <string name="attached_message">Attached message</string>
   <string name="attachment_application_msword">ドキュメント</string>
   <string name="attachment_application_pdf">PDF</string>
@@ -310,7 +309,6 @@
   <string name="contextmenu_send_mail">"メールを送信"</string>
   <string name="contextmenu_sharelink">"リンクを共有"</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">"%1$sに移動しました"</string>
   <string name="conversation_item_mark_read">"既読"</string>
   <string name="conversation_item_mark_unread">"未読"</string>
@@ -414,7 +412,7 @@
   <string name="feedback_user_edit_hint">Describe the issue here. We will send you an email after we look into it.</string>
   <string name="feedback_user_edit_tag">From MIUI </string>
   <string name="fetch_bank_sender_list_failure">"情報を取得できませんでした"</string>
-  <string name="fetching_attachment">Getting attachment</string>
+  <string name="fetching_attachment">"添付ファイルを取得中"</string>
   <string name="file_deleted_success">"ファイルを削除しました"</string>
   <string name="file_not_found">"ファイルが見つかりませんでした"</string>
   <string name="file_not_found_redownload">"ファイルが見つかりませんでした"</string>
@@ -439,7 +437,7 @@
   <string name="folder_list_display_all">"すべてのフォルダを表示"</string>
   <string name="folder_list_display_only_import">重要なフォルダのみ表示</string>
   <string name="folder_picker_title">"フォルダを選択"</string>
-  <string name="folder_removed">Removed from %1$s</string>
+  <string name="folder_removed">"%1$sから削除しました"</string>
   <string name="folder_sent_name_cn0">已发送</string>
   <string name="folder_sent_name_cn1">已发邮件</string>
   <string name="folder_sent_name_cn2">已发送邮件</string>
@@ -466,7 +464,6 @@
   <string name="forward_attribution_no_headers">---------- Forwarded message ----------</string>
   <string name="forward_download_failed_ticker">"添付ファイルを転送できませんでした。"</string>
   <string name="forward_download_failed_title">"添付ファイルを転送できません"</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="free_period_text">Interest-free period</string>
   <string name="from_heading">"From: "</string>
   <string name="general_preference_confirm_delete_label">"削除前に確認する"</string>
@@ -540,14 +537,6 @@
   <string name="mailbox_name_display_starred">"スター付き"</string>
   <string name="mailbox_name_display_trash">"ゴミ箱"</string>
   <string name="mailbox_name_display_unread">"未読"</string>
-  <string name="mailbox_name_server_all_unread">"未読"</string>
-  <string name="mailbox_name_server_drafts">"下書き"</string>
-  <string name="mailbox_name_server_inbox">"受信トレイ"</string>
-  <string name="mailbox_name_server_junk">"迷惑メール"</string>
-  <string name="mailbox_name_server_outbox">"送信トレイ"</string>
-  <string name="mailbox_name_server_sent">"送信済み"</string>
-  <string name="mailbox_name_server_starred">"スター付き"</string>
-  <string name="mailbox_name_server_trash">"ゴミ箱"</string>
   <string name="mailbox_settings_activity_title">"同期オプション"</string>
   <string name="mailbox_settings_activity_title_with_mailbox">"同期オプション（%s）"</string>
   <string name="mailbox_settings_mailbox_sync_window_label">"同期するメールの日数"</string>
@@ -580,15 +569,15 @@
   <string name="meeting_where">"場所: %s"</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">"添付ファイル"</string>
-  <string name="menu_att_mgr_order_mime">Sort by format</string>
-  <string name="menu_att_mgr_order_name">Sort by name</string>
-  <string name="menu_att_mgr_order_rev_date">Sort by date received</string>
-  <string name="menu_att_mgr_order_size">Sort by size</string>
+  <string name="menu_att_mgr_order_mime">"種類順"</string>
+  <string name="menu_att_mgr_order_name">"名前順"</string>
+  <string name="menu_att_mgr_order_rev_date">"受信日時順"</string>
+  <string name="menu_att_mgr_order_size">"サイズ順"</string>
   <string name="menu_change_folders">"移動"</string>
   <string name="menu_compose">"作成"</string>
   <string name="menu_contact_edit">"編集"</string>
   <string name="menu_discovery">Discover</string>
-  <string name="menu_folder_options">Sync options</string>
+  <string name="menu_folder_options">"同期オプション"</string>
   <string name="menu_move_to">"移動"</string>
   <string name="menu_move_to_inbox">"受信トレイに移動"</string>
   <string name="menu_photo_save_all">"すべて保存"</string>
@@ -690,7 +679,7 @@ Try switching to a different email account."</string>
   <string name="overlays_ok">Open permissions</string>
   <string name="overlays_tip">Open floating Windows permissions, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
   <string name="overlays_title">Open floating Windows permissions</string>
-  <string name="parase_setup_data">Getting data…</string>
+  <string name="parase_setup_data">"データを取得中…"</string>
   <string name="password_expire_warning_content_title">"解除パスワードの期限切れが間近"</string>
   <string name="password_expire_warning_dialog_content_fmt">"ロック解除PINまたはパスワードを変更しないと、まもなく%sのデータが消去されます。今すぐ変更しますか？"</string>
   <string name="password_expire_warning_dialog_title">"ロック解除パスワードの有効期限が間近です"</string>
@@ -754,7 +743,6 @@ to receive reminders about payments and trips"</string>
   <string name="policy_screen_timeout">"画面ロック前のアイドル時間を設定する"</string>
   <string name="policy_text_truncation">"テキストメールのサイズを制限する"</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">list</string>
   <string name="preference_eas_tips">Tap Activate to set up mail server.</string>
   <string name="preference_pop_tips">In POP3, attachments will be automatically downloaded with email. This may increase your mobile data usage.</string>
   <string name="preference_sender_image_description">"受信トレイで送信者名の横にプロフィール画像を表示する"</string>
@@ -857,10 +845,6 @@ to receive reminders about payments and trips"</string>
   <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
   <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">"フィッシングを報告"</string>
-  <string name="report_rendering_improvement">Looks good</string>
-  <string name="report_rendering_improvement_desc">This message looks good.</string>
-  <string name="report_rendering_problem">Looks bad</string>
-  <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">"スパムを報告"</string>
   <string name="request_entity_large">"ファイルが大きすぎます"</string>
   <string name="request_permission_activity">Permission Request</string>

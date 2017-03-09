@@ -258,76 +258,11 @@
   <string name="installed">"インストール済み"</string>
   <string name="installing">"インストール中"</string>
   <string name="item_title_process_mode">Choose an action</string>
-  <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
-  <string name="junk_tag_RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
-  <string name="junk_tag_RF_DemoVideo_LG">LG手机演示用视频</string>
-  <string name="junk_tag_RF_DemoVideo_MIUI">小米手机品牌展示视频</string>
-  <string name="junk_tag_RF_DemoVideo_Samsung">三星手机演示用视频</string>
-  <string name="junk_tag_RF_DemoVideo_Sony">索尼手机演示用视频</string>
   <string name="junk_tag_RF_EmptyFolders">Empty folders</string>
   <string name="junk_tag_RF_ImageThumbnails">Gallery Thumbnails</string>
-  <string name="junk_tag_RF_LibsDirFiles">无用的数据文件</string>
   <string name="junk_tag_RF_LogFiles">"ログファイル"</string>
   <string name="junk_tag_RF_LostDirFiles">无用的系统文件</string>
-  <string name="junk_tag_RF_MFCacheDirFiles">无用的缓存文件</string>
-  <string name="junk_tag_RF_TaobaoLogFiles">手机淘宝的日志文件</string>
   <string name="junk_tag_RF_TempFiles">临时文件</string>
-  <string name="junk_tag_RF_WechatDownload">微信下载表情时的临时文件</string>
-  <string name="junk_tag_big_file_from_name_album">相册</string>
-  <string name="junk_tag_big_file_from_name_baidu">百度地图</string>
-  <string name="junk_tag_big_file_from_name_baofeng">暴风影音</string>
-  <string name="junk_tag_big_file_from_name_bluetoothfiles">蓝牙目录</string>
-  <string name="junk_tag_big_file_from_name_camerafiles">系统相册目录</string>
-  <string name="junk_tag_big_file_from_name_downloads">下载目录</string>
-  <string name="junk_tag_big_file_from_name_fmt">来自%s</string>
-  <string name="junk_tag_big_file_from_name_musicfiles">音乐目录</string>
-  <string name="junk_tag_big_file_from_name_sdcard">存储卡根目录</string>
-  <string name="junk_tag_big_file_from_name_videofiles">视频目录</string>
-  <string name="junk_tag_big_file_mergedfile_desc_aura">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_baidumap">它是百度地图下载的地图，&lt;font color=#d64438 &gt;清理后需要重新下载才能离线使用&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_baofeng">这是暴风影音下载的视频，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_downloader">它是使用Downloader下载的文件，&lt;font color=#d64438 &gt;清理后文件会被删除&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_duokan">这是多看阅读中的我的书架书籍，&lt;font color=#d64438 &gt;清理后将无法查看&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_goapk">这是安智市场中下载的安装包，&lt;font color=#d64438 &gt;清理后将无法使用&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_googletransfer">它是翻译下载的离线语言包，&lt;font color=#d64438 &gt;清理后需要联网重新下载才能离线使用&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_navitel">它是Navitel下载的地图，&lt;font color=#d64438 &gt;清理后下载的 地图会被删除，需要联网重新下载&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_sygic">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_ucbrowser">这是UC Browser的可离线阅读的小说，&lt;font color=#d64438 &gt;清理后可离线阅读的小说会被删除&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_vk">它是使用VK播放音乐的时候缓存的语音文件，&lt;font color=#d64438 &gt;清理后不能离线收听&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_desc_yandex">它是使用Яндекс.Маркет下载的所有地图，&lt;font color=#d64438 &gt;清理后不能离线使用&lt;/font&gt;</string>
-  <string name="junk_tag_big_file_mergedfile_name_aura">下载的地图(Sygic)</string>
-  <string name="junk_tag_big_file_mergedfile_name_downloader">下载的文件(Downloader)</string>
-  <string name="junk_tag_big_file_mergedfile_name_duokan">我的书架书籍(多看)</string>
-  <string name="junk_tag_big_file_mergedfile_name_goapk">下载的安装包(安智市场)</string>
-  <string name="junk_tag_big_file_mergedfile_name_googletransfer">下载的离线语言包(Google 翻译)</string>
-  <string name="junk_tag_big_file_mergedfile_name_navitel">下载的地图(Navitel)</string>
-  <string name="junk_tag_big_file_mergedfile_name_sygic">下载的地图(Sygic)</string>
-  <string name="junk_tag_big_file_mergedfile_name_ucbrowser">可离线阅读的小说(UC浏览器)</string>
-  <string name="junk_tag_big_file_mergedfile_name_vk">保存的语音文件(VK播放)</string>
-  <string name="junk_tag_big_file_mergedfile_name_yandex">下载的地图(Yandex)</string>
-  <string name="junk_tag_big_file_type_apk">%1$s安装包(V%2$s)</string>
-  <string name="junk_tag_big_file_type_font">[字体]%1$s</string>
-  <string name="junk_tag_big_file_type_gamedata_obb">%1$s的数据包</string>
-  <string name="junk_tag_big_file_type_map_baidu">%1$s离线地图</string>
-  <string name="junk_tag_junk_android_data_2nd_card_left_overs">软件卸载后残留文件</string>
-  <string name="junk_tag_junk_big_name_android_data_google_file">翻译数据文件</string>
-  <string name="junk_tag_junk_big_name_c_thumbnails">相册缩略图</string>
-  <string name="junk_tag_junk_big_name_d_100media">录制的视频</string>
-  <string name="junk_tag_junk_big_name_d_thumbnails">相册缩略图</string>
-  <string name="junk_tag_junk_big_name_demovideo">功能演示视频</string>
-  <string name="junk_tag_junk_big_name_downloadmanager">下载的文件</string>
-  <string name="junk_tag_junk_big_name_llogs">系统无用日志文件</string>
-  <string name="junk_tag_junk_big_name_mi_userbook">小米功能新手引导</string>
-  <string name="junk_tag_junk_big_name_miui_gallerydemovideo">小米功能演示视频</string>
-  <string name="junk_tag_junk_big_name_s_dic">三星字典的词库</string>
-  <string name="junk_tag_junk_big_name_s_movie">三星自带视频</string>
-  <string name="junk_tag_junk_big_name_samsung_video">三星自带视频</string>
-  <string name="junk_tag_junk_big_name_smt">语音识别数据文件</string>
-  <string name="junk_tag_junk_big_name_sys_rom">系统包软件</string>
-  <string name="junk_tag_junk_big_name_tencent_qqfile">QQ接收的文件</string>
-  <string name="junk_tag_junk_big_name_thumbnails">手机图片缩略图</string>
-  <string name="junk_tag_junk_big_name_whatsapp_media_video">whatsapp视频文件</string>
-  <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">GDC推送日志</string>
   <string name="just_now">"ちょうど今"</string>
   <string name="label_image_list_none">None</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>

@@ -20,8 +20,8 @@
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_button">Zoom mode</string>
-  <string name="audio_focus_exit_button_text">Turn off Audio focus</string>
-  <string name="burst_shoot_exit_button_text">Turn off Burst shoot</string>
+  <string name="audio_focus_exit_button_text">"音声フォーカスをオフにする"</string>
+  <string name="burst_shoot_exit_button_text">"連続撮影をオフにする"</string>
   <string name="button_fisheye_camera_title">Fisheye</string>
   <string name="button_front_camera_title">Make a selfie</string>
   <string name="button_normal_video_title">Record video</string>
@@ -35,7 +35,7 @@
   <string name="camera_snap_mode_title_detail">"詳細を表示するにはタップ"</string>
   <string name="cannot_connect_camera_once">"カメラに接続できません"</string>
   <string name="cannot_connect_camera_twice">"カメラに接続できません。お使いの端末を再起動してください。"</string>
-  <string name="cannot_connect_camera_volte_call">Video call is ongoing, please try later.</string>
+  <string name="cannot_connect_camera_volte_call">"ビデオ通話中です、後ほど再試行してください。"</string>
   <string name="cannot_move_warning_message">"写真を撮影中です、端末を静止したままにしてください"</string>
   <string name="confirm_location_alert">"写真に位置情報を保存する"</string>
   <string name="confirm_location_message">"写真や動画に撮影場所の位置情報をタグ付けします。他のアプリは保存した画像と共にこの情報へアクセスできます。"</string>
@@ -91,7 +91,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Rear</string>
   <string name="pref_audio_focus_title">Audio focus</string>
-  <string name="pref_burst_shoot_title">Burst shoot</string>
+  <string name="pref_burst_shoot_title">"連続撮影"</string>
   <string name="pref_camcorder_settings">"ビデオ"</string>
   <string name="pref_camcorder_settings_category">"カメラ設定"</string>
   <string name="pref_camera_antibanding_entry_0">Off</string>
@@ -169,8 +169,8 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_jpegquality_entry_normal">Standard</string>
   <string name="pref_camera_jpegquality_title">Picture quality</string>
   <string name="pref_camera_long_press_shutter_feature_title">"シャッターボタンを長押し"</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Burst shoot</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focus</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">"連続撮影"</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">"フォーカス"</string>
   <string name="pref_camera_long_pressing_shutter_title">Press &amp; hold Shutter button to lock AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Magic mirror</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
@@ -341,8 +341,8 @@ facial expression to synthesize into a photo"</string>
   <string name="time_lapse_error">"Can't use this video-size for time-lapse recording"</string>
   <string name="title_snap_double_confirm">Confirm again</string>
   <string name="toast_burst_snap_finished_end">photos</string>
-  <string name="toast_burst_snap_finished_start">Burst shot</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Can't burst shoot while audio capture is on"</string>
+  <string name="toast_burst_snap_finished_start">"連続撮影"</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">"音声キャプチャがオンのときに連続撮影は使用できません"</string>
   <string name="toast_saving">"写真を保存中…"</string>
   <string name="toast_start_audio_capture">Make a sound to take a photo</string>
   <string name="ubi_focus_capture_fail">"写真を撮影できません"</string>
