@@ -297,7 +297,7 @@
   <string name="empty_query_text_msg">"Don't know what to search for…"</string>
   <string name="empty_recommend_back">"戻る"</string>
   <string name="empty_recommend_face_page_view">"おすすめはありません"</string>
-  <string name="empty_relation">"Group name can't be blank"</string>
+  <string name="empty_relation">"グループ名は空にすることはできません"</string>
   <string name="enable_auto_upload_tip">This album will be removed from other albums after you turn on.</string>
   <string name="enable_auto_upload_title">"Mi Cloudとの同期をオンにする"</string>
   <string name="enable_cloud_for_sharing">Turn on Mi Cloud albums to view shared photos.</string>

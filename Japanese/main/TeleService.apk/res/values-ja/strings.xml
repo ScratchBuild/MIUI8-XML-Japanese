@@ -709,7 +709,7 @@
   <string name="path_app_name">システムアプリ/Phone</string>
   <string name="path_auto_answer_pref_title">システムアプリ/Phone/Auto-answer</string>
   <string name="path_auto_retry_mode_title">システムアプリ/Phone/Advanced settings/Auto-retry</string>
-  <string name="path_autoip">システムアプリ/Phone/Advanced settings/Auto IP dialing</string>
+  <string name="path_autoip">システムアプリ/Phone/Advanced settings/自動IPダイヤル</string>
   <string name="path_call_background_setting_name">システムアプリ/Phone/Advanced settings/Call background</string>
   <string name="path_call_forwarding_settings">システムアプリ/Phone/Call forwarding settings</string>
   <string name="path_call_record_auto_title">システムアプリ/Phone/Call recording/Record calls automatically</string>

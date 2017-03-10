@@ -48,9 +48,9 @@
   <string name="cloud_app_restore_title">"待機中"</string>
   <string name="configure_wallpaper">"設定"</string>
   <string name="confirm_btn_label">OK</string>
-  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dual apps will be uninstalled together with these ones.</string>
-  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Dual app will be uninstalled together with this one.</string>
-  <string name="confirm_uninstall_dialog_title">Corresponding dual apps will be removed.</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">"デュアルアプリはこれらと一緒にアンインストールされます。"</string>
+  <string name="confirm_uninstall_dialog_has_xspace_app_msg">"デュアルアプリはこれと一緒にアンインストールされます。"</string>
+  <string name="confirm_uninstall_dialog_title">"対応するデュアルアプリが削除されます"</string>
   <string name="current_preview">"プレビュー"</string>
   <string name="current_wallpaper">Current</string>
   <string name="custom_wallpaper_picker">Browse</string>
@@ -248,8 +248,8 @@
   <string name="uninstall_result_other_failed" formatted="false">"Can't uninstall %s and %d other apps"</string>
   <string name="uninstall_result_succeeded">"アプリをアンインストールしました"</string>
   <string name="uninstall_result_two_failed">"Can't uninstall %s and 1 other app"</string>
-  <string name="uninstall_with_xspace_dialog_message">Corresponding dual apps will be removed together with app data.</string>
-  <string name="uninstall_xspace_dialog_message">Uninstalling dual app will remove all app data.</string>
+  <string name="uninstall_with_xspace_dialog_message">"対応するデュアルアプリは、アプリデータと共に削除されます。"</string>
+  <string name="uninstall_xspace_dialog_message">"デュアルアプリをアンインストールすると、アプリに関するすべてのデータが削除されます。"</string>
   <string name="uninstall_xspace_dialog_title_format">Uninstall dual \"%s\"</string>
   <string name="unknown_artist_name">"不明なアーティスト"</string>
   <string name="unnamed_folder_name">"フォルダ"</string>

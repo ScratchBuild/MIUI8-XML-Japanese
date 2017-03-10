@@ -338,7 +338,7 @@
   <string name="card_main_speeddetailt_summary">View connection speed for individual apps</string>
   <string name="card_main_xspace_action">"作成"</string>
   <string name="card_main_xspace_summary">Create dual accounts for any app</string>
-  <string name="card_main_xspace_title">Dual apps</string>
+  <string name="card_main_xspace_title">"デュアルアプリ"</string>
   <string name="charging_text_battery_full_time">"Last charge "</string>
   <string name="charging_text_battery_nearly_full">Almost fully charged</string>
   <string name="charging_text_battery_perfect">Fully charged</string>

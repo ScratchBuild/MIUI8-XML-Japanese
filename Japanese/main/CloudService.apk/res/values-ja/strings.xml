@@ -90,7 +90,7 @@ Last backed up on %2$s"</string>
   <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
   <string name="find_device_enabling">オンにしています…</string>
   <string name="find_device_error_network">"データ接続を確認してもう一度お試しください。"</string>
-  <string name="find_device_error_password_changed">Account password has been recently changed.</string>
+  <string name="find_device_error_password_changed">"アカウントのパスワードが変更されました。"</string>
   <string name="find_device_error_server">サーバーエラー</string>
   <string name="find_device_error_unknown">不明なエラー。</string>
   <string name="find_device_notice_p1">Go to</string>
@@ -305,13 +305,13 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_content_battery_low">Battery is too low.</string>
   <string name="micloud_notif_content_clipboard_push">You can paste it anywhere.</string>
   <string name="micloud_notif_content_depend_wifi">Connect to WLAN to sync.</string>
-  <string name="micloud_notif_content_dirty_data">Detail</string>
+  <string name="micloud_notif_content_dirty_data">詳細</string>
   <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
   <string name="micloud_notif_content_memory_low">十分な空き領域がありません。</string>
   <string name="micloud_notif_content_multi_user_error">You signed in with the same account as in First space.</string>
   <string name="micloud_notif_content_sync_finish">"アカウント"</string>
   <string name="micloud_notif_content_sync_not_finish">"詳細"</string>
-  <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
+  <string name="micloud_notif_content_sync_with_off">"今すぐデバイスを同期するにはタップ。"</string>
   <string name="micloud_notif_title_battery_low">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_clipboard_push">クリップボードにコピーしました</string>
   <string name="micloud_notif_title_dirty_data">You have data not synced</string>
@@ -432,7 +432,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="search_finddevice_pref_key_words">finddevice, find device</string>
   <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/Find device</string>
   <string name="setting">設定</string>
-  <string name="settings_backup_title">Back up system settings</string>
+  <string name="settings_backup_title">"システム設定をバックアップ"</string>
   <string name="share_cancel">共有をキャンセルしました</string>
   <string name="share_failed">共有できませんでした</string>
   <string name="share_miliao_not_installed">"Mi Talkはインストールされていません。"</string>
@@ -517,5 +517,4 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xmpp_server_addr"/>
 </resources>

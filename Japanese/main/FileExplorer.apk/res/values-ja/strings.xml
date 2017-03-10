@@ -47,11 +47,11 @@
   <string name="bind_need_to_login">"ログイン"</string>
   <string name="bind_phone_dialog_bind">"今すぐ追加"</string>
   <string name="bind_phone_dialog_cancle">"追加しない"</string>
-  <string name="bind_phone_dialog_tip">"Your video can participate in rankings and win awards. In case you win something, we won't be able to contact you unless you add your phone number."</string>
+  <string name="bind_phone_dialog_tip">"あなたの動画はランキングに参加して賞を獲得することができます。あなたが何か獲得した場合、電話番号を追加しない限り、あなたに連絡することができません。"</string>
   <string name="bind_phone_failed_tip">"電話番号を追加できませんでした"</string>
   <string name="bind_phone_success_tip">"電話番号が正常に追加されました"</string>
   <string name="bind_success_tip">"正常に追加されました"</string>
-  <string name="black_list">"You're blocked. Submit your feedback on the MIUI Forum to learn why."</string>
+  <string name="black_list">"あなたはブロックされています。理由を知るにはMIUIフォーラムにフィードバックを送信してください。"</string>
   <string name="can_not_send_with_too_many">"一度に複数のアイテムを送信できません"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_error">"削除できませんでした、もう一度お試しください"</string>
@@ -108,7 +108,7 @@
   <string name="comment_delete_title">"コメントを削除"</string>
   <string name="comment_fail">"Couldn't publish comment, try again"</string>
   <string name="comment_fail_banned_forever">"You've been permanently banned for inappropriate comments. Contact our QQ group (374463568) for more information."</string>
-  <string name="comment_fail_banned_forever_positive">Got it</string>
+  <string name="comment_fail_banned_forever_positive">OK</string>
   <string name="comment_fail_banned_temporary">"You've been temporarily banned for inappropriate comments"</string>
   <string name="comment_hint">"コメントを追加"</string>
   <string name="comment_reply">Reply %1$s: </string>
@@ -183,7 +183,7 @@
   <string name="empty_comment">"コメントは空白にできません"</string>
   <string name="enable_documentsui">"初めに [設定] &gt; [インストール済みアプリ] から %s を有効にしてください"</string>
   <string name="enable_sd_card">"SDカードを挿入するか、USBマスストレージを無効にしてください。"</string>
-  <string name="enable_usb">Connect USB device</string>
+  <string name="enable_usb">"USBデバイスを接続"</string>
   <string name="encrypt_error">"Couldn't hide files, try again"</string>
   <string name="encrypt_prefix">HIDDEN</string>
   <string name="encrypt_success">Hidden successfully</string>
@@ -598,8 +598,8 @@
   <string name="stay_awake_title">Keep display awake</string>
   <string name="sticker_btn_str_explore_tab">Explore tons of fun stuff!</string>
   <string name="stop_server">"サーバーを停止"</string>
-  <string name="storage_cloned_app">Storage for dual apps</string>
-  <string name="storage_info_detail">Available: %1$s Total: %2$s</string>
+  <string name="storage_cloned_app">"デュアルアプリ用ストレージ"</string>
+  <string name="storage_info_detail">"空き: %1$s 合計: %2$s"</string>
   <string name="storage_internal">"内部ストレージ"</string>
   <string name="storage_sd_card">"SDカード"</string>
   <string name="storage_usb">"USBストレージ"</string>

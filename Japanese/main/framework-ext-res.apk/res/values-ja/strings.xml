@@ -62,7 +62,7 @@
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">"スペース"</string>
   <string name="livetalk_not_enable">Top-up package off</string>
-  <string name="location_usage_restricted_body">Tap to allow.</string>
+  <string name="location_usage_restricted_body">"許可するにはタップ。"</string>
   <string name="location_usage_restricted_title">Background location restricted</string>
   <string name="lockscreen_access_pattern_cell_added">"セルを追加しました"</string>
   <string name="lockscreen_access_pattern_cleared">"パターンを消去しました"</string>

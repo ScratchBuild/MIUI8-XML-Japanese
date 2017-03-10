@@ -361,7 +361,7 @@
   <string name="downlaod_confirm_download">"ダウンロード"</string>
   <string name="downlaod_nonWifi_confirm_message">"モバイルデータ接続を使用して添付ファイルをダウンロードしますか？"</string>
   <string name="downlaod_nonWifi_confirm_title">"この添付ファイルをダウンロードしますか？"</string>
-  <string name="download_again">Download again</string>
+  <string name="download_again">"再ダウンロード"</string>
   <string name="download_before_sharing">" hasn't finished downloading."</string>
   <string name="download_cancel_confirm_message">Download will be stopped</string>
   <string name="download_cancel_confirm_title">Download this attachment?</string>
@@ -823,7 +823,7 @@ to receive reminders about payments and trips"</string>
   <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
   <string name="quoted_text">Include quoted text</string>
   <string name="quoted_text_label">Quote text</string>
-  <string name="re_download_message_button">Tap to download again</string>
+  <string name="re_download_message_button">"再ダウンロードするにはタップ"</string>
   <string name="re_download_message_info">"メールをダウンロードできませんでした"</string>
   <string name="read_string">conversation read</string>
   <string name="recipient_needed">Add at least 1 recipient.</string>

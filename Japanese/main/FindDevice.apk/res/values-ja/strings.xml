@@ -17,7 +17,7 @@
   <string name="find_device_error_account_sys_timeout">"Mi Accountに接続できませんでした。"</string>
   <string name="find_device_error_account_unknown_error">"Mi Accountエラー (%s)。"</string>
   <string name="find_device_error_network">ネットワークエラー。</string>
-  <string name="find_device_error_password_changed">Account password has been recently changed.</string>
+  <string name="find_device_error_password_changed">"アカウントのパスワードが変更されました。"</string>
   <string name="find_device_error_server">サーバーエラー (%s)。</string>
   <string name="find_device_error_unknown">不明なエラー (%s)。</string>
   <string name="find_device_noise_title">Find device alarm</string>

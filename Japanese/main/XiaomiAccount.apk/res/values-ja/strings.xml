@@ -115,11 +115,11 @@
   <string name="find_device_access_denied">"Can't get status, access denied"</string>
   <string name="find_device_account_error">"Can't get status due to account error"</string>
   <string name="find_device_activate_account">Activate account</string>
-  <string name="find_device_bad_response_error">A server error occurred, wait a minute or two and try again</string>
+  <string name="find_device_bad_response_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_display_id">Unlock number: %s</string>
   <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again."</string>
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
-  <string name="find_device_interrupted">Action was interrupted, wait a minute or two and try again</string>
+  <string name="find_device_interrupted">"アクションが中断されました、後ほど再試行してください"</string>
   <string name="find_device_io_error">"ネットワークに接続できません"</string>
   <string name="find_device_locked_account_email" formatted="false">%s,associated email address:%s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s,associated phone number:%s</string>
@@ -127,7 +127,7 @@
   <string name="find_device_operation_failed_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_operation_failed_error_unknown">"エラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_remote_exception">RPC error</string>
-  <string name="find_device_request_error">A server error occurred, wait a minute or two and try again</string>
+  <string name="find_device_request_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_request_prepare_error">"Can't get status, try again later"</string>
   <string name="find_device_unknown_error">"Can't get device status, wait a minute or two and try again"</string>
   <string name="first_login_time">First sign in attempt: %s</string>

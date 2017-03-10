@@ -844,7 +844,7 @@
   <string name="confirm_erase">消去する</string>
   <string name="confirm_fingerprint_icon_content_description">続行するには指紋認証を使用してください。</string>
   <string name="confirm_fingerprint_msg">指をセンサーに当ててください</string>
-  <string name="confirm_install_and_connect">Install &amp; connect</string>
+  <string name="confirm_install_and_connect">インストールと接続</string>
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
   <string name="confirm_privacy_password">プライバシー保護パスワードを入力</string>
   <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護パスワードを入力</string>
@@ -1594,7 +1594,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="install_all_warning">提供元不明のアプリから携帯端末や個人データが攻撃を受ける可能性が高くなります。このようなアプリの使用により生じる可能性がある携帯端末への損害やデータの損失について、ユーザーご自身が単独で責任を負うことに同意するものとします。</string>
   <string name="install_applications">提供元不明のアプリ</string>
   <string name="install_applications_title">アプリの提供元をすべて許可する</string>
-  <string name="install_master_key_and_connect">You can connect to this network using WLAN Master Key. Install this tool?</string>
+  <string name="install_master_key_and_connect">WiFi Master Keyを使用してこのネットワークに接続することができます。このツールをインストールしますか？</string>
   <string name="install_no_market_app_summary">App Store以外からのアプリのインストールを許可します</string>
   <string name="install_no_market_app_title">不明なソース</string>
   <string name="install_preinstall_app">アプリを読み込み中…</string>
@@ -3233,8 +3233,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="show_touches">タップを表示</string>
   <string name="show_touches_summary">タップを視覚表示する</string>
   <string name="show_user_info_on_lockscreen_label">ロック画面にユーザー情報を表示</string>
-  <string name="show_wifi_master_key_summary">Connect to shared WLAN networks using WLAN Master Key</string>
-  <string name="show_wifi_master_key_title">Detect shared WLAN networks</string>
+  <string name="show_wifi_master_key_summary">WiFi Master Keyを使用して共有Wi-Fiネットワークに接続する</string>
+  <string name="show_wifi_master_key_title">共有Wi-Fiネットワークを検出</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
   <string name="shut_down_find_device_network_failure_content">「デバイスを探す」機能をOFFに出来ませんでした。お使いの携帯端末がインターネットに接続していることを確認してください。</string>
   <string name="shut_down_find_device_network_failure_title">ネットワークに接続出来ません</string>
@@ -3867,7 +3867,7 @@ PINが正しくない可能性があります。"</string>
   <string name="use_privacy_password_immediate">使用する</string>
   <string name="use_system_language_to_select_input_method_subtypes">システムの言語を使用</string>
   <string name="use_this_wlan">接続を維持する</string>
-  <string name="use_wifi_master_key_summary">Connect using WLAN Master Key</string>
+  <string name="use_wifi_master_key_summary">WiFi Master Keyを使用して接続</string>
   <string name="user_account_title">コンテンツのアカウント</string>
   <string name="user_add_max_count">最大%1$d人のユーザーを追加できます</string>
   <string name="user_add_on_lockscreen_menu">端末のロック時にユーザーを追加</string>
@@ -4242,8 +4242,8 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_master_key_dialog_content_password">Password</string>
   <string name="wifi_master_key_dialog_title">Connect using</string>
   <string name="wifi_master_key_name">WiFi Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">"WLAN Master Key is a free service that provides passwords for shared WLAN networks. WLAN Master Key won't share your network's password."</string>
-  <string name="wifi_master_key_service_dialog_title">Shared WLAN networks</string>
+  <string name="wifi_master_key_service_dialog_content">WiFi Master Keyは共有Wi-Fiネットワークのパスワードを提供する無料のサービスです。WiFi Master Keyはネットワークのパスワードを共有しません。</string>
+  <string name="wifi_master_key_service_dialog_title">共有Wi-Fiネットワーク</string>
   <string name="wifi_menu_advanced">詳細設定</string>
   <string name="wifi_menu_connect">ネットワークに接続</string>
   <string name="wifi_menu_forget">ネットワークから切断</string>
@@ -4485,9 +4485,9 @@ PINが正しくない可能性があります。"</string>
   <string name="work_profile_confirm_remove_title">仕事用プロファイルの削除</string>
   <string name="work_profile_usage_access_warning">このアプリによる使用量へのアクセス許可をOFFにしても、管理者は引き続き仕事用プロファイル内のアプリのデータ使用量をトラッキングできます。</string>
   <string name="work_sim_title">仕事用SIM</string>
-  <string name="work_space_delete">Delete work space</string>
-  <string name="work_space_delete_confirm">Confirm delete</string>
-  <string name="work_space_delete_description">"You won't be able to enter Work space after you delete it. All data will be moved or deleted."</string>
+  <string name="work_space_delete">Work spaceを削除</string>
+  <string name="work_space_delete_confirm">削除の確認</string>
+  <string name="work_space_delete_description">Work spaceを削除した後は、Work Spaceに切り替えることができません。すべてのデータが移動または削除されます。</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">ルーターがWPSをサポートしていて利用可能な状態か確認してください。</string>
   <string name="wps_connect_title">WPSプッシュボタン</string>
