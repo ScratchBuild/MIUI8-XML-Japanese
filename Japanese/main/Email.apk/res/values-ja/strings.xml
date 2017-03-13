@@ -332,7 +332,7 @@
   <string name="delete">"削除"</string>
   <string name="delete_message_flow">Delete message flow</string>
   <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
-  <string name="deleted">Deleted</string>
+  <string name="deleted">"削除済み"</string>
   <string name="device_activity_btn_str">Activate</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate security settings</string>
   <string name="device_admin_description">"サーバーが指定したセキュリティポリシーを有効にします"</string>
@@ -525,7 +525,7 @@
   <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
   <string name="mail">"メール"</string>
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
-  <string name="mail_header_network_not_available">"You don't have a network connection."</string>
+  <string name="mail_header_network_not_available">ネットワークに接続できません。"</string>
   <string name="mailbox_list_account_selector_combined_view">"統合ビュー"</string>
   <string name="mailbox_name_display_ad">"広告"</string>
   <string name="mailbox_name_display_circular">"通知"</string>
@@ -644,7 +644,7 @@ Try switching to a different email account."</string>
   <string name="notification_action_reply">"返信"</string>
   <string name="notification_action_reply_all">"全員に返信"</string>
   <string name="notification_action_undo_archive">Archived</string>
-  <string name="notification_action_undo_delete">Deleted</string>
+  <string name="notification_action_undo_delete">"削除済み"</string>
   <string name="notification_action_undo_remove_label">Tag removed</string>
   <string name="notification_exchange_calendar_added">Exchange calendar added</string>
   <string name="oauth_error_description">"認証できません"</string>

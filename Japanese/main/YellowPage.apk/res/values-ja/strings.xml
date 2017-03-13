@@ -168,12 +168,12 @@
   <string name="express_order_state_wait_picking">Await picking</string>
   <string name="express_order_succeeded">Completed</string>
   <string name="express_order_success_hint">%s will deliver your order</string>
-  <string name="express_phone">Telephone</string>
+  <string name="express_phone">電話</string>
   <string name="express_preview_order">プレビュー</string>
-  <string name="express_region_pick_title">Choose region</string>
+  <string name="express_region_pick_title">地域を選択</string>
   <string name="express_select_address">Address</string>
   <string name="express_select_addressee">To</string>
-  <string name="express_select_city">Choose city</string>
+  <string name="express_select_city">都市を選択</string>
   <string name="express_select_sender">From</string>
   <string name="express_send">Ship</string>
   <string name="express_send_mms">Send</string>

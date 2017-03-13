@@ -143,8 +143,8 @@
   <string name="local_device">"(このデバイス)"</string>
   <string name="locating_current_location">"現在地を取得中"</string>
   <string name="location_service_not_working">"位置情報サービスが動作していません"</string>
-  <string name="login_check_find_device">Getting device security info…</string>
-  <string name="login_check_find_device_failed_title">"Couldn't check device security info"</string>
+  <string name="login_check_find_device">"デバイスのセキュリティ情報を取得中…"</string>
+  <string name="login_check_find_device_failed_title">"デバイスのセキュリティ情報を確認できませんでした"</string>
   <string name="login_find_device_bind">This device is associated with existing Mi Account ID (%s).</string>
   <string name="login_guard_prompt">Require phone number verification when you sign in to your Mi Account on an unknown device or in an unknown app for the first time.</string>
   <string name="logout_failed">"ログアウトできません"</string>

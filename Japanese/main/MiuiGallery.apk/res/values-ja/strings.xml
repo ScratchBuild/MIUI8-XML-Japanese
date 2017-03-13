@@ -381,7 +381,7 @@ Take more photos of your friends!"</string>
   <string name="hidden_album_display_name">Hidden album</string>
   <string name="home_page_empty">Empty</string>
   <string name="home_page_label">"写真"</string>
-  <string name="how_to_set_relation">Press &amp; hold an album to create a group</string>
+  <string name="how_to_set_relation">"グループを作成するにはアルバムを長押し"</string>
   <string name="hybrid_check_network">"ネットワーク設定"</string>
   <string name="hybrid_data_error">"エラーが発生しました"</string>
   <string name="hybrid_locating_fail">"現在地を取得できません"</string>
@@ -398,7 +398,7 @@ Take more photos of your friends!"</string>
   <string name="image_decode_failed">"Couldn't decode image"</string>
   <string name="image_download_item_title">Download original file (%s)</string>
   <string name="image_invalid_path">Invalid path</string>
-  <string name="image_not_found">"Couldn't find image"</string>
+  <string name="image_not_found">"画像がみつかりませんでした"</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>
   <string name="impunity_declaration_settings">Internet connection notification</string>
   <string name="impunity_declaration_summary">Show internet connection notification every time you open Gallery</string>
@@ -463,7 +463,7 @@ Take more photos of your friends!"</string>
   <string name="need_to_turn_on_sync">"Mi Cloudとの同期をオンにする"</string>
   <string name="need_to_turn_on_sync_first">"初めにMi Cloudとの同期をオンにする"</string>
   <string name="need_to_turn_on_wlan">初めにWi-Fiに接続する</string>
-  <string name="network_connected_rescan">"Can't connect to the network"</string>
+  <string name="network_connected_rescan">"ネットワークに接続できません"</string>
   <string name="new_album_invalid_char">"Names can't contain \"%s\", enter a letter or a number."</string>
   <string name="new_album_invalid_name">\"%s\" is system album, please rename for it.</string>
   <string name="new_album_invalid_prefix">"Don't use \".\" or \"_\" in the beginning of the album's name."</string>
@@ -495,7 +495,7 @@ Take more photos of your friends!"</string>
   <string name="operation_enable_auto_upload">"Mi Cloudとの同期をオンにする"</string>
   <string name="operation_enter_delete_local">Delete backed up photos and videos from device</string>
   <string name="operation_failed">"操作を完了できませんでした"</string>
-  <string name="operation_force_top">Pin</string>
+  <string name="operation_force_top">"ピン留めを設定"</string>
   <string name="operation_hide">"隠す"</string>
   <string name="operation_in_process">"処理中…"</string>
   <string name="operation_move_to_other_albums">"他のアルバムに移動"</string>
@@ -516,7 +516,7 @@ Take more photos of your friends!"</string>
   <string name="operation_slide_show">"スライドショーを開始"</string>
   <string name="operation_successful">"完了"</string>
   <string name="operation_too_often">"うわあ！あなたのIPアドレスから大量のリクエストが行われています。しばらくしてからもう一度お試しください。"</string>
-  <string name="operation_unforce_top">Unpin</string>
+  <string name="operation_unforce_top">"ピン留めを解除"</string>
   <string name="operation_unhide">Unhide</string>
   <string name="orientation_lock_tip">Auto-rotate off</string>
   <string name="orientation_unlock_tip">Auto-rotate on</string>
@@ -557,7 +557,7 @@ Take more photos of your friends!"</string>
   <string name="projection_slide_exit">"スライドショーを停止"</string>
   <string name="projection_slide_fail_cause_loading">Restart the slideshow after the photo has loaded</string>
   <string name="projection_slide_playing">Slideshow is playing on %s</string>
-  <string name="projection_video_quit">Tap to exit</string>
+  <string name="projection_video_quit">"終了するにはタップ"</string>
   <string name="public_url_descript">Anyone can view your album using this URL</string>
   <string name="publish_failed">"Couldn't publish"</string>
   <string name="publish_succeeded">Album published</string>
@@ -567,13 +567,13 @@ Take more photos of your friends!"</string>
   <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
   <string name="recommanded_face_added_tip">Added to \"%s\"</string>
   <string name="relation_text_empty_alert">Add relationship info</string>
-  <string name="relation_text_family">Family member</string>
-  <string name="relation_text_father">Father</string>
-  <string name="relation_text_grandfather">Paternal Grandfather</string>
-  <string name="relation_text_grandmother">Paternal Grandmother</string>
-  <string name="relation_text_maternal_grandfather">Maternal Grandfather</string>
-  <string name="relation_text_maternal_grandmother">Maternal Grandmother</string>
-  <string name="relation_text_mother">Mother</string>
+  <string name="relation_text_family">"家族"</string>
+  <string name="relation_text_father">"父親"</string>
+  <string name="relation_text_grandfather">"父方の祖父"</string>
+  <string name="relation_text_grandmother">"父方の祖母"</string>
+  <string name="relation_text_maternal_grandfather">"母方の祖父"</string>
+  <string name="relation_text_maternal_grandmother">"母方の祖母"</string>
+  <string name="relation_text_mother">"母親"</string>
   <string name="relation_with_you">Choose relationship</string>
   <string name="release_space_finish_format">Freed %s of local storage</string>
   <string name="remind_face_recommend_confirm">"確認"</string>
@@ -594,8 +594,8 @@ Take more photos of your friends!"</string>
   <string name="rename_fail_msg">"名前を変更できません"</string>
   <string name="rename_from_contact">Name from contacts</string>
   <string name="renren_description">Provided by RenRen</string>
-  <string name="request_qr_code_failed">"Couldn't get QR code"</string>
-  <string name="request_sms_url_failed">"Couldn't get info"</string>
+  <string name="request_qr_code_failed">"QRコードを取得できませんでした"</string>
+  <string name="request_sms_url_failed">"情報を取得できませんでした"</string>
   <string name="request_sms_url_msg">Requesting info…</string>
   <string name="request_sms_url_title">"ヒント"</string>
   <string name="reset">"リセット"</string>
@@ -628,7 +628,7 @@ Take more photos of your friends!"</string>
   <string name="search_login_title">Mi Account</string>
   <string name="search_login_title_full_screen">Sign in with your Mi Account to find more objects and people</string>
   <string name="search_people_jump_failed">Wait until photos with people are synced with Mi Cloud and try again</string>
-  <string name="search_result_empty">"Couldn't find anything"</string>
+  <string name="search_result_empty">"何も見つかりませんでした"</string>
   <string name="search_retry">"再試行"</string>
   <string name="search_set_network_connection">Network settings</string>
   <string name="search_title_location">Locations</string>
@@ -767,8 +767,8 @@ Take more photos of your friends!"</string>
   <string name="video_editor_down_load_later">"後で"</string>
   <string name="video_editor_down_load_no_wifi_tips">Connect to WLAN to download</string>
   <string name="video_editor_down_load_now">"ダウンロード"</string>
-  <string name="video_editor_encode_video">Encoding video…</string>
-  <string name="video_editor_encode_video_error">"Couldn't encode video"</string>
+  <string name="video_editor_encode_video">"動画のエンコード中…"</string>
+  <string name="video_editor_encode_video_error">"動画をエンコードできませんでした"</string>
   <string name="video_editor_fatal_error">"不明なエラー"</string>
   <string name="video_editor_filter">Filter</string>
   <string name="video_editor_filter_black_and_white">B&amp;W</string>
