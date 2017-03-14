@@ -20,8 +20,8 @@
   <string name="install_preinstall_app">"アプリを読み込み中…"</string>
   <string name="language_picker_other_languages_title">"その他の言語"</string>
   <string name="locale_picker_title">Choose your region</string>
-  <string name="miui_privacy_policy_no_network">"You don't have an internet connection. View the Privacy Policy at %s."</string>
-  <string name="miui_terms_no_network">"You don't have an internet connection. View the Terms of Service at %s."</string>
+  <string name="miui_privacy_policy_no_network">"インターネットに接続していません。View the Privacy Policy at %s."</string>
+  <string name="miui_terms_no_network">"インターネットに接続していません。View the Terms of Service at %s."</string>
   <string name="multisim_settings_category">"SIMカードの設定"</string>
   <string name="multisim_settings_title">2 SIM cards detected</string>
   <string name="next">"次へ"</string>
@@ -33,7 +33,7 @@
   <string name="other_settings_location_summary">"アプリに位置情報へのアクセスを許可する"</string>
   <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
   <string name="other_settings_mifg_online_content_summary">"新しい画像をダウンロードするためWallpaper Carouselにインターネットへの接続を許可する"</string>
-  <string name="other_settings_upload_debug_log_summary">The information we collect will be used to locate and analyze the problems in the system and may contain personal information. No data will be used to identify you personally.</string>
+  <string name="other_settings_upload_debug_log_summary">"収集した情報はシステム内の問題を特定および分析するために使用され、個人情報が含まれる場合がありますが、 あなた個人を識別するためにデータが使用されることはありません。"</string>
   <string name="other_settings_upload_debug_log_title">"診断データを自動的に送信する"</string>
   <string name="other_settings_user_experience">"ユーザーエクスペリエンスプログラム"</string>
   <string name="other_settings_user_experience_summary">"匿名の使用統計情報を送信してMIUIの改善に協力する (%s)"</string>
@@ -44,10 +44,10 @@
   <string name="provision_inputmethod_policy_description1">"プライバシーポリシー"</string>
   <string name="setting_locale">"地域を設定中…"</string>
   <string name="shut_down">"シャットダウン"</string>
-  <string name="sim_card_detecting">Checking for SIM card…</string>
-  <string name="sim_card_detecting_title">Check for SIM card</string>
-  <string name="sim_card_detection">Insert SIM card</string>
-  <string name="sim_card_detection_info">To insert your SIM card, read the instructions that came with your device.</string>
+  <string name="sim_card_detecting">"SIMカードを確認中…"</string>
+  <string name="sim_card_detecting_title">"SIMカードを確認"</string>
+  <string name="sim_card_detection">"SIMカードを挿入"</string>
+  <string name="sim_card_detection_info">"SIMカードを挿入するには、デバイスに付属の説明書をお読みください。"</string>
   <string name="sim_dectection_next">"続行"</string>
   <string name="sim_redetection">Check again</string>
   <string name="skip_underline">"この手順をスキップ"</string>

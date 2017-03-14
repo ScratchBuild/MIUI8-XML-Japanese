@@ -21,7 +21,7 @@
   <string name="auth_fail">"Couldn't get authorization"</string>
   <string name="bind_xunlei_account">"Xunlei Accountを追加"</string>
   <string name="bt_download">"ダウンロード"</string>
-  <string name="bt_path_not_exit">"This path doesn't exist"</string>
+  <string name="bt_path_not_exit">"このパスは存在しません"</string>
   <string name="bt_restart_dialog_message">"BTフォルダ内のすべてのダウンロードを再開しますか？"</string>
   <string name="bt_restart_dialog_title">"すべてのダウンロードを再開"</string>
   <string name="bt_xunlei_open_info">Use Xunlei Engine to open such links?</string>
@@ -30,7 +30,7 @@
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_running_download">"キャンセル"</string>
   <string name="cancle">"キャンセル"</string>
-  <string name="choose_open_time">"Choose when you'd like to begin"</string>
+  <string name="choose_open_time">"開始するタイミングを選択"</string>
   <string name="clear_data">"消去"</string>
   <string name="complete_time">"完了済み:"</string>
   <string name="confirm">OK</string>
@@ -104,10 +104,10 @@
   <string name="download_pending">Download pending</string>
   <string name="download_queued">Queued</string>
   <string name="download_remain_time">Remaining:</string>
-  <string name="download_running">In progress</string>
+  <string name="download_running">"進行中"</string>
   <string name="download_share_dialog">"共有方法"</string>
   <string name="download_speed">"ダウンロード速度:"</string>
-  <string name="download_spend_time">Time</string>
+  <string name="download_spend_time">"時間"</string>
   <string name="download_status_continue">"再開"</string>
   <string name="download_status_fail">"再試行"</string>
   <string name="download_status_paused">"中断"</string>

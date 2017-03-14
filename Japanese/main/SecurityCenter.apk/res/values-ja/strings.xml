@@ -866,7 +866,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optmizingbar_title_clear">Clear cache</string>
   <string name="optmizingbar_title_security">"セキュリティ"</string>
   <string name="optmizingbar_title_system">System security</string>
-  <string name="other_exception_summary">"You don't have an internet connection"</string>
+  <string name="other_exception_summary">"インターネットに接続していません"</string>
   <string name="other_exception_title">Checking for other issues</string>
   <string name="package_change_notification_summary">"タップで詳細を表示。"</string>
   <string name="package_change_notification_title">Adjust data limit automatically</string>
@@ -1483,9 +1483,9 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
   <string name="toast_flow_notification">Turned on data usage notifications</string>
   <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
-  <string name="toast_lockscreen_glogin_empty_password">Password required</string>
+  <string name="toast_lockscreen_glogin_empty_password">"パスワードが必要です"</string>
   <string name="toast_network_eror">"ネットワークに接続できません"</string>
-  <string name="toast_network_switch">This app can connect to the internet</string>
+  <string name="toast_network_switch">"このアプリはインターネットに接続することができます"</string>
   <string name="toast_reject_sms_read_permission_success">Set successfully</string>
   <string name="toast_removed_from_virus_white_list">Removed from exceptions. Item will be scanned next time.</string>
   <string name="toast_root_apply_accept">Root access granted to %s</string>
@@ -1494,7 +1494,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="toast_set_success">Turned on successfully</string>
   <string name="toast_shortcut_install">"ホーム画面にショートカットを配置しました"</string>
   <string name="toast_shortcut_uninstall">"ショートカットを削除しました"</string>
-  <string name="toast_show_notification">Pinned to notification shade</string>
+  <string name="toast_show_notification">"通知シェードにピン留めしました"</string>
   <string name="toast_update_file_explore">"ファイルマネージャーのバージョンが低すぎます、アプリストアで更新してください"</string>
   <string name="toast_update_miui_rom">"MIUIバージョンが低すぎます、システムを更新してください"</string>
   <string name="toast_virus_cloudscan">Virus scan will use online definitions</string>
@@ -1521,8 +1521,8 @@ Rolled over extra data"</string>
   <string name="traffic_config_alert_setted">"設定を適用しました"</string>
   <string name="traffic_config_alert_title">%s Correction</string>
   <string name="traffic_correction_failed">"情報を取得できません"</string>
-  <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
-  <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
+  <string name="traffic_correction_start_correction">"キャリアのサーバーと接続中…"</string>
+  <string name="traffic_correction_start_correction_failed">"リクエストに失敗しました、オペレーターの設定を確認してください"</string>
   <string name="traffic_correction_success">Data usage updated</string>
   <string name="traffic_correction_success_notify_message">"詳細を表示するにはタップ。"</string>
   <string name="traffic_limit_error_alert_body">Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Mark extra data as top-up package?</string>

@@ -32,8 +32,8 @@
   <string name="alarm_label">"閉じる"</string>
   <string name="alert_reminder_expired">"期限切れ"</string>
   <string name="alert_title">"カレンダーの通知"</string>
-  <string name="anniversary_card_title">Anniversary</string>
-  <string name="anniversary_event_title">[Anniversary]%1$s</string>
+  <string name="anniversary_card_title">"記念日"</string>
+  <string name="anniversary_event_title">"[記念日]%1$s"</string>
   <string name="app_label">"カレンダー"</string>
   <string name="birthday_calendar_display_name">"誕生日のリマインダー"</string>
   <string name="birthday_card_title">"今日の誕生日"</string>
@@ -81,10 +81,10 @@
   <string name="chongsha">冲煞</string>
   <string name="copy_email">"メールアドレスをコピー"</string>
   <string name="copy_number">"電話番号をコピー"</string>
-  <string name="countdown_card_title">Countdown</string>
-  <string name="countdown_event_title">Countdown: %1$s</string>
-  <string name="countdown_notify_before_3_day_title">Countdown: %1$s in 3 days</string>
-  <string name="countdown_notify_title">Countdown: %1$s</string>
+  <string name="countdown_card_title">"カウントダウン"</string>
+  <string name="countdown_event_title">"カウントダウン: %1$s"</string>
+  <string name="countdown_notify_before_3_day_title">"カウントダウン: %1$sまであと3日"</string>
+  <string name="countdown_notify_title">"カウントダウン: %1$s"</string>
   <string name="countdown_today">"今日"</string>
   <string name="create_an_account_desc">"Mi Accountがあればカレンダーをもっと活用できます。
 
@@ -178,7 +178,6 @@
   <string name="event_info_where">"場所"</string>
   <string name="event_lunar_month">月</string>
   <string name="event_reminder_allday_day_zero">On that day at %2$s</string>
-  <string name="event_reminder_value_zero">Before the event</string>
   <string name="event_reminders_to_max">Can set up to %d reminders</string>
   <string name="event_title">"タイトル"</string>
   <string name="event_view">"予定を表示"</string>
@@ -231,7 +230,7 @@
   <string name="joke_card_paste_suffix">"【Xiaomiカレンダーから】"</string>
   <string name="jump_date_full">"日付を移動"</string>
   <string name="limit">限行</string>
-  <string name="limit_after_tomorrow">后天</string>
+  <string name="limit_after_tomorrow">"明後日"</string>
   <string name="limit_card_limit_desc">限行尾号</string>
   <string name="limit_card_no_limit_data_desc">暂无限行数据</string>
   <string name="limit_card_no_limit_rule">暂无限行规则数据</string>

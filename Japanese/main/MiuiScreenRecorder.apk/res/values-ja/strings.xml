@@ -61,7 +61,7 @@
   <string name="sound_source">音源</string>
   <string name="sound_source_summary">システムサウンドまたはマイク</string>
   <string name="start">開始</string>
-  <string name="stop_by_second_space">Switch user will stop to record screen</string>
+  <string name="stop_by_second_space">ユーザーを切り替えると画面録画は停止します</string>
   <string name="stop_record_while_locking">終了するには画面をロック</string>
   <string name="stop_record_while_locking_summary">画面がロックされたら録画を終了して動画の保存を行う</string>
   <string name="timer_format">%s</string>

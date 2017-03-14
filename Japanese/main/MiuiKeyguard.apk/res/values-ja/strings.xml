@@ -30,7 +30,7 @@
   <string name="incorrect_pukcode_remaining_attempts">"PUKコードが正しくありません、残り%d回です"</string>
   <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>
   <string name="input_password_hint_text">"パスワードを入力"</string>
-  <string name="input_pattern_hint_text">Draw your unlock pattern</string>
+  <string name="input_pattern_hint_text">"ロック解除パターンを入力"</string>
   <string name="input_pin_code">"PINコードを入力"</string>
   <string name="input_puk_code">"PUKコードを入力"</string>
   <string name="invalid_confirm_pin_hint">"PINコードが一致しません"</string>
@@ -65,9 +65,9 @@
   <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
 
 You won't be able to do this unless you've signed in to your Mi Account on this device. Otherwise, you'll have to flash the device again."</string>
-  <string name="phone_locked_foget_password_footer">"Steps:
-Sign in to i.mi.com, go to “Find device”, select the device and press Wipe device."</string>
-  <string name="phone_locked_foget_password_header">What should I do if I forgot my password?</string>
+  <string name="phone_locked_foget_password_footer">"手順:
+i.mi.com にログインして“Find device”に移動したら、デバイスを選択して Wipe device をクリック。"</string>
+  <string name="phone_locked_foget_password_header">"パスワードを忘れた場合はどうすればよいですか？"</string>
   <string name="phone_locked_foget_password_ok">OK</string>
   <string name="phone_locked_string">"電話がロックされています"</string>
   <string name="phone_locked_timeout_minutes_string">"%s分後にもう一度お試しください"</string>

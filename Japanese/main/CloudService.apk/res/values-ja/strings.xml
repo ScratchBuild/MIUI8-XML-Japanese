@@ -69,7 +69,7 @@ Last backed up on %2$s"</string>
   <string name="enable_micloud">Mi Cloudを使用</string>
   <string name="enable_sync">同期</string>
   <string name="enable_sync_dspt">同期しない</string>
-  <string name="error_data_in_transfer">Sync will finish in %s hours.</string>
+  <string name="error_data_in_transfer">同期は%s時間で終了します。</string>
   <string name="error_data_in_transfer_title">Mi Cloudが利用できません</string>
   <string name="error_forbidden">Mi Accoutに問題があるため、同期が無効になっています。</string>
   <string name="error_network">ネットワークに接続できません</string>
@@ -200,10 +200,10 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_syncing">同期中</string>
   <string name="micloud_detail_upload_syncing">Uploading %s</string>
   <string name="micloud_detail_wlan">%d waiting to sync</string>
-  <string name="micloud_dialog_sync_now_message">Connect to WLAN to avoid additional mobile data fees</string>
+  <string name="micloud_dialog_sync_now_message">"追加のモバイルデータ料金を避けるため、Wi-Fiに接続"</string>
   <string name="micloud_dialog_sync_now_negative">"後で"</string>
   <string name="micloud_dialog_sync_now_positive">Use mobile data</string>
-  <string name="micloud_dialog_sync_now_title">Connect to WLAN to sync</string>
+  <string name="micloud_dialog_sync_now_title">同期するにはWi-Fiに接続</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="micloud_find_device_finish">完了</string>
@@ -250,10 +250,10 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_memory_low_message">"To sync, delete some items you've stored in the cloud."</string>
   <string name="micloud_main_memory_low_title">"Phone's internal storage is almost full"</string>
   <string name="micloud_main_message_not_synced">%s data not synced</string>
-  <string name="micloud_main_multi_user_error_message">"You signed in with the same account as in First space which caused a Mi Cloud error. If you want to back up files:
+  <string name="micloud_main_multi_user_error_message">"First spaceと同じアカウントでログインしたため、Mi Cloudでエラーが発生しました。ファイルのバックアップを行うには:
 
-1. Use a different account.
-2. Move items to First space."</string>
+1. 別のアカウントを使用する。
+2. First spaceにアイテムを移動する。"</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud error</string>
   <string name="micloud_main_network_abnormal">ネットワークに接続できません</string>
   <string name="micloud_main_network_error">ネットワークに接続できません</string>
@@ -292,7 +292,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
 
 %s Mi Credits"</string>
   <string name="micloud_member_buy_title">Confirm order</string>
-  <string name="micloud_member_net_error_alert_message">"You don't have an internet connection."</string>
+  <string name="micloud_member_net_error_alert_message">インターネットに接続していません。</string>
   <string name="micloud_member_net_error_alert_title">ネットワークに接続できません</string>
   <string name="micloud_member_pay_fail_toast">支払を完了できませんでした</string>
   <string name="micloud_member_pay_miid_error_toast">アカウントエラー</string>
@@ -304,9 +304,9 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_more">詳細</string>
   <string name="micloud_notif_content_battery_low">Battery is too low.</string>
   <string name="micloud_notif_content_clipboard_push">You can paste it anywhere.</string>
-  <string name="micloud_notif_content_depend_wifi">Connect to WLAN to sync.</string>
+  <string name="micloud_notif_content_depend_wifi">同期するにはWi-Fiに接続。</string>
   <string name="micloud_notif_content_dirty_data">詳細</string>
-  <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
+  <string name="micloud_notif_content_master_depend_wifi">初めにWi-Fiに接続。</string>
   <string name="micloud_notif_content_memory_low">十分な空き領域がありません。</string>
   <string name="micloud_notif_content_multi_user_error">You signed in with the same account as in First space.</string>
   <string name="micloud_notif_content_sync_finish">"アカウント"</string>

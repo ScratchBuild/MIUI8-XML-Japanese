@@ -155,7 +155,7 @@
   <string name="add_pre_message_attachments_yes">"追加する"</string>
   <string name="add_star">Star</string>
   <string name="allread">"すべてを既読にする"</string>
-  <string name="always_bcc_myself">Always Bcc self</string>
+  <string name="always_bcc_myself">"常に自分をBCCに追加する"</string>
   <string name="always_show_images">この送信者からの画像を常に表示する</string>
   <string name="app_name">"メール"</string>
   <string name="archive">アーカイブ</string>
@@ -189,7 +189,7 @@
   <string name="attachment_size_exceed_limit">"Looks like the size exceeded the server's limit"</string>
   <string name="attachment_stop_all">"停止"</string>
   <string name="attachment_text">テキスト</string>
-  <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
+  <string name="attachment_type_blocked">"残念ながら、この種類の添付ファイルを保存または開くことはできません。"</string>
   <string name="attachment_unknown">%sファイル</string>
   <string name="attachment_video">動画</string>
   <string name="attachments_header">"添付ファイル"</string>
@@ -209,7 +209,7 @@
   <string name="auto_remind_text">Automatic reminders</string>
   <string name="auto_remind_unbind">"停止"</string>
   <string name="auto_sync_off">"自動同期はオフです。"</string>
-  <string name="bank_card_detail">Credit card details</string>
+  <string name="bank_card_detail">"クレジットカードの詳細"</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Battery saver</string>
   <string name="battery_saver_keywords">battery saver;mail battery</string>
@@ -409,7 +409,7 @@
   <string name="feedback">"フィードバックを送信"</string>
   <string name="feedback_body">"メッセージ"</string>
   <string name="feedback_sent">Thank you for your feedback</string>
-  <string name="feedback_user_edit_hint">Describe the issue here. We will send you an email after we look into it.</string>
+  <string name="feedback_user_edit_hint">"ここに問題についての説明を記入してください。我々が調査を行った後、あなた宛てにメールを送信します。"</string>
   <string name="feedback_user_edit_tag">From MIUI </string>
   <string name="fetch_bank_sender_list_failure">"情報を取得できませんでした"</string>
   <string name="fetching_attachment">"添付ファイルを取得中"</string>
@@ -438,10 +438,6 @@
   <string name="folder_list_display_only_import">重要なフォルダのみ表示</string>
   <string name="folder_picker_title">"フォルダを選択"</string>
   <string name="folder_removed">"%1$sから削除しました"</string>
-  <string name="folder_sent_name_cn0">已发送</string>
-  <string name="folder_sent_name_cn1">已发邮件</string>
-  <string name="folder_sent_name_cn2">已发送邮件</string>
-  <string name="folder_sent_name_cn3">[Gmail]/已发邮件</string>
   <string name="folder_sent_name_en0">Sent</string>
   <string name="folder_sent_name_en1">Sent Messages</string>
   <string name="folder_sent_name_en2">Sent Message</string>
@@ -449,9 +445,6 @@
   <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
   <string name="folder_shortcut_widget_label">Email folder</string>
   <string name="folder_synchronization_mail_settings">"フォルダの同期設定"</string>
-  <string name="folder_trash_name_cn0">已删除</string>
-  <string name="folder_trash_name_cn1">已删除邮件</string>
-  <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
   <string name="folder_trash_name_en0">Trash</string>
   <string name="folder_trash_name_en1">Deleted Messages</string>
   <string name="folder_trash_name_en2">Deleted Message</string>
@@ -945,7 +938,7 @@ to receive reminders about payments and trips"</string>
   <string name="toast_bar_fail_synchronization">"ネットワークに接続できません"</string>
   <string name="toast_bar_insufficient_memory_space">"十分な空き領域がありません"</string>
   <string name="toast_bar_invalid_account">"もう一度ログインする必要があります"</string>
-  <string name="toast_bar_no_connection_network">"You don't have an internet connection"</string>
+  <string name="toast_bar_no_connection_network">"インターネットに接続していません"</string>
   <string name="toast_bar_open_gmail_synchronization">Tap to use proxy server for Gmail</string>
   <string name="today_text">"今日"</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
