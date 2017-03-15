@@ -889,7 +889,7 @@ to receive reminders about payments and trips"</string>
   <string name="ser_resp_err_map_pserr">"ユーザー名かパスワードが間違っています"</string>
   <string name="ser_resp_err_map_serclosed">%s server closed</string>
   <string name="ser_resp_err_map_ssl">"Choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
-  <string name="service_protocol_discribe">&lt;u&gt;"I've read and agree with WPS Mail Service Agreement"&lt;/u&gt;</string>
+  <string name="service_protocol_discribe">"I've read and agree with WPS Mail Service Agreement"</string>
   <string name="service_protocol_title">Service Agreement</string>
   <string name="set_network">Set network</string>
   <string name="settings_activity_title">"設定"</string>
