@@ -731,7 +731,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2分</item>
         <item>5分</item>
     </string-array>
-    </string-array>
     <string-array name="screen_resolution_entries">
         <item>最高 (2K)</item>
         <item>標準 (720p)</item>
