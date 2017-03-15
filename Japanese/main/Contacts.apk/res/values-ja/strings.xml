@@ -198,14 +198,14 @@
   <string name="contact_detail_calllog_call_record_tips">Recorded call</string>
   <string name="contact_detail_calllog_empty">"通話履歴はありません"</string>
   <string name="contact_detail_menu_delete_miprofile">"カードを削除"</string>
-  <string name="contact_detail_miprofile_accept">Exchange contact cards</string>
-  <string name="contact_detail_miprofile_accept_fail_toast">"Couldn't exchange contact cards"</string>
-  <string name="contact_detail_miprofile_accept_success_toast">Exchanged contact cards</string>
+  <string name="contact_detail_miprofile_accept">"連絡先カードを交換"</string>
+  <string name="contact_detail_miprofile_accept_fail_toast">"連絡先カードを交換できませんでした"</string>
+  <string name="contact_detail_miprofile_accept_success_toast">"連絡先カードを交換しました"</string>
   <string name="contact_detail_miprofile_binded_label">"検証済み"</string>
   <string name="contact_detail_miprofile_exchange_closed">"No phone number is associated with this Mi Account
 Contact cards are turned off"</string>
-  <string name="contact_detail_miprofile_privacy_settings">Require permission to view</string>
-  <string name="contact_detail_miprofile_request">Exchange contact cards</string>
+  <string name="contact_detail_miprofile_privacy_settings">"表示するには権限が必要です"</string>
+  <string name="contact_detail_miprofile_request">"連絡先カードを交換"</string>
   <string name="contact_detail_miprofile_request_fail_toast">"リクエストを送信できませんでした"</string>
   <string name="contact_detail_miprofile_request_subtitle">"この連絡先の情報を自動的に更新する"</string>
   <string name="contact_detail_miprofile_request_success_toast">"リクエストを送信しました"</string>

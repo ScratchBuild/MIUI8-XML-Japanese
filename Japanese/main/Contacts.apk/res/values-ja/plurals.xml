@@ -63,8 +63,8 @@
         <item quantity="one">%1$d remaining</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
+        <item quantity="other">%1$d件のお気に入り</item>
+        <item quantity="one">%1$d件のお気に入り</item>
     </plurals>
     <plurals name="pick_recent_list_title">
         <item quantity="other">%1$d recent contacts</item>
@@ -79,8 +79,8 @@
         <item quantity="one">%1$d number</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d emails</item>
-        <item quantity="one">%1$d email</item>
+        <item quantity="other">%1$d件のメール</item>
+        <item quantity="one">%1$d件のメール</item>
     </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">Found %1$d items</item>
@@ -144,8 +144,8 @@
         <item quantity="one">%1$d件の連絡先</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d contacts or photos haven't been synced"</item>
-        <item quantity="one">"%d contact or photo hasn't been synced"</item>
+        <item quantity="other">%d件の連絡先または写真が同期されていません</item>
+        <item quantity="one">%d件の連絡先または写真が同期されていません</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">1時間前</item>

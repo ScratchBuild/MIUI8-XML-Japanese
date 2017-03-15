@@ -609,12 +609,12 @@
         <item>常に点灯</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Starting session…</item>
-        <item>Session started</item>
+        <item>セッションを開始しています…</item>
+        <item>セッションを開始しました</item>
         <item>Tearing down…</item>
-        <item>"Can't start session"</item>
-        <item>Timed out. Retrying…</item>
-        <item>Device connected</item>
+        <item>セッションを開始できません</item>
+        <item>タイムアウト。再試行しています…</item>
+        <item>デバイスが接続されました</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>パフォーマンス</item>
