@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agree">同意する</string>
+  <string name="app_label">ネットワーク位置情報</string>
+  <string name="disagree">同意しない</string>
+  <string name="location_warning_do_not_show_again">次回から表示しない</string>
+  <string name="location_warning_message">"AutoNaviの位置情報サービスが匿名での現在地データを収集することを許可します。一部のデータは端末に保存される場合があり、アプリが実行されていなくても収集が行われる可能性があります。"</string>
+  <string name="location_warning_title">位置情報の同意</string>
+  <string name="persmission_close">閉じる</string>
+  <string name="persmission_message">このサービスが正常に動作するには、その他の権限が必要です。質問が表示されたら権限を許可してください。</string>
+  <string name="persmission_message2">このサービスが正常に動作するには、ストレージへのアクセスが必要です。質問が表示されたら権限を許可してください。</string>
+  <string name="persmission_message3">このサービスが正常に動作するには、位置情報へのアクセスが必要です。質問が表示されたら権限を許可してください。</string>
+  <string name="persmission_message4">このサービスが正常に動作するには、電話へのアクセスが必要です。 質問が表示されたら権限を許可してください。</string>
+  <string name="persmission_message5">このサービスが正常に動作するには、その他の権限が必要です。[設定]からネットワーク位置情報の権限を管理できます。</string>
+  <string name="persmission_message6">このサービスが正常に動作するには、位置情報へのアクセスが必要です。[設定]からネットワーク位置情報の権限を管理できます。.</string>
+  <string name="persmission_message7">このサービスが正常に動作するには、電話へのアクセスが必要です。 [設定]からネットワーク位置情報の権限を管理できます。.</string>
+  <string name="persmission_message8">このサービスが正常に動作するには、ストレージへのアクセスが必要です。[設定]からネットワーク位置情報の権限を管理できます。.</string>
+  <string name="persmission_notification_text">許可するにはタップ</string>
+  <string name="persmission_notification_title">ネットワーク位置情報の権限が必要</string>
+  <string name="persmission_ok">OK</string>
+  <string name="persmission_settings">設定</string>
+</resources>
