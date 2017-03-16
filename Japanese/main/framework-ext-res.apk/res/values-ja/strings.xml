@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_package_delete_confirm_title">Attention</string>
+  <string name="activity_package_delete_confirm_title">"注意"</string>
   <string name="add_frequent_phrases">"よく使うフレーズを追加"</string>
   <string name="all_call_livetalk_enable">Using top-up package for domestic and international calls</string>
   <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic or %2$s international</string>
@@ -63,7 +63,7 @@
   <string name="key_btn_space">"スペース"</string>
   <string name="livetalk_not_enable">Top-up package off</string>
   <string name="location_usage_restricted_body">"許可するにはタップ。"</string>
-  <string name="location_usage_restricted_title">Background location restricted</string>
+  <string name="location_usage_restricted_title">"バックグラウンドの位置情報は制限されています"</string>
   <string name="lockscreen_access_pattern_cell_added">"セルを追加しました"</string>
   <string name="lockscreen_access_pattern_cleared">"パターンを消去しました"</string>
   <string name="lockscreen_access_pattern_detected">"パターンの描画が完了しました"</string>
@@ -71,7 +71,6 @@
   <string name="maml_component_customization_title">"設定"</string>
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
   <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
-  <string name="miui">miui</string>
   <string name="package_delete_confirm_step_1">"%sを削除しますか？"</string>
   <string name="package_delete_confirm_step_2">"このアプリを削除すると、システムが不安定になる場合があります。"</string>
   <string name="package_delete_confirm_step_3">"アプリを削除した後、このアプリを開くことはできません。"</string>
@@ -120,7 +119,7 @@
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">"キャスト"</string>
   <string name="status_bar_toggle_data">"モバイルデータ"</string>
-  <string name="status_bar_toggle_edit">Sort</string>
+  <string name="status_bar_toggle_edit">"編集"</string>
   <string name="status_bar_toggle_flight_mode">"機内モード"</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">"ロック"</string>

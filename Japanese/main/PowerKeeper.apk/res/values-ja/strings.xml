@@ -37,14 +37,14 @@
   <string name="fragment_nonesys_listempty">"インストール済みアプリなし"</string>
   <string name="fragment_tab_title_nonsys">"インストール済みアプリ"</string>
   <string name="fragment_tab_title_sys">"システムアプリ"</string>
-  <string name="full_screen_enter">Enter full screen</string>
-  <string name="full_screen_exit">Exit full screen</string>
+  <string name="full_screen_enter">"全画面表示に切り替え"</string>
+  <string name="full_screen_exit">"全画面表示を終了する"</string>
   <string name="google_base_app_install_choice">"\"%s\"が正常に動作するにはGoogleサービスフレームワークが必要です、今すぐインストールしますか？"</string>
   <string name="hide_mode_desc">When an app runs in the background, its activities will be monitored to reduce battery usage.</string>
   <string name="hide_mode_ultimate_desc">Ultimate mode is on. The apps in the background will be frozen. Turn off Battery saver to exit Ultimate mode.</string>
   <string name="high">"パフォーマンス"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
-  <string name="location_disable_description">Apps in the background can only access location services for a brief period of time while continuous access is restricted</string>
+  <string name="location_disable_description">"継続的なアクセスが制限されている間は、バックグラウンドのアプリは短時間だけ位置情報サービスにアクセスできます"</string>
   <string name="location_disable_title">"制限する"</string>
   <string name="location_enable_description">"アプリはバックグラウンドで位置情報サービスを使用できます"</string>
   <string name="location_enable_title">"許可する"</string>
@@ -64,7 +64,7 @@
   <string name="none">"プロセスなし"</string>
   <string name="normal">Default mode</string>
   <string name="operation_create_group">"名前"</string>
-  <string name="operation_create_group_message">Enter new group name</string>
+  <string name="operation_create_group_message">"新しいグループ名を入力"</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s runs abnormally</string>
   <string name="power_checker_background_cpu_title">%1$s runs abnormally</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s gets location info frequently</string>
@@ -72,7 +72,7 @@
   <string name="power_checker_mobile_radio_multi_apps_title">%1$s accesses network frequently</string>
   <string name="power_checker_mobile_radio_title">%1$s accesses network frequently</string>
   <string name="power_checker_multi_apps_title">Apps which drain battery: %2$s</string>
-  <string name="power_checker_notify_summary">Optimize apps which drain battery</string>
+  <string name="power_checker_notify_summary">"バッテリーを消耗するアプリを最適化します"</string>
   <string name="power_checker_partial_wakelock_multi_apps_title">%1$s prevents MIUI from going into sleep mode</string>
   <string name="power_checker_partial_wakelock_title">%1$s prevents MIUI from going into sleep mode</string>
   <string name="power_checker_recent_btn_title">Setting Power</string>

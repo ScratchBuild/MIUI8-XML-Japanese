@@ -30,12 +30,12 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="find_device_success_title">Find device</string>
   <string name="find_device_telephony_fault">Find Device: Telephony fault (%s).</string>
   <string name="i_know">OK</string>
-  <string name="lock_msg_phone">Contact information: %s</string>
+  <string name="lock_msg_phone">"連絡先: %s"</string>
   <string name="login_extra_steps">Sign in verification</string>
   <string name="login_failed">"ログインできませんでした。%s。"</string>
   <string name="passport_checking_vcode">パスワードを確認中…</string>
   <string name="passport_error_empty_vcode">"認証コードを入力してください"</string>
-  <string name="passport_notification_need_unlock_again">Try to unlock again</string>
+  <string name="passport_notification_need_unlock_again">"もう一度ロック解除してください"</string>
   <string name="passport_notification_processing">"処理中…"</string>
   <string name="passport_trust_device">Trust this device</string>
   <string name="passport_vcode_prompt_long">Enter verification code</string>

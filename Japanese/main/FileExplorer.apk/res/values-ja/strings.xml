@@ -665,7 +665,7 @@
   <string name="upload_notification_compress_progress">Compressing %1$s%%</string>
   <string name="upload_notification_compress_title">Compressing video⤦</string>
   <string name="upload_notification_failed">"Couldn't upload"</string>
-  <string name="upload_notification_failed_content">Try again</string>
+  <string name="upload_notification_failed_content">"再試行"</string>
   <string name="upload_notification_progress">Uploading %1$s%%</string>
   <string name="upload_notification_success">"正常にアップロードされました"</string>
   <string name="upload_notification_success_content">"Your video should be reviewed before it's shared to other people"</string>

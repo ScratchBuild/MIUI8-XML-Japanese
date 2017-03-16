@@ -38,7 +38,7 @@
         <item>"カスタム"</item>
     </string-array>
     <string-array name="fingerprint_acquired_vendor">
-        <item>Try again</item>
+        <item>"再試行"</item>
         <item></item>
         <item></item>
         <item>Cover the fingerprint scanner completely and apply pressure</item>
@@ -64,7 +64,7 @@
         <item></item>
         <item></item>
         <item>Move your finger slightly</item>
-        <item>This fingerprint has been added, use a different finger</item>
+        <item>"この指紋は既に登録されています、別の指を使用してください"</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>"自宅"</item>

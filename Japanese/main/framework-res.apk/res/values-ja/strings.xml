@@ -954,9 +954,7 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="print_service_installed_message">有効にするにはタップしてください</string>
   <string name="print_service_installed_title">「%s」サービスがインストールされました</string>
   <string name="progress_erasing">USBストレージ内のデータを消去中...</string>
-  <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
   <string name="quick_contacts_not_available">この連絡先を表示するアプリが見つかりません。</string>
-  <string name="radial_numbers_typeface">sans-serif</string>
   <string name="reason_service_unavailable">印刷サービスが有効ではありません</string>
   <string name="reason_unknown">不明</string>
   <string name="reboot_confirm">電話を再起動します。</string>
@@ -1210,17 +1208,13 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="vpn_title_long">VPNが%sにより有効化されました</string>
   <string name="wait">待機</string>
   <string name="wallpaper_binding_label">壁紙</string>
-  <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
-  <string name="web_user_agent_target_content">"Mobile "</string>
   <string name="webpage_unresponsive">ページが応答しません。
 
 ページを閉じますか？</string>
   <string name="websearch">ウェブ検索</string>
   <string name="week">週間</string>
   <string name="weeks">週間</string>
-  <string name="wfcDataSpnFormat">%s</string>
   <string name="wfcRegErrorTitle">Wi-Fi通話</string>
-  <string name="wfcSpnFormat">%s</string>
   <string name="wfc_mode_cellular_preferred_summary">モバイル優先</string>
   <string name="wfc_mode_wifi_only_summary">Wi-Fiのみ</string>
   <string name="wfc_mode_wifi_preferred_summary">Wi-Fi優先</string>

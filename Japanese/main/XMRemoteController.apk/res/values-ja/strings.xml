@@ -708,7 +708,7 @@ Then answer the question"</string>
   <string name="passport_restart">Start over</string>
   <string name="passport_restart_register_prompt">Another verification message may be required to create your account.</string>
   <string name="passport_restart_register_title">"Mi Accountを作成"</string>
-  <string name="passport_retry">Try again</string>
+  <string name="passport_retry">"再試行"</string>
   <string name="passport_select_reg_ways_title">Other ways to sign up</string>
   <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="passport_setting">"設定中…"</string>

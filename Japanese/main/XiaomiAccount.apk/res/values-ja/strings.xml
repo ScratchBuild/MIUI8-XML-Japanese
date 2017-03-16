@@ -11,7 +11,7 @@
   <string name="account_bind_secure_phone_title">"電話番号を追加"</string>
   <string name="account_bind_settings">"アカウント"</string>
   <string name="account_binded_phone">Phone %d</string>
-  <string name="account_crop_user_avatar">Crop photo</string>
+  <string name="account_crop_user_avatar">"写真を切り抜く"</string>
   <string name="account_empty_user_name">"Mi Accountのユーザー名を入力"</string>
   <string name="account_error_all_space_user_name">"名前に空白文字のみを使用することはできません"</string>
   <string name="account_error_longer_user_name">"名前に20文字以上は入力できません"</string>
@@ -41,9 +41,9 @@
   <string name="account_user_location_title">Select current location</string>
   <string name="account_user_name">"名前"</string>
   <string name="account_user_name_dialog_title">"ユーザー名を入力"</string>
-  <string name="account_user_other_info">More sources</string>
-  <string name="account_user_phone">Phone</string>
-  <string name="account_user_recovery_phone">Recovery phone</string>
+  <string name="account_user_other_info">"その他の情報"</string>
+  <string name="account_user_phone">"電話"</string>
+  <string name="account_user_recovery_phone">"復元用の電話"</string>
   <string name="account_user_region">Region</string>
   <string name="account_user_secure_info">"電話とメール"</string>
   <string name="account_user_using_facebook_avatar">"Facebookのプロフィール写真を使用"</string>
@@ -53,7 +53,7 @@
   <string name="account_xiaomi_service">"サービス"</string>
   <string name="activate_email_notice">"24時間以内にアカウントを有効にしてください"</string>
   <string name="activity_not_found_notice">"アプリケーションを見つけることができません"</string>
-  <string name="add_account">Connect account</string>
+  <string name="add_account">"アカウントを追加"</string>
   <string name="app_name">Mi Account</string>
   <string name="auth_fail_warning">Session expired, sign in again later</string>
   <string name="authorize_title">"認証"</string>

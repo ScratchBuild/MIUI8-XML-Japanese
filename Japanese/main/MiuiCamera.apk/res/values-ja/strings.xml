@@ -23,8 +23,8 @@
   <string name="audio_focus_exit_button_text">"音声フォーカスをオフにする"</string>
   <string name="burst_shoot_exit_button_text">"連続撮影をオフにする"</string>
   <string name="button_fisheye_camera_title">Fisheye</string>
-  <string name="button_front_camera_title">Make a selfie</string>
-  <string name="button_normal_video_title">Record video</string>
+  <string name="button_front_camera_title">"自撮りを撮影"</string>
+  <string name="button_normal_video_title">"動画を記録"</string>
   <string name="camera_disabled">"カメラが無効になっています"</string>
   <string name="camera_error_title">"カメラのエラー"</string>
   <string name="camera_label">"カメラ"</string>
@@ -290,9 +290,6 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_video_speed_fast_title">Time-lapse</string>
   <string name="pref_video_speed_slow_title">Slow-motion</string>
   <string name="pref_video_speed_title">Video capture speed</string>
-  <string name="pref_video_speed_value_fast">fast</string>
-  <string name="pref_video_speed_value_normal">normal</string>
-  <string name="pref_video_speed_value_slow">slow</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Interval of 0.3 seconds (10 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">Interval of 4 seconds (120 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">Interval of 5 seconds (150 times)</string>
@@ -308,7 +305,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval of 30 seconds (900 times)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time lapse interval</string>
   <string name="preparing_sd">"内部ストレージを確認中…"</string>
-  <string name="record_back_pressed_hint">Touch again to stop recording</string>
+  <string name="record_back_pressed_hint">"録画を停止するにはもう一度タップ"</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
   <string name="see_qrcode_detals">"QRコードの詳細を表示"</string>
   <string name="simple_mode_button_asd_flash">Turn off Flash capture</string>
@@ -338,7 +335,7 @@ facial expression to synthesize into a photo"</string>
   <string name="start_capture">OK</string>
   <string name="tap_to_exposure">"手動で露出を調整するにはタップ"</string>
   <string name="tap_to_focus">"フォーカスするにはタップ"</string>
-  <string name="time_lapse_error">"Can't use this video-size for time-lapse recording"</string>
+  <string name="time_lapse_error">"タイムラプス録画にはこの動画サイズを使用できません"</string>
   <string name="title_snap_double_confirm">Confirm again</string>
   <string name="toast_burst_snap_finished_end">photos</string>
   <string name="toast_burst_snap_finished_start">"連続撮影"</string>

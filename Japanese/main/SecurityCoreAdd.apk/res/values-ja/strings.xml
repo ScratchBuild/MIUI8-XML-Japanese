@@ -36,9 +36,9 @@ this feature will be added to Second space automatically."</string>
   <string name="confirmClose">"オフにする"</string>
   <string name="confirmCloseSpaceDes">"You won't be able to enter Second space after you delete it. All data will be moved or deleted."</string>
   <string name="confirmDelete">"削除"</string>
-  <string name="confirmSecondSpacePassword">Confirm Second space password</string>
-  <string name="confirm_airspace_password">Confirm Work space password</string>
-  <string name="confirm_main_space_password">Confirm First space password</string>
+  <string name="confirmSecondSpacePassword">"Second spaceのパスワードを確認"</string>
+  <string name="confirm_airspace_password">"Work spaceのパスワードを確認"</string>
+  <string name="confirm_main_space_password">"First spaceのパスワードを確認"</string>
   <string name="confirm_restore">"表示しない"</string>
   <string name="contactData">"連絡先"</string>
   <string name="contact_sub_titile_text">Messaging data will be shared between the two spaces</string>
@@ -59,8 +59,8 @@ to be able to view them anytime"</string>
   <string name="deleteDataConfirm">"すべてのアイテムが削除されます"</string>
   <string name="deleteDataDes">"移動するアイテムは選択していません。アイテムを削除した後で復元することはできません。"</string>
   <string name="delete_fingerprint">"指紋認証を削除"</string>
-  <string name="delete_fingerprint_desc">Second space fingerprint will be deleted together with the password</string>
-  <string name="delete_phone_fingerprint">Delete Second space fingerprint</string>
+  <string name="delete_fingerprint_desc">"Second spaceの指紋認証がパスワードと共に削除されます"</string>
+  <string name="delete_phone_fingerprint">"Second spaceの指紋認証を削除"</string>
   <string name="delete_src_file">"ファイルを削除する"</string>
   <string name="delete_src_photo">"写真を削除する"</string>
   <string name="dir_switch_out_all_photos">Second space Gallery</string>
@@ -108,7 +108,7 @@ You can also download them separately."</string>
   <string name="import_photo">Import photos</string>
   <string name="import_photo_desc">View shared items in Second space</string>
   <string name="import_photo_suc">Imported photos</string>
-  <string name="invalid_qr_code">Invalid QR code</string>
+  <string name="invalid_qr_code">"無効なQRコード"</string>
   <string name="keywords_sspace">Second space;Two spaces;2 spaces;Hide apps;Hide files;Hide photos;Lock screen;Lock screen password;Privacy;Privacy mode;Private mode;Private;Guest mode;Guest session;Guest access;Guest account;Guest</string>
   <string name="keywords_xspace">Dual app;Dual apps;Double app;Double apps;Clone app;Clone apps;App clone;App clones;Two accounts;2 accounts</string>
   <string name="list_empty_text">Empty</string>

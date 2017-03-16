@@ -48,9 +48,9 @@
     </string-array>
     <string-array name="question_no4">
         <item>First times</item>
-        <item>"What's the name of your first pet?"</item>
-        <item>"What's the name of your first girlfriend/boyfriend?"</item>
-        <item>"What's the name of the company where you got your first job?"</item>
+        <item>初めて飼ったペットの名前は何ですか？</item>
+        <item>初めて交際した相手の名前は何ですか？</item>
+        <item>初めて働いた会社の名前は何ですか？</item>
     </string-array>
     <string-array name="question_no5">
         <item>結婚</item>
