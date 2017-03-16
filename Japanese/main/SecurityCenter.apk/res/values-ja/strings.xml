@@ -946,8 +946,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_consume_rank_hardware">"ハードウェア"</string>
   <string name="power_consume_rank_software">"アプリ"</string>
   <string name="power_consume_rank_title">Battery use</string>
-  <string name="power_consume_total_hardware">"ハードウェア: %1$d%%"</string>
-  <string name="power_consume_total_software">"アプリ: %1$d%%"</string>
   <string name="power_customize_giveup_change">"変更を破棄しますか？"</string>
   <string name="power_dialog_cancel">"キャンセル"</string>
   <string name="power_dialog_ok">OK</string>
