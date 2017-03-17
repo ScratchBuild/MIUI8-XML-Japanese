@@ -19,8 +19,14 @@
   <string name="menu_unlock">Unstar</string>
   <string name="message_details_title">メッセージの詳細</string>
   <string name="message_type_label">"形式: "</string>
+  <string name="messaging">"メッセージ"</string>
   <string name="received_label">"受信: "</string>
+  <string name="repayment_network_error">ネットワークに接続できません</string>
+  <string name="repayment_title">返済</string>
+  <string name="repayment_way">返済方法</string>
   <string name="sent_label">"送信: "</string>
+  <string name="smart_messages_network_allow_message">Mi Messageが正常に動作するには、インターネットへの接続が必要です。許可しますか？</string>
+  <string name="smart_messages_network_allow_title">インターネット接続が必要です</string>
   <string name="sms_card_partner_label">"SMS card partner: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="text_message">テキストメッセージ</string>

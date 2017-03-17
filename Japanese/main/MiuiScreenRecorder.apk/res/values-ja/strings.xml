@@ -4,7 +4,7 @@
   <string name="app_name">スクリーンレコーダー</string>
   <string name="app_notification_title">スクリーンレコーダー</string>
   <string name="auto_stop_title">動画が正常に保存されました</string>
-  <string name="battery_not_allowed">バッテリーが3%%未満の時は記録できません。バッテリーが20%%以上充電されている必要があります。</string>
+  <string name="battery_not_allowed" formatted="false">バッテリーが3%未満の時は記録できません。バッテリーが20%以上充電されている必要があります。</string>
   <string name="bit_rate">動画の品質</string>
   <string name="bit_rate_summary">高品質にするとファイルサイズも大きくなります</string>
   <string name="bubble_text">記録を開始するにはタップ</string>
@@ -14,12 +14,10 @@
   <string name="button_goon_recorder">再開</string>
   <string name="cancel_edit">キャンセル</string>
   <string name="cannot_change_parames">記録中にパラメータの変更はできません</string>
+  <string name="cannot_record">記録できませんでした、後ほど再試行してください。</string>
   <string name="date_day"/>
-  <string name="date_month">-</string>
-  <string name="date_year">,</string>
-  <string name="delete_confirm_text">この画面録画を削除しますか？</string>
-  <string name="delete_confirm_text_multi1">削除</string>
-  <string name="delete_confirm_text_multi2">screen recordings?</string>
+  <string name="date_month">/</string>
+  <string name="date_year">/</string>
   <string name="deselect_all">すべて選択を解除</string>
   <string name="error_open_file_failed_no_app_found">このファイルを開くためのアプリが見つかりませんでした</string>
   <string name="frames">フレームレート</string>
@@ -42,7 +40,7 @@
   <string name="memory_not_allowed">空き容量がありません。記録するには空き容量を確保してください。</string>
   <string name="mic_sound">マイク</string>
   <string name="no_recorder_info">動画はありません</string>
-  <string name="no_recorder_info2">録画を追加するには[＋]をタップ。</string>
+  <string name="no_recorder_info2">録画を追加するにはボタンをタップ。</string>
   <string name="no_sound">ミュート</string>
   <string name="operation_delete">削除</string>
   <string name="operation_send">送信</string>
@@ -61,7 +59,7 @@
   <string name="sound_source">音源</string>
   <string name="sound_source_summary">システムサウンドまたはマイク</string>
   <string name="start">開始</string>
-  <string name="stop_by_second_space">ユーザーを切り替えると画面録画は停止します</string>
+  <string name="stop_by_second_space">スペースを切り替えると画面録画は停止します</string>
   <string name="stop_record_while_locking">終了するには画面をロック</string>
   <string name="stop_record_while_locking_summary">画面がロックされたら録画を終了して動画の保存を行う</string>
   <string name="timer_format">%s</string>

@@ -71,6 +71,7 @@
   <string name="maml_component_customization_title">"設定"</string>
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
   <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
+  <string name="miui_upgrading_notification_title">"システムを更新中、一部の機能が制限される場合があります"</string>
   <string name="package_delete_confirm_step_1">"%sを削除しますか？"</string>
   <string name="package_delete_confirm_step_2">"このアプリを削除すると、システムが不安定になる場合があります。"</string>
   <string name="package_delete_confirm_step_3">"アプリを削除した後、このアプリを開くことはできません。"</string>
@@ -81,7 +82,7 @@
   <string name="permlab_manageLocationPolicy">Location access</string>
   <string name="reboot_confirm_title">"デバイスを今すぐ再起動しますか？"</string>
   <string name="reboot_info_auto_boot">Device is scheduled to power on at %s</string>
-  <string name="reboot_info_shutdown_alarm">Alarm will sound at %s</string>
+  <string name="reboot_info_shutdown_alarm">Next alarm: %s</string>
   <string name="reboot_progress">"再起動しています…"</string>
   <string name="replace">Replace</string>
   <string name="resource_select">"選択"</string>

@@ -123,7 +123,7 @@
   <string name="baby_nick_name">"ニックネーム"</string>
   <string name="baby_sexy">"性別"</string>
   <string name="baby_suffix">"の赤ちゃん"</string>
-  <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conviniently browse, sort, edit, and share photos and videos on all your devices.</string>
+  <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conveniently browse, sort, edit, and share photos and videos on all your devices.</string>
   <string name="backup_automatically_title">"自動的にバックアップ"</string>
   <string name="backup_battery_low_desc">You can still choose to continue backing up items</string>
   <string name="backup_battery_low_title">Backup paused due to low battery</string>
@@ -133,6 +133,7 @@
   <string name="backup_cloud_space_low_title">Not enough Mi Cloud storage</string>
   <string name="backup_cta_not_allow">"ネットワークにアクセスできません"</string>
   <string name="backup_cta_not_allow_btn_text">"許可する"</string>
+  <string name="backup_detail_page_empty">"バックアップを待機中の写真や動画はありません"</string>
   <string name="backup_detail_page_title">Mi Cloud backups</string>
   <string name="backup_device_space_low_btn_text">"消去"</string>
   <string name="backup_device_space_low_desc">"バックアップを続行するには空き領域を確保してください"</string>
@@ -166,7 +167,7 @@
   <string name="backuped_desc">"写真と動画はMi Cloudにバックアップされます"</string>
   <string name="backuped_title">"バックアップが完了しました"</string>
   <string name="backuping_title_gprs">Backing up using mobile data…</string>
-  <string name="backuping_title_normal">Backing up⤦</string>
+  <string name="backuping_title_normal">"バックアップ中…"</string>
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
   <string name="begin_share_toast">Create a separate album for this kid before sharing?</string>
   <string name="browse_category_title">Browse</string>
@@ -666,6 +667,7 @@ Take more photos of your friends!"</string>
   <string name="set_face_group_toast_title_old_user">People can be organized in groups</string>
   <string name="set_face_image">Set a new profile pic</string>
   <string name="set_group">"グループを設定"</string>
+  <string name="set_wallpaper_get_image_failed">"画像をダウンロードできませんでした、後ほど再試行してください"</string>
   <string name="share">"共有"</string>
   <string name="share_album">"アルバムを共有"</string>
   <string name="share_album_needs_auto_upload_tip">"Can't turn off backups for shared albums"</string>

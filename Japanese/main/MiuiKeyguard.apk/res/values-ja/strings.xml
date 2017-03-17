@@ -29,6 +29,7 @@
   <string name="incorrect_pukcode">"PUKコードが正しくありません"</string>
   <string name="incorrect_pukcode_remaining_attempts">"PUKコードが正しくありません、残り%d回です"</string>
   <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">"デバイスを再起動した後、First spaceのパスワードを入力する必要があります"</string>
   <string name="input_password_hint_text">"パスワードを入力"</string>
   <string name="input_pattern_hint_text">"ロック解除パターンを入力"</string>
   <string name="input_pin_code">"PINコードを入力"</string>

@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">"クリーナーの設定"</string>
   <string name="Settings_title_network_assistants">"データ使用の設定"</string>
   <string name="Settings_title_power_center">"バッテリーの設定"</string>
+  <string name="about_autostart">About autostart</string>
   <string name="ac_enable_title">"アプリロックをオンにする"</string>
   <string name="ac_enter_applock">Enter App lock</string>
   <string name="ac_firstUseApplock_subTitle">Use better system-level security tools</string>
@@ -441,6 +442,7 @@
   <string name="disable_air_mode">"最初に機内モードをオフにする"</string>
   <string name="dns_exception_summary">"Check router's DNS settings"</string>
   <string name="dns_exception_title">Check DNS settings</string>
+  <string name="domestic_roaming_setting">National roaming</string>
   <string name="download">"ダウンロード"</string>
   <string name="downloading">"ダウンロード中"</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -520,6 +522,7 @@
   <string name="hide_mode_app_background_setting_text">App battery saver</string>
   <string name="hide_mode_summary_text">"Manage apps' background activity to save battery"</string>
   <string name="hide_mode_title_text">Hide mode</string>
+  <string name="hide_system_app">"システムアプリを隠す"</string>
   <string name="hints_auto_start_warning_info">"If you restrict autostart, some apps and services won't be able to receive notifications."</string>
   <string name="hints_cleanning_done">Scanned successfully</string>
   <string name="hints_cleanning_text">Cleaning…</string>
@@ -809,6 +812,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_item">Protect selected apps with App lock</string>
+  <string name="notification_mask_summary">"ロック画面と通知シェードに通知の内容を表示しない"</string>
+  <string name="notification_mask_title">"内容を非表示"</string>
   <string name="notification_quick_charging_title">"急速充電"</string>
   <string name="notification_subtitle">"オンにするにはタップ"</string>
   <string name="notification_summary_cmcc_app_check">"詳細を表示するにはタップ。"</string>
@@ -946,6 +951,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_consume_rank_hardware">"ハードウェア"</string>
   <string name="power_consume_rank_software">"アプリ"</string>
   <string name="power_consume_rank_title">Battery use</string>
+  <string name="power_consume_total_hardware">Hardware: %s</string>
+  <string name="power_consume_total_software">Apps: %s</string>
   <string name="power_customize_giveup_change">"変更を破棄しますか？"</string>
   <string name="power_dialog_cancel">"キャンセル"</string>
   <string name="power_dialog_ok">OK</string>
@@ -1208,6 +1215,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="settings_title_payment_security">Payment security settings</string>
   <string name="settings_title_permission">"パーミッションの設定"</string>
   <string name="share">"共有"</string>
+  <string name="show_system_app">"システムアプリを表示"</string>
   <string name="show_traffic_dialog_message">Your data usage info will be displayed in the notification shade. You can turn this feature on or off anytime in Data usage &gt; Settings</string>
   <string name="show_traffic_dialog_title">Show usage in notification shade</string>
   <string name="showpattern">"パターンを表示"</string>
