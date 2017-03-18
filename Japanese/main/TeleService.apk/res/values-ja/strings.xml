@@ -15,7 +15,6 @@
   <string name="administrative_disable">管理は無効になっています</string>
   <string name="administrative_enable">管理は有効になっています</string>
   <string name="advanced_settings">オプション設定</string>
-  <string name="advanced_settings_container">詳細設定コンテナ</string>
   <string name="advanced_settings_hide">▽ タップしてすべて非表示</string>
   <string name="advanced_settings_show">▷ タップしてすべて表示</string>
   <string name="advertisements_disable">広告は無効になっています</string>
@@ -44,7 +43,6 @@
   <string name="audio_mode_earpiece">携帯端末のイヤホン</string>
   <string name="audio_mode_speaker">スピーカー</string>
   <string name="audio_mode_wired_headset">有線ヘッドセット</string>
-  <string name="auth_username">認証ユーザー名</string>
   <string name="auth_username_summary">認証に使用するユーザー名</string>
   <string name="auth_username_title">認証ユーザー名</string>
   <string name="auto_answer_delay_entries_delay_10s">10秒</string>
@@ -308,10 +306,8 @@
   <string name="disable_pin_ok">PINを消去しました</string>
   <string name="disable_sim_pin">SIM PINの消去</string>
   <string name="disabled_by_admin">"管理者によって無効にされています"</string>
-  <string name="display_name">表示名</string>
   <string name="display_name_summary">&lt;ユーザー名と同じ></string>
   <string name="display_name_title">表示名</string>
-  <string name="domain_address">SIPドメイン</string>
   <string name="domain_address_title">サーバー</string>
   <string name="doneButton">完了</string>
   <string name="dtmf_tone_entries_long">長め</string>
@@ -701,7 +697,6 @@
   <string name="other_settings">その他の通話設定</string>
   <string name="other_settings_category">その他</string>
   <string name="overseas_roaming_setting">データローミング</string>
-  <string name="password">パスワード</string>
   <string name="password_changed">パスワードが変更されました。</string>
   <string name="password_title">パスワード</string>
   <string name="path_answer_state_setting_title">システムアプリ/Phone/Incoming call settings</string>
@@ -777,7 +772,6 @@
   <string name="pin_progress_set_fdn_lock">FDNのロック状態を設定中...</string>
   <string name="pin_progress_set_icc_lock">ICCのロック状態を設定中...</string>
   <string name="pin_progress_unlock_icc">SIMカードのロックを解除中...</string>
-  <string name="port">ポート番号</string>
   <string name="port_title">ポート番号</string>
   <string name="preference_auto_ip_summary_disable">オフ</string>
   <string name="preference_category_ringtone">着信音とバイブレーション</string>
@@ -968,9 +962,7 @@
   <string name="select_voice_call_sim">SIMカードを選択</string>
   <string name="sendSms">SMSを送信</string>
   <string name="send_button">送信</string>
-  <string name="send_keepalive">キープアライブを送信</string>
   <string name="send_keepalive_title">キープアライブを送信する</string>
-  <string name="set_primary">プライマリを設定</string>
   <string name="set_primary_summary">発信に使用する</string>
   <string name="set_primary_title">メインアカウントに設定</string>
   <string name="set_smsc_address_error">番号を設定出来ません</string>
@@ -1000,8 +992,6 @@
   <string name="sip_accounts">SIPアカウント</string>
   <string name="sip_accounts_title">アカウント</string>
   <string name="sip_add_account_tip_text">インターネット通話を使用するには、SIPアカウントを追加してください</string>
-  <string name="sip_address_only">宛先がSIPアドレスの場合のみ使用</string>
-  <string name="sip_always">ネットワークにアクセスして常にSIPを使用</string>
   <string name="sip_always_send_keepalive">常に送信</string>
   <string name="sip_call_options_entry_1">データネットワーク接続時はすべての通話</string>
   <string name="sip_call_options_entry_2">SIP通話のみ</string>
@@ -1111,7 +1101,6 @@
   <string name="time_start_hour">開始時間(時)</string>
   <string name="time_start_minute">開始時間(分)</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-  <string name="transport">プロトコル</string>
   <string name="transport_title">伝送方式</string>
   <string name="tty_mode_not_allowed_video_call">TTYモードの変更はビデオハングアウト中には行えません</string>
   <string name="tty_mode_option_summary">TTYモードの設定</string>
@@ -1128,7 +1117,6 @@
   <string name="uplmn_list_setting_add_plmn">新規PLMN(公衆携帯電話網)</string>
   <string name="uplmn_list_setting_title">優先ネットワーク</string>
   <string name="uplmn_numeric_is_empty">ネットワークIDを入力</string>
-  <string name="username">ユーザー名</string>
   <string name="username_title">ユーザー名</string>
   <string name="ussdRunning">USSDコードを実行中...</string>
   <string name="ussd_dialog_sep">----------</string>

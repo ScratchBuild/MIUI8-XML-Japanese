@@ -4094,8 +4094,6 @@ PINが正しくない可能性があります。"</string>
   <string name="wait_for_debugger_summary">アプリは実行前にデバッガのアタッチを待機します</string>
   <string name="wakeup_for_keyguard_notification_title">通知で画面ロック解除</string>
   <string name="wallpaper_attributions">壁紙</string>
-  <string name="wallpaper_attributions_values">"航空写真の提供:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">ホーム画面</string>
   <string name="wallpaper_live">ライブ壁紙</string>
   <string name="wallpaper_lockscreen">ロック画面</string>

@@ -836,7 +836,6 @@ to receive reminders about payments and trips"</string>
   <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
   <string name="reply_all">"全員に返信"</string>
   <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">"フィッシングを報告"</string>
   <string name="report_spam">"スパムを報告"</string>
   <string name="request_entity_large">"ファイルが大きすぎます"</string>
@@ -987,7 +986,6 @@ Stop now?"</string>
   <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
 Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
   <string name="wait_for_sync_title">Waiting for sync</string>
-  <string name="wait_help_context">wait</string>
   <string name="webview_logout">You can try to sign in again</string>
   <string name="webview_logout_cancel">"後で"</string>
   <string name="webview_logout_sure">"再試行"</string>

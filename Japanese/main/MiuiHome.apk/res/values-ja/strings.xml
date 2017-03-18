@@ -258,7 +258,6 @@
   <string name="wallpaper_failed_message">"壁紙を設定できません"</string>
   <string name="wallpaper_scaling_message">Scaling to fixed size</string>
   <string name="wallpaper_scroll_type_tips">Wallpaper scroll</string>
-  <string name="wallpaper_scrolling">"すべて"</string>
   <string name="wallpaper_settings">"壁紙"</string>
   <string name="wallpaper_success_message">"壁紙を適用しました"</string>
   <string name="widget_favorite_contacts_edit">"編集"</string>

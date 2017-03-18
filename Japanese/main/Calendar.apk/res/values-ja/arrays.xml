@@ -118,11 +118,6 @@
         <item>【订阅频道】为你量身定制的日历功能和服务</item>
         <item>【订阅频道】发现不一样的日历功能和服务</item>
     </string-array>
-    <string-array name="entryvalues_settings_debug">
-        <item>なし</item>
-        <item>ログをエクスポートして送信</item>
-        <item>ファイルマネージャーにログを生成</item>
-    </string-array>
     <string-array name="widget_style_list">
         <item>Transparent</item>
         <item>White background</item>

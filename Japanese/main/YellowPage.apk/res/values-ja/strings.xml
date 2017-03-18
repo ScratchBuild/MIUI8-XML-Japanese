@@ -332,7 +332,6 @@
   <string name="quick_yellow_page_tab_phones">Phone</string>
   <string name="recharge_actual_price">Price:</string>
   <string name="recharge_charge_range">Price: RMB %1$s-%2$s</string>
-  <string name="recharge_charge_value">Price: RMB %s</string>
   <string name="recharge_follow_name">Top up</string>
   <string name="recharge_history">Top-up history</string>
   <string name="recharge_history_empty">履歴はありません</string>

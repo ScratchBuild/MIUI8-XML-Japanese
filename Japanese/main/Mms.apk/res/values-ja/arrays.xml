@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="default_smiley_names">
-        <item>ハッピー</item>
-        <item>悲しい</item>
-        <item>ウィンク</item>
-        <item>アッカンベー</item>
-        <item>びっくり</item>
-        <item>キス</item>
-        <item>怒鳴る</item>
-        <item>クール</item>
-        <item>きもち悪い</item>
-        <item>しまった</item>
-        <item>困った</item>
-        <item>天使</item>
-        <item>迷う</item>
-        <item>泣く</item>
-        <item>お口にチャック</item>
-        <item>笑顔</item>
-        <item>混乱</item>
-        <item>ハート</item>
-        <item>怒り</item>
-        <item>ニヤニヤ</item>
-        <item>ポーカーフェイス</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>名前</item>
         <item>ニックネーム</item>
@@ -75,11 +52,6 @@
         <item>その他</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>常に</item>
-        <item>サイレントモード時のみ</item>
-        <item>バイブレーションしない</item>
-    </string-array>
-    <string-array name="prefValues_vibrateWhen">
         <item>常に</item>
         <item>サイレントモード時のみ</item>
         <item>バイブレーションしない</item>

@@ -5,27 +5,6 @@
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
     </string-array>
-    <string-array name="clir_display_values">
-        <item>ネットワークのデフォルト</item>
-        <item>番号を非表示</item>
-        <item>番号を表示</item>
-    </string-array>
-    <string-array name="clir_values">
-        <item>デフォルト</item>
-        <item>非表示</item>
-        <item>表示</item>
-    </string-array>
-    <string-array name="call_barring_outgoing_display_values">
-        <item>オフ</item>
-        <item>ローミング通話制限</item>
-        <item>国際通話制限</item>
-        <item>発信通話制限</item>
-    </string-array>
-    <string-array name="call_barring_incoming_display_values">
-        <item>オフ</item>
-        <item>ローミング</item>
-        <item>すべて</item>
-    </string-array>
     <string-array name="list_language_entries">
         <item>英語</item>
         <item>フランス語</item>
@@ -42,11 +21,6 @@
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
-    </string-array>
-    <string-array name="voicemail_notification_vibrate_when_values">
-        <item>常に</item>
-        <item>サイレントモード時</item>
-        <item>バイブレーションしない</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>

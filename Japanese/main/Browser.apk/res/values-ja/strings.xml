@@ -161,7 +161,6 @@
   <string name="color_picker_dialog_title">"色の選択"</string>
   <string name="color_picker_hue">"色調"</string>
   <string name="color_picker_saturation">"彩度"</string>
-  <string name="color_picker_value">"値"</string>
   <string name="comment_app_menu">"コメント"</string>
   <string name="comment_hint">"コメント"</string>
   <string name="comment_menu">"コメント"</string>
