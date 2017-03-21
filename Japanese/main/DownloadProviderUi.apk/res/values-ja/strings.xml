@@ -24,7 +24,7 @@
   <string name="bt_path_not_exit">"このパスは存在しません"</string>
   <string name="bt_restart_dialog_message">"BTフォルダ内のすべてのダウンロードを再開しますか？"</string>
   <string name="bt_restart_dialog_title">"すべてのダウンロードを再開"</string>
-  <string name="bt_xunlei_open_info">Use Xunlei Engine to open such links?</string>
+  <string name="bt_xunlei_open_info">Xunleiエンジンを使用してこれらのリンクを開きますか？"</string>
   <string name="button_sort_by_date">"日付順"</string>
   <string name="button_sort_by_size">"サイズ順"</string>
   <string name="cancel">"キャンセル"</string>
@@ -59,8 +59,8 @@
   <string name="dialog_file_already_exists">"ダウンロードできません。ファイルが既に存在します。"</string>
   <string name="dialog_file_missing_body">"ダウンロードしたファイルが見つかりません。"</string>
   <string name="dialog_file_missing_title">"ファイルを開けません"</string>
-  <string name="dialog_insufficient_space_on_cache">Cannot finish download. There is not enough space on internal download storage.</string>
-  <string name="dialog_insufficient_space_on_external">Cannot finish download. There is not enough space on external storage.</string>
+  <string name="dialog_insufficient_space_on_cache">"ダウンロードを完了できません。内部ストレージに十分な空き領域がありません。"</string>
+  <string name="dialog_insufficient_space_on_external">"ダウンロードを完了できません。外部ストレージに十分な空き領域がありません。"</string>
   <string name="dialog_media_not_found">"ダウンロードできません。外部メディアは使用できません。"</string>
   <string name="dialog_msg_disabled_net">%1$s restricted downloads in the current network. Tap Network settings to go to the Security app.</string>
   <string name="dialog_msg_recommend">"You won't be able to view recommended sources after you turn off. You can choose \"Load when connected to WLAN\" to save mobile data."</string>
@@ -145,8 +145,8 @@
   <string name="expire_today_notification_msg">Xunlei membership expires today.</string>
   <string name="extend">More</string>
   <string name="extract_file">"ファイルの展開中…"</string>
-  <string name="file_exist_hint">This file already exists</string>
-  <string name="file_picker">Choose a location</string>
+  <string name="file_exist_hint">"ファイルが既に存在します"</string>
+  <string name="file_picker">"保存場所を選択"</string>
   <string name="file_size">Size:</string>
   <string name="free_high_speed_channel">Xunlei accelerator (free)</string>
   <string name="free_speedup_exp">Try Xunlei download accelerator for free</string>
@@ -196,7 +196,7 @@
   <string name="new_add_bt">Add torrent</string>
   <string name="no_downloads">No downloads</string>
   <string name="no_file_hint">Download task for this file already exists</string>
-  <string name="no_result_for_keyword">"Couldn't find \"%1$s\""</string>
+  <string name="no_result_for_keyword">"\"%1$s\"が見つかりませんでした"</string>
   <string name="no_share_file">"Couldn't share this file"</string>
   <string name="no_share_file_content">The file you selected has already been deleted</string>
   <string name="no_share_files">"Can't share files that already been deleted"</string>

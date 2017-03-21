@@ -254,7 +254,7 @@
   <string name="app_special_disable_dlg_title">データを削除し、アプリを無効にしますか？</string>
   <string name="app_switch_key">履歴</string>
   <string name="app_usage_preference">アプリの使用状況の設定</string>
-  <string name="application_forbid_auto_startup">Stop %s from starting in background</string>
+  <string name="application_forbid_auto_startup">%sのバックグラウンドでの起動を停止する</string>
   <string name="application_info_label">アプリ情報</string>
   <string name="application_item_already_permission">許可済み</string>
   <string name="application_item_disable">拒否</string>
@@ -316,7 +316,7 @@
   <string name="auto_restore_summary">アプリを再インストールする際に、バックアップした設定とデータを復元する</string>
   <string name="auto_restore_title">自動復元</string>
   <string name="auto_startup_application_manage">自動スタート</string>
-  <string name="auto_startup_count">%d apps are allowed to autostart</string>
+  <string name="auto_startup_count">%d個のアプリが自動起動を許可されています</string>
   <string name="auto_upload_debug_log_summary">診断データには、ハードウェア、オペレーティングシステムやアプリケーションの使用状況に関する情報が含まれます。これらのデータはシステム内の問題を特定、分析するために使用され、個人を識別するために使用されることはありません。</string>
   <string name="auto_upload_debug_log_title">診断データを自動的に送信する</string>
   <string name="automatic_brightness">明るさを自動調整</string>
@@ -812,7 +812,6 @@
   <string name="color_blue">青</string>
   <string name="color_calibration_none">Native</string>
   <string name="color_calibration_srgb">sRGB</string>
-  <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
   <string name="color_cyan">水色</string>
   <string name="color_gray">グレー</string>
   <string name="color_green">緑</string>
@@ -1713,7 +1712,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
   <string name="launcher_auto_fill_empty_title">空のセルを埋める</string>
-  <string name="launcher_title">Home screen</string>
+  <string name="launcher_title">ホーム画面</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>

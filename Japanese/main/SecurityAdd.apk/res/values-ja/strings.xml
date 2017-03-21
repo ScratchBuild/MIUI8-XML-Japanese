@@ -18,15 +18,15 @@
   <string name="game_booster_intro">"Gaming speed boostについて"</string>
   <string name="game_booster_total">Boosted speed %1$s times, added %2$s of gaming time</string>
   <string name="game_more_improve">Restrict background activities and download speed to save battery and bandwidth for gaming</string>
-  <string name="game_setting">Game settings</string>
+  <string name="game_setting">"ゲームの設定"</string>
   <string name="gs_app_back_self_start">Battery saver</string>
   <string name="gs_auto_clean_memory">Clear cache</string>
   <string name="gs_auto_clean_memory_detail">Clear cache automatically to optimize gaming</string>
-  <string name="gs_dialog_confirm_close_msg">The shortcut will be removed from your Home screen. Go to Security &gt; Settings to restore it.</string>
-  <string name="gs_dialog_confirm_close_title">Turn off</string>
+  <string name="gs_dialog_confirm_close_msg">"ショートカットはホーム画面から削除されます。復元するには [セキュリティ] &gt; [設定] に移動します。"</string>
+  <string name="gs_dialog_confirm_close_title">"オフにする"</string>
   <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Time</string>
-  <string name="gs_game_net_priority">Connection priority</string>
+  <string name="gs_game_net_priority">"接続の優先度"</string>
   <string name="gs_game_net_priority_detail">"ダウンロード速度を制限してゲームのために十分な帯域幅を確保する"</string>
   <string name="gs_game_performance">Performance</string>
   <string name="gs_only_self_start_for_list">"バックグラウンドプロセスを制限してゲームのためにバッテリーを節約する"</string>
@@ -35,7 +35,6 @@
   <string name="gs_performance_mode_detail">Increase CPU usage to ensure seamless performance</string>
   <string name="install_game_count">Added %d games</string>
   <string name="loading">"読み込み中…"</string>
-  <string name="lucky_result_title">Red envelopes</string>
   <string name="main_toolbar_purchase">Top up</string>
   <string name="man_add_application">Add autostart apps manually</string>
   <string name="miuishare_title_more">"もっと"</string>

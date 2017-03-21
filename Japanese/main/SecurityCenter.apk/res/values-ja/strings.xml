@@ -7,7 +7,7 @@
   <string name="Settings_title_garbage_cleanup">"クリーナーの設定"</string>
   <string name="Settings_title_network_assistants">"データ使用の設定"</string>
   <string name="Settings_title_power_center">"バッテリーの設定"</string>
-  <string name="about_autostart">About autostart</string>
+  <string name="about_autostart">"自動起動について"</string>
   <string name="ac_enable_title">"アプリロックをオンにする"</string>
   <string name="ac_enter_applock">Enter App lock</string>
   <string name="ac_firstUseApplock_subTitle">Use better system-level security tools</string>
@@ -1111,8 +1111,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="replace_dns">Replace DNS automatically</string>
   <string name="resource_antispam">"ブロックリスト"</string>
   <string name="resource_antivirus">"ウイルススキャン"</string>
-  <string name="resource_app_permissions">App permissions</string>
-  <string name="resource_auto_restart">Manage autostart</string>
+  <string name="resource_app_permissions">"アプリの権限"</string>
+  <string name="resource_auto_restart">"自動起動の管理"</string>
   <string name="resource_buy_flow">Buy mobile data</string>
   <string name="resource_cleanmaster">"クリーナー"</string>
   <string name="resource_networkassistant_1">"データ使用量"</string>
@@ -1463,7 +1463,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_more_setting">"その他の設定"</string>
   <string name="title_network_switch">Network connection</string>
   <string name="title_of_app_manage">"アプリ"</string>
-  <string name="title_of_auto_launch_manage">Autostart</string>
+  <string name="title_of_auto_launch_manage">"自動起動"</string>
   <string name="title_of_operators_set">"キャリアの設定"</string>
   <string name="title_of_package_set">"データプランの設定"</string>
   <string name="title_payment_risk">Payment risks found</string>

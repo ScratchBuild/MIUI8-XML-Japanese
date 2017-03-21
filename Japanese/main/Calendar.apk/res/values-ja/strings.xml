@@ -301,8 +301,8 @@
   <string name="online_reminder_header_text">"リマインダー"</string>
   <string name="path_calendar_settings">"システムアプリ/カレンダー/設定"</string>
   <string name="pengzu">彭祖</string>
-  <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
-  <string name="pref_error_no_ringtone_select">Default ringtone</string>
+  <string name="prefDialogTitle_vibrateWhen">"バイブレーション"</string>
+  <string name="pref_error_no_ringtone_select">"デフォルトの通知音"</string>
   <string name="pref_reminder_time">Reminder time</string>
   <string name="pref_title_alarm_remind">Alarm reminders</string>
   <string name="pref_title_no_remind">"リマインダーなし"</string>
