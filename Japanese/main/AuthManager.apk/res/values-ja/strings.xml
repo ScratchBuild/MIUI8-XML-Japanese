@@ -250,7 +250,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Grant %1$s root access?</string>
   <string name="HIPS_SecurityPrompt_Reject">Deny (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Deny Once (%d)</string>
-  <string name="HIPS_SecurityPrompt_Remember">Remember preference</string>
+  <string name="HIPS_SecurityPrompt_Remember">"設定を保存"</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s is trying to %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d permissions</string>
   <string name="Privacy_AppPerm_Count_Trust">"%1$d permissions - &lt;font color=#478800&gt;信頼済み&lt;/font&gt;"</string>

@@ -116,7 +116,7 @@
   <string name="apps_item_sign_dialog_content">"%s's signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data."</string>
   <string name="apps_item_sign_dialog_title">Install official app</string>
   <string name="apps_item_sign_install_button_text">Replace</string>
-  <string name="apps_item_sms_reset_button_text">Restore defaults</string>
+  <string name="apps_item_sms_reset_button_text">"デフォルトを復元"</string>
   <string name="apps_item_sms_title">Default messaging settings</string>
   <string name="apps_item_summary_sms">%s has access to your messages, it may cause security problems</string>
   <string name="apps_item_summary_system_rooted">Root access has been allowed. Restore default settings to avoid security risks.</string>
@@ -130,7 +130,7 @@
   <string name="apps_list_header_title_sms_access">Restrict access to verification codes</string>
   <string name="auto_atsk_condition_battery_level_text_down">When battery reaches %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">When battery is charged to %s</string>
-  <string name="auto_handle_title">GENERAL</string>
+  <string name="auto_handle_title">"全般"</string>
   <string name="auto_task_condition_choose_battery_level_down">When battery reaches a certain level</string>
   <string name="auto_task_condition_choose_battery_level_up">When battery is charged to a certain level</string>
   <string name="auto_task_condition_choose_end_time">"終了時間"</string>
@@ -171,7 +171,7 @@
   <string name="auto_task_operation_airplane_mode">"機内モード"</string>
   <string name="auto_task_operation_auto_brightness">Auto brightness</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
-  <string name="auto_task_operation_brightness">Screen brightness</string>
+  <string name="auto_task_operation_brightness">"画面の明るさ"</string>
   <string name="auto_task_operation_close">Off</string>
   <string name="auto_task_operation_close_string">Turn off %s</string>
   <string name="auto_task_operation_gps">GPS</string>
@@ -547,7 +547,7 @@
   <string name="hints_need_quick_scan">Recommended quick scan</string>
   <string name="hints_need_regular_scan">Scan your device regularly</string>
   <string name="hints_power_percent_title">battery</string>
-  <string name="hints_remember_choice">Remember preference</string>
+  <string name="hints_remember_choice">"設定を保存"</string>
   <string name="hints_risk_apk_list_item_summary">apk</string>
   <string name="hints_risk_app_list_item_summary">app</string>
   <string name="hints_risk_descx_title">Description:</string>
@@ -961,7 +961,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_optimize_auto_catagory_title">Battery issues</string>
   <string name="power_optimize_battery_save_idea">Optimize battery</string>
   <string name="power_optimize_battery_save_more">More</string>
-  <string name="power_optimize_brightness">Screen brightness</string>
+  <string name="power_optimize_brightness">"画面の明るさ"</string>
   <string name="power_optimize_btn_text_fixed">Optimized</string>
   <string name="power_optimize_catagory_fixed_title">Optimized</string>
   <string name="power_optimize_close_app">Close apps consuming excessive power</string>

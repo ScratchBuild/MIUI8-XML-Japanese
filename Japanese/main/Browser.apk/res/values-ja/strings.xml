@@ -108,8 +108,8 @@
   <string name="bookmark_not_saved">"ブックマークを保存できませんでした"</string>
   <string name="bookmark_rename_group">"グループ名を変更"</string>
   <string name="bookmark_saved">"ブックマークを保存しました"</string>
-  <string name="bookmark_title">Bookmark name</string>
-  <string name="bookmark_title_lable">Title</string>
+  <string name="bookmark_title">"ブックマーク名"</string>
+  <string name="bookmark_title_lable">"タイトル"</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"このURLは既にブックマーク済みです"</string>
   <string name="bookmark_url_lable">URL</string>
@@ -462,7 +462,7 @@ Pages you view won't appear in history."</string>
   <string name="new_folder_name_lable">"グループ名"</string>
   <string name="next_button_label">"進む"</string>
   <string name="no_app_open_document">"この操作を処理するためのアプリが見つかりませんでした"</string>
-  <string name="no_matches">No matches</string>
+  <string name="no_matches">"該当なし"</string>
   <string name="no_space_alert_cancel">"後で"</string>
   <string name="no_space_alert_clean">"空き領域を確保"</string>
   <string name="no_space_alert_text">"十分な空き領域がありません"</string>
@@ -480,12 +480,12 @@ Pages you view won't appear in history."</string>
   <string name="page_info_address">"アドレス:"</string>
   <string name="page_info_view">"ページ情報を表示"</string>
   <string name="password">"パスワード"</string>
-  <string name="password_generation_popup_content_description">Showing password generation popup</string>
+  <string name="password_generation_popup_content_description">"パスワード生成のポップアップを表示"</string>
   <string name="pause_download">Paused</string>
-  <string name="paused_queued_for_wifi">Waiting for connection…</string>
+  <string name="paused_queued_for_wifi">"接続を待っています…"</string>
   <string name="paused_unknown">Paused</string>
-  <string name="paused_waiting_for_network">Waiting for connection…</string>
-  <string name="paused_waiting_to_retry">Waiting to retry…</string>
+  <string name="paused_waiting_for_network">"接続を待っています…"</string>
+  <string name="paused_waiting_to_retry">"再試行を待っています…"</string>
   <string name="pay_failed_toast">"支払いを完了できませんでした"</string>
   <string name="pay_success_toast">"支払いが完了しました"</string>
   <string name="permission_alert_window">"この機能を使用するにはポップアップウインドウを許可してください。"</string>
@@ -494,8 +494,8 @@ Pages you view won't appear in history."</string>
   <string name="positive_confirm_message">Turn off anyway</string>
   <string name="pref_accessibility">"ユーザー補助"</string>
   <string name="pref_accessibility_title">"ユーザー補助"</string>
-  <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one tap in the address bar</string>
-  <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
+  <string name="pref_accessibility_url_shortcut_enter_summary">"よく使う組み合わせはアドレスバーに1タップで入力できます。"</string>
+  <string name="pref_accessibility_url_shortcut_enter_title">"簡易URL入力"</string>
   <string name="pref_adblock_counts">"%d個をブロック済み"</string>
   <string name="pref_adblock_title">Ad blocker</string>
   <string name="pref_auto_update_under_wifi">"Wi-Fi使用時にアップデート"</string>
@@ -780,7 +780,7 @@ Pages you view won't appear in history."</string>
   <string name="video_activity_name">Favorites</string>
   <string name="video_buffering_percent">"バッファリング中 "</string>
   <string name="video_buffering_percent_string">"バッファリング中 "</string>
-  <string name="video_collect_cancel">Unfavorite</string>
+  <string name="video_collect_cancel">"お気に入りから削除"</string>
   <string name="video_collect_success">Favorited</string>
   <string name="video_download_complete">"ダウンロード完了".</string>
   <string name="video_download_empty">No videos</string>

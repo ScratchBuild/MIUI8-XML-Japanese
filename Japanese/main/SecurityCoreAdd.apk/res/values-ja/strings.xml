@@ -131,7 +131,7 @@ You can also download them separately."</string>
   <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
   <string name="normal_app">First space</string>
   <string name="not_support_air_space">"この機能はお使いの端末ではサポートしていません"</string>
-  <string name="not_support_multiple_users">"Multiple spaces aren't supported"</string>
+  <string name="not_support_multiple_users">"複数のSpaceはサポートしていません"</string>
   <string name="notificationSetPassword">Set password</string>
   <string name="notificationSetPasswordDes">Protect Second space data</string>
   <string name="notificationSummary">Switch between spaces from Notification shade</string>
@@ -172,7 +172,7 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="same_qr_code_create_space">Create another one</string>
   <string name="same_qr_code_des">Looks like this Work space already exists. You can use Home screen and Notification shade shortcuts to go there. Go now?</string>
   <string name="same_qr_code_enter_space">"Work spaceに移動"</string>
-  <string name="same_qr_code_title">%s already exists</string>
+  <string name="same_qr_code_title">"%sは既に存在します"</string>
   <string name="scanner_fingerprint">Scanning fingerprint…</string>
   <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint
 to enter Second space from Lock screen"</string>
@@ -264,9 +264,9 @@ to enter Second space from Lock screen"</string>
   <string name="tryNow">"今すぐ試す"</string>
   <string name="wating">"読み込み中…"</string>
   <string name="xpsace_guide_button">"作成"</string>
-  <string name="xspace_chocie">Dual app support</string>
+  <string name="xspace_chocie">"デュアルアプリのサポート"</string>
   <string name="xspace_creating">"デュアルアプリを作成中…"</string>
-  <string name="xspace_description">Create dual apps to use them separately. Dual apps will have specific Home screen icons.</string>
+  <string name="xspace_description">"デュアルアプリを作成して使用します。デュアルアプリはホーム画面上に別々のアイコンを持ちます。"</string>
   <string name="xspace_guide_des">"2つのアカウントを切り替えずに使用する"</string>
   <string name="xspace_guide_title">"%sのデュアルアプリを作成"</string>
   <string name="xspace_header">"デュアルアプリ"</string>

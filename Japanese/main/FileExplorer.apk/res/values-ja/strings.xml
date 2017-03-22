@@ -411,7 +411,7 @@
   <string name="operation_send">"送信"</string>
   <string name="operation_share">"共有"</string>
   <string name="operation_show_sys">"隠しファイルを表示"</string>
-  <string name="operation_unfavorite">Unfavorite</string>
+  <string name="operation_unfavorite">"お気に入りから削除"</string>
   <string name="origin_name">%1$s: </string>
   <string name="original_user_desc">Upload original videos regularly to gain the Creator status</string>
   <string name="original_user_qq_group">Join Talent team QQ group</string>
@@ -640,9 +640,9 @@
   <string name="transfer_done">Files moved successfully.</string>
   <string name="transfer_private_data">Moving hidden folders from SD card…</string>
   <string name="type_not_support">"This file format isn't supported. Unpack this file and try again."</string>
-  <string name="ui_main_toast_favorite_added">Added to favorites</string>
-  <string name="ui_main_toast_favorite_removed">Unfavorited</string>
-  <string name="ui_main_toast_operation_failed">"Can't unfavorited %1$s"</string>
+  <string name="ui_main_toast_favorite_added">"お気に入りに追加しました"</string>
+  <string name="ui_main_toast_favorite_removed">"お気に入りから削除しました"</string>
+  <string name="ui_main_toast_operation_failed">"%1$sをお気に入りから削除できません"</string>
   <string name="unbind">"削除"</string>
   <string name="unbind_account">"%sを削除しますか？"</string>
   <string name="unbind_fail">"削除できませんでした"</string>

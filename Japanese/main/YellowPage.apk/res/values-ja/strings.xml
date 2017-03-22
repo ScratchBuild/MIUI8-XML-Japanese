@@ -189,7 +189,7 @@
   <string name="express_track_order">Track</string>
   <string name="express_tracking_number">追跡番号</string>
   <string name="express_urge_order">Poke</string>
-  <string name="express_view_order">View orders</string>
+  <string name="express_view_order">注文を表示</string>
   <string name="express_view_status">Track</string>
   <string name="expresss_inquiry_all_logistics">すべて</string>
   <string name="expresss_inquiry_frequently_used_logistics">Frequently used</string>
@@ -200,15 +200,15 @@
   <string name="gallery">ギャラリー</string>
   <string name="general_btn_follow">Follow</string>
   <string name="general_btn_follow_ok">Followed</string>
-  <string name="general_cancel_favorite_ok">Favorite removed</string>
+  <string name="general_cancel_favorite_ok">お気に入りから削除しました</string>
   <string name="general_cancel_followed_ok">Unfollowed</string>
   <string name="general_delete_recent_ok">"履歴を削除しました"</string>
-  <string name="general_favorite_ok">Favorite added</string>
-  <string name="general_favorite_title">Favorites</string>
+  <string name="general_favorite_ok">お気に入りに追加しました</string>
+  <string name="general_favorite_title">お気に入り</string>
   <string name="general_follow_hint">Follow %1$s to receive relevant updates</string>
   <string name="general_follow_hint_title">"ヒント"</string>
   <string name="general_menu_delete_recent">"履歴を削除"</string>
-  <string name="general_menu_unfavorite">Remove from favorites</string>
+  <string name="general_menu_unfavorite">"お気に入りから削除"</string>
   <string name="general_menu_unfollow">Unfollow</string>
   <string name="general_no_yellow_page">リストは空です</string>
   <string name="general_recent_title">"履歴"</string>
@@ -246,7 +246,7 @@
   <string name="mark_number_remove">フラグ情報を削除</string>
   <string name="mark_title_null_hint">フラグ情報を入力</string>
   <string name="menu_add_black_list">Add to blocklist</string>
-  <string name="menu_add_to_favorite">Favorites</string>
+  <string name="menu_add_to_favorite">お気に入り</string>
   <string name="menu_call_ip_number">Dial IP call</string>
   <string name="menu_copy_text">クリップボードにコピー</string>
   <string name="menu_correct_yellow_page">問題を報告</string>
@@ -321,7 +321,7 @@
   <string name="payment_back">戻る</string>
   <string name="payment_failed_common_problems">支払い中にエラーが発生しました</string>
   <string name="payment_unknown_status_summary">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
-  <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
+  <string name="payment_unknown_status_title">"支払い状況を確認できません"</string>
   <string name="phone_event_setting_notice_text">"By using this feature you're agreeing to our %1$s and %2$s."</string>
   <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>
   <string name="photo_count">%d total</string>
@@ -361,7 +361,7 @@
 Total: RMB %3$s"</string>
   <string name="recharge_user_confirm_title">Top-up confirmation</string>
   <string name="refresh">更新</string>
-  <string name="remember_preference">Remember preference</string>
+  <string name="remember_preference">設定を保存</string>
   <string name="remind_another_time">次回から表示しない</string>
   <string name="remind_user_confirm">OK</string>
   <string name="remind_user_suspect_number_message">Be careful: Always verify the identity of the caller by phone or video before sharing your personal information.</string>
@@ -411,7 +411,7 @@ Total: RMB %3$s"</string>
   <string name="user_notice_title">注意</string>
   <string name="user_notice_yp_detail_summary_format">Some of your Caller ID info is outdated. Do you want to update it? By using this service, you agree to our %1$s and %2$s.</string>
   <string name="user_notice_yp_detail_summary_format_cta">Some of your Caller ID info is outdated. Do you want to update it? By using this service, you agree to our %1$s and %2$s.</string>
-  <string name="view_orders">View orders</string>
+  <string name="view_orders">注文を表示</string>
   <string name="voicemail">ボイスメール</string>
   <string name="web_permission_message">%1$s needs to view your %2$s to work as designed.</string>
   <string name="yellow_page_details">企業の詳細</string>

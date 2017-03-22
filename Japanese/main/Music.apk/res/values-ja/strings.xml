@@ -18,7 +18,7 @@
   <string name="action_item_multiple">"編集"</string>
   <string name="action_item_play_all">"すべて再生"</string>
   <string name="action_item_remove">"削除"</string>
-  <string name="action_item_remove_from_favorite">Unfavorite</string>
+  <string name="action_item_remove_from_favorite">"お気に入りから削除"</string>
   <string name="action_item_send">"送信"</string>
   <string name="action_item_share">"共有"</string>
   <string name="action_settings">"設定"</string>
@@ -609,11 +609,11 @@ is mainly provided by Ultimate Inc."</string>
   <string name="pause_download">Pause</string>
   <string name="paused_by_app">Paused</string>
   <string name="paused_in_power_save_mode">Paused when Battery saver is on</string>
-  <string name="paused_insufficient_space">Waiting</string>
-  <string name="paused_queued_for_wifi">Waiting for connection</string>
+  <string name="paused_insufficient_space">"待機中"</string>
+  <string name="paused_queued_for_wifi">"接続を待っています"</string>
   <string name="paused_unknown">Paused</string>
-  <string name="paused_waiting_for_network">Waiting for connection</string>
-  <string name="paused_waiting_to_retry">Waiting to retry</string>
+  <string name="paused_waiting_for_network">"接続を待っています"</string>
+  <string name="paused_waiting_to_retry">"再試行を待っています"</string>
   <string name="pay">Pay:</string>
   <string name="pay_now">Current service</string>
   <string name="payment_fail">Payment failed</string>

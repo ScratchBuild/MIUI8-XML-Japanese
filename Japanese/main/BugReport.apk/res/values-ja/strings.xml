@@ -59,10 +59,10 @@
   <string name="feedback_description_bugreport_hint">In some cases (…) my phone misbehaves (…).</string>
   <string name="feedback_description_label">Description</string>
   <string name="feedback_description_suggest_hint">"I'd like you to add a new feature () because I need ()."</string>
-  <string name="feedback_detail_tile">Progress</string>
-  <string name="feedback_empty_report_list">No reports yet</string>
+  <string name="feedback_detail_tile">"進捗状況"</string>
+  <string name="feedback_empty_report_list">"レポートはありません"</string>
   <string name="feedback_guess">Our guess</string>
-  <string name="feedback_history_remind_login_desc">"Sign in with your Mi Account to view details and your report's progress"</string>
+  <string name="feedback_history_remind_login_desc">"レポートの進捗状況の詳細を表示するには、Mi Accountでログインしてください"</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Key: %s</string>
   <string name="feedback_package_log_failed">"ログを圧縮できませんでした"</string>
@@ -70,7 +70,7 @@
   <string name="feedback_probability_label">Probability</string>
   <string name="feedback_remind_login_btn">"ログイン"</string>
   <string name="feedback_report_remind_login_desc">"エンジニアがあなたに連絡できるよう、お使いのMi Accountにログインしてください。"</string>
-  <string name="feedback_report_remind_login_desc2">"You can also view your report's progress in \"My reports\"."</string>
+  <string name="feedback_report_remind_login_desc2">"\"My reports\"でレポートの進捗状況を確認することができます。"</string>
   <string name="feedback_retest_label">"再現手順"</string>
   <string name="feedback_select_images">"画像を追加"</string>
   <string name="feedback_select_problem">"問題"</string>
@@ -225,7 +225,7 @@
   <string name="pic_not_exist">"この画像は存在しません"</string>
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Your feedback along with error logs will be sent to Mi's servers."</string>
-  <string name="plus_one_submit_dialog_not_show_again">Remember preference</string>
+  <string name="plus_one_submit_dialog_not_show_again">"設定を保存"</string>
   <string name="post_miui_bbs_failed">"フォーラムに投稿できませんでした"</string>
   <string name="pull_to_refresh_pull_label">"画面を引っ張って"</string>
   <string name="pull_to_refresh_refreshing_label">読み込み中…</string>
