@@ -17,8 +17,8 @@
         <item quantity="one">"%1$d時間前"</item>
     </plurals>
     <plurals name="match_brand_selection_des">
-        <item quantity="other">%d brands available</item>
-        <item quantity="one">1 brand available</item>
+        <item quantity="other">"%d個のブランドが利用可能"</item>
+        <item quantity="one">"1個のブランドが利用可能"</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">"%1$d分前"</item>

@@ -161,7 +161,7 @@
   <string name="michat_msg_status_sendding">"送信中…"</string>
   <string name="michat_msg_too_long_info">"You've entered %1$d characters. You can enter up to %2$d characters."</string>
   <string name="michat_net_error_info">No network connection, tap here to go to Settings</string>
-  <string name="michat_network_unavaliable">"Couldn't get info, check network connection"</string>
+  <string name="michat_network_unavaliable">"情報を取得できませんでした、ネットワーク接続を確認してください"</string>
   <string name="michat_no_good_message_title">"This can't solve my problem."</string>
   <string name="michat_product_click_text">"表示"</string>
   <string name="michat_pull_to_refresh_pull_label">Pull down to view history</string>

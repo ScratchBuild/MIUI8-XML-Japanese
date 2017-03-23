@@ -175,8 +175,8 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_toast_deny">"Mi Accountにログイン"</string>
   <string name="micloud_confusion_yes">はい</string>
   <string name="micloud_detail_battery_low">Battery low</string>
-  <string name="micloud_detail_battery_low_message">Battery is low. Charge your phone to sync.</string>
-  <string name="micloud_detail_battery_low_title">Battery is low</string>
+  <string name="micloud_detail_battery_low_message">電池残量が少なくなっています。同期するには端末を充電してください。</string>
+  <string name="micloud_detail_battery_low_title">電池残量が少なくなっています</string>
   <string name="micloud_detail_depend_wifi_message">"Wi-Fiに接続するか、同期設定を確認してください。"</string>
   <string name="micloud_detail_depend_wifi_title">"Wi-Fiに接続"</string>
   <string name="micloud_detail_do_not_sync">同期しない</string>
@@ -241,8 +241,8 @@ When your cloud is full, your old data won't go anywhere. However, any new conte
 
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
-  <string name="micloud_main_battery_low">Not enough battery to sync</string>
-  <string name="micloud_main_battery_message">Connect your device to a power source to sync</string>
+  <string name="micloud_main_battery_low">同期のためのバッテリー不足</string>
+  <string name="micloud_main_battery_message">同期するには端末を電源に接続してください</string>
   <string name="micloud_main_cancel_sync">同期をキャンセル</string>
   <string name="micloud_main_clear_now">"消去"</string>
   <string name="micloud_main_detail">詳細を表示</string>
@@ -276,7 +276,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_sync_pause">同期の一時停止</string>
   <string name="micloud_main_sync_pending">Waiting to sync</string>
   <string name="micloud_main_sync_setting">同期設定</string>
-  <string name="micloud_main_sync_stop">Sync stopped</string>
+  <string name="micloud_main_sync_stop">同期が停止しました</string>
   <string name="micloud_main_synced_data_count">%d items synced</string>
   <string name="micloud_main_syncing">同期中…</string>
   <string name="micloud_main_title_master_sync_off">Auto-sync is off</string>

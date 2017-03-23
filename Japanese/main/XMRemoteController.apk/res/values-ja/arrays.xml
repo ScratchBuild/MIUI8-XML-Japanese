@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ac_mode_array">
-        <item>Cooling</item>
-        <item>Heating</item>
-        <item>Dehumidifying</item>
-        <item>Fan</item>
+        <item>冷房</item>
+        <item>暖房</item>
+        <item>除湿</item>
+        <item>送風</item>
     </string-array>
     <string-array name="answer">
-        <item>Your device can only pair with Mi TV, Mi Box, and a handful of other Android devices using Wi-Fi.</item>
-        <item>"Make sure you've selected the right A/C model in the pairing process. Follow the prompts on your device until the pairing is complete."</item>
-        <item>No. Currently you can use Mi 4, Mi 4c, and Redmi Note 2 as IR remotes.</item>
+        <item>"お使いの端末はMi TV, Mi Box, 及びその他のWi-Fiを使用したAndroid搭載端末のみペアリングできます。"</item>
+        <item>"ペアリングの手順で正しいエアコンのモデルを選択したことを確認してください。ペアリングが完了するまで端末に表示された手順に従ってください。"</item>
+        <item>"いいえ。現在リモコンとして利用できるのはMi 4, Mi 4c, およびRedmi Note 2です。"</item>
     </string-array>
     <string-array name="epg_week_tab">
         <item>日</item>
@@ -21,9 +21,9 @@
         <item>土</item>
     </string-array>
     <string-array name="question">
-        <item>Why does my phone keep searching for wireless devices?</item>
-        <item>"Why can I only turn on my A/C and can't turn it off?"</item>
-        <item>Can I use Mi 3, Mi 2, and Redmi as an IR remote?</item>
+        <item>"携帯がワイヤレスデバイスを探し続けているのはなぜですか？"</item>
+        <item>"なぜエアコンのみをオンにでき、オフにはできないのですか？"</item>
+        <item>"私はMi 3, Mi 2を使用しています、Redmiの様にリモコンを利用できますか？"</item>
     </string-array>
     <string-array name="assistant_tab">
         <item>ビデオ</item>
@@ -45,20 +45,6 @@
         <item>Satellite TV Channel</item>
         <item>HD channels</item>
         <item>Recently Watched</item>
-    </string-array>
-    <string-array name="epg_channel_tab_actionbar_v53">
-        <item>All Channels</item>
-        <item>Recently Watched</item>
-        <item>HD channels</item>
-        <item>Satellite TV Channel</item>
-        <item>CCTV Channel</item>
-    </string-array>
-    <string-array name="epg_channel_tab_v53">
-        <item>Complete</item>
-        <item>Recent</item>
-        <item>HD</item>
-        <item>TV</item>
-        <item>CCTV</item>
     </string-array>
     <string-array name="epg_program_genre">
         <item></item>
@@ -89,9 +75,5 @@
         <item>少儿节目</item>
         <item>新闻节目</item>
         <item>生活节目</item>
-    </string-array>
-    <string-array name="user_notification_tab">
-        <item>\@与我相关</item>
-        <item>系统通知</item>
     </string-array>
 </resources>

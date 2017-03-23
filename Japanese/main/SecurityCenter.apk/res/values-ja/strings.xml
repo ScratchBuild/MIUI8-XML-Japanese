@@ -1313,7 +1313,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_payment_risk">"支払い環境が安全ではないように見えます。"</string>
   <string name="summary_permission">Avoid unwanted payments and protect personal data</string>
   <string name="summary_permission_root">Looks like this device has root access. It may damage the security of your device.</string>
-  <string name="summary_power_optimizer">"Reduce your device's performance when battery is low"</string>
+  <string name="summary_power_optimizer">"電池残量が残り少ないと、デバイスのパフォーマンスが低下します"</string>
   <string name="summary_realname_verify">Verify your identity to make payments more secure.</string>
   <string name="summary_show_notification">Clear cache, view battery status, and block items in Notification shade</string>
   <string name="summary_telecom_operator">Get your monthly data usage stats from your carrier</string>
@@ -1339,40 +1339,40 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="system_need_update_desc">"現在のシステムのバージョンが低すぎます、ランダムな表現力機能を使用することができないため、MIUIシステムを更新してください。"</string>
   <string name="system_need_update_title">"システムのバージョンが低すぎます"</string>
   <string name="tc_diagnostic_all_error_notification_summary">"問題を報告するにはタップ"</string>
-  <string name="tc_diagnostic_all_error_notification_title">"Couldn't complete diagnostics"</string>
-  <string name="tc_diagnostic_brand_error_notification_summary">Tap to adjust network type</string>
-  <string name="tc_diagnostic_brand_error_notification_title">Wrong network type</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier brand&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_all_error_notification_title">"診断を完了できませんでした"</string>
+  <string name="tc_diagnostic_brand_error_notification_summary">"ネットワークの種類を調整するにはタップ"</string>
+  <string name="tc_diagnostic_brand_error_notification_title">"間違ったネットワークの種類"</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;結果: 間違ったブランド&lt;br/&gt;&lt;br/&gt;ブランドを設定: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">"完了"</string>
   <string name="tc_diagnostic_fragment_default">"About diagnostics
 1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
 2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
-  <string name="tc_diagnostic_location_error_notification_summary">Tap to adjust location</string>
-  <string name="tc_diagnostic_location_error_notification_title">Wrong location</string>
+  <string name="tc_diagnostic_location_error_notification_summary">"位置情報を調整するにはタップ"</string>
+  <string name="tc_diagnostic_location_error_notification_title">"間違った位置情報"</string>
   <string name="tc_diagnostic_notification_sumarry">"結果を表示するにはタップ"</string>
-  <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
+  <string name="tc_diagnostic_notification_summary">"5回続けて調整できませんでした。診断を開始するにはタップ。"</string>
   <string name="tc_diagnostic_notification_title">"キャリア診断"</string>
   <string name="tc_diagnostic_onekey_repair_botton">"修復"</string>
   <string name="tc_diagnostic_operator_error_notification_summary">"キャリアの設定を変更するにはタップ"</string>
   <string name="tc_diagnostic_operator_error_notification_title">"間違ったキャリア"</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier&lt;br/&gt;&lt;br/&gt;Set carrier: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_and_continue">Fix and continue</string>
-  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location issues.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location and carrier issues.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_success_toast">Changed successfully</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Result: Couldn't complete diagnostics&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Result: Wrong location&lt;br/&gt;&lt;br/&gt;Set location: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual location: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
-  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;No network connection&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Couldn't get info&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correct&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Carrier network responds&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_updating">Testing…</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;結果: 間違ったキャリア&lt;br/&gt;&lt;br/&gt;キャリアを設定: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_and_continue">"修復して続行"</string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;診断が完了しました、位置情報の問題を修復済み。&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;診断が完了しました、位置情報とキャリア設定の問題を修復済み。&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_success_toast">"正常に変更されました"</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;結果: 診断を完了できませんでした&lt;br/&gt;&lt;br/&gt;MIUIが診断ツールを改善するのを助けるため、この問題を報告&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;結果: 間違った位置情報&lt;br/&gt;&lt;br/&gt;位置情報を設定: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual location: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_error_brand">キャリアネットワークが見つかりません</string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;エラー&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;ネットワーク接続なし&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;情報を取得できませんでした&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;正常&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;キャリアネットワークからの応答あり&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;タイムアウト&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_updating">"テスト中…"</string>
   <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
   <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;結果: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">"キャリア診断"</string>
   <string name="tc_diagnostic_upload_button">"報告"</string>
   <string name="tc_diagnostic_upload_no_network">"ご意見ありがとうございます！ あなたの報告はネットワークに接続したときに送信されます。"</string>
@@ -1503,7 +1503,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="toast_show_notification">"通知シェードにピン留めしました"</string>
   <string name="toast_update_file_explore">"ファイルマネージャーのバージョンが低すぎます、アプリストアで更新してください"</string>
   <string name="toast_update_miui_rom">"MIUIバージョンが低すぎます、システムを更新してください"</string>
-  <string name="toast_virus_cloudscan">Virus scan will use online definitions</string>
+  <string name="toast_virus_cloudscan">"オンライン定義を使用してウイルススキャン"</string>
   <string name="toast_virus_in_cloud_scanning">"クラウドスキャンを停止できません"</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Monthly plan changed to %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">"データプランを更新しました"</string>
