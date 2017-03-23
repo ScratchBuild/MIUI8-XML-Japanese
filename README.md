@@ -5,7 +5,7 @@
 ## JAPANESE MIUI TRANSLATION FOR XIAOMI.EU MULTILANGUAGE ROMS
 XIAOMI.EU 多言語対応ROM 日本語翻訳リポジトリ
 
-![Percentage of translated strings](https://img.shields.io/badge/translated-70%25-brightgreen.svg)
+![Percentage of translated strings](https://img.shields.io/badge/translated-71%25-brightgreen.svg)
 
 Latest XML changes from originals values to translate | 翻訳用のオリジナル値から最新のXML変更:
 
