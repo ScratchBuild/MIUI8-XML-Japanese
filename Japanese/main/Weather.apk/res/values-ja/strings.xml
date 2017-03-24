@@ -62,7 +62,9 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">"現在"</string>
   <string name="hourly_forecast_title">"1時間ごとの予報"</string>
+  <string name="index_item_experience_now">"今すぐインストール"</string>
   <string name="index_item_install_now">"今すぐインストール"</string>
+  <string name="index_item_installing">"インストール中"</string>
   <string name="indices_desc_feel">"体感気温 %1$s°C"</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">"湿度 %1$s%%"</string>
@@ -107,6 +109,7 @@
   <string name="no_vote_ratio">Against %1$s%%</string>
   <string name="open">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
+  <string name="open_now">"今すぐ開く"</string>
   <string name="other">"その他"</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_aqi_title">Air Quality Index</string>

@@ -222,6 +222,8 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_background_start_activity_Desc">start in background</string>
   <string name="HIPS_Perm_get_accounts">Access accounts on device</string>
   <string name="HIPS_Perm_get_accounts_Desc">access all accounts stored on device</string>
+  <string name="HIPS_Perm_get_installed_apps">Get info about installed apps</string>
+  <string name="HIPS_Perm_get_installed_apps_Desc">get info about the apps installed on this device</string>
   <string name="HIPS_Perm_get_tasks">Get tasks</string>
   <string name="HIPS_Perm_get_tasks_Desc">get tasks</string>
   <string name="HIPS_Perm_install_shortcut">Home screen shortcuts</string>
@@ -232,6 +234,8 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_process_outgoing_calls_Desc">monitor and end calls</string>
   <string name="HIPS_Perm_read_notification_sms">Service SMS</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">read service SMS</string>
+  <string name="HIPS_Perm_service_foreground">service foreground</string>
+  <string name="HIPS_Perm_service_foreground_Desc">service foreground</string>
   <string name="HIPS_Perm_show_when_locked">Show on Lock screen</string>
   <string name="HIPS_Perm_show_when_locked_Desc">be shown on Lock screen</string>
   <string name="HIPS_Perm_use_sip">Video services</string>

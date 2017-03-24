@@ -2,9 +2,11 @@
 <resources>
     <plurals name="group_move_success_toast">
         <item quantity="other">%1$d件の連絡先を移動しました</item>
+        <item quantity="one">%1$d件の連絡先を移動しました</item>
     </plurals>
     <plurals name="group_copy_success_toast">
         <item quantity="other">%1$d件の連絡先をコピーしました</item>
+        <item quantity="one">%1$d件の連絡先をコピーしました</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">電話番号のある連絡先%d件</item>
@@ -47,12 +49,12 @@
         <item quantity="one">1件のボイスメール</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIMカードには%d件の連絡先を保存できます。</item>
-        <item quantity="one">SIMカードには%d件の連絡先を保存できます。</item>
+        <item quantity="other">SIMカードには%1$d件の連絡先を保存できます。</item>
+        <item quantity="one">SIMカードには%1$d件の連絡先を保存できます。</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">SIMカードから%d件の連絡先を削除しますか？</item>
-        <item quantity="one">SIMカードから%d件の連絡先を削除しますか？</item>
+        <item quantity="other">SIMカードから%1$d件の連絡先を削除しますか？</item>
+        <item quantity="one">SIMカードから%1$d件の連絡先を削除しますか？</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d件選択済み</item>
@@ -99,20 +101,20 @@
         <item quantity="one">%1$d件の連絡先を追加しました</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">%d件の連絡先を削除</item>
-        <item quantity="one">%d件の連絡先を削除</item>
+        <item quantity="other">%1$d件の連絡先を削除</item>
+        <item quantity="one">%1$d件の連絡先を削除</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d人</item>
-        <item quantity="one">%d人</item>
+        <item quantity="other">%1$d人</item>
+        <item quantity="one">%1$d人</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d件の連絡先をインポートしました</item>
         <item quantity="one">%1$d件の連絡先をインポートしました</item>
     </plurals>
     <plurals name="batch_delete_msg">
-        <item quantity="other">%d件の連絡先を削除しますか？</item>
-        <item quantity="one">%d件の連絡先を削除しますか？</item>
+        <item quantity="other">%1$d件の連絡先を削除しますか？</item>
+        <item quantity="one">%1$d件の連絡先を削除しますか？</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d件選択済み</item>
@@ -136,16 +138,16 @@
         <item quantity="one">分</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Rang %d times</item>
-        <item quantity="one">Rang %d time</item>
+        <item quantity="other">Rang %1$d times</item>
+        <item quantity="one">Rang %1$d time</item>
     </plurals>
     <plurals name="contacts_count">
         <item quantity="other">%1$d件の連絡先</item>
         <item quantity="one">%1$d件の連絡先</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%d件の連絡先または写真が同期されていません</item>
-        <item quantity="one">%d件の連絡先または写真が同期されていません</item>
+        <item quantity="other">%1$d件の連絡先または写真が同期されていません</item>
+        <item quantity="one">%1$d件の連絡先または写真が同期されていません</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">1時間前</item>
@@ -157,8 +159,8 @@
         <item quantity="other">たった今</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d分前</item>
-        <item quantity="one">1分前</item>
+        <item quantity="other">%1$d分前</item>
+        <item quantity="one">%1$d分前</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">In 1 hour</item>
@@ -170,7 +172,7 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">in %1$d mins</item>
+        <item quantity="one">in %1$d min</item>
     </plurals>
 </resources>

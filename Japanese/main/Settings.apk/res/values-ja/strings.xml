@@ -2186,6 +2186,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="mvno_match_data">MVNO値</string>
   <string name="mvno_type">MVNOの種類</string>
   <string name="my_device">My device</string>
+  <string name="my_device_disclaimer">Note: Hardware info, including CPU, battery capacity, screen size and resolution, and camera, is provided by Xiaomi labs, designers, and suppliers.</string>
   <string name="nearby_wifi">利用可能なネットワーク</string>
   <string name="need_reboot_now">アップデートをインストールするため再起動します。</string>
   <string name="netcheck_title">ネットワーク診断</string>
@@ -3725,7 +3726,7 @@ PINが正しくない可能性があります。"</string>
   <string name="tts_status_title">デフォルトの言語のステータス</string>
   <string name="turn_off_common_password_confirm_msg">画面ロックも同様にオフになります</string>
   <string name="turn_off_keyguard_password_alert_title">オフにする</string>
-  <string name="turn_off_keyguard_password_confirm_msg">ロック画面のパスワードをオフにしますか？</string>
+  <string name="turn_off_keyguard_password_confirm_msg">パスワードの設定を行わないと、デバイスの保護機能が動作しません。</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">ロック画面のパスワードをオフにした後には、指紋認証でデバイスのロックを解除することはできません</string>
   <string name="turn_off_radio">無線通信をOFF</string>
   <string name="turn_off_security_lock">ロックをOFF</string>
@@ -4080,6 +4081,8 @@ PINが正しくない可能性があります。"</string>
   <string name="vpn_save_login">アカウント情報を保存する</string>
   <string name="vpn_search_domains">DNS検索ドメイン</string>
   <string name="vpn_server">サーバーアドレス</string>
+  <string name="vpn_set_screen_lock_content">VPN設定を保存するため、ロック画面のパスワードを設定します</string>
+  <string name="vpn_set_screen_lock_title">ロック画面のパスワードを設定</string>
   <string name="vpn_settings_not_available">このユーザーはVPN設定を利用できません。</string>
   <string name="vpn_settings_password">VPNパスワードを追加</string>
   <string name="vpn_settings_summary">ロック画面のパスワードを使用して、VPNの設定を保護</string>

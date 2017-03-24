@@ -77,6 +77,7 @@ i.mi.com にログインして“Find device”に移動したら、デバイス
   <string name="unlock_string">"ロックを解除"</string>
   <string name="unlocking_sim_card">"SIMカードのロックを解除中"</string>
   <string name="unlockscreen_low_battery">"充電器を接続してください"</string>
+  <string name="unlockscreen_quick_charging_message">"急速充電中 %d%%"</string>
   <string name="unlockscreen_recharge_completed">"充電完了"</string>
   <string name="unlockscreen_recharging_message">"充電中 %d%%"</string>
   <string name="wrong_password">"パスワードが正しくありません"</string>

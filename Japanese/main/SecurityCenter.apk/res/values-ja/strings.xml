@@ -53,6 +53,7 @@
   <string name="activity_title_virus_detail">"ウイルスの詳細"</string>
   <string name="activity_title_virus_settings">"設定"</string>
   <string name="activity_title_white_list">"例外"</string>
+  <string name="ad_btn_default_text">"詳細"</string>
   <string name="adb_install_no_network">"ネットワークに接続してもう一度お試しください"</string>
   <string name="adb_install_open">Allowing…</string>
   <string name="adb_install_open_error">"Couldn't allow, check your network connection"</string>
@@ -165,6 +166,8 @@
   <string name="auto_task_notify_task_cancel_do">Cancel action</string>
   <string name="auto_task_notify_task_canceled_summary">You can make and receive calls</string>
   <string name="auto_task_notify_task_canceled_summary2">"Looks like you're playing a game now."</string>
+  <string name="auto_task_notify_task_canceled_summary3">"Second spaceによってキャンセルされました"</string>
+  <string name="auto_task_notify_task_canceled_summary4">"First spaceによってキャンセルされました"</string>
   <string name="auto_task_notify_task_canceled_title">Action is canceled</string>
   <string name="auto_task_notify_task_continue_do">Start action</string>
   <string name="auto_task_notify_task_count_down">Automated action will start in 5 seconds</string>
@@ -271,6 +274,7 @@
   <string name="btn_text_start_check">"スキャン"</string>
   <string name="btn_text_stop">"停止"</string>
   <string name="btn_text_virus_scan">"スキャン"</string>
+  <string name="button_look_up">"表示するにはタップ"</string>
   <string name="button_open">"今すぐ開く"</string>
   <string name="button_text_accept">"許可"</string>
   <string name="button_text_accept_timer">"許可 (%d)"</string>
@@ -340,6 +344,15 @@
   <string name="card_main_xspace_action">"作成"</string>
   <string name="card_main_xspace_summary">Create dual accounts for any app</string>
   <string name="card_main_xspace_title">"デュアルアプリ"</string>
+  <string name="card_sms_report">Report via SMS</string>
+  <string name="card_tc_failed">"Couldn't calibrate"</string>
+  <string name="card_tc_failed_content">"Possible reasons:
+ 1. Carriers respond slower at the beginning and at the end of a month. Try again in a couple of days.
+ 2. A network request template is required when you calibrate for the first time. Connect to the network and try again.
+ 3. Your carrier may not support sending text messages with the remaining data and phone balance. Contact your carrier to learn more.
+ 4. There may be an error in the carrier data. Try carrier diagnostics to solve this.
+ 5. Nothing seems to help? Tap \"Report via SMS\" to send your feedback to Xiaomi in a text message."</string>
+  <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Last charge "</string>
   <string name="charging_text_battery_nearly_full">Almost fully charged</string>
   <string name="charging_text_battery_perfect">Fully charged</string>
@@ -375,6 +388,7 @@
   <string name="cta_dialog_title">"インターネット接続"</string>
   <string name="cta_settings">"インターネット接続を許可する"</string>
   <string name="current_network_state_not_need_diagnose">"インターネット接続は正常です。"</string>
+  <string name="customize_limit_pkg">%s (custom)</string>
   <string name="daily_limit_and_lock_screen">Data limit &amp; notifications</string>
   <string name="daily_limit_network_available_body">Tap to view data usage stats.</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
@@ -396,7 +410,9 @@
   <string name="data_usage_restricted_body">"バックグラウンドデータをオンにするにはタップ。"</string>
   <string name="data_usage_restricted_title">Background data restricted</string>
   <string name="data_usage_warning_body">"データ使用量の詳細を表示するにはタップ。"</string>
+  <string name="data_usage_warning_body_notify">"詳細を表示するにはタップ"</string>
   <string name="data_usage_warning_title">"データ使用の警告"</string>
+  <string name="data_usage_warning_title_notify">"データ使用量の制限を超えました"</string>
   <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deep_clean_disconnect_data_title">Turn off mobile data when device is locked</string>
@@ -479,14 +495,16 @@
   <string name="fingerprint_verify_succeed">Fingerprint verified</string>
   <string name="fingerprint_verify_try_agin">"Couldn't scan fingerprint, try again"</string>
   <string name="firewall_activity_lable">Restrict data usage by app</string>
+  <string name="firewall_allow_network">Allowed</string>
   <string name="firewall_applist">"アプリ"</string>
   <string name="firewall_fragment_nonesys_listempty">Empty</string>
   <string name="firewall_fragment_sys_listempty">Empty</string>
   <string name="firewall_fragment_tab_title_nonsys">Installed</string>
   <string name="firewall_fragment_tab_title_sys">"システム"</string>
+  <string name="firewall_network_allow">Allowed %1$s to use %2$s connection</string>
   <string name="firewall_network_restrict_notify_message">"設定を変更するにはタップ。"</string>
   <string name="firewall_network_restrict_notify_mobile">"モバイルデータ"</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s can't use %2$s"</string>
+  <string name="firewall_network_restrict_notify_title">"%1$sはネットワークを使用できません"</string>
   <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
   <string name="firewall_restrict_android_dialog_title">"注意"</string>
   <string name="firewall_rule_group_title_mobile">Mobile</string>
@@ -510,6 +528,12 @@
   <string name="go_to">"続行"</string>
   <string name="go_to_setting_fingerprint">"設定"</string>
   <string name="goto_set">"設定"</string>
+  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;間違ったキャリア？&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="guide_operator_text">"現在のキャリア: "</string>
+  <string name="guide_primary_text">"モバイルデータの使用量を管理するには、ネットワークアシスタントをオンにします"</string>
+  <string name="guide_quck_open">"オンにする"</string>
+  <string name="guide_second_text">"After you set your carrier, MIUI will monitor your mobile data usage daily by sending free carrier SMS. When MIUI detects you've gone over your data limit, it will disconnect from the network and notify you."</string>
+  <string name="guide_wait_setting">"後で"</string>
   <string name="handle_bar_summary_wifi_unknown">"不明"</string>
   <string name="handle_bar_title_apps">"アプリ"</string>
   <string name="handle_bar_title_paysms">"メッセージ"</string>
@@ -618,6 +642,8 @@
   <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
   <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
   <string name="legal_workday_message">(Skip holidays)</string>
+  <string name="leisure_usage_dialog_message">"You've reached your off-peak data limit. Carrier may charge you additional fees if you use mobile data connection again."</string>
+  <string name="leisure_usage_dialog_title">You went over your off-peak data limit, data connection is off</string>
   <string name="list_empty_text">Empty</string>
   <string name="load_fail">"読み込めませんでした"</string>
   <string name="load_only_under_wlan">"Wi-Fi接続時のみ読み込む"</string>
@@ -666,41 +692,35 @@
   <string name="main_alert_message_no_imsi">"SIMカードが検出できません"</string>
   <string name="main_alert_message_no_mobile_package">Set data limit</string>
   <string name="main_alert_message_open_traffic_ctrl">We recommend restricting data usage</string>
-  <string name="main_button_idel_traffic">Off-peak</string>
-  <string name="main_button_normal_traffic">Peak</string>
+  <string name="main_bill_remained">Phone balance</string>
   <string name="main_button_usage_adjust">Sync mobile data usage</string>
   <string name="main_button_usage_adjust_manual">Set data usage limit</string>
   <string name="main_button_usage_adjusting">"変更中…"</string>
   <string name="main_button_usage_package_setting">Set data usage limit</string>
-  <string name="main_message_no_package_by_dual">Set data limit for %s</string>
+  <string name="main_leisure_remained">Off-peak data remaining</string>
+  <string name="main_month_total_used">Used this month</string>
+  <string name="main_month_used">Used this month</string>
+  <string name="main_no_info">No data</string>
+  <string name="main_normal_data_usage">Used mobile data</string>
   <string name="main_open_traffic_ctrl_button">Restrict data usage</string>
-  <string name="main_primary_message_traffic_cur_leisure">Off-peak data usage</string>
-  <string name="main_primary_message_traffic_cur_normal">Under peak data limit</string>
-  <string name="main_primary_message_traffic_cur_normal_overlimit">Data limit exceeded</string>
-  <string name="main_primary_message_traffic_cur_normal_warning">"データ使用の警告"</string>
-  <string name="main_primary_message_traffic_enough">Under data usage limit</string>
-  <string name="main_primary_message_traffic_overlimit">Data usage limit exceeded</string>
-  <string name="main_primary_message_traffic_overlimit_purchase">You need to top up</string>
-  <string name="main_primary_message_traffic_purchase">You need to top up</string>
-  <string name="main_primary_message_traffic_warning">Approaching data usage limit</string>
-  <string name="main_secondary_message_traffic_detail_leisure">"Off-peak: %1$s | %2$s used"</string>
-  <string name="main_secondary_message_traffic_detail_normal">"Peak: %1$s%2$s | %3$s used"</string>
-  <string name="main_secondary_message_traffic_over">"超過 "</string>
-  <string name="main_secondary_message_traffic_remain">"残り "</string>
-  <string name="main_secondary_message_traffic_used_leisure">%s off-peak data used</string>
-  <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
-  <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
+  <string name="main_primary_message_leisure_alert">Off-peak data warning</string>
+  <string name="main_primary_message_leisure_overlimit">Went over off-peak data limit</string>
+  <string name="main_primary_message_leisure_remain">Off-peak data</string>
+  <string name="main_primary_message_traffic_overlimit">Went over data limit</string>
+  <string name="main_primary_message_traffic_remain">Mobile data</string>
+  <string name="main_primary_message_traffic_warning">Mobile data warning</string>
+  <string name="main_purchase_tips">Promotion</string>
+  <string name="main_tc_over">Calibrated successfully</string>
+  <string name="main_tc_send_sms">"Send SMS to calibrate"</string>
+  <string name="main_tc_wait_result">"Waiting for the carrier to respond"</string>
+  <string name="main_today_used">Used today</string>
   <string name="main_toolbar_firewall">Restrict data usage</string>
   <string name="main_toolbar_internet_by_mobiledata">"モバイルデータ"</string>
   <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
   <string name="main_toolbar_internet_by_wifi">"Wi-Fi"</string>
   <string name="main_toolbar_purchase">Top up</string>
   <string name="main_toolbar_statistic">Data usage stats</string>
-  <string name="main_traffic_overlimit_text">"超過"</string>
-  <string name="main_traffic_remian_text">"残り"</string>
-  <string name="main_traffic_used">%s used</string>
-  <string name="main_traffic_used_only">%s used</string>
-  <string name="main_traffic_used_text">used</string>
+  <string name="main_used_bill">%s CNY</string>
   <string name="manual_handle_title">"利用可能な機能"</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">Set data usage</string>
@@ -782,7 +802,7 @@ T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your ro
 R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
 
  5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
+T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider. "</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
  1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
@@ -800,7 +820,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="networkchanged_exception_title">Connection changed</string>
   <string name="never">1 time</string>
   <string name="news_change">"変更"</string>
-  <string name="next_step_button">"次へ"</string>
   <string name="no_network">"ネットワークに接続できませんでした、後ほど再試行してください"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="none_mi_service_app_detail">Empty</string>
@@ -995,6 +1014,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_about_traffic_title">Data usage settings</string>
   <string name="pref_add_traffic_pkg">Additionally purchased data</string>
   <string name="pref_adjust_data_usage">Carrier message template</string>
+  <string name="pref_adjust_data_usage_summary">After you changed the calibration template, MIUI will use it to get data usage stats from your carrier</string>
   <string name="pref_adjust_traffic_data">Set data usage</string>
   <string name="pref_allow_connect_network_title">Overseas data roaming</string>
   <string name="pref_allow_connect_network_whitelist_title">Allow exceptions to use mobile data while roaming</string>
@@ -1003,6 +1023,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_auto_adjust_traffic">Auto adjust data usage stats</string>
   <string name="pref_automatic_adjust">Sync carrier data usage</string>
   <string name="pref_avaible_traffic">"データプラン"</string>
+  <string name="pref_category_daily_package_tile">Daily data plan</string>
+  <string name="pref_category_extra_package_tile">Top-up package</string>
+  <string name="pref_category_half_year_package_tile">Half-year data package</string>
   <string name="pref_category_title_lock_screen_memory_clean">Clean at lock screen</string>
   <string name="pref_category_title_module_settings">Feature settings</string>
   <string name="pref_category_title_other">"その他の設定"</string>
@@ -1011,20 +1034,32 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_category_title_virus_lib_auto_update">Automatically update definitions</string>
   <string name="pref_category_title_virus_white_list">"例外"</string>
   <string name="pref_check_network_diagnostics">"Test device's internet connection"</string>
+  <string name="pref_confirm_operator_setting">Make sure the info you entered is correct</string>
   <string name="pref_connect_settings_enable_background">Allow background data</string>
   <string name="pref_connect_settings_enable_background_hint">"Allow apps to use mobile data when you're not using them"</string>
   <string name="pref_connect_settings_exceed_limit">Restrict peak data usage</string>
   <string name="pref_connect_settings_exceed_limit_hint">Turn off data connection when peak data usage reaches limit</string>
   <string name="pref_content_virus_white_list_none">No items</string>
-  <string name="pref_daily_adjust">Set peak data limit</string>
+  <string name="pref_correction_setting">Calibration template settings</string>
+  <string name="pref_correction_setting_switch">Use custom calibration template</string>
+  <string name="pref_correction_sms_content">Calibration template</string>
+  <string name="pref_correction_sms_number">Send calibration SMS to</string>
+  <string name="pref_daily_adjust">Set peak data usage</string>
   <string name="pref_daily_traffic">Peak data limit</string>
   <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
   <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of selected apps' data usage"</string>
-  <string name="pref_data_usage_not_set">Set data usage limit</string>
-  <string name="pref_free_adjust">Set off-peak data limit</string>
+  <string name="pref_data_usage_not_set">Unknown data plan</string>
+  <string name="pref_free_adjust">Set off-peak data usage</string>
   <string name="pref_free_traffic_exceed_limit">Notify me when data usage reaches limit</string>
   <string name="pref_free_traffic_limit_warn">Off-peak data usage warning</string>
   <string name="pref_free_traffic_settings">Off-peak data usage settings</string>
+  <string name="pref_key_daily_package_switch">Daily data plan</string>
+  <string name="pref_key_direction_traffic">Designated mobile data</string>
+  <string name="pref_key_extra_package_switch">Monthly top-up package</string>
+  <string name="pref_key_half_year_package_start">Starting date</string>
+  <string name="pref_key_half_year_package_switch">Half-year data package</string>
+  <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
+  <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_leisure_no_overlay">On</string>
   <string name="pref_leisure_not_opened">Off</string>
   <string name="pref_manual_adjust">Set data usage stats manually</string>
@@ -1034,7 +1069,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_more_traffic_settings">"その他の設定"</string>
   <string name="pref_new_installed_preconfig_title">"New apps' default settings"</string>
   <string name="pref_open_adjust_traffic">Update data usage every day using stats from your carrier</string>
-  <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
+  <string name="pref_operator_not_set">"キャリアが設定されていません"</string>
+  <string name="pref_package_traffic_leisure">"%1$s Off-peak: %2$s"</string>
   <string name="pref_package_traffic_normal">Peak: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
   <string name="pref_package_traffic_settings">Mobile data limit</string>
@@ -1044,6 +1080,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_roaming_setting_gategory">"設定"</string>
   <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
   <string name="pref_show_mobile_traffic">Show data usage stats during unlock after device has been locked for more than 5 minutes</string>
+  <string name="pref_special_package_setting">Custom data plan</string>
   <string name="pref_special_traffic_exceed_limit">Notify me when data usage reaches limit</string>
   <string name="pref_special_traffic_limit_warn">"データ使用の警告の設定"</string>
   <string name="pref_specified_adjust">Set custom data limit</string>
@@ -1076,7 +1113,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="privacy_declare_dialog_title">"利用規約"</string>
   <string name="privacy_mode_dialog_title">"ゲストモード"</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"This feature needs to encrypt and send your device's IMEI, phone number, and carrier information to Mi's servers in order get data usage stats from your carrier."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order t acquire the carrier's calibration template and learn if it's possible to purchase data in your location. While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
   <string name="privacy_prompt_upload">"アップロード"</string>
   <string name="process_kernel_label">Android</string>
@@ -1234,7 +1271,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
   <string name="skin_change_close_btn_text">"デフォルトの背景として設定"</string>
   <string name="skin_change_close_toast">"次回セキュリティアプリを起動した時に変更が適用されます"</string>
-  <string name="sorted_button">"並べ替え"</string>
   <string name="sorted_dialog_title">"並べ替え"</string>
   <string name="sp_back_title_text_zero">Secure</string>
   <string name="sp_background_risk_dialog_summary">, check and fix payment issues.</string>
@@ -1271,14 +1307,13 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="sp_settings_root_title_omit">Check root access</string>
   <string name="sp_settings_title_input_method">Secure IME</string>
   <string name="sp_toast_removed_from_sign_white_list">Removed from exceptions. Item will be scanned next time.</string>
-  <string name="spinner_title">%1$s - Mobile data: %2$s</string>
   <string name="sponsored">Sponsored</string>
   <string name="sponsored_sec_fb">Sponsored</string>
   <string name="st_title_mode_choose_group">"プロファイルを選択"</string>
   <string name="start_diagnostic_botton">"開始"</string>
   <string name="start_downloading_app">Starting download: %1$s</string>
   <string name="start_install">"今すぐインストール"</string>
-  <string name="stop_app_button">"停止"</string>
+  <string name="start_tc_button">Calibrate</string>
   <string name="suffix_pay_risk_count_bottom">risks</string>
   <string name="suffix_pay_risk_count_top">payment</string>
   <string name="suffix_virus_count_bottom">total</string>
@@ -1543,11 +1578,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Top up mobile data</string>
   <string name="traffic_setting_app_count">%d apps</string>
-  <string name="traffic_setting_completed">OK</string>
-  <string name="traffic_setting_extra_pkg_oversea_summary">"データプランと使用制限を調整"</string>
-  <string name="traffic_setting_extra_pkg_summary">"データプランと使用制限を調整"</string>
-  <string name="traffic_setting_extra_pkg_title">"その他の設定"</string>
-  <string name="traffic_setting_extra_traffic_title">"その他の設定"</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_area_dual">%s Locale</string>
   <string name="traffic_setting_fragment_brand">"ブランド"</string>
@@ -1565,8 +1595,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_sms_content_tips">Write your message here</string>
   <string name="traffic_setting_fragment_template">Message template</string>
   <string name="traffic_setting_fragment_title">Data usage query</string>
-  <string name="traffic_setting_open">On</string>
-  <string name="traffic_setting_step_num">"データプランの設定"</string>
   <string name="traffic_warning_purchase_title">"モバイルデータ使用の警告"</string>
   <string name="try_recommended_function">"新しいセキュリティ機能を使用してデバイスを保護する"</string>
   <string name="unable_connect_internet">"インターネット接続なし"</string>

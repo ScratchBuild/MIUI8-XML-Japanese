@@ -57,7 +57,7 @@
   <string name="error_invalid_request">認証エラー</string>
   <string name="error_media_storage_failure">写真を保存できませんでした</string>
   <string name="error_minute_limit">Too many attempts within 1 minute</string>
-  <string name="error_permissions">"Scanner doesn't have the permissions required for it to work normally. Go to Settings and check permissions to continue."</string>
+  <string name="error_permissions">"スキャナーが正常に動作するために必要な権限がありません。続行するには[設定]に移動して権限を確認してください。"</string>
   <string name="error_server_error">サーバーエラー</string>
   <string name="feed_search_fail">"結果がありません、もう一度お試しください"</string>
   <string name="feedback_description_camera_access">"スキャナーがカメラに接続できません"</string>
@@ -93,6 +93,7 @@
   <string name="language_entry_russian">ロシア語</string>
   <string name="language_entry_spanish">スペイン語</string>
   <string name="language_entry_swedish">スウェーデン語</string>
+  <string name="low_version_tip">"スキャナーは現在のシステムでは実行できません、最新のMIUIに更新してください"</string>
   <string name="module_title_code">QRコード</string>
   <string name="module_title_document">ドキュメント</string>
   <string name="module_title_namecard">名刺</string>

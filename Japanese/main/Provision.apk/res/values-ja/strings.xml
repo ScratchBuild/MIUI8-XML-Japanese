@@ -4,6 +4,8 @@
   <string name="agree_terms">"私は利用規約およびプライバシーポリシーを読み、同意しました。"</string>
   <string name="app_name">Provision</string>
   <string name="back">"戻る"</string>
+  <string name="cm_terms_content">"In order to improve the services provided to you, the mobile network operator of your choice may upload your personal data and the info about this device to its servers using WLAN networks or mobile data connection. This information will only be used for statistical purposes in order to improve the quality of the services and provide more personalized content. This information won't be used to identify you personally and won't be disclosed to third parties."</string>
+  <string name="cm_terms_title">Mobile Network Operator Agreement</string>
   <string name="congratulation_label">"You're ready to rock!​"</string>
   <string name="congratulation_title">"セットアップ完了"</string>
   <string name="content_description_complete">"完了"</string>
@@ -13,6 +15,9 @@
   <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>
   <string name="desc_international_fingerprint">Use your fingerprint to unlock your device, or to sign in to apps and services.</string>
   <string name="disagree">"キャンセル"</string>
+  <string name="enable_accessibility_dialog_message">You turned on TalkBack by pressing the screen with 2 fingers for more than 10 seconds. TalkBack provides voice feedback for people with visual impairments. If you turned it on by accident, tap the Cancel button, and then double tap the screen.</string>
+  <string name="enable_accessibility_dialog_negative_btn">"キャンセル"</string>
+  <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="ime_privacy_policy">"選択したキーボードのプライバシーポリシー"</string>
   <string name="ime_privacy_policy_no_network">No network connection. View the Privacy Policy for this keyboard at %s.</string>
   <string name="input_method_category">"メッセージやメモなどを書き込むために使用するデフォルトのキーボードを選択します。他のサードパーティ製キーボードを後からインストールすることもできます。"</string>

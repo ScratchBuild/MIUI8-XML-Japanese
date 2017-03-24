@@ -420,6 +420,7 @@
   <string name="pref_summary_send_delivery_reports">MMSを受信した場合は配達確認メッセージを送信者に送信</string>
   <string name="pref_summary_show_recent_contacts">新規メッセージを作成する際に履歴の連絡先を表示</string>
   <string name="pref_summary_wake_up_screen">新しいメッセージを受信した時は画面を起動</string>
+  <string name="pref_switch_sdk_setting">Switch smart sms engine</string>
   <string name="pref_system_title">システム</string>
   <string name="pref_time_auto_group_disabled_summary">"現在のフォントサイズはサポートされていません"</string>
   <string name="pref_time_auto_group_summary">互いに1分以内に受信したメッセージは同じスレッドにまとめて分類する</string>
