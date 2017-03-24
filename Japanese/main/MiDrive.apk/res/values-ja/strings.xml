@@ -21,9 +21,9 @@
   <string name="delete_failed">"削除できません"</string>
   <string name="delete_failed_retry">"Can't delete, wait %1$s and try again"</string>
   <string name="delete_file">"このファイルを削除しますか？"</string>
-  <string name="delete_files">Delete %1$d files?</string>
+  <string name="delete_files">"%1$d個のファイルを削除しますか？"</string>
   <string name="delete_folder">"このフォルダを削除しますか？"</string>
-  <string name="delete_folders">Delete %1$d folders?</string>
+  <string name="delete_folders">"%1$d個のフォルダを削除しますか？"</string>
   <string name="delete_success">"ファイルを削除しました"</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">"ダウンロードできませんでした"</string>

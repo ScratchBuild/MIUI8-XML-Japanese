@@ -180,7 +180,7 @@
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Switch to default Lock screen wallpaper?</string>
   <string name="cancel_hint">"操作がキャンセルされました"</string>
-  <string name="cannot_remove_creator">"Can't remove creator"</string>
+  <string name="cannot_remove_creator">"作成者を削除できません"</string>
   <string name="cannot_send_message">"メッセージを送信できません"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
   <string name="change_to_face_mode">"顔だけ表示する"</string>

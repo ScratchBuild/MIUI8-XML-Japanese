@@ -154,9 +154,9 @@
   <string name="delete_error">"ファイルを削除できませんでした、もう一度お試しください"</string>
   <string name="delete_file">"このファイルを削除しますか？"</string>
   <string name="delete_file_error">"ファイルを削除できませんでした"</string>
-  <string name="delete_files">Delete %1$d files?</string>
+  <string name="delete_files">"%1$d個のファイルを削除しますか？"</string>
   <string name="delete_folder">"このフォルダを削除しますか？"</string>
-  <string name="delete_folders">Delete %1$d folders?</string>
+  <string name="delete_folders">"%1$d個のフォルダを削除しますか？"</string>
   <string name="delete_video">"削除"</string>
   <string name="delete_video_dialog_tip">"動画を削除した後、復元することはできません。"</string>
   <string name="delete_video_dialog_title">"動画を削除"</string>
@@ -261,8 +261,8 @@
   <string name="input_memo_hint">"その他の理由を入力 (省略可)"</string>
   <string name="install_fail">"インストールできませんでした"</string>
   <string name="installing">"インストール中…"</string>
-  <string name="instruction">Enter the following address into FTP client: </string>
-  <string name="instruction_pre">Touch to start FTP server</string>
+  <string name="instruction">"FTPクライアントに以下のアドレスを入力してください: "</string>
+  <string name="instruction_pre">"FTPサーバーを起動するにはタップ"</string>
   <string name="interest_recommend">"おすすめの動画"</string>
   <string name="is_playing">"再生中…"</string>
   <string name="just_now">"ちょうど今"</string>
@@ -359,7 +359,7 @@
   <string name="no_wifi">"ネットワークが見つかりません"</string>
   <string name="no_wifi_hint">No connection</string>
   <string name="not_installed_documentsui">"DocumentsUIがインストールされていません"</string>
-  <string name="notif_server_starting">Starting FTP server…</string>
+  <string name="notif_server_starting">"FTPサーバーを起動中…"</string>
   <string name="notif_title">FTP server is running</string>
   <string name="notification_content_hint">"表示するにはタップ"</string>
   <string name="notification_dialog_confirm">OK</string>

@@ -237,7 +237,7 @@
   <string name="epg_comment_agree_user">Like me</string>
   <string name="epg_comment_list_title">Comments （%1$d）</string>
   <string name="epg_comment_no_reply">Too low-key, he has not received comments friends</string>
-  <string name="epg_comment_reply">Reply</string>
+  <string name="epg_comment_reply">"返信"</string>
   <string name="epg_detail_title_text">Desciption</string>
   <string name="epg_details_episode">Ep. %1$s</string>
   <string name="epg_edit_channel_name">"チャンネル名"</string>
@@ -839,7 +839,7 @@ directly from your Lock screen"</string>
   <string name="screen_shot_show_deliver">Publish</string>
   <string name="screen_shot_show_loading">"読み込み中…"</string>
   <string name="screen_shot_show_more_comments">More</string>
-  <string name="screen_shot_show_reply_comments">Reply</string>
+  <string name="screen_shot_show_reply_comments">"返信"</string>
   <string name="screen_shot_show_write_comment">Write a comment...</string>
   <string name="screen_shot_submit_hint">Submit hint...</string>
   <string name="screen_shot_unselect">"選択を解除"</string>
@@ -1036,7 +1036,7 @@ To change, long press TV's power button"</string>
   <string name="video_comment_refresh_failed">Refreshing comments has failed</string>
   <string name="video_comment_reply">\@%s:</string>
   <string name="video_comment_reply_empty">Comments can not be empty</string>
-  <string name="video_comment_reply_failed">Reply failed</string>
+  <string name="video_comment_reply_failed">"返信に失敗しました"</string>
   <string name="video_delte_item">"削除中…"</string>
   <string name="video_count_info">Total video count: %d</string>
   <string name="video_detial_unfold">"詳細"</string>
@@ -1071,8 +1071,8 @@ To change, long press TV's power button"</string>
   <string name="weather_out">"外気温:"</string>
   <string name="wechat_account">WeChat account</string>
   <string name="wifi_rc_create_help">How to add a Wi-Fi remote?</string>
-  <string name="wifi_rc_create_shortcut_desc">Add a Home screen shortcut for \"%1$s\"?</string>
-  <string name="wifi_rc_create_shortcut_title">Add shortcut</string>
+  <string name="wifi_rc_create_shortcut_desc">"\"%1$s\"のショートカットをホーム画面に追加しますか？"</string>
+  <string name="wifi_rc_create_shortcut_title">"ショートカットを追加"</string>
   <string name="wind_direct">"風向き"</string>
   <string name="wind_direct_automatic">"自動"</string>
   <string name="wind_direct_down">"下向き"</string>

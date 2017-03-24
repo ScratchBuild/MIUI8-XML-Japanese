@@ -56,8 +56,8 @@
   <string name="custom_wallpaper_picker">Browse</string>
   <string name="delete">"削除"</string>
   <string name="delete_screen">"画面を削除"</string>
-  <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
-  <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
+  <string name="delete_wallpaper_message">"%1$d枚の壁紙を削除しますか？"</string>
+  <string name="delete_wallpapers_message">"%1$d枚の壁紙を削除しますか？"</string>
   <string name="deselect_all">"すべて選択を解除"</string>
   <string name="disable_wallpaper_scroll">Turn side-scrolling off</string>
   <string name="download_action">"ダウンロード"</string>

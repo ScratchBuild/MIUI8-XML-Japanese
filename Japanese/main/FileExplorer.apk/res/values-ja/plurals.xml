@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-        <item quantity="other">Delete %1$d files</item>
-        <item quantity="zero">Delete %1$d files</item>
-        <item quantity="one">Delete %1$d file</item>
-        <item quantity="two">Delete %1$d files</item>
-        <item quantity="few">Delete %1$d files</item>
-        <item quantity="many">Delete %1$d files</item>
+        <item quantity="other">"%1$d個のファイル"</item>
+        <item quantity="zero">"%1$d個のファイル"</item>
+        <item quantity="one">"%1$d個のファイル"</item>
+        <item quantity="two">"%1$d個のファイル"</item>
+        <item quantity="few">"%1$d個のファイル"</item>
+        <item quantity="many">"%1$d個のファイル"</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other">" and %1$d folders?"</item>
-        <item quantity="zero">" and %1$d folders?"</item>
-        <item quantity="one">" and %1$d folder?"</item>
-        <item quantity="two">" and %1$d folders?"</item>
-        <item quantity="few">" and %1$d folders?"</item>
-        <item quantity="many">" and %1$d folders?"</item>
+        <item quantity="other">"と%1$d個のフォルダを削除しますか？"</item>
+        <item quantity="zero">"と%1$d個のフォルダを削除しますか？"</item>
+        <item quantity="one">"と%1$d個のフォルダを削除しますか？"</item>
+        <item quantity="two">"と%1$d個のフォルダを削除しますか？"</item>
+        <item quantity="few">"と%1$d個のフォルダを削除しますか？"</item>
+        <item quantity="many">"と%1$d個のフォルダを削除しますか？"</item>
     </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d items</item>
