@@ -52,9 +52,9 @@
   <string name="dialog_btn_ok">OK</string>
   <string name="dialog_btn_ok_disabled_net">"ネットワーク設定"</string>
   <string name="dialog_cannot_resume">"ダウンロードが中断されました。再開することはできません。"</string>
-  <string name="dialog_confirm_delete_checkbox_message">Delete local files as well</string>
-  <string name="dialog_confirm_delete_downloads_message">Delete %d tasks?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Delete these tasks</string>
+  <string name="dialog_confirm_delete_checkbox_message">"ローカルファイルも削除する"</string>
+  <string name="dialog_confirm_delete_downloads_message">"%d個のタスクを削除しますか？"</string>
+  <string name="dialog_confirm_delete_the_download_item_message">"これらのタスクを削除しますか？"</string>
   <string name="dialog_failed_body">Do you want to retry downloading the file later or delete it from the queue?</string>
   <string name="dialog_file_already_exists">"ダウンロードできません。ファイルが既に存在します。"</string>
   <string name="dialog_file_missing_body">"ダウンロードしたファイルが見つかりません。"</string>

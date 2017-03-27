@@ -149,7 +149,7 @@
   <string name="no_encrypt_password">"パスワードなし"</string>
   <string name="no_network">"ネットワークに接続できません"</string>
   <string name="note_title">"ノート"</string>
-  <string name="nothing_searched">No results.</string>
+  <string name="nothing_searched">"何も見つかりませんでした。"</string>
   <string name="notif_backup_complete_title">"バックアップが完了しました"</string>
   <string name="notif_backup_content">"ユーザーデータのバックアップ中"</string>
   <string name="notif_backup_title">"データのバックアップ"</string>
@@ -235,7 +235,7 @@
   <string name="task_progress">"進捗状況"</string>
   <string name="task_restore_cancel_dialog">"今すぐ停止すると、データが失われる可能性があります。"</string>
   <string name="task_restore_cancel_progress">"停止中…"</string>
-  <string name="task_restore_finished_local">"Restored "</string>
+  <string name="task_restore_finished_local">"復元済み "</string>
   <string name="task_restore_none">Nothing to restore</string>
   <string name="task_running_backup_dialog">Backup is in progress. Touch OK to view.</string>
   <string name="task_running_backup_hint">This task is already running in the background</string>

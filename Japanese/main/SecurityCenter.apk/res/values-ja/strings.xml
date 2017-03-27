@@ -325,10 +325,10 @@
   <string name="card_main_gamebooster_title">Gaming speed boost</string>
   <string name="card_main_hbassistant_summary">Use this tool to grab the envelopes faster</string>
   <string name="card_main_hbassistant_title">Red envelope assistant</string>
-  <string name="card_main_monthreport_action">View</string>
+  <string name="card_main_monthreport_action">"表示"</string>
   <string name="card_main_monthreport_summary">View monthly reports</string>
   <string name="card_main_monthreport_title">Security stats</string>
-  <string name="card_main_netcheck_action">Test</string>
+  <string name="card_main_netcheck_action">"テスト"</string>
   <string name="card_main_netcheck_summary">Test connection for networking issues</string>
   <string name="card_main_netcheck_title">Test network</string>
   <string name="card_main_overscroll_tips">Security at its best</string>
@@ -499,7 +499,7 @@
   <string name="firewall_applist">"アプリ"</string>
   <string name="firewall_fragment_nonesys_listempty">Empty</string>
   <string name="firewall_fragment_sys_listempty">Empty</string>
-  <string name="firewall_fragment_tab_title_nonsys">Installed</string>
+  <string name="firewall_fragment_tab_title_nonsys">"インストール済み"</string>
   <string name="firewall_fragment_tab_title_sys">"システム"</string>
   <string name="firewall_network_allow">Allowed %1$s to use %2$s connection</string>
   <string name="firewall_network_restrict_notify_message">"設定を変更するにはタップ。"</string>
@@ -603,7 +603,7 @@
   <string name="input_used_max_hint">Enter data usage (less than %s)</string>
   <string name="install_sucess">Installed %s successfully</string>
   <string name="install_title">"USB経由でインストール"</string>
-  <string name="installed">Installed</string>
+  <string name="installed">"インストール済み"</string>
   <string name="installing">"インストール中"</string>
   <string name="international_roaming_setting">"海外ローミング"</string>
   <string name="international_roaming_whitelist_count">%d apps can use mobile data when roaming</string>
@@ -1007,7 +1007,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_settings_number">Percentage</string>
   <string name="power_settings_saver_title">Power saver</string>
   <string name="power_settings_shape">Graphical</string>
-  <string name="power_settings_title">Set</string>
+  <string name="power_settings_title">"設定"</string>
   <string name="power_settings_top">Top bar</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_about">About</string>
