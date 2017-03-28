@@ -21,8 +21,8 @@
   <string name="callFailed_limitExceeded">"ACMの制限を超えています"</string>
   <string name="callFailed_noSignal">"圏外です"</string>
   <string name="callFailed_number_unreachable">"番号に接続できません"</string>
-  <string name="callFailed_outOfService">Out of service area</string>
-  <string name="callFailed_out_of_network">Called from out-of-network</string>
+  <string name="callFailed_outOfService">"モバイルネットワークが利用できません"</string>
+  <string name="callFailed_out_of_network">"ネットワーク外の通話です"</string>
   <string name="callFailed_powerOff">無線通信OFF</string>
   <string name="callFailed_server_error">"サーバーエラー: しばらくしてからもう一度お試しください。"</string>
   <string name="callFailed_server_unreachable">"サーバーに接続できません"</string>
@@ -31,7 +31,7 @@
   <string name="callFailed_unobtainable_number">"無効な番号"</string>
   <string name="callFailed_userBusy">"回線がビジー"</string>
   <string name="callUnanswered_forwarded">Forwarded unanswered call</string>
-  <string name="call_button_conference_manager_text">Conference manager</string>
+  <string name="call_button_conference_manager_text">"グループ通話マネージャー"</string>
   <string name="call_button_dialer_text">"キーボード"</string>
   <string name="call_button_mute_text">"ミュート"</string>
   <string name="call_button_tools_text">Features</string>

@@ -315,8 +315,8 @@ across all your devices with Xunlei"</string>
   <string name="sniff_connect_error_page_tips">"URLを開けませんでした"</string>
   <string name="sniff_connect_error_refresh">"更新"</string>
   <string name="sniff_copyright_text">"Can't display results due to copyright issues"</string>
-  <string name="sniff_download_task_already_exist">This download already exists</string>
-  <string name="sniff_download_task_create_success">Download added</string>
+  <string name="sniff_download_task_already_exist">"このダウンロードは既に存在します"</string>
+  <string name="sniff_download_task_create_success">"ダウンロードを追加しました"</string>
   <string name="sniff_finding_resource_prompt">"ウェブを検索中…"</string>
   <string name="sniff_hot_text">Related</string>
   <string name="sniff_no_network_tip">"ネットワーク接続を確認して、もう一度やり直してください"</string>

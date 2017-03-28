@@ -554,8 +554,8 @@
   <string name="server_control_charset">Transfer encoding</string>
   <string name="server_control_settings">"設定"</string>
   <string name="server_error">"サーバーエラー、後ほど再試行してください。(エラー %s)"</string>
-  <string name="set_pattern">Password was upgraded</string>
-  <string name="set_pattern_btn">Set</string>
+  <string name="set_pattern">"パスワードが更新されました"</string>
+  <string name="set_pattern_btn">"設定"</string>
   <string name="set_pattern_msg">Set your password again. Privacy protection password also works for photos and messages.</string>
   <string name="setting">"設定"</string>
   <string name="setting_account_bind">"アカウントを追加"</string>

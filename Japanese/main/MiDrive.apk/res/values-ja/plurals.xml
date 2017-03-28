@@ -25,28 +25,28 @@
         <item quantity="many">%d items</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d files left to download</item>
-        <item quantity="zero">%1$d files left to download</item>
-        <item quantity="one">%1$d file left to download</item>
-        <item quantity="two">%1$d files left to download</item>
-        <item quantity="few">%1$d files left to download</item>
-        <item quantity="many">%1$d files left to download</item>
+        <item quantity="other">"残り%1$d個のファイルをダウンロード"</item>
+        <item quantity="zero">"残り%1$d個のファイルをダウンロード"</item>
+        <item quantity="one">"残り%1$d個のファイルをダウンロード"</item>
+        <item quantity="two">"残り%1$d個のファイルをダウンロード"</item>
+        <item quantity="few">"残り%1$d個のファイルをダウンロード"</item>
+        <item quantity="many">"残り%1$d個のファイルをダウンロード"</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d files left to upload</item>
-        <item quantity="zero">%1$d files left to upload</item>
-        <item quantity="one">%1$d file left to upload</item>
-        <item quantity="two">%1$d files left to upload</item>
-        <item quantity="few">%1$d files left to upload</item>
-        <item quantity="many">%1$d files left to upload</item>
+        <item quantity="other">"残り%1$d個のファイルをアップロード"</item>
+        <item quantity="zero">"残り%1$d個のファイルをアップロード"</item>
+        <item quantity="one">"残り%1$d個のファイルをアップロード"</item>
+        <item quantity="two">"残り%1$d個のファイルをアップロード"</item>
+        <item quantity="few">"残り%1$d個のファイルをアップロード"</item>
+        <item quantity="many">"残り%1$d個のファイルをアップロード"</item>
     </plurals>
     <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">%1$d files left to transmit</item>
-        <item quantity="zero">%1$d files left to transmit</item>
-        <item quantity="one">%1$d file left to transmit</item>
-        <item quantity="two">%1$d files left to transmit</item>
-        <item quantity="few">%1$d files left to transmit</item>
-        <item quantity="many">%1$d files left to transmit</item>
+        <item quantity="other">"残り%1$d個のファイルを転送"</item>
+        <item quantity="zero">"残り%1$d個のファイルを転送"</item>
+        <item quantity="one">"残り%1$d個のファイルを転送"</item>
+        <item quantity="two">"残り%1$d個のファイルを転送"</item>
+        <item quantity="few">"残り%1$d個のファイルを転送"</item>
+        <item quantity="many">"残り%1$d個のファイルを転送"</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d selected</item>

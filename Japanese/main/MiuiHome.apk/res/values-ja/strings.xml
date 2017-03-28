@@ -182,7 +182,7 @@
   <string name="permlab_uninstall_shortcut">"ショートカットのアンインストール"</string>
   <string name="permlab_write_settings">"ホームの設定とショートカットの書き込み"</string>
   <string name="photo_adjust">"プレビュー"</string>
-  <string name="photo_confirm">Set</string>
+  <string name="photo_confirm">"設定"</string>
   <string name="photo_load_failed">"写真が読み込めません"</string>
   <string name="pref_cell_layout_size">"アプリアイコンのレイアウト"</string>
   <string name="pref_enable_drawing_cache_summary">Turn off to free up memory. This may cause slower performance.</string>
