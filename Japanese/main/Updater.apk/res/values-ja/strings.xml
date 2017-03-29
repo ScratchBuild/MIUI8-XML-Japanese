@@ -23,7 +23,7 @@
   <string name="auto_dialog_msg_check_again">"You must agree to our updated Privacy Policy before you can update your system. "</string>
   <string name="auto_dialog_title_check_again">"更新をキャンセルしますか？"</string>
   <string name="auto_update">"自動的に更新"</string>
-  <string name="auto_update_sum">Download updates when connected to WLAN and install at night</string>
+  <string name="auto_update_sum">"Wi-Fiに接続して更新をダウンロードし、夜間にインストールする"</string>
   <string name="autosetmode">"設定"</string>
   <string name="best_update">Best update so far</string>
   <string name="boot_recovery">"リカバリーモードで再起動しますか？"</string>
@@ -148,7 +148,7 @@
   <string name="notification_share">"共有"</string>
   <string name="notification_uncrypt_summary_hm">"デバイスを再起動するにはタップ"</string>
   <string name="notification_uncrypt_title_hm">"再起動して更新を適用"</string>
-  <string name="notification_uncrypting">Decrypting update…</string>
+  <string name="notification_uncrypting">"更新を復号化しています…"</string>
   <string name="notification_update_new_version">"更新が利用可能"</string>
   <string name="notification_update_now">"今すぐ更新"</string>
   <string name="notification_updating">"更新中…"</string>
@@ -183,7 +183,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="root_agree_check_box_title">I understand the risks of root access</string>
   <string name="root_dangerous_msg">Allowing root access is extremely risky and may expose your device and personal data to attacks from malicious apps. You agree that you are solely responsible for any damage to your device or loss of data that may result from allowing root access.</string>
   <string name="set_auto">"自動的に更新を確認"</string>
-  <string name="set_auto_msg">Download updates when connected to WLAN and install at night?</string>
+  <string name="set_auto_msg">"Wi-Fiに接続して更新をダウンロードし、夜間にインストールしますか？"</string>
   <string name="set_auto_update_title">"自動的に更新しますか？"</string>
   <string name="set_installfail_full_msg">"エラーが発生しました。このエラーを報告するには[OK]をタップ。"</string>
   <string name="set_installfail_msg">"You aren't connected to a WLAN network. Using your mobile data connection to download the update will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
@@ -200,7 +200,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="share_update_content_sign">"I've updated MIUI to %1$s! I was the %2$s person to update. To view the change log, go to %3$s"</string>
   <string name="share_update_content_unsign">"I've updated MIUI to %1$s! For the detailed changelog, go to %2$s"</string>
   <string name="sina_share_fail">"送信に失敗しました"</string>
-  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+  <string name="sina_share_fail_content_repeat">"共有できませんでした、コンテンツが既に存在します…"</string>
   <string name="sina_share_pendding">"送信中…"</string>
   <string name="sina_share_success">"送信しました"</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
@@ -221,7 +221,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="title_toast_auto">Updates will download automatically</string>
   <string name="toast_delay_update_tonight">Your device will update between 2:00AM and 5:00AM</string>
   <string name="top_secret_build">Top-secret</string>
-  <string name="uncrypt_title">Decrypting (%s)</string>
+  <string name="uncrypt_title">"復号化しています (%s)"</string>
   <string name="unkown_error_title">"ダウンロードできません"</string>
   <string name="unstable_build">Unstable</string>
   <string name="update_comment_hint"/>

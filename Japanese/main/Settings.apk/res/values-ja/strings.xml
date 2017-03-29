@@ -893,7 +893,7 @@
 端末の使用を再開するには出荷時設定にリセットする必要があります。リセット後、端末のセットアップの段階で、Googleアカウントにバックアップしたデータの復元を選択できます。"</string>
   <string name="crypt_keeper_data_corrupt_title">復号化の失敗</string>
   <string name="crypt_keeper_decrypt_methods">画面ロックを設定した場合、端末を暗号化した後は復号化するため、電源を入れる度に画面ロックを解除する必要があります。復号化する他の方法は、すべてのデータを消去し、データの初期化を実行することです。</string>
-  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"If you've encrypted your phone, you'll have to enter your password, PIN, or pattern every time you reboot the device in order to decrypt it."</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"端末を暗号化している場合には、端末を再起動するたびにパスワード、PINコード、またはパターンを入力する必要があります。"</string>
   <string name="crypt_keeper_decrypt_methods_title">端末の解読</string>
   <string name="crypt_keeper_desc">"アカウント、設定、ダウンロードしたアプリとそのデータ、メディアなどのファイルを暗号化できます。携帯電話を暗号化すると、画面ロック（パターン、数値PIN、パスワード）を設定済みの場合は、電源を入れるたびに画面のロックを解除して携帯電話を復号化する必要があります。他に暗号化を解除する方法は、データの初期化を行ってすべてのデータを消去する方法のみです。
 
@@ -3099,21 +3099,21 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="secure_lock_encryption_warning">ユーザー補助サービスがONに設定されているため、端末データの暗号化の強化に画面ロックは使用されません。</string>
   <string name="security_enable_widgets_disabled_summary">管理者によって無効にされています</string>
   <string name="security_enable_widgets_title">ウィジェットの有効化</string>
-  <string name="security_encryption_alert_dialog_info_first">"Set lock screen password to turn this feature on. You'll have to enter lock screen password after every reboot to decrypt and use the device normally."</string>
-  <string name="security_encryption_alert_dialog_title_first">Set screen lock first</string>
-  <string name="security_encryption_attention_1">"You won't be able to use alarms while the device is off."</string>
-  <string name="security_encryption_attention_2">"You'll have to enter lock screen password after every reboot to decrypt the device. Reboots will take longer than usual."</string>
-  <string name="security_encryption_attention_3">"You'll have to set a new lock screen password."</string>
-  <string name="security_encryption_attention_4">"Make sure you remember your lock screen password, otherwise you'll have to complete a full reset and erase all data on the device."</string>
-  <string name="security_encryption_attention_info">You can encrypt accounts, settings, downloaded apps and their data, media, and other files.</string>
+  <string name="security_encryption_alert_dialog_info_first">この機能を有効にするにはロック画面のパスワードを設定します。端末を通常通り使用するには、再起動するたびにロック画面のパスワードを入力して端末を復号化する必要があります。</string>
+  <string name="security_encryption_alert_dialog_title_first">初めに画面ロックを設定</string>
+  <string name="security_encryption_attention_1">"端末がオフの間は、アラームを使用することはできません"</string>
+  <string name="security_encryption_attention_2">"端末を再起動するたびにロック画面のパスワードを入力して端末を復号化する必要があります。再起動には通常よりも時間がかかります。"</string>
+  <string name="security_encryption_attention_3">新しいロック画面のパスワードを設定する必要があります。</string>
+  <string name="security_encryption_attention_4">"ロック画面のパスワードを覚えておいてください。万一忘れた場合には、完全にリセットするために端末上のすべてのデータを消去する必要があります。"</string>
+  <string name="security_encryption_attention_info">アカウント、設定、ダウンロードしたアプリやそれのデータ、メディア、その他のファイルを暗号化できます。</string>
   <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">重要</string>
   <string name="security_encryption_close_dialog_info">Choosing not to encrypt device using lock screen password may make some Google services unavailable.</string>
   <string name="security_encryption_close_dialog_title">Go back to default password protection</string>
   <string name="security_encryption_diaglog_continue">次へ</string>
   <string name="security_encryption_is_used">On</string>
-  <string name="security_encryption_progress_dialog_close">Decrypting…</string>
-  <string name="security_encryption_progress_dialog_open">Encrypting…</string>
+  <string name="security_encryption_progress_dialog_close">復号化しています…</string>
+  <string name="security_encryption_progress_dialog_open">暗号化しています…</string>
   <string name="security_encryption_title">ロック画面のパスワードを使用して暗号化デバイス</string>
   <string name="security_keyguard_category_name">画面ロック</string>
   <string name="security_password_category_name">ロック画面</string>
