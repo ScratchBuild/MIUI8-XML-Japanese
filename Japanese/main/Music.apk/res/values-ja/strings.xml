@@ -132,8 +132,6 @@
   <string name="cloud_state_storage_full">Not enough phone storage, paused backup</string>
   <string name="cloud_welcome_message">Back up songs</string>
   <string name="cloud_welcome_summary">Back up your songs to Mi Cloud and listen to them on other devices</string>
-  <string name="confirm_delete_downloads_message">%d downloads will be deleted.</string>
-  <string name="confirm_delete_the_download_item_message">Delete these downloads?</string>
   <string name="confirm_download">"ダウンロード"</string>
   <string name="confirm_to_renew">Renew</string>
   <string name="continue_backup">"続行"</string>
@@ -174,8 +172,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_button_scan_tracks">"端末上の音楽を検索する"</string>
   <string name="dialog_cannot_resume">"ダウンロードが中断されました。再開することはできません。"</string>
   <string name="dialog_confirm_delete_checkbox_message">"ローカルファイルも削除する"</string>
-  <string name="dialog_confirm_delete_downloads_message">"%d個のアイテムを削除しますか？"</string>
-  <string name="dialog_confirm_delete_the_download_item_message">"これらのアイテムを削除しますか？"</string>
   <string name="dialog_failed_body">Try downloading later or remove the file from the queue?</string>
   <string name="dialog_file_already_exists">"ダウンロードできません。ファイルが既に存在します。"</string>
   <string name="dialog_file_missing_body">"ダウンロードしたファイルが見つかりませんでした。"</string>
@@ -240,7 +236,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_fail_to_fetch_info">"ダウンロードできませんでした、もう一度お試しください"</string>
   <string name="download_filesize_unknown">"不明"</string>
   <string name="download_in_process">"ダウンロード中"</string>
-  <string name="download_info_count_deleted_tasks">%s downloads removed</string>
   <string name="download_info_start_deleted_tasks">Remove downloads</string>
   <string name="download_list_get_free_vip">Xunlei trial</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei download acceleration is on</string>

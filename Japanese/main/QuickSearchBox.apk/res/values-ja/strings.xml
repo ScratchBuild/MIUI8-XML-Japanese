@@ -10,6 +10,12 @@
   <string name="baidu_search_url_from_launcher">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="barcode_install_back">"戻る"</string>
+  <string name="barcode_install_cancel">"キャンセル"</string>
+  <string name="barcode_install_confirm">"インストール"</string>
+  <string name="barcode_system_unmatch">"スキャナーをインストールする前にMIUIを更新します"</string>
+  <string name="barcode_to_install">"続行するにはスキャナーをインストール"</string>
+  <string name="barcode_uninstalled">"スキャナーを削除しました"</string>
   <string name="choose_search_engine">"デフォルトのweb検索エンジンを選択"</string>
   <string name="clear_history">"履歴を消去"</string>
   <string name="clear_shortcuts">"ショートカットを消去"</string>
@@ -51,6 +57,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="local_setting">"設定"</string>
   <string name="menu_help">"ヘルプ"</string>
   <string name="menu_settings">"検索設定"</string>
+  <string name="mina_name">Direct Apps</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした"</string>
   <string name="permission_prompt_detail">Search for movies, books, music, and more.</string>
   <string name="permission_prompt_start">"許可"</string>
@@ -92,6 +99,9 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
   <string name="search_widget">"検索"</string>
   <string name="send_secret_code">"コードを送信"</string>
+  <string name="setting_other">"その他"</string>
+  <string name="setting_version">"アプリバージョン"</string>
+  <string name="setting_version_title">"アプリバージョン"</string>
   <string name="settings_description">"インストール済みアプリの名前"</string>
   <string name="show_more">"もっと表示"</string>
   <string name="suggest_open_app_failed">"このアプリを開けませんでした"</string>
@@ -124,5 +134,5 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v5/home</string>
   <string name="xiaomi_search_label">Results</string>
   <string name="xiaomi_source_url">https://search.browser.miui.com</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v4/topclick</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v5/topclick</string>
 </resources>

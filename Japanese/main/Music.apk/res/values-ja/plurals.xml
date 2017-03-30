@@ -8,6 +8,14 @@
         <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloading</item>
         <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloading</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">%d個のアイテムを削除しますか？</item>
+        <item quantity="one">%d個のアイテムを削除しますか？</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d downloads removed</item>
+        <item quantity="one">%d download removed</item>
+    </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d songs found</item>
         <item quantity="one">%d song found</item>
@@ -16,17 +24,12 @@
         <item quantity="other">残り%d日</item>
         <item quantity="one">残り%d日</item>
     </plurals>
-    <plurals name="NTrackstoDownload">
-        <item quantity="other">%d songs will be downloaded</item>
-        <item quantity="one">1 song will be downloaded</item>
-    </plurals>
     <plurals name="NPlaylist_delete_confirm">
         <item quantity="other">Delete %d playlists?</item>
         <item quantity="one">Delete %d playlist?</item>
     </plurals>
     <plurals name="Nnew_tracks_count">
         <item quantity="other">%d new</item>
-        <item quantity="one">1 new</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d songs</item>
@@ -58,11 +61,11 @@
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d songs added to playlist</item>
-        <item quantity="one">Song added to playlist</item>
+        <item quantity="one">%d song added to playlist</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d songs removed from playlist</item>
-        <item quantity="one">Song removed from playlist</item>
+        <item quantity="one">%d song removed from playlist</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Player will stop in %d minutes</item>
@@ -70,11 +73,11 @@
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d songs will be sent</item>
-        <item quantity="one">1 song will be sent</item>
+        <item quantity="one">%d song will be sent</item>
     </plurals>
     <plurals name="folder_songs_count">
         <item quantity="other">%d songs</item>
-        <item quantity="one">1 song</item>
+        <item quantity="one">%d song</item>
     </plurals>
     <plurals name="Nnew_local_audios">
         <item quantity="other">%d songs added</item>

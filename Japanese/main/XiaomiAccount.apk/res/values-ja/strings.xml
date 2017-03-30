@@ -14,6 +14,7 @@
   <string name="account_crop_user_avatar">"写真を切り抜く"</string>
   <string name="account_empty_user_name">"Mi Accountのユーザー名を入力"</string>
   <string name="account_error_all_space_user_name">"名前に空白文字のみを使用することはできません"</string>
+  <string name="account_error_invalid_user_name">"名前に &lt;, &gt;, / を使用することはできません"</string>
   <string name="account_error_longer_user_name">"名前に20文字以上は入力できません"</string>
   <string name="account_error_shorter_user_name">"名前は2文字以上にする必要があります"</string>
   <string name="account_error_user_birthday">"入力した誕生日は無効です"</string>

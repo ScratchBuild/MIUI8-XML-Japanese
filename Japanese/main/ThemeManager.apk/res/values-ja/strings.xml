@@ -317,6 +317,7 @@
   <string name="search_hint_header_text">Hot words</string>
   <string name="selected_resource_file_invalid">"選択したテーマファイルを使用できません"</string>
   <string name="settings">"設定"</string>
+  <string name="the_picture_is_not_support">"画像はサポートされていません"</string>
   <string name="the_picture_is_too_small">"画像が小さすぎます"</string>
   <string name="theme_apply_audio_dialog_item_alarm">"アラーム"</string>
   <string name="theme_apply_audio_dialog_item_notification">"通知音"</string>

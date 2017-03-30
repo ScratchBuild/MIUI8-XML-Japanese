@@ -163,7 +163,6 @@
   <string name="android_beam_tips">端末が接触していることを確認してビームしたいコンテンツをタップします</string>
   <string name="android_beam_witch_label">Androidビーム</string>
   <string name="animator_duration_scale_title">Animator再生時間スケール</string>
-  <string name="anr_record_interval_title">Record ANR intervals</string>
   <string name="anti_spam">ブロックリスト</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">認証タイプ</string>
@@ -929,6 +928,7 @@
   <string name="current_use_ese_wallet">"You're using Mi Wallet. It allows you to use Mi Pay and NFC transport card."</string>
   <string name="current_use_hce_wallet">"You're using HCE Wallet"</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
+  <string name="current_zone">(current)</string>
   <string name="daltonizer_mode_deuteranomaly">第二色弱（赤緑）</string>
   <string name="daltonizer_mode_disabled">無効</string>
   <string name="daltonizer_mode_monochromacy">全色盲</string>
@@ -2102,7 +2102,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="move_app_to_internal">携帯端末に移動</string>
   <string name="move_app_to_sdcard">SDカードに移動</string>
   <string name="moving">移動中</string>
-  <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">ドライバをダウンロード</string>
   <string name="msd_driver_download_mac">OSX:ドライバをダウンロードし、AndroidFileTransfer.dmgをインストールします。</string>
   <string name="msd_driver_download_mac_url">ドライバの取得 http://www.android.com/filetransfer/</string>
@@ -2144,7 +2143,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear Headphones (2013)</string>
+  <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Diracオフ</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -2299,7 +2298,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="online_resource_entry">オンラインリソース</string>
   <string name="only_one_home_message">ホームの設定は別のホームアプリをインストールするまで表示されません。</string>
   <string name="onscreen_keyboard_settings_summary">画面キーボードを設定する</string>
-  <string name="open_anr_debug">ANRデバッグをオンにする</string>
   <string name="open_miui_optimization_title">MIUIの最適化をオンにします</string>
   <string name="open_miui_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
@@ -2546,7 +2544,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_remind_bind_notlogin_account">パスワードを忘れた場合でも再設定できるように、Mi Accountを追加します。</string>
   <string name="privacy_password_remind_bindaccount_title">Mi Accountを追加</string>
   <string name="privacy_password_settings">プライバシー保護パスワードを使用</string>
+  <string name="privacy_password_settings_next">次へ</string>
   <string name="privacy_password_settings_titles">プライバシー保護パスワードはあなたのメッセージ、写真、ファイル、およびノートを保護します。</string>
+  <string name="privacy_password_settings_titles_elder_mode">Privacy protection password protects your photos, files, and notes.</string>
+  <string name="privacy_password_settings_titles_second_space">Privacy protection password protects your messages, photos, and notes.</string>
   <string name="privacy_password_title">プライバシー保護パスワード</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">パターンを表示</string>
@@ -2683,8 +2684,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="recommend_item_3">Power bank</string>
   <string name="recommend_item_4">Earphones</string>
   <string name="recommend_item_title">Recommendations</string>
-  <string name="recompute_size">サイズを再計算中...</string>
-  <string name="record_anr_in_background">Record background ANR cases</string>
+  <string name="recompute_size">サイズを再計算中…</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">規制情報</string>
   <string name="remove_account_failed">この変更は管理者によって許可されていません</string>

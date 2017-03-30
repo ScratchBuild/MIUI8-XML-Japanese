@@ -102,6 +102,9 @@
   <string name="click_to_refresh">"更新するにはここをタップ"</string>
   <string name="click_to_switch_volume">"内部ストレージとSDカードを切り替えるにはタップ"</string>
   <string name="click_to_switch_volume_pad">"内部ストレージとSDカードを切り替えるにはタップ"</string>
+  <string name="clockin_failed">"Couldn't check in, try again"</string>
+  <string name="clockin_success">Checked in successfully</string>
+  <string name="clockin_use">Get a prize</string>
   <string name="comment_added">"正常に追加されました"</string>
   <string name="comment_added_tip">"あなたは多くのコメントを追加しています。このユーザーをフォローしますか？"</string>
   <string name="comment_delete_message">"コメントは完全に削除されます。"</string>
@@ -121,12 +124,14 @@
   <string name="confirm_know">OK</string>
   <string name="connecting">"接続中…"</string>
   <string name="connection_error">"接続できませんでした"</string>
+  <string name="contain_sensitive_words">Remove inappropriate words and try again</string>
   <string name="copied">"コピーしました"</string>
   <string name="copy_failed">"コピーできませんでした"</string>
   <string name="copy_text">"テキストをコピー"</string>
   <string name="copy_to">"コピー先を指定…"</string>
   <string name="count_down">Countdown: %1$s</string>
   <string name="create_shortcut_success">"ショートカットを追加しました"</string>
+  <string name="daily_clockin">"チェックイン"</string>
   <string name="data_consumption_cancel">"終了"</string>
   <string name="data_consumption_checkbox_hint">"二度と表示しない"</string>
   <string name="data_consumption_confirm">OK</string>
@@ -353,6 +358,7 @@
   <string name="no_message">No messages</string>
   <string name="no_new_content_tip">"すべての項目が最新の状態です"</string>
   <string name="no_recent_files">No recent files</string>
+  <string name="no_search_content">"結果が見つかりませんでした"</string>
   <string name="no_topic">No topics</string>
   <string name="no_videos">Nothing here. Check out the ones below!</string>
   <string name="no_wifi">"ネットワークが見つかりません"</string>
@@ -511,6 +517,11 @@
   <string name="rlv_refreshing">"読み込み中…"</string>
   <string name="rlv_release_to_close">Release to close</string>
   <string name="rlv_release_to_refresh">"指を離して更新"</string>
+  <string name="save">"保存"</string>
+  <string name="save_desc_success">"正常に変更されました "</string>
+  <string name="save_failed">"保存できませんでした、もう一度お試しください"</string>
+  <string name="save_failed_for_length">"署名が長すぎます、短くしてお試しください"</string>
+  <string name="save_name_success">"正常に変更されました"</string>
   <string name="save_to_local">"ダウンロード"</string>
   <string name="search_app">"アプリとフォルダ"</string>
   <string name="search_app_more">"もっと"</string>
@@ -528,6 +539,7 @@
   <string name="search_hot_video">Popular videos;Upload videos;Upload video;Short video;Short videos;Small video;Small videos</string>
   <string name="search_keyword">Tags</string>
   <string name="search_kuai_chuan">Mi Drop;Transfer</string>
+  <string name="search_popup_tip">"ユーザーやトピックを検索できます"</string>
   <string name="search_recent_file">File explorer;Explorer;File;Files;Manage files;File manager</string>
   <string name="search_result">Results</string>
   <string name="search_result_more">More</string>
@@ -537,7 +549,11 @@
   <string name="search_statistic_match_valid">1</string>
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">"検索"</string>
-  <string name="search_title_hint">Search</string>
+  <string name="search_title_hint">"検索"</string>
+  <string name="search_topic">"トピックを検索"</string>
+  <string name="search_user">"ユーザーを検索"</string>
+  <string name="see_more_topic">More topics</string>
+  <string name="see_more_user">More users</string>
   <string name="select_dest_folder">Select folder</string>
   <string name="select_image">Images</string>
   <string name="select_interest_str">"好きなトピックを選択"</string>
@@ -636,6 +652,7 @@
   <string name="topic_follow">Follow</string>
   <string name="topic_followed">Following</string>
   <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
+  <string name="topic_title">"トピック"</string>
   <string name="transfer_done">Files moved successfully.</string>
   <string name="transfer_private_data">Moving hidden folders from SD card…</string>
   <string name="type_not_support">"This file format isn't supported. Unpack this file and try again."</string>
@@ -680,6 +697,7 @@
   <string name="uploading_video">"動画をアップロード中…"</string>
   <string name="usb_label">USB</string>
   <string name="used">Used</string>
+  <string name="user">"ユーザー"</string>
   <string name="user_cancel">"キャンセルしました"</string>
   <string name="user_center_title">Home</string>
   <string name="user_desc_default_tip">Sign in to collect points and win prizes.</string>
@@ -766,7 +784,7 @@
   <string name="video_tag_search_hint">Customize topic</string>
   <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Select topic</string>
-  <string name="video_topic_hint">"検索"</string>
+  <string name="video_topic_hint">"ユーザーやトピックを検索"</string>
   <string name="video_upload_btn">"次へ"</string>
   <string name="video_upload_btn_hint">MP4 videos should be 3s~10min long</string>
   <string name="video_upload_item_more">More (%1$s)</string>

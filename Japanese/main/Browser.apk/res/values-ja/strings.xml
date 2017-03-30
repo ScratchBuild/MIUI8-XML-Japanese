@@ -121,7 +121,7 @@
   <string name="bottom_bar_tabs_long_click_down_tip_txt">"下にスワイプで閉じる"</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">This is the last tab</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">"上にスワイプで閉じる"</string>
-  <string name="browserFrameFileErrorLabel">"ファイルの問題"</string>
+  <string name="browserFrameFileErrorLabel">"ファイルエラー"</string>
   <string name="browserFrameFormResubmitLabel" />
   <string name="browserFrameFormResubmitMessage">"表示しようとしているページには、送信済みのデータ（「POSTDATA」）があります。データを再送すると、以前このページのフォームで実行した操作（検索やオンライン購入など）が繰り返されます。"</string>
   <string name="browserFrameNetworkErrorLabel">"接続エラー"</string>
@@ -346,7 +346,7 @@ Pages you view won't appear in history."</string>
 このページから移動しますか？"</string>
   <string name="js_dialog_before_unload_negative_button">"このページに留まる"</string>
   <string name="js_dialog_before_unload_positive_button">"このページから移動"</string>
-  <string name="js_dialog_before_unload_title">"ナビゲーションの確認"</string>
+  <string name="js_dialog_before_unload_title">"ページを閉じる"</string>
   <string name="js_dialog_title">\"%s\" のページ:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">"JavaScriptを無効にすると、いくつかのwebサイトが正しく表示されない可能性があります。"</string>
@@ -648,9 +648,9 @@ Pages you view won't appear in history."</string>
   <string name="save_password_never">"記憶しない"</string>
   <string name="save_password_notnow">"今回は記憶しない"</string>
   <string name="save_password_remember">"記憶する"</string>
-  <string name="save_to_camera">Save to camera</string>
-  <string name="save_to_camera_failed">"Can't save picture"</string>
-  <string name="save_to_camera_success">Saved to camera</string>
+  <string name="save_to_camera">"ギャラリーに保存"</string>
+  <string name="save_to_camera_failed">"画像を保存できません"</string>
+  <string name="save_to_camera_success">"ギャラリーに保存しました"</string>
   <string name="sdcard_error">"SDカードを確認してください"</string>
   <string name="search">"検索"</string>
   <string name="search_baidu">Baidu</string>
@@ -685,7 +685,7 @@ Pages you view won't appear in history."</string>
   <string name="send_comment_title">"コメント"</string>
   <string name="senddesktop">"ホーム画面"</string>
   <string name="sendstartpage">"スタートページ"</string>
-  <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
+  <string name="share_page_text">"I'm enjoying %1$s | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"このウェブサイトが安全かを確認するため、XiaomiのサーバーにURLが送信されます。[設定]からいつでもこの機能をオフにすることができます。"</string>
   <string name="show_security_tip_dialog_title">"利用規約"</string>
   <string name="show_weather_location_getter_tip_dialog_description">Weather services need your location info to provide you with up-to-date weather information in your browser. You can turn this feature off in Settings.</string>

@@ -77,6 +77,7 @@ The object shouldn't be further than 2 meters."</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="groupshot_mode_use_hint">"Multiple photos will be taken to select the best
 facial expression to synthesize into a photo"</string>
+  <string name="hibernate_hint">Touch anywhere to wake up</string>
   <string name="message_snap_double_confirm">Long pressing the volume button triggers NFC now. Replace this feature?</string>
   <string name="no_storage">"カメラを使用する前にSDカードを挿入してください"</string>
   <string name="not_enough_space">"SDカードがいっぱいです"</string>
@@ -324,7 +325,6 @@ facial expression to synthesize into a photo"</string>
   <string name="simple_mode_button_text_magic_mirror">Turn off Magic mirror</string>
   <string name="simple_mode_button_text_manual">Turn off Manual</string>
   <string name="simple_mode_button_text_panorama">Turn off panorama</string>
-  <string name="simple_mode_button_text_portrait_mode">Turn off Portrait</string>
   <string name="simple_mode_button_text_scene">Turn off Scene mode</string>
   <string name="simple_mode_button_text_slow_video">Turn off time-lapse</string>
   <string name="simple_mode_button_text_square">Turn off Square</string>

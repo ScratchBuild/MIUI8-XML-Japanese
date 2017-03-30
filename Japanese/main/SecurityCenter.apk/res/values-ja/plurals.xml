@@ -134,8 +134,8 @@
         <item quantity="one">%d risk found, fix now</item>
     </plurals>
     <plurals name="virus_clean_num">
-        <item quantity="other">Everything looks good</item>
-        <item quantity="one">Everything looks good</item>
+        <item quantity="other">Fixed %1$d issues. Everything looks good now.</item>
+        <item quantity="one">Fixed %1$d issue. Everything looks good now.</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d apps contain privacy risks</item>
@@ -213,5 +213,49 @@
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">Added %d games</item>
+        <item quantity="one">Added %d game</item>
+    </plurals>
+    <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">Updates for %d apps are available</item>
+        <item quantity="one">Updates for %d app are available</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">Accessed contacts %d times</item>
+        <item quantity="one">Accessed contacts %d time</item>
+    </plurals>
+    <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">Made %d calls</item>
+        <item quantity="one">Made %d call</item>
+    </plurals>
+    <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">Sent %d SMS</item>
+        <item quantity="one">Sent %d SMS</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">Read SMS %d times</item>
+        <item quantity="one">Read SMS %d time</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_record">
+        <item quantity="other">Read call history %d times</item>
+        <item quantity="one">Read call history %d time</item>
+    </plurals>
+    <plurals name="app_manager_permission_read">
+        <item quantity="other">Accessed %d times</item>
+        <item quantity="one">Accessed %d time</item>
+    </plurals>
+    <plurals name="app_manager_permission_manager_summary">
+        <item quantity="other">Gave %d permissions</item>
+        <item quantity="one">Gave %d permission</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d times</item>
+        <item quantity="one">%d time</item>
+    </plurals>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">Blocked %d times</item>
+        <item quantity="one">Blocked %d time</item>
     </plurals>
 </resources>

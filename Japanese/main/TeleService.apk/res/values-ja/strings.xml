@@ -1144,12 +1144,15 @@
   <string name="voicemail_settings_with_label">ボイスメール (%s)</string>
   <string name="voicemail_visual_voicemail_switch_title">ビジュアルボイスメール</string>
   <string name="voip_setting">VoIP設定</string>
+  <string name="volte_provision_notification_activate">Activate</string>
+  <string name="volte_provision_text">Detect the VoLTE of your sim is not provisioned, activate it now?</string>
+  <string name="volte_provision_title">VoLTE provsion</string>
   <string name="volte_switch_summary">"VoLTEを使用して通話品質を向上させる"</string>
   <string name="volte_switch_title">"VoLTEを有効にする"</string>
   <string name="wait_prompt_str">"次の番号を送信しますか？\n"</string>
   <string name="wifi_calling">"Wi-Fi通話"</string>
   <string name="wild_prompt_str">"ワイルド文字を置換:"</string>
   <string name="wrong_password">入力されたパスワードが違います</string>
-  <string name="xdivert_summary">CFNRc settings</string>
+  <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
 </resources>
