@@ -326,7 +326,6 @@
   <string name="move_icon_to_desktop_success">"ホーム画面にショートカットを追加しました。"</string>
   <string name="move_to">"移動先を指定…"</string>
   <string name="msg_notify_setting">"通知設定"</string>
-  <string name="msg_page_video_default_title">I uploaded a video, take a look!</string>
   <string name="msg_set_password">"初めにパスワードを設定"</string>
   <string name="my_follows">My feed</string>
   <string name="name_empty">"名前を入力する必要があります。"</string>
@@ -334,8 +333,8 @@
   <string name="need_read_storage_permission">"Explorerが正常に動作するには、デバイスの内部ストレージにアクセスする必要があります。"</string>
   <string name="network_dialog_checkbox_tip">"二度と表示しない"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
-  <string name="network_spent_reminding">"Use your mobile data connection to view this page? You'll receive regular mobile data charges from your carrier."</string>
-  <string name="network_spent_reminding_title">Data usage notification</string>
+  <string name="network_spent_reminding">"モバイルデータ接続を使用してこのページを表示しますか？ ご契約中のキャリアからモバイルデータ使用料金が請求されます。"</string>
+  <string name="network_spent_reminding_title">"データ使用の通知"</string>
   <string name="new_comments">New comments</string>
   <string name="new_folder_name">Unnamed folder</string>
   <string name="next_time">"後で"</string>
@@ -450,7 +449,7 @@
   <string name="phone_storage">Storage</string>
   <string name="phone_storage_apk_title">APKs: </string>
   <string name="phone_storage_audio_title">Music: </string>
-  <string name="phone_storage_cal">Checking…</string>
+  <string name="phone_storage_cal">"計算中…"</string>
   <string name="phone_storage_clean">"クリーンアップ"</string>
   <string name="phone_storage_doc_title">Docs: </string>
   <string name="phone_storage_free_title">Available: </string>
@@ -524,7 +523,7 @@
   <string name="search_file_type_music">Music</string>
   <string name="search_file_type_picture">Photo</string>
   <string name="search_file_type_video">Video</string>
-  <string name="search_hint">Search</string>
+  <string name="search_hint">"検索"</string>
   <string name="search_hot_sticker">Stickers; Download stickers</string>
   <string name="search_hot_video">Popular videos;Upload videos;Upload video;Short video;Short videos;Small video;Small videos</string>
   <string name="search_keyword">Tags</string>

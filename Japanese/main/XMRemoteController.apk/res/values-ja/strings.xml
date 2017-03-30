@@ -901,7 +901,7 @@ directly from your Lock screen"</string>
   <string name="share_friends_cancel">"キャンセル"</string>
   <string name="share_friends_confirm">OK</string>
   <string name="share_friends_none_text">No friends found</string>
-  <string name="share_friends_not_find_text">No results found</string>
+  <string name="share_friends_not_find_text">"何も見つかりませんでした"</string>
   <string name="share_friends_search_hint_text">Search friends</string>
   <string name="share_friends_title">Share using Mi Talk</string>
   <string name="share_from_others">Somebody shared a device with you, tap to add</string>

@@ -122,7 +122,7 @@
   <string name="express_inquiry_logistics_prefix">宅配便サービス: %s</string>
   <string name="express_inquiry_logistics_select_others_indication">その他</string>
   <string name="express_inquiry_no_history">履歴はありません</string>
-  <string name="express_inquiry_no_result">No results</string>
+  <string name="express_inquiry_no_result">何も見つかりませんでした</string>
   <string name="express_inquiry_number_empty">追跡番号を入力してください。</string>
   <string name="express_inquiry_number_invalid">"無効な問い合わせ番号です。
 追跡番号を確認してください。"</string>
@@ -286,7 +286,7 @@
   <string name="navigation_search_positioning">現在地を取得中…</string>
   <string name="navigation_search_positioning_failed">都市を選択</string>
   <string name="nearby_average_price">Average %d RMB</string>
-  <string name="nearby_no_yellow_page">No results nearby</string>
+  <string name="nearby_no_yellow_page">近くに何も見つかりませんでした</string>
   <string name="nearby_yellow_page_title">Nearby</string>
   <string name="network_access_denied">ネットワークアクセスが拒否されました</string>
   <string name="network_unavaliable">ネットワークに接続できません</string>

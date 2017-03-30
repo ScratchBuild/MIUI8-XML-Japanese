@@ -56,7 +56,7 @@
   <string name="birthday_saved">"誕生日を保存しました"</string>
   <string name="birthday_term">"誕生日"</string>
   <string name="book_card_free">"無料"</string>
-  <string name="book_card_rating_text">|   %1$s 条评论</string>
+  <string name="book_card_rating_text">"|   %1$s 評価"</string>
   <string name="button_day">"日"</string>
   <string name="button_month">"月"</string>
   <string name="button_week">"週"</string>
@@ -78,7 +78,7 @@
   <string name="change_response_title">"出欠状況を変更"</string>
   <string name="check_reminded_text">"アラームを表示"</string>
   <string name="chinese_leap">"閏"</string>
-  <string name="chongsha">冲煞</string>
+  <string name="chongsha">"幽霊"</string>
   <string name="copy_email">"メールアドレスをコピー"</string>
   <string name="copy_number">"電話番号をコピー"</string>
   <string name="countdown_card_title">"カウントダウン"</string>
@@ -168,7 +168,7 @@
   <string name="event_info_descrip">"概要"</string>
   <string name="event_info_end">"終了"</string>
   <string name="event_info_from">"開始"</string>
-  <string name="event_info_jump_to_email">Jump to mail</string>
+  <string name="event_info_jump_to_email">"メールに移動"</string>
   <string name="event_info_reminders_label">"リマインダー"</string>
   <string name="event_info_reminders_label_1">Reminder</string>
   <string name="event_info_repeat">"繰り返し"</string>
@@ -285,7 +285,7 @@
   <string name="monthly">"月次"</string>
   <string name="monthly_on_day">"毎月（%s日）"</string>
   <string name="monthly_on_day_count">"毎月 (%1$s %2$s)"</string>
-  <string name="more_match">更多赛事</string>
+  <string name="more_match">"その他の予定"</string>
   <string name="more_string">+%1$d</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="new_event_dialog_label">"新しい予定"</string>
@@ -345,7 +345,6 @@
   <string name="repeat_label_frequency">Frequency</string>
   <string name="repeat_label_interval">Every</string>
   <string name="repeat_label_week">Week</string>
-  <string name="repeat_lunar_yearly"/>
   <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
   <string name="repeats_label">"繰り返し"</string>

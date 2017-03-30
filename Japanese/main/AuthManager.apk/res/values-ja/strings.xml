@@ -128,7 +128,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_MMS_Access">read your multimedia messages</string>
   <string name="HIPS_Perm_MMS_Desc">write and delete multimedia messages</string>
   <string name="HIPS_Perm_MMS_Hint">%1$s apps can write and delete MMS messages</string>
-  <string name="HIPS_Perm_MobileNetwork">Use mobile data</string>
+  <string name="HIPS_Perm_MobileNetwork">"モバイルデータを使用"</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">use your mobile data connection</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s apps can use your mobile data connection</string>
   <string name="HIPS_Perm_Mobile_Connectivity">Change mobile data connectivity</string>

@@ -664,7 +664,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="pulluprefreshrecyclerview_loading_running">"読み込み中…"</string>
   <string name="radar">ACRCloud</string>
   <string name="radar_click_to_retry">"再試行するにはタップ"</string>
-  <string name="radar_fail">No results</string>
+  <string name="radar_fail">"何も見つかりませんでした"</string>
   <string name="radar_fail_by_noise">"Looks like it's too noisy here"</string>
   <string name="radar_listening_state">Recognizing…</string>
   <string name="radar_possible_result">Possible results</string>

@@ -625,7 +625,7 @@ Try switching to a different email account."</string>
   <string name="no_conversations">"メッセージなし"</string>
   <string name="no_filtrable_email_account">No accounts to filter</string>
   <string name="no_mails">"メールなし。"</string>
-  <string name="no_matched_attachment">No results.</string>
+  <string name="no_matched_attachment">"何も見つかりませんでした。"</string>
   <string name="no_remind">Not to remind</string>
   <string name="not_subject">"(件名なし)"</string>
   <string name="not_synced_title">"アカウントが同期していません"</string>
@@ -945,12 +945,12 @@ to receive reminders about payments and trips"</string>
   <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
   <string name="topic_merge">Merge themes</string>
   <string name="translation_loading">"読み込み中…"</string>
-  <string name="translation_no_result">No results</string>
+  <string name="translation_no_result">"何も見つかりませんでした"</string>
   <string name="translation_pronunciation_am">AmE</string>
   <string name="translation_pronunciation_cn">Pinyin</string>
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Machine</string>
-  <string name="translation_query_failure">"Couldn't find results"</string>
+  <string name="translation_query_failure">"結果が見つかりませんでした"</string>
   <string name="translation_technology_support">Technical support by iciba.com</string>
   <string name="trash_folder_selection_title">"%sのサーバーのゴミ箱フォルダを選択してください"</string>
   <string name="trigger_compose_char">c</string>
@@ -991,7 +991,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
   <string name="webview_logout_sure">"再試行"</string>
   <string name="webview_sslerror_handle_cancel">"キャンセル"</string>
   <string name="webview_sslerror_handle_continue">"続行"</string>
-  <string name="webview_sslerror_handle_hitmessage">A certificate error occurred, proceed anyway?</string>
+  <string name="webview_sslerror_handle_hitmessage">"証明書のエラーが発生しました。このまま続行しますか？"</string>
   <string name="widget_all_mail">"すべてのメール"</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">"その他"</string>
@@ -999,7 +999,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
   <string name="wipe_account_fail_title">"個人情報を削除できませんでした"</string>
   <string name="wrong_password">"入力したパスワードが正しくありません"</string>
   <string name="yes">"はい"</string>
-  <string name="you_are_in_mobile_network">Send log using mobile data connection? If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
+  <string name="you_are_in_mobile_network">"モバイルデータ接続を使用してログを送信しますか？データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="youfuli">Promotion</string>
   <string name="zip_viewer_no_file">No files.</string>
 </resources>

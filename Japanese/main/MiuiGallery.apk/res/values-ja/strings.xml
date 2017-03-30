@@ -291,7 +291,7 @@
   <string name="download_retry_title">"ファイルをダウンロードできませんでした"</string>
   <string name="download_tip">"ダウンロード"</string>
   <string name="download_title">"ファイルの準備中…"</string>
-  <string name="download_without_wifi_msg">"Using mobile data connection to download photos will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
+  <string name="download_without_wifi_msg">"モバイルデータ接続を使用して写真をダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="download_without_wifi_title">"データ使用の警告"</string>
   <string name="edit_baby_info">"赤ちゃんの情報を表示"</string>
   <string name="email_picker_title">Add shared email</string>

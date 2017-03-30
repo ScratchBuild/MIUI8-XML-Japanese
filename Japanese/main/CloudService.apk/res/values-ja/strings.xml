@@ -36,7 +36,7 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="click_to_enabled">同期するにはタップ。</string>
   <string name="cloud_back_up_button_ok">強制停止</string>
   <string name="cloud_back_up_close_info">バックアップするにはタップ。</string>
-  <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
+  <string name="cloud_back_up_dialog_content">"実行中のバックアップを停止しますか？もし停止した場合は、アプリの復元にこのバックアップを使用することはできません。"</string>
   <string name="cloud_back_up_network_unavailable">"削除できませんでした、Wi-Fiに接続してもう一度お試しください。"</string>
   <string name="cloud_back_up_open_info">"Back up when connected to WLAN once every %1$s
 Last backed up on %2$s"</string>
@@ -52,8 +52,8 @@ Last backed up on %2$s"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
   <string name="cloud_storage_full">クラウドストレージがいっぱいです</string>
   <string name="cloud_storage_is_full">Full</string>
-  <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
-  <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
+  <string name="cloudservice_new_sync">"Mi Cloudと%sを同期"</string>
+  <string name="cmcc_micloud_dspt">"Mi Cloudを使用することで、データの同期、端末の検索、友だちとの共有が行えます。"</string>
   <string name="connect_network">Wi－Fiに接続するか、SIMカードを挿入</string>
   <string name="connect_wlan">Wi-Fiに接続</string>
   <string name="contact">連絡先</string>
@@ -103,8 +103,8 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="find_device_service_summary">Visit i.mi.com to locate your device and lock it remotely</string>
   <string name="find_device_service_summary_international">Visit i.mi.com to locate your device and lock it remotely</string>
   <string name="find_device_service_title">Find device</string>
-  <string name="find_device_status_ok">Find your device from anywhere at i.mi.com</string>
-  <string name="find_device_status_ok_international">Find your device from anywhere at www.mi.com/micloud</string>
+  <string name="find_device_status_ok">"どこからでも i.mi.com であなたの端末を検索"</string>
+  <string name="find_device_status_ok_international">"どこからでも www.mi.com/micloud であなたの端末を検索"</string>
   <string name="find_device_success_title">Find device</string>
   <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="free_space_has_received">You already added free space this month</string>
@@ -202,7 +202,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_wlan">%d waiting to sync</string>
   <string name="micloud_dialog_sync_now_message">"追加のモバイルデータ料金を避けるため、Wi-Fiに接続"</string>
   <string name="micloud_dialog_sync_now_negative">"後で"</string>
-  <string name="micloud_dialog_sync_now_positive">Use mobile data</string>
+  <string name="micloud_dialog_sync_now_positive">"モバイルデータを使用"</string>
   <string name="micloud_dialog_sync_now_title">同期するにはWi-Fiに接続</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
@@ -448,7 +448,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
   <string name="sms">Messages</string>
   <string name="soundrecorder_sync_only_in_wifi">"同期はWi-Fiのみ使用する"</string>
-  <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">"レコーダーの記録ファイルのダウンロードやアップロードにモバイルデータを使用しない"</string>
   <string name="soundrecorder_sync_records">"Mi Cloudと同期"</string>
   <string name="start_micloud">開始</string>
   <string name="storage">ストレージ</string>
@@ -456,8 +456,8 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sub_alert_notif_dspt_add">Items waiting to sync: %s</string>
   <string name="sub_alert_notif_dspt_no">"同期済み"</string>
   <string name="sub_alert_notif_title">"Mi Cloudと同期"</string>
-  <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're connected to a WLAN network"</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
+  <string name="sub_sync_item_sms_summary">"写真、オーディオ、その他のメディアを含むメッセージは、Wi-Fiに接続している時のみ同期する"</string>
+  <string name="sub_sync_item_sms_title_wifi_only">"MMSの同期にWi-Fiのみ使用する"</string>
   <string name="success_upgraded_space">%s added</string>
   <string name="sync_dspt">同期</string>
   <string name="sync_dspt_entrance_provision">"写真、連絡先、通話履歴やメッセージを複数の端末間で同期します。任意のブラウザで %s にアクセスすることで同期するものを確認できます。"</string>
@@ -466,7 +466,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUIの内蔵アプリは、Mi Cloudが写真、連絡先、ノートなどをバックアップするために必要です。Mi Cloudは無料ですぐに使用できます。"</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloudを使用</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Mi Cloud使用しない？"</string>
-  <string name="sync_dspt_entrance_provision_skip">Skip this step</string>
+  <string name="sync_dspt_entrance_provision_skip">"この手順をスキップ"</string>
   <string name="sync_dspt_provision">"Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
