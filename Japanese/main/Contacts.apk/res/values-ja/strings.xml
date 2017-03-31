@@ -226,7 +226,7 @@
   <string name="contact_detail_profile_switch_on_subtitle">"連絡先カードをオンにするにはタップ"</string>
   <string name="contact_detail_profile_switch_on_success_toast">"連絡先カードをオンにしました"</string>
   <string name="contact_directory_description">"ディレクトリ%1$s"</string>
-  <string name="contact_edit_save_error_empty">Contact is empty</string>
+  <string name="contact_edit_save_error_empty">"連絡先は空です"</string>
   <string name="contact_edit_title_edit">"連絡先を編集"</string>
   <string name="contact_edit_title_insert">"%sに保存"</string>
   <string name="contact_edit_title_readonly">"連絡先(読み取り専用)"</string>
@@ -673,10 +673,10 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="miprofile_contact_meaasge">Local contacts</string>
   <string name="miprofile_contact_verifying">Verifying</string>
   <string name="miprofile_edit_title">"プロフィールを編集"</string>
-  <string name="miprofile_error_accept_self">"Can't exchange your own contact card"</string>
+  <string name="miprofile_error_accept_self">"自分の連絡先カードは交換できません"</string>
   <string name="miprofile_error_no_miaccount">Mi Accountにログイン"</string>
-  <string name="miprofile_error_not_opened">Turn off contact cards</string>
-  <string name="miprofile_error_not_set">"Your contact card hasn't been synced to the server"</string>
+  <string name="miprofile_error_not_opened">"連絡先カードをオフにする"</string>
+  <string name="miprofile_error_not_set">"連絡先カードがサーバーに同期されていません"</string>
   <string name="miprofile_error_unknown">"不明なエラー"</string>
   <string name="miprofile_find_miprofile_title">"すべての情報を表示するには追加"</string>
   <string name="miprofile_find_profile_batch_add">"すべて追加"</string>
@@ -684,7 +684,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="miprofile_find_profile_batch_request_failed">"プロフィールを追加できませんでした"</string>
   <string name="miprofile_find_profile_loading">"読み込み中…"</string>
   <string name="miprofile_find_profile_no_recommend">No recommended profiles</string>
-  <string name="miprofile_finding_label">Find contact cards</string>
+  <string name="miprofile_finding_label">"連絡先カードを検索"</string>
   <string name="miprofile_name">My profile</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
   <string name="miprofile_nick_name_edit">"連絡先のニックネームを編集"</string>
@@ -1160,7 +1160,7 @@ To add a contact to your list of favorites:
   <string name="splitConfirmation_title">"連絡先を分けますか？"</string>
   <string name="starredList">"スター付き"</string>
   <string name="starred_contacts">Favorites</string>
-  <string name="status_available">Available</string>
+  <string name="status_available">"利用可能"</string>
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
   <string name="strequentList">"お気に入り"</string>

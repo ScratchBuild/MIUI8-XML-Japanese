@@ -103,7 +103,7 @@
   <string name="download_paused">Download paused</string>
   <string name="download_pending">Download pending</string>
   <string name="download_queued">Queued</string>
-  <string name="download_remain_time">Remaining:</string>
+  <string name="download_remain_time">"残り:"</string>
   <string name="download_running">"進行中"</string>
   <string name="download_share_dialog">"共有方法"</string>
   <string name="download_speed">"ダウンロード速度:"</string>
@@ -205,7 +205,7 @@
   <string name="no_vip_show_info">"Speed up downloads
 across all your devices with Xunlei"</string>
   <string name="notify_disabled_net_by_app">"インターネット接続が制限されています"</string>
-  <string name="notify_not_support">"Such notifications aren't supported, update now"</string>
+  <string name="notify_not_support">"このような通知はサポートされていません、今すぐ更新"</string>
   <string name="notify_only_wifi_download">"Wi-Fi接続を待っています"</string>
   <string name="one_month">"1ヶ月"</string>
   <string name="only_support_torrent">Only torrent files are supported</string>
@@ -229,8 +229,8 @@ across all your devices with Xunlei"</string>
   <string name="paused_waiting_to_retry">Waiting to retry</string>
   <string name="period_of_validity">Validity:</string>
   <string name="pref_download_settings_title">"ダウンロードサイズ制限"</string>
-  <string name="pref_download_storage_path">Create a new folder for downloads</string>
-  <string name="pref_sniff_shortcut">Create Home screen shortcut for web search</string>
+  <string name="pref_download_storage_path">"ダウンロード用の新しいフォルダを作成する"</string>
+  <string name="pref_sniff_shortcut">"ウェブ検索用のショートカットをホーム画面に作成する"</string>
   <string name="pref_summary_any_bytes_popup">Always wait for Wi-Fi connection to download files</string>
   <string name="pref_summary_enable_max_bytes_popup">Show popup notification when using mobile data connection to download content</string>
   <string name="pref_summary_max_bytes_limit_format">Wait for Wi-Fi if file size exceeds %s</string>

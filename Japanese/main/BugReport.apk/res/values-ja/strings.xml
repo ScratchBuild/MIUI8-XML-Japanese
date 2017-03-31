@@ -55,9 +55,9 @@
   <string name="feedback_choose_module_hint">"必須"</string>
   <string name="feedback_collect_log_failed">"ログを取得できませんでした"</string>
   <string name="feedback_continue">Continue with feedback</string>
-  <string name="feedback_description">Description</string>
+  <string name="feedback_description">"説明"</string>
   <string name="feedback_description_bugreport_hint">In some cases (…) my phone misbehaves (…).</string>
-  <string name="feedback_description_label">Description</string>
+  <string name="feedback_description_label">"説明"</string>
   <string name="feedback_description_suggest_hint">"I'd like you to add a new feature () because I need ()."</string>
   <string name="feedback_detail_tile">"進捗状況"</string>
   <string name="feedback_empty_report_list">"レポートはありません"</string>

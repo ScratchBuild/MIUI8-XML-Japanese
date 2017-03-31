@@ -1434,7 +1434,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="force_rtl_layout_all_locales">RTLレイアウト方向を使用</string>
   <string name="force_rtl_layout_all_locales_summary">すべての言語/地域で画面レイアウト方向をRTLに設定</string>
   <string name="force_stop">強制停止</string>
-  <string name="force_stop_dlg_text">アプリを強制停止する場合、アプリが正常に機能しないことがあります。</string>
+  <string name="force_stop_dlg_text">アプリを強制停止すると、アプリが正常に機能しないことがあります。</string>
   <string name="force_stop_dlg_title">強制停止しますか？</string>
   <string name="force_touch">3D Touch</string>
   <string name="force_touch_demo">デモを表示</string>
@@ -2546,8 +2546,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_settings">プライバシー保護パスワードを使用</string>
   <string name="privacy_password_settings_next">次へ</string>
   <string name="privacy_password_settings_titles">プライバシー保護パスワードはあなたのメッセージ、写真、ファイル、およびノートを保護します。</string>
-  <string name="privacy_password_settings_titles_elder_mode">Privacy protection password protects your photos, files, and notes.</string>
-  <string name="privacy_password_settings_titles_second_space">Privacy protection password protects your messages, photos, and notes.</string>
+  <string name="privacy_password_settings_titles_elder_mode">プライバシー保護パスワードはあなたの写真、ファイル、およびノートを保護します。</string>
+  <string name="privacy_password_settings_titles_second_space">プライバシー保護パスワードはあなたのメッセージ、写真、およびノートを保護します。</string>
   <string name="privacy_password_title">プライバシー保護パスワード</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">パターンを表示</string>

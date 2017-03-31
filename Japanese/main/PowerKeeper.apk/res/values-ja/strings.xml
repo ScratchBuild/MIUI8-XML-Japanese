@@ -160,7 +160,7 @@
   <string name="screen_on">"画面オン"</string>
   <string name="select_items">%d selected</string>
   <string name="set_brightness">"画面の明るさを最大にする"</string>
-  <string name="set_cpu_powermode">CPU usage</string>
+  <string name="set_cpu_powermode">"CPU使用状況"</string>
   <string name="set_cpufreq_max">"CPU周波数を最大にする"</string>
   <string name="set_lcd_mode">Screen mode</string>
   <string name="settings_safetylegal_activity_loading">"読み込み中…"</string>

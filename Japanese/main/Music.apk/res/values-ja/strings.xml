@@ -65,11 +65,11 @@
   <string name="artist_search_title">"アーティスト"</string>
   <string name="artist_view">"アーティスト"</string>
   <string name="asset_sync_alert_not_now">"後で"</string>
-  <string name="asset_sync_network_data_alert_message">Backing up songs using mobile data may generate additional mobile data fees. Back up anyway?</string>
-  <string name="asset_sync_network_data_alert_title">"You're using mobile data"</string>
+  <string name="asset_sync_network_data_alert_message">"モバイルデータを使用して曲をバックアップすると、追加の料金が発生する可能性があります。とにかくバックアップしますか？"</string>
+  <string name="asset_sync_network_data_alert_title">"モバイルデータを使用しています"</string>
   <string name="asset_sync_network_unavailable_alert_message">"曲をバックアップするためにインターネットに接続する"</string>
   <string name="asset_sync_network_unavailable_alert_title">"ネットワークに接続できませんでした"</string>
-  <string name="asset_sync_power_alert_message">Connect charger to back up songs.</string>
+  <string name="asset_sync_power_alert_message">"曲をバックアップするには充電器に接続してください。"</string>
   <string name="asset_sync_power_alert_title">Low battery</string>
   <string name="atmd_music">Ultimate</string>
   <string name="audio_picker_title">"曲を選択"</string>
@@ -79,7 +79,7 @@
   <string name="auto_payment_date">Next payment: %s</string>
   <string name="auto_restart_under_wifi">File will be downloaded when the device is connected to WLAN</string>
   <string name="auto_upgrade">"自動更新"</string>
-  <string name="avail_services">Available</string>
+  <string name="avail_services">"利用可能"</string>
   <string name="available_playlist_name_format">New playlist %d</string>
   <string name="avoid_to_use_traffic_summary">"モバイルデータを使用して曲をストリーミングしない"</string>
   <string name="avoid_to_use_traffic_title">"モバイルデータを使用して曲を再生する前に警告"</string>
@@ -430,7 +430,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="loadercontainer_loading">"読み込み中…"</string>
   <string name="loading_hint">"読み込み中…"</string>
   <string name="local_music">Offline</string>
-  <string name="local_music_empty">Local playlist is empty</string>
+  <string name="local_music_empty">"ローカルプレイリストは空です"</string>
   <string name="local_music_empty_goto_online">"曲が見つかりませんでした"</string>
   <string name="local_music_is_not_available">Local music is not available.</string>
   <string name="local_page_artist">Followed artists</string>
@@ -519,7 +519,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="music_traffic">Mi Music data plan</string>
   <string name="music_traffic_summary">Listen and download songs without using data</string>
   <string name="my_account">Mi Account</string>
-  <string name="my_music_empty">Playlist is empty.</string>
+  <string name="my_music_empty">"プレイリストは空です。"</string>
   <string name="my_music_empty_goto_online">"曲が見つかりませんでした"</string>
   <string name="my_playlist">"プレイリスト"</string>
   <string name="name_online_personal_radio">Radio</string>

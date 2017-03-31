@@ -491,7 +491,7 @@ Pages you view won't appear in history."</string>
   <string name="permission_alert_window">"この機能を使用するにはポップアップウインドウを許可してください。"</string>
   <string name="permission_unknown">"不明なアクション"</string>
   <string name="popup_window_attempt">"このサイトにポップアップウィンドウを開くことを許可しますか？"</string>
-  <string name="positive_confirm_message">Turn off anyway</string>
+  <string name="positive_confirm_message">"とにかくオフにする"</string>
   <string name="pref_accessibility">"ユーザー補助"</string>
   <string name="pref_accessibility_title">"ユーザー補助"</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">"よく使う組み合わせはアドレスバーに1タップで入力できます。"</string>
@@ -592,14 +592,14 @@ Pages you view won't appear in history."</string>
   <string name="pull_to_refresh_release_label">"指を離して更新"</string>
   <string name="qr_code_title">"QRコード"</string>
   <string name="quicklink_bookmark_save">BOOKMARK LOCATION</string>
-  <string name="quicklink_not_saved">"Couldn't add to start page"</string>
-  <string name="quicklink_saved">Saved to start page</string>
-  <string name="quicklink_saved_before">This site has already been added</string>
+  <string name="quicklink_not_saved">"スタートページに追加できませんでした"</string>
+  <string name="quicklink_saved">"スタートページに保存しました"</string>
+  <string name="quicklink_saved_before">"このサイトは既に追加済みです"</string>
   <string name="quicklink_user_define_webpage_title">Name</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
   <string name="quicklinks_management">Popular</string>
   <string name="quicklinks_most_visited">"スタートページに追加"</string>
-  <string name="quicklinks_most_visited_subtitle">Show recently visited sites in new tab</string>
+  <string name="quicklinks_most_visited_subtitle">"最近訪れたサイトを新しいタブで表示"</string>
   <string name="quicklinks_most_visited_title">"スタートページに追加"</string>
   <string name="readmode_already_add_to_bookshelf">"本棚に追加しました"</string>
   <string name="readmode_battery">Battery </string>
@@ -610,7 +610,7 @@ Pages you view won't appear in history."</string>
   <string name="readmode_pay">Buy chapter</string>
   <string name="readmode_pay_message">You need to pay to read the next chapter.</string>
   <string name="readmode_reach_last_page">This is the last page</string>
-  <string name="readmode_recommend">View recommended</string>
+  <string name="readmode_recommend">"おすすめを表示"</string>
   <string name="readmode_recommend_message">"You've read this book already. :)"</string>
   <string name="readmode_refresh">"更新"</string>
   <string name="readmodelist_bookmarks_to_show">Reading list</string>
@@ -795,7 +795,7 @@ Pages you view won't appear in history."</string>
   <string name="video_download_success">"完了"</string>
   <string name="video_download_unknown_name">"不明な名前"</string>
   <string name="video_download_unknown_size">"不明なサイズ"</string>
-  <string name="video_download_unsupport">Not supported</string>
+  <string name="video_download_unsupport">"サポートされていません"</string>
   <string name="video_download_wait_for_wifi">Waiting for Wi-Fi</string>
   <string name="video_downloaded_group">"ダウンロード済み"</string>
   <string name="video_downloading_group">"ダウンロード中"</string>
