@@ -194,8 +194,8 @@
   <string name="device_model">"モデル"</string>
   <string name="device_responsed">"デバイスが応答しました"</string>
   <string name="device_type">"タイプ"</string>
-  <string name="diagnose">Test remote</string>
-  <string name="diagnosis_intro">Test network for connectivity issues</string>
+  <string name="diagnose">"リモコンの診断"</string>
+  <string name="diagnosis_intro">"ネットワーク接続の問題を診断する"</string>
   <string name="dialog_install_assistant_content">Install Mi Screen cast to get the most out of your Mi TV or Mi Box</string>
   <string name="dining_room">Dining room</string>
   <string name="download_assistant">Screen cast</string>
@@ -351,7 +351,7 @@
   <string name="input_dialogue_cancel_button">"キャンセル"</string>
   <string name="input_dialogue_guide1">Install non-authorized App</string>
   <string name="input_dialogue_guide2">Please enter the code shown on the TV</string>
-  <string name="input_dialogue_ok_button">Continue installation</string>
+  <string name="input_dialogue_ok_button">"インストールを続行"</string>
   <string name="input_source">"入力ソース"</string>
   <string name="input_speech_button">Press &amp; hold, then speak your command</string>
   <string name="input_tip">The codes expire after 15 minutes</string>
@@ -541,7 +541,7 @@ Then answer the question"</string>
   <string name="my_room_underline">My room</string>
   <string name="my_setting">"設定"</string>
   <string name="nearby">周边</string>
-  <string name="network_diagnosis">Test network</string>
+  <string name="network_diagnosis">"ネットワークの診断"</string>
   <string name="network_no_connection">"ネットワークに接続できません。ネットワーク接続を確認してもう一度やり直してください。"</string>
   <string name="network_ok">"問題は検出されませんでした"</string>
   <string name="network_unstable">· You have a stable connection</string>
@@ -802,7 +802,7 @@ Then answer the question"</string>
   <string name="remove_fav_channel">"お気に入りから削除"</string>
   <string name="rename">"名前を変更"</string>
   <string name="rename_hint">"デバイスの名前を入力"</string>
-  <string name="repeat_diagnosis">Test again</string>
+  <string name="repeat_diagnosis">"もう一度診断する"</string>
   <string name="report_problem">Report problem</string>
   <string name="require_login">Sign in first</string>
   <string name="rescan">Scan again</string>
