@@ -1,9 +1,9 @@
 <resources>
-    <string name="label_airplane_mode">"‹@“àƒ‚[ƒh"</string>
-    <string name="label_silent_mode">"ƒTƒCƒŒƒ“ƒgƒ‚[ƒh"</string>
-    <string name="label_reboot">"Ä‹N“®"</string>
-    <string name="label_shutdown">"“dŒ¹‚ðØ‚é"</string>
-    <string name="label_alert_reboot">"ƒ^ƒbƒv‚µ‚ÄÄ‹N“®"</string>
-    <string name="label_alert_shutdown">"ƒ^ƒbƒv‚µ‚Ä“dŒ¹‚ðØ‚é"</string>
-    <string name="label_blank">"–ß‚é"</string>
+    <string name="label_airplane_mode">"æ©Ÿå†…ãƒ¢ãƒ¼ãƒ‰"</string>
+    <string name="label_silent_mode">"ã‚µã‚¤ãƒ¬ãƒ³ãƒˆãƒ¢ãƒ¼ãƒ‰"</string>
+    <string name="label_reboot">"å†èµ·å‹•"</string>
+    <string name="label_shutdown">"é›»æºã‚’åˆ‡ã‚‹"</string>
+    <string name="label_alert_reboot">"ã‚¿ãƒƒãƒ—ã—ã¦å†èµ·å‹•"</string>
+    <string name="label_alert_shutdown">"ã‚¿ãƒƒãƒ—ã—ã¦é›»æºã‚’åˆ‡ã‚‹"</string>
+    <string name="label_blank">"æˆ»ã‚‹"</string>
 </resources>
