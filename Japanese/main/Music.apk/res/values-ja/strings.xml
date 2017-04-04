@@ -492,7 +492,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="miuishare_title_share">"共有"</string>
   <string name="miuishare_wechat_timeline_title">Wechat moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="mobile_recommended_title">Mobile data usage</string>
+  <string name="mobile_recommended_title">"モバイルデータ使用量"</string>
   <string name="modify_lyric">"歌詞を編集"</string>
   <string name="modify_progress">"歌詞のスクロール速度を変更する"</string>
   <string name="modify_progress_helper">Swipe up or down to adjust lyrics progress.</string>
@@ -790,8 +790,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="sub_explanation_message">"Mi Music data plan is currently supported by China Unicom. Your network provider doesn't support this feature. You can buy regular mobile data."</string>
   <string name="subed">On</string>
   <string name="suggest_text">People who liked this also liked</string>
-  <string name="sync_only_in_wifi">Only sync using WLAN</string>
-  <string name="sync_only_in_wifi_summary">Sync your music across all your devices with Mi Cloud. Using your mobile data connection to sync music will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
+  <string name="sync_only_in_wifi">"同期はWi-Fiのみ使用する"</string>
+  <string name="sync_only_in_wifi_summary">"Mi Cloudですべての端末に音楽を同期します。モバイルデータ接続を使用して音楽を同期すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="tab_album">"アルバム"</string>
   <string name="tab_album_list">"アルバム"</string>
   <string name="tab_artist">"アーティスト"</string>
@@ -888,7 +888,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="vip_required">Get Premium Song Pack to play this song. We have skipped it for you.</string>
   <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. We have skipped it for you.</string>
   <string name="warning_tip_cancel">"ダウンロード"</string>
-  <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
+  <string name="warning_tip_content">"Wi-Fiネットワークに接続していません。モバイルデータ接続を使用してダウンロードを行うと、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">"データ使用の警告"</string>
   <string name="welcome_to_new_music">"Mi Musicの新バージョンにようこそ"</string>

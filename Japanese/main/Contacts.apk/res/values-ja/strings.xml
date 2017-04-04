@@ -1108,10 +1108,10 @@ To add a contact to your list of favorites:
   <string name="sim_error_email_too_long">"メールアドレスが長すぎます"</string>
   <string name="sim_error_generic_failure">"エラーが発生しました"</string>
   <string name="sim_error_not_ready">Loading SIM contacts…</string>
-  <string name="sim_error_number_too_long">Number is too long</string>
+  <string name="sim_error_number_too_long">"番号が長すぎます"</string>
   <string name="sim_error_password_error">"入力したパスワードが間違っています"</string>
   <string name="sim_error_storage_full">SIM card storage is full</string>
-  <string name="sim_error_text_too_long">Name is too long</string>
+  <string name="sim_error_text_too_long">"名前が長すぎます"</string>
   <string name="sim_export_loading">Reading SIM card…</string>
   <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is invalid. Position must be between %2$d and %3$d.</string>
   <string name="sim_no_contact">No contacts on SIM card</string>
@@ -1120,7 +1120,7 @@ To add a contact to your list of favorites:
   <string name="single_group_list_empty">No group members</string>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">"会社"</string>
-  <string name="smart_group_company_unavailable">No company info</string>
+  <string name="smart_group_company_unavailable">"会社情報なし"</string>
   <string name="smart_group_frequency_1">"過去1ヶ月以内"</string>
   <string name="smart_group_frequency_2">"過去3ヶ月以内"</string>
   <string name="smart_group_frequency_3">"過去6ヶ月以内"</string>
@@ -1159,7 +1159,7 @@ To add a contact to your list of favorites:
   <string name="splitConfirmation">"この連絡先を複数の連絡先に分割します。"</string>
   <string name="splitConfirmation_title">"連絡先を分けますか？"</string>
   <string name="starredList">"スター付き"</string>
-  <string name="starred_contacts">Favorites</string>
+  <string name="starred_contacts">"お気に入り"</string>
   <string name="status_available">"利用可能"</string>
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>

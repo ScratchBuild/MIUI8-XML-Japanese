@@ -24,7 +24,7 @@
   <string name="download_unknown_title">"&lt;無題&gt;"</string>
   <string name="enter_garbage_clean">"内部ストレージをクリーンアップします。"</string>
   <string name="insufficient_space">"お使いの端末の内部ストレージに十分な空き領域がありません"</string>
-  <string name="mobile_recommended_title">Mobile data usage</string>
+  <string name="mobile_recommended_title">"モバイルデータ使用量"</string>
   <string name="notif_text_engine_off">"Xunlei Acceleratorはオフです。"</string>
   <string name="notif_text_engine_on">Accelerating…</string>
   <string name="notif_title_file_size">%1$d total</string>
@@ -67,7 +67,7 @@
   <string name="root_downloads">"ダウンロード"</string>
   <string name="task_already_exist">"タスクがすでに存在します"</string>
   <string name="warning_tip_cancel">"ダウンロード"</string>
-  <string name="warning_tip_content">"You're no longer connected to Wi-Fi. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
+  <string name="warning_tip_content">"Wi-Fiネットワークに接続していません。モバイルデータ接続を使用してダウンロードを行うと、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="warning_tip_ok">"中断"</string>
   <string name="warning_tip_title">"データ使用の警告"</string>
   <string name="wifi_recommended_body" formatted="false">"この%sのダウンロードを今すぐ行うと、電池消費量やデータ通信量が増え、通信プランによっては携帯通信会社の料金が発生します。\n\n[%s]をタップすると、次回Wi-Fiネットワーク接続時にダウンロードを行います。"</string>

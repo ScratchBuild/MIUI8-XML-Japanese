@@ -164,7 +164,7 @@
   <string name="pm_root_fail_msg">"This app couldn't get root access. Try again."</string>
   <string name="pm_root_fail_service_busy">Wait until your device has finished updating and try again.</string>
   <string name="pm_root_fail_title">"Couldn't get root access"</string>
-  <string name="pm_root_notification_download_title">Downloading</string>
+  <string name="pm_root_notification_download_title">"ダウンロード中"</string>
   <string name="pm_root_success_msg">Restart your device to complete the last step.</string>
   <string name="pm_root_success_title">Root access enabled</string>
   <string name="previous">"前へ"</string>
@@ -186,7 +186,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_auto_msg">"Wi-Fiに接続して更新をダウンロードし、夜間にインストールしますか？"</string>
   <string name="set_auto_update_title">"自動的に更新しますか？"</string>
   <string name="set_installfail_full_msg">"エラーが発生しました。このエラーを報告するには[OK]をタップ。"</string>
-  <string name="set_installfail_msg">"You aren't connected to a WLAN network. Using your mobile data connection to download the update will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
+  <string name="set_installfail_msg">"Wi-Fiネットワークに接続していません。モバイルデータ接続を使用して更新をダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="set_installfail_title">Try to download update again?</string>
   <string name="set_installfail_title_full">"Can't update"</string>
   <string name="set_network_msg">To download this update, connect to a WLAN network.</string>

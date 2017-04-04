@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_clear_records">Delete selected recordings?</string>
+  <string name="alert_message_clear_records">"選択した録音を削除しますか？"</string>
   <string name="alert_message_delete_record">Deleting the recording from your device will also delete this recording from Mi Cloud. Delete now?</string>
-  <string name="alert_message_delete_record_title">Delete recording?</string>
+  <string name="alert_message_delete_record_title">"録音を削除しますか？"</string>
   <string name="app_name">"レコーダー"</string>
   <string name="back">"戻る"</string>
   <string name="btn_clear_records">Delete recordings (%d items)</string>
@@ -17,7 +17,7 @@
   <string name="cloud_status_full_dialog_msg">"Your cloud storage is full, can't sync recordings. Upgrade your account to get more storage space."</string>
   <string name="cloud_status_full_dialog_ok">Upgrade</string>
   <string name="cloud_status_full_dialog_title">Mi Cloud storage full</string>
-  <string name="data_connection_body">Using your mobile data connection to download this file will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="data_connection_body">"モバイルデータ接続を使用してこのファイルをダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">"データ使用の警告"</string>
   <string name="delete">"削除"</string>
@@ -134,7 +134,7 @@
   <string name="speech_recognition_running_tip">Running</string>
   <string name="start">"再開"</string>
   <string name="status_bar_back">Tap to return to Recorder</string>
-  <string name="status_bar_recording">Recording…</string>
+  <string name="status_bar_recording">"録音中…"</string>
   <string name="status_bar_recording_pause">Recorder paused</string>
   <string name="text_btn_complete">"停止"</string>
   <string name="text_btn_list">Recordings</string>
@@ -149,7 +149,7 @@
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s can record for about %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Explorerアプリがインストールされていません"</string>
-  <string name="wifi_recommended_body" formatted="false">Using your mobile data connection to download this file (%s) will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees. To wait for a WLAN connection to download this file, tap %s.</string>
+  <string name="wifi_recommended_body" formatted="false">"モバイルデータ接続を使用してこのファイル(%s)をダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。 ファイルをダウンロードするためにWi-Fi接続を待つには、%sをタップ。"</string>
   <string name="wifi_recommended_title">"データ使用の警告"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

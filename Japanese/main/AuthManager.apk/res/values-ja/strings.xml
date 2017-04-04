@@ -137,7 +137,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_Network_Accept">Accept link from %1$s?</string>
   <string name="HIPS_Perm_Network_Connect">Link location: %1$s</string>
   <string name="HIPS_Perm_Network_Listen">Listening on port %1$s</string>
-  <string name="HIPS_Perm_Network_MobileEvent">Mobile data usage</string>
+  <string name="HIPS_Perm_Network_MobileEvent">"モバイルデータ使用量"</string>
   <string name="HIPS_Perm_Network_Recv">Receive data</string>
   <string name="HIPS_Perm_Network_Send">Send data</string>
   <string name="HIPS_Perm_Network_UnknownAddr">"不明なアドレス"</string>

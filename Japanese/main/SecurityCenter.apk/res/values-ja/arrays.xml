@@ -43,16 +43,16 @@
         <item>"9秒"</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Mobile usage "</item>
-        <item>"WLAN usage "</item>
+        <item>"モバイル使用量 "</item>
+        <item>"Wi-Fi使用量 "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Mobile usage "</item>
-        <item>"WLAN usage "</item>
+        <item>"モバイル使用量 "</item>
+        <item>"Wi-Fi使用量 "</item>
     </string-array>
     <string-array name="traffic_sort_type">
-        <item>"Mobile data usage "</item>
-        <item>"WLAN usage "</item>
+        <item>"モバイルデータ使用量 "</item>
+        <item>"Wi-Fi使用量 "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>"自動で取得"</item>

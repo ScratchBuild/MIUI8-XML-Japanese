@@ -1549,7 +1549,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_find_device">Find device</string>
   <string name="title_flow_notification">Mobile data notification</string>
   <string name="title_flow_purchase">Buy mobile data</string>
-  <string name="title_flow_rank">Mobile data usage</string>
+  <string name="title_flow_rank">"モバイルデータ使用量"</string>
   <string name="title_flow_verify">Compare accounting</string>
   <string name="title_flow_verify_failed">"Couldn't adjust for 5 days in a row"</string>
   <string name="title_garbage_clean">App cache size reached %s</string>
