@@ -512,7 +512,7 @@ Then answer the question"</string>
   <string name="milink_device_offline">Offline</string>
   <string name="milink_device_online">Online</string>
   <string name="milink_device_rc_saved">Remote saved</string>
-  <string name="milink_nowifi">Not connected to Wi-Fi</string>
+  <string name="milink_nowifi">"Wi-Fiに接続されていません"</string>
   <string name="milink_screenshot_done">TV screenshot made successfully</string>
   <string name="milink_screenshot_pic">Screenshots</string>
   <string name="milink_view_screenshot">Saved to Gallery, tap to view</string>
@@ -732,7 +732,7 @@ Then answer the question"</string>
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="passport_vcode_prompt_long">Enter verification code</string>
   <string name="passport_vcode_sms_send_prompt">Send verification code to %s</string>
-  <string name="passport_verification_failed">Authentication failed</string>
+  <string name="passport_verification_failed">"認証に失敗しました"</string>
   <string name="passport_verify">"認証"</string>
   <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
   <string name="passport_wrong_captcha">"入力したコードが正しくありません"</string>
@@ -907,7 +907,7 @@ directly from your Lock screen"</string>
   <string name="share_from_others">Somebody shared a device with you, tap to add</string>
   <string name="share_level_private">People connected to the same Wi-Fi</string>
   <string name="share_level_private_desc">Wi-Fi network: %1$s</string>
-  <string name="share_level_private_error">Not connected to Wi-Fi</string>
+  <string name="share_level_private_error">"Wi-Fiに接続されていません"</string>
   <string name="share_level_public">All people nearby</string>
   <string name="share_level_public_error">"Couldn't set location, check location settings and try again"</string>
   <string name="share_level_title">Who can see the remote?</string>

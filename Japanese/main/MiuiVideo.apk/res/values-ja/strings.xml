@@ -14,8 +14,8 @@
   <string name="addon_category">"アドオン"</string>
   <string name="addon_install_complete_disc">%s addons installed. You can view them in /My videos/.</string>
   <string name="addon_update_desc">"新しいバージョンが見つかりました、今すぐ更新しますか？"</string>
-  <string name="adjust_position_next_media_notice">Next</string>
-  <string name="adjust_position_prev_media_notice">Last</string>
+  <string name="adjust_position_next_media_notice">"次へ"</string>
+  <string name="adjust_position_prev_media_notice">"前へ"</string>
   <string name="ads_control">"広告を表示"</string>
   <string name="ads_control_desc">"アプリの起動時に広告を表示する"</string>
   <string name="ads_ignore">"無視する"</string>
@@ -241,7 +241,7 @@
   <string name="no_sdcard_no_download">Not enough storage space.</string>
   <string name="no_vip_product">do not support vip services</string>
   <string name="not_buy_vip">no vip</string>
-  <string name="not_exist_openid">getting account info, please wait...</string>
+  <string name="not_exist_openid">"アカウント情報を取得中、しばらくお待ちください..."</string>
   <string name="not_login">"ログインしていません"</string>
   <string name="notification_default_title">Offline video</string>
   <string name="notification_sub_title">Total %d download task(s) completed</string>
@@ -252,7 +252,7 @@
   <string name="nowifi_alert_dialog_message">"モバイルデータ接続を使用して動画を視聴すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="nowifi_alert_dialog_title">"データ使用の警告"</string>
   <string name="offline">Offline</string>
-  <string name="offline_add_queue_fail">"Couldn't download \"%1$s\""</string>
+  <string name="offline_add_queue_fail">"\"%1$s\"をダウンロードできませんでした"</string>
   <string name="offline_alert_title">Data usage</string>
   <string name="offline_alert_wifi">Downloads will begin when your device connects to a WLAN network.</string>
   <string name="offline_already_in">\"%1$s\" is already waiting to download</string>
@@ -429,7 +429,7 @@
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="passport_vcode_prompt_long">Enter verification code</string>
   <string name="passport_vcode_sms_send_prompt">Send verification code to %s</string>
-  <string name="passport_verification_failed">Authentication failed</string>
+  <string name="passport_verification_failed">"認証に失敗しました"</string>
   <string name="passport_verify">"認証"</string>
   <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
   <string name="passport_wrong_captcha">"入力したコードが正しくありません"</string>

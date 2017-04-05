@@ -68,7 +68,7 @@
   <string name="gift_present_success_dlg_content">An SMS message will be sent to this person when the theme is delivered.</string>
   <string name="gift_present_success_dlg_title">Gift sent</string>
   <string name="gift_present_success_no_sms_dlg_content">Gift history is listed in your Account page.</string>
-  <string name="gift_presented">Sent</string>
+  <string name="gift_presented">"送信済み"</string>
   <string name="gift_purchase_success_dlg_content">You purchased %1$s as a gift. To send it, go to your Themes Account page.</string>
   <string name="gift_purchase_success_dlg_title">Gift purchased</string>
   <string name="gift_purchased_endnote">To: %1$s</string>
@@ -83,7 +83,7 @@
   <string name="gift_use">Give</string>
   <string name="gift_use_confirmation_dlg_title">"このギフトを送信しますか？"</string>
   <string name="gift_use_fail_dlg_title">"エラーが発生しました"</string>
-  <string name="gift_used">Sent</string>
+  <string name="gift_used">"送信済み"</string>
   <string name="home_apply_failured">"ホーム画面の壁紙を適用できません"</string>
   <string name="home_apply_success">"ホーム画面の壁紙を適用しました"</string>
   <string name="incompatible_dialog_message">"このテーマはMIUI8との完全な互換性がありません。いくつかの要素は正しく表示されない可能性があります。"</string>

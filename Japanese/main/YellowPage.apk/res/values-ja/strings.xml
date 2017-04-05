@@ -32,7 +32,7 @@
   <string name="callNoAnswerTimeFormat">Rang %s times</string>
   <string name="callrecordview_item_newcontact">新しい連絡先</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d分%2$d秒</string>
-  <string name="callrecordview_item_op_time_missed">Not connected</string>
+  <string name="callrecordview_item_op_time_missed">"接続されていません"</string>
   <string name="callrecordview_item_op_time_only_minutes">%d分</string>
   <string name="callrecordview_item_op_time_only_seconds">%d秒</string>
   <string name="callrecordview_item_op_time_rejected">拒否</string>

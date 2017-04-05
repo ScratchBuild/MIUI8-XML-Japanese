@@ -166,7 +166,7 @@
   <string name="no_network_title">"ネットワークに接続できません。"</string>
   <string name="no_response_retry">"応答がありません、再試行してください。"</string>
   <string name="no_sim_card_or_unactivated">"SIM card isn't installed or activated"</string>
-  <string name="nobind">Not connected</string>
+  <string name="nobind">"接続されていません"</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Account's internet access is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_content_hidden_state">"Mi Account's background activity is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Account's internet access is restricted. Tap to allow."</string>
@@ -324,7 +324,7 @@
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="passport_vcode_prompt_long">Enter verification code</string>
   <string name="passport_vcode_sms_send_prompt">Send verification code to %s</string>
-  <string name="passport_verification_failed">Authentication failed</string>
+  <string name="passport_verification_failed">"認証に失敗しました"</string>
   <string name="passport_verify">"認証"</string>
   <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
   <string name="passport_wrong_captcha">"入力したコードが正しくありません"</string>
@@ -390,7 +390,7 @@ Make sure you remember the answers to these questions."</string>
   <string name="service_error">"サービスエラー"</string>
   <string name="set_security_question_title">Set security questions</string>
   <string name="sina_weibo">Sina Weibo</string>
-  <string name="sms_send_success">Sent</string>
+  <string name="sms_send_success">"送信済み"</string>
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to reconnect this account.</string>
   <string name="submit_answers">"送信"</string>
   <string name="success">"完了"</string>
