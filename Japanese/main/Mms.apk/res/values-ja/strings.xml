@@ -44,7 +44,6 @@
   <string name="audio_sim_card_mismatching">ネットワーク接続がないかSIMカードがインストールされていません。メッセージを送信したSIMカードをインストールし、ネットワークに接続します。</string>
   <string name="back_to_message_list">メッセージのリストへ戻る</string>
   <string name="batch_adding_progress_message">"追加中..."</string>
-  <string name="batch_delete_confirm_dialog_message">選択した%1$s件のメッセージを削除しますか？</string>
   <string name="batch_deleting_message_progress_message">"削除中..."</string>
   <string name="batch_deleting_progress_message">"削除中..."</string>
   <string name="bcc_label">"Bcc: "</string>
@@ -394,6 +393,7 @@
   <string name="pref_delivery_ringtone">受信時の通知音</string>
   <string name="pref_edit_smsc_address">SMSセンター番号(SMSC)</string>
   <string name="pref_forward_title">転送</string>
+  <string name="pref_hide_verification_code_summary">Automatically hide one-time passwords in message notifications on secured lock screen</string>
   <string name="pref_messages_to_save">保存するメッセージ件数を設定</string>
   <string name="pref_mms_settings_title">マルチメディアメッセージ（MMS）の設定</string>
   <string name="pref_msg_trash_bin_title">最近削除したメッセージ</string>
@@ -420,7 +420,7 @@
   <string name="pref_summary_send_delivery_reports">MMSを受信した場合は配達確認メッセージを送信者に送信</string>
   <string name="pref_summary_show_recent_contacts">新規メッセージを作成する際に履歴の連絡先を表示</string>
   <string name="pref_summary_wake_up_screen">新しいメッセージを受信した時は画面を起動</string>
-  <string name="pref_switch_sdk_setting">Switch smart sms engine</string>
+  <string name="pref_switch_sdk_setting">Switch smart SMS service provider</string>
   <string name="pref_system_title">システム</string>
   <string name="pref_time_auto_group_disabled_summary">"現在のフォントサイズはサポートされていません"</string>
   <string name="pref_time_auto_group_summary">互いに1分以内に受信したメッセージは同じスレッドにまとめて分類する</string>
@@ -625,6 +625,7 @@
   <string name="timed_message_to">to</string>
   <string name="title_allow_network_access">情報を自動的に更新</string>
   <string name="title_collapse_sp_messages">キャリアメッセージをまとめる</string>
+  <string name="title_hide_verification_code">Auto hide OTP on lock screen</string>
   <string name="title_show_blocked_messages">ブロックしたSMSを表示</string>
   <string name="title_show_sms_template">認証コードをSMSで確認してください</string>
   <string name="title_show_sms_template_in">ワンタイムパスワードをSMSで確認してください</string>

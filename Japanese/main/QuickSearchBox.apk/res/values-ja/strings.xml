@@ -4,7 +4,7 @@
   <string name="app_name">"検索"</string>
   <string name="appindex_description">functions of installed apps</string>
   <string name="appindex_search_label">Apps functions</string>
-  <string name="application_desc">"アプリケーション"</string>
+  <string name="application_desc">"アプリ"</string>
   <string name="applications_search_label">"アプリ"</string>
   <string name="baidu_search_url_from_input">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>
@@ -15,7 +15,7 @@
   <string name="barcode_install_confirm">"インストール"</string>
   <string name="barcode_system_unmatch">"スキャナーをインストールする前にMIUIを更新します"</string>
   <string name="barcode_to_install">"続行するにはスキャナーをインストール"</string>
-  <string name="barcode_uninstalled">"スキャナーを削除しました"</string>
+  <string name="barcode_uninstalled">"スキャナーをアンインストールしました"</string>
   <string name="choose_search_engine">"デフォルトのweb検索エンジンを選択"</string>
   <string name="clear_history">"履歴を消去"</string>
   <string name="clear_shortcuts">"ショートカットを消去"</string>
@@ -27,12 +27,12 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="clear_shortcuts_summary">"最近選択した検索候補へのショートカットを消去する"</string>
   <string name="common_setting">"全般設定"</string>
   <string name="connect_and_retry">"インターネットに接続して、もう一度お試しください"</string>
-  <string name="corpus_description_apps">"インストールされているアプリ"</string>
+  <string name="corpus_description_apps">"インストール済みアプリ"</string>
   <string name="corpus_description_web">"ブックマーク"</string>
   <string name="corpus_hint_apps">"アプリを検索"</string>
   <string name="corpus_label_apps">"アプリ"</string>
   <string name="corpus_label_global">"すべて"</string>
-  <string name="corpus_label_web">"アプリ、音楽、動画、イエローページを検索…"</string>
+  <string name="corpus_label_web">"ウェブの結果"</string>
   <string name="corpus_selection_heading">"検索"</string>
   <string name="cta_declaration">"この機能が正常に作動するためには、インターネットへの接続、端末の位置情報へのアクセス、通話履歴や連絡先を表示する必要があります。"</string>
   <string name="cta_declaration_ignore">"二度と表示しない"</string>
@@ -57,7 +57,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="local_setting">"設定"</string>
   <string name="menu_help">"ヘルプ"</string>
   <string name="menu_settings">"検索設定"</string>
-  <string name="mina_name">Direct Apps</string>
+  <string name="mina_name">New apps</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした"</string>
   <string name="permission_prompt_detail">Search for movies, books, music, and more.</string>
   <string name="permission_prompt_start">"許可"</string>

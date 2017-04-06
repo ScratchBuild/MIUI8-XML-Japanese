@@ -93,7 +93,7 @@
   <string name="language_entry_russian">ロシア語</string>
   <string name="language_entry_spanish">スペイン語</string>
   <string name="language_entry_swedish">スウェーデン語</string>
-  <string name="low_version_tip">"スキャナーは現在のシステムでは実行できません、最新のMIUIに更新してください"</string>
+  <string name="low_version_tip">MIUI version is too old. Update MIUI to use Scanner.</string>
   <string name="module_title_code">QRコード</string>
   <string name="module_title_document">ドキュメント</string>
   <string name="module_title_namecard">名刺</string>

@@ -178,9 +178,9 @@
   <string name="permdesc_write_settings">"ホームの設定とショートカットの変更をアプリに許可します。"</string>
   <string name="permlab_install_shortcut">"ショートカットのインストール"</string>
   <string name="permlab_install_widget">"ウィジェットのインストール"</string>
-  <string name="permlab_read_settings">"ホームの設定とショートカットの読み取り"</string>
+  <string name="permlab_read_settings">"ホーム画面の設定とショートカットの読み取り"</string>
   <string name="permlab_uninstall_shortcut">"ショートカットのアンインストール"</string>
-  <string name="permlab_write_settings">"ホームの設定とショートカットの書き込み"</string>
+  <string name="permlab_write_settings">"ホーム画面の設定とショートカットの書き込み"</string>
   <string name="photo_adjust">"プレビュー"</string>
   <string name="photo_confirm">"設定"</string>
   <string name="photo_load_failed">"写真が読み込めません"</string>
@@ -250,7 +250,7 @@
   <string name="uninstall_result_two_failed">"Can't uninstall %s and 1 other app"</string>
   <string name="uninstall_with_xspace_dialog_message">"対応するデュアルアプリは、アプリデータと共に削除されます。"</string>
   <string name="uninstall_xspace_dialog_message">"デュアルアプリをアンインストールすると、アプリに関するすべてのデータが削除されます。"</string>
-  <string name="uninstall_xspace_dialog_title_format">Uninstall dual \"%s\"</string>
+  <string name="uninstall_xspace_dialog_title_format">Uninstall dual \"%s\"?</string>
   <string name="unknown_artist_name">"不明なアーティスト"</string>
   <string name="unnamed_folder_name">"フォルダ"</string>
   <string name="wallpaper">"壁紙"</string>

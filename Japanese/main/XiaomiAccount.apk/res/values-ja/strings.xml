@@ -122,8 +122,8 @@
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
   <string name="find_device_interrupted">"アクションが中断されました、後ほど再試行してください"</string>
   <string name="find_device_io_error">"ネットワークに接続できません"</string>
-  <string name="find_device_locked_account_email" formatted="false">%s,associated email address:%s</string>
-  <string name="find_device_locked_account_phone" formatted="false">%s,associated phone number:%s</string>
+  <string name="find_device_locked_account_email" formatted="false">%s, associated email address: %s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s, associated phone number: %s</string>
   <string name="find_device_null_credential_error">"Can't get device info, contact Xiaomi customer service"</string>
   <string name="find_device_operation_failed_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_operation_failed_error_unknown">"エラーが発生しました、後ほど再試行してください"</string>
@@ -381,7 +381,7 @@
   <string name="search_user_detail_top_key_words">Personal info,Change Profile photo,Change Username,Change Nickname,Change Birthday,Change Gender</string>
   <string name="security_question">"質問を選択"</string>
   <string name="security_question_answer">回答を入力</string>
-  <string name="security_question_notice_message">Add your phone before you set security questions to be able to reset questions in case you forget the answers.</string>
+  <string name="security_question_notice_message">Add your phone number before you set security questions to be able to reset questions in case you forget the answers.</string>
   <string name="security_question_notice_title">Add phone</string>
   <string name="security_question_prompt">"Security questions can be used when you change or reset your password.
 Make sure you remember the answers to these questions."</string>

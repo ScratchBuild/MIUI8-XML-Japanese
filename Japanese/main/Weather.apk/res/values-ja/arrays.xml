@@ -28,9 +28,9 @@
     <string-array name="aqi_detail_title">
         <item>Good</item>
         <item>Moderate</item>
-        <item>Unhealthy for Sensitive Groups</item>
+        <item>Unhealthy for sensitive groups</item>
         <item>Unhealthy</item>
-        <item>Very Unhealthy</item>
+        <item>Very unhealthy</item>
         <item>Hazardous</item>
     </string-array>
     <string-array name="weather_type">

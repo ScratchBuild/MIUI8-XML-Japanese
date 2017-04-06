@@ -314,7 +314,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_content_sync_with_off">"今すぐデバイスを同期するにはタップ。"</string>
   <string name="micloud_notif_title_battery_low">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_clipboard_push">クリップボードにコピーしました</string>
-  <string name="micloud_notif_title_dirty_data">You have data not synced</string>
+  <string name="micloud_notif_title_dirty_data">You have unsynced items</string>
   <string name="micloud_notif_title_master_depend_wifi">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_memory_low">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_multi_user_error">"Mi Cloudと同期できません"</string>

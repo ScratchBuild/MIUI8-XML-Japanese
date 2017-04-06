@@ -112,6 +112,7 @@
   <string name="bookmark_title_lable">"タイトル"</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"このURLは既にブックマーク済みです"</string>
+  <string name="bookmark_url_can_not_null">"URLを入力してください。"</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"このURLは無効です。"</string>
   <string name="bookmarks_content_is_null">"ブックマークなし"</string>

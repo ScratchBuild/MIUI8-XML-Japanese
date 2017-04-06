@@ -61,8 +61,8 @@
         <item quantity="one">%1$d件選択済み</item>
     </plurals>
     <plurals name="number_of_items_available">
-        <item quantity="other">残り%1$d件</item>
-        <item quantity="one">残り%1$d件</item>
+        <item quantity="other">残り%1$d件のアイテム</item>
+        <item quantity="one">残り%1$d件のアイテム</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d件のお気に入り</item>

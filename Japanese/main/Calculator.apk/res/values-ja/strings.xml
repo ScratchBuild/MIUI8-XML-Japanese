@@ -83,7 +83,7 @@
   <string name="mortgage_hint_accumulation_fund">金額を入力</string>
   <string name="mortgage_hint_commercial">金額を入力</string>
   <string name="mortgage_hint_loan">金額を入力</string>
-  <string name="mortgage_input_error">金額を入力</string>
+  <string name="mortgage_input_error">値を入力</string>
   <string name="mortgage_interest_amount">Interest amount</string>
   <string name="mortgage_interest_rate">Interest</string>
   <string name="mortgage_item_repayment">返済方法</string>
@@ -208,7 +208,7 @@
   <string name="unit_data_display_temperature_f">Fahrenheit</string>
   <string name="unit_data_display_temperature_k">Kelvin</string>
   <string name="unit_data_display_temperature_r">Rankine</string>
-  <string name="unit_data_display_temperature_re">Reaumur</string>
+  <string name="unit_data_display_temperature_re">Réaumur</string>
   <string name="unit_data_display_time_day">Day</string>
   <string name="unit_data_display_time_h">Hour</string>
   <string name="unit_data_display_time_min">Minute</string>
@@ -257,7 +257,7 @@
   <string name="unit_data_display_weight_qian">Qian</string>
   <string name="unit_data_display_weight_st">Short ton</string>
   <string name="unit_data_display_weight_t">Tonne</string>
-  <string name="unit_data_display_weight_taijin">Jin(Taiwan)</string>
+  <string name="unit_data_display_weight_taijin">Jin (Taiwan)</string>
   <string name="unit_data_display_weight_ug">Microgram</string>
   <string name="unit_data_display_weight_uk.cwt">UK hundredweight</string>
   <string name="unit_data_display_weight_uk.st">Stone</string>

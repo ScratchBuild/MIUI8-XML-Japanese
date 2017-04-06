@@ -387,6 +387,9 @@
   <string name="card_main_deepclean_action">"消去"</string>
   <string name="card_main_deepclean_summary">Delete unnecessary files</string>
   <string name="card_main_deepclean_title">Deep clean</string>
+  <string name="card_main_deepclean_wechat_action">Clear</string>
+  <string name="card_main_deepclean_wechat_summary">Clear WeChat cache to free up storage space</string>
+  <string name="card_main_deepclean_wechat_title">WeChat cache</string>
   <string name="card_main_gamebooster_summary">Boost speed &amp; improve gaming experience</string>
   <string name="card_main_gamebooster_title">Gaming speed boost</string>
   <string name="card_main_hbassistant_summary">Use this tool to grab the envelopes faster</string>
@@ -713,7 +716,7 @@
   <string name="list_empty_text">Empty</string>
   <string name="load_fail">"読み込めませんでした"</string>
   <string name="load_only_under_wlan">"Wi-Fi接続時のみ読み込む"</string>
-  <string name="local_ip_exception_summary">"ローカルIPアドレスを取得できませんでした。この問題をMIUIに報告するには、お使いのデバイスのReport Bugアプリからログを送信してください。"</string>
+  <string name="local_ip_exception_summary">"ローカルIPアドレスを取得できませんでした。この問題をMIUIに報告するには、お使いのデバイスのFeedbackアプリからログを送信してください。"</string>
   <string name="lock_mode_title">Lock settings</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s used at lock screen</string>
   <string name="lock_screen_traffic_guide_notification_title">Tap to manage data usage.</string>
@@ -844,11 +847,11 @@
   <string name="network_diagnostics">Test network</string>
   <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
 
- 1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+ 1. Make sure you haven't exceeded your mobile data plan's limit.
 
  2. If you just topped up your device's balance, reboot your device and try again.
 
- 3. Your carrier's network's signal may be weak in your current location."</string>
+ 3. Your carrier's network signal may be weak in your current location."</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
   <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
@@ -859,7 +862,7 @@
 "&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
 
  2."&lt;b&gt;" Internet service provider issues
-M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet Service Provider.
+M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet service provider.
 
  3."&lt;b&gt;" Router hardware issues
 T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
@@ -868,7 +871,7 @@ T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your ro
 R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
 
  5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider. "</string>
+T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider. "</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
  1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
@@ -972,7 +975,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_antispam">システムアプリ/セキュリティ/ブロックリスト</string>
   <string name="path_antivirus">システムアプリ/セキュリティ/ウイルススキャン</string>
   <string name="path_app_permissions">システムアプリ/セキュリティ/パーミッション/App permissions</string>
-  <string name="path_auto_restart">システムアプリ/セキュリティ/パーミッション/Manage autostart</string>
+  <string name="path_auto_restart">システムアプリ/セキュリティ/パーミッション/Autostart</string>
   <string name="path_buy_flow">システムアプリ/セキュリティ/Data usage/Buy mobile data</string>
   <string name="path_cleanmaster">システムアプリ/セキュリティ/クリーナー</string>
   <string name="path_networkassistant_1">システムアプリ/セキュリティ/データ使用量</string>
@@ -1182,7 +1185,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="privacy_declare_dialog_title">"利用規約"</string>
   <string name="privacy_mode_dialog_title">"ゲストモード"</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order t acquire the carrier's calibration template and learn if it's possible to purchase data in your location. While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order to acquire the carrier's calibration template and learn if it's possible to purchase data in your location.
+
+While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
   <string name="privacy_prompt_upload">"アップロード"</string>
   <string name="process_kernel_label">Android</string>
@@ -1193,7 +1198,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="protection_category_recommend_title">Recommended changes (%d)</string>
   <string name="protection_category_security_title">Clear (%d)</string>
   <string name="protocol_exception_title">Network protocol diagnostics</string>
-  <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
+  <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Feedback app and send a log from your device.</string>
   <string name="quick_optimize_checking">"スキャン中"</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Couldn't extend battery life"</string>
   <string name="quick_optimize_no_fix_issue_title">"Couldn't fix battery issues"</string>
@@ -1475,7 +1480,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_diagnostic_status_updating">"テスト中…"</string>
   <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
   <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;結果: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;結果: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Security app features weren't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">"キャリア診断"</string>
   <string name="tc_diagnostic_upload_button">"報告"</string>
   <string name="tc_diagnostic_upload_no_network">"ご意見ありがとうございます！ あなたの報告はネットワークに接続したときに送信されます。"</string>
@@ -1508,9 +1513,8 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
   <string name="tc_sms_report_tips_dialog_title">Data usage SMS</string>
   <string name="tc_sms_report_title">Report data usage bug</string>
-  <string name="tc_sms_report_title_bill">Report data usage bug</string>
-  <string name="tc_sms_report_title_calltime">Report data usage bug</string>
   <string name="tc_sms_report_toast_text">"情報を取得中…"</string>
+  <string name="tc_sms_report_type">Report type</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">"ご意見ありがとうございます！"</string>
   <string name="text_button">OK</string>
@@ -1633,7 +1637,7 @@ Rolled over extra data"</string>
   <string name="traffic_correction_start_correction_failed">"リクエストに失敗しました、オペレーターの設定を確認してください"</string>
   <string name="traffic_correction_success">Data usage updated</string>
   <string name="traffic_correction_success_notify_message">"詳細を表示するにはタップ。"</string>
-  <string name="traffic_limit_error_alert_body">Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Mark extra data as top-up package?</string>
+  <string name="traffic_limit_error_alert_body">"Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Monthly plan changed?"</string>
   <string name="traffic_limit_error_alert_package">"
 
 Remaining data includes data that has been rolled over from the previous month."</string>

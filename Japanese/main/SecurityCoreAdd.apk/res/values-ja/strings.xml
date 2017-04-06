@@ -109,8 +109,6 @@ You can also download them separately."</string>
   <string name="import_photo_desc">View shared items in Second space</string>
   <string name="import_photo_suc">Imported photos</string>
   <string name="invalid_qr_code">"無効なQRコード"</string>
-  <string name="keywords_sspace">Second space;Two spaces;2 spaces;Hide apps;Hide files;Hide photos;Lock screen;Lock screen password;Privacy;Privacy mode;Private mode;Private;Guest mode;Guest session;Guest access;Guest account;Guest</string>
-  <string name="keywords_xspace">Dual app;Dual apps;Double app;Double apps;Clone app;Clone apps;App clone;App clones;Two accounts;2 accounts</string>
   <string name="list_empty_text">Empty</string>
   <string name="loading">"読み込み中…"</string>
   <string name="loading_apps">"アプリを読み込み中…"</string>
@@ -147,8 +145,6 @@ You can also download them separately."</string>
   <string name="otherSettings">"その他の設定"</string>
   <string name="passWordGuardSummary">Enter Second space from Lock screen using a password</string>
   <string name="passwordProtect">"パスワード"</string>
-  <string name="path_sspace">"設定/Second space"</string>
-  <string name="path_xspace">"設定/デュアルアプリ"</string>
   <string name="please_diff_finger_print">"Make sure different fingerprints are used in First space and Second space.
 Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="privacyContactsSummary">Show private items in Second space</string>
@@ -162,8 +158,6 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="removingSpace">"削除中…"</string>
   <string name="repeat_scanner_fingerprint">Add again</string>
   <string name="reset_passwd_success">Password was reset successfully</string>
-  <string name="resource_sspace">Second space</string>
-  <string name="resource_xspace">"デュアルアプリ"</string>
   <string name="restore_normal_show">"Don't show private messages"</string>
   <string name="restore_show_desc">"Don't show private messages in Second space. They will still be available in First space."</string>
   <string name="restore_show_toast">Not showing private messages</string>
@@ -213,6 +207,7 @@ to enter Second space from Lock screen"</string>
   <string name="show_private_msg">Show private messages</string>
   <string name="show_private_msg_summary">Show private messages​ in Second space</string>
   <string name="spaceSetting">"設定"</string>
+  <string name="space_deleted">This space was deleted</string>
   <string name="space_des_default">Isolated space with encrypted data</string>
   <string name="space_name_default">Work space</string>
   <string name="startSet">"設定"</string>

@@ -22,7 +22,7 @@
   <string name="error_open_file_failed_no_app_found">このファイルを開くためのアプリが見つかりませんでした</string>
   <string name="frames">フレームレート</string>
   <string name="frames_summary">フレームレートを高くするとぶれが軽減されます</string>
-  <string name="gleam_led_while_recording">記録中はLEDライトを点滅する</string>
+  <string name="gleam_led_while_recording">記録中は通知ライトを点滅する</string>
   <string name="hint_back">戻る</string>
   <string name="hint_home">ホーム</string>
   <string name="hint_menu">メニュー</string>

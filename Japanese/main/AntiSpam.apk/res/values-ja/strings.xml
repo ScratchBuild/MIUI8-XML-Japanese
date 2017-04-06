@@ -117,7 +117,7 @@
   <string name="dlg_remove_whitelist_title">"削除"</string>
   <string name="dlg_retore">"メッセージを受信トレイに復元しますか？"</string>
   <string name="dlg_retore_ok">"復元"</string>
-  <string name="dlg_title_not_open_stranger_identify">Identify Strangers</string>
+  <string name="dlg_title_not_open_stranger_identify">Caller ID is off</string>
   <string name="dlg_white_address_antispam_message">Add this location to exceptions?</string>
   <string name="dlg_white_antispam_hint">"例外"</string>
   <string name="dlg_white_antispam_message">"この番号を例外に追加しますか？"</string>
@@ -128,7 +128,7 @@
   <string name="fw_blocked_join">" と "</string>
   <string name="hint_antispam_mode_edit">"カスタムモード"</string>
   <string name="im">IM</string>
-  <string name="info_antispam_close">AntiSpam Off</string>
+  <string name="info_antispam_close">Blocklist is off</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Block calls</string>
   <string name="info_antispam_phone_sms">Block calls and SMS</string>
@@ -349,7 +349,7 @@
   <string name="two_address_choose_hint">"%1$s と %2$s"</string>
   <string name="user_define_title">"ルールを追加"</string>
   <string name="website">"ウェブサイト"</string>
-  <string name="whitelist_prefix_add_hint">Add all numbers with prefix to exceptions</string>
+  <string name="whitelist_prefix_add_hint">Add all numbers with this prefix to exceptions</string>
   <string name="wl_no_whitelist">No exceptions.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

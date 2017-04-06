@@ -352,7 +352,7 @@ EEEE"</string>
   <string name="usb_storage_stop_notification_title">USBストレージの停止</string>
   <string name="usb_storage_stop_title">USBストレージは使用中です</string>
   <string name="usb_storage_title">USB接続</string>
-  <string name="user_guide_for_notification">通知シェードを表示するには、1本の指で下にスワイプします</string>
+  <string name="user_guide_for_notification">通知シェードを開くには下にスワイプ</string>
   <string name="user_guide_for_toggle">トグルリストは水平方向にスクロールが可能です</string>
   <string name="user_guide_for_toggle_list">トグルの管理</string>
   <string name="vpn_text">タッチして設定を確認します。</string>

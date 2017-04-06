@@ -76,8 +76,8 @@
   <string name="card_title_video_call_paused">Video paused</string>
   <string name="card_title_video_conf_call">"ビデオグループ通話"</string>
   <string name="card_video_hold_swap">"切り替え"</string>
-  <string name="close_camera_failed">"Couldn't close camera"</string>
-  <string name="close_camera_requesting">Requesting to close camera</string>
+  <string name="close_camera_failed">"Couldn't turn off camera…"</string>
+  <string name="close_camera_requesting">Turning off camera…</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">"%s人"</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>

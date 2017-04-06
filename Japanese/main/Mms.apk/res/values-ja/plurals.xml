@@ -22,14 +22,18 @@
         <item quantity="other">%1$s人</item>
         <item quantity="one">1人</item>
     </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">%1$s件のメッセージを削除しますか？</item>
+        <item quantity="one">%1$s件のメッセージを削除しますか？</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d件のメッセージ</item>
-        <item quantity="zero">0件のメッセージ</item>
-        <item quantity="one">1件のメッセージ</item>
+        <item quantity="zero">%d件のメッセージ</item>
+        <item quantity="one">%d件のメッセージ</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d件のメッセージが同期されていません"</item>
-        <item quantity="one">"1件のメッセージが同期されていません"</item>
+        <item quantity="one">"%d件のメッセージが同期されていません"</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s件のメッセージ</item>
@@ -38,5 +42,6 @@
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d件選択済み</item>
         <item quantity="zero">アイテムを選択</item>
+        <item quantity="one">%d件選択済み</item>
     </plurals>
 </resources>

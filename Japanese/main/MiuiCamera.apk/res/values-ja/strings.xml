@@ -90,6 +90,7 @@ facial expression to synthesize into a photo"</string>
   <string name="portrait_mode_lowlight_hint">More light required</string>
   <string name="portrait_mode_too_close_hint">Move farther away</string>
   <string name="portrait_mode_too_far_hint">Place subject within 2.5 meters</string>
+  <string name="portrait_with_facebeauty_hint">Beauty preference in portrait mode is now available.</string>
   <string name="pref_advance_settings">"その他の設定"</string>
   <string name="pref_audio_focus_entry_front">"前面"</string>
   <string name="pref_audio_focus_entry_general">"標準"</string>
@@ -200,6 +201,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_portrait_mode_entry_off">Portrait mode off</string>
   <string name="pref_camera_portrait_mode_entry_on">Portrait mode on</string>
   <string name="pref_camera_portrait_mode_title">Portrait mode</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Beautify in portrait mode</string>
   <string name="pref_camera_recordlocation_entry_off">Off</string>
   <string name="pref_camera_recordlocation_entry_on">On</string>
   <string name="pref_camera_recordlocation_title">"位置情報を保存"</string>
