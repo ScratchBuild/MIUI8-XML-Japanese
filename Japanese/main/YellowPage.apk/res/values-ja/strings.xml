@@ -114,8 +114,8 @@
   <string name="express_inquiry_detail">Express delivery details</string>
   <string name="express_inquiry_edit_logistics">宅配便</string>
   <string name="express_inquiry_history">履歴</string>
-  <string name="express_inquiry_history_remark">Comments</string>
-  <string name="express_inquiry_history_remark_hint">History comments</string>
+  <string name="express_inquiry_history_remark">コメント</string>
+  <string name="express_inquiry_history_remark_hint">コメント履歴</string>
   <string name="express_inquiry_internal_failure">"エラーが発生しました。
 追跡番号を確認してください。"</string>
   <string name="express_inquiry_logistics">宅配便サービスを選択</string>

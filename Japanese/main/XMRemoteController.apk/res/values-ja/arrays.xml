@@ -67,13 +67,13 @@
         <item>生活</item>
     </string-array>
     <string-array name="epg_program_tab_actionbar">
-        <item>热门节目</item>
-        <item>电影节目</item>
-        <item>综艺节目</item>
-        <item>电视剧</item>
-        <item>体育节目</item>
-        <item>少儿节目</item>
-        <item>新闻节目</item>
-        <item>生活节目</item>
+        <item>人気番組</item>
+        <item>映画番組</item>
+        <item>バラエティ番組</item>
+        <item>TVシリーズ</item>
+        <item>スポーツ番組</item>
+        <item>キッズ番組</item>
+        <item>ニュース番組</item>
+        <item>生活番組</item>
     </string-array>
 </resources>

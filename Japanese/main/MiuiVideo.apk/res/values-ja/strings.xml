@@ -316,7 +316,7 @@
   <string name="passport_error_device_id">"デバイスIDを取得できません"</string>
   <string name="passport_error_dup_email">"入力したメールアドレスは既に別のアカウントに関連付けられています。"</string>
   <string name="passport_error_email">"入力したメールアドレスは無効です"</string>
-  <string name="passport_error_empty_captcha_code">Enter passport_captcha code</string>
+  <string name="passport_error_empty_captcha_code">"キャプチャコードを入力してください"</string>
   <string name="passport_error_empty_email">"メールアドレスを入力してください"</string>
   <string name="passport_error_empty_phone_num">"電話番号を入力してください"</string>
   <string name="passport_error_empty_pwd">"パスワードを入力してください"</string>
@@ -338,13 +338,13 @@
   <string name="passport_forget_password">"<u>パスワードを忘れた場合</u>"</string>
   <string name="passport_forget_password_no_underline">"パスワードを忘れた場合"</string>
   <string name="passport_get_back_pwd">Retrieve account password</string>
-  <string name="passport_get_verify_code">Get code</string>
-  <string name="passport_getting_verify_code">Getting</string>
+  <string name="passport_get_verify_code">"コードを取得"</string>
+  <string name="passport_getting_verify_code">"取得中"</string>
   <string name="passport_i_know">OK</string>
   <string name="passport_identitfication_expired">Verification code expired, start over</string>
   <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
   <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
-  <string name="passport_input_captcha_hint">Enter code</string>
+  <string name="passport_input_captcha_hint">"コードを入力"</string>
   <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
   <string name="passport_input_password_hint">"パスワードを入力"</string>
   <string name="passport_input_phone_hint">"電話番号を入力"</string>
@@ -371,8 +371,8 @@
   <string name="passport_quick_login_dialog_title">Verify password</string>
   <string name="passport_quick_login_step2_title">"2段階認証"</string>
   <string name="passport_quick_login_title">"パスワードを入力"</string>
-  <string name="passport_re_get_verify_code">Get code again</string>
-  <string name="passport_re_register">Sign up again</string>
+  <string name="passport_re_get_verify_code">"コードを再取得"</string>
+  <string name="passport_re_register">"再登録"</string>
   <string name="passport_recycle_account_prompt">"これはあなたのMi Accountですか？"</string>
   <string name="passport_reg_btn_using_other_phone">"別の電話番号を使用する"</string>
   <string name="passport_reg_failed">"Can't set up account"</string>

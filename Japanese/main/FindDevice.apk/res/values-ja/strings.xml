@@ -3,7 +3,7 @@
   <string name="activate_xiaomi_account">"このデバイスを有効にする"</string>
   <string name="adding_or_updating_account">"アカウントを更新中…"</string>
   <string name="app_name">Find device</string>
-  <string name="captcha">Captcha</string>
+  <string name="captcha">"キャプチャ"</string>
   <string name="change_find_device_status_failed">"Couldn't unlock. %s."</string>
   <string name="device_locked">"このデバイスはロックされています"</string>
   <string name="device_lost">This device is lost</string>
@@ -44,7 +44,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="phone_locked">This device may be associated with existing Mi Account (%s). Sign in to activate this device.</string>
   <string name="phone_locked_account_email">, associated email: %s</string>
   <string name="phone_locked_account_phone">, associated phone number: %s</string>
-  <string name="stop_on_empty_captcha">"Captchaは空白にできません"</string>
+  <string name="stop_on_empty_captcha">"キャプチャは空白にできません"</string>
   <string name="stop_on_empty_password">"パスワードは空白にできません"</string>
   <string name="time_correction_failure">"時刻を修正できません。%s"</string>
   <string name="time_correction_success">"時刻を修正しました"</string>
