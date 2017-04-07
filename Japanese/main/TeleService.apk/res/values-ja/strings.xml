@@ -222,10 +222,10 @@
   <string name="cell_broadcast_settings">緊急警報放送</string>
   <string name="cell_broadcast_sms">緊急警報SMS</string>
   <string name="cf_mobile_date">モバイルデータをオンにし、必ずWi－Fiがオフになっていることを確認</string>
-  <string name="cfb_title">話し中の時は転送</string>
-  <string name="cfnrc_title">繋がらない時は転送</string>
-  <string name="cfnrc_title_cta">繋がらない時は転送</string>
-  <string name="cfnry_title">不在の時は転送</string>
+  <string name="cfb_title">話し中のときは転送</string>
+  <string name="cfnrc_title">繋がらないときは転送</string>
+  <string name="cfnrc_title_cta">繋がらないときは転送</string>
+  <string name="cfnry_title">不在のときは転送</string>
   <string name="cfu_title">常に転送</string>
   <string name="change_data_preference_4g_only_prompt">Looks like you have a 4G only SIM card. Set it as default for mobile data?</string>
   <string name="change_num">更新</string>

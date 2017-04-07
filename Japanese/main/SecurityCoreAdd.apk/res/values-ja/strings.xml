@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Active">Active</string>
-  <string name="PassWordGuard">Second space password</string>
+  <string name="PassWordGuard">"Second spaceのパスワード"</string>
   <string name="PrivacyContactDes1">"Contacts will become private.
 Messages will only appear in Second space."</string>
   <string name="PrivacyContactDes2">"If you used private messages in First space,
@@ -118,25 +118,25 @@ You can also download them separately."</string>
   <string name="messageData">"メッセージ"</string>
   <string name="msg_switch_file">Delete these files in First space after they are moved?</string>
   <string name="msg_switch_photo">Delete these photos in First space after they are moved?</string>
-  <string name="needSetKeyguardFirst">Set First space password</string>
-  <string name="needSetKeyguardFirstDes">Set First space password before you set Second space password</string>
+  <string name="needSetKeyguardFirst">"First spaceのパスワードを設定"</string>
+  <string name="needSetKeyguardFirstDes">"Second spaceのパスワードを設定する前に、First spaceのパスワードを設定する"</string>
   <string name="need_network_when_create">Connect to the network before creating Work space</string>
   <string name="need_reset_passwd">Reset Work space password before entering Work space</string>
-  <string name="need_set_second_space_desc">Add Second space password before adding Second space fingerprint</string>
-  <string name="need_set_second_space_pwd_first">Set Second space password first</string>
-  <string name="newSecondSpace">Turn on Second space</string>
+  <string name="need_set_second_space_desc">"Second spaceの指紋認証を追加する前に、Second spaceのパスワードを追加する"</string>
+  <string name="need_set_second_space_pwd_first">"初めにSecond spaceのパスワードを設定"</string>
+  <string name="newSecondSpace">"Second spaceをオンにする"</string>
   <string name="next_setp">"次へ"</string>
   <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
   <string name="normal_app">First space</string>
   <string name="not_support_air_space">"この機能はお使いの端末ではサポートしていません"</string>
   <string name="not_support_multiple_users">"複数のSpaceはサポートしていません"</string>
-  <string name="notificationSetPassword">Set password</string>
-  <string name="notificationSetPasswordDes">Protect Second space data</string>
-  <string name="notificationSummary">Switch between spaces from Notification shade</string>
-  <string name="notificationTitle">Notification shade shortcut</string>
+  <string name="notificationSetPassword">"パスワードを設定"</string>
+  <string name="notificationSetPasswordDes">"Second spaceのデータを保護する"</string>
+  <string name="notificationSummary">"通知シェードからスペースを切り替える"</string>
+  <string name="notificationTitle">"通知シェードのショートカット"</string>
   <string name="notification_recommend_title">Top 12 apps for Second space</string>
-  <string name="notification_setting_second_space">Set up Second space</string>
-  <string name="notification_setting_second_space_desc">Add Second space password and move data</string>
+  <string name="notification_setting_second_space">"Second spaceのセットアップ"</string>
+  <string name="notification_setting_second_space_desc">"Second spaceのパスワードを追加してデータを移動する"</string>
   <string name="ok_button">OK</string>
   <string name="openPasswordGuard">"Second spaceのパスワードを設定"</string>
   <string name="openSuccess">"オンにしました"</string>
@@ -164,10 +164,10 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="retain_src_file">"ファイルを保持する"</string>
   <string name="retain_src_photo">"写真を保持する"</string>
   <string name="same_qr_code_create_space">Create another one</string>
-  <string name="same_qr_code_des">Looks like this Work space already exists. You can use Home screen and Notification shade shortcuts to go there. Go now?</string>
+  <string name="same_qr_code_des">"Work spaceが既に存在するように見えます。ホーム画面と通知シェードのショートカットから移動することができます。今すぐ移動しますか？"</string>
   <string name="same_qr_code_enter_space">"Work spaceに移動"</string>
   <string name="same_qr_code_title">"%sは既に存在します"</string>
-  <string name="scanner_fingerprint">Scanning fingerprint…</string>
+  <string name="scanner_fingerprint">"指紋を読み取り中…"</string>
   <string name="scanner_fingerprint_enter_second">"Scan Second space fingerprint
 to enter Second space from Lock screen"</string>
   <string name="scanner_fingerprint_error_tips_desc">"Can't find matching fingerprints. Add Second space fingerprint?"</string>
@@ -187,10 +187,10 @@ to enter Second space from Lock screen"</string>
   <string name="setSpacePasswordGuide">Use different passwords to enter both spaces from Lock screen</string>
   <string name="setSuccess">"パスワードの設定が完了しました"</string>
   <string name="set_space_pwd_detail">You can enter Second space using the password</string>
-  <string name="set_space_pwd_suc">Added Second space password</string>
+  <string name="set_space_pwd_suc">"Second spaceのパスワードを追加しました"</string>
   <string name="setting_finger_print_sub_title">Make sure the fingerprint is different from the one in First space</string>
-  <string name="setting_finger_print_title">Add Second space fingerprint</string>
-  <string name="setting_fingerprint_title">Add Second space password</string>
+  <string name="setting_finger_print_title">"Second spaceの指紋認証を追加"</string>
+  <string name="setting_fingerprint_title">"Second spaceのパスワードを追加"</string>
   <string name="setting_is_show_text_contacts">Set up private contacts and messages</string>
   <string name="settings_cross_notification_summary">"他のスペースからの通知を受け取る"</string>
   <string name="settings_cross_notification_title">"通知"</string>
@@ -207,7 +207,7 @@ to enter Second space from Lock screen"</string>
   <string name="show_private_msg">Show private messages</string>
   <string name="show_private_msg_summary">Show private messages​ in Second space</string>
   <string name="spaceSetting">"設定"</string>
-  <string name="space_deleted">This space was deleted</string>
+  <string name="space_deleted">"このスペースは削除されました"</string>
   <string name="space_des_default">Isolated space with encrypted data</string>
   <string name="space_name_default">Work space</string>
   <string name="startSet">"設定"</string>

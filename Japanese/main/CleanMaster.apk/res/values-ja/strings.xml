@@ -98,7 +98,7 @@
   <string name="clean_content_zero">None</string>
   <string name="clear_bigfiles">"大きいファイル、重複した写真、その他の古いアイテムを削除"</string>
   <string name="clear_immediately">"今すぐ消去"</string>
-  <string name="clear_safe_notify">Notification shade widget</string>
+  <string name="clear_safe_notify">"通知シェードのウィジェット"</string>
   <string name="clip_board_history_desc">"コピー/切り取りした内容"</string>
   <string name="clipboard">"クリップボード"</string>
   <string name="close">"閉じる"</string>
@@ -201,7 +201,7 @@
   <string name="hints_cache_msd_title">Delta update</string>
   <string name="hints_cleanfinish">Finished cleaning</string>
   <string name="hints_deepclean_list_item_from">From %s</string>
-  <string name="hints_deepclean_scanning">Scanning %s</string>
+  <string name="hints_deepclean_scanning">"スキャン中 %s"</string>
   <string name="hints_finish_quick_cleanup">"完了"</string>
   <string name="hints_finish_quick_cleanup_title">Clean up %s trash</string>
   <string name="hints_finish_quick_scan">Finished scanning</string>
@@ -291,7 +291,7 @@
   <string name="msg_update_error_code_unknown_error">"不明なエラー"</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">"プライバシーポリシー"</string>
-  <string name="nb_clear_set">Clear cache, view battery and blocklist info in the notification shade</string>
+  <string name="nb_clear_set">"キャッシュの消去、バッテリーとブロックリストの情報を通知シェードに表示する"</string>
   <string name="net_assistant_detail">Used %1$s, saved %2$s</string>
   <string name="net_assistant_title">Used %s of mobile data this month</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
@@ -397,7 +397,7 @@
   <string name="tips_of_network_speed_set">View network speed in the status bar</string>
   <string name="tips_of_operators_set">Adjust data usage stats automatically</string>
   <string name="tips_of_package_set">Set your data plan and control the amount of traffic you use</string>
-  <string name="tips_of_traffic_notification">View mobile data stats in the notification shade</string>
+  <string name="tips_of_traffic_notification">"モバイルデータの統計を通知シェードに表示する"</string>
   <string name="tips_of_traffic_pack_threshold">"Buy more data when you're about to reach your traffic limit"</string>
   <string name="tips_of_virus_scan">Scan your device for viruses regularly to keep it secure</string>
   <string name="title_auto_cleaner">Clean automatically?</string>
@@ -409,7 +409,7 @@
   <string name="title_of_auto_launch_manage">"自動起動"</string>
   <string name="title_of_cloud_service">"クラウドサービス"</string>
   <string name="title_of_garbage_cloud_scan">"クラウドスキャン"</string>
-  <string name="title_of_garbage_data_set">Cleaner database updates</string>
+  <string name="title_of_garbage_data_set">"クリーナーのデータベースを更新"</string>
   <string name="title_of_network_speed_set">"ステータスバーに接続速度を表示"</string>
   <string name="title_of_operators_set">"携帯通信会社の設定"</string>
   <string name="title_of_package_set">"データプランの設定"</string>

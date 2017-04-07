@@ -57,7 +57,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="local_setting">"設定"</string>
   <string name="menu_help">"ヘルプ"</string>
   <string name="menu_settings">"検索設定"</string>
-  <string name="mina_name">New apps</string>
+  <string name="mina_name">"新規アプリ"</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした"</string>
   <string name="permission_prompt_detail">Search for movies, books, music, and more.</string>
   <string name="permission_prompt_start">"許可"</string>
@@ -76,8 +76,8 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="recent_delete_title">Hide apps</string>
   <string name="recent_edit">"編集"</string>
   <string name="recent_edit_done">"完了"</string>
-  <string name="recent_filter_functions">Turned off features</string>
-  <string name="recent_function">Features</string>
+  <string name="recent_filter_functions">"機能を無効にしました"</string>
+  <string name="recent_function">"機能"</string>
   <string name="recently_shortcut_label">"最近使ったショートカット"</string>
   <string name="release_to_input">Release to reveal the search bar</string>
   <string name="remove_from_history">"検索履歴からこの項目を消去しますか？"</string>
@@ -95,7 +95,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="search_sources">"検索可能なアイテム"</string>
   <string name="search_sources_summary">"電話内の検索対象を選択してください"</string>
   <string name="search_suggestion">Tips</string>
-  <string name="search_videos">"ビデオを検索"</string>
+  <string name="search_videos">"動画を検索"</string>
   <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
   <string name="search_widget">"検索"</string>
   <string name="send_secret_code">"コードを送信"</string>

@@ -9,7 +9,7 @@
         <item quantity="one">"Ultimate modeをオフにするまであと%1$dステップです。"</item>
     </plurals>
     <plurals name="power_config_ultimate_unlock_count">
-        <item quantity="other">Finish %1$d steps to unlock all items</item>
-        <item quantity="one">Finish %1$d step to unlock all items</item>
+        <item quantity="other">"すべての項目をロック解除するまであと%1$dステップです"</item>
+        <item quantity="one">"すべての項目をロック解除するまであと%1$dステップです"</item>
     </plurals>
 </resources>

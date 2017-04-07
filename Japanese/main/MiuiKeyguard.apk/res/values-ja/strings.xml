@@ -18,7 +18,7 @@
   <string name="fingerprint_add_text">The fingerprint interface was updated. Add your fingerprint again.</string>
   <string name="fingerprint_add_title">"指紋認証を追加"</string>
   <string name="fingerprint_enter_second_psw_msg">"指紋認証が利用できるよう、デバイスを再起動した後にSecond spaceのパスワードを入力してください"</string>
-  <string name="fingerprint_enter_second_psw_msg_oldman">"Can't enter Second space while in Lite mode"</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">"Lite modeの使用中はSecond spaceに切り替えることができません"</string>
   <string name="fingerprint_enter_second_psw_title">"Second spaceのパスワードを入力"</string>
   <string name="fingerprint_lockout_msg">"指紋認証で再度ロックの解除を試みるには、数分間待ってください。"</string>
   <string name="fingerprint_not_identified_msg">"指紋を確認できませんでした、パスワードを入力してください。"</string>

@@ -1179,7 +1179,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dndm_auto_time_turn_on">開始時間</string>
   <string name="dndm_auto_time_turn_on_title">自動的に夜間モードをオンにする</string>
   <string name="dndm_dlg_remove_ok">削除</string>
-  <string name="dndm_dlg_remove_vip">夜間モードがオンの時は、この人からの通話は消音します</string>
+  <string name="dndm_dlg_remove_vip">夜間モードがオンのときは、この人からの通話は消音します</string>
   <string name="dndm_menu_add_vip_custom">追加</string>
   <string name="dndm_mute_all">通話やメッセージは消音されています</string>
   <string name="dndm_notification">夜間モードオン</string>
@@ -1188,7 +1188,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dndm_repeated_call_summary_3min">3分以内に同じ番号から着信があったら鳴らす</string>
   <string name="dndm_repeated_call_summary_none">同じ番号から着信があっても消音にする</string>
   <string name="dndm_special_call_setting_group">例外</string>
-  <string name="dndm_summary">夜間モードがオンの時は、着信や通知をお知らせしません</string>
+  <string name="dndm_summary">夜間モードがオンのときは、着信や通知をお知らせしません</string>
   <string name="dndm_twelve_hour_time_format">a h:mm</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">例外からの着信を許可</string>
@@ -1562,8 +1562,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="home_key">ホーム</string>
   <string name="home_settings">ホーム</string>
   <string name="home_work_profile_not_supported">仕事用プロファイルをサポートしていません</string>
-  <string name="http_invoke_app">Web apps</string>
-  <string name="http_invoke_app_summary">Open apps faster without installing them</string>
+  <string name="http_invoke_app">ウェブアプリ</string>
+  <string name="http_invoke_app_summary">アプリをインストールせずにすばやく開く</string>
   <string name="ignore_optimizations_off">最適化する</string>
   <string name="ignore_optimizations_off_desc">電池を長持ちさせるためのおすすめの方法です</string>
   <string name="ignore_optimizations_on">最適化しない</string>
@@ -3730,7 +3730,7 @@ PINが正しくない可能性があります。"</string>
   <string name="turn_off_keyguard_password_alert_title">オフにする</string>
   <string name="turn_off_keyguard_password_confirm_msg">パスワードの設定を行わないと、一部のセキュリティ機能が動作しません。</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">ロック画面のパスワードをオフにした後には、指紋認証でデバイスのロックを解除することはできません</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"After you turn off your Lock screen password, recorded fingerprints will be deleted. You won't be able to unlock the device using your fingerprint."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">ロック画面のパスワードをオフにすると、記録された指紋認証が削除されます。指紋認証を使用してデバイスのロックを解除することはできません。</string>
   <string name="turn_off_radio">無線通信をOFF</string>
   <string name="turn_off_security_lock">ロックをOFF</string>
   <string name="turn_on_keyguard_password">ロック画面のパスワードをオンにする</string>

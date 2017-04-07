@@ -49,7 +49,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="error_qr">"QRコードを読み取れません。"</string>
   <string name="error_title">"エラー"</string>
   <string name="error_uri">Key not recognized.</string>
-  <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="forget_password">&lt;u&gt;パスワードを忘れた場合&lt;/u&gt;</string>
   <string name="general_security_exception">General security exception</string>
   <string name="gif_not_support_camera_msg">Your device does not support video recording.</string>
   <string name="how_it_works_menu_item">How it works</string>

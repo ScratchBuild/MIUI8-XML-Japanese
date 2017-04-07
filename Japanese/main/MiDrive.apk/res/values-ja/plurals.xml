@@ -17,12 +17,12 @@
         <item quantity="many">"と%1$d個のフォルダを削除しますか？"</item>
     </plurals>
     <plurals name="directory_item_count">
-        <item quantity="other">%d items</item>
-        <item quantity="zero">%d items</item>
-        <item quantity="one">%d item</item>
-        <item quantity="two">%d items</item>
-        <item quantity="few">%d items</item>
-        <item quantity="many">%d items</item>
+        <item quantity="other">"%d個のアイテム"</item>
+        <item quantity="zero">"%d個のアイテム"</item>
+        <item quantity="one">"%d個のアイテム"</item>
+        <item quantity="two">"%d個のアイテム"</item>
+        <item quantity="few">"%d個のアイテム"</item>
+        <item quantity="many">"%d個のアイテム"</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">"残り%1$d個のファイルをダウンロード"</item>
@@ -57,28 +57,28 @@
         <item quantity="many">%1$d selected</item>
     </plurals>
     <plurals name="items_file">
-        <item quantity="other"> (%1$d items)</item>
-        <item quantity="zero"> (%1$d items)</item>
-        <item quantity="one"> (%1$d item)</item>
-        <item quantity="two"> (%1$d items)</item>
-        <item quantity="few"> (%1$d items)</item>
-        <item quantity="many"> (%1$d items)</item>
+        <item quantity="other">" (%1$d個のアイテム)"</item>
+        <item quantity="zero">" (%1$d個のアイテム)"</item>
+        <item quantity="one">" (%1$d個のアイテム)"</item>
+        <item quantity="two">" (%1$d個のアイテム)"</item>
+        <item quantity="few">" (%1$d個のアイテム)"</item>
+        <item quantity="many">" (%1$d個のアイテム)"</item>
     </plurals>
     <plurals name="items_picture">
-        <item quantity="other"> (%1$d items)</item>
-        <item quantity="zero"> (%1$d items)</item>
-        <item quantity="one"> (%1$d item)</item>
-        <item quantity="two"> (%1$d items)</item>
-        <item quantity="few"> (%1$d items)</item>
-        <item quantity="many"> (%1$d items)</item>
+        <item quantity="other">" (%1$d個のアイテム)"</item>
+        <item quantity="zero">" (%1$d個のアイテム)"</item>
+        <item quantity="one">" (%1$d個のアイテム)"</item>
+        <item quantity="two">" (%1$d個のアイテム)"</item>
+        <item quantity="few">" (%1$d個のアイテム)"</item>
+        <item quantity="many">" (%1$d個のアイテム)"</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other"> %1$d items</item>
-        <item quantity="zero"> %1$d items</item>
-        <item quantity="one"> %1$d item</item>
-        <item quantity="two"> %1$d items</item>
-        <item quantity="few"> %1$d items</item>
-        <item quantity="many"> %1$d items</item>
+        <item quantity="other">" %1$d個のアイテム"</item>
+        <item quantity="zero">" %1$d個のアイテム"</item>
+        <item quantity="one">" %1$d個のアイテム"</item>
+        <item quantity="two">" %1$d個のアイテム"</item>
+        <item quantity="few">" %1$d個のアイテム"</item>
+        <item quantity="many">" %1$d個のアイテム"</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">"%1$d分前"</item>

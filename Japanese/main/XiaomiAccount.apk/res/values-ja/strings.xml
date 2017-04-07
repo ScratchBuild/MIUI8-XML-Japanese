@@ -165,7 +165,7 @@
   <string name="no_network_btn">"更新"</string>
   <string name="no_network_title">"ネットワークに接続できません。"</string>
   <string name="no_response_retry">"応答がありません、再試行してください。"</string>
-  <string name="no_sim_card_or_unactivated">"SIM card isn't installed or activated"</string>
+  <string name="no_sim_card_or_unactivated">"SIMカードが挿入、またはアクティベートされていません"</string>
   <string name="nobind">"接続されていません"</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Account's internet access is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_content_hidden_state">"Mi Account's background activity is restricted. Tap to allow."</string>

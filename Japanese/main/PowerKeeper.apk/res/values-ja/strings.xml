@@ -124,12 +124,12 @@
   <string name="power_config_ultimate_off_already">"Ultimateモードはオフです"</string>
   <string name="power_config_ultimate_on_already">"Ultimateモードはオンです"</string>
   <string name="power_config_ultimate_title">Ultimate</string>
-  <string name="power_config_ultimate_unlock_already">All items unlocked</string>
+  <string name="power_config_ultimate_unlock_already">"すべての項目をロック解除済みです"</string>
   <string name="power_configure_screen_brightness_enable">"画面の明るさを設定"</string>
   <string name="power_customize_giveup_change">"変更を破棄しますか？"</string>
   <string name="power_dialog_cancel">"キャンセル"</string>
   <string name="power_dialog_cpu_max_freq_title">"最大CPU周波数"</string>
-  <string name="power_dialog_cpu_state_title">CPU usage</string>
+  <string name="power_dialog_cpu_state_title">"CPU使用状況"</string>
   <string name="power_dialog_event_trigger_title">"イベント"</string>
   <string name="power_dialog_lcd_mode_title">Screen mode</string>
   <string name="power_dialog_new_event_fail">"新しいイベントを追加できませんでした"</string>
@@ -158,7 +158,7 @@
   <string name="screen_off">"画面オフ"</string>
   <string name="screen_off_10_min">Screen is off for over 10 minutes</string>
   <string name="screen_on">"画面オン"</string>
-  <string name="select_items">%d selected</string>
+  <string name="select_items">"%d件選択済み"</string>
   <string name="set_brightness">"画面の明るさを最大にする"</string>
   <string name="set_cpu_powermode">"CPU使用状況"</string>
   <string name="set_cpufreq_max">"CPU周波数を最大にする"</string>

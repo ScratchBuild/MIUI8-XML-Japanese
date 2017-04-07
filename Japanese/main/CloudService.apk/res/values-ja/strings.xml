@@ -106,7 +106,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="find_device_status_ok">"どこからでも i.mi.com であなたの端末を検索"</string>
   <string name="find_device_status_ok_international">"どこからでも www.mi.com/micloud であなたの端末を検索"</string>
   <string name="find_device_success_title">Find device</string>
-  <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="forget_password">"&lt;u&gt;パスワードを忘れた場合&lt;/u&gt;"</string>
   <string name="free_space_has_received">You already added free space this month</string>
   <string name="free_space_receive_fail">"Can't upgrade"</string>
   <string name="get_first_month_gb">Get %s of free space</string>

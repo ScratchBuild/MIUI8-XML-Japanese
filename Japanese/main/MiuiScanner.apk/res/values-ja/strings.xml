@@ -7,7 +7,7 @@
   <string name="address">住所:</string>
   <string name="allow_check_website_security">Show website security check notifications</string>
   <string name="app_details">アプリ:</string>
-  <string name="app_name">Scanner</string>
+  <string name="app_name">スキャナー</string>
   <string name="barcode_into_rectangle">Place the code inside the frame</string>
   <string name="birthday">誕生日:</string>
   <string name="camera_error_title">Camera error</string>
@@ -27,7 +27,7 @@
   <string name="crop_cancel_description">キャンセル</string>
   <string name="crop_done_description">完了</string>
   <string name="crop_title_study">"写真を切り抜く"</string>
-  <string name="crop_title_translation">Select text to translate</string>
+  <string name="crop_title_translation">翻訳するテキストを選択</string>
   <string name="dialog_dismiss">"閉じる"</string>
   <string name="dialog_report">Report</string>
   <string name="document_color_picture">"カラー"</string>
@@ -41,8 +41,8 @@
   <string name="document_ocr_result_title">Document photo</string>
   <string name="document_ocr_tip_msg">読み取り中…</string>
   <string name="document_recognize_fail_tip">"ドキュメントを読み取れませんでした"</string>
-  <string name="document_rectify">Adjust</string>
-  <string name="document_rectify_tip_msg">Adjusting…</string>
+  <string name="document_rectify">調整</string>
+  <string name="document_rectify_tip_msg">調整中…</string>
   <string name="document_save_succeed_tip">Document saved to %1$s</string>
   <string name="document_title">Take a photo of the document</string>
   <string name="document_top_panel_title">Document photo</string>
@@ -93,7 +93,7 @@
   <string name="language_entry_russian">ロシア語</string>
   <string name="language_entry_spanish">スペイン語</string>
   <string name="language_entry_swedish">スウェーデン語</string>
-  <string name="low_version_tip">MIUI version is too old. Update MIUI to use Scanner.</string>
+  <string name="low_version_tip">"MIUIのバージョンが古すぎます。 スキャナーを使用するためにMIUIを更新します。"</string>
   <string name="module_title_code">QRコード</string>
   <string name="module_title_document">ドキュメント</string>
   <string name="module_title_namecard">名刺</string>

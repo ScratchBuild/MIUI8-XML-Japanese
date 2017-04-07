@@ -28,8 +28,8 @@
   <string name="notif_text_engine_off">"Xunlei Acceleratorはオフです。"</string>
   <string name="notif_text_engine_on">Accelerating…</string>
   <string name="notif_title_file_size">%1$d total</string>
-  <string name="notif_title_multiple_downloading">Downloading %1$d files</string>
-  <string name="notif_title_single_downloading">Downloading %1$s</string>
+  <string name="notif_title_multiple_downloading">"%1$d個のファイルをダウンロード中"</string>
+  <string name="notif_title_single_downloading">"%1$sをダウンロード中"</string>
   <string name="notification_download_complete">"ダウンロードが完了しました。"</string>
   <string name="notification_download_failed">"ダウンロードできませんでした。"</string>
   <string name="notification_download_failed_more">"Couldn't download %1$d items"</string>
