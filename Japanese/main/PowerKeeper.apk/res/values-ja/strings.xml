@@ -87,9 +87,9 @@
   <string name="power_chooser_user_define_title">New mode</string>
   <string name="power_config_alarm_sync_summary">Allow app wakeup alarm in the background</string>
   <string name="power_config_alarm_sync_title">Alarm wakeup</string>
-  <string name="power_config_app_background_title">Background</string>
+  <string name="power_config_app_background_title">"バックグラウンド"</string>
   <string name="power_config_app_full_screen_title">Fullscreen</string>
-  <string name="power_config_app_launch_title">Foreground</string>
+  <string name="power_config_app_launch_title">"フォアグラウンド"</string>
   <string name="power_config_apps">Saving power in the background</string>
   <string name="power_config_bg_data_delay_time_dialog_title">"バックグラウンドデータを制限する時間を選択"</string>
   <string name="power_config_bg_data_delay_time_title">"バックグラウンドデータを制限"</string>

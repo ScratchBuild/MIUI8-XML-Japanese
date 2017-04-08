@@ -582,7 +582,7 @@
   <string name="firewall_service_network_blocked">%1$s has been restricted from using %2$s networks</string>
   <string name="five_percent_total_pkg">%s (5%% of monthly data)</string>
   <string name="flow_rank_title">"データ使用量"</string>
-  <string name="foreground_traffic">Foreground %s</string>
+  <string name="foreground_traffic">"フォアグラウンド %s"</string>
   <string name="forget_password_button_text">"<u>パスワードを忘れた場合</u>"</string>
   <string name="forget_pattern"><u>Forgot pattern?</u></string>
   <string name="free_time_traffic">Off-peak data limit</string>
