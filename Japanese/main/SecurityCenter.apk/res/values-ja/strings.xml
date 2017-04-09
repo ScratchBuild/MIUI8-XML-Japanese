@@ -824,8 +824,8 @@
   <string name="menu_text_garbage_cleanup_danger">"%s 超過"</string>
   <string name="menu_text_license_manager">"パーミッション"</string>
   <string name="menu_text_networkassistants">Data usage</string>
-  <string name="menu_text_networkassistants_danger">"%s 超過"</string>
-  <string name="menu_text_networkassistants_remain">"%s 残り"</string>
+  <string name="menu_text_networkassistants_danger">"超過 %s"</string>
+  <string name="menu_text_networkassistants_remain">"残り %s"</string>
   <string name="menu_text_power_manager">"電池使用量"</string>
   <string name="menu_text_power_percent_title">Battery %s</string>
   <string name="mi_service_app_detail">Data usage details</string>

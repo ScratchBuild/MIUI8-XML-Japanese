@@ -36,7 +36,7 @@
   <string name="err_type_camera">"カメラ"</string>
   <string name="err_type_hardware">"ハードウェア"</string>
   <string name="err_type_hardware_summary">"ボタン、充電、センサー、その他。"</string>
-  <string name="err_type_more">More</string>
+  <string name="err_type_more">"その他"</string>
   <string name="err_type_nonsystemapp">"その他のアプリ"</string>
   <string name="err_type_power_consuming">Power usage</string>
   <string name="err_type_reboot">"再起動"</string>

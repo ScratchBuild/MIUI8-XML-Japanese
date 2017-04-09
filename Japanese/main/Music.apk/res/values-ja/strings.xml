@@ -667,8 +667,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="radar_searching_state">"検索中…"</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Pay now?</string>
-  <string name="recently_played">Recently played</string>
-  <string name="recently_played_songs">Recently played</string>
+  <string name="recently_played">"再生履歴"</string>
+  <string name="recently_played_songs">"再生履歴"</string>
   <string name="recommend_fragment_title">Featured</string>
   <string name="recommended_file_size_download_in_mobile">Use %s of mobile data to download this file?</string>
   <string name="recommended_no_file_size_download_in_mobile">Use your mobile data connection to download this file?</string>

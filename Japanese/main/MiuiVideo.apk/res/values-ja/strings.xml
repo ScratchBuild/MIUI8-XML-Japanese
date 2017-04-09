@@ -448,7 +448,7 @@
   <string name="play">"再生"</string>
   <string name="play_fail">"再生できませんでした"</string>
   <string name="play_his_empty_title">Empty</string>
-  <string name="play_history">Recent</string>
+  <string name="play_history">"再生履歴"</string>
   <string name="play_source_fetching">"接続中…"</string>
   <string name="player_plugin_des">View available video player plug-ins</string>
   <string name="player_plugin_title">Video player plug-ins</string>
@@ -465,7 +465,7 @@
   <string name="receive_follow_summary">Receive notifications when new episode is available</string>
   <string name="receive_mipush">Content notifications</string>
   <string name="receive_mipush_summary">Receive notifications when new content is available</string>
-  <string name="recentplay">Recently played</string>
+  <string name="recentplay">"再生履歴"</string>
   <string name="refreshing">"読み込み中…"</string>
   <string name="releasetorefresh">"指を離して更新"</string>
   <string name="reload_sub_title">"再試行"</string>
