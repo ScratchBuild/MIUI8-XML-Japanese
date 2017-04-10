@@ -2,7 +2,6 @@
 <resources>
   <string name="about_app_name">Video Player</string>
   <string name="about_title">About</string>
-  <string name="about_version">1.0.1</string>
   <string name="about_version_label">"Version "</string>
   <string name="account_auth_fail">account authenticate fail</string>
   <string name="actor">Actor</string>
@@ -116,8 +115,8 @@
   <string name="delete_with">"削除 (%d)"</string>
   <string name="detail">"詳細"</string>
   <string name="detail_comment_empty">Empty</string>
-  <string name="develop_version">Beta updates</string>
-  <string name="development_setting">Developer settings</string>
+  <string name="develop_version">"ベータ版の更新"</string>
+  <string name="development_setting">"開発者向け設定"</string>
   <string name="device_empty_hint">Empty</string>
   <string name="device_media_empty_hint">Empty</string>
   <string name="di_count_ji">Ep. %d</string>
@@ -337,7 +336,7 @@
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
   <string name="passport_forget_password">"<u>パスワードを忘れた場合</u>"</string>
   <string name="passport_forget_password_no_underline">"パスワードを忘れた場合"</string>
-  <string name="passport_get_back_pwd">Retrieve account password</string>
+  <string name="passport_get_back_pwd">"アカウントのパスワードを取得"</string>
   <string name="passport_get_verify_code">"コードを取得"</string>
   <string name="passport_getting_verify_code">"取得中"</string>
   <string name="passport_i_know">OK</string>
@@ -406,13 +405,13 @@
   <string name="passport_restart_register_prompt">Another verification message may be required to create your account.</string>
   <string name="passport_restart_register_title">"Mi Accountを作成"</string>
   <string name="passport_retry">"再試行"</string>
-  <string name="passport_select_reg_ways_title">Other ways to sign up</string>
+  <string name="passport_select_reg_ways_title">"その他の方法で登録"</string>
   <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="passport_setting">"設定中…"</string>
   <string name="passport_skip_login">"スキップ"</string>
   <string name="passport_skip_register">"登録をスキップ"</string>
-  <string name="passport_skip_setup_account_msg">You can set up a Mi Account later in Settings.</string>
-  <string name="passport_skip_setup_account_title">Skip setup</string>
+  <string name="passport_skip_setup_account_msg">"後から[設定]でMi Accountをセットアップすることができます。"</string>
+  <string name="passport_skip_setup_account_title">"セットアップをスキップ"</string>
   <string name="passport_title_reg">"アカウントを作成"</string>
   <string name="passport_trust_device">Add this device to verified devices</string>
   <string name="passport_trying_read_verify_code_sms">Getting verification code…</string>
@@ -460,7 +459,7 @@
   <string name="pulltorefresh">"画面を引っ張って"</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Movie</string>
-  <string name="receive_develop_summary">Receive updates for the beta version of this app</string>
+  <string name="receive_develop_summary">"このアプリのベータ版の更新を受け取る"</string>
   <string name="receive_follow">New episode notifications</string>
   <string name="receive_follow_summary">Receive notifications when new episode is available</string>
   <string name="receive_mipush">Content notifications</string>

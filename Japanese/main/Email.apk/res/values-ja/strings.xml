@@ -229,7 +229,6 @@
   <string name="bottom_bar_more_quickreply">"クイック返信"</string>
   <string name="bottom_bar_more_share">"共有"</string>
   <string name="bottom_bar_no_quickreply_toast">"クイック返信なし"</string>
-  <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">"リマインダー"</string>
   <string name="calendar_remind_gridview_pick_date">"日付を選択"</string>
   <string name="cancel">"キャンセル"</string>
@@ -501,7 +500,6 @@
   <string name="input_password_prompt">"パスワードを入力してください"</string>
   <string name="invalid_recipient">The address %s is invalid.</string>
   <string name="invalid_recipient_title">Recipient Error</string>
-  <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Search mailbox on server</string>
   <string name="load_more">もっと読み込む</string>
@@ -560,7 +558,6 @@
   <string name="meeting_updated">"更新されました: %s"</string>
   <string name="meeting_when">"日時: %s"</string>
   <string name="meeting_where">"場所: %s"</string>
-  <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">"添付ファイル"</string>
   <string name="menu_att_mgr_order_mime">"種類順"</string>
   <string name="menu_att_mgr_order_name">"名前順"</string>
@@ -652,7 +649,7 @@ Try switching to a different email account."</string>
   <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
   <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
   <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
-  <string name="outbox_alert_description_fail_authentication">Username or password is incorrect.</string>
+  <string name="outbox_alert_description_fail_authentication">"ユーザー名かパスワードが間違っています。"</string>
   <string name="outbox_alert_description_fail_network">"ネットワークに接続できませんでした。"</string>
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
   <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
@@ -664,7 +661,7 @@ Try switching to a different email account."</string>
   <string name="outbox_alert_failed_edit_resend">"送信できませんでした。編集してもう一度お試しください。"</string>
   <string name="outbox_alert_mailbox_not_found">"メールアドレスが見つかりません"</string>
   <string name="outbox_alert_rw_io_error">"不明なエラーが発生しました。1～2分待ってから再試行してください。"</string>
-  <string name="outbox_alert_select_operation">Choose an action</string>
+  <string name="outbox_alert_select_operation">"アクションを選択"</string>
   <string name="outbox_alert_title_sent_failed">"メールを送信できませんでした"</string>
   <string name="outbox_no_mails">Empty</string>
   <string name="over_due">Overdue</string>

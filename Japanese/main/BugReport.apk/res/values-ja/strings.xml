@@ -101,10 +101,10 @@
   <string name="feedback_submitting">"送信中…"</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s suggestion \"%2$s\"</string>
   <string name="feedback_third_packagename_hint">"どのサードパーティアプリで問題が発生しますか？"</string>
-  <string name="feedback_title">Title</string>
+  <string name="feedback_title">"件名"</string>
   <string name="feedback_title_hint">"問題を簡素に記述"</string>
   <string name="feedback_tracking">"問題の追跡"</string>
-  <string name="feedback_version_label">Version</string>
+  <string name="feedback_version_label">"バージョン"</string>
   <string name="feesback_list">Reports</string>
   <string name="first_position">2#</string>
   <string name="floor">%1$s#</string>
@@ -217,7 +217,7 @@
   <string name="network_errortip_timeout">"接続がタイムアウトしました、後ほど再試行してください"</string>
   <string name="network_errortip_unknow">"We're trying to fix it…"</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
-  <string name="network_unavailable_dialog_content">Your report will be sent when you have a data connection.</string>
+  <string name="network_unavailable_dialog_content">"データ接続時にレポートが送信されます。"</string>
   <string name="network_unavailable_dialog_title">"ネットワークに接続できませんでした"</string>
   <string name="non_system_app_select">Downloaded apps</string>
   <string name="open_feedback_main">More</string>
@@ -268,7 +268,7 @@
   <string name="toast_description_required">"説明を記述する必要があります"</string>
   <string name="toast_feedback_collect_store">"ログの収集中…"</string>
   <string name="toast_feedback_network_unavailable">"ネットワークに接続できません"</string>
-  <string name="toast_feedback_pending_wlan">"Report will be sent when you're connected to a WLAN network"</string>
+  <string name="toast_feedback_pending_wlan">"Wi-Fi接続時にレポートが送信されます"</string>
   <string name="toast_feedback_submitted">"レポートが送信されました"</string>
   <string name="toast_feedback_submitting">"送信中…"</string>
   <string name="toast_feedbackservice_in_submit">Handling previous feedback…</string>

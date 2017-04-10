@@ -23,11 +23,11 @@
   <string name="action_menu_account_not_login_hint">"Mi Cloudと同期するにはログインしてください"</string>
   <string name="action_menu_bookshelf">"本棚"</string>
   <string name="action_menu_current_version">Current version</string>
-  <string name="action_menu_text_add_bookmark">Add bookmark</string>
+  <string name="action_menu_text_add_bookmark">"ブックマークに追加"</string>
   <string name="action_menu_text_bandwidth">Data saver</string>
   <string name="action_menu_text_bandwidth_off">Data saver</string>
   <string name="action_menu_text_bandwidth_on">Data saver</string>
-  <string name="action_menu_text_bookmark_added">Bookmark added</string>
+  <string name="action_menu_text_bookmark_added">"ブックマークに追加済み"</string>
   <string name="action_menu_text_copy_url">"URLをコピー"</string>
   <string name="action_menu_text_create_qr_code">"QRコード"</string>
   <string name="action_menu_text_download">"ダウンロードを管理"</string>
@@ -729,15 +729,8 @@ Pages you view won't appear in history."</string>
   <string name="tab_hotpage">"ニュースフィード"</string>
   <string name="tab_quicklinks">"スタートページ"</string>
   <string name="tab_yellowpage">Links</string>
-  <string name="tae_sdk_login_qr_icon_close"></string>
-  <string name="tae_sdk_login_qr_icon_taobao"></string>
-  <string name="tae_sdk_qr_login_icon_password"></string>
-  <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="time_picker_dialog_am">AM</string>
-  <string name="time_picker_dialog_hour_minute_separator">:</string>
-  <string name="time_picker_dialog_minute_second_separator">:</string>
   <string name="time_picker_dialog_pm">PM</string>
-  <string name="time_picker_dialog_second_subsecond_separator">.</string>
   <string name="time_picker_dialog_title">"時刻を設定"</string>
   <string name="title_bar_loading">"読み込み中…"</string>
   <string name="too_many_windows_dialog_message">"新しいタブを開くには1つ閉じる必要があります。"</string>
@@ -783,7 +776,7 @@ Pages you view won't appear in history."</string>
   <string name="video_buffering_percent_string">"バッファリング中 "</string>
   <string name="video_collect_cancel">"お気に入りから削除"</string>
   <string name="video_collect_success">Favorited</string>
-  <string name="video_download_complete">"ダウンロード完了".</string>
+  <string name="video_download_complete">"ダウンロード完了。"</string>
   <string name="video_download_empty">No videos</string>
   <string name="video_download_error">"エラー"</string>
   <string name="video_download_error_http_gone">"ファイルが見つかりませんでした"</string>
@@ -809,7 +802,7 @@ Pages you view won't appear in history."</string>
   <string name="video_fragment_name_historys">History</string>
   <string name="video_fragment_name_offine">Offline</string>
   <string name="video_group_noupdates_list">"利用可能な更新はありません"</string>
-  <string name="video_group_updates_list">Updates</string>
+  <string name="video_group_updates_list">"更新"</string>
   <string name="video_history_empty">"履歴はありません"</string>
   <string name="video_manager_action_bar_end_view">Videos</string>
   <string name="video_play_error">"動画を再生できませんでした"</string>

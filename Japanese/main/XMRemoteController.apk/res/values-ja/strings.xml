@@ -283,7 +283,7 @@
   <string name="epg_unbook_all">"すべてキャンセル"</string>
   <string name="epg_unbooked_str">Not scheduled</string>
   <string name="epg_user_my_booked_events">My booked events</string>
-  <string name="epg_user_my_favorite_channel">Favorite channels</string>
+  <string name="epg_user_my_favorite_channel">"お気に入りのチャンネル"</string>
   <string name="episode_intro_title_text">Episode summary</string>
   <string name="episode_title">Episode %1$d</string>
   <string name="episodes_list">Selected episodes</string>
@@ -305,7 +305,7 @@
   <string name="fan_speed">"風量"</string>
   <string name="faq">FAQ</string>
   <string name="fav">Star</string>
-  <string name="favorite_channel">常看频道</string>
+  <string name="favorite_channel">"お気に入りのチャンネル"</string>
   <string name="feedback">"フィードバック"</string>
   <string name="feedback_error">"バグを報告"</string>
   <string name="feedback_error_success_tip">"送信が完了しました"</string>
@@ -334,7 +334,7 @@
   <string name="guide">Guide</string>
   <string name="has_installed">"インストール済み"</string>
   <string name="hd_channel_preferred">Prefer HD video</string>
-  <string name="help">Help</string>
+  <string name="help">"ヘルプ"</string>
   <string name="history_none">"動画の視聴履歴がありません。"</string>
   <string name="history_title">"履歴"</string>
   <string name="home">Home</string>
@@ -513,9 +513,9 @@ Then answer the question"</string>
   <string name="milink_device_online">Online</string>
   <string name="milink_device_rc_saved">Remote saved</string>
   <string name="milink_nowifi">"Wi-Fiに接続されていません"</string>
-  <string name="milink_screenshot_done">TV screenshot made successfully</string>
-  <string name="milink_screenshot_pic">Screenshots</string>
-  <string name="milink_view_screenshot">Saved to Gallery, tap to view</string>
+  <string name="milink_screenshot_done">"TV画面のスクリーンショットを保存しました"</string>
+  <string name="milink_screenshot_pic">"スクリーンショット"</string>
+  <string name="milink_view_screenshot">"ギャラリーに保存しました、表示するにはタップ"</string>
   <string name="minute">"分"</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Assistant version %1$s</string>
@@ -640,7 +640,7 @@ Then answer the question"</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
   <string name="passport_forget_password">"<u>パスワードを忘れた場合</u>"</string>
   <string name="passport_forget_password_no_underline">"パスワードを忘れた場合"</string>
-  <string name="passport_get_back_pwd">Retrieve account password</string>
+  <string name="passport_get_back_pwd">"アカウントのパスワードを取得"</string>
   <string name="passport_get_verify_code">"コードを取得"</string>
   <string name="passport_getting_verify_code">"取得中"</string>
   <string name="passport_i_know">OK</string>
@@ -709,7 +709,7 @@ Then answer the question"</string>
   <string name="passport_restart_register_prompt">Another verification message may be required to create your account.</string>
   <string name="passport_restart_register_title">"Mi Accountを作成"</string>
   <string name="passport_retry">"再試行"</string>
-  <string name="passport_select_reg_ways_title">Other ways to sign up</string>
+  <string name="passport_select_reg_ways_title">"その他の方法で登録"</string>
   <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="passport_setting">"設定中…"</string>
   <string name="passport_skip_login">"スキップ"</string>
@@ -739,9 +739,9 @@ Then answer the question"</string>
   <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
   <string name="passport_wrong_vcode">"入力したコードが正しくありません"</string>
   <string name="place_frame">"Location: "</string>
-  <string name="play_in_phone">Watch on the phone</string>
-  <string name="play_on_tv">Play on TV</string>
-  <string name="playing_time">Air date</string>
+  <string name="play_in_phone">"端末で視聴"</string>
+  <string name="play_on_tv">"TVで再生"</string>
+  <string name="playing_time">"放送日時"</string>
   <string name="please_enter">"Can't be empty"</string>
   <string name="please_input_model_name">Enter device model</string>
   <string name="please_select_stb">Select set-top box</string>
@@ -874,7 +874,7 @@ directly from your Lock screen"</string>
   <string name="select_stb_tips">Pair set-top box</string>
   <string name="service_info">Service Information</string>
   <string name="setting_airkan">WIRELESS DISPLAY</string>
-  <string name="setting_common">GENERAL</string>
+  <string name="setting_common">"全般"</string>
   <string name="setting_sharerc">Shared by people</string>
   <string name="setting_sharerc_tips">Accept shared remote from a person nearby</string>
   <string name="setting_version">Mi Remote version %1$s</string>

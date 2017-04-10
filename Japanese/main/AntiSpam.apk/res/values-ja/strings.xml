@@ -226,7 +226,7 @@
   <string name="sms_delete_title">"メッセージを削除"</string>
   <string name="sms_smart_engine_update">"SMSフィルタを自動的に更新する"</string>
   <string name="special_number_group">Block reported numbers</string>
-  <string name="st_advanced_setting_group">Advanced</string>
+  <string name="st_advanced_setting_group">"詳細"</string>
   <string name="st_antispam_black_adress_add">Add locations</string>
   <string name="st_antispam_bw_adress_add">Add locations</string>
   <string name="st_antispam_bw_choose_modes">"リストに追加"</string>

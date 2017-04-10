@@ -26,9 +26,9 @@
   <string name="change_host_hint">"ホストを変更"</string>
   <string name="change_wallpaper">"壁紙"</string>
   <string name="close">"閉じる"</string>
-  <string name="component_backup_preference_title">Back up theme</string>
-  <string name="component_category_finest_title">GENERAL</string>
-  <string name="component_category_more_title">ADVANCED</string>
+  <string name="component_backup_preference_title">"テーマのバックアップ"</string>
+  <string name="component_category_finest_title">"全般"</string>
+  <string name="component_category_more_title">"詳細"</string>
   <string name="component_title_ringtone">"着信音"</string>
   <string name="component_title_wallpaper">"壁紙"</string>
   <string name="current_using_desktop_wallpaper_text">"ホーム画面"</string>

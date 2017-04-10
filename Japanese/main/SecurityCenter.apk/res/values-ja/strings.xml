@@ -425,7 +425,7 @@
   <string name="charging_text_battery_full_time">"Last charge "</string>
   <string name="charging_text_battery_nearly_full">Almost fully charged</string>
   <string name="charging_text_battery_perfect">Fully charged</string>
-  <string name="charging_text_time_calculating">Calculating charging time…</string>
+  <string name="charging_text_time_calculating">"充電時間の計算中…"</string>
   <string name="check_network_state">Test network</string>
   <string name="choose">"選択"</string>
   <string name="clean_immediately">"消去"</string>
@@ -527,7 +527,7 @@
   <string name="disable_air_mode">"最初に機内モードをオフにする"</string>
   <string name="dns_exception_summary">""ルーターのDNS設定を確認する""</string>
   <string name="dns_exception_title">"DNS設定を確認"</string>
-  <string name="domestic_roaming_setting">National roaming</string>
+  <string name="domestic_roaming_setting">"国内ローミング"</string>
   <string name="download">"ダウンロード"</string>
   <string name="downloading">"ダウンロード中"</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -643,7 +643,7 @@
   <string name="hints_remember_choice">"設定を保存"</string>
   <string name="hints_risk_apk_list_item_summary">apk</string>
   <string name="hints_risk_app_list_item_summary">app</string>
-  <string name="hints_risk_descx_title">Description:</string>
+  <string name="hints_risk_descx_title">"説明:"</string>
   <string name="hints_risk_name_title">Risk:</string>
   <string name="hints_scan_progress">Completed: %d</string>
   <string name="hints_scan_result_phone_safe">Everything looks good</string>
@@ -658,7 +658,7 @@
   <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_virus_app_list_item_summary">app</string>
   <string name="hints_virus_app_summary">%s (app)</string>
-  <string name="hints_virus_descx_title">Description:</string>
+  <string name="hints_virus_descx_title">"説明:"</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"このアプリはお使いの端末にとって大きなリスクです。"</string>
   <string name="history_details_title">"履歴の詳細"</string>

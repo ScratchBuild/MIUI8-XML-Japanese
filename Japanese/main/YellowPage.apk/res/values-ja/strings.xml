@@ -213,7 +213,7 @@
   <string name="general_no_yellow_page">リストは空です</string>
   <string name="general_recent_title">"履歴"</string>
   <string name="general_unfollow_hint">Stop following %1$s?</string>
-  <string name="general_yellow_page_title">General</string>
+  <string name="general_yellow_page_title">"全般"</string>
   <string name="group_name_data_source">Source</string>
   <string name="group_name_gallery">Gallery</string>
   <string name="group_name_management">Manage</string>
@@ -252,7 +252,7 @@
   <string name="menu_correct_yellow_page">問題を報告</string>
   <string name="menu_delete_call_log">通話履歴を削除</string>
   <string name="menu_delete_one">通話履歴から削除</string>
-  <string name="menu_enroll_in_yellow_page">Sign up for Caller ID</string>
+  <string name="menu_enroll_in_yellow_page">"Caller IDに登録"</string>
   <string name="menu_follow_yellow_page">Follow</string>
   <string name="menu_remove_black_list">ブロックリストから削除</string>
   <string name="menu_remove_from_favorite">お気に入りから削除</string>
