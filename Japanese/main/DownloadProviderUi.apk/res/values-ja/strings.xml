@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Only_the_wifi">"Wi-Fiのみ使用"</string>
-  <string name="about">About</string>
+  <string name="about">"このアプリについて"</string>
   <string name="action_settings">"設定"</string>
   <string name="ad_install">"インストール"</string>
   <string name="ad_mark">AD</string>

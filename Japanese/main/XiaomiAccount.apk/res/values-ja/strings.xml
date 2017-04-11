@@ -154,7 +154,7 @@
   <string name="mi_insurance">Mi Insurance</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identity</string>
-  <string name="micloud_space_info">%s available</string>
+  <string name="micloud_space_info">"%sが利用可能"</string>
   <string name="mili_center">Mi Credits</string>
   <string name="mipay_center">Mi Wallet</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
@@ -255,7 +255,7 @@
   <string name="passport_login_using_other_ways">"<u>その他の方法でログイン</u>"</string>
   <string name="passport_message_dialog_title">SMS with verifying codes</string>
   <string name="passport_next">"次へ"</string>
-  <string name="passport_notification_title">Signin error for %1$s</string>
+  <string name="passport_notification_title">"%1$sのログインエラー"</string>
   <string name="passport_password_req_notice">"パスワードは8～16桁の文字列で、数字と文字の両方を含める必要があります(大文字と小文字は区別)。"</string>
   <string name="passport_phone_num_hint_text">"電話番号"</string>
   <string name="passport_prev">"戻る"</string>
@@ -270,8 +270,8 @@
   <string name="passport_re_register">"再登録"</string>
   <string name="passport_recycle_account_prompt">"これはあなたのMi Accountですか？"</string>
   <string name="passport_reg_btn_using_other_phone">"別の電話番号を使用する"</string>
-  <string name="passport_reg_failed">"Can't set up account"</string>
-  <string name="passport_reg_prompt">"Don't have a Mi Account? Create one for free."</string>
+  <string name="passport_reg_failed">"アカウントを登録できません"</string>
+  <string name="passport_reg_prompt">"Mi Accountをお持ちでない？無料で作成できます。"</string>
   <string name="passport_reg_success">"アカウントを作成しました"</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">"メールアドレスを使用"</string>
@@ -297,7 +297,7 @@
   <string name="passport_reset_fail_title">"リセットできませんでした"</string>
   <string name="passport_reset_password_prompt">"パスワードが正しくありません"</string>
   <string name="passport_reset_password_title">"パスワードをリセット"</string>
-  <string name="passport_restart">Start over</string>
+  <string name="passport_restart">"やり直す"</string>
   <string name="passport_restart_register_prompt">Another verification message may be required to create your account.</string>
   <string name="passport_restart_register_title">"Mi Accountを作成"</string>
   <string name="passport_retry">"再試行"</string>
@@ -306,8 +306,8 @@
   <string name="passport_setting">"設定中…"</string>
   <string name="passport_skip_login">"スキップ"</string>
   <string name="passport_skip_register">"登録をスキップ"</string>
-  <string name="passport_skip_setup_account_msg">You can set up a Mi Account later in Settings.</string>
-  <string name="passport_skip_setup_account_title">Skip setup</string>
+  <string name="passport_skip_setup_account_msg">"後から[設定]でMi Accountをセットアップすることができます。"</string>
+  <string name="passport_skip_setup_account_title">"セットアップをスキップ"</string>
   <string name="passport_title_reg">"アカウントを作成"</string>
   <string name="passport_trust_device">Add this device to verified devices</string>
   <string name="passport_trying_read_verify_code_sms">Getting verification code…</string>

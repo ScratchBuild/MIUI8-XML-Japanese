@@ -19,8 +19,8 @@
   <string name="auto_button_examine_immediately">"表示"</string>
   <string name="auto_button_sure_cancel">"キャンセル"</string>
   <string name="auto_check_clause_button">"表示"</string>
-  <string name="auto_dialog_msg">"We've updated our Privacy Policy. Please read it carefully before updating your system. "</string>
-  <string name="auto_dialog_msg_check_again">"You must agree to our updated Privacy Policy before you can update your system. "</string>
+  <string name="auto_dialog_msg">"プライバシーポリシーを更新しました。お使いのシステムを更新する前に注意書きをよくお読みください。"</string>
+  <string name="auto_dialog_msg_check_again">"お使いのシステムを更新する前に、更新されたプライバシーポリシーに同意する必要があります。"</string>
   <string name="auto_dialog_title_check_again">"更新をキャンセルしますか？"</string>
   <string name="auto_update">"自動的に更新"</string>
   <string name="auto_update_sum">"スマートアルゴリズムを使用して更新時刻を決定する"</string>
@@ -188,7 +188,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_installfail_full_msg">"エラーが発生しました。このエラーを報告するには[OK]をタップ。"</string>
   <string name="set_installfail_msg">"Wi-Fiネットワークに接続していません。モバイルデータ接続を使用して更新をダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="set_installfail_title">Try to download update again?</string>
-  <string name="set_installfail_title_full">"Can't update"</string>
+  <string name="set_installfail_title_full">"更新できません"</string>
   <string name="set_network_msg">To download this update, connect to a WLAN network.</string>
   <string name="set_network_root_msg">To get root access, connect to a WLAN network.</string>
   <string name="set_network_title">"Wi-Fiに接続"</string>

@@ -166,25 +166,25 @@
         <item quantity="one">"パスワードには記号または数字が1つ以上必要です。"</item>
     </plurals>
     <plurals name="number_locked">
-        <item quantity="other">%d apps locked</item>
-        <item quantity="one">%d app locked</item>
+        <item quantity="other">%d個のアプリがロックされています</item>
+        <item quantity="one">%d個のアプリがロックされています</item>
     </plurals>
     <plurals name="number_to_lock">
-        <item quantity="other">%d apps not locked</item>
-        <item quantity="one">%d app not locked</item>
+        <item quantity="other">%d個のアプリがロックされていません</item>
+        <item quantity="one">%d個のアプリがロックされていません</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Search among %d apps</item>
         <item quantity="one">Search among %d app</item>
     </plurals>
     <plurals name="found_apps_title">
-        <item quantity="other">%d apps found</item>
-        <item quantity="zero">0 app found</item>
-        <item quantity="one">%d app found</item>
+        <item quantity="other">%d個のアプリが見つかりました</item>
+        <item quantity="zero">アプリが見つかりませんでした</item>
+        <item quantity="one">%d個のアプリが見つかりました</item>
     </plurals>
     <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">1 item</item>
+        <item quantity="other">%d回</item>
+        <item quantity="one">1回</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s payment risks</item>
@@ -195,12 +195,12 @@
         <item quantity="one">%s payment app is protected</item>
     </plurals>
     <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s apps are protected</item>
-        <item quantity="one">%s app is protected</item>
+        <item quantity="other">%s個のアプリは保護されています</item>
+        <item quantity="one">%s個のアプリは保護されています</item>
     </plurals>
     <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">"%s apps aren't protected"</item>
-        <item quantity="one">"%s app isn't protected"</item>
+        <item quantity="other">%s個のアプリは保護されていません</item>
+        <item quantity="one">%s個のアプリは保護されていません</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d locked apps are waiting to be cleared</item>
@@ -219,8 +219,8 @@
         <item quantity="one">Added %d game</item>
     </plurals>
     <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">Updates for %d apps are available</item>
-        <item quantity="one">Updates for %d app are available</item>
+        <item quantity="other">%d個のアプリの更新が利用可能</item>
+        <item quantity="one">%d個のアプリの更新が利用可能</item>
     </plurals>
     <plurals name="app_manager_permission_read_contact">
         <item quantity="other">Accessed contacts %d times</item>
@@ -251,8 +251,8 @@
         <item quantity="one">Gave %d permission</item>
     </plurals>
     <plurals name="app_manager_start_count">
-        <item quantity="other">%d times</item>
-        <item quantity="one">%d time</item>
+        <item quantity="other">%d回</item>
+        <item quantity="one">%d回</item>
     </plurals>
     <plurals name="app_manager_reject_count">
         <item quantity="other">Blocked %d times</item>

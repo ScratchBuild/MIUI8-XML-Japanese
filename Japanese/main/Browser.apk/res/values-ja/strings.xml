@@ -751,12 +751,12 @@ Pages you view won't appear in history."</string>
   <string name="url_suggest_indicator_hoturl">Popular</string>
   <string name="url_suggest_indicator_mostvisited">Most visited</string>
   <string name="use_cellular_network_alert_message">"Wi-Fiが利用できません。代わりにモバイルデータを使用して接続しますか？"</string>
-  <string name="use_cellular_network_alert_title">Data usage</string>
+  <string name="use_cellular_network_alert_title">"データ使用量"</string>
   <string name="user_defined_webpage">"スタートページに追加"</string>
   <string name="user_defined_webpage_title">"スタートページに追加"</string>
   <string name="username">"名前"</string>
   <string name="v5_deselect_all">"すべて選択を解除"</string>
-  <string name="v5_edit_mode_title_empty">0 selected</string>
+  <string name="v5_edit_mode_title_empty">"何も選択されていません"</string>
   <string name="v5_select_all">"すべて選択"</string>
   <string name="version_check_button_checking">"確認中…"</string>
   <string name="version_check_button_download_failed">"ダウンロードの再開"</string>
@@ -799,7 +799,7 @@ Pages you view won't appear in history."</string>
   <string name="video_float_window_text">Pop-up</string>
   <string name="video_fragment_name_collections">Favorites</string>
   <string name="video_fragment_name_download">Offline video</string>
-  <string name="video_fragment_name_historys">History</string>
+  <string name="video_fragment_name_historys">"履歴"</string>
   <string name="video_fragment_name_offine">Offline</string>
   <string name="video_group_noupdates_list">"利用可能な更新はありません"</string>
   <string name="video_group_updates_list">"更新"</string>
@@ -812,7 +812,7 @@ Pages you view won't appear in history."</string>
   <string name="video_push_multi_message">%1$d updates available.</string>
   <string name="video_push_multi_title">"更新が利用可能"</string>
   <string name="video_push_single_message">Tap to update to %1$d.</string>
-  <string name="video_subtitle_last_message1">Less than 1 minute remaining</string>
+  <string name="video_subtitle_last_message1">"残り1分未満"</string>
   <string name="video_subtitle_prefix1">"視聴済み"</string>
   <string name="video_subtitle_prefix2">"視聴済み "</string>
   <string name="video_title_prefix_message">"Offline: "</string>
@@ -830,6 +830,6 @@ Pages you view won't appear in history."</string>
   <string name="webpage_history_title">"履歴"</string>
   <string name="webpage_title">"ブックマークと履歴"</string>
   <string name="webview_find_on_page">"ページ内を検索"</string>
-  <string name="webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>
+  <string name="webviewchromium_private_browsing_warning">"この機能はお使いのAndroidバージョンではサポートされていません。"</string>
   <string name="week_picker_dialog_title">"週を設定"</string>
 </resources>

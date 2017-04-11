@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_preference_screen_title">About</string>
-  <string name="about_preference_title">About</string>
+  <string name="about_preference_screen_title">"このアプリについて"</string>
+  <string name="about_preference_title">"このアプリについて"</string>
   <string name="acknowledge_btn">I Acknowledge</string>
   <string name="action_settings">"設定"</string>
   <string name="activation_page">Not activated</string>
@@ -154,7 +154,7 @@ The Date &amp; Time settings on this device have not been changed."</string>
   <string name="title_gesture">"パターンロック"</string>
   <string name="title_lockpattern">Require pattern lock</string>
   <string name="title_myaccount">My account: %s</string>
-  <string name="title_nopassword">"Don't require for small payments"</string>
+  <string name="title_nopassword">"少額の支払いには必要ありません"</string>
   <string name="title_nopassword_dialog">Daily limit</string>
   <string name="title_password">"パスワード"</string>
   <string name="title_password_threshold">Daily limit = ￥%1$s</string>
@@ -163,7 +163,7 @@ You can："</string>
   <string name="title_updatepattern">"パスワードを変更"</string>
   <string name="title_visible_pattern">Make pattern visible</string>
   <string name="type_prompt">Type of key</string>
-  <string name="update_pattern_jump">&lt;u&gt;Remove password&lt;/u&gt;</string>
+  <string name="update_pattern_jump">&lt;u&gt;パスワードを削除&lt;/u&gt;</string>
   <string name="version_preference_title">Version</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;If you delete your Mi Security Token, you won't be able to sign in to your account."</string>
   <string name="welcome_page_details">"— Keep your account safe.

@@ -122,7 +122,7 @@
   <string name="callUnanswered_forwarded">Call unanswered and forwarded</string>
   <string name="call_advanced_setting_title">"詳細設定"</string>
   <string name="call_background_lock_wallpaper">ロック画面の壁紙</string>
-  <string name="call_background_setting">Call background</string>
+  <string name="call_background_setting">"通話時の背景"</string>
   <string name="call_barring">発着信制限</string>
   <string name="call_barring_incoming">通話着信制限</string>
   <string name="call_barring_outgoing">通話発信制限</string>
@@ -159,7 +159,6 @@
   <string name="call_remove_exception_numbers_confirm">%d件の番号が削除されます。</string>
   <string name="call_settings">通話設定</string>
   <string name="call_settings_primary_user_only">通話設定はプライマリユーザーのみ変更できます。</string>
-  <string name="call_settings_title_font_family">sans-serif-light</string>
   <string name="call_settings_with_label">通話設定 (%s)</string>
   <string name="call_waiting_summary">通話中に他の着信があった場合に通知します。</string>
   <string name="call_waiting_title">通話中着信設定</string>
@@ -269,8 +268,8 @@
   <string name="data_enabled">"データ通信を有効にする"</string>
   <string name="deactivate_all">すべてキャンセル</string>
   <string name="delete">削除</string>
-  <string name="deleteAllSimEntries">Delete all SIM contacts</string>
-  <string name="deleteSimContacts">Deleting SIM contacts</string>
+  <string name="deleteAllSimEntries">すべてのSIMの連絡先を削除</string>
+  <string name="deleteSimContacts">SIMの連絡先を削除中</string>
   <string name="delete_fdn_contact">発信番号制限の削除</string>
   <string name="deleting_fdn_contact">発信番号制限を削除しています...</string>
   <string name="description_delete_button">backspace</string>
@@ -316,7 +315,6 @@
   <string name="dtmf_tones_title">DTMFトーン</string>
   <string name="duration_disable_summary">Display duration is OFF</string>
   <string name="duration_enable_summary">Display duration is ON</string>
-  <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">編集</string>
   <string name="edit_fdn_contact">発信番号制限の編集</string>
   <string name="emergencyDialerIconLabel">緊急通報</string>
@@ -725,8 +723,8 @@
   <string name="path_missed_call_notify_times_title">システムアプリ/Phone/詳細設定/Missed call reminders</string>
   <string name="path_preference_dial_pad_touch_tone_title">システムアプリ/Phone/詳細設定/Dial pad touch tones</string>
   <string name="path_preference_telocation_title">システムアプリ/Phone/Location</string>
-  <string name="path_reject_via_sms">システムアプリ/Phone/詳細設定/Quick responses</string>
-  <string name="path_sip_settings">システムアプリ/Phone/詳細設定/SIP settings</string>
+  <string name="path_reject_via_sms">システムアプリ/Phone/詳細設定/クイック返信</string>
+  <string name="path_sip_settings">システムアプリ/Phone/詳細設定/SIP設定</string>
   <string name="path_t9_indexing_method_title">システムアプリ/Phone/詳細設定/T9 search input</string>
   <string name="path_telocation_auto_country_code">システムアプリ/Phone/Location/Add country code</string>
   <string name="path_telocation_contacts_countrycode">システムアプリ/Phone/Location/Default country code</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">Video Player</string>
-  <string name="about_title">About</string>
+  <string name="about_title">"このアプリについて"</string>
   <string name="about_version_label">"Version "</string>
   <string name="account_auth_fail">account authenticate fail</string>
   <string name="actor">Actor</string>
@@ -166,8 +166,7 @@
   <string name="file_not_exist">"ファイルが存在しません"</string>
   <string name="filter">Filter</string>
   <string name="finish_install">"正常にインストールされました"</string>
-  <string name="font_family">miui</string>
-  <string name="forecast">Forecast</string>
+  <string name="forecast">"予報"</string>
   <string name="forecast_empty_hint">Empty</string>
   <string name="forecasts">EPG</string>
   <string name="fullscreen">Full screen</string>
@@ -252,8 +251,8 @@
   <string name="nowifi_alert_dialog_title">"データ使用の警告"</string>
   <string name="offline">Offline</string>
   <string name="offline_add_queue_fail">"\"%1$s\"をダウンロードできませんでした"</string>
-  <string name="offline_alert_title">Data usage</string>
-  <string name="offline_alert_wifi">Downloads will begin when your device connects to a WLAN network.</string>
+  <string name="offline_alert_title">"データ使用量"</string>
+  <string name="offline_alert_wifi">端末がWi-Fiネットワークに接続すると、ダウンロードが開始されます。</string>
   <string name="offline_already_in">\"%1$s\" is already waiting to download</string>
   <string name="offline_created_order">Added \"%1$s\" is already waiting to download</string>
   <string name="offline_loaded">Offline video</string>
@@ -279,7 +278,7 @@
   <string name="operator_test_summary">Run app in Operator test mode</string>
   <string name="original_price">"元の価格"</string>
   <string name="other_info">"その他"</string>
-  <string name="other_setting">Additional</string>
+  <string name="other_setting">"その他の設定"</string>
   <string name="passport_access_denied">"アクセスが拒否されました"</string>
   <string name="passport_account_hint_text">"メールアドレスまたはMi Account ID"</string>
   <string name="passport_account_identity_title">Verify your identity</string>
@@ -374,8 +373,8 @@
   <string name="passport_re_register">"再登録"</string>
   <string name="passport_recycle_account_prompt">"これはあなたのMi Accountですか？"</string>
   <string name="passport_reg_btn_using_other_phone">"別の電話番号を使用する"</string>
-  <string name="passport_reg_failed">"Can't set up account"</string>
-  <string name="passport_reg_prompt">"Don't have a Mi Account? Create one for free."</string>
+  <string name="passport_reg_failed">"アカウントを登録できません"</string>
+  <string name="passport_reg_prompt">"Mi Accountをお持ちでない？無料で作成できます。"</string>
   <string name="passport_reg_success">"アカウントを作成しました"</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">"メールアドレスを使用"</string>

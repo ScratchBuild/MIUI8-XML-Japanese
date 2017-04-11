@@ -69,8 +69,8 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Group_PIM">Userdata</string>
   <string name="HIPS_Group_PhoneID">Device identity</string>
   <string name="HIPS_Group_ROOT">Root access</string>
-  <string name="HIPS_Perm_AdjustRingerVolume">change ringer volume</string>
-  <string name="HIPS_Perm_AdjustVolumeInCall">change in-call volume</string>
+  <string name="HIPS_Perm_AdjustRingerVolume">"着信音量の変更"</string>
+  <string name="HIPS_Perm_AdjustVolumeInCall">"通話音量の変更"</string>
   <string name="HIPS_Perm_AllowAll">"すべて許可"</string>
   <string name="HIPS_Perm_AnswerCall">answer calls</string>
   <string name="HIPS_Perm_AudioRecorder">Record audio</string>

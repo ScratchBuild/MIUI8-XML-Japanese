@@ -723,11 +723,11 @@ Take more photos of your friends!"</string>
   <string name="text_append_hint">Enter text</string>
   <string name="text_append_style">Bubble</string>
   <string name="text_append_transparent">Opacity</string>
-  <string name="tip_capture_location">Location:</string>
-  <string name="tip_capture_params">EXIF data:</string>
-  <string name="tip_capture_time">Taken on:</string>
-  <string name="tip_file_info">File info:</string>
-  <string name="tip_file_path">Local path:</string>
+  <string name="tip_capture_location">"撮影場所:"</string>
+  <string name="tip_capture_params">"EXIFデータ:"</string>
+  <string name="tip_capture_time">"撮影日時:"</string>
+  <string name="tip_file_info">"情報:"</string>
+  <string name="tip_file_path">"保存場所:"</string>
   <string name="tip_not_download">Not on device. Will be downloaded from Mi Cloud while playing.</string>
   <string name="tip_screenshot_package_info">"アプリ名:"</string>
   <string name="title_set_name">"名前を入力"</string>

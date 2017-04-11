@@ -154,7 +154,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="desc_online_personal_radio">Just for you</string>
   <string name="deselect_all">"すべて選択を解除"</string>
   <string name="desktop_lyric_button_close">"閉じる"</string>
-  <string name="desktop_lyric_button_lock">Lock</string>
+  <string name="desktop_lyric_button_lock">"ロック"</string>
   <string name="desktop_lyric_color">Color</string>
   <string name="desktop_lyric_dialog_msg">"ホーム画面の歌詞表示は [Music] &gt; [設定] &gt; [高度な設定] からオン/オフを切り替えられます"</string>
   <string name="desktop_lyric_dialog_positive_button">"今すぐ試す"</string>
@@ -266,8 +266,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_traffic_dialog_msg">Using your mobile data to download songs may increase your mobile data charges</string>
   <string name="download_traffic_dialog_negative_button">"Wi-Fi接続を待機"</string>
   <string name="download_traffic_dialog_position_button">"ダウンロードを継続"</string>
-  <string name="download_unknown_title">&lt;Untitled></string>
-  <string name="download_wait_connect">Waiting to connect</string>
+  <string name="download_unknown_title">"&lt;無題>"</string>
+  <string name="download_wait_connect">"接続を待機中"</string>
   <string name="download_when_network_connected">"インターネットに接続してダウンロード"</string>
   <string name="download_while_playing_no_vip_summary">Automatically download songs you stream online (except paid content)</string>
   <string name="download_while_playing_summary">Automatically download songs you stream online</string>
@@ -346,7 +346,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="find_music">Discover songs</string>
   <string name="follow">Follow</string>
   <string name="followed">Following</string>
-  <string name="font_family">miui</string>
   <string name="force_touch_audio_picker">Recognize song</string>
   <string name="force_touch_play_local_music_random">Shuffle local music</string>
   <string name="format_not_support">"This format isn't supported."</string>

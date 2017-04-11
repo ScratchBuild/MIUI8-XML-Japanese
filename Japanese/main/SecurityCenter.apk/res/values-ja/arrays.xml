@@ -84,7 +84,7 @@
         <item>"サイズ順"</item>
     </string-array>
     <string-array name="sms_report_type">
-        <item>Data Usage</item>
+        <item>"データ使用量"</item>
         <item>Phone balance</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
