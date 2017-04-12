@@ -2,9 +2,9 @@
 <resources>
   <string name="access_denied">"アクセスが拒否されました"</string>
   <string name="account">アカウント</string>
-  <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
+  <string name="account_related">お使いの端末は既存のMi Account(%s)に関連付けられています。端末を確認するためネットワークに接続します。</string>
   <string name="activate">Activate</string>
-  <string name="activate_finddevice">Connect to the network to activate device</string>
+  <string name="activate_finddevice">"端末を有効にするためネットワークに接続する"</string>
   <string name="activate_number_change_dialog_message">Choose a phone number that will be visible to other devices when you call using VoIP.</string>
   <string name="activating">有効にしています…</string>
   <string name="add_cloud_storage">ストレージを追加</string>
@@ -166,10 +166,10 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_finish_title">Account verified</string>
   <string name="micloud_confusion_no">いいえ</string>
   <string name="micloud_confusion_ok">OK</string>
-  <string name="micloud_confusion_setting_notify_text">Turn off syncing for other devices associated with your account.</string>
+  <string name="micloud_confusion_setting_notify_text">"アカウントに関連付けられている他の端末の同期をオフにします。"</string>
   <string name="micloud_confusion_setting_notify_title">Protect your account</string>
   <string name="micloud_confusion_setting_password_error">"入力したパスワードが間違っています"</string>
-  <string name="micloud_confusion_setting_question">Turn off syncing for other devices associated with your account.</string>
+  <string name="micloud_confusion_setting_question">"アカウントに関連付けられている他の端末の同期をオフにします。"</string>
   <string name="micloud_confusion_setting_title">Too many devices</string>
   <string name="micloud_confusion_toast_confirm">Device confirmed</string>
   <string name="micloud_confusion_toast_deny">"Mi Accountにログイン"</string>
@@ -506,7 +506,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="user_agreement_p8">" に同意されたものとみなします。"</string>
   <string name="user_agreement_title">"Mi Cloud 利用規約"</string>
   <string name="vcode">Verification code</string>
-  <string name="verify">Verify</string>
+  <string name="verify">"確認"</string>
   <string name="view_storage_title">Storage space</string>
   <string name="virtual_sim_desc">Turn on Mi SIM to locate device without a SIM card</string>
   <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>

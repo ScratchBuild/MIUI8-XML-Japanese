@@ -41,7 +41,7 @@
   <string name="auto_nickname">"自動"</string>
   <string name="auto_set_nickname">"自動"</string>
   <string name="back_view_description">"戻る"</string>
-  <string name="batch_delete">Delete batch</string>
+  <string name="batch_delete">"一括削除"</string>
   <string name="blacklist">"ブロック"</string>
   <string name="bluetooth_connection_failed_toast">"Bluetooth接続が中断されました"</string>
   <string name="blurbJoinContactDataWith">"%sと統合する連絡先を選択します:"</string>
@@ -105,7 +105,7 @@
   <string name="callrecordview_item_op_time_short_outgoing">"発信: "</string>
   <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
-  <string name="callrecordview_menu_batch_delete">Clear batch</string>
+  <string name="callrecordview_menu_batch_delete">"一括消去"</string>
   <string name="callrecordview_menu_blocklist">"ブロックリスト"</string>
   <string name="callrecordview_menu_conference">"グループ通話"</string>
   <string name="callrecordview_menu_delete">"通話履歴を消去"</string>
@@ -154,7 +154,7 @@
   <string name="chat_qq">QQでチャット</string>
   <string name="chat_skype">Skypeでチャット</string>
   <string name="chat_yahoo">Yahooでチャット</string>
-  <string name="checkhint">Check the target phone</string>
+  <string name="checkhint">"対象の電話を確認する"</string>
   <string name="clearCallLogConfirmation">すべての通話記録は削除されます。</string>
   <string name="clearCallLogConfirmation_title">すべての通話履歴を削除しますか？</string>
   <string name="clearCallLogProgress_title">通話履歴を削除しています…</string>
@@ -671,7 +671,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="miprofile_contact_added">"追加しました"</string>
   <string name="miprofile_contact_header">Contacts with contact cards</string>
   <string name="miprofile_contact_meaasge">Local contacts</string>
-  <string name="miprofile_contact_verifying">Verifying</string>
+  <string name="miprofile_contact_verifying">"確認中"</string>
   <string name="miprofile_edit_title">"プロフィールを編集"</string>
   <string name="miprofile_error_accept_self">"自分の連絡先カードは交換できません"</string>
   <string name="miprofile_error_no_miaccount">Mi Accountにログイン"</string>
@@ -849,9 +849,9 @@ To add a contact to your list of favorites:
   <string name="organization_company_and_title">%1$s, %2$s</string>
   <string name="other_contacts">"その他の連絡先"</string>
   <string name="other_phone">"その他の番号"</string>
-  <string name="path_batch_delete">システムアプリ/連絡先/Organize contacts/Delete batch</string>
+  <string name="path_batch_delete">システムアプリ/連絡先/連絡先を整理/一括削除</string>
   <string name="path_contacts_display">システムアプリ/連絡先/Display preferences</string>
-  <string name="path_contacts_more">システムアプリ/連絡先/Organize contacts</string>
+  <string name="path_contacts_more">システムアプリ/連絡先/連絡先を整理</string>
   <string name="path_contacts_recovery">システムアプリ/連絡先/Recover contacts</string>
   <string name="path_contacts_setting">システムアプリ/連絡先</string>
   <string name="path_display_only_phones">システムアプリ/連絡先/Display preferences/Hide incomplete numbers</string>
@@ -863,15 +863,15 @@ To add a contact to your list of favorites:
   <string name="path_import_from_sdcard">システムアプリ/連絡先/インポート/Export contacts/Import from storage</string>
   <string name="path_import_from_sim">システムアプリ/連絡先/インポート/Export contacts/Import from SIM card</string>
   <string name="path_key_photo_word">システムアプリ/連絡先/Assign contact photos</string>
-  <string name="path_key_rebuild_t9_index_title">システムアプリ/連絡先/Organize contacts/インデックスデータを再構築</string>
-  <string name="path_key_sim_manage">システムアプリ/連絡先/Organize contacts/SIMカード</string>
+  <string name="path_key_rebuild_t9_index_title">システムアプリ/連絡先/連絡先を整理/インデックスデータを再構築</string>
+  <string name="path_key_sim_manage">システムアプリ/連絡先/連絡先を整理/SIMカード</string>
   <string name="path_preference_contacts_filter">システムアプリ/連絡先/Display preferences/Configure contact lists</string>
-  <string name="path_remove_duplicate">システムアプリ/連絡先/Organize contacts/Merge duplicate contacts</string>
+  <string name="path_remove_duplicate">システムアプリ/連絡先/連絡先を整理/Merge duplicate contacts</string>
   <string name="path_share_visible_contacts">システムアプリ/連絡先/インポート/Export contacts/Share contacts</string>
   <string name="path_sim_capacity">システムアプリ/連絡先/SIM card storage</string>
   <string name="path_simple_mode">システムアプリ/連絡先/Display photos and info</string>
   <string name="path_smart_group_title">システムアプリ/連絡先/Display preferences/Smart groups</string>
-  <string name="path_wipe_data">システムアプリ/連絡先/Organize contacts/Clear data</string>
+  <string name="path_wipe_data">システムアプリ/連絡先/連絡先を整理/Clear data</string>
   <string name="payphone">公衆電話</string>
   <string name="people">連絡先</string>
   <string name="phoneLabelsGroup">"電話"</string>
@@ -1041,7 +1041,7 @@ To add a contact to your list of favorites:
   <string name="search_contacts_display">Contacts;Display</string>
   <string name="search_contacts_more">Organize;Contacts</string>
   <string name="search_contacts_recovery">Contacts</string>
-  <string name="search_contacts_setting">Contact settings;Display photos and info;Assign contact photos;Import and export;Share; Import from SD card;Import from SIM card;Import from other phone;Export from SD card;Export from SIM card;Share contacts; Display preferences;Hide incomplete numbers;Show SIM contacts;Configure contact lists;Smart groups;Organize contacts; Merge duplicate contacts;Delete batch;Clear data;Rebuild index data;t9;SIM cards;SIM card storage;Contacts recovery introduction;Contact photos</string>
+  <string name="search_contacts_setting">Contact settings;Display photos and info;Assign contact photos;Import and export;Share; Import from SD card;Import from SIM card;Import from other phone;Export from SD card;Export from SIM card;Share contacts; Display preferences;Hide incomplete numbers;Show SIM contacts;Configure contact lists;Smart groups;連絡先を整理; Merge duplicate contacts;Delete batch;Clear data;Rebuild index data;t9;SIM cards;SIM card storage;Contacts recovery introduction;Contact photos</string>
   <string name="search_display_only_phones">Contacts;Display</string>
   <string name="search_display_sim_contacts">Contacts;Display</string>
   <string name="search_export_to_sdcard">Contacts;Export;storage</string>

@@ -106,7 +106,7 @@
   <string name="description_image_button_video_answer">"ビデオ通話"</string>
   <string name="description_image_button_zero">"0"</string>
   <string name="description_target_answer">"電話に出る"</string>
-  <string name="dialog_activate_livetalk">Verify number</string>
+  <string name="dialog_activate_livetalk">"番号を確認"</string>
   <string name="dialog_call_ordinary_telephone">Regular call</string>
   <string name="dialog_purchase">Top up</string>
   <string name="do_not_ask">"二度と表示しない"</string>

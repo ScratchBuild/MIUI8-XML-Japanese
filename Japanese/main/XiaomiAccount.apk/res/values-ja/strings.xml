@@ -56,7 +56,7 @@
   <string name="activity_not_found_notice">"アプリケーションを見つけることができません"</string>
   <string name="add_account">"アカウントを追加"</string>
   <string name="app_name">Mi Account</string>
-  <string name="auth_fail_warning">Session expired, sign in again later</string>
+  <string name="auth_fail_warning">"セッションが期限切れ、後でもう一度ログイン"</string>
   <string name="authorize_title">"認証"</string>
   <string name="bind_facebook">"Facebookアカウントに接続"</string>
   <string name="bind_qq">QQ</string>
@@ -71,7 +71,7 @@
   <string name="change_email_address">"メールアドレスを変更"</string>
   <string name="change_password">"パスワードを変更"</string>
   <string name="change_phone_number">"電話番号を変更"</string>
-  <string name="checking_phone_num_availible">Verifying phone…</string>
+  <string name="checking_phone_num_availible">"電話番号を確認中…"</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">"設定完了"</string>
   <string name="confirm_activate_email">Verified</string>
@@ -122,8 +122,8 @@
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
   <string name="find_device_interrupted">"アクションが中断されました、後ほど再試行してください"</string>
   <string name="find_device_io_error">"ネットワークに接続できません"</string>
-  <string name="find_device_locked_account_email" formatted="false">%s, associated email address: %s</string>
-  <string name="find_device_locked_account_phone" formatted="false">%s, associated phone number: %s</string>
+  <string name="find_device_locked_account_email" formatted="false">"%s、関連付けられたメールアドレス: %s"</string>
+  <string name="find_device_locked_account_phone" formatted="false">"%s、関連付けられた電話番号: %s"</string>
   <string name="find_device_null_credential_error">"Can't get device info, contact Xiaomi customer service"</string>
   <string name="find_device_operation_failed_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_operation_failed_error_unknown">"エラーが発生しました、後ほど再試行してください"</string>
@@ -133,7 +133,7 @@
   <string name="find_device_unknown_error">"Can't get device status, wait a minute or two and try again"</string>
   <string name="first_login_time">First sign in attempt: %s</string>
   <string name="forward_to_bind">"追加"</string>
-  <string name="get_device_list_failed">"Can't get devices"</string>
+  <string name="get_device_list_failed">"デバイスを取得できません"</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="guest_account_label">Mi Guest Account</string>
   <string name="ignore">"後で"</string>
@@ -146,7 +146,7 @@
   <string name="location_service_not_working">"位置情報サービスが動作していません"</string>
   <string name="login_check_find_device">"デバイスのセキュリティ情報を取得中…"</string>
   <string name="login_check_find_device_failed_title">"デバイスのセキュリティ情報を確認できませんでした"</string>
-  <string name="login_find_device_bind">This device is associated with existing Mi Account ID (%s).</string>
+  <string name="login_find_device_bind">"この端末は既存のMi Account ID(%s)に関連付けられています。"</string>
   <string name="login_guard_prompt">Require phone number verification when you sign in to your Mi Account on an unknown device or in an unknown app for the first time.</string>
   <string name="logout_failed">"ログアウトできません"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
@@ -172,7 +172,7 @@
   <string name="notify_network_restricted_content_mobile_network">"Mi Account's internet access is restricted. Tap to allow."</string>
   <string name="notify_network_restricted_title">"Mi Accountがネットワークに接続できませんでした"</string>
   <string name="oauth_get_scopes_failed">"アカウント情報を取得できませんでした"</string>
-  <string name="oauth_getting_scopes">Verifying account…</string>
+  <string name="oauth_getting_scopes">"アカウントを確認中…"</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; will get following permissions:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">"Mi Accountでログイン"</string>
   <string name="other_devices_title">"その他のデバイス"</string>
@@ -240,7 +240,7 @@
   <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
   <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
   <string name="passport_input_captcha_hint">"コードを入力"</string>
-  <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
+  <string name="passport_input_password_for_login">"この番号は既存のアカウントに関連付けられています、パスワードを入力してください"</string>
   <string name="passport_input_password_hint">"パスワードを入力"</string>
   <string name="passport_input_phone_hint">"電話番号を入力"</string>
   <string name="passport_input_vcode_hint">Enter verification code</string>
@@ -263,7 +263,7 @@
   <string name="passport_pwd_generate_failure">"パスワードを生成できませんでした"</string>
   <string name="passport_pwd_generating">"生成中…"</string>
   <string name="passport_quick_login_dialog_step2_title">"2段階認証"</string>
-  <string name="passport_quick_login_dialog_title">Verify password</string>
+  <string name="passport_quick_login_dialog_title">"パスワードを確認"</string>
   <string name="passport_quick_login_step2_title">"2段階認証"</string>
   <string name="passport_quick_login_title">"パスワードを入力"</string>
   <string name="passport_re_get_verify_code">"コードを再取得"</string>
@@ -284,7 +284,7 @@
   <string name="passport_register_account_goto_email">"受信トレイに移動"</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
   <string name="passport_register_by_email">"&lt;u&gt;メールアドレスを使用してアカウントを作成&lt;/u&gt;"</string>
-  <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
+  <string name="passport_register_restricted">"この番号に関連付けられているアカウントが多すぎます、別のものを試してみてください"</string>
   <string name="passport_register_restricted_title">"この電話番号は使用できません"</string>
   <string name="passport_registered_phone_user_ID">"ユーザーID: %s"</string>
   <string name="passport_registered_phone_user_name">"ユーザー名: %s"</string>

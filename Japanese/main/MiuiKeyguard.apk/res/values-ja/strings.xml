@@ -4,6 +4,7 @@
   <string name="click_to_enter_text">"表示するにはタップ"</string>
   <string name="confirm_pin_msg">"もう一度PINコードを入力してください"</string>
   <string name="custom_lock_wallpaper_enter">Enter</string>
+  <string name="default_lockscreen_unlock_hint_text">"上にスワイプでロック解除"</string>
   <string name="delete">"削除"</string>
   <string name="emergency_call_string">"緊急通報"</string>
   <string name="experimental_try_string">Try</string>
@@ -65,9 +66,9 @@
   <string name="open_remote_center_hint_text">"右にスワイプで電話を開く"</string>
   <string name="open_wifi_settings">"ネットワーク接続を開く"</string>
   <string name="phone_locked_foget_password">Forgot password?</string>
-  <string name="phone_locked_foget_password_content">"You can sign in to i.mi.com using the Mi Account which is associated with this device, and clear all data. This will erase all personal data stored on this device. After this, you can reboot the device and restore contacts, messages, photos, and other items from Mi Cloud. 
+  <string name="phone_locked_foget_password_content">"この端末に関連付けられたMi Accountを使用して i.mi.com にログインすることで、すべてのデータを消去することができます。これは、端末に保存されているすべての個人データが消去されます。その後、端末を再起動して連絡先、メッセージ、写真、その他のアイテムをMi Cloudから復元することができます。
 
-You won't be able to do this unless you've signed in to your Mi Account on this device. Otherwise, you'll have to flash the device again."</string>
+この端末であなたのMi Accountでログインしない限り、この操作を行うことはできません。それ以外の場合は、端末を再度フラッシュする必要があります。"</string>
   <string name="phone_locked_foget_password_footer">"手順:
 i.mi.com にログインして“Find device”に移動したら、デバイスを選択して Wipe device をクリック。"</string>
   <string name="phone_locked_foget_password_header">"パスワードを忘れた場合はどうすればよいですか？"</string>

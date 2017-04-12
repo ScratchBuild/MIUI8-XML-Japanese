@@ -1859,7 +1859,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_confirm_for_second_user">Second spaceのパスワードを確認</string>
   <string name="lockpassword_confirm_passwords_dont_match">パスワードが一致しません</string>
   <string name="lockpassword_confirm_pins_dont_match">PINが一致しません</string>
-  <string name="lockpassword_confirm_workspace_password">Verify Work space password</string>
+  <string name="lockpassword_confirm_workspace_password">"Work spaceのパスワードを確認"</string>
   <string name="lockpassword_confirm_your_lock_password_header">パスワードを確認</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">解除パターンを確認</string>
   <string name="lockpassword_confirm_your_password_generic">続行するには、パスワードを入力してください。</string>
@@ -2535,9 +2535,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
   <string name="privacy_password_enter_privacy">プライバシー保護パスワードを入力</string>
   <string name="privacy_password_exit_account_info">ログアウトするとアカウントが自動的に削除されます</string>
-  <string name="privacy_password_fingerprint_confirm_failed">"Couldn't verify fingerprint"</string>
-  <string name="privacy_password_fingerprint_confirm_succes">Fingerprint verified</string>
-  <string name="privacy_password_fingerprint_dialog_error_title">"Couldn't scan fingerprint, try again"</string>
+  <string name="privacy_password_fingerprint_confirm_failed">"指紋を確認できませんでした"</string>
+  <string name="privacy_password_fingerprint_confirm_succes">"指紋を確認しました"</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">"指紋を読み取れませんでした、再度試してください"</string>
   <string name="privacy_password_fingerprint_dialog_message">Put your finger on the sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Scan your fingerprint</string>
   <string name="privacy_password_login_and_add_account">ログインと追加</string>

@@ -218,8 +218,6 @@
   <string name="bill_center_setting">Billing settings</string>
   <string name="bill_center_setting_head">Import info from these accounts</string>
   <string name="bill_cycle_text">Billing cycle</string>
-  <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
-  <string name="bill_list_card_num_fmt">**** **** **** %s</string>
   <string name="bill_remind">Repayment reminder</string>
   <string name="bill_remind_due">A repayment is due on %s, tap to view</string>
   <string name="blank_feedback_toast">"フィードバックを記入してください"</string>
@@ -376,8 +374,6 @@
   <string name="drawer_open">"ナビゲーションドロワーを開く"</string>
   <string name="due">Due</string>
   <string name="due_date_text">Final repayment</string>
-  <string name="eas_hotmail_email">hotmail.com</string>
-  <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">"クイック返信"</string>
   <string name="elided_padding_token"> </string>
   <string name="email_address">"メールアドレス"</string>
@@ -769,7 +765,7 @@ to receive reminders about payments and trips"</string>
   <string name="qq_login_send_message">Tap \"Send SMS\" to get a verification code</string>
   <string name="qq_login_webview">Signing in to the web QQ Mail. Enter your password.</string>
   <string name="qq_next_generation_auth_toast">Turn on password protection in your browser</string>
-  <string name="qq_uthentication_failed">"Couldn't verify account, sign in again"</string>
+  <string name="qq_uthentication_failed">"アカウントを確認できませんでした。再度ログインしてください"</string>
   <string name="qq_webview_loading">"読み込み中…"</string>
   <string name="questionnair_body_invisibility">"メッセージが表示されない"</string>
   <string name="questionnair_confirm_delete">"削除"</string>

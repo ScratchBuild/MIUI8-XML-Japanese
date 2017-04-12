@@ -36,15 +36,15 @@
   <string name="activate_popup_confirm_failed_server">"再試行"</string>
   <string name="activate_popup_desc_2_intl_sim_cards">2 international text messages will be sent to activate %s. You will be charged by the carrier.</string>
   <string name="activate_popup_desc_2_sim_cards">2 regular text messages will be sent to activate %s. You will be charged by the carrier.</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">"Can't find your phone number. Make sure that your SIM card has been activated.
-Enter the phone number associated with your new SIM card to reactivate %s"</string>
-  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Couldn't send activation message. Make sure that your SIM card has been activated.
-Enter the phone number associated with your new SIM card to reactivate %s"</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">"お使いの電話番号が見つかりませんでした。SIMカードが有効になっていることを確認してください。
+%sを再度有効にするには、新しいSIMカードに関連づけられた電話番号を入力してください"</string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">"アクティベーションメッセージを送信できませんでした。SIMカードが有効になっていることを確認してください。
+%sを再度有効にするには、新しいSIMカードに関連づけられた電話番号を入力してください"</string>
   <string name="activate_popup_desc_error_device_id">"IMEIを確認するには *#06# に発信"</string>
   <string name="activate_popup_desc_failed_phone_error">"入力した電話番号は無効です。"</string>
-  <string name="activate_popup_desc_failed_query_info">"Can't find your phone number. Make sure that your SIM card has been activated."</string>
+  <string name="activate_popup_desc_failed_query_info">"お使いの電話番号が見つかりませんでした。SIMカードが有効になっていることを確認してください。"</string>
   <string name="activate_popup_desc_failed_receive_sms">Make sure the phone number you entered is correct and that your SIM card has been activated.</string>
-  <string name="activate_popup_desc_failed_send_sms">"Couldn't send activation message. Make sure that your SIM card has been activated."</string>
+  <string name="activate_popup_desc_failed_send_sms">"アクティベーションメッセージを送信できませんでした。SIMカードが有効になっていることを確認してください。"</string>
   <string name="activate_popup_desc_failed_server">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="activate_popup_desc_find_device_postfix">An activation SMS may be sent after you switch SIM cards.</string>
   <string name="activate_popup_desc_intl_sim_card">International SMS will be sent to activate %s. You will be charged by the carrier.</string>
@@ -74,9 +74,9 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_popup_title_new_sim_card">Reactivate %s</string>
   <string name="activate_popup_title_register_account">"Mi Accountを作成"</string>
   <string name="activate_sms_postfix">This SMS is used to activate your Mi service</string>
-  <string name="activate_status_desc_acquire_phone_number">Verifying phone number…</string>
-  <string name="activate_status_desc_acquire_phone_number_server_error">Server error occurred while verifying phone number</string>
-  <string name="activate_status_desc_acquire_phone_number_server_no_info">"Couldn't verify phone number"</string>
+  <string name="activate_status_desc_acquire_phone_number">"電話番号を確認中…"</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error">"電話番号の確認中にサーバーエラーが発生しました"</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info">"電話番号を確認できませんでした"</string>
   <string name="activate_status_desc_checking_xiaomi_account">"Mi Accountの確認中…"</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">"Mi Accountの確認中にサーバーエラーが発生しました"</string>
   <string name="activate_status_desc_completed_with_sms_sent">"SIMを有効にするためにSMSを送信しました"</string>
@@ -103,7 +103,7 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_status_title_activating">"SIMカードを有効にしています…"</string>
   <string name="activate_status_title_activating_msim">"SIMカード %s を有効にしています…"</string>
   <string name="app_name">Xiaomi SIM Activate Service</string>
-  <string name="explain_send_sms_permission_button">Verify</string>
+  <string name="explain_send_sms_permission_button">"確認"</string>
   <string name="explain_send_sms_permission_msg">To turn on %s, Xiaomi Service Framework will send SMS to verify your phone number. You will be charged for the regular SMS by the carrier.</string>
   <string name="explain_send_sms_permission_title">Verify your phone number</string>
   <string name="sim_unactivated_title">"Your SIM card isn't activated"</string>

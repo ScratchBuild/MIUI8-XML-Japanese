@@ -560,9 +560,9 @@
   <string name="fingerprint_to_lock">Unlock with fingerprint</string>
   <string name="fingerprint_verification">Scan fingerprint</string>
   <string name="fingerprint_verification_message">Scan your fingerprint to use this feature.</string>
-  <string name="fingerprint_verify_failed">"Couldn't verify fingerprint"</string>
-  <string name="fingerprint_verify_succeed">Fingerprint verified</string>
-  <string name="fingerprint_verify_try_agin">"Couldn't scan fingerprint, try again"</string>
+  <string name="fingerprint_verify_failed">"指紋を確認できませんでした"</string>
+  <string name="fingerprint_verify_succeed">"指紋を確認しました"</string>
+  <string name="fingerprint_verify_try_agin">"指紋を読み取れませんでした、再度試してください"</string>
   <string name="firewall_activity_lable">"アプリによるデータ使用量の制限"</string>
   <string name="firewall_allow_network">Allowed</string>
   <string name="firewall_applist">"アプリ"</string>
@@ -675,7 +675,7 @@
   <string name="installed">"インストール済み"</string>
   <string name="installing">"インストール中"</string>
   <string name="international_roaming_setting">"海外ローミング"</string>
-  <string name="international_roaming_whitelist_count">%d apps can use mobile data when roaming</string>
+  <string name="international_roaming_whitelist_count">"％d個のアプリはローミング時にモバイルデータを使用できます"</string>
   <string name="ip_address_exception_summary">"IPアドレスを取得できませんでした。この問題が再発する場合は、静的IPアドレスを使用してみてください。"</string>
   <string name="item_app_permission">"アプリのパーミッション"</string>
   <string name="item_dev_mode">"開発者向けオプション"</string>
@@ -886,7 +886,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="network_speed_for_apps_title">Connection</string>
   <string name="network_speed_for_apps_total">"接続速度"</string>
   <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
-  <string name="networkchanged_exception_title">Connection changed</string>
+  <string name="networkchanged_exception_title">"接続が変更されました"</string>
   <string name="never">1 time</string>
   <string name="news_change">"変更"</string>
   <string name="no_network">"ネットワークに接続できませんでした、後ほど再試行してください"</string>

@@ -83,14 +83,14 @@
   <string name="download_filesize_unknown">"不明"</string>
   <string name="download_from">Source:</string>
   <string name="download_in_process">"ダウンロード中"</string>
-  <string name="download_info_count_deleted_tasks">%s downloads removed</string>
-  <string name="download_info_start_deleted_tasks">Delete downloads</string>
+  <string name="download_info_count_deleted_tasks">"%s個のダウンロードを削除しました"</string>
+  <string name="download_info_start_deleted_tasks">"ダウンロードを削除"</string>
   <string name="download_list_get_free_vip">Xunlei trial</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei download acceleration is on</string>
   <string name="download_list_get_hightspeed_flow_pay_ok">"支払いが完了しました。"</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei trial session created</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Enjoy faster download speeds powered by Xunlei</string>
-  <string name="download_list_intoAuth">Verify your Account</string>
+  <string name="download_list_intoAuth">"アカウントを確認"</string>
   <string name="download_list_intoAuthAlert">"読み込み中"</string>
   <string name="download_list_open_xl_cancel">"キャンセル"</string>
   <string name="download_list_open_xl_message">Xunlei accelerator will help speed up downloads.</string>
@@ -235,7 +235,7 @@ across all your devices with Xunlei"</string>
   <string name="pref_summary_enable_max_bytes_popup">Show popup notification when using mobile data connection to download content</string>
   <string name="pref_summary_max_bytes_limit_format">Wait for Wi-Fi if file size exceeds %s</string>
   <string name="pref_summary_no_limit_popup">"無制限"</string>
-  <string name="pref_title_enable_max_bytes_popup">Show data usage prompt</string>
+  <string name="pref_title_enable_max_bytes_popup">"データ使用量の警告を表示"</string>
   <string name="preferences_title">"設定"</string>
   <string name="privacy_tip_cancel">"キャンセル"</string>
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>

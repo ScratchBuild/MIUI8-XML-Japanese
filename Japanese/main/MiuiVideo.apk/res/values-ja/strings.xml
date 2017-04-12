@@ -3,7 +3,7 @@
   <string name="about_app_name">Video Player</string>
   <string name="about_title">"このアプリについて"</string>
   <string name="about_version_label">"Version "</string>
-  <string name="account_auth_fail">account authenticate fail</string>
+  <string name="account_auth_fail">"アカウント認証に失敗"</string>
   <string name="actor">Actor</string>
   <string name="actor_intro">About</string>
   <string name="ad_moredetail">"詳細を表示"</string>
@@ -47,7 +47,7 @@
   <string name="app_wifi_mode">"自動的に更新"</string>
   <string name="app_wifi_mode_summary">"アプリの起動時、Wi-Fiに接続している場合は自動的にアプリを更新する"</string>
   <string name="authenticated_failed">"ログインできませんでした"</string>
-  <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="authenticating">&lt;CDATA&gt;認証中&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"認証できませんでした"</string>
   <string name="average_score">"平均評価"</string>
   <string name="avg_score">%.1f</string>
@@ -235,7 +235,7 @@
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">"コメントを送信するには、Mi Accountにログインしてください"</string>
   <string name="no_longer_tips">"二度と表示しない"</string>
-  <string name="no_pay_record">no pay record</string>
+  <string name="no_pay_record">"支払い記録なし"</string>
   <string name="no_sdcard_no_download">Not enough storage space.</string>
   <string name="no_vip_product">do not support vip services</string>
   <string name="not_buy_vip">no vip</string>
@@ -343,7 +343,7 @@
   <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
   <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
   <string name="passport_input_captcha_hint">"コードを入力"</string>
-  <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
+  <string name="passport_input_password_for_login">"この番号は既存のアカウントに関連付けられています、パスワードを入力してください"</string>
   <string name="passport_input_password_hint">"パスワードを入力"</string>
   <string name="passport_input_phone_hint">"電話番号を入力"</string>
   <string name="passport_input_vcode_hint">Enter verification code</string>
@@ -366,7 +366,7 @@
   <string name="passport_pwd_generate_failure">"パスワードを生成できませんでした"</string>
   <string name="passport_pwd_generating">"生成中…"</string>
   <string name="passport_quick_login_dialog_step2_title">"2段階認証"</string>
-  <string name="passport_quick_login_dialog_title">Verify password</string>
+  <string name="passport_quick_login_dialog_title">"パスワードを確認"</string>
   <string name="passport_quick_login_step2_title">"2段階認証"</string>
   <string name="passport_quick_login_title">"パスワードを入力"</string>
   <string name="passport_re_get_verify_code">"コードを再取得"</string>
@@ -387,7 +387,7 @@
   <string name="passport_register_account_goto_email">"受信トレイに移動"</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
   <string name="passport_register_by_email">"&lt;u&gt;メールアドレスを使用してアカウントを作成&lt;/u&gt;"</string>
-  <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
+  <string name="passport_register_restricted">"この番号に関連付けられているアカウントが多すぎます、別のものを試してみてください"</string>
   <string name="passport_register_restricted_title">"この電話番号は使用できません"</string>
   <string name="passport_registered_phone_user_ID">"ユーザーID: %s"</string>
   <string name="passport_registered_phone_user_name">"ユーザー名: %s"</string>
@@ -437,7 +437,6 @@
   <string name="path_settings">System App/Video/Settings</string>
   <string name="pause">Pause</string>
   <string name="pay_record">pay record</string>
-  <string name="percent_status">%.0f%%</string>
   <string name="performance_mode">Improve player performance</string>
   <string name="performance_mode_desc">"Maximize video player's performance"</string>
   <string name="personal_center">"アカウント"</string>

@@ -9,7 +9,7 @@
   <string name="device_lost">This device is lost</string>
   <string name="disable_find_device_error">"Find deviceをオフにできません。%1$s"</string>
   <string name="disable_find_device_success">"Find deviceはオフです"</string>
-  <string name="doing_extra_login_steps">Verifying sign in…</string>
+  <string name="doing_extra_login_steps">"ログインを確認中…"</string>
   <string name="enable_find_device_error">"Find deviceをオンにできません。%1$s"</string>
   <string name="enable_find_device_success">"Find deviceはオンです"</string>
   <string name="find_device">Find device</string>
@@ -41,9 +41,9 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="passport_vcode_prompt_long">Enter verification code</string>
   <string name="passport_verify">"認証"</string>
   <string name="password">パスワード</string>
-  <string name="phone_locked">This device may be associated with existing Mi Account (%s). Sign in to activate this device.</string>
-  <string name="phone_locked_account_email">, associated email: %s</string>
-  <string name="phone_locked_account_phone">, associated phone number: %s</string>
+  <string name="phone_locked">"この端末は既に別のMi Account(%s)に関連付けられています。端末をアクティベートするにはログインしてください。"</string>
+  <string name="phone_locked_account_email">", 関連付けられたメールアドレス: %s"</string>
+  <string name="phone_locked_account_phone">", 関連付けられた電話番号: %s"</string>
   <string name="stop_on_empty_captcha">"キャプチャは空白にできません"</string>
   <string name="stop_on_empty_password">"パスワードは空白にできません"</string>
   <string name="time_correction_failure">"時刻を修正できません。%s"</string>
@@ -73,6 +73,6 @@ Sign in to i.mi.com and try unlocking your device from there"</string>
   <string name="unlock_help_title">Unlock help:</string>
   <string name="unlock_wrong_captcha">"入力したコードが正しくありません"</string>
   <string name="unlocking">"有効にしています…"</string>
-  <string name="verifing_account">Verifying password…</string>
-  <string name="verify_password_failed">"Couldn't verify Mi Account ID. %s."</string>
+  <string name="verifing_account">パスワードを確認中…</string>
+  <string name="verify_password_failed">"Mi Account IDを確認できませんでした。%s。"</string>
 </resources>

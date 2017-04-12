@@ -81,7 +81,7 @@
   <string name="app_install_dialog_search_failed">"関連するアプリの検索が失敗しました"</string>
   <string name="app_install_dialog_searching">"関連するアプリを探しています、しばらくお待ちください"</string>
   <string name="app_installing">"インストール中…"</string>
-  <string name="app_lastest">Latest</string>
+  <string name="app_lastest">"最新版"</string>
   <string name="app_listitem_installing">"インストール中"</string>
   <string name="app_listitem_waiting">"インストールを待機中"</string>
   <string name="app_local">Local</string>
@@ -147,8 +147,8 @@
   <string name="channel_removed_from_fav">"%1$sをお気に入りから削除しました"</string>
   <string name="check_upgrade">"更新を確認"</string>
   <string name="choose_ac">"リモコンを選択"</string>
-  <string name="choose_address_title">Select location</string>
-  <string name="choose_key_to_fix">Choose the button to fix</string>
+  <string name="choose_address_title">"場所を選択"</string>
+  <string name="choose_key_to_fix">"修復するボタンを選択"</string>
   <string name="circlepad_slide_tips">Use the touch wheel to adjust the volume</string>
   <string name="click_to_expend">"展開"</string>
   <string name="click_to_login">"ログイン"</string>
@@ -273,7 +273,7 @@
   <string name="epg_program_share_drama">Come with me to see %3$s %1$s channel, broadcast time:.%2$s comments favorite stars, predict the development of the plot, in the millet universal remote control</string>
   <string name="epg_program_share_game">Watch with me: %3$s Channel: %1$s, At:%2$s.</string>
   <string name="epg_program_updated_to">Program set to: %1$d</string>
-  <string name="epg_search_box_hint">TV program or channel you want to search</string>
+  <string name="epg_search_box_hint">"テレビ番組またはチャンネルで検索"</string>
   <string name="epg_search_history">"検索履歴"</string>
   <string name="epg_search_hot_channel">Top channel searches</string>
   <string name="epg_search_hot_program">Top program searches</string>
@@ -648,7 +648,7 @@ Then answer the question"</string>
   <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
   <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
   <string name="passport_input_captcha_hint">"コードを入力"</string>
-  <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
+  <string name="passport_input_password_for_login">"この番号は既存のアカウントに関連付けられています、パスワードを入力してください"</string>
   <string name="passport_input_password_hint">"パスワードを入力"</string>
   <string name="passport_input_phone_hint">"電話番号を入力"</string>
   <string name="passport_input_vcode_hint">Enter verification code</string>
@@ -671,7 +671,7 @@ Then answer the question"</string>
   <string name="passport_pwd_generate_failure">"パスワードを生成できませんでした"</string>
   <string name="passport_pwd_generating">"生成中…"</string>
   <string name="passport_quick_login_dialog_step2_title">"2段階認証"</string>
-  <string name="passport_quick_login_dialog_title">Verify password</string>
+  <string name="passport_quick_login_dialog_title">"パスワードを確認"</string>
   <string name="passport_quick_login_step2_title">"2段階認証"</string>
   <string name="passport_quick_login_title">"パスワードを入力"</string>
   <string name="passport_re_get_verify_code">"コードを再取得"</string>
@@ -692,7 +692,7 @@ Then answer the question"</string>
   <string name="passport_register_account_goto_email">"受信トレイに移動"</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
   <string name="passport_register_by_email">"&lt;u&gt;メールアドレスを使用してアカウントを作成&lt;/u&gt;"</string>
-  <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
+  <string name="passport_register_restricted">"この番号に関連付けられているアカウントが多すぎます、別のものを試してみてください"</string>
   <string name="passport_register_restricted_title">"この電話番号は使用できません"</string>
   <string name="passport_registered_phone_user_ID">User ID: %s</string>
   <string name="passport_registered_phone_user_name">Username: %s</string>
