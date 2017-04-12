@@ -1,4 +1,4 @@
 <strings>
-    <string name="date_format">"M'月'd'日 'E'曜日'"</strings>
-    <string name="emergency_call">"緊急通報"</strings>
+    <string name="date_format">M'月'd'日 'E'曜日'</strings>
+    <string name="emergency_call">緊急通報</strings>
 </strings>
