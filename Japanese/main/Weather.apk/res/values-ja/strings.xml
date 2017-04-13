@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_find_city_hint">"都市名を入力"</string>
-  <string name="act_find_city_hot_title">"追加"</string>
-  <string name="act_set_city_find_side">"読み込み中…"</string>
+  <string name="act_find_city_hot_attractions_title">Popular sites</string>
+  <string name="act_find_city_hot_city_title">Popular cities</string>
+  <string name="act_set_city_find_side">Locating</string>
   <string name="act_set_city_find_side_error">"端末の現在地を取得できません"</string>
   <string name="act_weather_find_city_added">"追加しました"</string>
   <string name="act_weather_find_city_click_retry">"再試行"</string>
@@ -45,7 +46,7 @@
   <string name="change_alert">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">"読み込み中..."</string>
-  <string name="connect_fail">"ネットワーク接続が異常です。 後でもう一度お試しください。"</string>
+  <string name="connect_fail">"ネットワークに接続できません、後でもう一度お試しください。"</string>
   <string name="daily_forcast_drawer_on_bottom">"非表示"</string>
   <string name="daily_forcast_drawer_on_top">"%1$s日間の予報"</string>
   <string name="daily_forcast_no_stable_direction">"そよ風"</string>
@@ -55,7 +56,7 @@
   <string name="daily_forecast_no_data">"気象情報の取得に失敗しました
 手動で更新を行うか、ネットワークの設定を確認してください"</string>
   <string name="edit_alert_city_title">"アラートの管理"</string>
-  <string name="edit_city">"都市を編集"</string>
+  <string name="edit_city">"都市を管理"</string>
   <string name="first_start_network_msg">"このアプリが正常に動作するには、インターネット接続と位置情報へのアクセスが必要です。"</string>
   <string name="first_start_network_title">"インターネット接続と位置情報アクセス"</string>
   <string name="gps_hint">"現在地"</string>
@@ -97,15 +98,14 @@
   <string name="international_details_wind_title">"風速"</string>
   <string name="locate_fail_detail_err">"端末の現在地を取得できません
 画面をタップして手動で追加または都市の位置を変更する"</string>
-  <string name="location_management">"位置情報の管理"</string>
   <string name="location_tag">Locate</string>
   <string name="menu_add_city">"場所の編集"</string>
   <string name="menu_location">"位置情報"</string>
+  <string name="menu_speeker">Voice broadcast</string>
   <string name="more_details">"さらに詳しく"</string>
   <string name="network_not_available">"ネットワークに接続できませんでした"</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした。"</string>
   <string name="no_network_btn">"再試行"</string>
-  <string name="no_vote_num">"%1$s 人 | "</string>
   <string name="no_vote_ratio">Against %1$s%%</string>
   <string name="open">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
@@ -132,7 +132,6 @@
   <string name="sunset">"日の入"</string>
   <string name="temperature_unit">%1$s°</string>
   <string name="title_share_link">"URLを共有"</string>
-  <string name="total_voted_num_text">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; 人が投票済み"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">"明後日: %1$s"</string>
   <string name="traffic_control_today_numbers">"今日: %1$s"</string>
   <string name="traffic_control_tomorrow_numbers">"明日: %1$s"</string>
@@ -145,6 +144,5 @@
   <string name="view_indexes_item_tommorrow">"明日"</string>
   <string name="weather_alert">"天気予報のアラート"</string>
   <string name="wind_direction_no_data">Wind</string>
-  <string name="yes_vote_num">" | %1$s 人"</string>
   <string name="yes_vote_ratio">For %1$s%%</string>
 </resources>

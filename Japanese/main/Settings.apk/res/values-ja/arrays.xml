@@ -42,12 +42,12 @@
         <item>すべて</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15秒</item>
-        <item>30秒</item>
-        <item>1分</item>
-        <item>2分</item>
-        <item>5分</item>
-        <item>10分</item>
+        <item>15秒後</item>
+        <item>30秒後</item>
+        <item>1分後</item>
+        <item>2分後</item>
+        <item>5分後</item>
+        <item>10分後</item>
         <item>オフにしない</item>
     </string-array>
     <string-array name="dream_timeout_entries">
@@ -726,10 +726,10 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>すぐ</item>
-        <item>30秒</item>
-        <item>1分</item>
-        <item>2分</item>
-        <item>5分</item>
+        <item>30秒後</item>
+        <item>1分後</item>
+        <item>2分後</item>
+        <item>5分後</item>
         <item>オフにしない</item>
     </string-array>
     <string-array name="screen_resolution_entries">

@@ -183,9 +183,9 @@
   <string name="min_error">Your %1$s should be longer.</string>
   <string name="modem_tool_log">Capture modem logs</string>
   <string name="modem_tool_log_start">"開始"</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_start_toast">Saving modem log to %s</string>
   <string name="modem_tool_log_stop">"停止"</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="modem_tool_log_stop_toast">Stopped saving modem log to %s</string>
   <string name="module_communication">"コミュニケーション"</string>
   <string name="module_data">"ストレージとデュアルアプリ"</string>
   <string name="module_desktop">"ホーム画面と設定"</string>

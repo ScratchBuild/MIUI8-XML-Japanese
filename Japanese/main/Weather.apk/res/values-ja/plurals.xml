@@ -16,4 +16,16 @@
         <item quantity="other">"晴れ"</item>
         <item quantity="one">"快晴"</item>
     </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font>人が投票済み"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font>人が投票済み"</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s人</item>
+        <item quantity="one"> | %1$s人</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s人 | </item>
+        <item quantity="one">%1$s人 | </item>
+    </plurals>
 </resources>

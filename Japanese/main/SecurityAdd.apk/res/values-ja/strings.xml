@@ -58,6 +58,7 @@
   <string name="i_know">OK</string>
   <string name="install_game_count">"%d個のゲームを追加しました"</string>
   <string name="intro_improve">Boost your gaming experience on a system level</string>
+  <string name="intro_skip">"スキップ"</string>
   <string name="loading">"読み込み中…"</string>
   <string name="main_toolbar_purchase">Top up</string>
   <string name="man_add_application">"自動起動するアプリを手動で追加"</string>

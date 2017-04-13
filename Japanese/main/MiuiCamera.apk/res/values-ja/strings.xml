@@ -310,6 +310,10 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">Interval of 3 seconds (90 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval of 30 seconds (900 times)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time lapse interval</string>
+  <string name="pref_watermark_style_entry_dualcamera">Dual camera</string>
+  <string name="pref_watermark_style_entry_off">Off</string>
+  <string name="pref_watermark_style_entry_timestamp">Time stamp</string>
+  <string name="pref_watermark_style_title">Add watermark in photo</string>
   <string name="preparing_sd">"内部ストレージを確認中…"</string>
   <string name="record_back_pressed_hint">"録画を停止するにはもう一度タップ"</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>

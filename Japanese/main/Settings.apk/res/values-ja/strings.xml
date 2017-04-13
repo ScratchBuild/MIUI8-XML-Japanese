@@ -82,6 +82,7 @@
   <string name="account_add">追加</string>
   <string name="account_autostar_label">自動起動</string>
   <string name="account_list">その他のアカウント</string>
+  <string name="account_other">その他</string>
   <string name="account_settings">アカウントの設定</string>
   <string name="account_settings_menu_auto_sync">データの自動同期</string>
   <string name="account_settings_menu_auto_sync_personal">個人データの自動同期</string>
@@ -1829,7 +1830,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_notifications_summary_show">すべての通知内容を表示する</string>
   <string name="lock_screen_notifications_title">端末がロックされているとき</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">直ぐにパスワードが必要になります</string>
-  <string name="lock_screen_secure_after_timeout_summary">%1$sでパスワードが必要になります</string>
+  <string name="lock_screen_secure_after_timeout_summary">パスワードの要求: %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">パスワードの要求</string>
   <string name="lock_screen_signature_summary">このメッセージはロック画面に表示されます</string>
   <string name="lock_screen_signature_title">ロック画面の所有者情報</string>
@@ -2183,6 +2184,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_mi_effect_summary">スピーカー利用時にMi Sound Enhancerを使用する</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
+  <string name="music_unsupport_effect_summary">"USB headsets aren't supported"</string>
   <string name="musicfx_title">サウンド効果</string>
   <string name="mvno_match_data">MVNO値</string>
   <string name="mvno_type">MVNOの種類</string>
@@ -2375,6 +2377,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_page2_small_title">Extra small</string>
   <string name="page_layout_page2_title">プレビュー</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="palm_enabled">Cover screen to turn it off</string>
   <string name="paper_mode_end_time_title">終了時間</string>
   <string name="paper_mode_start_time_title">開始時間</string>
   <string name="passpoint_content">%1$sの認証情報</string>
@@ -3579,6 +3582,7 @@ PINが正しくない可能性があります。"</string>
   <string name="summary_range_verbal_combination">%1$s - %2$s</string>
   <string name="supl_not_set">&lt;未設定></string>
   <string name="supplicant_state_label">申請者の状態:</string>
+  <string name="suspend_gesture_enabled">Flip phone to turn off screen</string>
   <string name="suspension_ball_enable">Quick ballのショートカット</string>
   <string name="suspension_ball_enable_desc">ショートカットを使用してQuick ballのオン/オフを切り替える</string>
   <string name="suw_back_button_label">戻る</string>
@@ -4506,6 +4510,9 @@ PINが正しくない可能性があります。"</string>
   <string name="wrong_pin_code_pukked">SIM PINコードが無効です。お使いの端末をロック解除するには携帯通信会社にお問い合わせいただく必要があります。</string>
   <string name="xiaomi_account">Miアカウント</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud syncs your contacts and photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
+  <string name="xiaomi_cloud_service_disabled">Off</string>
+  <string name="xiaomi_cloud_service_unknown">Unknown</string>
   <string name="xiaomi_money_service">Mi Credit</string>
   <string name="xiaomi_router_available_notif_summary">タップして詳細を表示</string>
   <string name="xiaomi_router_available_notif_title">Mi WiFiルーターが利用可能</string>

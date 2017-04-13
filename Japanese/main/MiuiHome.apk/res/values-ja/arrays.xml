@@ -55,6 +55,6 @@
         <item>"レイアウト"</item>
     </string-array>
     <string-array name="quality_business_devices">
-        <item>Lithium</item>
+        <item>lithium</item>
     </string-array>
 </resources>

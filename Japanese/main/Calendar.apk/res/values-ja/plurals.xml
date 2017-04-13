@@ -10,15 +10,15 @@
     </plurals>
     <plurals name="Nminutes">
         <item quantity="other">"%d分前"</item>
-        <item quantity="one">"1分前"</item>
+        <item quantity="one">"%d分前"</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">"%d時間前"</item>
-        <item quantity="one">"1時間前"</item>
+        <item quantity="one">"%d時間前"</item>
     </plurals>
     <plurals name="Ndays">
         <item quantity="other">"%d日前"</item>
-        <item quantity="one">"1日前"</item>
+        <item quantity="one">"%d日前"</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">"第%d週"</item>
@@ -26,14 +26,6 @@
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
-    </plurals>
-    <plurals name="Nevents">
-        <item quantity="other">"%d件の予定"</item>
-        <item quantity="one">"1件の予定"</item>
-    </plurals>
-    <plurals name="N_remaining_events">
-        <item quantity="other">"他%d件の予定"</item>
-        <item quantity="one">"他1件の予定"</item>
     </plurals>
     <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d days ago at %2$s</item>
@@ -45,7 +37,7 @@
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">"%d週間前"</item>
-        <item quantity="one">"1週間前"</item>
+        <item quantity="one">"%d週間前"</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Anniversary: %2$d years since %1$s</item>
