@@ -45,7 +45,7 @@
   <string name="activity_title_root_acquired">Allow root access</string>
   <string name="activity_title_root_manager">Root access</string>
   <string name="activity_title_root_note">About root access</string>
-  <string name="activity_title_safepay">Payment security</string>
+  <string name="activity_title_safepay">"支払いのセキュリティ"</string>
   <string name="activity_title_settings">"設定"</string>
   <string name="activity_title_system">"システム"</string>
   <string name="activity_title_trash">"キャッシュ"</string>
@@ -615,7 +615,7 @@
   <string name="hide_mode_app_background_setting_text">App battery saver</string>
   <string name="hide_mode_summary_text">"Manage apps' background activity to save battery"</string>
   <string name="hide_mode_title_text">Hide mode</string>
-  <string name="hide_system_app">"システムアプリを隠す"</string>
+  <string name="hide_system_app">"システムアプリを非表示"</string>
   <string name="hints_auto_start_warning_info">"If you restrict autostart, some apps and services won't be able to receive notifications."</string>
   <string name="hints_cleanning_done">Scanned successfully</string>
   <string name="hints_cleanning_text">Cleaning…</string>
@@ -836,7 +836,7 @@
   <string name="monitor_requests_from_pc">"USB経由でアプリのインストールを管理"</string>
   <string name="month_report_month_report_switch">"月次レポートを表示"</string>
   <string name="msg_update_error_code_success">"完了"</string>
-  <string name="msg_update_up">"隠す"</string>
+  <string name="msg_update_up">"非表示"</string>
   <string name="network_assistant_upgraded_body">"詳細を表示するにはタップ。"</string>
   <string name="network_assistant_upgraded_title">Updated</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
@@ -958,7 +958,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optmizingbar_title_acceleration">"最適化しています…"</string>
   <string name="optmizingbar_title_clear">"キャッシュを消去"</string>
   <string name="optmizingbar_title_security">"セキュリティ"</string>
-  <string name="optmizingbar_title_system">System security</string>
+  <string name="optmizingbar_title_system">"システムのセキュリティ"</string>
   <string name="other_exception_summary">"インターネットに接続していません"</string>
   <string name="other_exception_title">Checking for other issues</string>
   <string name="package_change_notification_summary">"タップで詳細を表示。"</string>
@@ -1229,7 +1229,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="resource_networkassistant_1">"データ使用量"</string>
   <string name="resource_networkassistant_2">"データプランを調整"</string>
   <string name="resource_networkassistant_4">"ネットワークをテスト"</string>
-  <string name="resource_payment_security">Payment security</string>
+  <string name="resource_payment_security">"支払いのセキュリティ"</string>
   <string name="resource_powercenter">"電池使用量"</string>
   <string name="resource_powercenter_powerrank">"電池とパフォーマンス"</string>
   <string name="resource_securitycenter">"セキュリティ"</string>
@@ -1265,7 +1265,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="safe_result_header_info_protecting">Protecting</string>
   <string name="safe_result_header_title_app">App security</string>
   <string name="safe_result_header_title_sms">Message security</string>
-  <string name="safe_result_header_title_system">System security</string>
+  <string name="safe_result_header_title_system">"システムのセキュリティ"</string>
   <string name="safe_result_header_title_wifi">WLAN security</string>
   <string name="safe_result_item_button_monitor">Monitoring settings</string>
   <string name="safe_result_item_empty_monitor">No payment apps are protected</string>
@@ -1286,9 +1286,9 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="safepay_alert_dialog_button_risk">"修復"</string>
   <string name="safepay_alert_dialog_button_unknown">Check again</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Risk found! Interrupt current payment!&lt;/font&gt;</string>
-  <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Couldn't check payment security. Connect to the internet and try again.&lt;/font&gt;"</string>
-  <string name="sc_allow_network_dialog_message">This app needs to connect to the internet to work normally.</string>
-  <string name="sc_allow_network_dialog_tiltle">"Can't use this feature"</string>
+  <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;支払いのセキュリティを確認できませんでした。インターネット接続を確認してもう一度お試しください。&lt;/font&gt;"</string>
+  <string name="sc_allow_network_dialog_message">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
+  <string name="sc_allow_network_dialog_tiltle">"この機能は使用できません"</string>
   <string name="scan_status_risk">"危険"</string>
   <string name="scan_status_safe">"安全"</string>
   <string name="scanning_bar_cache_title">"ゴミ箱をスキャン中…"</string>
@@ -1297,11 +1297,11 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="scanning_bar_system_title">"システムをスキャン中…"</string>
   <string name="search_result_text">"アプリが見つかりませんでした"</string>
   <string name="section_clear_acc_item_title">"%s. If there's still not enough storage, try using Cleaner."</string>
-  <string name="section_security_defend_item_title">Protect your data with App lock</string>
+  <string name="section_security_defend_item_title">"アプリロックでデータを保護する"</string>
   <string name="section_system_item_fixed">"修復済み"</string>
   <string name="section_title_clear_acc">"キャッシュを消去"</string>
   <string name="section_title_security_defend">"セキュリティ"</string>
-  <string name="section_title_system">System security</string>
+  <string name="section_title_system">"システムのセキュリティ"</string>
   <string name="security_app_lock">"アプリロック"</string>
   <string name="security_scan_card_clean_now">"スキャン"</string>
   <string name="security_scan_optimizing">"最適化しています…"</string>
@@ -1322,7 +1322,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="settings_category_overheat">Heating</string>
   <string name="settings_choice_no_notification">Off</string>
   <string name="settings_power_save_ontime_title">"スケジュール"</string>
-  <string name="settings_title_payment_security">Payment security settings</string>
+  <string name="settings_title_payment_security">"支払いのセキュリティ設定"</string>
   <string name="settings_title_permission">"パーミッションの設定"</string>
   <string name="share">"共有"</string>
   <string name="show_system_app">"システムアプリを表示"</string>

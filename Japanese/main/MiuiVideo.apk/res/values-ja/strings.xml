@@ -25,7 +25,7 @@
   <string name="airkan_tips">Tap to cast</string>
   <string name="airkan_video_playing">playing</string>
   <string name="airkan_video_playing_in">"Video is "</string>
-  <string name="alert_dialog_download_btn_hide">"隠す"</string>
+  <string name="alert_dialog_download_btn_hide">"非表示"</string>
   <string name="alert_dialog_download_dup_task">"既存のダウンロードが完了するのを待っています…"</string>
   <string name="alert_dialog_download_error">"ダウンロードできませんでした"</string>
   <string name="alert_dialog_download_install_task">"プラグインのインストールが完了するのを待っています…"</string>

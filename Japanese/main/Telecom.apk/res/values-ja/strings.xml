@@ -9,8 +9,8 @@
   <string name="dial_vt_fail_prompt">"現在のネットワークはVoLTEをサポートしていません。通常の音声通話に切り替えますか？"</string>
   <string name="duplicate_video_call_not_allowed">"通話は現在追加できません。"</string>
   <string name="enable_account_preference_title">"通話アカウント"</string>
-  <string name="handle_restricted">RESTRICTED</string>
-  <string name="incall_error_call_failed">"Couldn't make call."</string>
+  <string name="handle_restricted">"制限あり"</string>
+  <string name="incall_error_call_failed">"発信できません。"</string>
   <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">"ボイスメール番号がありません"</string>
   <string name="no_vm_number_msg">"SIMカードにボイスメールの番号がありません。"</string>
@@ -37,11 +37,11 @@
   <string name="test_account_0_label">Q Mobile</string>
   <string name="test_account_0_short_description">Account with Q Mobile</string>
   <string name="test_account_1_label">Market Wireless</string>
-  <string name="test_account_1_short_description">Account with Market Wireless</string>
+  <string name="test_account_1_short_description">"Market Wirelessのアカウント"</string>
   <string name="test_account_2_label">Sonoma Circles Talk Plus</string>
-  <string name="test_account_2_short_description">Talk to everyone in your Circles!</string>
+  <string name="test_account_2_short_description">"サークルのみんなと会話しましょう！"</string>
   <string name="test_account_3_label">Bay Voice Chat Pro</string>
-  <string name="test_account_3_short_description">Chat with Chat Network users</string>
+  <string name="test_account_3_short_description">"Chat Networkのユーザーとチャット"</string>
   <string name="unknown">"通知不可能"</string>
   <string name="userCallActivityLabel">"電話"</string>
   <string name="video_call_not_allowed_if_tty_enabled">"ビデオハングアウトを行うにはTTYモードを無効にしてください。"</string>

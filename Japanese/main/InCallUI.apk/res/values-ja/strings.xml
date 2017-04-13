@@ -92,7 +92,7 @@
   <string name="description_image_button_four">"4"</string>
   <string name="description_image_button_hangup">"電話を切る"</string>
   <string name="description_image_button_message_enter">"メッセージで返信"</string>
-  <string name="description_image_button_message_exit">"メッセージを隠す"</string>
+  <string name="description_image_button_message_exit">"メッセージを非表示"</string>
   <string name="description_image_button_nine">"9"</string>
   <string name="description_image_button_one">"1"</string>
   <string name="description_image_button_pound">"ポンド"</string>

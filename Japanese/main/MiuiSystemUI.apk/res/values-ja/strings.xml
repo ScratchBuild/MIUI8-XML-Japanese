@@ -68,7 +68,7 @@
   <string name="battery_low_title">充電をしてください</string>
   <string name="battery_profiles">バッテリープロファイルを使用する</string>
   <string name="block_notification_content_text">"%1$s の通知は再度表示されません。設定で変更できます。"</string>
-  <string name="block_notification_text">隠す</string>
+  <string name="block_notification_text">非表示</string>
   <string name="block_record_notification_more_text">Hiding notifications from %1$s &amp; %2$d apps.</string>
   <string name="block_record_notification_text">Hiding notifications from %1$s.</string>
   <string name="block_record_notification_title">Notifications hidden</string>
@@ -144,8 +144,8 @@
   <string name="description_direction_left">左にスライドして%sを行います。</string>
   <string name="description_direction_up">上にスライドして%sを行います。</string>
   <string name="description_target_search">検索</string>
-  <string name="disable_notification_summary">選択されたアプリからの通知は表示されません</string>
-  <string name="disable_notification_title">通知を隠す</string>
+  <string name="disable_notification_summary">選択したアプリからの通知を表示しない</string>
+  <string name="disable_notification_title">通知を非表示</string>
   <string name="dismount_storage">いいえ</string>
   <string name="divider_menu_close">閉じる</string>
   <string name="divider_menu_select_apps">選択</string>
@@ -156,7 +156,7 @@
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">"自動車モードです"</string>
   <string name="enable_power_save_mode">バッテリーセーバーをオンにします</string>
-  <string name="expanded_confirm_disable_notification">隠す</string>
+  <string name="expanded_confirm_disable_notification">非表示</string>
   <string name="expanded_notification_manager">通知の管理</string>
   <string name="ext_media_badremoval_notification_message">データ損失を避けるため、取り外し前にSDカードをアンマウントしてください。</string>
   <string name="ext_media_badremoval_notification_title">予期せずにSDカードが取り出されました。</string>

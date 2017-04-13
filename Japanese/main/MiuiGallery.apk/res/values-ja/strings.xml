@@ -213,7 +213,7 @@
   <string name="cloudfolder_contain_invalidate_char">"アルバム名は'%s'を含めることはできません"</string>
   <string name="cloudfolder_name_cannot_empty">"アルバム名"</string>
   <string name="cloudfolder_name_reserved">"アルバム名は予約済みです"</string>
-  <string name="collaps_people">"隠す"</string>
+  <string name="collaps_people">"非表示"</string>
   <string name="confirm">"確認"</string>
   <string name="confirm_download_video_message">Finish downloading this video to start watching. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
@@ -489,7 +489,7 @@ Take more photos of your friends!"</string>
   <string name="open_public_title">"共有"</string>
   <string name="operation_add_album">"アルバムに追加"</string>
   <string name="operation_add_picture">"アイテムを追加"</string>
-  <string name="operation_add_secret">"隠す"</string>
+  <string name="operation_add_secret">"非表示"</string>
   <string name="operation_delete">"削除"</string>
   <string name="operation_detail">"詳細"</string>
   <string name="operation_disable_auto_upload">"Mi Cloudとの同期をオフにする"</string>
@@ -501,7 +501,7 @@ Take more photos of your friends!"</string>
   <string name="operation_enter_delete_local">"デバイスからバックアップ済みの写真と動画を削除"</string>
   <string name="operation_failed">"操作を完了できませんでした"</string>
   <string name="operation_force_top">"ピン留めを設定"</string>
-  <string name="operation_hide">"隠す"</string>
+  <string name="operation_hide">"非表示"</string>
   <string name="operation_in_process">"処理中…"</string>
   <string name="operation_move_to_other_albums">"他のアルバムに移動"</string>
   <string name="operation_not_show_in_photos_tab">"Don't show in Photos"</string>

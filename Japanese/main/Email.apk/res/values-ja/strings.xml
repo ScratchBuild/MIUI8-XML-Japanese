@@ -489,7 +489,7 @@
   <string name="import_button_text">"インポート"</string>
   <string name="import_from_other_account">"他のアカウントからインポート"</string>
   <string name="info_actionbar_normal_detail">Promotion</string>
-  <string name="info_item_hide">"隠す"</string>
+  <string name="info_item_hide">"非表示"</string>
   <string name="info_switch_summary">Show promotions on top of the inbox</string>
   <string name="info_switch_title">Promotion</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>

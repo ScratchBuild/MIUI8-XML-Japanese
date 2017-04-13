@@ -13,7 +13,7 @@
   <string name="action_item_download_all_cloud">"すべての曲をダウンロード"</string>
   <string name="action_item_favorite">Favorite</string>
   <string name="action_item_follow">Follow</string>
-  <string name="action_item_hide">"隠す"</string>
+  <string name="action_item_hide">"非表示"</string>
   <string name="action_item_hifi">"ヘッドフォンとオーディオエフェクト"</string>
   <string name="action_item_multiple">"編集"</string>
   <string name="action_item_play_all">"すべて再生"</string>

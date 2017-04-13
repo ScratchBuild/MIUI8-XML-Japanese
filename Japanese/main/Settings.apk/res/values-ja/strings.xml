@@ -98,7 +98,7 @@
   <string name="adb_warning_message">USBデバッグは開発専用に設計されています。パソコンと端末の間でデータをコピーする場合や、アプリを通知なしで端末にインストールする場合、ログデータを読み取る場合に使用できます。</string>
   <string name="adb_warning_title">USBデバッグを許可しますか？</string>
   <string name="add_account_label">アカウントを追加</string>
-  <string name="add_auto_startup_application">自動スタートアプリを追加</string>
+  <string name="add_auto_startup_application">自動起動アプリを追加</string>
   <string name="add_device_admin">有効にする</string>
   <string name="add_device_admin_msg">デバイス管理者を有効にしますか？</string>
   <string name="add_fingerprint_done_msg">指紋を使ってこのデバイスのロックを解除できるようになりました。</string>
@@ -314,7 +314,7 @@
   <string name="auto_replace_summary">入力間違いを自動修正する</string>
   <string name="auto_restore_summary">アプリを再インストールする際に、バックアップした設定とデータを復元する</string>
   <string name="auto_restore_title">自動復元</string>
-  <string name="auto_startup_application_manage">自動スタート</string>
+  <string name="auto_startup_application_manage">自動起動</string>
   <string name="auto_startup_count">%d個のアプリが自動起動を許可されています</string>
   <string name="auto_upload_debug_log_summary">診断データには、ハードウェア、オペレーティングシステムやアプリケーションの使用状況に関する情報が含まれます。これらのデータはシステム内の問題を特定、分析するために使用され、個人を識別するために使用されることはありません。</string>
   <string name="auto_upload_debug_log_title">診断データを自動的に送信する</string>
@@ -878,7 +878,6 @@
   <string name="credentials_reset_warning_plural">パスワードが正しくありません。あと%1$d回失敗すると、認証情報ストレージが消去されます。</string>
   <string name="credentials_settings_not_available">認証情報はこのユーザーには表示されません</string>
   <string name="credentials_title">認証情報ストレージ</string>
-  <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">認証情報ストレージのパスワードを入力してください。</string>
   <string name="credentials_wrong_password">パスワードが正しくありません。</string>
   <string name="crypt_keeper_button_text">携帯端末を暗号化</string>
@@ -1935,7 +1934,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="main_netcheck_summary">Test connection for networking issues</string>
   <string name="main_running_process_description">使用中のメインプロセスです。</string>
   <string name="make_sure_cancel_update">アップデートを中止しますか？</string>
-  <string name="man_add_application">自動スタートアプリを追加</string>
+  <string name="man_add_application">自動起動アプリを追加</string>
   <string name="manage_device_admin">端末管理者</string>
   <string name="manage_device_admin_summary">端末管理者を表示または無効にする</string>
   <string name="manage_fingerprint_text">指紋の管理</string>
@@ -3360,7 +3359,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_awake_time">端末使用時間</string>
   <string name="status_bar_and_notification_bar">通知シェードとステータスバー</string>
   <string name="status_bar_app_des_separator">, </string>
-  <string name="status_bar_app_disable_notification">通知を隠す</string>
+  <string name="status_bar_app_disable_notification">通知を非表示</string>
   <string name="status_bar_app_enable_floating">フローティング通知</string>
   <string name="status_bar_app_enable_keyguard">ロック画面</string>
   <string name="status_bar_app_enable_message">バッジ</string>

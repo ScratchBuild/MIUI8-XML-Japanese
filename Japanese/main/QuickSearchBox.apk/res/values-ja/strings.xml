@@ -65,7 +65,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="permission_prompt_title">Want more?</string>
   <string name="pull_to_input">Pull down to reveal the search bar</string>
   <string name="recent_apps">"最近使ったアプリ"</string>
-  <string name="recent_apps_filter">"使用していないアプリを隠す"</string>
+  <string name="recent_apps_filter">"使用していないアプリを非表示"</string>
   <string name="recent_close_content">"この機能を今すぐ無効にしますか？
 これは [設定] &gt; [インストール済みアプリ] &gt; [検索] から変更できます"</string>
   <string name="recent_close_title">"機能を無効にする"</string>
@@ -84,7 +84,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="remove_from_history_failed">"検索履歴から項目を削除できませんでした。"</string>
   <string name="search_apps">"アプリを検索"</string>
   <string name="search_button">"検索"</string>
-  <string name="search_group_fold">"隠す"</string>
+  <string name="search_group_fold">"非表示"</string>
   <string name="search_group_unfold">"もっと"</string>
   <string name="search_history">"履歴"</string>
   <string name="search_in_app_store">"Mi App Storeを検索"</string>

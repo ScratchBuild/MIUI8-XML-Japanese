@@ -16,7 +16,7 @@
   <string name="bugreport_tool_log">"バグレポートを作成"</string>
   <string name="bugreport_tool_log_toast">"ログを%sに保存しました"</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">"バグレポートを作成中 (数分かかります)"</string>
-  <string name="close_feedback_main">"隠す"</string>
+  <string name="close_feedback_main">"非表示"</string>
   <string name="cta_cancel">"キャンセル"</string>
   <string name="cta_confirm">OK</string>
   <string name="cta_dialog_content">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
@@ -190,7 +190,7 @@
   <string name="module_data">"ストレージとデュアルアプリ"</string>
   <string name="module_desktop">"ホーム画面と設定"</string>
   <string name="module_finance">Finance &amp; Mi Wallet</string>
-  <string name="module_item_less">"隠す"</string>
+  <string name="module_item_less">"非表示"</string>
   <string name="module_item_more">More</string>
   <string name="module_medias">"メディア"</string>
   <string name="module_more">More</string>
