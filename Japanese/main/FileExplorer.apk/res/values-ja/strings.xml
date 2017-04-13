@@ -482,7 +482,7 @@
   <string name="prize_result_tip">"交換"</string>
   <string name="prize_result_tip2">Gems go to your treasury</string>
   <string name="promot_enctypt_password">"デバイスのロックを解除するためのパスワードを入力"</string>
-ｍ  <string name="qq_not_installed">"QQがインストールされていません"</string>
+  <string name="qq_not_installed">"QQがインストールされていません"</string>
   <string name="qq_platform">QQ</string>
   <string name="qzone_platform">Qzone</string>
   <string name="recent_show">"履歴"</string>
