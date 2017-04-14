@@ -376,7 +376,7 @@
   <string name="setting_holiday_reminder">Holiday reminder</string>
   <string name="setting_others">"その他"</string>
   <string name="setting_sms_import">导入短信事件</string>
-  <string name="setting_title_about">About</string>
+  <string name="setting_title_about">"このアプリについて"</string>
   <string name="setting_title_banner_display">"旧暦カレンダーの広告カードを表示します"</string>
   <string name="setting_title_debug">"ログのエクスポート"</string>
   <string name="setting_title_holiday_display">"祝日を表示する"</string>

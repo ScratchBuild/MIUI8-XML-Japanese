@@ -195,7 +195,7 @@
   <string name="contactSavedToast">"連絡先を保存しました。"</string>
   <string name="contact_delete_toast">"連絡先を削除しました"</string>
   <string name="contact_detail_action_item_calllog">"通話履歴"</string>
-  <string name="contact_detail_action_item_nocalllog">"通話履歴はありません"</string>
+  <string name="contact_detail_action_item_nocalllog">"通話履歴なし"</string>
   <string name="contact_detail_calllog_call_note_tips">"ノート"</string>
   <string name="contact_detail_calllog_call_record_tips">Recorded call</string>
   <string name="contact_detail_calllog_empty">"通話履歴はありません"</string>

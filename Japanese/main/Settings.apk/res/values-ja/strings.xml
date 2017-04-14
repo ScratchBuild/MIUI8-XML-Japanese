@@ -805,7 +805,7 @@
   <string name="clear_user_data_text">データを消去</string>
   <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_install_and_connect">結構です</string>
-  <string name="close_miui_optimization_title">MIUIの最適化をオフにします</string>
+  <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
   <string name="cmcc_hardware_version">ハードウェアバージョン</string>
   <string name="color_black">黒</string>
@@ -2082,7 +2082,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_allow_vibrate">バイブレーション</string>
   <string name="miui_data_usage_menu_metered">モバイルホットスポット</string>
   <string name="miui_enable_service_title">サービスはこれらのアクションを実行します:</string>
-  <string name="miui_experience_optimization">MIUIの最適化をオンにします</string>
+  <string name="miui_experience_optimization">MIUIの最適化をオンにする</string>
   <string name="miui_screen_config_title">ホーム画面の設定</string>
   <string name="mms_breathing_light_color_title">メッセージLEDの色</string>
   <string name="mms_breathing_light_freq_title">メッセージLEDを点滅させる</string>
@@ -2302,7 +2302,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="online_resource_entry">オンラインリソース</string>
   <string name="only_one_home_message">ホームの設定は別のホームアプリをインストールするまで表示されません。</string>
   <string name="onscreen_keyboard_settings_summary">画面キーボードを設定する</string>
-  <string name="open_miui_optimization_title">MIUIの最適化をオンにします</string>
+  <string name="open_miui_optimization_title">MIUIの最適化をオンにする</string>
   <string name="open_miui_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
   <string name="open_personal_assistant_dialog_btn_confirm">閉じる</string>
@@ -2313,8 +2313,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="open_wifi_connect_title">%1$sに接続</string>
   <string name="opening_paragraph_delete_profile_unknown_company">この仕事用プロファイルを管理するアプリ:</string>
   <string name="optimization_cancel">キャンセル</string>
-  <string name="optimization_close">電源オフと再起動</string>
-  <string name="optimization_open">電源オン</string>
+  <string name="optimization_close">今すぐ再起動</string>
+  <string name="optimization_open">今すぐ再起動</string>
   <string name="other_advanced_settings">その他の設定</string>
   <string name="other_device_info">その他</string>
   <string name="other_personal_settings">その他の設定</string>

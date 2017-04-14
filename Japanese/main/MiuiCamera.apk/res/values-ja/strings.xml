@@ -140,7 +140,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pref_camera_coloreffect_title">Filters</string>
   <string name="pref_camera_contrast_title">Contrast</string>
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
-  <string name="pref_camera_delay_capture_title">Timer</string>
+  <string name="pref_camera_delay_capture_title">"タイマー"</string>
   <string name="pref_camera_exposuretime_entry_auto">"自動"</string>
   <string name="pref_camera_face_info_watermark_title">Add age stamp in photo</string>
   <string name="pref_camera_facedetection_title">"顔検出"</string>

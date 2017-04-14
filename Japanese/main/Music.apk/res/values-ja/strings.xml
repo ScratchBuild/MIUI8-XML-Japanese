@@ -728,7 +728,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="set_now">"設定を開く"</string>
   <string name="set_ringtones_failed">"着信音を設定できませんでした"</string>
   <string name="set_ringtones_successful">"%sを着信音として設定しました"</string>
-  <string name="setting_feature_setting">Feature settings</string>
+  <string name="setting_feature_setting">"機能の設定"</string>
   <string name="settings">"設定"</string>
   <string name="settings_notification_text">"プレーヤーウィジェットを通知シェードに表示する"</string>
   <string name="settings_notification_title">"通知シェードのウィジェット"</string>

@@ -800,7 +800,7 @@
   <string name="memory_check_content_none">Empty</string>
   <string name="menu_item_about_content">Version %s</string>
   <string name="menu_item_about_summary">Version %s</string>
-  <string name="menu_item_about_title">About</string>
+  <string name="menu_item_about_title">"このアプリについて"</string>
   <string name="menu_item_app_details">"詳細"</string>
   <string name="menu_item_app_permissions_control">"パーミッションマネージャー"</string>
   <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
@@ -1079,7 +1079,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_settings_title">"設定"</string>
   <string name="power_settings_top">Top bar</string>
   <string name="power_wifi">Wi-Fi</string>
-  <string name="pref_about">About</string>
+  <string name="pref_about">"このアプリについて"</string>
   <string name="pref_about_traffic_title">"データ使用量の設定"</string>
   <string name="pref_add_traffic_pkg">Additionally purchased data</string>
   <string name="pref_adjust_data_usage">Carrier message template</string>
@@ -1096,7 +1096,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_category_extra_package_tile">Top-up package</string>
   <string name="pref_category_half_year_package_tile">Half-year data package</string>
   <string name="pref_category_title_lock_screen_memory_clean">Clean at lock screen</string>
-  <string name="pref_category_title_module_settings">Feature settings</string>
+  <string name="pref_category_title_module_settings">"機能の設定"</string>
   <string name="pref_category_title_other">"その他の設定"</string>
   <string name="pref_category_title_reference_settings">"その他の設定"</string>
   <string name="pref_category_title_securitycenter_settings">"全般"</string>
@@ -1104,8 +1104,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_category_title_virus_white_list">"例外"</string>
   <string name="pref_check_network_diagnostics">"Test device's internet connection"</string>
   <string name="pref_confirm_operator_setting">Make sure the info you entered is correct</string>
-  <string name="pref_connect_settings_enable_background">Allow background data</string>
-  <string name="pref_connect_settings_enable_background_hint">"Allow apps to use mobile data when you're not using them"</string>
+  <string name="pref_connect_settings_enable_background">"バックグラウンドデータを許可"</string>
+  <string name="pref_connect_settings_enable_background_hint">"ユーザーが使用していないときでもモバイデータの使用をアプリに許可する"</string>
   <string name="pref_connect_settings_exceed_limit">Restrict peak data usage</string>
   <string name="pref_connect_settings_exceed_limit_hint">Turn off data connection when peak data usage reaches limit</string>
   <string name="pref_content_virus_white_list_none">No items</string>
@@ -1117,7 +1117,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_daily_traffic">Peak data limit</string>
   <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
   <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of selected apps' data usage"</string>
-  <string name="pref_data_usage_not_set">Unknown data plan</string>
+  <string name="pref_data_usage_not_set">"不明なデータプラン"</string>
   <string name="pref_free_adjust">Set off-peak data usage</string>
   <string name="pref_free_traffic_exceed_limit">Notify me when data usage reaches limit</string>
   <string name="pref_free_traffic_limit_warn">Off-peak data usage warning</string>

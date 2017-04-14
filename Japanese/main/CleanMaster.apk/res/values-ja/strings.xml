@@ -335,9 +335,9 @@
   <string name="pref_title_clean_alert">Clean automatically</string>
   <string name="pref_title_cleanup_white_list">"例外"</string>
   <string name="pref_title_expand_cache_group">Show cached items</string>
-  <string name="pref_title_garbage_cleanup_check_size">Trash size limit</string>
+  <string name="pref_title_garbage_cleanup_check_size">"ゴミ箱のサイズ制限"</string>
   <string name="pref_title_garbage_cleanup_check_time">"スケジュール"</string>
-  <string name="pref_title_garbage_cleanup_size">Trash size limit</string>
+  <string name="pref_title_garbage_cleanup_size">"ゴミ箱のサイズ制限"</string>
   <string name="pref_title_manual_check_cleanup_db_update">"更新を確認"</string>
   <string name="pref_title_open_optimizer_cloud_scan">"ファイル名をアップロード"</string>
   <string name="pref_title_open_optimizer_memory_scan">"アプリのメモリをスキャン"</string>
@@ -471,7 +471,7 @@
   <string name="wechat_copying_video_dialog_title">Export to Gallery</string>
   <string name="wechat_copying_video_empty">No videos to export</string>
   <string name="wechat_copying_video_success">Exported successfully</string>
-  <string name="wechat_normal_files">Trash</string>
+  <string name="wechat_normal_files">"ゴミ箱"</string>
   <string name="white_list_ad_header">Obsolete files: %d</string>
   <string name="white_list_apk_header">Install packages: %d</string>
   <string name="white_list_cache_header">"キャッシュされたファイル: %d"</string>
