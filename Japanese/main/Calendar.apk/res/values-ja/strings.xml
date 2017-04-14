@@ -24,9 +24,9 @@
   <string name="ad_card_installed">"インストール済み"</string>
   <string name="ad_card_installing">"インストール中"</string>
   <string name="ad_card_network_error">"ネットワークに接続できません。しばらくしてからもう一度お試しください。"</string>
-  <string name="ad_card_open_app">马上打开</string>
+  <string name="ad_card_open_app">"今すぐ開く"</string>
   <string name="ad_card_spread">"広告"</string>
-  <string name="ad_card_try">立即体验</string>
+  <string name="ad_card_try">"今すぐ試す"</string>
   <string name="agenda_today">"今日: %1$s"</string>
   <string name="agenda_tomorrow">"明日: %1$s"</string>
   <string name="agenda_view">"予定リスト"</string>
@@ -388,11 +388,11 @@
   <string name="show_newer_events">"タップして%1$sより後の予定を表示"</string>
   <string name="show_older_events">"タップして%1$sより前の予定を表示"</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
-  <string name="subscribe_card">Subscribe now</string>
-  <string name="subscribe_card_success">Subscribed successfully! Check the details on the home page.</string>
-  <string name="subscribe_card_success_for_homepage">Subscribed to “%1$s” successfully</string>
+  <string name="subscribe_card">"今すぐ購読"</string>
+  <string name="subscribe_card_success">"正常に購読されました。詳細はホームページで確認してください。"</string>
+  <string name="subscribe_card_success_for_homepage">"「%1$s」の購読に成功しました"</string>
   <string name="subscribe_channel_bottom_hint">—— Xiaomiカレンダー ——</string>
-  <string name="subscribe_channel_click_hint">Subscription required</string>
+  <string name="subscribe_channel_click_hint">"購読が必要です"</string>
   <string name="subscribe_channel_footer_button">"購読の管理"</string>
   <string name="subscribe_channel_footer_desc">"登録した内容を表示、または購読を解除するための管理画面を開く"</string>
   <string name="subscribe_channel_footer_title">"購読済み"</string>
@@ -462,7 +462,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="view_event_organizer_label">"主催者:"</string>
   <string name="view_event_response_label">"参加しますか？"</string>
   <string name="weather_card_humidity_desc">湿度%1$s%%</string>
-  <string name="weather_card_no_data_hint">点击获取天气数据</string>
+  <string name="weather_card_no_data_hint">"タップして気象データを取得"</string>
   <string name="week_view_today_toast">"既に今週を表示しています"</string>
   <string name="weekly">"毎週 %s"</string>
   <string name="when_label">"日時"</string>

@@ -2184,7 +2184,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_mi_effect_summary">スピーカー利用時にMi Sound Enhancerを使用する</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
-  <string name="music_unsupport_effect_summary">"USB headsets aren't supported"</string>
+  <string name="music_unsupport_effect_summary">USBヘッドセットはサポートされていません</string>
   <string name="musicfx_title">サウンド効果</string>
   <string name="mvno_match_data">MVNO値</string>
   <string name="mvno_type">MVNOの種類</string>
@@ -4510,9 +4510,9 @@ PINが正しくない可能性があります。"</string>
   <string name="wrong_pin_code_pukked">SIM PINコードが無効です。お使いの端末をロック解除するには携帯通信会社にお問い合わせいただく必要があります。</string>
   <string name="xiaomi_account">Miアカウント</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xiaomi_cloud_service_description">Mi Cloud syncs your contacts and photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
-  <string name="xiaomi_cloud_service_disabled">Off</string>
-  <string name="xiaomi_cloud_service_unknown">Unknown</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloudは連絡先や写真の同期、アプリや設定のバックアップ、Find deviceを使用してお使いの端末を探す手助けをします。</string>
+  <string name="xiaomi_cloud_service_disabled">オフ</string>
+  <string name="xiaomi_cloud_service_unknown">不明</string>
   <string name="xiaomi_money_service">Mi Credit</string>
   <string name="xiaomi_router_available_notif_summary">タップして詳細を表示</string>
   <string name="xiaomi_router_available_notif_title">Mi WiFiルーターが利用可能</string>

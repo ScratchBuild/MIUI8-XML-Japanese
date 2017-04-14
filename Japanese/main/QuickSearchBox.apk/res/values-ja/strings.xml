@@ -73,7 +73,7 @@ To clear your Browser history, use the Browser's settings."</string>
 これは [設定] &gt; [インストール済みアプリ] &gt; [検索] から変更できます"</string>
   <string name="recent_delete_negative">"キャンセル"</string>
   <string name="recent_delete_positive">OK</string>
-  <string name="recent_delete_title">Hide apps</string>
+  <string name="recent_delete_title">"アプリを非表示にする"</string>
   <string name="recent_edit">"編集"</string>
   <string name="recent_edit_done">"完了"</string>
   <string name="recent_filter_functions">"機能を無効にしました"</string>

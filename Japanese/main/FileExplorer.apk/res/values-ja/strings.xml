@@ -98,7 +98,7 @@
   <string name="claim_video_success">"申し立てに成功しました"</string>
   <string name="claim_video_unlogin">"動画を申し立てるにはログイン"</string>
   <string name="clean_hint">"空き容量を増やすにはタップ"</string>
-  <string name="clear_record">Clear history</string>
+  <string name="clear_record">"履歴を消去"</string>
   <string name="click_login_str">"ログイン"</string>
   <string name="click_to_refresh">"更新するにはここをタップ"</string>
   <string name="click_to_switch_volume">"内部ストレージとSDカードを切り替えるにはタップ"</string>
@@ -534,7 +534,7 @@
   <string name="search_file_type_picture">Photo</string>
   <string name="search_file_type_video">Video</string>
   <string name="search_hint">"検索"</string>
-  <string name="search_history">Search history</string>
+  <string name="search_history">"検索履歴"</string>
   <string name="search_hot_sticker">Stickers; Download stickers</string>
   <string name="search_hot_video">Popular videos;Upload videos;Upload video;Short video;Short videos;Small video;Small videos</string>
   <string name="search_keyword">Tags</string>

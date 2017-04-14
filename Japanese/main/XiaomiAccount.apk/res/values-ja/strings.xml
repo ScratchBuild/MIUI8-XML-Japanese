@@ -28,9 +28,9 @@
   <string name="account_protection">"アカウントの保護"</string>
   <string name="account_protection_off">Off</string>
   <string name="account_protection_on">On</string>
-  <string name="account_secure_info_pref_title">Account info</string>
-  <string name="account_security">Account security</string>
-  <string name="account_security_info_pref_title">Security info</string>
+  <string name="account_secure_info_pref_title">"アカウント情報"</string>
+  <string name="account_security">"アカウントのセキュリティ"</string>
+  <string name="account_security_info_pref_title">"セキュリティ情報"</string>
   <string name="account_user_avatar">"プロフィール写真"</string>
   <string name="account_user_avatar_from_album">"写真を選択"</string>
   <string name="account_user_avatar_from_camera">"写真を撮影"</string>
@@ -42,7 +42,7 @@
   <string name="account_user_gender">"性別"</string>
   <string name="account_user_id">Mi Account ID</string>
   <string name="account_user_income">"収入"</string>
-  <string name="account_user_info">User info</string>
+  <string name="account_user_info">"ユーザー情報"</string>
   <string name="account_user_location">Location</string>
   <string name="account_user_location_title">Select current location</string>
   <string name="account_user_name">"名前"</string>
@@ -150,10 +150,10 @@
   <string name="mi_account_identity_title">Verify your identity</string>
   <string name="mipay">Pay</string>
   <string name="mipay_balance">Balance</string>
-  <string name="mipay_bank_card">Bank card</string>
-  <string name="mipay_identity">Identity</string>
-  <string name="mipay_others">Others</string>
-  <string name="mipay_transit_card">Transport card</string>
+  <string name="mipay_bank_card">"銀行カード"</string>
+  <string name="mipay_identity">"身分証"</string>
+  <string name="mipay_others">"その他"</string>
+  <string name="mipay_transit_card">"交通カード"</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
@@ -390,7 +390,7 @@
   <string name="verified_devices">Verified devices</string>
   <string name="verify_phone_prompt">Select phone number to verify</string>
   <string name="verify_phone_title">Verify phone number</string>
-  <string name="vip_account_settings">VIP Settings</string>
+  <string name="vip_account_settings">"VIP設定"</string>
   <string name="vip_more_info">More Vip Info</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

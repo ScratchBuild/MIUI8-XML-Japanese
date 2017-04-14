@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">%1$d個のファイルが待機中</item>
+        <item quantity="one">%1$d個のファイルが待機中</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%1$sから%2$d個のファイル</item>
+        <item quantity="one">%1$sから%2$d個のファイル</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">%1$sから%2$d個のファイルを受信中</item>
+        <item quantity="one">%1$sから%2$d個のファイルを受信中</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%1$sから%2$d枚の画像</item>
+        <item quantity="one">%1$sから%2$d枚の画像</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">%1$sから%2$d枚の画像を受信中</item>
+        <item quantity="one">%1$sから%2$d枚の画像を受信中</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%1$sから%2$d個の曲</item>
+        <item quantity="one">%1$sから%2$d個の曲</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">%1$sから%2$d個の曲を受信中</item>
+        <item quantity="one">%1$sから%2$d個の曲を受信中</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%1$sから%2$d個の動画</item>
+        <item quantity="one">%1$sから%2$d個の動画</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">%1$sから%2$d個の動画を受信中</item>
+        <item quantity="one">%1$sから%2$d個の動画を受信中</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%1$sから%2$d個のアプリ</item>
+        <item quantity="one">%1$sから%2$d個のアプリ</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">%1$sから%2$d個のアプリを受信中</item>
+        <item quantity="one">%1$sから%2$d個のアプリを受信中</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">%1$s個のファイルを受信中…</item>
+        <item quantity="one">%1$s個のファイルを受信中…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$d個のファイルが転送されていません</item>
+        <item quantity="one">%1$d個のファイルが転送されていません</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">%1$sからファイルを受信しました</item>
+        <item quantity="one">%1$sからファイルを受信しました</item>
+    </plurals>
+</resources>

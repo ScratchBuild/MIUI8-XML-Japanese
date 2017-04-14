@@ -116,7 +116,7 @@
   <string name="rename">"名前を変更"</string>
   <string name="rename_dialog_title">Rename recording</string>
   <string name="rename_duplicate">Another recording with the same name already exists.</string>
-  <string name="rename_fail_tip">"Couldn't rename. The item with this name already exists."</string>
+  <string name="rename_fail_tip">"名前を変更できません、この名前のファイルは既に存在します。"</string>
   <string name="rename_no_more_tip">"二度と表示しない"</string>
   <string name="retry">"再試行"</string>
   <string name="runtime_permission_ungranted">"Can't use Recorder due to ungranted permissions"</string>

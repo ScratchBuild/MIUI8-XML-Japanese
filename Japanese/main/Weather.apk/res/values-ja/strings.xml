@@ -2,8 +2,8 @@
 <resources>
   <string name="act_find_city_hint">"都市名を入力"</string>
   <string name="act_find_city_hot_attractions_title">Popular sites</string>
-  <string name="act_find_city_hot_city_title">Popular cities</string>
-  <string name="act_set_city_find_side">Locating</string>
+  <string name="act_find_city_hot_city_title">"人気の都市"</string>
+  <string name="act_set_city_find_side">"現在地を取得中"</string>
   <string name="act_set_city_find_side_error">"端末の現在地を取得できません"</string>
   <string name="act_weather_find_city_added">"追加しました"</string>
   <string name="act_weather_find_city_click_retry">"再試行"</string>
