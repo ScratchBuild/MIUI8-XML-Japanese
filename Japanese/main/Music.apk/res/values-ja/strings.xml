@@ -106,7 +106,7 @@
   <string name="can_not_find_resource">"リソースが見つかりません"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_running_download">"キャンセル"</string>
-  <string name="channel_list_fragment_title">Radio</string>
+  <string name="channel_list_fragment_title">"ラジオ"</string>
   <string name="chinese_female">"女性アーティスト (中国)"</string>
   <string name="chinese_group">"バンド (中国)"</string>
   <string name="chinese_male">"男性アーティスト (中国)"</string>
@@ -202,8 +202,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="disable_auto_payment_fail_message">"Couldn't turn off automatic renewal"</string>
   <string name="disable_auto_payment_success">Turned off</string>
   <string name="disable_auto_payment_success_message">"Turned off automatic renewal. After your current subscription expires, you'll have to subscribe again to download songs."</string>
-  <string name="disallow_add_to_fm">"Can't add songs to FM radio"</string>
-  <string name="disallow_add_to_personal_radio">"Can't add songs to Personal radio"</string>
+  <string name="disallow_add_to_fm">"FMラジオに曲を追加できません"</string>
+  <string name="disallow_add_to_personal_radio">"パーソナルラジオに曲を追加できません"</string>
   <string name="do_not_remind_again">"二度と表示しない"</string>
   <string name="doc_filter">Docs</string>
   <string name="done">"完了"</string>
@@ -236,10 +236,10 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_fail_to_fetch_info">"ダウンロードできませんでした、もう一度お試しください"</string>
   <string name="download_filesize_unknown">"不明"</string>
   <string name="download_in_process">"ダウンロード中"</string>
-  <string name="download_info_start_deleted_tasks">Remove downloads</string>
+  <string name="download_info_start_deleted_tasks">"ダウンロードを削除"</string>
   <string name="download_list_get_free_vip">Xunlei trial</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei download acceleration is on</string>
-  <string name="download_list_get_hightspeed_flow_pay_ok">Payment complete</string>
+  <string name="download_list_get_hightspeed_flow_pay_ok">"支払い完了"</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei trial session created</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Enjoy faster download speeds powered by Xunlei</string>
   <string name="download_manage">"ダウンロード"</string>
@@ -354,7 +354,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="fragment_title_artist">"アーティスト"</string>
   <string name="fragment_title_artist_album">"アルバム"</string>
   <string name="fragment_title_bill">"プレイリスト"</string>
-  <string name="fragment_title_channel">Radio</string>
+  <string name="fragment_title_channel">"ラジオ"</string>
   <string name="fragment_title_personal">Personal</string>
   <string name="fragment_title_recommend">Featured</string>
   <string name="garbage_cleanup">"クリーナー"</string>
@@ -521,14 +521,14 @@ is mainly provided by Ultimate Inc."</string>
   <string name="my_music_empty">"プレイリストは空です。"</string>
   <string name="my_music_empty_goto_online">"曲が見つかりませんでした"</string>
   <string name="my_playlist">"プレイリスト"</string>
-  <string name="name_online_personal_radio">Radio</string>
+  <string name="name_online_personal_radio">"ラジオ"</string>
   <string name="nav_local_all">"すべて"</string>
   <string name="nav_local_artist">Favorite artists</string>
   <string name="nav_local_favorite">"お気に入り"</string>
   <string name="nav_local_song">"ダウンロード済み"</string>
   <string name="nav_online_artist">"アーティスト"</string>
   <string name="nav_online_billboard">"チャート"</string>
-  <string name="nav_online_fm">Radio</string>
+  <string name="nav_online_fm">"ラジオ"</string>
   <string name="nav_online_playlist">"プレイリスト"</string>
   <string name="network_error_and_retry">"接続できませんでした、再試行するにはタップ"</string>
   <string name="network_failure">"接続を確認してもう一度お試しください。"</string>
@@ -823,7 +823,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="time_to_upgrade">Update Mi Music</string>
   <string name="title_online_artist">Trending artists</string>
   <string name="title_online_billboard">"チャート"</string>
-  <string name="title_online_fm">Radio</string>
+  <string name="title_online_fm">"ラジオ"</string>
   <string name="title_online_recommend">Featured playlists</string>
   <string name="title_online_release">New albums</string>
   <string name="title_online_song">Popular songs</string>

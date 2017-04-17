@@ -53,8 +53,8 @@
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
   <string name="birthday">"誕生日"</string>
-  <string name="bmp_quality_mode">Improve video quality</string>
-  <string name="bmp_quality_mode_desc">"Improve video's picture quality"</string>
+  <string name="bmp_quality_mode">"動画品質を改善"</string>
+  <string name="bmp_quality_mode_desc">"動画の画質を改善する"</string>
   <string name="buffering">"バッファリング中…"</string>
   <string name="buffering_video_netplay_label_v5">"バッファリング中…"</string>
   <string name="buy_vip">buy vip</string>
@@ -122,8 +122,8 @@
   <string name="di_count_ji">Ep. %d</string>
   <string name="dianyingwang">M1905</string>
   <string name="disk_volume">"リムーバブルストレージ"</string>
-  <string name="dlna_list_name">DLNA device</string>
-  <string name="dlna_name">Shared device</string>
+  <string name="dlna_list_name">"DLNAデバイス"</string>
+  <string name="dlna_name">"共有済みデバイス"</string>
   <string name="do_not_buy_vip">do not buy vip</string>
   <string name="douban_score">Score</string>
   <string name="download">"ダウンロード"</string>
@@ -160,7 +160,7 @@
   <string name="error_empty_title">"エラーが発生しました。"</string>
   <string name="expire_time">expire time</string>
   <string name="expired_buy_vip">vip has already expired</string>
-  <string name="favorite">Favorite</string>
+  <string name="favorite">"お気に入り"</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">"ファイルエラー"</string>
   <string name="file_not_exist">"ファイルが存在しません"</string>

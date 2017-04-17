@@ -149,7 +149,7 @@
   <string name="logout_failed">"ログアウトできません"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
   <string name="mipay">Pay</string>
-  <string name="mipay_balance">Balance</string>
+  <string name="mipay_balance">"残高"</string>
   <string name="mipay_bank_card">"銀行カード"</string>
   <string name="mipay_identity">"身分証"</string>
   <string name="mipay_others">"その他"</string>

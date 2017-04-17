@@ -113,11 +113,11 @@
   <string name="miui_summary_slogan">"  Simplify your life  "</string>
   <string name="miui_summary_updating">"  更新中…  "</string>
   <string name="monthly_build">Monthly</string>
-  <string name="my_best_update">Best update</string>
+  <string name="my_best_update">"最高の更新"</string>
   <string name="my_expect_update">Expectations</string>
-  <string name="my_rank">"Update status: "</string>
+  <string name="my_rank">"更新の状態: "</string>
   <string name="my_update_feel">My feedback</string>
-  <string name="my_worst_update">Worst update</string>
+  <string name="my_worst_update">"最悪の更新"</string>
   <string name="network_error">"ネットワークエラーが発生しました"</string>
   <string name="new_updates_found_notification_title">"更新が利用可能"</string>
   <string name="next">"次へ"</string>

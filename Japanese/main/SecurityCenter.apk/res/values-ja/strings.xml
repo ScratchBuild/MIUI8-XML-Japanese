@@ -55,10 +55,10 @@
   <string name="activity_title_white_list">"例外"</string>
   <string name="ad_btn_default_text">"詳細"</string>
   <string name="adb_install_no_network">"ネットワークに接続してもう一度お試しください"</string>
-  <string name="adb_install_open">Allowing…</string>
-  <string name="adb_install_open_error">"Couldn't allow, check your network connection"</string>
-  <string name="adb_install_reject_notiy">"Didn't allow installing %s via USB"</string>
-  <string name="adb_install_reject_notiy_desc">You can allow installing via USB in Developer options</string>
+  <string name="adb_install_open">"許可しています…"</string>
+  <string name="adb_install_open_error">"許可できませんでした、ネットワーク接続を確認してください"</string>
+  <string name="adb_install_reject_notiy">"%sをUSB経由でインストールできませんでした"</string>
+  <string name="adb_install_reject_notiy_desc">"開発者向けオプションからUSB経由のインストールを許可することができます"</string>
   <string name="adb_login_xiaomi_account">"初めにMi Accountにログイン"</string>
   <string name="add_game_notification_summary">Tap to launch &amp; boost speed</string>
   <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
@@ -75,7 +75,7 @@
   <string name="after_the_lock_screen">"App is locked together with the screen, you can change this in App lock's settings."</string>
   <string name="antivirus_choose_engine_dialog_title">Choose definitions</string>
   <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
-  <string name="antivirus_choose_engine_settings">Virus definition settings</string>
+  <string name="antivirus_choose_engine_settings">"ウイルス定義の設定"</string>
   <string name="antivirus_choose_engine_title">Definitions</string>
   <string name="antivirus_choose_engine_update_disable_toast">"Can't switch definitions while update is in progress"</string>
   <string name="antivirus_monitor_btn_text_clean_risk">"危険なアプリを削除"</string>
@@ -180,9 +180,9 @@
   <string name="app_not_installed_toast">"アプリはお使いのデバイスにインストールされていません。"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">"Wi-Fi"</string>
-  <string name="apps_item_sign_dialog_content">"%s's signature is different from the version in App Store. Delete this app and install the official version? Note: installing an app with a conflicting signature may lead to the loss of app data."</string>
-  <string name="apps_item_sign_dialog_title">Install official app</string>
-  <string name="apps_item_sign_install_button_text">Replace</string>
+  <string name="apps_item_sign_dialog_content">"%sの署名がアプリストアのバージョンと異なります。このアプリを削除して公式版をインストールしますか？ 注意: 署名が競合するアプリをインストールすると、アプリデータが失われる可能性があります。"</string>
+  <string name="apps_item_sign_dialog_title">"公式アプリをインストール"</string>
+  <string name="apps_item_sign_install_button_text">"置き換え"</string>
   <string name="apps_item_sms_reset_button_text">"デフォルトを復元"</string>
   <string name="apps_item_sms_title">Default messaging settings</string>
   <string name="apps_item_summary_sms">%s has access to your messages, it may cause security problems</string>
@@ -385,7 +385,7 @@
   <string name="card_main_datasave_summary">Compress data to save up to 20%</string>
   <string name="card_main_datasave_title">Data saver</string>
   <string name="card_main_deepclean_action">"消去"</string>
-  <string name="card_main_deepclean_summary">Delete unnecessary files</string>
+  <string name="card_main_deepclean_summary">"不要なファイルを削除する"</string>
   <string name="card_main_deepclean_title">Deep clean</string>
   <string name="card_main_deepclean_wechat_action">"消去"</string>
   <string name="card_main_deepclean_wechat_summary">"空き領域を確保するためWeChatのキャッシュを消去する"</string>

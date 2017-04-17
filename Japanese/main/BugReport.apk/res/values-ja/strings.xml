@@ -106,7 +106,6 @@
   <string name="feedback_tracking">"問題の追跡"</string>
   <string name="feedback_version_label">"バージョン"</string>
   <string name="feesback_list">Reports</string>
-  <string name="first_position">2#</string>
   <string name="floor">%1$s#</string>
   <string name="from">from %1$s</string>
   <string name="goon_feedback_main">"続行"</string>
@@ -236,13 +235,12 @@
   <string name="reply">"返信"</string>
   <string name="reply_failed">"返信できませんでした"</string>
   <string name="reply_successful">"返信に成功しました"</string>
-  <string name="report_miui">Report bug</string>
+  <string name="report_miui">"バグを報告"</string>
   <string name="request_empty_data">"データなし"</string>
   <string name="save_pic">"保存"</string>
   <string name="save_pic_fail">"画像を保存できません、SDカードを確認してください"</string>
-  <string name="save_pic_success">Saved image to %s</string>
+  <string name="save_pic_success">"%sに画像を保存しました"</string>
   <string name="screen_lock">"画面ロック"</string>
-  <string name="second_position">3#</string>
   <string name="section_description">"説明"</string>
   <string name="section_err_type">"バグの種類"</string>
   <string name="section_screenshot">"スクリーンショット"</string>
@@ -285,7 +283,6 @@
   <string name="toast_report_sent_succeed">"レポートが送信されました"</string>
   <string name="toast_title_required">"問題の説明を記述してください"</string>
   <string name="toast_third_packagename_required">"アプリ名を入力してください"</string>
-  <string name="topic_author">1#</string>
   <string name="try_again">"再試行"</string>
   <string name="upload_log_failed">"ログを送信できませんでした"</string>
   <string name="warning_field_empty">"%1$sを入力してください"</string>

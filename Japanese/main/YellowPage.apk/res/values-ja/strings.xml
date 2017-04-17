@@ -24,10 +24,10 @@
   <string name="app_recommendation_install">インストール</string>
   <string name="average_price">Average %d RMB</string>
   <string name="back">戻る</string>
-  <string name="balance_inquiry_send_sms_fail_hint">"Couldn't get balance"</string>
-  <string name="balance_inquiry_send_sms_hint">An SMS will be sent to your carrier to check your balance.</string>
-  <string name="balance_inquiry_send_sms_summmary">Check balance</string>
-  <string name="balance_inquiry_title">Balance inquiry</string>
+  <string name="balance_inquiry_send_sms_fail_hint">"残高を取得できませんでした"</string>
+  <string name="balance_inquiry_send_sms_hint">"残高を確認するためSMSがお使いの携帯通信会社に送信されます。"</string>
+  <string name="balance_inquiry_send_sms_summmary">"残高を確認"</string>
+  <string name="balance_inquiry_title">"残高照会"</string>
   <string name="call">Call</string>
   <string name="callNoAnswerTimeFormat">Rang %s times</string>
   <string name="callrecordview_item_newcontact">新しい連絡先</string>

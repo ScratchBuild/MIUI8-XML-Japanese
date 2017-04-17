@@ -41,7 +41,7 @@
   <string name="full_screen_exit">"全画面表示を終了する"</string>
   <string name="google_base_app_install_choice">"\"%s\"が正常に動作するにはGoogleサービスフレームワークが必要です、今すぐインストールしますか？"</string>
   <string name="hide_mode_desc">When an app runs in the background, its activities will be monitored to reduce battery usage.</string>
-  <string name="hide_mode_ultimate_desc">Ultimate mode is on. The apps in the background will be frozen. Turn off Battery saver to exit Ultimate mode.</string>
+  <string name="hide_mode_ultimate_desc">"Ultimate modeがオンになっています。バックグラウンドのアプリは凍結されます。Ultimate modeを終了するにバッテリーセーバーをオフにしてください。"</string>
   <string name="high">"パフォーマンス"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
   <string name="location_disable_description">"継続的なアクセスが制限されている間は、バックグラウンドのアプリは短時間だけ位置情報サービスにアクセスできます"</string>

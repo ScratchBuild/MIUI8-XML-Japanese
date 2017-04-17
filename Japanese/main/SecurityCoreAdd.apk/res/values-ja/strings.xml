@@ -11,11 +11,11 @@ this feature will be added to Second space automatically."</string>
   <string name="air_space_deleted">"Work spaceを削除しました"</string>
   <string name="air_space_exit">"spaceを終了"</string>
   <string name="air_space_setting">"Spaceの設定"</string>
-  <string name="airspace_users_full">"Couldn't create more Work space"</string>
+  <string name="airspace_users_full">"これ以上Work spaceを作成できません"</string>
   <string name="appData">"インストール済みアプリ"</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">"戻る"</string>
-  <string name="cancelClosePassword">"Don't turn off"</string>
+  <string name="cancelClosePassword">"オフにしないでください"</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="changePassword">"パスワードを変更"</string>
   <string name="chooseDataTransfer">What should be done with Second space data?</string>
@@ -41,7 +41,7 @@ this feature will be added to Second space automatically."</string>
   <string name="confirm_main_space_password">"First spaceのパスワードを確認"</string>
   <string name="confirm_restore">"表示しない"</string>
   <string name="contactData">"連絡先"</string>
-  <string name="contact_sub_titile_text">Messaging data will be shared between the two spaces</string>
+  <string name="contact_sub_titile_text">"メッセージのデータは二つのスペースで共有されます"</string>
   <string name="contact_titile_text">"Show private messages in Second space
 to be able to view them anytime"</string>
   <string name="contact_us">"お問い合わせ"</string>
@@ -149,7 +149,7 @@ You can also download them separately."</string>
 Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="privacyContactsSummary">Show private items in Second space</string>
   <string name="privacyContactsTitle">Private messages and contacts</string>
-  <string name="private_sms_show_sub_title">Messaging data will be shared between the two spaces​</string>
+  <string name="private_sms_show_sub_title">"メッセージのデータは二つのスペースで共有されます"</string>
   <string name="private_sms_show_title">Private messages are shown in Second space</string>
   <string name="private_space_setting">"管理"</string>
   <string name="public_app">Both spaces</string>
