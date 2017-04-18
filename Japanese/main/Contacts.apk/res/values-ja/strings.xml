@@ -1175,8 +1175,8 @@ To add a contact to your list of favorites:
   <string name="telecom_fraud_insurance">Telecom fraud insurance</string>
   <string name="telecom_fraud_insurance_description">10,000 CNY insurance | Exclusive Xiaomi offer | 9.9 CNY per year</string>
   <string name="titleJoinContactDataWith">"連絡先の統合"</string>
-  <string name="title_other_devices">Other available devices</string>
-  <string name="title_paired_devices">Paired devices</string>
+  <string name="title_other_devices">"その他の利用可能なデバイス"</string>
+  <string name="title_paired_devices">"ペア設定したデバイス"</string>
   <string name="toast_call_detail_error">"詳細情報がありません"</string>
   <string name="toast_copy_done">"完了"</string>
   <string name="toast_copying">"コピー中…"</string>
@@ -1221,7 +1221,7 @@ To add a contact to your list of favorites:
   <string name="vcard_import_will_start_message">まもなく %s がインポートされます。</string>
   <string name="vcard_info_send_error">"vCardエラーのため送信できませんでした"</string>
   <string name="vcard_unknown_filename">contact</string>
-  <string name="video_call">Video call</string>
+  <string name="video_call">"ビデオ通話"</string>
   <string name="video_chat">"ビデオチャット"</string>
   <string name="viewContactDesription">"連絡先を表示"</string>
   <string name="viewContactTitle">"連絡先情報"</string>
@@ -1261,7 +1261,7 @@ To add a contact to your list of favorites:
   <string name="yellowpage_navigation_balance_refresh_succeed">Balance and mobile data have been verified</string>
   <string name="yellowpage_navigation_clear_search_history">"履歴を消去"</string>
   <string name="yellowpage_navigation_more_items">"もっと"</string>
-  <string name="yellowpage_navigation_more_items_title">More services</string>
+  <string name="yellowpage_navigation_more_items_title">"その他のサービス"</string>
   <string name="yellowpage_navigation_no_content">"何も見つかりませんでした"</string>
   <string name="yellowpage_navigation_search_city_name_hint">"都市"</string>
   <string name="yellowpage_navigation_search_history">"履歴"</string>

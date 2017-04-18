@@ -165,7 +165,7 @@
   <string name="pm_root_fail_service_busy">Wait until your device has finished updating and try again.</string>
   <string name="pm_root_fail_title">"Couldn't get root access"</string>
   <string name="pm_root_notification_download_title">"ダウンロード中"</string>
-  <string name="pm_root_success_msg">Restart your device to complete the last step.</string>
+  <string name="pm_root_success_msg">"最後の手順を完了するため、端末を再起動します。"</string>
   <string name="pm_root_success_title">Root access enabled</string>
   <string name="previous">"前へ"</string>
   <string name="progress_title_checking">"更新を確認中…"</string>
@@ -209,7 +209,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="sogou_uninstall_negative_button">Update Sogou</string>
   <string name="sogou_uninstall_positive_button">Switch keyboards</string>
   <string name="sogou_uninstall_title">Keyboard compatibility</string>
-  <string name="space_not_enough_msg">"Your device is too full to download this update. Clean up your device's storage and try again."</string>
+  <string name="space_not_enough_msg">"お使いの端末には更新をダウンロードするための空き領域がありません。端末のストレージを整理してもう一度お試しください。"</string>
   <string name="space_not_enough_title">"十分な空き領域がありません"</string>
   <string name="stable_build">Stable</string>
   <string name="submit">"送信"</string>

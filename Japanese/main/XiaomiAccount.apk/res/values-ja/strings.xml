@@ -49,7 +49,7 @@
   <string name="account_user_name_dialog_title">"ユーザー名を入力"</string>
   <string name="account_user_other_info">"その他の情報"</string>
   <string name="account_user_phone">"電話"</string>
-  <string name="account_user_recovery_phone">"復元用の電話"</string>
+  <string name="account_user_recovery_phone">"予備の電話"</string>
   <string name="account_user_region">Region</string>
   <string name="account_user_using_facebook_avatar">"Facebookのプロフィール写真を使用"</string>
   <string name="account_user_using_qq_avatar">"QQのプロフィール写真を使用"</string>
@@ -66,7 +66,7 @@
   <string name="bind_settings">"アカウント"</string>
   <string name="bind_sina_weibo">"Sina Weiboアカウントに接続"</string>
   <string name="bind_sns_description">"%sでログイン"</string>
-  <string name="bind_weibo_description">Add your friends from Sina Weibo</string>
+  <string name="bind_weibo_description">"Sina Weiboから友だちを追加"</string>
   <string name="binded">"接続済み"</string>
   <string name="binded_description" formatted="false">%s has been connected to your Mi Account. Your profile has been updated with info from your %s Account.</string>
   <string name="button_unbind">"切断"</string>
@@ -83,7 +83,7 @@
   <string name="confirm_delete_device_message">"After deleting this device, you'll have to verify your phone number next time you sign in to your Mi Account on it."</string>
   <string name="confirm_phone_number_dialog_message">Verification code will be sent to: %s.</string>
   <string name="confirm_phone_number_dialog_title">"電話番号の確認"</string>
-  <string name="confirm_unbind">Disconnect this account?</string>
+  <string name="confirm_unbind">"このアカウントを切断しますか？"</string>
   <string name="continue_action">"続行"</string>
   <string name="cta_declaration_agree_and_continue">"同意"</string>
   <string name="cta_declaration_exit">"終了"</string>
@@ -345,12 +345,12 @@
   <string name="resend_email_success">"メールを再送しました"</string>
   <string name="restart_action">Start over</string>
   <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
-  <string name="restart_phone_bind_title">Change recovery phone</string>
+  <string name="restart_phone_bind_title">"予備の電話を変更"</string>
   <string name="scan_barcode_title">"Mi Accountにログインするには、QRコードをスキャン"</string>
-  <string name="search_account_security">Account security</string>
-  <string name="search_account_security_desc">Account Settings</string>
+  <string name="search_account_security">"アカウントのセキュリティ"</string>
+  <string name="search_account_security_desc">"アカウントの設定"</string>
   <string name="search_account_security_key_words">Change Phone,Change Email,Account protection,Accounts,Sina Weibo,QQ,Authorization,Devices</string>
-  <string name="search_account_security_path">Settings/Mi Account/Account settings</string>
+  <string name="search_account_security_path">"設定/Mi Account/アカウントの設定"</string>
   <string name="search_app_name">Mi Account</string>
   <string name="search_logout_account">"ログアウト"</string>
   <string name="search_logout_account_desc">Mi Account</string>

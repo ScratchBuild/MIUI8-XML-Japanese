@@ -63,10 +63,6 @@
   <string name="launch">"開く"</string>
   <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
   <string name="lb_control_display_rewind_multiplier">%1$dX</string>
-  <string name="lb_guidedactions_item_disabled_chevron_alpha">0.5</string>
-  <string name="lb_guidedactions_item_enabled_chevron_alpha">1.0</string>
-  <string name="lb_guidedactions_item_unselected_description_text_alpha">0.5</string>
-  <string name="lb_guidedactions_item_unselected_text_alpha">1.0</string>
   <string name="lb_playback_controls_closed_captioning_disable">"クローズドキャプションを無効にする"</string>
   <string name="lb_playback_controls_closed_captioning_enable">"クローズドキャプションを有効にする"</string>
   <string name="lb_playback_controls_fast_forward">"早送り"</string>

@@ -47,7 +47,7 @@
   <string name="receiver_interrupt_summary">"ファイルの受信中はWi-Fiをオフにしないでください"</string>
   <string name="receiver_interrupt_summary_v21">"ファイルの受信中はWi-Fiホットスポットをオフにしないでください"</string>
   <string name="receiver_notification_turn_on">"受信者はMi Dropをオンにする必要があります"</string>
-  <string name="receiver_notification_turn_on_help">Turn on to find devices and send files.</string>
+  <string name="receiver_notification_turn_on_help">"Find Deviceとファイルの送信をオンにする。"</string>
   <string name="receiver_reject">"拒否する"</string>
   <string name="receiver_succeed_ok">OK</string>
   <string name="receiver_succeed_view">"ファイルを表示"</string>
@@ -75,5 +75,5 @@
   <string name="sender_wait_queue">"待機中"</string>
   <string name="transfer_interrupt">"転送が中断されました"</string>
   <string name="transmission_click_send">send</string>
-  <string name="transmission_connect">"Couldn't find recipient?"</string>
+  <string name="transmission_connect">"受信者が見つかりませんか？"</string>
 </resources>

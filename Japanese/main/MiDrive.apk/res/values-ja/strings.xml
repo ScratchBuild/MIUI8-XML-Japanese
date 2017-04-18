@@ -3,8 +3,8 @@
   <string name="account_logout">Exit account “%1$s”</string>
   <string name="action_mode_deselect_all">"すべて選択を解除"</string>
   <string name="action_mode_select_all">"すべて選択"</string>
-  <string name="adding_download_tasks">Adding download tasks#8230;</string>
-  <string name="adding_upload_tasks">Adding upload tasks#8230;</string>
+  <string name="adding_download_tasks">"ダウンロードのタスクを追加中#8230;"</string>
+  <string name="adding_upload_tasks">"アップロードのタスクを追加中#8230;"</string>
   <string name="agree">"許可"</string>
   <string name="app_name">Mi Drive</string>
   <string name="background">"非表示"</string>
@@ -33,7 +33,7 @@
   <string name="empty_file_download">"空のファイルはサポートされていません。"</string>
   <string name="empty_file_upload">"空のファイルはサポートされていません。"</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
-  <string name="file_already_downlaoded">File saved to \"%1$s\"</string>
+  <string name="file_already_downlaoded">\"%1$s\"にファイルを保存しました</string>
   <string name="file_change_btn_download">"ファイルをダウンロード"</string>
   <string name="file_change_btn_upload">"ファイルをアップロード"</string>
   <string name="file_loading">"読み込み中…"</string>

@@ -5,11 +5,11 @@
   <string name="alert_message_delete_record_title">"録音を削除しますか？"</string>
   <string name="app_name">"レコーダー"</string>
   <string name="back">"戻る"</string>
-  <string name="btn_clear_records">Delete recordings (%d items)</string>
+  <string name="btn_clear_records">"Delete recordings (%d個のアイテム)"</string>
   <string name="button_queue_for_wifi">Wait</string>
   <string name="button_start_now">"ダウンロード"</string>
   <string name="call_record">Recorded calls</string>
-  <string name="choose_call_records_count">%d items</string>
+  <string name="choose_call_records_count">"%d個のアイテム"</string>
   <string name="clear_records">Delete synced recordings</string>
   <string name="cloud_record_open">Sync recordings</string>
   <string name="cloud_record_tip">Sync recordings with Mi Cloud.</string>

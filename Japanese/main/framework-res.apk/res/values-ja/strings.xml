@@ -624,8 +624,6 @@ To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="mmiComplete">MMIが完了しました。</string>
   <string name="mmiError">接続に問題があるか、MMIコードが正しくありません。</string>
   <string name="mmiFdnError">発信番号制限で指定された番号に対してのみ操作できます。</string>
-  <string name="mobile_provisioning_apn"/>
-  <string name="mobile_provisioning_url"/>
   <string name="month_day_year" formatted="false">%Y年%-m月%-e日</string>
   <string name="more_item_label">その他</string>
   <string name="muted_by">%1$sによりミュートになっています</string>

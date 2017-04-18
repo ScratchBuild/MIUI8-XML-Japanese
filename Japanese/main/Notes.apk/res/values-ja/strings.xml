@@ -61,7 +61,7 @@
   <string name="menu_folders">"フォルダ"</string>
   <string name="menu_mark_privacy">Hide</string>
   <string name="menu_move_parent_folder">"親フォルダ"</string>
-  <string name="menu_move_to">Move to</string>
+  <string name="menu_move_to">"移動"</string>
   <string name="menu_new_folder">"新しいフォルダ"</string>
   <string name="menu_restore">"復元"</string>
   <string name="menu_send_as_image">"画像として送信"</string>

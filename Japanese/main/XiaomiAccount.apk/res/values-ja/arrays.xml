@@ -5,20 +5,12 @@
         <item>女性</item>
     </string-array>
     <string-array name="education">
-        <item>Middle school</item>
-        <item>Prep school</item>
-        <item>High school</item>
-        <item>Vocational school</item>
-        <item>"Bachelor's degree"</item>
-        <item>"Master's degree"</item>
-        <item>"Doctor's degree"</item>
-    </string-array>
-    <string-array name="income">
-        <item>&lt; 2000</item>
-        <item>2001~4000</item>
-        <item>4001~6000</item>
-        <item>6001~8000</item>
-        <item>8001~12000</item>
-        <item>> 12000</item>
+        <item>中学校</item>
+        <item>予備校</item>
+        <item>高校</item>
+        <item>専門学校</item>
+        <item>学士号</item>
+        <item>修士号</item>
+        <item>博士号</item>
     </string-array>
 </resources>

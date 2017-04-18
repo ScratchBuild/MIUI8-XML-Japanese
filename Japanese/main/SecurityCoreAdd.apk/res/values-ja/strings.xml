@@ -46,7 +46,7 @@ this feature will be added to Second space automatically."</string>
 to be able to view them anytime"</string>
   <string name="contact_us">"お問い合わせ"</string>
   <string name="continueButton">"続行"</string>
-  <string name="createANewSpace">Create a separate space on your phone.</string>
+  <string name="createANewSpace">"お使いの端末に別のスペースを作成します。"</string>
   <string name="createUserFail">"作成できませんでした"</string>
   <string name="create_app_icon_failed">"アイコンを作成できませんでした"</string>
   <string name="create_app_icon_success">"アイコンが正常に作成されました"</string>
@@ -200,7 +200,7 @@ to enter Second space from Lock screen"</string>
   <string name="settings_space_data">Data</string>
   <string name="settings_status_icon_summary">Show Second space icon in the status bar</string>
   <string name="settings_status_icon_title">Second space icon</string>
-  <string name="settings_switch_shortcut_summary">Show the Home screen shortcut in First space</string>
+  <string name="settings_switch_shortcut_summary">"First spaceのホーム画面にショートカットを表示する"</string>
   <string name="settings_switch_shortcut_title">Tap shortcut to switch</string>
   <string name="show_normal_content">"Don't show private items"</string>
   <string name="show_private_content">Show private items</string>

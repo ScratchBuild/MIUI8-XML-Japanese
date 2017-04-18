@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="screenrecorder_settings_resolution">
-        <item>1080p</item>
-        <item>720p</item>
-        <item>480p</item>
-    </string-array>
-    <string-array name="screenrecorder_settings_bit_rate">
-        <item>200Mbps</item>
-        <item>100Mbps</item>
-        <item>50Mbps</item>
-        <item>32Mbps</item>
-        <item>24Mbps</item>
-        <item>16Mbps</item>
-        <item>8Mbps</item>
-        <item>4Mbps</item>
-        <item>1Mbps</item>
-    </string-array>
-    <string-array name="screenrecorder_settings_frames">
-        <item>24fps</item>
-        <item>30fps</item>
-        <item>48fps</item>
-        <item>60fps</item>
-    </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>自動</item>
         <item>縦向き</item>
