@@ -16,10 +16,10 @@
   <string name="consumption_alert">"インターネット接続"</string>
   <string name="consumption_message">"Mi Driveが正常に動作するにはインターネットへの接続が必要です。"</string>
   <string name="copy_failed">"コピーできませんでした"</string>
-  <string name="copy_failed_retry">"Can't copy, wait %1$s and try again"</string>
+  <string name="copy_failed_retry">"コピーできません、%1$sを待ってからもう一度お試しください"</string>
   <string name="create_new_folder_failed">"フォルダを作成できませんでした。"</string>
   <string name="delete_failed">"削除できません"</string>
-  <string name="delete_failed_retry">"Can't delete, wait %1$s and try again"</string>
+  <string name="delete_failed_retry">"削除できません、%1$sを待ってからもう一度お試しください"</string>
   <string name="delete_file">"このファイルを削除しますか？"</string>
   <string name="delete_files">"%1$d個のファイルを削除しますか？"</string>
   <string name="delete_folder">"このフォルダを削除しますか？"</string>
@@ -32,7 +32,6 @@
   <string name="downloading_in_wifi">"ダウンロード中…"</string>
   <string name="empty_file_download">"空のファイルはサポートされていません。"</string>
   <string name="empty_file_upload">"空のファイルはサポートされていません。"</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">\"%1$s\"にファイルを保存しました</string>
   <string name="file_change_btn_download">"ファイルをダウンロード"</string>
   <string name="file_change_btn_upload">"ファイルをアップロード"</string>
@@ -55,7 +54,7 @@
   <string name="login_reg_title">Use Mi Drive from anywhere.</string>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"切り取りできませんでした"</string>
-  <string name="move_failed_retry">"Can't cut, wait %1$s and try again"</string>
+  <string name="move_failed_retry">"切り取りできません、%1$sを待ってからもう一度お試しください"</string>
   <string name="need_get_accounts_permission">"Mi Driveが正常に動作するにはアカウントへのアクセスが必要です。"</string>
   <string name="never_notify">"次回から表示しない"</string>
   <string name="no_app_found_to_open_file">"この操作を処理するためのアプリが見つかりませんでした。"</string>
@@ -106,7 +105,6 @@
   <string name="sd_full">"SDカードがいっぱいです。"</string>
   <string name="sd_invalid">"SDカードが破損しています。"</string>
   <string name="send_to_midrive_failed">"このファイルタイプはサポートされていません。"</string>
-  <string name="slashes">/</string>
   <string name="space_full">"クラウドの空き容量が足りません。"</string>
   <string name="start_use_xiaomi_account">"Mi Driveの使用を開始"</string>
   <string name="system_alert">"インターネット接続"</string>

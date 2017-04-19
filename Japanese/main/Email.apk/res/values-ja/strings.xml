@@ -359,7 +359,7 @@
   <string name="downlaod_nonWifi_confirm_message">"モバイルデータ接続を使用して添付ファイルをダウンロードしますか？"</string>
   <string name="downlaod_nonWifi_confirm_title">"この添付ファイルをダウンロードしますか？"</string>
   <string name="download_again">"再ダウンロード"</string>
-  <string name="download_before_sharing">" hasn't finished downloading."</string>
+  <string name="download_before_sharing">" ダウンロードが完了していません。"</string>
   <string name="download_cancel_confirm_message">Download will be stopped</string>
   <string name="download_cancel_confirm_title">"この添付ファイルをダウンロードしますか？"</string>
   <string name="download_complete_not_cancel">"ダウンロードが完了しました"</string>
@@ -466,7 +466,7 @@
   <string name="general_preference_text_zoom_small">"小"</string>
   <string name="general_preference_text_zoom_tiny">"極小"</string>
   <string name="generic_attachment_problem">"ファイルを添付できません。"</string>
-  <string name="get_database_exception">"Clear this app's data in Settings &gt; System apps and try again."</string>
+  <string name="get_database_exception">"[設定] &gt; [システムアプリ] からこのアプリのデータを消去して、もう一度お試しください。"</string>
   <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
   <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
   <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
@@ -480,9 +480,6 @@
   <string name="help_config">Self configuration</string>
   <string name="hide_atts_remaining">Hide %1$d attachments</string>
   <string name="hide_elided">▼ Hide quoted text</string>
-  <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-  <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
-  <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">"全員に返信"</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">"受信メールサーバーのパスワードが間違っています"</string>
@@ -497,12 +494,12 @@
   <string name="invalid_recipient">The address %s is invalid.</string>
   <string name="invalid_recipient_title">Recipient Error</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_from_remote">Search mailbox on server</string>
+  <string name="load_from_remote">"サーバー上の受信トレイを検索"</string>
   <string name="load_more">もっと読み込む</string>
   <string name="loading_conversation">"読み込み中…"</string>
   <string name="loading_conversations">"読み込み中…"</string>
   <string name="loading_from_remote">"読み込み中…"</string>
-  <string name="local_search">Local search</string>
+  <string name="local_search">"ローカルを検索"</string>
   <string name="local_search_result">%s results in synced messages</string>
   <string name="login">"ログイン"</string>
   <string name="login139">Sign in with China Mobile</string>
@@ -573,7 +570,7 @@
   <string name="menu_search">"検索"</string>
   <string name="menu_settings">"設定"</string>
   <string name="merged_mailbox_compose_select_account">"アカウントの選択"</string>
-  <string name="message_body_load_set_description">Load emails when using mobile data</string>
+  <string name="message_body_load_set_description">"モバイルデータの使用時にメールを読み込む"</string>
   <string name="message_compose_insert_quick_response_list_title">"クイック返信の挿入"</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">"メッセージのデコード中にエラーが発生しました。"</string>
@@ -604,8 +601,8 @@
   <string name="network_tip">"認証に失敗しました、ネットワーク接続を確認してください"</string>
   <string name="network_try_again">"ネットワーク接続を確認してもう一度お試しください"</string>
   <string name="network_unavailable">"ネットワークが利用できません"</string>
-  <string name="new_incoming_messages_one">New message from %s. Show.</string>
-  <string name="new_messages">%1$d new messages</string>
+  <string name="new_incoming_messages_one">"%sからの新着メッセージ"</string>
+  <string name="new_messages">"%1$d件の新着メッセージ"</string>
   <string name="next_action">"次へ"</string>
   <string name="no">"いいえ"</string>
   <string name="no_address_email">noaddressemail@123.com</string>

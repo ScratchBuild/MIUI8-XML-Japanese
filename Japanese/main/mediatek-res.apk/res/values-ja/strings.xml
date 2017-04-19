@@ -13,9 +13,9 @@
   <string name="Special_Card_Type_Title_Lte_Not_Available">LTE network is not available.</string>
   <string name="Suggest_To_Change_USIM">Suggest to change a 4G SIM card.</string>
   <string name="VideoView_error_text_bad_file">Bad file, this video cannot be played.</string>
-  <string name="VideoView_error_text_cannot_connect_to_server">Cannot connect to server.</string>
-  <string name="VideoView_error_text_drm_not_supported">DRM protected, this video cannot be played.</string>
-  <string name="VideoView_error_text_invalid_connection">Invalid connection. (403 Forbidden)</string>
+  <string name="VideoView_error_text_cannot_connect_to_server">サーバーに接続できません。</string>
+  <string name="VideoView_error_text_drm_not_supported">DRM保護されているため、この動画は再生できません。</string>
+  <string name="VideoView_error_text_invalid_connection">接続が無効です。(403 Forbidden)</string>
   <string name="VideoView_error_text_type_not_supported">Media file type not supported.</string>
   <string name="account_always_ask_title">Ask first</string>
   <string name="aerr_application_lowstorage">内部ストレージが不足しています、アプリは停止しました。空き領域を確保してもう一度お試しください。</string>
@@ -55,12 +55,12 @@
   <string name="day_year_month_wday" formatted="false">%s %s %s, %s</string>
   <string name="default_wallpaper_name">Default</string>
   <string name="delete">削除</string>
-  <string name="deleteMail">Backup mails and release stroage</string>
-  <string name="deleteMails">Delete Mails</string>
-  <string name="description_direction_down">Slide down to snooze</string>
-  <string name="description_direction_left">Slide left to snooze</string>
-  <string name="description_direction_right">Slide right to dismiss</string>
-  <string name="description_direction_up">Slide up to dismiss</string>
+  <string name="deleteMail">メールをバックアップしてストレージの空き領域を確保する</string>
+  <string name="deleteMails">メールの削除</string>
+  <string name="description_direction_down">下にスライドしてスヌーズ</string>
+  <string name="description_direction_left">左にスライドしてスヌーズ</string>
+  <string name="description_direction_right">右にスライドして閉じる</string>
+  <string name="description_direction_up">上にスライドして閉じる</string>
   <string name="drm_begin">Begin:</string>
   <string name="drm_can_forward">Can be forwarded.</string>
   <string name="drm_can_not_forward">Cannot be forwarded.</string>
@@ -146,10 +146,10 @@ Please try again in %d seconds."</string>
   <string name="puk2Blocked">PIN2 is blocked.</string>
   <string name="same_imei">Same IMEI</string>
   <string name="save_password_label">確認</string>
-  <string name="save_password_message">Do you want the browser to remember this password?</string>
-  <string name="save_password_never">Never</string>
-  <string name="save_password_notnow">Not now</string>
-  <string name="save_password_remember">Remember</string>
+  <string name="save_password_message">このパスワードをブラウザで保存しますか？</string>
+  <string name="save_password_never">保存しない</string>
+  <string name="save_password_notnow">今は保存しない</string>
+  <string name="save_password_remember">保存</string>
   <string name="sdcard_default_path_change">Default write disk was changed.</string>
   <string name="sdcard_ready_title">SD card ready</string>
   <string name="sdcard_select_default_path">Do you want to change the default write disk?</string>
@@ -197,8 +197,8 @@ Please try again in %d seconds."</string>
   <string name="wifi_display_confirm_connection">wants to build connection with you.</string>
   <string name="wifi_display_connected_to_wifi_network">Connected to WLAN network %1$s.</string>
   <string name="wifi_display_connection_is_not_steady">The current connection of wireless display is not steady.</string>
-  <string name="wifi_display_disconnect_then_reconnect">Wireless display disconnect. Do you want to reconnect?</string>
-  <string name="wifi_display_disconnected">Wireless display disconnected.</string>
+  <string name="wifi_display_disconnect_then_reconnect">ワイヤレスディスプレイが切断されました。再接続しますか？</string>
+  <string name="wifi_display_disconnected">ワイヤレスディレプレイが切断されました。</string>
   <string name="wifi_display_do_not_remind_again">Do not remind again.</string>
   <string name="wifi_display_reconnect">Reconnect</string>
   <string name="wifi_display_sound_path_reminder">"Multimedia sound won't play from your headset."</string>
