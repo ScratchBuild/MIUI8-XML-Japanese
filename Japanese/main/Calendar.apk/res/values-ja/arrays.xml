@@ -306,4 +306,8 @@
         <item>魚座</item>
         <item>2/19 - 3/20</item>
     </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Forwards</item>
+        <item>Backwards</item>
+    </string-array>
 </resources>

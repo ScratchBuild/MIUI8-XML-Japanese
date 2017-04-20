@@ -1638,6 +1638,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="key_position_cat">ボタンの配置</string>
   <string name="key_settings">ボタン</string>
   <string name="key_settings_title">ボタン</string>
+  <string name="keyboard_and_input_methods_category">キーボードと入力方法</string>
   <string name="keyboard_layout_dialog_setup_button">キーボードレイアウトの設定</string>
   <string name="keyboard_layout_dialog_switch_hint">切り替えるにはCtrl+スペースを押します</string>
   <string name="keyboard_layout_dialog_title">キーボードレイアウトの選択</string>
@@ -2409,6 +2410,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="phone_info_label">携帯電話情報</string>
   <string name="phone_language">言語</string>
   <string name="phone_language_summary"/>
+  <string name="physical_keyboard_title">物理キーボード</string>
   <string name="pico_installed">インストール済み</string>
   <string name="pico_languages_and_voices">言語と音声</string>
   <string name="pico_not_installed">未インストール</string>
@@ -3978,6 +3980,7 @@ PINが正しくない可能性があります。"</string>
   <string name="vibrate_input_devices_summary">接続時に、バイブレーションをゲーム用コントローラにリダイレクトします。</string>
   <string name="vibrate_on_touch_title">タッチ操作バイブ</string>
   <string name="vibrate_when_ringing_title">着信時もバイブレーションON</string>
+  <string name="virtual_keyboard_category">仮想キーボード</string>
   <string name="virtual_sim_category_title">Miローミング</string>
   <string name="virtual_sim_description">信頼性の高い国際ローミングサービス</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>

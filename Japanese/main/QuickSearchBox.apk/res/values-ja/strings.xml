@@ -57,7 +57,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="local_setting">"設定"</string>
   <string name="menu_help">"ヘルプ"</string>
   <string name="menu_settings">"検索設定"</string>
-  <string name="mina_name">"新規アプリ"</string>
+  <string name="mina_name">"ダイレクトアプリ"</string>
   <string name="network_unavailable">"ネットワークに接続できませんでした"</string>
   <string name="permission_prompt_detail">Search for movies, books, music, and more.</string>
   <string name="permission_prompt_start">"許可"</string>

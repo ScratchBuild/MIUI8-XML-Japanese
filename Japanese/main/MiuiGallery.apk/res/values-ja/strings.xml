@@ -377,6 +377,12 @@ Take more photos of your friends!"</string>
   <string name="gallery_sync_disable_toast">"ギャラリーの同期はオフです"</string>
   <string name="get_album_info_in_process">"共有済みアルバムの情報を取得中…"</string>
   <string name="gif_tip">GIF</string>
+  <string name="grant_permission_go_and_set">"設定"</string>
+  <string name="grant_permission_item">\"%s\"</string>
+  <string name="grant_permission_text">"Gallery needs access to 
+%s
+ to work normally, tap Set to go to Permissions."</string>
+  <string name="grant_permission_title">Allow access</string>
   <string name="has_invalid_recipient">"不明な宛先: %1$s"</string>
   <string name="have_known">OK</string>
   <string name="hidden_album_display_name">Hidden album</string>

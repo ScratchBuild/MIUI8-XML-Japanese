@@ -47,6 +47,7 @@
   <string name="document_title">Take a photo of the document</string>
   <string name="document_top_panel_title">Document photo</string>
   <string name="done">完了</string>
+  <string name="drag_barcode_into_frame">Drag the frame to fit the code</string>
   <string name="email">メール:</string>
   <string name="error_camera_disabled">セキュリティ上の理由によりカメラへのアクセスが拒否されました</string>
   <string name="error_cannot_connect_camera">カメラに接続できません</string>

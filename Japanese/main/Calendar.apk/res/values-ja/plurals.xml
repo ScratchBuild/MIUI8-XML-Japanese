@@ -59,4 +59,24 @@
         <item quantity="other">days left</item>
         <item quantity="one">day left</item>
     </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d working days</item>
+        <item quantity="one">%d working day</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">%1$d days before</item>
+        <item quantity="one">%1$d day before</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$d days after</item>
+        <item quantity="one">%1$d day after</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d days before</item>
+        <item quantity="one">%1$d day before</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d days after</item>
+        <item quantity="one">%1$d day after</item>
+    </plurals>
 </resources>

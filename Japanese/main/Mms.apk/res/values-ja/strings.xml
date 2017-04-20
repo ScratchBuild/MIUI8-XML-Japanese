@@ -295,7 +295,7 @@
   <string name="multimedia_message">マルチメディアメッセージ</string>
   <string name="multimedia_notification">マルチメディアメッセージ通知</string>
   <string name="mx2_type_description">[%s]</string>
-  <string name="mx_activate_allow_notice">無料のテキストと音声サービスの再アクティベートに使用するSMSの料金が、ご契約中のキャリアから請求されます。</string>
+  <string name="mx_activate_allow_notice">無料のテキストと音声サービスの再アクティベートに使用するSMSの料金が、ご契約中のキャリアから請求されます。さらに、このサービスが正常に動作するにはモバイルデータへのアクセスが必要です。</string>
   <string name="mx_activate_dlg_title">Miメッセージをアクティベート</string>
   <string name="mx_activate_dlg_title_ex">Miメッセージとボイスをアクティベート</string>
   <string name="mx_activate_error_malformed_info">Miメッセージの再アクティベートが必要です。</string>
@@ -308,6 +308,7 @@
   <string name="mx_activate_int_hint_malformed_info">Miメッセージを再アクティベートする際に使用した国際SMSの料金が、ご契約中のキャリアから請求されます。</string>
   <string name="mx_activate_int_hint_server">Miメッセージを再アクティベートする際に使用した国際SMSの料金が、ご契約中のキャリアから請求されます。</string>
   <string name="mx_activate_int_hint_sim_change">"SIMカードが交換されたようです。Miメッセージを再アクティベートに使用するSMSの料金が、ご契約中のキャリアから請求されます。"</string>
+  <string name="mx_activate_network_allow_notice">このサービスが正常に動作するには、モバイルデータへのアクセスが必要です。</string>
   <string name="mx_activate_status_desc_activating_now">アクティベート中...</string>
   <string name="mx_activate_status_desc_check_net_connection">"ネットワークに接続できませんでした"</string>
   <string name="mx_activate_status_desc_fail">"Miメッセージのアクティベートができませんでした"</string>

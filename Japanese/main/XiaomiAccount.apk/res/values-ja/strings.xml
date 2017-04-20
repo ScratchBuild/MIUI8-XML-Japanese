@@ -151,7 +151,7 @@
   <string name="mipay">Pay</string>
   <string name="mipay_balance">"残高"</string>
   <string name="mipay_bank_card">"銀行カード"</string>
-  <string name="mipay_identity">"身分証"</string>
+  <string name="mipay_identity">"ID確認"</string>
   <string name="mipay_others">"その他"</string>
   <string name="mipay_transit_card">"交通カード"</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
@@ -391,6 +391,6 @@
   <string name="verify_phone_prompt">Select phone number to verify</string>
   <string name="verify_phone_title">Verify phone number</string>
   <string name="vip_account_settings">"VIP設定"</string>
-  <string name="vip_more_info">More Vip Info</string>
+  <string name="vip_more_info">More VIP info</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

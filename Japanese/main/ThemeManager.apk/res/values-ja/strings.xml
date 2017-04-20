@@ -401,6 +401,9 @@
   <string name="title_system_audio_resource">"システムの着信音"</string>
   <string name="title_system_wallpaper_resource">"システムの壁紙"</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
+  <string name="uid_change_dialog_message">"更新を削除しました。テーマを使用できるようにデバイスを再起動します。"</string>
+  <string name="uid_change_dialog_ok">OK</string>
+  <string name="uid_change_dialog_title">"デバイスを再起動"</string>
   <string name="wallpaper_auto_change_title">"ロック画面"</string>
   <string name="wallpaper_crop">"切り抜く"</string>
   <string name="wallpaper_decoded_error">"壁紙を読み込むことができません"</string>
