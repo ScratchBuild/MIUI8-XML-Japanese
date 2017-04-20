@@ -177,7 +177,7 @@
   <string name="app_name">"アプリロック"</string>
   <string name="app_name_na">"データ使用量"</string>
   <string name="app_name_securitycenter">"セキュリティ"</string>
-  <string name="app_not_installed_toast">"アプリはお使いのデバイスにインストールされていません。"</string>
+  <string name="app_not_installed_toast">"アプリはお使いの端末にインストールされていません。"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">"Wi-Fi"</string>
   <string name="apps_item_sign_dialog_content">"%sの署名がアプリストアのバージョンと異なります。このアプリを削除して公式版をインストールしますか？ 注意: 署名が競合するアプリをインストールすると、アプリデータが失われる可能性があります。"</string>
@@ -434,7 +434,7 @@
   <string name="clear_garbage">Clear trash to free up space</string>
   <string name="clear_immediately">"今すぐ消去"</string>
   <string name="close">"閉じる"</string>
-  <string name="cmcc_app_check_dialog_message">"修復を完了するにはデバイスを再起動します。"</string>
+  <string name="cmcc_app_check_dialog_message">"修復を完了するには端末を再起動します。"</string>
   <string name="cmcc_app_check_dialog_negative">"後で"</string>
   <string name="cmcc_app_check_dialog_positive">"今すぐ再起動"</string>
   <string name="cmcc_app_check_dialog_title">System repaired</string>
@@ -484,10 +484,10 @@
   <string name="data_usage_warning_title_notify">"データ使用量の制限を超えました"</string>
   <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
-  <string name="deep_clean_disconnect_data_title">"デバイスがロックされた時にモバイルデータをオフ"</string>
-  <string name="deep_clean_memory_clean_title">"デバイスがロックされた時にキャッシュを消去"</string>
+  <string name="deep_clean_disconnect_data_title">"端末がロックされた時にモバイルデータをオフ"</string>
+  <string name="deep_clean_memory_clean_title">"端末がロックされた時にキャッシュを消去"</string>
   <string name="deep_clean_never_memory_clean">"何もしない"</string>
-  <string name="deep_save_memory_clean_summary">"アプリがバッテリーを消費するのを防ぐため、デバイスがロックされた時にキャッシュを消去する"</string>
+  <string name="deep_save_memory_clean_summary">"アプリがバッテリーを消費するのを防ぐため、端末がロックされた時にキャッシュを消去する"</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Schedule time to turn device on and off</string>
   <string name="delete">"削除"</string>
   <string name="delete_from_manual_item_white_list">"例外から削除"</string>
@@ -716,7 +716,7 @@
   <string name="list_empty_text">Empty</string>
   <string name="load_fail">"読み込めませんでした"</string>
   <string name="load_only_under_wlan">"Wi-Fi接続時のみ読み込む"</string>
-  <string name="local_ip_exception_summary">"ローカルIPアドレスを取得できませんでした。この問題をMIUIに報告するには、お使いのデバイスのFeedbackアプリからログを送信してください。"</string>
+  <string name="local_ip_exception_summary">"ローカルIPアドレスを取得できませんでした。この問題をMIUIに報告するには、お使いの端末のFeedbackアプリからログを送信してください。"</string>
   <string name="lock_mode_title">Lock settings</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s used at lock screen</string>
   <string name="lock_screen_traffic_guide_notification_title">"データ使用量を管理するにはタップ。"</string>
@@ -892,9 +892,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="no_network">"ネットワークに接続できませんでした、後ほど再試行してください"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="none_mi_service_app_detail">Empty</string>
-  <string name="notification_battery_consume_abnormal_summary">"直近の%1$d分間に%2$sのバッテリーが消費されました"</string>
+  <string name="notification_battery_consume_abnormal_summary">"直近の%1$d分間にバッテリーの%2$sが消費されました"</string>
   <string name="notification_battery_consume_abnormal_title">"バッテリーの消耗が早すぎます"</string>
-  <string name="notification_battery_over_heat_summary">"加熱の原因を突き止めて、デバイスを冷却します。"</string>
+  <string name="notification_battery_over_heat_summary">"加熱の原因を突き止めて、端末を冷却します。"</string>
   <string name="notification_battery_over_heat_title">"現在の温度は%d℃です"</string>
   <string name="notification_charging_title">"充電中"</string>
   <string name="notification_exit_power_save_mode">Turned off Battery saver</string>
@@ -1239,7 +1239,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="result_autoscan_info">"支払いアプリの起動時にシステム環境を自動的に監視する"</string>
   <string name="result_sign_header">Found %d unofficial apps</string>
   <string name="result_sms_header">Messaging risks detected</string>
-  <string name="result_sms_info_antispam">"ブロックリストをオンにして、悪意のあるURLからデバイスを保護する"</string>
+  <string name="result_sms_info_antispam">"ブロックリストをオンにして、悪意のあるURLから端末を保護する"</string>
   <string name="result_sms_info_auth">Restrict access of third-party apps to verification codes.</string>
   <string name="result_sms_title_antispam">Threatened by malicious SMS URLs</string>
   <string name="result_sms_title_auth">Financial SMS leak risk exists</string>
@@ -1330,7 +1330,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="show_traffic_dialog_title">"通知シェードに使用状況を表示"</string>
   <string name="showpattern">"パターンを表示"</string>
   <string name="shutdown_cancel_reminder">"Didn't power off"</string>
-  <string name="shutdown_cancel_reminder_detail">"通話中だったため、デバイスの電源をオフにできませんでした"</string>
+  <string name="shutdown_cancel_reminder_detail">"通話中だったため、端末の電源をオフにできませんでした"</string>
   <string name="shutdown_cancel_reminder_detail2">"Looks like you're playing a game now. Scheduled power off is canceled."</string>
   <string name="shutdown_time">Off at %1$s</string>
   <string name="shutdown_time_day">Off in %1$dd at %2$s</string>
@@ -1421,7 +1421,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_payment_risk">"支払い環境が安全ではないように見えます。"</string>
   <string name="summary_permission">Avoid unwanted payments and protect personal data</string>
   <string name="summary_permission_root">Looks like this device has root access. It may damage the security of your device.</string>
-  <string name="summary_power_optimizer">"電池残量が残り少ないと、デバイスのパフォーマンスが低下します"</string>
+  <string name="summary_power_optimizer">"電池残量が残り少ないと、端末のパフォーマンスが低下します"</string>
   <string name="summary_realname_verify">Verify your identity to make payments more secure.</string>
   <string name="summary_show_notification">Clear cache, view battery status, and block items in Notification shade</string>
   <string name="summary_telecom_operator">Get your monthly data usage stats from your carrier</string>
@@ -1667,7 +1667,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_template">Message template</string>
   <string name="traffic_setting_fragment_title">Data usage query</string>
   <string name="traffic_warning_purchase_title">"モバイルデータ使用の警告"</string>
-  <string name="try_recommended_function">"新しいセキュリティ機能を使用してデバイスを保護する"</string>
+  <string name="try_recommended_function">"新しいセキュリティ機能を使用して端末を保護する"</string>
   <string name="unable_connect_internet">"インターネット接続なし"</string>
   <string name="uninstall_app_dialog_msg">"アンインストールするとアプリの全データが削除されます。"</string>
   <string name="uninstall_app_dialog_title">"今すぐアンインストールしますか？"</string>
