@@ -530,7 +530,7 @@ Take more photos of your friends!"</string>
   <string name="owner_album_subtitle">Shared with %1$s people</string>
   <string name="people_page_label">People</string>
   <string name="people_page_unname">Unnamed</string>
-  <string name="pet_album_display_name">Pet photos</string>
+  <string name="pet_album_display_name">"ペットの写真"</string>
   <string name="photo">"写真"</string>
   <string name="photo_edit_file_not_exits_tip">"編集する前に写真をダウンロード"</string>
   <string name="photo_editor_label">"編集"</string>
@@ -543,7 +543,7 @@ Take more photos of your friends!"</string>
   <string name="picker_continue_download">"ダウンロードを続行"</string>
   <string name="picker_continue_with_exists">Continue with local photos</string>
   <string name="picker_download">"ダウンロード"</string>
-  <string name="picker_download_progress_message">Downloading %1$d/%2$d</string>
+  <string name="picker_download_progress_message">"ダウンロード中 %1$d/%2$d"</string>
   <string name="picker_full_format">You can select up to %d photos</string>
   <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
@@ -554,7 +554,7 @@ Take more photos of your friends!"</string>
   <string name="picker_title_unlimit">"写真を選択"</string>
   <string name="preparing_data">"読み込み中…"</string>
   <string name="projection_checkbox_text">Remember this display</string>
-  <string name="projection_device_connection_failed">"Couldn't connect projector"</string>
+  <string name="projection_device_connection_failed">"プロジェクターに接続できませんでした"</string>
   <string name="projection_local_mobile">This phone</string>
   <string name="projection_multi_title">Devices</string>
   <string name="projection_single_title">Cast to %s</string>
@@ -634,14 +634,12 @@ Take more photos of your friends!"</string>
   <string name="search_people_jump_failed">Wait until photos with people are synced with Mi Cloud and try again</string>
   <string name="search_result_empty">"何も見つかりませんでした"</string>
   <string name="search_retry">"再試行"</string>
-  <string name="search_set_network_connection">Network settings</string>
+  <string name="search_set_network_connection">"ネットワーク設定"</string>
   <string name="search_title_location">Locations</string>
   <string name="search_title_others">All results</string>
   <string name="search_title_people">People</string>
   <string name="search_title_recommend">Recommended</string>
   <string name="search_title_tag">Objects</string>
-  <string name="search_transition_element_icon">search_icon</string>
-  <string name="search_transition_element_input">search_input</string>
   <string name="secret_album_display_name">Hidden album</string>
   <string name="secret_album_password_first_use_msg">Privacy protection password will be used. It works for photos, notes, hidden folders, etc.</string>
   <string name="secret_album_password_first_use_title">Privacy protection password</string>
@@ -668,7 +666,7 @@ Take more photos of your friends!"</string>
   <string name="set_face_group_toast_msg_old_user">"Hold a person's photo to create groups (Family, Friends, Classmates, etc.)"</string>
   <string name="set_face_group_toast_title_new_user">Suggestion</string>
   <string name="set_face_group_toast_title_old_user">People can be organized in groups</string>
-  <string name="set_face_image">Set a new profile pic</string>
+  <string name="set_face_image">"新しいプロフィール写真を設定"</string>
   <string name="set_group">"グループを設定"</string>
   <string name="set_wallpaper_get_image_failed">"画像をダウンロードできませんでした、後ほど再試行してください"</string>
   <string name="share">"共有"</string>
@@ -794,9 +792,9 @@ Take more photos of your friends!"</string>
   <string name="video_editor_more">"詳細"</string>
   <string name="video_editor_not_support_tips">"Such video files aren't supported"</string>
   <string name="video_editor_ok">OK</string>
-  <string name="video_editor_res_download_failed_tips">"Couldn't download, check network settings and try again"</string>
-  <string name="video_editor_res_download_mobil_network_confirm_msg">Download soundtracks using mobile data?</string>
-  <string name="video_editor_res_download_mobil_network_confirm_title">Using mobile data</string>
+  <string name="video_editor_res_download_failed_tips">"ダウンロードできませんでした。ネットワーク設定を確認してもう一度お試しください"</string>
+  <string name="video_editor_res_download_mobil_network_confirm_msg">"モバイルデータを使用してサウンドトラックをダウンロードしますか？"</string>
+  <string name="video_editor_res_download_mobil_network_confirm_title">"モバイルデータを使用"</string>
   <string name="video_editor_res_not_load_dialog_msg">Download soundtracks to use this feature (more than 20MB).</string>
   <string name="video_editor_template_family">Family</string>
   <string name="video_editor_template_forbidden_tips">"Can't do this when using a template"</string>

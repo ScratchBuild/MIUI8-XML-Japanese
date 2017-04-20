@@ -26,11 +26,11 @@ You need a Mainland China bank card to purchase additional storage space."</stri
 To get more storage space, visit mi.com/micloud."</string>
   <string name="buy_space_expire">Purchased space will expire in %s</string>
   <string name="buy_space_expire_concat">%1$s to %2$s</string>
-  <string name="buy_space_sulotion_auto_renew">Renew automatically</string>
+  <string name="buy_space_sulotion_auto_renew">"自動的に更新する"</string>
   <string name="buy_space_sulotion_message">Buy %sGB additional storage space</string>
-  <string name="buy_space_sulotion_not_auto_renew">"Don't renew automatically"</string>
+  <string name="buy_space_sulotion_not_auto_renew">"自動的に更新しない"</string>
   <string name="buy_space_sulotion_renew_message">Valid for %s</string>
-  <string name="buy_space_sulotion_renew_title">Renew subscription</string>
+  <string name="buy_space_sulotion_renew_title">"購読の更新"</string>
   <string name="buy_space_sulotion_title">Buy storage space</string>
   <string name="calendar_sync">カレンダー</string>
   <string name="click_to_enabled">同期するにはタップ。</string>
@@ -345,8 +345,8 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_space_soundrecorder_detail">Manage recordings stored on your device</string>
   <string name="micloud_space_soundrecorder_title">Recordings</string>
   <string name="micloud_storage">ストレージ</string>
-  <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
-  <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">"購読の更新が必要です。"</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">"購読の更新が必要です。"</string>
   <string name="micloud_storage_expires_soon_title">Mi Cloud storage expires soon</string>
   <string name="micloud_storage_expires_very_soon_title">Mi Cloud storage expires soon</string>
   <string name="micloud_storage_full">Cloud is full</string>

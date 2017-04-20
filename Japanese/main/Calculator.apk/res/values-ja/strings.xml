@@ -12,8 +12,8 @@
   <string name="city">都市</string>
   <string name="clearDesc">消去</string>
   <string name="clear_history">履歴を消去</string>
-  <string name="combine_loan">Combined loan</string>
-  <string name="commercial_loan">Commercial loan</string>
+  <string name="combine_loan">複合ローン</string>
+  <string name="commercial_loan">商業ローン</string>
   <string name="convert_currency">通貨変換</string>
   <string name="convertion_unit">単位変換</string>
   <string name="convertion_unit_area">面積変換</string>
@@ -60,15 +60,15 @@
   <string name="loan_edittext_hint_commercial_combined">Commercial</string>
   <string name="loan_edittext_hint_fund">金額を入力</string>
   <string name="loan_edittext_hint_fund_combined">Fund loan</string>
-  <string name="loan_first_pay_date">First payment</string>
+  <string name="loan_first_pay_date">初回の支払い</string>
   <string name="loan_interest_rate">Interest</string>
   <string name="loan_pay_years">Loan period</string>
-  <string name="loan_payback_way">Repayment</string>
+  <string name="loan_payback_way">返済</string>
   <string name="minusDesc">引く</string>
   <string name="mortgage_amount">合計</string>
-  <string name="mortgage_average_repayment_first_month">First month repayment</string>
-  <string name="mortgage_average_repayment_monthly">Monthly repayment</string>
-  <string name="mortgage_calculate">Calculate</string>
+  <string name="mortgage_average_repayment_first_month">初月の返済</string>
+  <string name="mortgage_average_repayment_monthly">毎月の返済</string>
+  <string name="mortgage_calculate">計算</string>
   <string name="mortgage_descript_accumulation">Interest rate: %s (fund)</string>
   <string name="mortgage_descript_commercial">Interest rate: %s (commercial)</string>
   <string name="mortgage_detail_month">Month</string>
@@ -78,7 +78,7 @@
   <string name="mortgage_detail_monthly_repayment">Repayment</string>
   <string name="mortgage_detail_yearly_interest">Interest</string>
   <string name="mortgage_detail_yearly_repayment">Repayment</string>
-  <string name="mortgage_details">Mortgage details</string>
+  <string name="mortgage_details">ローンの詳細</string>
   <string name="mortgage_equals">=</string>
   <string name="mortgage_hint_accumulation_fund">金額を入力</string>
   <string name="mortgage_hint_commercial">金額を入力</string>
@@ -147,14 +147,14 @@
   <string name="tax_insurance_and_fund">Insurance</string>
   <string name="tax_last_salary_hint">Enter your income</string>
   <string name="tax_last_salary_number">Income</string>
-  <string name="tax_medical">Medical</string>
+  <string name="tax_medical">医療</string>
   <string name="tax_param_error">Enter correct insurance rates</string>
   <string name="tax_result_real_get">After tax</string>
   <string name="tax_social_insurance">Social insurance</string>
   <string name="tax_thershold_foreign">%s (Foreign nationals)</string>
   <string name="tax_thershold_native">%s (Mainland China)</string>
   <string name="tax_threshold">Tax-free threshold</string>
-  <string name="tax_unemployment">Unemployment</string>
+  <string name="tax_unemployment">失業</string>
   <string name="tax_update_time_format">Data provided by HeXun (%s)</string>
   <string name="title_bar">長さ変換</string>
   <string name="unit_data_display_area_acre">Acre</string>

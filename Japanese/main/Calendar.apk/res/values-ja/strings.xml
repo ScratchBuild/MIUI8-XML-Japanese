@@ -369,7 +369,6 @@
   <string name="setting_title_debug">"ログのエクスポート"</string>
   <string name="setting_title_holiday_display">"祝日を表示する"</string>
   <string name="setting_title_recommend_card_display">"購読のおすすめを表示する"</string>
-  <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
   <string name="settings_calendar">"カレンダー"</string>
   <string name="show_day_view">"日付を表示"</string>
@@ -458,8 +457,6 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="widget_get_weather_info">"天気情報を取得 &gt;"</string>
   <string name="widget_no_events">"予定なし"</string>
   <string name="widget_select_style">"スタイルを選択"</string>
-  <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
-  <string name="work_day_indication">: (</string>
   <string name="wuxing">五行</string>
   <string name="xiaomi_calendar_display_name">"Mi Accountカレンダー"</string>
   <string name="xingxiu">星宿</string>

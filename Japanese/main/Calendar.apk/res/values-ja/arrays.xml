@@ -246,19 +246,6 @@
         <item>重度污染</item>
         <item>严重污染</item>
     </string-array>
-    <string-array name="fortune_random_name">
-        <item>王伟</item>
-        <item>李东</item>
-        <item>孙辉</item>
-        <item>李俊</item>
-        <item>周永</item>
-        <item>郑健</item>
-        <item>黄海</item>
-        <item>郑飞飞</item>
-        <item>程杰</item>
-        <item>宋小宝</item>
-        <item>郭德纲</item>
-    </string-array>
     <string-array name="aries_info">
         <item>aries</item>
         <item>牡羊座</item>
