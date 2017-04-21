@@ -379,10 +379,10 @@ Take more photos of your friends!"</string>
   <string name="gif_tip">GIF</string>
   <string name="grant_permission_go_and_set">"設定"</string>
   <string name="grant_permission_item">\"%s\"</string>
-  <string name="grant_permission_text">"Gallery needs access to 
+  <string name="grant_permission_text">"ギャラリーが正常に動作するには、
 %s
- to work normally, tap Set to go to Permissions."</string>
-  <string name="grant_permission_title">Allow access</string>
+へのアクセスが必要です。[設定]をタップして[アクセス許可]に移動します。"</string>
+  <string name="grant_permission_title">"アクセスを許可"</string>
   <string name="has_invalid_recipient">"不明な宛先: %1$s"</string>
   <string name="have_known">OK</string>
   <string name="hidden_album_display_name">Hidden album</string>
@@ -613,7 +613,7 @@ Take more photos of your friends!"</string>
   <string name="retry_to_request_qr_code">"再試行"</string>
   <string name="return_from_clear_local_file_fragment_toast">Optimized photos are stored on the device. Tap a photo to download the original item from Mi Cloud.</string>
   <string name="revert">"元に戻す"</string>
-  <string name="runtime_permission_ungranted">Closed Gallery, no required permissions</string>
+  <string name="runtime_permission_ungranted">"必要なアクセス許可がないため、ギャラリーを終了しました"</string>
   <string name="same_name_album_exist_and_toast">"An album with the same name already exists. Created '%s' instead."</string>
   <string name="scan_barcode_guide">"To get album's QR code, tap the Share icon."</string>
   <string name="scan_barcode_to_join">Scan QR code to add album</string>

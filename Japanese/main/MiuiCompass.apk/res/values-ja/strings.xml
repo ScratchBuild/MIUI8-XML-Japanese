@@ -28,7 +28,7 @@
   <string name="error_camera_unavailable">他のアプリがカメラを使っていないか確認してください</string>
   <string name="error_camera_unavailable_title">カメラが使用できません</string>
   <string name="first_using_dialog_message">コンパスアプリはネットワーク接続、カメラとロケーションサービスをアクセスする必要があります。</string>
-  <string name="first_using_dialog_title">アクセス権限</string>
+  <string name="first_using_dialog_title">アクセス許可</string>
   <string name="guide_toast">正確な位置を確認するため、以下のパターンでスマートフォンを移動してください</string>
   <string name="keywords_search_compass">Compass;Calibrate compass;Pressure;Altitude;Latitude;Longtitude;Check longtitude; Check latitude;MIUI Compass;Compass app;MIUI Compass app;Where is Compass;Download Compass;Atmospheric pressure; Check altitude;How much is the altitude</string>
   <string name="latitude">緯度</string>
