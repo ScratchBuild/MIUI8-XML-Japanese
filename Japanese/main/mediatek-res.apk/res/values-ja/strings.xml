@@ -69,12 +69,12 @@
   <string name="drm_end">End:</string>
   <string name="drm_forwardforbidden_message">一部の保護されたファイルは転送できません。</string>
   <string name="drm_forwardforbidden_title">Forward Forbidden</string>
-  <string name="drm_license_install_fail">DRM License installation failed.</string>
-  <string name="drm_license_install_success">DRM License installation succeeded.</string>
+  <string name="drm_license_install_fail">DRMライセンスのインストールに失敗しました。</string>
+  <string name="drm_license_install_success">DRMライセンスのインストールに成功しました。</string>
   <string name="drm_licenseacquisition_message">%1$sには利用可能なDRMライセンスがありません。更新ボタンを押すことでDRMライセンスを取得できます。</string>
   <string name="drm_licenseacquisition_title">DRMライセンスの取得</string>
   <string name="drm_no_license">利用可能なDRMライセンスがありません。</string>
-  <string name="drm_no_limitation">No limitation.</string>
+  <string name="drm_no_limitation">制限はありません。</string>
   <string name="drm_protection_status">Protection status:</string>
   <string name="drm_protectioninfo_renew">更新</string>
   <string name="drm_protectioninfo_title">Protection Info</string>
@@ -86,7 +86,7 @@
   <string name="free_memory_btn">Free Space</string>
   <string name="gps_time_sync_fail_str">Failed to get GPS provided time</string>
   <string name="hdmi_audio_output">オーディオ出力</string>
-  <string name="hdmi_audio_output_multi_channel">Multi Channel</string>
+  <string name="hdmi_audio_output_multi_channel">マルチチャンネル</string>
   <string name="hdmi_audio_output_stereo">ステレオ</string>
   <string name="hdmi_hdvideo_toast">HDMI cannot play the 4K video, connection will be interrupted.</string>
   <string name="hdmi_mutex_call_content">Sorry, HDMI has stopped due to current phone call.</string>
@@ -110,8 +110,8 @@ Please try again in %d seconds."</string>
   <string name="media_controller_connecting">接続中...</string>
   <string name="media_controller_live">Live</string>
   <string name="media_controller_playing">再生中</string>
-  <string name="media_info_audio_not_supported">Failed to play audio.</string>
-  <string name="media_info_video_not_supported">This video is not supported.</string>
+  <string name="media_info_audio_not_supported">オーディオの再生に失敗しました。</string>
+  <string name="media_info_video_not_supported">この動画はサポートされていません。</string>
   <string name="month_day_year_wday" formatted="false">%s %s, %s, %s</string>
   <string name="month_year_day_wday" formatted="false">%s %s %s, %s</string>
   <string name="network_forbidden">forbidden</string>
@@ -192,7 +192,7 @@ Please try again in %d seconds."</string>
   <string name="wday_year_month_day" formatted="false">%s, %s %s %s</string>
   <string name="wifi_display_bt_hdmi_off_wfd_on">HDMI will be turned off when you turn on wireless display. Do you want to continue?</string>
   <string name="wifi_display_build_connection">Building connection.</string>
-  <string name="wifi_display_change_resolution_reminder">Change resolution will reconnect wireless display automatically.</string>
+  <string name="wifi_display_change_resolution_reminder">解像度を変更すると、ワイヤレスディスプレイが自動的に再接続されます。</string>
   <string name="wifi_display_channel_confliction">Channel confliction</string>
   <string name="wifi_display_confirm_connection">wants to build connection with you.</string>
   <string name="wifi_display_connected_to_wifi_network">Connected to WLAN network %1$s.</string>
@@ -200,7 +200,7 @@ Please try again in %d seconds."</string>
   <string name="wifi_display_disconnect_then_reconnect">ワイヤレスディスプレイが切断されました。再接続しますか？</string>
   <string name="wifi_display_disconnected">ワイヤレスディレプレイが切断されました。</string>
   <string name="wifi_display_do_not_remind_again">Do not remind again.</string>
-  <string name="wifi_display_reconnect">Reconnect</string>
+  <string name="wifi_display_reconnect">再接続</string>
   <string name="wifi_display_sound_path_reminder">"Multimedia sound won't play from your headset."</string>
   <string name="wifi_display_unstable_connection">Unstable connection</string>
   <string name="wifi_display_unstable_suggestion">The current connection of wireless display is not steady, please try to get closer to your display device.</string>

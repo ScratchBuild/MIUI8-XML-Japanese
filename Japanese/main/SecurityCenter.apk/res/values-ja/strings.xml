@@ -195,11 +195,11 @@
   <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Check messaging app</string>
   <string name="apps_list_header_title_sms_access">Restrict access to verification codes</string>
-  <string name="auto_atsk_condition_battery_level_text_down">When battery reaches %s</string>
-  <string name="auto_atsk_condition_battery_level_text_up">When battery is charged to %s</string>
+  <string name="auto_atsk_condition_battery_level_text_down">"バッテリーが%sまで放電されました"</string>
+  <string name="auto_atsk_condition_battery_level_text_up">"バッテリーが%sまで充電されました"</string>
   <string name="auto_handle_title">"全般"</string>
-  <string name="auto_task_condition_choose_battery_level_down">When battery reaches a certain level</string>
-  <string name="auto_task_condition_choose_battery_level_up">When battery is charged to a certain level</string>
+  <string name="auto_task_condition_choose_battery_level_down">"指定したレベルまでバッテリーが放電されたとき"</string>
+  <string name="auto_task_condition_choose_battery_level_up">"指定したレベルまでバッテリーが充電されたとき"</string>
   <string name="auto_task_condition_choose_end_time">"終了時間"</string>
   <string name="auto_task_condition_choose_ontime">"タイマー"</string>
   <string name="auto_task_condition_choose_start_time">"開始時間"</string>
@@ -238,7 +238,7 @@
   <string name="auto_task_notify_task_continue_do">Start action</string>
   <string name="auto_task_notify_task_count_down">Automated action will start in 5 seconds</string>
   <string name="auto_task_operation_airplane_mode">"機内モード"</string>
-  <string name="auto_task_operation_auto_brightness">Auto brightness</string>
+  <string name="auto_task_operation_auto_brightness">"明るさの自動調節"</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">"画面の明るさ"</string>
   <string name="auto_task_operation_close">Off</string>
@@ -776,8 +776,8 @@
   <string name="main_primary_message_leisure_overlimit">Went over off-peak data limit</string>
   <string name="main_primary_message_leisure_remain">Off-peak data</string>
   <string name="main_primary_message_traffic_overlimit">Went over data limit</string>
-  <string name="main_primary_message_traffic_remain">Mobile data</string>
-  <string name="main_primary_message_traffic_warning">Mobile data warning</string>
+  <string name="main_primary_message_traffic_remain">"モバイルデータ"</string>
+  <string name="main_primary_message_traffic_warning">"モバイルデータの警告"</string>
   <string name="main_purchase_tips">Promotion</string>
   <string name="main_tc_over">Calibrated successfully</string>
   <string name="main_tc_send_sms">"Send SMS to calibrate"</string>

@@ -155,7 +155,7 @@
   <string name="decrypt_to">Decrypt and save to…</string>
   <string name="decrypting">"復号化しています…"</string>
   <string name="default_prize_text">That goes right into my treasury!</string>
-  <string name="default_user_desc">"This person hasn't added description yet"</string>
+  <string name="default_user_desc">"このユーザーはまだ説明を追加していません"</string>
   <string name="delete_dialog_button">"削除"</string>
   <string name="delete_error">"ファイルを削除できませんでした、もう一度お試しください"</string>
   <string name="delete_file">"このファイルを削除しますか？"</string>
@@ -226,7 +226,7 @@
   <string name="follow_tip_2">Follow me to watch more videos</string>
   <string name="force_touch_clean">"クリーンアップ"</string>
   <string name="force_touch_search">"ファイルを検索"</string>
-  <string name="found_router">Router connected</string>
+  <string name="found_router">"ルーターに接続しました"</string>
   <string name="found_usb">"USBストレージが接続されました"</string>
   <string name="ftp_account_req_notice">"4～16桁の英数字を含める必要があります(大文字と小文字は区別)"</string>
   <string name="ftp_anonymous_login">"匿名ログイン"</string>
@@ -289,7 +289,7 @@
   <string name="login_account_bind_wb">"Weiboアカウント"</string>
   <string name="login_account_bind_wx">"WeChatを使用"</string>
   <string name="login_account_bind_xm">"Mi Accountを使用"</string>
-  <string name="login_expired">Session expired, sign in again</string>
+  <string name="login_expired">"セッションが期限切れです、もう一度ログイン"</string>
   <string name="login_failed_tip">"ログインできませんでした、後ほど再試行してください"</string>
   <string name="login_success_tip">"正常にログインしました"</string>
   <string name="make_private">"非表示"</string>
@@ -323,8 +323,8 @@
   <string name="midrop_send_files">"送信するファイルを選択"</string>
   <string name="mobile_network_dialog_cancle">"キャンセル"</string>
   <string name="mobile_network_dialog_confirm">OK</string>
-  <string name="mobile_network_dialog_tip">"Use your mobile data connection to view this page? You'll receive regular mobile data charges from your carrier."</string>
-  <string name="mobile_network_dialog_title">Mobile data warning</string>
+  <string name="mobile_network_dialog_tip">"モバイルデータ接続を使用してこのページを表示しますか？ご契約中のキャリアからモバイルデータ料金が請求されます。"</string>
+  <string name="mobile_network_dialog_title">"モバイルデータの警告"</string>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"切り取りできません"</string>
   <string name="move_icon_to_desktop_hint">"Explorerで効率的にファイルを管理するためのショートカットをホーム画面に作成します。"</string>
@@ -365,7 +365,7 @@
   <string name="no_wifi_hint">No connection</string>
   <string name="not_installed_documentsui">"DocumentsUIがインストールされていません"</string>
   <string name="notif_server_starting">"FTPサーバーを起動中…"</string>
-  <string name="notif_title">FTP server is running</string>
+  <string name="notif_title">"FTP serverFTPサーバーが動作中"</string>
   <string name="notification_content_hint">"表示するにはタップ"</string>
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Automatically notify and organize when files are added or changed in %1$s.</string>
@@ -432,7 +432,7 @@
   <string name="partial_delete_failure">"Couldn't delete some files, try again"</string>
   <string name="partial_encrypt_success">"Couldn't hide some files, try again"</string>
   <string name="path_download">Manage your downloads</string>
-  <string name="path_hot_sticker">Popular stickers</string>
+  <string name="path_hot_sticker">"人気のステッカー"</string>
   <string name="path_hot_video">View popular short videos for free</string>
   <string name="path_kuai_chuan">Peer-to-peer file transfers</string>
   <string name="path_recent_file">Manage files on your device</string>
@@ -752,7 +752,7 @@
   <string name="video_data_consumption_cancel">"キャンセル"</string>
   <string name="video_data_consumption_confirm">OK</string>
   <string name="video_data_consumption_dialog_message">Uploading will require %1$s of mobile data</string>
-  <string name="video_data_consumption_dialog_title">Mobile data warning</string>
+  <string name="video_data_consumption_dialog_title">"モバイルデータの警告"</string>
   <string name="video_description">"動画の説明"</string>
   <string name="video_encrypt_fans_btn">Become a fan</string>
   <string name="video_encrypt_fans_text">Only fans can watch this video</string>

@@ -50,7 +50,7 @@
   <string name="account_user_other_info">"その他の情報"</string>
   <string name="account_user_phone">"電話"</string>
   <string name="account_user_recovery_phone">"予備の電話"</string>
-  <string name="account_user_region">Region</string>
+  <string name="account_user_region">"地域"</string>
   <string name="account_user_using_facebook_avatar">"Facebookのプロフィール写真を使用"</string>
   <string name="account_user_using_qq_avatar">"QQのプロフィール写真を使用"</string>
   <string name="account_user_using_weibo_avatar">"Sina Weiboのプロフィール写真を使用"</string>
@@ -145,10 +145,10 @@
   <string name="login_check_find_device_failed_title">"デバイスのセキュリティ情報を確認できませんでした"</string>
   <string name="login_find_device_bind">"この端末は既存のMi Account ID(%s)に関連付けられています。"</string>
   <string name="login_guard_prompt">Require phone number verification when you sign in to your Mi Account on an unknown device or in an unknown app for the first time.</string>
-  <string name="logout_account">Sign out</string>
+  <string name="logout_account">"ログアウト"</string>
   <string name="logout_failed">"ログアウトできません"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
-  <string name="mipay">Pay</string>
+  <string name="mipay">"支払う"</string>
   <string name="mipay_balance">"残高"</string>
   <string name="mipay_bank_card">"銀行カード"</string>
   <string name="mipay_identity">"ID確認"</string>
