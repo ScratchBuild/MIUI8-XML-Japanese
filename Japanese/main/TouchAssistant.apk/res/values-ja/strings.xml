@@ -13,7 +13,7 @@
   <string name="hide_touch_assistant">"自動的に非表示"</string>
   <string name="hide_touch_assistant_intro">"選択したアプリでQuick ballを非表示にする。"</string>
   <string name="hide_when_fullscreen">"フルスクリーン時は端へ移動"</string>
-  <string name="hide_when_fullscreen_intro">"フルスクリーンモードに入る時に端へ移動します。"</string>
+  <string name="hide_when_fullscreen_intro">"フルスクリーンモードに切り替えたときに端へ移動する。"</string>
   <string name="motion_behavior">"動作の割り当て"</string>
   <string name="name_alipay_payment_code">Alipay payment</string>
   <string name="name_alipay_scan">Alipay scanner</string>
