@@ -422,7 +422,7 @@
  4. There may be an error in the carrier data. Try carrier diagnostics to solve this.
  5. Nothing seems to help? Tap \"Report via SMS\" to send your feedback to Xiaomi in a text message."</string>
   <string name="celcius_symbol">℃</string>
-  <string name="charging_text_battery_full_time">"充電完了から "</string>
+  <string name="charging_text_battery_full_time">"充電開始から "</string>
   <string name="charging_text_battery_nearly_full">"ほぼ充電完了"</string>
   <string name="charging_text_battery_perfect">"充電完了"</string>
   <string name="charging_text_time_calculating">"充電時間の計算中…"</string>
@@ -1004,7 +1004,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="permission_send_sms_descx">Apps can send SMS and MMS messages</string>
   <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
   <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call history.</string>
-  <string name="permit_running_network">Background data</string>
+  <string name="permit_running_network">"バックグラウンドデータ"</string>
   <string name="person_hotpot">Mobile hotspots</string>
   <string name="pkg_traffic">"データ使用量の制限を設定"</string>
   <string name="pm_auto_start_by_other">Triggered start</string>
