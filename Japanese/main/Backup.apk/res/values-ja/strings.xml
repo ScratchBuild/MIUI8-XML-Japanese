@@ -36,8 +36,8 @@
   <string name="backup_hint">Keep your device powered on</string>
   <string name="backup_hint_onpad">Keep your device powered on</string>
   <string name="backup_is_running">Backing up device</string>
-  <string name="backup_items_app_tailer">" app data files"</string>
-  <string name="backup_items_sysdata_tailer">" system data files,"</string>
+  <string name="backup_items_app_tailer">" アプリのデータファイル"</string>
+  <string name="backup_items_sysdata_tailer">" システムのデータファイル、"</string>
   <string name="backup_new">"新規:"</string>
   <string name="backup_progress">"バックアップ中…"</string>
   <string name="backup_report">"詳細を表示"</string>
@@ -85,7 +85,6 @@
   <string name="delete_backup_title">"バックアップを削除"</string>
   <string name="delete_failed_backup_confirm">"このバックアップにはエラーが含まれています。"</string>
   <string name="deselect_all">"すべて選択を解除"</string>
-  <string name="digit_percent">%</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_title">"暗号化をオフにする"</string>
   <string name="enable_encrypt">"暗号化をオンにする"</string>
@@ -168,7 +167,7 @@
   <string name="prompt_writing">"保存中…"</string>
   <string name="read_encrypt_fail">"暗号化されたバックアップを読み取れませんでした"</string>
   <string name="refresh">"更新"</string>
-  <string name="remote_receive">Receive</string>
+  <string name="remote_receive">"受信"</string>
   <string name="restore">"復元"</string>
   <string name="restore_backup">"復元"</string>
   <string name="restore_contact">"連絡先を復元"</string>
@@ -290,9 +289,9 @@ Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_progress_subdescript_transingsddata_sender">Sending %1$s SD card files, %2$s completed</string>
   <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
   <string name="trans_receiver">"I'm a recipient"</string>
-  <string name="trans_receiver_time_remained">"%s remaining.
-Don't turn off WLAN Hotspot.
-Keep devices close to each other."</string>
+  <string name="trans_receiver_time_remained">"残り %s。
+Wi-Fiホットスポットをオフにしないでください。
+端末をお互いに近づけてください。"</string>
   <string name="trans_receiving_completed">"受信が完了しました"</string>
   <string name="trans_restoring">"復元中…"</string>
   <string name="trans_restoring_no_items">Syncing items</string>
@@ -311,9 +310,9 @@ Similar files on the new device will be overwritten"</string>
   <string name="trans_sender_searching">Searching for new devices</string>
   <string name="trans_sender_searching_ensurance">"Make sure the old device is on
 Waiting for the old device to connect…"</string>
-  <string name="trans_sender_time_remained">"%s remaining.
-Don't turn off WLAN.
-Keep devices close to each other."</string>
+  <string name="trans_sender_time_remained">"残り %s。
+Wi-Fiをオフにしないでください。
+端末をお互いに近づけてください。"</string>
   <string name="trans_sending_completed">"送信が完了しました"</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>

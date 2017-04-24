@@ -431,13 +431,13 @@
   <string name="clean_immediately">"消去"</string>
   <string name="cleaned">Cleared</string>
   <string name="clear_bigfiles">"巨大なファイル、重複した写真、その他の不要なアイテムを削除する"</string>
-  <string name="clear_garbage">Clear trash to free up space</string>
+  <string name="clear_garbage">"ゴミ箱を空にして空き領域を確保"</string>
   <string name="clear_immediately">"今すぐ消去"</string>
   <string name="close">"閉じる"</string>
   <string name="cmcc_app_check_dialog_message">"修復を完了するには端末を再起動します。"</string>
   <string name="cmcc_app_check_dialog_negative">"後で"</string>
   <string name="cmcc_app_check_dialog_positive">"今すぐ再起動"</string>
-  <string name="cmcc_app_check_dialog_title">System repaired</string>
+  <string name="cmcc_app_check_dialog_title">"システムを修復済み"</string>
   <string name="confirmSecondSpacePassword">Confirm Second space password</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Adding Mi Account</string>
   <string name="confirm_fingerprint_msg">"指をセンサーに当ててください"</string>

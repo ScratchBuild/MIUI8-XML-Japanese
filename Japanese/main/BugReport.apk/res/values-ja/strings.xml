@@ -54,7 +54,7 @@
   <string name="feedback_choose_module">"アイテムを選択"</string>
   <string name="feedback_choose_module_hint">"必須"</string>
   <string name="feedback_collect_log_failed">"ログを取得できませんでした"</string>
-  <string name="feedback_continue">Continue with feedback</string>
+  <string name="feedback_continue">"フィードバックを続行"</string>
   <string name="feedback_description">"説明"</string>
   <string name="feedback_description_bugreport_hint">In some cases (…) my phone misbehaves (…).</string>
   <string name="feedback_description_label">"説明"</string>
@@ -124,13 +124,13 @@
   <string name="michat_attach_smiley">"絵文字"</string>
   <string name="michat_attach_take_photo">"カメラ"</string>
   <string name="michat_back_to_detail">"チャットに戻る"</string>
-  <string name="michat_cant_access_artificial">"Can't reach support now"</string>
+  <string name="michat_cant_access_artificial">"サポートにアクセスできません"</string>
   <string name="michat_cant_join_artificial">"ネットワークエラーのため接続できませんでした"</string>
   <string name="michat_check_network">"ネットワーク設定を確認してください"</string>
   <string name="michat_close_text">"チャットが終了しました"</string>
   <string name="michat_comment_net_error">"ネットワークに接続できませんでした、後ほど再試行してください"</string>
   <string name="michat_comment_submit">"評価して戻る"</string>
-  <string name="michat_comment_thx">Thank you for your feedback!</string>
+  <string name="michat_comment_thx">"ご意見ありがとうございます！"</string>
   <string name="michat_customer_join">"チャットに参加"</string>
   <string name="michat_customer_quit">"サポート担当者がチャットから退室しました"</string>
   <string name="michat_customer_text">"カスタマーサポート"</string>
@@ -150,7 +150,7 @@
   <string name="michat_menu_copy_text">"コピー"</string>
   <string name="michat_message_copy_info">"クリップボードにコピーしました"</string>
   <string name="michat_message_error_network">"ネットワークに接続できませんでした"</string>
-  <string name="michat_message_join_again">"Glad you're back!"</string>
+  <string name="michat_message_join_again">"またお会いできて嬉しいです！"</string>
   <string name="michat_message_robot_welcome">"My name is Mi Bunny. I'm an online support robot."</string>
   <string name="michat_message_send_error_network">"送信できません、ネットワーク接続を確認してください"</string>
   <string name="michat_motto">"Mi Supportはいつでもお手伝いします"</string>
@@ -219,7 +219,7 @@
   <string name="network_unavailable_dialog_content">"データ接続時にレポートが送信されます。"</string>
   <string name="network_unavailable_dialog_title">"ネットワークに接続できませんでした"</string>
   <string name="non_system_app_select">Downloaded apps</string>
-  <string name="open_feedback_main">More</string>
+  <string name="open_feedback_main">"その他"</string>
   <string name="packaging_dialog_content">"レポートを作成中…"</string>
   <string name="permission_granted">%1$s permission granted</string>
   <string name="pic_not_exist">"この画像は存在しません"</string>

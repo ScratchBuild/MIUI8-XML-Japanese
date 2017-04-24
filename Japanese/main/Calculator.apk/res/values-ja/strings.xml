@@ -143,7 +143,7 @@
   <string name="tax_income_type_fixed_monthly_salary">Monthly salary</string>
   <string name="tax_individual_income_tax">Individual income tax</string>
   <string name="tax_individual_income_tax_result">結果</string>
-  <string name="tax_injury">Injury</string>
+  <string name="tax_injury">傷害</string>
   <string name="tax_insurance_and_fund">Insurance</string>
   <string name="tax_last_salary_hint">Enter your income</string>
   <string name="tax_last_salary_number">Income</string>
@@ -177,7 +177,7 @@
   <string name="unit_data_display_area_sq.um">Square micron</string>
   <string name="unit_data_display_area_sq.yd">平方ヤード</string>
   <string name="unit_data_display_currency_cnh">Offshore RMB</string>
-  <string name="unit_data_display_length_au">Astronomical unit</string>
+  <string name="unit_data_display_length_au">天文単位</string>
   <string name="unit_data_display_length_chi">Chi</string>
   <string name="unit_data_display_length_cm">センチメートル</string>
   <string name="unit_data_display_length_cun">Cun</string>
