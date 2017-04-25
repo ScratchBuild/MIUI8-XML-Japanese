@@ -116,8 +116,8 @@
   <string name="click_to_shuffle">"シャッフルするにはタップ"</string>
   <string name="click_to_view_new_local_audios">"詳細を表示するにはタップ。"</string>
   <string name="close_music_time">"残り時間: "</string>
-  <string name="cloud_empty_local_empty_button">No songs on this device</string>
-  <string name="cloud_empty_message">No songs in Mi Cloud</string>
+  <string name="cloud_empty_local_empty_button">"この端末に曲がありません"</string>
+  <string name="cloud_empty_message">"Mi Cloudに曲がありません"</string>
   <string name="cloud_empty_summary">Back up songs to Mi Cloud to access them from other devices</string>
   <string name="cloud_enable">Sync music with Mi Cloud</string>
   <string name="cloud_loading_message">"曲を検索中…"</string>
@@ -143,7 +143,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="current_services">Current</string>
   <string name="current_version">Current version</string>
   <string name="data_usage_warning">"データ使用量"</string>
-  <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
+  <string name="data_usage_warning_summary">"モバイルデータ接続を使用して高品質の音楽をストリーミングすると、データ使用料が増加する可能性があります。"</string>
   <string name="delete">"削除"</string>
   <string name="delete_download">"削除"</string>
   <string name="delete_downloads_records">"ダウンロードを削除"</string>
@@ -155,7 +155,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="deselect_all">"すべて選択を解除"</string>
   <string name="desktop_lyric_button_close">"閉じる"</string>
   <string name="desktop_lyric_button_lock">"ロック"</string>
-  <string name="desktop_lyric_color">Color</string>
+  <string name="desktop_lyric_color">"色"</string>
   <string name="desktop_lyric_dialog_msg">"ホーム画面の歌詞表示は [Music] &gt; [設定] &gt; [高度な設定] からオン/オフを切り替えられます"</string>
   <string name="desktop_lyric_dialog_positive_button">"今すぐ試す"</string>
   <string name="desktop_lyric_dialog_title">"今すぐ試す"</string>
@@ -172,7 +172,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_button_scan_tracks">"端末上の音楽を検索する"</string>
   <string name="dialog_cannot_resume">"ダウンロードが中断されました。再開することはできません。"</string>
   <string name="dialog_confirm_delete_checkbox_message">"ローカルファイルも削除する"</string>
-  <string name="dialog_failed_body">Try downloading later or remove the file from the queue?</string>
+  <string name="dialog_failed_body">"後でダウンロードするか、キューからファイルを削除しますか？"</string>
   <string name="dialog_file_already_exists">"ダウンロードできません。ファイルが既に存在します。"</string>
   <string name="dialog_file_missing_body">"ダウンロードしたファイルが見つかりませんでした。"</string>
   <string name="dialog_file_missing_title">"ファイルを開くことができません"</string>
@@ -182,10 +182,10 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_media_not_found">"ダウンロードできません。SDカードは使用できません。"</string>
   <string name="dialog_not_show_again">"二度と表示しない"</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
-  <string name="dialog_song_sort_type">Sort songs</string>
-  <string name="dialog_song_sort_type_name">By name</string>
-  <string name="dialog_song_sort_type_playing_times">By the number of times played</string>
-  <string name="dialog_song_sort_type_time">By adding time</string>
+  <string name="dialog_song_sort_type">"曲を並べ替え"</string>
+  <string name="dialog_song_sort_type_name">"名前順"</string>
+  <string name="dialog_song_sort_type_playing_times">"再生回数順"/string>
+  <string name="dialog_song_sort_type_time">"追加日時順"</string>
   <string name="dialog_song_view_type">Show local music</string>
   <string name="dialog_song_view_type_album">By album</string>
   <string name="dialog_song_view_type_artist">By artist</string>
@@ -665,7 +665,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="radar_retry">"再試行"</string>
   <string name="radar_searching_state">"検索中…"</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
-  <string name="really_pay">Pay now?</string>
+  <string name="really_pay">"今すぐ支払う？"</string>
   <string name="recently_played">"再生履歴"</string>
   <string name="recently_played_songs">"再生履歴"</string>
   <string name="recommend_fragment_title">Featured</string>

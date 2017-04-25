@@ -515,7 +515,7 @@
   <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming overseas, only apps you've added to exceptions can use mobile data."</string>
   <string name="dialog_app_roaming_title">"Overseas roaming isn't enabled for %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
-  <string name="dialog_msg_stop_paysafety_scan">Stop payment security check?</string>
+  <string name="dialog_msg_stop_paysafety_scan">"支払いのセキュリティチェックを停止しますか？"</string>
   <string name="dialog_msg_stop_virus_scan">"Stop virus scan before it's finished?"</string>
   <string name="dialog_roaming_apps_sorted_title">"並べ替え"</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
@@ -793,7 +793,7 @@
   <string name="manual_handle_title">"利用可能な機能"</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">"データ使用量を設定"</string>
-  <string name="manual_item_white_list_summary">Prevent selected apps from being optimized</string>
+  <string name="manual_item_white_list_summary">"選択したアプリが最適化されないようにする"</string>
   <string name="manual_item_white_list_title">"例外"</string>
   <string name="manual_white_list_header">%d exceptions</string>
   <string name="memory_check_content">Freed %s</string>
@@ -827,7 +827,7 @@
   <string name="menu_text_networkassistants_danger">"超過 %s"</string>
   <string name="menu_text_networkassistants_remain">"残り %s"</string>
   <string name="menu_text_power_manager">"電池使用量"</string>
-  <string name="menu_text_power_percent_title">Battery %s</string>
+  <string name="menu_text_power_percent_title">"バッテリー %s"</string>
   <string name="mi_service_app_detail">"データ使用量の詳細"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Framework details</string>
@@ -838,7 +838,7 @@
   <string name="msg_update_error_code_success">"完了"</string>
   <string name="msg_update_up">"非表示"</string>
   <string name="network_assistant_upgraded_body">"詳細を表示するにはタップ。"</string>
-  <string name="network_assistant_upgraded_title">Updated</string>
+  <string name="network_assistant_upgraded_title">"更新済み"</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
   <string name="network_blocked_notification_summary">Test network</string>
   <string name="network_blocked_switch_wifi">"ネットワークを切り替える"</string>
@@ -925,7 +925,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="open">"開く"</string>
   <string name="open_app">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
-  <string name="open_now">Allow app to use mobile data</string>
+  <string name="open_now">"モバイルデータの使用をアプリに許可"</string>
   <string name="operator_diagnostic">"キャリア診断"</string>
   <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
@@ -937,7 +937,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optimize_result_button_cooldown_now">Cool down</string>
   <string name="optimize_result_button_correct_now">Adjust</string>
   <string name="optimize_result_button_fix_now">"修復"</string>
-  <string name="optimize_result_button_mifi_insurance">Buy now</string>
+  <string name="optimize_result_button_mifi_insurance">"今すぐ購入"</string>
   <string name="optimize_result_button_onekey_open">"オンにする"</string>
   <string name="optimize_result_button_onekey_restore">"復元する"</string>
   <string name="optimize_result_button_open_now">"オンにする"</string>
@@ -976,12 +976,12 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_antivirus">システムアプリ/セキュリティ/ウイルススキャン</string>
   <string name="path_app_permissions">システムアプリ/セキュリティ/パーミッション/App permissions</string>
   <string name="path_auto_restart">システムアプリ/セキュリティ/パーミッション/自動起動</string>
-  <string name="path_buy_flow">システムアプリ/セキュリティ/Data usage/Buy mobile data</string>
+  <string name="path_buy_flow">システムアプリ/セキュリティ/データ使用量/Buy mobile data</string>
   <string name="path_cleanmaster">システムアプリ/セキュリティ/クリーナー</string>
   <string name="path_networkassistant_1">システムアプリ/セキュリティ/データ使用量</string>
   <string name="path_networkassistant_2">システムアプリ/セキュリティ/データ使用量</string>
   <string name="path_networkassistant_4">システムアプリ/セキュリティ/データ使用量/ネットワークをテスト</string>
-  <string name="path_payment_security">システムアプリ/セキュリティ/Payment security</string>
+  <string name="path_payment_security">システムアプリ/セキュリティ/支払いのセキュリティ</string>
   <string name="path_powercenter">システムアプリ/セキュリティ/電池使用量</string>
   <string name="path_powercenter_powerrank">電池とパフォーマンス/電池使用量</string>
   <string name="path_securitycenter">システムアプリ/セキュリティ</string>
@@ -989,11 +989,11 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_usb_install">システムアプリ/セキュリティ/パーミッション/USB経由でインストール</string>
   <string name="pay_charge">Purchase additional data</string>
   <string name="pc_install_manager">"USB経由でインストール"</string>
-  <string name="pc_to_phone_install">Blocked installation of %s via USB</string>
+  <string name="pc_to_phone_install">"USB経由で%sのインストールをブロックしました"</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
-  <string name="permission_action_accept">Accept</string>
-  <string name="permission_action_prompt">Notify</string>
-  <string name="permission_action_reject">Deny</string>
+  <string name="permission_action_accept">"許可"</string>
+  <string name="permission_action_prompt">"確認"</string>
+  <string name="permission_action_reject">"拒否"</string>
   <string name="permission_close_permission_control_dialog_msg">"When permission manager is off, apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources."</string>
   <string name="permission_close_permission_control_dialog_title">Turn off?</string>
   <string name="permission_exception_summary">"Some apps don't have permission to connect to the internet"</string>
@@ -1102,7 +1102,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_category_title_securitycenter_settings">"全般"</string>
   <string name="pref_category_title_virus_lib_auto_update">Automatically update definitions</string>
   <string name="pref_category_title_virus_white_list">"例外"</string>
-  <string name="pref_check_network_diagnostics">"Test device's internet connection"</string>
+  <string name="pref_check_network_diagnostics">"端末のインターネット接続をテスト"</string>
   <string name="pref_confirm_operator_setting">Make sure the info you entered is correct</string>
   <string name="pref_connect_settings_enable_background">"バックグラウンドデータを許可"</string>
   <string name="pref_connect_settings_enable_background_hint">"ユーザーが使用していないときでもモバイデータの使用をアプリに許可する"</string>
