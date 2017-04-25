@@ -184,7 +184,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_song_sort_type">"曲を並べ替え"</string>
   <string name="dialog_song_sort_type_name">"名前順"</string>
-  <string name="dialog_song_sort_type_playing_times">"再生回数順"/string>
+  <string name="dialog_song_sort_type_playing_times">"再生回数順"</string>
   <string name="dialog_song_sort_type_time">"追加日時順"</string>
   <string name="dialog_song_view_type">Show local music</string>
   <string name="dialog_song_view_type_album">By album</string>
