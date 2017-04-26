@@ -46,8 +46,8 @@
         <item quantity="one">%d group</item>
     </plurals>
     <plurals name="dialog_content_delete_image_confirm">
-        <item quantity="other">Delete %d photos?</item>
-        <item quantity="one">Delete %d photo?</item>
+        <item quantity="other">%d枚の写真を削除しますか？</item>
+        <item quantity="one">%d枚の写真を削除しますか？</item>
     </plurals>
     <plurals name="dialog_content_delete_image_from_all_devices_confirm">
         <item quantity="other">Delete %1$s photos from all devices?</item>

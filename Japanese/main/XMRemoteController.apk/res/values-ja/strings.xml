@@ -29,7 +29,7 @@
   <string name="activity_stb_list_title">"セットトップボックスを選択"</string>
   <string name="actor_intro_title_text">Cast</string>
   <string name="add">"追加"</string>
-  <string name="add_control">IR remote</string>
+  <string name="add_control">"赤外線リモコン"</string>
   <string name="add_control_frame">Add %1$s remote</string>
   <string name="add_device">"デバイスの追加"</string>
   <string name="add_device_match_desc_bottom">3. Choose %1$s to verify the connection</string>
@@ -38,7 +38,7 @@
   <string name="add_device_remote">Add %1$s remote</string>
   <string name="add_fav_channel">"お気に入りに追加"</string>
   <string name="add_fav_channel_hint">Add more favorite channels</string>
-  <string name="add_more">Add more IR devices</string>
+  <string name="add_more">"IRデバイスの追加"</string>
   <string name="add_new_control">"リモコンの追加"</string>
   <string name="add_new_stb">Add a new set-top box ...</string>
   <string name="add_new_tv">Add TV…</string>
@@ -122,7 +122,7 @@
   <string name="brand_title_all">"すべて"</string>
   <string name="brand_title_hot">Popular</string>
   <string name="brand_title_other">"その他"</string>
-  <string name="broadcast">Radio</string>
+  <string name="broadcast">"ラジオ"</string>
   <string name="btn_connected_stb">Control set-top box</string>
   <string name="bullet_hint">"画面にこのメッセージを表示する"</string>
   <string name="bulletin">"メッセージ"</string>
@@ -330,7 +330,7 @@
   <string name="guid_one">· Connect the set-top box/TV to the same Wi-Fi network as your phone.</string>
   <string name="guid_three">"· Some controls may not be available if your TV or set-top box doesn't support Android"</string>
   <string name="guid_two">· Devices will be detected and shown on this page</string>
-  <string name="guid_zero">". Your device doesn't support IR devices, but supports Wi-Fi remotes."</string>
+  <string name="guid_zero">". お使いの端末はIRデバイスをサポートしていませんが、Wi-Fiリモコンを使用できます。"</string>
   <string name="guide">"ガイド"</string>
   <string name="has_installed">"インストール済み"</string>
   <string name="hd_channel_preferred">Prefer HD video</string>
@@ -367,15 +367,15 @@
   <string name="ir_device_air_cleaner">"空気清浄器"</string>
   <string name="ir_device_air_condition">"エアコン"</string>
   <string name="ir_device_all_ir">"すべて"</string>
-  <string name="ir_device_amp">A/V receiver</string>
+  <string name="ir_device_amp">"A/V受信機"</string>
   <string name="ir_device_box">Box</string>
-  <string name="ir_device_camera">Camera</string>
+  <string name="ir_device_camera">"カメラ"</string>
   <string name="ir_device_dvb_s">Set-top box</string>
-  <string name="ir_device_dvd">DVD Player</string>
+  <string name="ir_device_dvd">"DVDプレーヤー"</string>
   <string name="ir_device_fan">"送風機"</string>
   <string name="ir_device_iptv">IPTV</string>
-  <string name="ir_device_ir">IR remote</string>
-  <string name="ir_device_lamp">Light bulb</string>
+  <string name="ir_device_ir">"赤外線リモコン"</string>
+  <string name="ir_device_lamp">"電球"</string>
   <string name="ir_device_mibox">Mi Box</string>
   <string name="ir_device_milink">Wi-Fi device</string>
   <string name="ir_device_mitv">Mi TV</string>
@@ -388,8 +388,8 @@
   <string name="ir_device_sound">"スピーカー"</string>
   <string name="ir_device_stb">Set-top box</string>
   <string name="ir_device_tv">TV</string>
-  <string name="ir_device_wifi">Wi-Fi remote</string>
-  <string name="ir_not_supported_devices">"* Mi TV 3/Mi TV Bar/Mi Box 3/Mi Boxは赤外線リモコンをサポートしていません。Wi-Fi remoteを試してください。"</string>
+  <string name="ir_device_wifi">"Wi-Fiリモコン"</string>
+  <string name="ir_not_supported_devices">"* Mi TV 3/Mi TV Bar/Mi Box 3/Mi Boxは赤外線リモコンをサポートしていません。Wi-Fiリモコンを試してください。"</string>
   <string name="jump_to_mivideo">View on mobile device</string>
   <string name="just_now">"ちょうど今"</string>
   <string name="just_used">"ちょうど今"</string>
@@ -554,7 +554,7 @@ Then answer the question"</string>
   <string name="no_data">No info</string>
   <string name="no_introduction">No description</string>
   <string name="no_ir_other_support">You can still use your device to control your Mi TV or Mi Box over Wi-Fi.</string>
-  <string name="no_ir_support">No IR devices found</string>
+  <string name="no_ir_support">"IRデバイスが見つかりません"</string>
   <string name="no_milink_device">没有发现小米电视/盒子，请稍后再试</string>
   <string name="no_network">"· ネットワークに接続できませんでした"</string>
   <string name="no_program">No content here</string>
@@ -749,7 +749,7 @@ Then answer the question"</string>
   <string name="pm_2.5">PM2.5:</string>
   <string name="popup_installed_app_no_app">Getting app, wait a minute and try again</string>
   <string name="popup_installed_app_title">Select the app you want to open on TV</string>
-  <string name="popup_select_device">Select Wi-Fi remote</string>
+  <string name="popup_select_device">"Wi-Fiリモコンを選択"</string>
   <string name="power">"電源"</string>
   <string name="power_off">Off</string>
   <string name="power_on">On</string>
@@ -961,7 +961,7 @@ directly from your Lock screen"</string>
   <string name="succeed_content">Added %3$s %4$s successfully.</string>
   <string name="succeed_finish">"完了"</string>
   <string name="succeed_title">"登録"</string>
-  <string name="suggest_use_wifi_rc">* Wi-Fi remote also contains such features as video cast, apps, etc.</string>
+  <string name="suggest_use_wifi_rc">"* Wi-Fiリモコンにはビデオキャスト、アプリなどの機能も含まれています。"</string>
   <string name="supported_by_kookong">Technical support by Kookong</string>
   <string name="supporting_soon">Coming soon</string>
   <string name="swipe_loading">"読み込み中..."</string>
@@ -990,7 +990,7 @@ directly from your Lock screen"</string>
   <string name="turn_on">Turn on</string>
   <string name="turn_on_timeing_time_tip">AC will be turned on at %1$s</string>
   <string name="tv">TV</string>
-  <string name="tv_broadcast">TV and radio</string>
+  <string name="tv_broadcast">"TVとラジオ"</string>
   <string name="tv_live">电视直播</string>
   <string name="tv_mirror">Display controls</string>
   <string name="tv_mirror_intro">Show display controls in landscape mode</string>
@@ -1070,7 +1070,7 @@ To change, long press TV's power button"</string>
   <string name="volume">﻿"音量"</string>
   <string name="weather_out">"外気温:"</string>
   <string name="wechat_account">WeChat account</string>
-  <string name="wifi_rc_create_help">How to add a Wi-Fi remote?</string>
+  <string name="wifi_rc_create_help">"Wi-Fiリモコンを追加するには？"</string>
   <string name="wifi_rc_create_shortcut_desc">"\"%1$s\"のショートカットをホーム画面に追加しますか？"</string>
   <string name="wifi_rc_create_shortcut_title">"ショートカットを追加"</string>
   <string name="wind_direct">"風向き"</string>

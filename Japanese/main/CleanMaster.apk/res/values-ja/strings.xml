@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_title_ad">Ads</string>
-  <string name="activity_title_apk">Packages</string>
+  <string name="activity_title_apk">"パッケージ"</string>
   <string name="activity_title_brightness_image">Under and overexposed</string>
   <string name="activity_title_cache">"キャッシュ"</string>
   <string name="activity_title_cache_data">App data</string>
@@ -97,7 +97,7 @@
   <string name="clean_content_zero">None</string>
   <string name="clear_bigfiles">"大きいファイル、重複した写真、その他の古いアイテムを削除"</string>
   <string name="clear_immediately">"今すぐ消去"</string>
-  <string name="clear_safe_notify">"通知シェードのウィジェット"</string>
+  <string name="clear_safe_notify">"通知領域のウィジェット"</string>
   <string name="clip_board_history_desc">"コピー/切り取りした内容"</string>
   <string name="clipboard">"クリップボード"</string>
   <string name="close">"閉じる"</string>
@@ -257,8 +257,8 @@
   <string name="installed">"インストール済み"</string>
   <string name="installing">"インストール中"</string>
   <string name="item_title_process_mode">Choose an action</string>
-  <string name="junk_tag_RF_EmptyFolders">Empty folders</string>
-  <string name="junk_tag_RF_ImageThumbnails">Gallery Thumbnails</string>
+  <string name="junk_tag_RF_EmptyFolders">"空のフォルダ"</string>
+  <string name="junk_tag_RF_ImageThumbnails">"ギャラリーのサムネイル"</string>
   <string name="just_now">"ちょうど今"</string>
   <string name="label_image_list_none">None</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
@@ -287,7 +287,7 @@
   <string name="msg_update_error_code_unknown_error">"不明なエラー"</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">"プライバシーポリシー"</string>
-  <string name="nb_clear_set">"キャッシュの消去、バッテリーとブロックリストの情報を通知シェードに表示する"</string>
+  <string name="nb_clear_set">"キャッシュの消去、バッテリーとブロックリストの情報を通知領域に表示する"</string>
   <string name="net_assistant_detail">Used %1$s, saved %2$s</string>
   <string name="net_assistant_title">Used %s of mobile data this month</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
@@ -353,7 +353,7 @@
   <string name="privacy_search_type">"Google検索"</string>
   <string name="promotion">Ad</string>
   <string name="recommend_news">Recommended sources</string>
-  <string name="recommend_the_following">Take the following actions to get the most out of your device</string>
+  <string name="recommend_the_following">"端末を最大限に活用するには、次の操作を実行します"</string>
   <string name="recommended">Featured</string>
   <string name="safety_check_detail">%1$d times, earned %2$d points</string>
   <string name="safety_rank">Ahead of %d%% MIUI users in terms of safety</string>
@@ -378,7 +378,7 @@
   <string name="summary_delete_cache">"選択したアプリのキャッシュを消去しますか？"</string>
   <string name="summary_delete_large_file">"選択したファイルを完全に削除しますか？"</string>
   <string name="summary_delete_video">"&gt;選択した動画を完全に削除しますか？"</string>
-  <string name="summary_optimizer">"This feature uploads folder names to update Cheetah Mobile's online database and requires your device's ID."</string>
+  <string name="summary_optimizer">"この機能はフォルダ名をアップロードしてCheetah Mobileのオンラインデータベースを更新し、お使いの端末のIDを必要とします。"</string>
   <string name="sys_cache_on_sdcard_item_name">"キャッシュ"</string>
   <string name="text_optimizer">"フォルダ名をアップロード"</string>
   <string name="there_is_no">Everything looks good, come back later</string>
@@ -391,7 +391,7 @@
   <string name="tips_of_network_speed_set">View network speed in the status bar</string>
   <string name="tips_of_operators_set">Adjust data usage stats automatically</string>
   <string name="tips_of_package_set">Set your data plan and control the amount of traffic you use</string>
-  <string name="tips_of_traffic_notification">"モバイルデータの統計を通知シェードに表示する"</string>
+  <string name="tips_of_traffic_notification">"モバイルデータの統計を通知領域に表示する"</string>
   <string name="tips_of_traffic_pack_threshold">"Buy more data when you're about to reach your traffic limit"</string>
   <string name="tips_of_virus_scan">Scan your device for viruses regularly to keep it secure</string>
   <string name="title_auto_cleaner">Remind to clean</string>
@@ -413,9 +413,9 @@
   <string name="toast_add_white_list_success">" 例外に正常に追加されました"</string>
   <string name="toast_app_no_residual_on_sdcard">"アプリはSDカード上に何もファイルを保存していません"</string>
   <string name="toast_backup_is_running">"バックアップは既に実行中です"</string>
-  <string name="toast_backup_uninstall_failed">"Couldn't back up %d apps"</string>
-  <string name="toast_backup_uninstall_failed2">"Couldn't back up"</string>
-  <string name="toast_backup_uninstall_success">Backup and uninstall complete</string>
+  <string name="toast_backup_uninstall_failed">"%d個のアプリがバックアップできませんでした"</string>
+  <string name="toast_backup_uninstall_failed2">"バックアップできませんでした"</string>
+  <string name="toast_backup_uninstall_success">"バックアップとアンインストールが完了"</string>
   <string name="toast_delete_select_image_succeed">Deleted</string>
   <string name="toast_garbage_cleanup_success">Clean up finished</string>
   <string name="toast_garbage_list_empty">Everything looks good!</string>

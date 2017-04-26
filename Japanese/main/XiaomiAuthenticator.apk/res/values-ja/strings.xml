@@ -60,7 +60,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="howitworks_page_verify_device_details">"You can also choose to remember the computer and Xiaomi won't ask you for a code there again."</string>
   <string name="howitworks_page_verify_device_title">"Then you're signed in."</string>
   <string name="install_button">"インストール"</string>
-  <string name="install_dialog_message">To scan barcodes containing keys, you must install the ZXing barcode scanner.</string>
+  <string name="install_dialog_message">"キーを含むバーコードを読み取るには、ZXingバーコードスキャナーをインストールする必要があります。"</string>
   <string name="install_dialog_title">"バーコードスキャナーをインストールしますか？"</string>
   <string name="jump_createpattern_tip">"アカウントを保護するためのパスワードを作成"</string>
   <string name="jump_lockpattern_title">"注意"</string>
@@ -71,7 +71,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="lockpattern_confirm_button_text">"確認"</string>
   <string name="lockpattern_continue_button_text">"続行"</string>
   <string name="lockpattern_need_to_confirm">"確認のためパターンを再入力"</string>
-  <string name="lockpattern_need_to_confirm_wrong">Inconsistent with the previous entry, please re-enter:</string>
+  <string name="lockpattern_need_to_confirm_wrong">"以前の入力と一致しません、再入力してください:"</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;パスワードが間違っています。入力できるのはあと%d回です&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
@@ -144,7 +144,7 @@ Before removing:
   <string name="timesync_sync_now_time_corrected_dialog_details">"Authenticator's internal clock has been adjusted to match the time provided by servers. 
 
 The Date &amp; Time settings on this device have not been changed."</string>
-  <string name="timesync_sync_now_time_corrected_dialog_title">Time corrected</string>
+  <string name="timesync_sync_now_time_corrected_dialog_title">"時刻を修正しました"</string>
   <string name="tip1_patternforgotten">Reinstall and reactivate</string>
   <string name="tip2_patternforgotten">Touch reset to clear account data and reactivate.</string>
   <string name="tip_lockpattern">"パスワードは4文字以上にする必要があります"</string>
@@ -161,12 +161,12 @@ The Date &amp; Time settings on this device have not been changed."</string>
   <string name="title_patternforgotten">"Forget password？
 You can："</string>
   <string name="title_updatepattern">"パスワードを変更"</string>
-  <string name="title_visible_pattern">Make pattern visible</string>
+  <string name="title_visible_pattern">"パターンを表示する"</string>
   <string name="type_prompt">Type of key</string>
   <string name="update_pattern_jump">&lt;u&gt;パスワードを削除&lt;/u&gt;</string>
   <string name="version_preference_title">Version</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;If you delete your Mi Security Token, you won't be able to sign in to your account."</string>
-  <string name="welcome_page_details">"— Keep your account safe.
-— Prevent strangers from using your device to sign in to your account."</string>
+  <string name="welcome_page_details">"— あなたのアカウントを安全に保ちます。
+— 見知らぬ人が端末を使用してアカウントにログインできないようにします。"</string>
   <string name="welcome_page_title">Use for Secure Sign-in</string>
 </resources>
