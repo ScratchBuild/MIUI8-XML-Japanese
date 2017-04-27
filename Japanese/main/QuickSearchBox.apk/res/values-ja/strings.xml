@@ -110,6 +110,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="switch_application">"アプリ"</string>
   <string name="switch_browser">"ブラウザ"</string>
   <string name="switch_contacts">"連絡先"</string>
+  <string name="switch_email">"メール"</string>
   <string name="switch_file">"ファイル"</string>
   <string name="switch_mms">"メッセージ"</string>
   <string name="switch_notes">"ノート"</string>

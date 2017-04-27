@@ -37,6 +37,7 @@
   <string name="factorialDesc">階乗</string>
   <string name="from_unit_en">Kilometer per hour</string>
   <string name="from_unit_short">km/h</string>
+  <string name="golbal_search_path_calculator_setting">システムアプリ/電卓/設定</string>
   <string name="home_title_calculator">電卓</string>
   <string name="item_title_aa_payment">割り勘</string>
   <string name="item_title_area_conversion">面積</string>

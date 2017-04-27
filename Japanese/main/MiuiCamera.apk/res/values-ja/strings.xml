@@ -87,6 +87,7 @@ facial expression to synthesize into a photo"</string>
   <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="path_settings">"システムアプリ/カメラ/設定"</string>
+  <string name="portrait_mode_depth_effect_success_hint">Depth effect</string>
   <string name="portrait_mode_lowlight_hint">More light required</string>
   <string name="portrait_mode_too_close_hint">Move farther away</string>
   <string name="portrait_mode_too_far_hint">Place subject within 2.5 meters</string>

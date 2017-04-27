@@ -52,8 +52,6 @@
   <string name="birthday_event_description_today">"今日は"</string>
   <string name="birthday_event_description_tomorrow">"明日は"</string>
   <string name="birthday_event_description_yesterday">"昨日は"</string>
-  <string name="birthday_metric">"歳"</string>
-  <string name="birthday_notification_age_term">%1$s%2$s</string>
   <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s is coming up."</string>
@@ -225,6 +223,7 @@
   <string name="horoscope_card_comprehensive">"総合運："</string>
   <string name="horoscope_card_financial">"金運："</string>
   <string name="horoscope_card_love">"恋愛運："</string>
+  <string name="horoscope_card_set_bazi">点击设置星座运势</string>
   <string name="horoscope_card_working">"仕事運："</string>
   <string name="horoscope_select_activity_label">"星座を選択"</string>
   <string name="huangli_bad_type">忌</string>
@@ -277,6 +276,7 @@
   <string name="match_ed">"終了済"</string>
   <string name="match_ing">"進行中"</string>
   <string name="match_not_started">"開始前"</string>
+  <string name="match_select_activity_label">Select Matches</string>
   <string name="menu_general_preferences">"全般設定"</string>
   <string name="menu_preferences">"設定"</string>
   <string name="menu_reminder_preferences">"通知の設定"</string>
@@ -350,8 +350,10 @@
   <string name="repeat_end_label">Stop repeating after</string>
   <string name="repeat_end_times_unit">" times"</string>
   <string name="repeat_interval_dialog_title">Every %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$s</string>
-  <string name="repeat_interval_frequency_single">%1$s</string>
+  <string name="repeat_interval_frequency_day_single">"日"</string>
+  <string name="repeat_interval_frequency_month_single">"月"</string>
+  <string name="repeat_interval_frequency_week_single">"週"</string>
+  <string name="repeat_interval_frequency_year_single">"年"</string>
   <string name="repeat_label_choose_day">"日を選択"</string>
   <string name="repeat_label_choose_month">"月を選択"</string>
   <string name="repeat_label_choose_time">"アラーム時刻を選択"</string>

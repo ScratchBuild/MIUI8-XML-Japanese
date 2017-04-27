@@ -24,7 +24,8 @@
   <string name="account_setting_message_body_load_text">"本文のみ"</string>
   <string name="account_settings_action">"アカウントの設定"</string>
   <string name="account_settings_background_attachments_label">"添付ファイルのダウンロード"</string>
-  <string name="account_settings_background_attachments_summary">"Wi-Fi接続時に最近のメールの添付ファイルを自動的にダウンロード"</string>
+  <string name="account_settings_background_attachments_summary">"Wi-Fiを使用して添付ファイルをダウンロード"</string>
+  <string name="account_settings_background_attachments_summary_inter">"Wi-Fiを使用して添付ファイルをダウンロード"</string>
   <string name="account_settings_data_usage">"同期設定"</string>
   <string name="account_settings_description_label">"アカウント名"</string>
   <string name="account_settings_edit_quick_responses_label">"クイック返信"</string>
@@ -486,7 +487,7 @@
   <string name="import_button_text">"インポート"</string>
   <string name="import_from_other_account">"他のアカウントからインポート"</string>
   <string name="info_actionbar_normal_detail">Promotion</string>
-  <string name="info_item_hide">"非表示"</string>
+  <string name="info_item_hide">"削除"</string>
   <string name="info_switch_summary">Show promotions on top of the inbox</string>
   <string name="info_switch_title">Promotion</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
@@ -714,6 +715,7 @@ to receive reminders about payments and trips"</string>
   <string name="policy_dont_allow_unsigned_apps">"無署名のアプリを許可しない"</string>
   <string name="policy_dont_allow_unsigned_installers">"無署名のアプリインストーラを許可しない"</string>
   <string name="policy_dont_allow_wifi">"Wi-Fiを許可しない"</string>
+  <string name="policy_dont_allow_wifi_inter">"Wi-Fiを許可しない"</string>
   <string name="policy_email_age">"同期するメールの数を制限する"</string>
   <string name="policy_html_truncation">"HTMLメールのサイズを制限する"</string>
   <string name="policy_password_expiration">"パスワードの有効期限を設定する"</string>

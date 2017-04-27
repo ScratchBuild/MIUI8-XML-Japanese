@@ -37,7 +37,7 @@ this feature will be added to Second space automatically."</string>
   <string name="confirmCloseSpaceDes">"You won't be able to enter Second space after you delete it. All data will be moved or deleted."</string>
   <string name="confirmDelete">"削除"</string>
   <string name="confirmSecondSpacePassword">"Second spaceのパスワードを確認"</string>
-  <string name="confirm_airspace_password">"Work spaceのパスワードを確認"</string>
+  <string name="confirm_airspace_password">"%sのパスワードを確認"</string>
   <string name="confirm_main_space_password">"First spaceのパスワードを確認"</string>
   <string name="confirm_restore">"表示しない"</string>
   <string name="contactData">"連絡先"</string>
@@ -53,6 +53,7 @@ to be able to view them anytime"</string>
   <string name="create_space_loading">"Second spaceを作成中…"</string>
   <string name="create_work_space">"Work spaceを作成"</string>
   <string name="creating_app_icon">"アイコンを作成中…"</string>
+  <string name="current_space">Current Space</string>
   <string name="dataSafe">"Second spaceを使用するのは、二つの端末を持つようなものです。"</string>
   <string name="declare_dialog_title">"デュアルアプリについて"</string>
   <string name="deleteAll">"すべて削除"</string>
@@ -85,6 +86,7 @@ to be able to view them anytime"</string>
   <string name="finger_print_num">Fingerprint %d</string>
   <string name="finger_print_of_use">"指紋認証を使用"</string>
   <string name="fingerprint_removal_failed">"指紋を削除できませんでした"</string>
+  <string name="function_not_support">Not support in this space</string>
   <string name="goToSecondSpacce">"Second spaceに移動</string>
   <string name="go_on_import">Keep importing</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
@@ -217,7 +219,7 @@ to enter Second space from Lock screen"</string>
   <string name="start_new_fingerprint_tips">"Use Second space fingerprint
 to enter Second space from Lock screen"</string>
   <string name="start_setting_guide_desc_title">There are a few things to set up</string>
-  <string name="summary_switch_apps_settings">"Second spaceで使用するアプリを選択"</string>
+  <string name="summary_switch_apps_settings">"現在のspaceで使用するアプリを選択"</string>
   <string name="sure_to_use">"確認"</string>
   <string name="switchDataSummary">Move items between spaces</string>
   <string name="switch_apps_settings">"アプリの設定"</string>
@@ -228,12 +230,12 @@ to enter Second space from Lock screen"</string>
   <string name="switch_file_success">"ファイルの移動が完了しました"</string>
   <string name="switch_in_contacts">Import contacts</string>
   <string name="switch_in_files">Import files</string>
-  <string name="switch_in_hidden_space">Import to Second space</string>
+  <string name="switch_in_hidden_space">Import to Current space</string>
   <string name="switch_in_photos">Import photos</string>
   <string name="switch_in_privacy_contacts">Import private contacts</string>
   <string name="switch_out_contacts">Export contacts</string>
   <string name="switch_out_files">Export files</string>
-  <string name="switch_out_hidden_space">Export data from Second space</string>
+  <string name="switch_out_hidden_space">Export data from Current space</string>
   <string name="switch_out_photos">Export photos</string>
   <string name="switch_out_privacy_contacts">Export private contacts</string>
   <string name="switch_success">"移動が完了しました"</string>

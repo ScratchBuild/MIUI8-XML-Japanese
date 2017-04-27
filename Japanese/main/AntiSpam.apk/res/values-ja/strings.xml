@@ -166,7 +166,6 @@
   <string name="mark_sell_block_large">Telemarketers</string>
   <string name="mark_sell_time_setting">Block numbers that have been reported as telemarketers a specified number of times</string>
   <string name="mark_time_setting_dialog_title">"番号を報告"</string>
-  <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d other users marked it as "</string>
   <string name="marked_by_user">"you marked it as "</string>
   <string name="menu_add">"追加"</string>
@@ -202,7 +201,7 @@
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">On</string>
   <string name="organization">Organization</string>
-  <string name="phone">Phone</string>
+  <string name="phone">"電話"</string>
   <string name="quiet">Do not disturb</string>
   <string name="quiet_group">Do not disturb</string>
   <string name="quiet_important_interruptions_mode">Only allow exceptions</string>
@@ -221,7 +220,7 @@
   <string name="report_warning_title">"SMSを報告"</string>
   <string name="sim_not_ready">"SIM card isn't ready"</string>
   <string name="sim_not_ready_toast">"SIM card isn't ready"</string>
-  <string name="sip_phone">SIP Phone</string>
+  <string name="sip_phone">"IP電話"</string>
   <string name="sms_delete_hint">"この番号からブロックされたメッセージをすべて削除しますか？"</string>
   <string name="sms_delete_title">"メッセージを削除"</string>
   <string name="sms_smart_engine_update">"SMSフィルタを自動的に更新する"</string>
@@ -351,5 +350,4 @@
   <string name="website">"ウェブサイト"</string>
   <string name="whitelist_prefix_add_hint">Add all numbers with this prefix to exceptions</string>
   <string name="wl_no_whitelist">"例外はありません。"</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

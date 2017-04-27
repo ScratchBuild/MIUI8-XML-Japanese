@@ -1029,6 +1029,7 @@
   <string name="sum_cfu_disabled">オフ</string>
   <string name="sum_cfu_enabled">電話をすべて{0}に転送する</string>
   <string name="sum_cfu_enabled_indicator">電話をすべて転送する</string>
+  <string name="sum_cfu_enabled_indicator_by_sim">All calls to SIM %s will be forwarded</string>
   <string name="sum_cfu_enabled_no_number">番号が利用できません</string>
   <string name="sum_cw_disabled">通話中も着信を知らせる</string>
   <string name="sum_cw_enabled">通話中も着信を知らせる</string>
@@ -1098,6 +1099,7 @@
   <string name="time_start">開始</string>
   <string name="time_start_hour">開始時間(時)</string>
   <string name="time_start_minute">開始時間(分)</string>
+  <string name="title_cfu_enabled">Call forwarding is on</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="transport_title">伝送方式</string>
   <string name="tty_mode_not_allowed_video_call">TTYモードの変更はビデオハングアウト中には行えません</string>

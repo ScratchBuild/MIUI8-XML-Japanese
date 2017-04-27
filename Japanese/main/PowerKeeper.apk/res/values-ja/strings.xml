@@ -15,7 +15,6 @@
   <string name="alter_message_switch_mode_message">When you switch modes, your previous settings will no longer apply to this app.</string>
   <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">"アプリを選択"</string>
-  <string name="app_list_total">"%d アプリ"</string>
   <string name="app_name">"バッテリーセーバー"</string>
   <string name="background">"アプリはバックグランドで実行されています"</string>
   <string name="config_description">"MIUI can identify apps with specific background processes (e.g., messaging and navigation apps, media players), and apply Battery saver in a way that won't influence important background activity."</string>
@@ -59,7 +58,7 @@
   <string name="mode_import">"インポート"</string>
   <string name="mode_settings">"設定"</string>
   <string name="movie">"動画"</string>
-  <string name="new_group_name">Customer mode</string>
+  <string name="new_group_name">Custom mode</string>
   <string name="no_applications">Empty</string>
   <string name="none">"プロセスなし"</string>
   <string name="normal">Default mode</string>
@@ -158,7 +157,6 @@
   <string name="screen_off">"画面オフ"</string>
   <string name="screen_off_10_min">Screen is off for over 10 minutes</string>
   <string name="screen_on">"画面オン"</string>
-  <string name="select_items">"%d件選択済み"</string>
   <string name="set_brightness">"画面の明るさを最大にする"</string>
   <string name="set_cpu_powermode">"CPU使用状況"</string>
   <string name="set_cpufreq_max">"CPU周波数を最大にする"</string>

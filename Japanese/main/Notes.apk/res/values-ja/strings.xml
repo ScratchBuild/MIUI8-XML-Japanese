@@ -17,6 +17,7 @@
   <string name="app_widget">"ノート"</string>
   <string name="call_folder_name">"通話ノート"</string>
   <string name="cloud_trash_bin_title">"Mi Cloudのノートを削除"</string>
+  <string name="cta_reminder">This app needs to connect to the internet to back up notes to Mi Cloud, as well as read your contacts to label the notes you take during calls.</string>
   <string name="delete_folder_dialog_tile">"フォルダを削除"</string>
   <string name="dlg_btn_set_password">"パスワードを設定"</string>
   <string name="dlg_check_reminder">"次回から表示しない"</string>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="select_items">
+        <item quantity="other">%1$d件選択済み</item>
+        <item quantity="one">%1$d件選択済み</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d アプリ</item>
+        <item quantity="one">%d アプリ</item>
+    </plurals>
     <plurals name="power_config_ultimate_on_count">
         <item quantity="other">"Ultimate modeをオンにするまであと%1$dステップです。"</item>
         <item quantity="one">"Ultimate modeをオンにするまであと%1$dステップです。"</item>

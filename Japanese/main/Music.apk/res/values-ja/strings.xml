@@ -59,6 +59,7 @@
   <string name="artist_gender_female">"女性"</string>
   <string name="artist_gender_group">"グループ"</string>
   <string name="artist_gender_male">"男性"</string>
+  <string name="artist_home_search_hint">"アーティストを検索"</string>
   <string name="artist_is_empty">"アーティスト名は空にできません。"</string>
   <string name="artist_name">"アーティスト"</string>
   <string name="artist_news">News</string>
@@ -106,6 +107,7 @@
   <string name="can_not_find_resource">"リソースが見つかりません"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_running_download">"キャンセル"</string>
+  <string name="change_download_quality">Change download quality</string>
   <string name="channel_list_fragment_title">"ラジオ"</string>
   <string name="chinese_female">"女性アーティスト (中国)"</string>
   <string name="chinese_group">"バンド (中国)"</string>
@@ -208,6 +210,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="doc_filter">Docs</string>
   <string name="done">"完了"</string>
   <string name="download">"ダウンロード"</string>
+  <string name="download_added_to_list">"ダウンロードリストに追加"</string>
   <string name="download_all_song">"すべてダウンロード"</string>
   <string name="download_apk_desktop_installing">"インストール中"</string>
   <string name="download_apk_desktop_pause">Paused</string>
@@ -262,10 +265,20 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_success">"完了"</string>
   <string name="download_title_sorted_by_date">"ダウンロード - 日付順"</string>
   <string name="download_title_sorted_by_size">"ダウンロード - サイズ順"</string>
+  <string name="download_toast">Using mobile data to download songs</string>
+  <string name="download_toast_with_beyond_data">Using mobile data to download songs. Exceeded limit by %s</string>
+  <string name="download_toast_with_data">Using mobile data to download songs, %s remaining</string>
   <string name="download_traffic_dialog_buy_package">Buy music data plan</string>
-  <string name="download_traffic_dialog_msg">Using your mobile data to download songs may increase your mobile data charges</string>
+  <string name="download_traffic_dialog_msg">You have %s of mobile data left. Use mobile data to download songs?</string>
+  <string name="download_traffic_dialog_msg_beyond">"You've already exceeded your mobile data limit by %s. Use mobile data to download songs?"</string>
+  <string name="download_traffic_dialog_msg_serious">You have only %s of mobile data left. Use mobile data to download songs?</string>
+  <string name="download_traffic_dialog_msg_without_data">"You're using mobile data to download songs. Download anyway?"</string>
   <string name="download_traffic_dialog_negative_button">"Wi-Fi接続を待機"</string>
-  <string name="download_traffic_dialog_position_button">"ダウンロードを継続"</string>
+  <string name="download_traffic_dialog_position_button">"ダウンロード"</string>
+  <string name="download_traffic_dialog_position_button_serious">"ダウンロードを継続"</string>
+  <string name="download_traffic_dialog_title">Data usage warning</string>
+  <string name="download_traffic_dialog_title_beyond">Data usage exceeded</string>
+  <string name="download_traffic_dialog_title_serious">Too little mobile data left</string>
   <string name="download_unknown_title">"&lt;無題>"</string>
   <string name="download_wait_connect">"接続を待機中"</string>
   <string name="download_when_network_connected">"インターネットに接続してダウンロード"</string>
@@ -463,6 +476,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="metered_alert_msg">"モバイルデータを使用して曲を再生します。とにかく再生しますか？"</string>
   <string name="metered_alert_msg_with_data">"%s のモバイルデータが残っています。モバイルデータを使用して曲を再生しますか？"</string>
   <string name="metered_allow">"再生"</string>
+  <string name="metered_beyond_alert">Data usage exceeded</string>
   <string name="metered_disallow">"後で"</string>
   <string name="metered_play_toast">"モバイルデータを使用して曲を再生"</string>
   <string name="metered_play_toast_with_beyond_data">"モバイルデータを使用して曲を再生。制限を %s 超過しました"</string>
@@ -694,6 +708,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="search_for_album">"アルバム"</string>
   <string name="search_for_artist">"アーティスト"</string>
   <string name="search_hint">"アーティスト、曲、アルバム、おすすめを検索"</string>
+  <string name="search_hint_not_support_online">"アーティスト、曲、アルバムを検索"</string>
   <string name="search_history_clear_all">"消去"</string>
   <string name="search_instant_online_music">"オンライン"</string>
   <string name="search_lyric">"歌詞を検索"</string>
@@ -824,7 +839,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="title_online_artist">Trending artists</string>
   <string name="title_online_billboard">"チャート"</string>
   <string name="title_online_fm">"ラジオ"</string>
-  <string name="title_online_recommend">Featured playlists</string>
+  <string name="title_online_fm_recommend">"おすすめラジオ"</string>
+  <string name="title_online_recommend">"おすすめプレイリスト"</string>
   <string name="title_online_release">New albums</string>
   <string name="title_online_song">Popular songs</string>
   <string name="title_online_suggest">You might like</string>

@@ -56,8 +56,8 @@
         <item quantity="one">Remove %d song?</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Delete %d songs from Mi Cloud?</item>
-        <item quantity="one">Delete %d song from Mi Cloud?</item>
+        <item quantity="other">Delete %d songs from Mi Cloud? They will be deleted from local playlists as well.</item>
+        <item quantity="one">Delete %d song from Mi Cloud? It will be deleted from local playlists as well.</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d songs added to playlist</item>
