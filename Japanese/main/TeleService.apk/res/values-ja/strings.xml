@@ -226,7 +226,7 @@
   <string name="cfnrc_title_cta">繋がらないときは転送</string>
   <string name="cfnry_title">不在のときは転送</string>
   <string name="cfu_title">常に転送</string>
-  <string name="change_data_preference_4g_only_prompt">Looks like you have a 4G only SIM card. Set it as default for mobile data?</string>
+  <string name="change_data_preference_4g_only_prompt">"4GのみのSIMカードを持っているように見えます。モバイルデータのデフォルトとして設定しますか？"</string>
   <string name="change_num">更新</string>
   <string name="change_password">発着信制限のパスワードを変更</string>
   <string name="change_pin">SIM PINの変更</string>
@@ -313,8 +313,8 @@
   <string name="dtmf_tone_entries_normal">普通</string>
   <string name="dtmf_tones_summary">DTMFトーンの長さを設定します</string>
   <string name="dtmf_tones_title">DTMFトーン</string>
-  <string name="duration_disable_summary">Display duration is OFF</string>
-  <string name="duration_enable_summary">Display duration is ON</string>
+  <string name="duration_disable_summary">通話時間の表示はOFFです</string>
+  <string name="duration_enable_summary">通話時間の表示はONです</string>
   <string name="editContact">編集</string>
   <string name="edit_fdn_contact">発信番号制限の編集</string>
   <string name="emergencyDialerIconLabel">緊急通報</string>
@@ -450,7 +450,7 @@
   <string name="incall_error_wfc_only_no_wireless_network">電話をかけるためワイヤレスネットワークに接続します。</string>
   <string name="incall_status_dialed_mmi">MMIシーケンスを開始中...</string>
   <string name="input_password">パスワードを入力してください</string>
-  <string name="internation_remain_minutes">（or %1$s %2$s international talk time）</string>
+  <string name="internation_remain_minutes">"（または %1$s %2$s 国際通話時間）"</string>
   <string name="international_disable">国際ニュースは無効になっています</string>
   <string name="international_enable">国際ニュースは有効になっています</string>
   <string name="international_roaming_setting">データローミング</string>
@@ -698,7 +698,7 @@
   <string name="password_changed">パスワードが変更されました。</string>
   <string name="password_title">パスワード</string>
   <string name="path_answer_state_setting_title">システムアプリ/Phone/Incoming call settings</string>
-  <string name="path_antispam_setting">システムアプリ/Phone/Blocklist</string>
+  <string name="path_antispam_setting">システムアプリ/Phone/ブロックリスト</string>
   <string name="path_app_name">システムアプリ/Phone</string>
   <string name="path_auto_answer_pref_title">システムアプリ/Phone/Auto-answer</string>
   <string name="path_auto_retry_mode_title">システムアプリ/Phone/詳細設定/Auto-retry</string>
@@ -731,7 +731,7 @@
   <string name="path_telocation_custom_location_title">システムアプリ/Phone/Location/My locations</string>
   <string name="path_telocation_enable_title">システムアプリ/Phone/Location/Show location</string>
   <string name="path_turnover_mute_title">システムアプリ/Phone/Incoming call settings/Flip to silence ringer</string>
-  <string name="path_voicemail_settings">システムアプリ/Phone/詳細設定/Voicemail settings</string>
+  <string name="path_voicemail_settings">システムアプリ/Phone/詳細設定/ボイスメールの設定</string>
   <string name="pause_prompt_no">いいえ</string>
   <string name="pause_prompt_str">"番号送信\n"</string>
   <string name="pause_prompt_yes">はい</string>
@@ -783,7 +783,7 @@
   <string name="preference_telocation_summary_teloc_off">連絡先の場所を非表示</string>
   <string name="preference_telocation_summary_teloc_on">連絡先の場所を表示</string>
   <string name="preference_telocation_title">場所</string>
-  <string name="preferred_duration_title">Display duration</string>
+  <string name="preferred_duration_title">"通話時間の表示"</string>
   <string name="preferred_network_mode_3g_2g_auto">3G/2G (auto)</string>
   <string name="preferred_network_mode_4g_3g_2g_auto">4G/3G/2G (auto)</string>
   <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo auto</string>
@@ -1029,7 +1029,7 @@
   <string name="sum_cfu_disabled">オフ</string>
   <string name="sum_cfu_enabled">電話をすべて{0}に転送する</string>
   <string name="sum_cfu_enabled_indicator">電話をすべて転送する</string>
-  <string name="sum_cfu_enabled_indicator_by_sim">All calls to SIM %s will be forwarded</string>
+  <string name="sum_cfu_enabled_indicator_by_sim">SIM %sへの電話をすべて転送する</string>
   <string name="sum_cfu_enabled_no_number">番号が利用できません</string>
   <string name="sum_cw_disabled">通話中も着信を知らせる</string>
   <string name="sum_cw_enabled">通話中も着信を知らせる</string>
@@ -1099,7 +1099,7 @@
   <string name="time_start">開始</string>
   <string name="time_start_hour">開始時間(時)</string>
   <string name="time_start_minute">開始時間(分)</string>
-  <string name="title_cfu_enabled">Call forwarding is on</string>
+  <string name="title_cfu_enabled">着信転送はオンです</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="transport_title">伝送方式</string>
   <string name="tty_mode_not_allowed_video_call">TTYモードの変更はビデオハングアウト中には行えません</string>

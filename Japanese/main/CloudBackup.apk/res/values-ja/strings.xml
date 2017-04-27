@@ -122,5 +122,4 @@
   <string name="start_recover">Restore %s</string>
   <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
   <string name="wait_icon_download">"アプリアイコンをダウンロード中"</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

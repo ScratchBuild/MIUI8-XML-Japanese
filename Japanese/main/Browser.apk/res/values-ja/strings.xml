@@ -68,7 +68,7 @@
   <string name="add_shortcut_success">"ショートカットが正常に追加されました"</string>
   <string name="add_to_bookmark">"ブックマーク"</string>
   <string name="add_to_desk">"ホーム画面に設置"</string>
-  <string name="add_to_desk_lite_mode_toast">"Couldn't add to Home screen in lite mode"</string>
+  <string name="add_to_desk_lite_mode_toast">"Lite modeでホーム画面に追加できませんでした"</string>
   <string name="add_to_desk_success">"ホーム画面に設置しました"</string>
   <string name="add_to_quicklink">"スタートページ"</string>
   <string name="added_to_bookmarks">"ブックマークに追加しました"</string>
@@ -84,9 +84,9 @@
   <string name="aqi_quality_index_hazardous">"有害"</string>
   <string name="aqi_quality_index_light_pollution">"注意"</string>
   <string name="aqi_quality_index_moderate">"中程度"</string>
-  <string name="aqi_quality_index_pure">Excellent</string>
+  <string name="aqi_quality_index_pure">"優良"</string>
   <string name="aqi_quality_index_unhealthy">"不健康"</string>
-  <string name="autoSwithcingSearchEngineTips">Has switched search engine by your habit</string>
+  <string name="autoSwithcingSearchEngineTips">"あなたの習慣によって検索エンジンを切り替えました"</string>
   <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
   <string name="autofill_popup_content_description">"自動入力のポップアップを表示しています"</string>
   <string name="autologin_bar_error">"ログインに失敗しました"</string>
@@ -362,7 +362,7 @@ Pages you view won't appear in history."</string>
   <string name="keep_queued_download">Keep</string>
   <string name="last_month">"先月"</string>
   <string name="license_activity_title">"システムのWebViewライセンス"</string>
-  <string name="loading_tips">Pull down to refresh</string>
+  <string name="loading_tips">"下に引っ張って更新"</string>
   <string name="local_bookmarks">"ローカル"</string>
   <string name="login_failed_toast">"ログインできませんでした、更新してもう一度お試しください"</string>
   <string name="low_memory_error">"メモリ不足のため、直前の操作を完了することができません"</string>
@@ -433,7 +433,7 @@ Pages you view won't appear in history."</string>
   <string name="miuichromium_error_page_network_off">"Wi-Fiまたはモバイルデータをオンにする"</string>
   <string name="miuichromium_error_page_no_network">"ネットワークに接続できません"</string>
   <string name="miuichromium_error_page_reload">"更新"</string>
-  <string name="miuichromium_error_page_safe_network">Safe mode</string>
+  <string name="miuichromium_error_page_safe_network">"セーフモード"</string>
   <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
   <string name="miuichromium_error_page_title">"エラーが発生しました"</string>
   <string name="miuichromium_error_page_unknown_error">"不明なエラーが発生しました"</string>
@@ -720,7 +720,7 @@ Pages you view won't appear in history."</string>
   <string name="ssl_warnings_header">"このサイトのセキュリティ証明書には問題があります。"</string>
   <string name="start_save_page_capture">"スクリーンショットを保存中…"</string>
   <string name="storage_internal">"内部ストレージ"</string>
-  <string name="storage_permission_request_toast">Download needs storage permission, please open it</string>
+  <string name="storage_permission_request_toast">"ダウンロードにはストレージへのアクセス許可が必要です。"</string>
   <string name="storage_sd_card">"SDカード"</string>
   <string name="storage_usb">"USBストレージ"</string>
   <string name="suggest_access_appstore">Mi App Store</string>

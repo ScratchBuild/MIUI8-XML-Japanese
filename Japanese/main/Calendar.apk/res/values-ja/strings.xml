@@ -223,7 +223,7 @@
   <string name="horoscope_card_comprehensive">"総合運："</string>
   <string name="horoscope_card_financial">"金運："</string>
   <string name="horoscope_card_love">"恋愛運："</string>
-  <string name="horoscope_card_set_bazi">点击设置星座运势</string>
+  <string name="horoscope_card_set_bazi">"星座占いを設定するにはタップ"</string>
   <string name="horoscope_card_working">"仕事運："</string>
   <string name="horoscope_select_activity_label">"星座を選択"</string>
   <string name="huangli_bad_type">忌</string>

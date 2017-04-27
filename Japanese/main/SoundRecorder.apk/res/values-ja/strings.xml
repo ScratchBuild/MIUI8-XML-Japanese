@@ -146,11 +146,8 @@
   <string name="text_btn_recording">Record</string>
   <string name="text_btn_wave">Wave</string>
   <string name="text_finish">"確認"</string>
-  <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s can record for about %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Explorerアプリがインストールされていません"</string>
   <string name="wifi_recommended_body" formatted="false">"モバイルデータ接続を使用してこのファイル(%s)をダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。 ファイルをダウンロードするためにWi-Fi接続を待つには、%sをタップ。"</string>
   <string name="wifi_recommended_title">"データ使用の警告"</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

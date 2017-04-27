@@ -90,15 +90,15 @@
         <item quantity="one">(%1$d empty file) %2$s</item>
     </plurals>
     <plurals name="app_usage_day">
-        <item quantity="other">"Haven't used for %d days"</item>
-        <item quantity="one">"Haven't used for %d day"</item>
+        <item quantity="other">"%d日使用していない"</item>
+        <item quantity="one">"%d日使用していない"</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">"Haven't used for %d months"</item>
-        <item quantity="one">"Haven't used for %d month"</item>
+        <item quantity="other">"%dヶ月使用していない"</item>
+        <item quantity="one">"%dヶ月使用していない"</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">"Haven't used for %d years"</item>
-        <item quantity="one">"Haven't used for %d year"</item>
+        <item quantity="other">"%d年使用していない"</item>
+        <item quantity="one">"%d年使用していない"</item>
     </plurals>
 </resources>

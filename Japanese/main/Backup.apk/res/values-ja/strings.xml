@@ -333,7 +333,6 @@ and Mi Mover is on"</string>
   <string name="user_notice_message">"いくつかの機能が正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="user_notice_title">"注意"</string>
   <string name="wifi_title">"Wi-Fi設定"</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_connect_download_manager_fail">"ダウンロードを開始できませんでした。ダウンロードマネージャーが正常に動作することを確認してください。"</string>
   <string name="xiaomi_external_storage_unavailable">"ストレージが使用できません、SDカードを確認してください。"</string>
   <string name="xiaomi_router">Mi Router</string>

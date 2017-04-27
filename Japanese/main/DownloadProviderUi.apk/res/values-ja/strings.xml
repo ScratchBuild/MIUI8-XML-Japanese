@@ -260,7 +260,7 @@ across all your devices with Xunlei"</string>
   <string name="recommend_show_other_downloads">View popular</string>
   <string name="remove_download">"削除"</string>
   <string name="restart_download">Restart</string>
-  <string name="resume_download">Resume</string>
+  <string name="resume_download">"再開"</string>
   <string name="retry_after_network_available">"ネットワークに接続できませんでした。データ接続を確認してもう一度お試しください"</string>
   <string name="retry_download">"再試行"</string>
   <string name="revert_download_path">Use default downloads location?</string>
