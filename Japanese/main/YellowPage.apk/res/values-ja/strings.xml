@@ -323,14 +323,14 @@
   <string name="payment_failed_common_problems">支払い中にエラーが発生しました</string>
   <string name="payment_unknown_status_summary">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="payment_unknown_status_title">"支払い状況を確認できません"</string>
-  <string name="phone_event_setting_notice_text">"By using this feature you're agreeing to our %1$s and %2$s."</string>
-  <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>
+  <string name="phone_event_setting_notice_text">"この機能を利用することで、当社の%1$sと%2$sに同意されたものとみなします。"</string>
+  <string name="phone_event_setting_notice_text_with_contacts_permission">"この機能を利用することで、当社の%1$sと%2$sに同意されたものとみなします。連絡先へのアクセスが必要です。"</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">画面を引っ張って</string>
   <string name="pull_to_refresh_refreshing_label">読み込み中…</string>
   <string name="pull_to_refresh_release_label">指を離して更新</string>
   <string name="quick_yellow_page_tab_call_log">通話履歴</string>
-  <string name="quick_yellow_page_tab_phones">Phone</string>
+  <string name="quick_yellow_page_tab_phones">電話</string>
   <string name="recharge_actual_price">Price:</string>
   <string name="recharge_charge_range">Price: RMB %1$s-%2$s</string>
   <string name="recharge_follow_name">Top up</string>

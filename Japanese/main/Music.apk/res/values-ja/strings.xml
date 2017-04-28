@@ -54,7 +54,7 @@
   <string name="artist_area_europe_usa">"欧米"</string>
   <string name="artist_area_japan">"日本"</string>
   <string name="artist_area_korea">"韓国"</string>
-  <string name="artist_favor">Featured</string>
+  <string name="artist_favor">"おすすめ"</string>
   <string name="artist_gender_all">"すべて"</string>
   <string name="artist_gender_female">"女性"</string>
   <string name="artist_gender_group">"グループ"</string>
@@ -168,7 +168,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="device_connected">"接続されました"</string>
   <string name="device_not_connected">"接続されていません"</string>
   <string name="dialog_button_create_playlist">"プレイリストを作成"</string>
-  <string name="dialog_button_editor_choice">Featured</string>
+  <string name="dialog_button_editor_choice">"おすすめ"</string>
   <string name="dialog_button_find_music">Discover</string>
   <string name="dialog_button_login">"ログインして音楽を同期する"</string>
   <string name="dialog_button_scan_tracks">"端末上の音楽を検索する"</string>
@@ -295,8 +295,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="editmode_menu_share">"共有"</string>
   <string name="empty_page_no_album">No albums.</string>
   <string name="empty_page_no_artist">No artists.</string>
-  <string name="empty_page_no_document">No audio files.</string>
-  <string name="empty_page_no_track">No songs.</string>
+  <string name="empty_page_no_document">"音楽ファイルがありません。"</string>
+  <string name="empty_page_no_track">"曲がありません。"</string>
   <string name="enable_auto_payment_fail">"オンにできませんでした"</string>
   <string name="enable_auto_payment_fail_message">"自動更新をオンにできませんでした"</string>
   <string name="enable_auto_payment_success">"自動的に更新"</string>
@@ -368,8 +368,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="fragment_title_artist_album">"アルバム"</string>
   <string name="fragment_title_bill">"プレイリスト"</string>
   <string name="fragment_title_channel">"ラジオ"</string>
-  <string name="fragment_title_personal">Personal</string>
-  <string name="fragment_title_recommend">Featured</string>
+  <string name="fragment_title_personal">"パーソナル"</string>
+  <string name="fragment_title_recommend">"おすすめ"</string>
   <string name="garbage_cleanup">"クリーナー"</string>
   <string name="global_search_app_name">Music</string>
   <string name="global_search_description_entry">Enjoy music</string>
@@ -508,7 +508,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="mobile_recommended_title">"モバイルデータ使用量"</string>
   <string name="modify_lyric">"歌詞を編集"</string>
   <string name="modify_progress">"歌詞のスクロール速度を変更する"</string>
-  <string name="modify_progress_helper">Swipe up or down to adjust lyrics progress.</string>
+  <string name="modify_progress_helper">"上下にスワイプすることで歌詞の速度を調節します。"</string>
   <string name="modify_song_info">"曲情報を編集"</string>
   <string name="monthly_price">Mi Credits</string>
   <string name="more">"もっと"</string>
@@ -598,7 +598,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="ok">OK</string>
   <string name="one_month">"1ヶ月"</string>
   <string name="online_bill">"チャート"</string>
-  <string name="online_favor">Featured</string>
+  <string name="online_favor">"おすすめ"</string>
   <string name="online_fm">FM</string>
   <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from internal storage.</string>
   <string name="online_music_enabled_subtitle">Tap to stream your favorite songs.</string>
@@ -682,7 +682,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="really_pay">"今すぐ支払う？"</string>
   <string name="recently_played">"再生履歴"</string>
   <string name="recently_played_songs">"再生履歴"</string>
-  <string name="recommend_fragment_title">Featured</string>
+  <string name="recommend_fragment_title">"おすすめ"</string>
   <string name="recommended_file_size_download_in_mobile">Use %s of mobile data to download this file?</string>
   <string name="recommended_no_file_size_download_in_mobile">Use your mobile data connection to download this file?</string>
   <string name="remaining">Remaining this month:</string>

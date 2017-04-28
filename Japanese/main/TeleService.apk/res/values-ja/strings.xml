@@ -700,8 +700,8 @@
   <string name="path_answer_state_setting_title">システムアプリ/Phone/Incoming call settings</string>
   <string name="path_antispam_setting">システムアプリ/Phone/ブロックリスト</string>
   <string name="path_app_name">システムアプリ/Phone</string>
-  <string name="path_auto_answer_pref_title">システムアプリ/Phone/Auto-answer</string>
-  <string name="path_auto_retry_mode_title">システムアプリ/Phone/詳細設定/Auto-retry</string>
+  <string name="path_auto_answer_pref_title">システムアプリ/Phone/自動応答</string>
+  <string name="path_auto_retry_mode_title">システムアプリ/Phone/詳細設定/自動再試行</string>
   <string name="path_autoip">システムアプリ/Phone/詳細設定/自動IPダイヤル</string>
   <string name="path_call_background_setting_name">システムアプリ/Phone/詳細設定/Call background</string>
   <string name="path_call_forwarding_settings">システムアプリ/Phone/Call forwarding settings</string>
@@ -716,7 +716,7 @@
   <string name="path_crescendo_ringer_title">システムアプリ/Phone/Incoming call settings/Increasing ringtone volume</string>
   <string name="path_dtmf_tones_title">システムアプリ/Phone/詳細設定/DTMF tones</string>
   <string name="path_enable_antispam_strange_title">Phone/Incoming call settings/Mute first ring</string>
-  <string name="path_enable_proximity_title">システムアプリ/Phone/Incoming call settings/Proximity sensor</string>
+  <string name="path_enable_proximity_title">システムアプリ/Phone/Incoming call settings/近接センサー</string>
   <string name="path_fdn">システムアプリ/Phone/詳細設定/Fixed Dialing Numbers</string>
   <string name="path_flash_when_ring_title">システムアプリ/Phone/Incoming call settings/Flash when ringing</string>
   <string name="path_handon_ringer_title">システムアプリ/Phone/Incoming call settings/Quiet ringer when lifted</string>

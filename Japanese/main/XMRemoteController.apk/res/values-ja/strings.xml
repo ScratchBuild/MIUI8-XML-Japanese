@@ -1052,7 +1052,7 @@ To change, long press TV's power button"</string>
   <string name="video_name_actor">Cast</string>
   <string name="video_name_director">Director</string>
   <string name="video_name_intro">"概要"</string>
-  <string name="video_name_recommend">Featured</string>
+  <string name="video_name_recommend">"おすすめ"</string>
   <string name="video_name_score">Reviews</string>
   <string name="video_play">"再生"</string>
   <string name="video_play_count_label">"Views: "</string>

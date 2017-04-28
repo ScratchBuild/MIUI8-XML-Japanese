@@ -829,7 +829,7 @@
   <string name="complete_settings">一般設定</string>
   <string name="computing_size">計算中...</string>
   <string name="config_charging_function_name">充電中</string>
-  <string name="config_list_label">Configured networks</string>
+  <string name="config_list_label">構成済みネットワーク</string>
   <string name="config_mass_storage_function_name">マスストレージ</string>
   <string name="configure_apps">アプリの設定</string>
   <string name="configure_input_method">入力方法のセットアップ</string>
@@ -1392,7 +1392,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_enable_keyguard_toggle_title">画面ロック</string>
   <string name="fingerprint_enroll_button_add">別の指紋を登録</string>
   <string name="fingerprint_enroll_button_next">次へ</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Fingerprint (set Lock screen password before using it)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">指紋 (使用する前にロック画面のパスワードを設定する)</string>
   <string name="fingerprint_for_keyguard_disabled">指紋認証はセキュリティ設定によって無効にされています。</string>
   <string name="fingerprint_identify_input_password_msg">パスワードを入力</string>
   <string name="fingerprint_identify_msg">指紋を読み取り中…</string>
@@ -1475,7 +1475,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="free_xiaomi_wifi_connect_summary">タップして%1$sへ接続</string>
   <string name="frequently_fragment_delete">削除</string>
   <string name="frequently_fragment_tempty">使用頻度の高い項目は、ここに表示されます</string>
-  <string name="full_transparent_smarrcover_title">Transparent front cover</string>
+  <string name="full_transparent_smarrcover_title">透明なフロントカバー</string>
   <string name="fullbackup_data_summary">"端末のデータ（Wi-Fiのパスワードや通話履歴など）とアプリのデータ（アプリで保存された設定やファイルなど）を自動的にリモートでバックアップします。
 
 自動バックアップをONにすると、端末のデータとアプリのデータは定期的にリモートで保存されます。アプリのデータとしては、連絡先、メッセージ、写真など、機密と見なされるデータを含め、（デベロッパーの設定に基づいて）アプリで保存されたすべてのデータがバックアップされる可能性があります。"</string>
@@ -1501,8 +1501,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gallery_privacy_password_role_instruction">プライベートな写真はここに保存されます。</string>
   <string name="game_controller_settings_category">ゲーム用コントローラ</string>
   <string name="gesture_wakeup_title">画面をダブルタップすると端末が復帰します</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
+  <string name="getConfiguredNetworks">構成済みネットワークの取得</string>
+  <string name="getConnectionInfo">接続情報の取得</string>
   <string name="global_change_warning">この設定はこの端末上のすべてのユーザーに影響します。</string>
   <string name="global_font_change_title">フォントサイズの変更</string>
   <string name="global_locale_change_title">言語の変更</string>
@@ -1713,7 +1713,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="large_font">大</string>
   <string name="last_synced">最終同期日時: %1$s</string>
   <string name="last_time_used_label">前回の使用</string>
-  <string name="lattice_smartcover_title">Lattice front cover</string>
+  <string name="lattice_smartcover_title">格子のフロントカバー</string>
   <string name="launch_by_default">Open by default</string>
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
@@ -3324,7 +3324,7 @@ PINが正しくない可能性があります。"</string>
   <string name="slot_number">（スロット%1$d）</string>
   <string name="slot_status_title">IMEI情報</string>
   <string name="small_font">小</string>
-  <string name="smallwindow_smartcover_title">Small window front cover</string>
+  <string name="smallwindow_smartcover_title">小窓のフロントカバー</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">スマートカバーモード</string>
   <string name="smartcover_sensitive_summary">スマートカバーを使用して端末をロックまたはロック解除する</string>
   <string name="smartcover_sensitive_title">スマートカバー</string>

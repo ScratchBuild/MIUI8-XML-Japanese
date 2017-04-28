@@ -73,7 +73,7 @@
   <string name="gift_purchase_success_dlg_title">"ギフトを購入しました"</string>
   <string name="gift_purchased_endnote">To: %1$s</string>
   <string name="gift_purchased_list_empty">"You haven't given any gifts."</string>
-  <string name="gift_purchased_list_empty_with_received_list_empty">No gifts.</string>
+  <string name="gift_purchased_list_empty_with_received_list_empty">"ギフトはありません。"</string>
   <string name="gift_received_endnote">From: %1$s (received %2$s)</string>
   <string name="gift_received_list_empty">"You haven't received any gifts."</string>
   <string name="gift_received_notification_title">%s gave you a theme.</string>
@@ -179,7 +179,7 @@
   <string name="resource_delete">"削除"</string>
   <string name="resource_delete_all">"選択した%1$d個のテーマを削除しますか？"</string>
   <string name="resource_delete_confirm">"テーマを削除しますか？"</string>
-  <string name="resource_delta_update_failed">Downloading theme again…</string>
+  <string name="resource_delta_update_failed">"テーマを再ダウンロード中…"</string>
   <string name="resource_delta_update_successful">"テーマが更新されました"</string>
   <string name="resource_delta_update_total">%1$d delta updates saved %2$s</string>
   <string name="resource_detail">"詳細"</string>
@@ -241,7 +241,7 @@
   <string name="resource_on_trial">"試用中: %1$s"</string>
   <string name="resource_online">"オンライン"</string>
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
-  <string name="resource_pack_discount_info">Savings: %1$s</string>
+  <string name="resource_pack_discount_info">"割引き: %1$s"</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">"このテーマは利用できません。"</string>
   <string name="resource_pack_price_info">"元の価格: %1$s"</string>
   <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
@@ -275,7 +275,7 @@
   <string name="resource_select_boot_audio_confirm">"この起動音を選択しますか？"</string>
   <string name="resource_select_notification_audio_confirm">"このアラーム音を選択しますか？"</string>
   <string name="resource_select_ringtone_audio_confirm">"この着信音を選択しますか？"</string>
-  <string name="resource_selected">Featured</string>
+  <string name="resource_selected">"おすすめ"</string>
   <string name="resource_send">"送信"</string>
   <string name="resource_server_alert_dialog_title">"We'll be right back…"</string>
   <string name="resource_server_out_of_service">Unfortunately, our server is down at the moment.</string>
@@ -291,7 +291,7 @@
   <string name="resource_title_local">"保存済み"</string>
   <string name="resource_title_rank">Top charts</string>
   <string name="resource_title_select_ringtone">"着信音を選択"</string>
-  <string name="resource_title_subject">Featured</string>
+  <string name="resource_title_subject">"おすすめ"</string>
   <string name="resource_trial_days">"(試用中: %1$dd)"</string>
   <string name="resource_trial_days_hours">"(試用中: %1$dd %2$dh)"</string>
   <string name="resource_trial_end_message">"%1$sの使用期限が切れました。もし気に入った場合には、購入してください。"</string>
