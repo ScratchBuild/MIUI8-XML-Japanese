@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Parse_error_dlg_text">"パッケージの解析中に問題が発生しました。"</string>
+  <string name="Parse_error_dlg_title">"解析エラー"</string>
   <string name="abc_action_bar_home_description">"ホームへ移動"</string>
   <string name="abc_action_bar_home_description_format">%1$s、%2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s、%2$s、%3$s</string>
