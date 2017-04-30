@@ -560,7 +560,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="label_no_duplicate_contacts">"重複は見つかりませんでした"</string>
   <string name="label_notes">"ノート"</string>
   <string name="label_sip_address">IP通話</string>
-  <string name="launcherDialer">Phone</string>
+  <string name="launcherDialer">"電話"</string>
   <string name="listCustomView">カスタムビュー内の連絡先</string>
   <string name="listFoundAllContactsZero">"連絡先はありません"</string>
   <string name="listSingleContact">"単一の連絡先"</string>
