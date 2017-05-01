@@ -48,7 +48,7 @@
   <string name="force_touch_add_alarm">"アラームを追加"</string>
   <string name="force_touch_enter_stopwatch">"ストップウォッチ"</string>
   <string name="force_touch_enter_timer">"タイマー"</string>
-  <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+  <string name="full_wday_month_day_no_year">"M月d日 EEEE"</string>
   <string name="hour">"1時間"</string>
   <string name="hour_unit">Hr +</string>
   <string name="hours">"%d時間"</string>
