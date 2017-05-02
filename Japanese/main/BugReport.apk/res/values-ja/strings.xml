@@ -141,7 +141,7 @@
   <string name="michat_failed_to_fetch_fql">"FAQ情報を取得できませんでした、ネットワーク接続を確認してください"</string>
   <string name="michat_feedback_title_name">"フィードバックのアンケート"</string>
   <string name="michat_finish_text">"完了"</string>
-  <string name="michat_in_artificial_customer_state">"Can't do this while being helped by a person"</string>
+  <string name="michat_in_artificial_customer_state">"ヘルプを受けている間にこれを行うことはできません"</string>
   <string name="michat_invalid_url">"無効なURL"</string>
   <string name="michat_invation_invite_fail">Sorry, our support workers are busy now. Try again later.</string>
   <string name="michat_invation_invite_full">Sorry, our support workers are all busy now. Try again later.</string>
@@ -159,7 +159,7 @@
   <string name="michat_msg_status_arrived">"送信済み"</string>
   <string name="michat_msg_status_send">"送信"</string>
   <string name="michat_msg_status_sendding">"送信中…"</string>
-  <string name="michat_msg_too_long_info">"You've entered %1$d characters. You can enter up to %2$d characters."</string>
+  <string name="michat_msg_too_long_info">"あなたは%1$d文字入力済みです。%2$d文字まで入力することができます。"</string>
   <string name="michat_net_error_info">No network connection, tap here to go to Settings</string>
   <string name="michat_network_unavaliable">"情報を取得できませんでした、ネットワーク接続を確認してください"</string>
   <string name="michat_no_good_message_title">"This can't solve my problem."</string>
@@ -177,7 +177,7 @@
   <string name="michat_type_list_null">"情報を取得できませんでした、後ほど再試行してください"</string>
   <string name="michat_type_picture">Image</string>
   <string name="michat_user_quit">"チャットから退室しました"</string>
-  <string name="michat_wait_for_a_moment">Just a sec, help is on the way!</string>
+  <string name="michat_wait_for_a_moment">"少々お待ちください、すぐ助けに向かいます！"</string>
   <string name="michat_webview_title">"詳細を表示"</string>
   <string name="min_error">Your %1$s should be longer.</string>
   <string name="modem_tool_log">Capture modem logs</string>
@@ -224,7 +224,7 @@
   <string name="permission_granted">%1$s permission granted</string>
   <string name="pic_not_exist">"この画像は存在しません"</string>
   <string name="pic_view_format">%1$s/%2$s</string>
-  <string name="plus_one_submit_dialog_content">"Your feedback along with error logs will be sent to Mi's servers."</string>
+  <string name="plus_one_submit_dialog_content">"フィードバックはエラーログと共にXiaomiのサーバーに送信されます。"</string>
   <string name="plus_one_submit_dialog_not_show_again">"設定を保存"</string>
   <string name="post_miui_bbs_failed">"フォーラムに投稿できませんでした"</string>
   <string name="pull_to_refresh_pull_label">"画面を引っ張って"</string>
@@ -246,7 +246,7 @@
   <string name="section_screenshot">"スクリーンショット"</string>
   <string name="submit_dialog_cancel">"キャンセル"</string>
   <string name="submit_dialog_confirm">"送信"</string>
-  <string name="submit_dialog_content">Your feedback, along with attachments and logs, will be sent to MIUI’s servers. It may contain personal information.</string>
+  <string name="submit_dialog_content">"あなたのフィードバックは添付ファイルと共にMIUIのサーバーに送信されます。これには個人情報が含まれる場合があります。"</string>
   <string name="submit_dialog_title">"レポートを送信"</string>
   <string name="submit_feedback_info_failed">"レポートを送信できませんでした"</string>
   <string name="suggestion_description">"ここに説明を追加"</string>

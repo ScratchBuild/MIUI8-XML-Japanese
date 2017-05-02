@@ -66,9 +66,9 @@
   <string name="cloud_backup_detail_time">前回のバックアップ: %1$s</string>
   <string name="cloud_backup_have_data">"Mi Cloudにバックアップが見つかりました"</string>
   <string name="cloud_backup_select_recover">Mi Cloudからバックアップを選択</string>
-  <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
+  <string name="cloud_restore_from_other_device">"%sからの復元を停止してこのバックアップを削除しますか？この操作は元に戻すことができません。"</string>
   <string name="cloud_restore_task">"復元中…"</string>
-  <string name="cloud_task_in_process">"Stop %s and delete this backup? You can't reverse this action."</string>
+  <string name="cloud_task_in_process">"%sを停止してこのバックアップを削除しますか？この操作は元に戻すことができません。"</string>
   <string name="confirm_restore">"復元"</string>
   <string name="confirm_restore_summary">"Wi-Fiに接続されるとアプリが自動でダウンロードされ、ホーム画面が再起動します"</string>
   <string name="confirm_restore_title">"復元"</string>

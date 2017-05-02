@@ -1622,7 +1622,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="internal_format_summary">端末の内部ストレージ内のすべてのデータを消去します。</string>
   <string name="internal_media_format_button_text">内部ストレージを消去</string>
   <string name="internal_media_format_desc">内部ストレージを消去しますか？<b>すべて</b>データが削除されます。内部ストレージが消去された後、端末が再起動されます。</string>
-  <string name="internal_media_format_final_desc">内部ストレージを消去しますか？この操作は、元に戻すことはできません！内部ストレージが消去された後、端末が再起動されます。</string>
+  <string name="internal_media_format_final_desc">内部ストレージを消去しますか？この操作は元に戻すことができません！内部ストレージが消去された後、端末が再起動されます。</string>
   <string name="internal_media_format_title">内部ストレージを消去</string>
   <string name="internal_memory">内部ストレージ</string>
   <string name="internal_storage">内部ストレージ</string>
@@ -1964,7 +1964,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
 
 以下のアカウントにログインしています:
 "</string>
-  <string name="master_clear_all">内部ストレージからすべてのデータを消去しますか？この操作は元に戻すことはできません！</string>
+  <string name="master_clear_all">内部ストレージからすべてのデータを消去しますか？この操作は元に戻すことができません！</string>
   <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Factory data reset&amp;#8221; will erase all data on your phone&lt;/b&gt;, including photos, songs, notes, and other personal data. Make sure you back up all the important items to your computer.</string>
   <string name="master_clear_apply_step_2">Make sure all the important items are backed up to your computer. All the data on this device will be erased during the reset. &lt;b&gt;You wont be able to restore the items you havent backed up.&lt;/b&gt;</string>
   <string name="master_clear_apply_title">注意</string>
@@ -1984,15 +1984,15 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="master_clear_erase_application_progress">アプリを消去中…</string>
   <string name="master_clear_failed">System Clearサービスが利用できないため、リセットされませんでした。</string>
   <string name="master_clear_final_button_text">すべて消去</string>
-  <string name="master_clear_final_desc">個人情報とダウンロードしたアプリをすべて削除しますか？この操作を元に戻すことはできません。</string>
+  <string name="master_clear_final_desc">個人情報とダウンロードしたアプリをすべて削除しますか？この操作は元に戻すことができません。</string>
   <string name="master_clear_not_available">このユーザーは出荷時設定へのリセットを許可されていません</string>
   <string name="master_clear_other_users_present">"
 
 この端末には他にもユーザーがいます。
 "</string>
-  <string name="master_clear_personal_data">すべての個人情報を消去しますか？この操作は元に戻すことはできません！</string>
-  <string name="master_clear_personal_data_application">すべての個人情報とダウンロードアプリを消去しますか？この操作は元に戻すことはできません！</string>
-  <string name="master_clear_personal_data_sdcard">すべての個人情報とコンテンツを消去しますか？この操作は元に戻すことはできません！</string>
+  <string name="master_clear_personal_data">すべての個人情報を消去しますか？この操作は元に戻すことができません！</string>
+  <string name="master_clear_personal_data_application">すべての個人情報とダウンロードアプリを消去しますか？この操作は元に戻すことができません！</string>
+  <string name="master_clear_personal_data_sdcard">すべての個人情報とコンテンツを消去しますか？この操作は元に戻すことができません！</string>
   <string name="master_clear_progress_text">お待ちください...</string>
   <string name="master_clear_progress_title">消去中</string>
   <string name="master_clear_summary">携帯端末内のすべてのデータを消去する</string>

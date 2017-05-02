@@ -211,7 +211,6 @@
   <string name="from_google_group_calendar">"Googleカレンダー"</string>
   <string name="gadget_no_events">"近日中の予定はありません"</string>
   <string name="gadget_title">"カレンダー"</string>
-  <string name="global_action_text_card_manager">A more interesting calendar</string>
   <string name="guide_card_hint_text">"連絡先から誕生日をインポート"</string>
   <string name="hint_attendees">"ゲスト"</string>
   <string name="hint_description">"説明"</string>
@@ -260,10 +259,10 @@
   <string name="limit_reminder_switch_label">限行提醒</string>
   <string name="limit_reminder_time_label">"通知の時間"</string>
   <string name="limit_rule">限行规则</string>
-  <string name="limit_select_city">请选择城市</string>
+  <string name="limit_select_city">"都市を選択してください"</string>
   <string name="limit_setting_label">车辆限行提醒设置</string>
   <string name="limit_setting_tips">开启并设置提醒后，你的爱车当天限行时你会收到日历的限行提醒。非数字尾号设置说明：%1$s</string>
-  <string name="limit_setting_tips_url">点击查看</string>
+  <string name="limit_setting_tips_url">"タップして表示"</string>
   <string name="limit_tips_bar_title">点击设置限行通知提醒，爱车限行早知道</string>
   <string name="limit_today">"今日"</string>
   <string name="limit_tomorrow">"明日"</string>

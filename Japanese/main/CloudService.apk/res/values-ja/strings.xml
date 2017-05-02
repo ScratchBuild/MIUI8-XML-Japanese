@@ -82,11 +82,11 @@ Last backed up on %2$s"</string>
   <string name="find_device_disabled_notice">この機能はいつでもMiCloudの設定からオンまたはオフに設定することができます。</string>
   <string name="find_device_disabled_title">Find deviceはオフです</string>
   <string name="find_device_disabling">オフにしています…</string>
-  <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
-  <string name="find_device_dspt_provision">If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on or off anytime in Settings.</string>
+  <string name="find_device_dspt">"端末をリモートで検索、ロック、またはリセットする"</string>
+  <string name="find_device_dspt_provision">"端末を紛失した場合、%s にアクセスすることで検索、ロック、またはリセットすることができます。この機能はいつでも[設定]からオン/オフを切り替えられます。"</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">. You can turn this feature on or off anytime in Settings.</string>
+  <string name="find_device_dspt_provision_3">"。この機能はいつでも[設定]からオン/オフを切り替えられます。"</string>
   <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
   <string name="find_device_enabling">オンにしています…</string>
   <string name="find_device_error_network">"データ接続を確認してもう一度お試しください。"</string>
@@ -247,8 +247,8 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_clear_now">"消去"</string>
   <string name="micloud_main_detail">詳細を表示</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
-  <string name="micloud_main_memory_low_message">"To sync, delete some items you've stored in the cloud."</string>
-  <string name="micloud_main_memory_low_title">"Phone's internal storage is almost full"</string>
+  <string name="micloud_main_memory_low_message">"同期するには、クラウドに保存したアイテムをいくつか削除します。"</string>
+  <string name="micloud_main_memory_low_title">"端末の内部ストレージがいっぱいです"</string>
   <string name="micloud_main_message_not_synced">%s data not synced</string>
   <string name="micloud_main_multi_user_error_message">"First spaceと同じアカウントでログインしたため、Mi Cloudでエラーが発生しました。ファイルのバックアップを行うには:
 
@@ -269,7 +269,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_suggest_sync">すべてを同期できませんでした</string>
   <string name="micloud_main_sync_exception">同期エラー</string>
   <string name="micloud_main_sync_init">情報の取得中</string>
-  <string name="micloud_main_sync_need_charge">Charge your device</string>
+  <string name="micloud_main_sync_need_charge">端末を充電してください</string>
   <string name="micloud_main_sync_now">今すぐ同期</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
@@ -319,7 +319,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_notif_title_memory_low">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_multi_user_error">"Mi Cloudと同期できません"</string>
   <string name="micloud_notif_title_sync_finish">"同期済み"</string>
-  <string name="micloud_notif_title_sync_not_finish">"Some items haven't been synced"</string>
+  <string name="micloud_notif_title_sync_not_finish">"一部のアイテムが同期されていません"</string>
   <string name="micloud_notif_title_sync_progress">同期中</string>
   <string name="micloud_notif_title_sync_with_off">"Mi Cloudと同期"</string>
   <string name="micloud_other_product_price">価格を比較</string>
@@ -458,7 +458,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sub_alert_notif_title">"Mi Cloudと同期"</string>
   <string name="sub_sync_item_sms_summary">"写真、オーディオ、その他のメディアを含むメッセージは、Wi-Fiに接続している時のみ同期する"</string>
   <string name="sub_sync_item_sms_title_wifi_only">"MMSの同期にWi-Fiのみ使用する"</string>
-  <string name="success_upgraded_space">%s added</string>
+  <string name="success_upgraded_space">%s を追加しました</string>
   <string name="sync_dspt">同期</string>
   <string name="sync_dspt_entrance_provision">"写真、連絡先、通話履歴やメッセージを複数の端末間で同期します。任意のブラウザで %s にアクセスすることで同期するものを確認できます。"</string>
   <string name="sync_dspt_entrance_provision_2">詳細</string>
@@ -467,10 +467,10 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloudを使用</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Mi Cloud使用しない？"</string>
   <string name="sync_dspt_entrance_provision_skip">"この手順をスキップ"</string>
-  <string name="sync_dspt_provision">"Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
+  <string name="sync_dspt_provision">"写真、連絡先、ノートなどを、同期したすべての端末や "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">". You can turn this feature on or off anytime in Settings."</string>
+  <string name="sync_dspt_provision3">" からアクセスしたりできます。この機能はいつでも[設定]からオン/オフを切り替えられます。"</string>
   <string name="sync_dspt_provision_header">同期</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
@@ -514,6 +514,6 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="wipe_data_dialog_msg">"%s weren't synced and will stay on your phone."</string>
   <string name="wipe_data_dialog_msg_and_on">, and some other items</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
+  <string name="wipe_data_dialog_title">"一部のアイテムが同期されていません"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
 </resources>
