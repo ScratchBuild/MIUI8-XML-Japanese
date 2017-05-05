@@ -32,6 +32,7 @@
   <string name="aqi_detail_sub_title">"AQIの詳細"</string>
   <string name="aqi_detail_title">Air Quality Index</string>
   <string name="aqi_detail_unit">"単位: µg/m³ (CO: mg/m³)"</string>
+  <string name="aqi_display_exp">exp_%1$s</string>
   <string name="aqi_publish_source">Updated at %1$s by CNEMC</string>
   <string name="aqi_publish_time">Updated %1$s</string>
   <string name="aqi_top_pollution">"最大汚染"</string>
@@ -72,6 +73,7 @@
   <string name="gps_hint">"現在地"</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">"現在"</string>
+  <string name="hourly_forecast_date">M/d</string>
   <string name="hourly_forecast_title">"1時間ごとの予報"</string>
   <string name="index_item_experience_now">"今すぐインストール"</string>
   <string name="index_item_install_now">"今すぐインストール"</string>

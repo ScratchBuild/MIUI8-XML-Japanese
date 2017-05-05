@@ -706,6 +706,8 @@ Pages you view won't appear in history."</string>
   <string name="skip_current_version">"このバージョンをスキップ"</string>
   <string name="snapshot_failed">"オフラインでの閲覧用に保存できませんでした"</string>
   <string name="snapshot_successed">"オフラインでの閲覧用に保存しました"</string>
+  <string name="ssl_bad_clock_date_settings">Date Settings</string>
+  <string name="ssl_bad_clock_warning" formatted="false">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
   <string name="ssl_certificate">"セキュリティ証明書"</string>
   <string name="ssl_certificate_is_valid">"この証明書は有効です。"</string>
   <string name="ssl_continue">"続行"</string>

@@ -100,8 +100,8 @@
   <string name="auto_upload_before_share_message">"このアルバムを共有する前にMi Cloudへバックアップします"</string>
   <string name="auto_upload_before_share_title">"ヒント"</string>
   <string name="auto_upload_disable_tip">"Mi Cloudとの同期はオフです"</string>
-  <string name="auto_upload_disable_toast_long_press_menu">"Mi Cloudとの同期はオフです、その他のアルバムを表示するには移動します"</string>
-  <string name="auto_upload_enable_toast_long_press_menu">"Mi Cloudとの同期はオンです、アルバムを表示するには移動します"</string>
+  <string name="auto_upload_disable_toast_long_press_menu">"Mi Cloudとの同期はオフです。"</string>
+  <string name="auto_upload_enable_toast_long_press_menu">"Mi Cloudとの同期はオンです。"</string>
   <string name="baby_album">"赤ちゃんのアルバム"</string>
   <string name="baby_album_change_background">Change background photo</string>
   <string name="baby_album_needs_auto_backup_tip">"Can't turn off automatic backup for Baby album"</string>
@@ -275,7 +275,7 @@
   <string name="delete_to_trash_tips">"最近削除した写真は、設定 &gt; ゴミ箱から表示することができます"</string>
   <string name="deny">"拒否"</string>
   <string name="detail_title">"詳細情報"</string>
-  <string name="disable_auto_upload_tip">"追加や削除された写真はMi Cloudと同期されません。このアルバムは他のアルバムに移動されます。"</string>
+  <string name="disable_auto_upload_tip">"このアルバムのMi Cloudとの同期をオフにしますか？"</string>
   <string name="disable_auto_upload_title">"Mi Cloudとの同期をオフにする"</string>
   <string name="do_not_remind_me">"二度と表示しない"</string>
   <string name="doodle">Doodle</string>
@@ -299,7 +299,7 @@
   <string name="empty_recommend_back">"戻る"</string>
   <string name="empty_recommend_face_page_view">"おすすめはありません"</string>
   <string name="empty_relation">"グループ名は空にすることはできません"</string>
-  <string name="enable_auto_upload_tip">This album will be removed from other albums after you turn on.</string>
+  <string name="enable_auto_upload_tip">"このアルバムのMi Cloudとの同期をオンにしますか？"</string>
   <string name="enable_auto_upload_title">"Mi Cloudとの同期をオンにする"</string>
   <string name="enable_cloud_for_sharing">Turn on Mi Cloud albums to view shared photos.</string>
   <string name="enable_face_album_summary">Automatically sort photos by the people that are in them</string>
@@ -467,7 +467,7 @@ Take more photos of your friends!"</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face">More people who look alike</string>
   <string name="more_face_album_name">More people</string>
-  <string name="move_to_other_albums_tip">Sync with Mi Cloud will be turned off if you move this album to other albums. Move now?</string>
+  <string name="move_to_other_albums_tip">Move this album to Other albums?</string>
   <string name="must_pick_file">"写真を選択"</string>
   <string name="name_split">, </string>
   <string name="need_to_turn_on_network">"デバイスがインターネットに接続されていません"</string>
@@ -590,7 +590,7 @@ Take more photos of your friends!"</string>
   <string name="remove_from_album_message">This photo will no longer be displayed here</string>
   <string name="remove_from_album_title">"このアルバムから削除"</string>
   <string name="remove_from_current_album">"このアルバムから削除"</string>
-  <string name="remove_from_other_albums_tip">"Mi Cloudとの同期をオンにして他のアルバムからアイテムを移動します。今すぐ移動しますか？"</string>
+  <string name="remove_from_other_albums_tip">"他のアルバムからこのアルバムへ移動しますか？"</string>
   <string name="remove_from_secret_fail">"Couldn't remove from hidden album"</string>
   <string name="remove_from_secret_failed_with_reason">"Can't remove from hidden album. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items can't be removed from hidden album. %1$s."</string>
@@ -685,6 +685,8 @@ Take more photos of your friends!"</string>
   <string name="share_with_family">"家族と共有"</string>
   <string name="sharer_quota_fulfiled">"You've already shared this album with the maximum number of people."</string>
   <string name="show_hidden_album_title">Show hidden albums</string>
+  <string name="show_in_other_albums_disable_toast_long_press_menu">Moved successfully, go to Other albums to view</string>
+  <string name="show_in_other_albums_enable_toast_long_press_menu">Moved successfully, go to Albums to view</string>
   <string name="slideshow_interval_dialog_title">"間隔を入力"</string>
   <string name="slideshow_interval_invalid">"間隔は3～3600秒にする必要があります"</string>
   <string name="slideshow_interval_title">"スライドの表示間隔"</string>

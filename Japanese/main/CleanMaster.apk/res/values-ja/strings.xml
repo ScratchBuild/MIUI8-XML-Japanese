@@ -41,7 +41,6 @@
   <string name="apps_sort_type_item_size">"サイズ順"</string>
   <string name="apps_sort_type_item_time">Frequently used</string>
   <string name="apps_sort_type_title">"並べ替え"</string>
-  <string name="authorize_detail">Blocked %d apps</string>
   <string name="auto_clean_switch_off">"オフ"</string>
   <string name="auto_clean_switch_on">"オン"</string>
   <string name="auto_cleaner_open">"オンにする"</string>
@@ -108,7 +107,6 @@
   <string name="connecting">"接続中…"</string>
   <string name="deep_clean_completed_tips">Cleaned successfully</string>
   <string name="deep_clean_data_path_clean_title">"キャッシュを消去"</string>
-  <string name="deep_clean_normal_clean_progress_desc">"%1$s個のファイルを消去しました"</string>
   <string name="deep_clean_uninstall_completed_tips">"正常にアンインストールされました"</string>
   <string name="deepclean_1_k_clean">Quick clean</string>
   <string name="deepclean_apk_content">"APKや不要なアプリを削除する"</string>
@@ -185,12 +183,10 @@
   <string name="flow_rank_title">"データ使用量"</string>
   <string name="function_app_lock_title">%d apps contain privacy risks​</string>
   <string name="garbage_clean_detail">"詳細"</string>
-  <string name="garbage_cleanup_detail">%1$d times, cleaned %2$s</string>
   <string name="garbage_month">Cleaned %s this month</string>
   <string name="go_to">"続行"</string>
   <string name="goto_set">"設定"</string>
   <string name="grabage_rank_title">Cleaned today</string>
-  <string name="harass_detail">Blocked %1$d SMS and %2$d calls</string>
   <string name="header_optimizer">"この機能を利用することで、%sに同意したことになります。"</string>
   <string name="hint_clean_select_items">Deleting duplicates…</string>
   <string name="hints_ad_header_left">"古いファイル"</string>
@@ -295,8 +291,6 @@
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">"プライバシーポリシー"</string>
   <string name="nb_clear_set">"キャッシュの消去、バッテリーとブロックリストの情報を通知領域に表示する"</string>
-  <string name="net_assistant_detail">Used %1$s, saved %2$s</string>
-  <string name="net_assistant_title">Used %s of mobile data this month</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="news_change">"変更"</string>
   <string name="no_network">"ネットワークに接続できませんでした、あとでもう一度試してみてください"</string>
@@ -362,8 +356,8 @@
   <string name="recommend_news">Recommended sources</string>
   <string name="recommend_the_following">"端末を最大限に活用するには、次の操作を実行します"</string>
   <string name="recommended">Featured</string>
-  <string name="safety_check_detail">%1$d times, earned %2$d points</string>
-  <string name="safety_rank">Ahead of %d%% MIUI users in terms of safety</string>
+  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; more files can be cleared. Free up more space.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; of WeChat cache. Free up more space.&lt;/Data&gt;" "</string>
   <string name="sc_allow_network_dialog_button">"許可"</string>
   <string name="sc_allow_network_dialog_message">"このアプリが更新を受信するためインターネットに接続することを許可しますか？"</string>
   <string name="scanning">"スキャン中…"</string>
@@ -438,11 +432,9 @@
   <string name="toast_uninstall_success">"アンインストールが完了しました"</string>
   <string name="total_clean">Total cleaned: %s</string>
   <string name="total_clean_text">"消去"</string>
-  <string name="traffic_top">TOP 5 data consuming apps</string>
   <string name="update_date_format">MM/dd/yyyy</string>
   <string name="virus_scan">"ウイルススキャン"</string>
   <string name="vungle_ad_name">"Vungle広告"</string>
-  <string name="wechat_add_to_cleanlist">Cleaned successfully</string>
   <string name="wechat_cache_files">"WeChatキャッシュ"</string>
   <string name="wechat_chat_clean_done">Everything looks good</string>
   <string name="wechat_chat_data_type_cache">"WeChatキャッシュ"</string>

@@ -14,6 +14,7 @@
   <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">"ボイスメール番号がありません"</string>
   <string name="no_vm_number_msg">"SIMカードにボイスメールの番号がありません。"</string>
+  <string name="notification_AllMissedCallTitle">"すべての不在着信"</string>
   <string name="notification_missedCallTicker">"%sさんからの不在着信"</string>
   <string name="notification_missedCallTitle">"不在着信"</string>
   <string name="notification_missedCall_call_back">"コールバック"</string>

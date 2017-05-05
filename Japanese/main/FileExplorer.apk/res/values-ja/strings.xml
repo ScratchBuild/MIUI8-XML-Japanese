@@ -428,6 +428,7 @@
   <string name="other_user_liked_topic_tip">No topics</string>
   <string name="other_user_no_follow_tip">"You haven't followed anyone yet."</string>
   <string name="other_user_no_liked_video_tip">No videos liked.</string>
+  <string name="overwrite_msg">\"%s\" already exists. Tap to replace it with the new file.</string>
   <string name="partial_cancel_successful">"Couldn't remove some files. Moved the rest of the files to %s."</string>
   <string name="partial_delete_failure">"Couldn't delete some files, try again"</string>
   <string name="partial_encrypt_success">"Couldn't hide some files, try again"</string>
@@ -602,6 +603,7 @@
   <string name="shortcut_exists">Shortcut already exists</string>
   <string name="shortcut_hotvideos">Popular videos</string>
   <string name="shortcut_msg">Add Home screen shortcut for popular videos</string>
+  <string name="skip_file">"スキップ"</string>
   <string name="smb_loading">"読み込み中…"</string>
   <string name="sort_size_asc">Smaller to bigger</string>
   <string name="sort_size_desc">Bigger to smaller</string>
@@ -703,7 +705,7 @@
   <string name="user_guide_continue_use">OK</string>
   <string name="user_guide_more_login">"その他の方法でログイン"</string>
   <string name="user_icon">"プロフィール写真"</string>
-  <string name="user_id_tip">ID: </string>
+  <string name="user_id_tip">ID: %1$s</string>
   <string name="user_info_setting">"情報を編集"</string>
   <string name="user_liked_video_title">Videos I liked</string>
   <string name="user_login_dialog_cancle">"キャンセル"</string>

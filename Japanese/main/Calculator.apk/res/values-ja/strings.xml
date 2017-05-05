@@ -5,6 +5,7 @@
   <string name="cal_convert_to_word_figure">Convert to financial characters</string>
   <string name="cal_copy">コピー</string>
   <string name="cal_edit_mode">編集モード</string>
+  <string name="cal_paste">貼り付け</string>
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">テキストをコピーしました</string>
   <string name="choose_currency">通貨を選択</string>
@@ -27,6 +28,7 @@
   <string name="currency_update_time_format">Exchange rates are provided by Webull (%s)</string>
   <string name="dateformat">yyyy/MM/dd</string>
   <string name="day">day</string>
+  <string name="deleteDesc">削除</string>
   <string name="devided_by_zero_reminder_message">"0で割ることはできません"</string>
   <string name="divDesc">割る</string>
   <string name="dotDesc">小数点</string>
@@ -65,6 +67,7 @@
   <string name="loan_interest_rate">Interest</string>
   <string name="loan_pay_years">Loan period</string>
   <string name="loan_payback_way">返済</string>
+  <string name="menuDesc">メニュー</string>
   <string name="minusDesc">引く</string>
   <string name="mortgage_amount">合計</string>
   <string name="mortgage_average_repayment_first_month">初月の返済</string>
@@ -101,6 +104,7 @@
   <string name="mulDesc">掛ける</string>
   <string name="network_confirm_content">"通貨変換、税金や住宅ローンの計算にはお使いの端末がネットワークに接続されている必要があります。"</string>
   <string name="network_confirm_title">"ネットワーク接続が必要"</string>
+  <string name="percentDesc">パーセント</string>
   <string name="piDesc">円周率</string>
   <string name="plusDesc">足す</string>
   <string name="powerDesc">べき乗</string>
@@ -120,6 +124,7 @@
   <string name="preference_use_degress_title">角度を使用する</string>
   <string name="rate_data_provider">Interest rates are provided by hexun.com</string>
   <string name="rightParenDesc">右丸括弧</string>
+  <string name="settingsDesc">設定</string>
   <string name="sinDesc">sine</string>
   <string name="sqrtDesc">平方根</string>
   <string name="tanDesc">tangent</string>

@@ -2384,7 +2384,15 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_page2_title">プレビュー</string>
   <string name="page_layout_small_title">XS</string>
   <string name="palm_enabled">Cover screen to turn it off</string>
+  <string name="paper_mode_auto_twilight_summary">reading mode schedule as twilight mode</string>
+  <string name="paper_mode_auto_twilight_title">Twilight mode</string>
+  <string name="paper_mode_customize_time_summary">reading mode schedule as customized time</string>
+  <string name="paper_mode_customize_time_title">customize time</string>
   <string name="paper_mode_end_time_title">終了時間</string>
+  <string name="paper_mode_get_location_dlg_msg">Obtain accurate sunrise and sunset times need to get your network location according network, whether open locationg settings?</string>
+  <string name="paper_mode_get_location_dlg_negative_btn_text">キャンセル</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">設定</string>
+  <string name="paper_mode_get_location_dlg_title">Set Location</string>
   <string name="paper_mode_start_time_title">開始時間</string>
   <string name="passpoint_content">%1$sの認証情報</string>
   <string name="passpoint_label">保存</string>
@@ -2562,6 +2570,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_settings_titles_second_space">プライバシー保護パスワードはあなたのメッセージ、写真、およびノートを保護します。</string>
   <string name="privacy_password_title">プライバシー保護パスワード</string>
   <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_use_finger_dialog_mess">You can also use your fingerprint with Privacy protection password.</string>
+  <string name="privacy_password_use_finger_dialog_open">Settings</string>
+  <string name="privacy_password_use_finger_dialog_title">Fingerprint unlock</string>
+  <string name="privacy_password_use_finger_success">Turned on</string>
   <string name="privacy_password_visible_pattern">パターンを表示</string>
   <string name="privacy_protect_title">プライバシーの保護</string>
   <string name="privacy_relative">プライバシー</string>
@@ -2842,7 +2854,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_paper_mode_range_title">設定</string>
   <string name="screen_paper_mode_set_apps_title">読書モードを使用するアプリ</string>
   <string name="screen_paper_mode_summary">ディスプレイの背景のまぶしさを軽減します</string>
-  <string name="screen_paper_mode_time_title">Scheduled</string>
+  <string name="screen_paper_mode_time_summary">scheduled reading mode as your setted time</string>
+  <string name="screen_paper_mode_time_title">Timing to scheduled</string>
   <string name="screen_paper_mode_title">読書モード</string>
   <string name="screen_paper_mode_turn_off">オフ</string>
   <string name="screen_paper_mode_turn_on">オン</string>

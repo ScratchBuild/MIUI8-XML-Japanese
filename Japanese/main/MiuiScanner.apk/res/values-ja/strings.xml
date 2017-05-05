@@ -8,6 +8,7 @@
   <string name="allow_check_website_security">Show website security check notifications</string>
   <string name="app_details">アプリ:</string>
   <string name="app_name">スキャナー</string>
+  <string name="back">戻る</string>
   <string name="barcode_into_rectangle">Place the code inside the frame</string>
   <string name="birthday">誕生日:</string>
   <string name="camera_error_title">Camera error</string>
@@ -180,6 +181,7 @@
   <string name="view_study_report">View report</string>
   <string name="web">ウェブサイト:</string>
   <string name="website_details">ウェブサイト:</string>
+  <string name="weixin_code_tip">Please use WeChat to scan this QR code</string>
   <string name="wifi_details">Wi-Fi:</string>
   <string name="wifi_open_fail">Wi-Fiをオンにできません</string>
   <string name="wifi_pwd">Password:</string>

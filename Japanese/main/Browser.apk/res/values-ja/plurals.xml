@@ -37,6 +37,6 @@
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">残り%d分</item>
-        <item quantity="one">残り1分</item>
+        <item quantity="one">残り%d分</item>
     </plurals>
 </resources>
