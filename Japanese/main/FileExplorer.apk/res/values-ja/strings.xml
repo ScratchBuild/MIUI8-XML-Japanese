@@ -428,7 +428,7 @@
   <string name="other_user_liked_topic_tip">No topics</string>
   <string name="other_user_no_follow_tip">"You haven't followed anyone yet."</string>
   <string name="other_user_no_liked_video_tip">No videos liked.</string>
-  <string name="overwrite_msg">\"%s\" already exists. Tap to replace it with the new file.</string>
+  <string name="overwrite_msg">\"%s\"は既に存在します。タップすると新しいファイルで置き換えられます。</string>
   <string name="partial_cancel_successful">"Couldn't remove some files. Moved the rest of the files to %s."</string>
   <string name="partial_delete_failure">"Couldn't delete some files, try again"</string>
   <string name="partial_encrypt_success">"Couldn't hide some files, try again"</string>

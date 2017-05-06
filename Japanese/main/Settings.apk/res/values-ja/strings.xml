@@ -1039,6 +1039,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="date_time_auto">日付と時刻の自動設定</string>
   <string name="date_time_auto_summaryOff">ネットワークから提供された時刻を使用する</string>
   <string name="date_time_auto_summaryOn">ネットワークから提供された時刻を使用する</string>
+  <string name="date_time_date_format">日付形式の選択</string>
+  <string name="date_time_date_format_title">日付形式</string>
   <string name="date_time_set_date">日付設定</string>
   <string name="date_time_set_date_title">日付</string>
   <string name="date_time_set_time">時刻設定</string>
