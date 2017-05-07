@@ -163,9 +163,9 @@
   <string name="tax_unemployment">失業</string>
   <string name="tax_update_time_format">Data provided by HeXun (%s)</string>
   <string name="title_bar">長さ変換</string>
-  <string name="unit_data_display_area_acre">Acre</string>
-  <string name="unit_data_display_area_are">Are</string>
-  <string name="unit_data_display_area_ha">Hectare</string>
+  <string name="unit_data_display_area_acre">エーカー</string>
+  <string name="unit_data_display_area_are">アール</string>
+  <string name="unit_data_display_area_ha">ヘクタール</string>
   <string name="unit_data_display_area_mu">Mu</string>
   <string name="unit_data_display_area_qing">Qing</string>
   <string name="unit_data_display_area_sq.chi">Square chi</string>
@@ -180,9 +180,9 @@
   <string name="unit_data_display_area_sq.mi">平方マイル</string>
   <string name="unit_data_display_area_sq.mm">平方ミリメートル</string>
   <string name="unit_data_display_area_sq.rd">Square rod</string>
-  <string name="unit_data_display_area_sq.um">Square micron</string>
+  <string name="unit_data_display_area_sq.um">平方ミクロン</string>
   <string name="unit_data_display_area_sq.yd">平方ヤード</string>
-  <string name="unit_data_display_currency_cnh">Offshore RMB</string>
+  <string name="unit_data_display_currency_cnh">オフショア人民元</string>
   <string name="unit_data_display_length_au">天文単位</string>
   <string name="unit_data_display_length_chi">Chi</string>
   <string name="unit_data_display_length_cm">センチメートル</string>
