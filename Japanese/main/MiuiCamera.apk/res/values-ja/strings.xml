@@ -52,7 +52,7 @@
   <string name="dual_camera_use_hint">"Stereo mode helps you blur the background.
 The object shouldn't be further than 2 meters."</string>
   <string name="empty">" "</string>
-  <string name="error_fail_to_start_audio_capture">"Couldn't start audio capture"</string>
+  <string name="error_fail_to_start_audio_capture">"録音を開始できませんでした"</string>
   <string name="face_analyze_info">"年齢: %2$s (%1$s)"</string>
   <string name="face_analyze_info_female">"女性"</string>
   <string name="face_analyze_info_male">"男性"</string>

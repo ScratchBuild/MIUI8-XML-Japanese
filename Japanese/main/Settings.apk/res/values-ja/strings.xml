@@ -2572,10 +2572,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_settings_titles_second_space">プライバシー保護パスワードはあなたのメッセージ、写真、およびノートを保護します。</string>
   <string name="privacy_password_title">プライバシー保護パスワード</string>
   <string name="privacy_password_transparent_tiltle"/>
-  <string name="privacy_password_use_finger_dialog_mess">You can also use your fingerprint with Privacy protection password.</string>
-  <string name="privacy_password_use_finger_dialog_open">Settings</string>
+  <string name="privacy_password_use_finger_dialog_mess">プライバシー保護パスワードであなたの指紋を使用することもできます。</string>
+  <string name="privacy_password_use_finger_dialog_open">設定</string>
   <string name="privacy_password_use_finger_dialog_title">Fingerprint unlock</string>
-  <string name="privacy_password_use_finger_success">Turned on</string>
+  <string name="privacy_password_use_finger_success">オンにしました</string>
   <string name="privacy_password_visible_pattern">パターンを表示</string>
   <string name="privacy_protect_title">プライバシーの保護</string>
   <string name="privacy_relative">プライバシー</string>

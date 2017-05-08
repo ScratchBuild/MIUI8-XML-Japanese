@@ -111,7 +111,7 @@ You can also download them separately."</string>
   <string name="import_photo_desc">View shared items in Second space</string>
   <string name="import_photo_suc">Imported photos</string>
   <string name="invalid_qr_code">"無効なQRコード"</string>
-  <string name="list_empty_text">Empty</string>
+  <string name="list_empty_text">"何もありません"</string>
   <string name="loading">"読み込み中…"</string>
   <string name="loading_apps">"アプリを読み込み中…"</string>
   <string name="loading_space">"読み込み中…"</string>
@@ -199,11 +199,11 @@ to enter Second space from Lock screen"</string>
   <string name="settings_msg_add_shortcut">"First spaceにショートカットを追加しました"</string>
   <string name="settings_msg_remove_shortcut">"First spaceからショートカットを削除しました"</string>
   <string name="settings_notification_and_switch">"切り替えと通知"</string>
-  <string name="settings_space_data">Data</string>
-  <string name="settings_status_icon_summary">Show Second space icon in the status bar</string>
-  <string name="settings_status_icon_title">Second space icon</string>
+  <string name="settings_space_data">"データ"</string>
+  <string name="settings_status_icon_summary">"ステータスバーにSecound spaceのアイコンを表示する"</string>
+  <string name="settings_status_icon_title">"Second spaceのアイコン"</string>
   <string name="settings_switch_shortcut_summary">"First spaceのホーム画面にショートカットを表示する"</string>
-  <string name="settings_switch_shortcut_title">Tap shortcut to switch</string>
+  <string name="settings_switch_shortcut_title">"切り替え用のショートカット"</string>
   <string name="show_normal_content">"Don't show private items"</string>
   <string name="show_private_content">Show private items</string>
   <string name="show_private_msg">Show private messages</string>
@@ -270,7 +270,7 @@ to enter Second space from Lock screen"</string>
   <string name="xspace_install_completed">"ホーム画面にアイコンを追加しました"</string>
   <string name="xspace_install_failed">"作成できませんでした"</string>
   <string name="xspace_installing">"インストール中…"</string>
-  <string name="xspace_introduce">Recommended</string>
+  <string name="xspace_introduce">"おすすめ"</string>
   <string name="xspace_label">"デュアルアプリ"</string>
   <string name="xspace_loading_msg">"アプリを読み込み中…"</string>
   <string name="xspace_uninstall_completed">"デュアルアプリが正常にアンインストールされました"</string>

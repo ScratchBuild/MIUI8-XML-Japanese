@@ -1877,7 +1877,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_realname_verify">ID verification</string>
   <string name="title_share_link">"URLを共有"</string>
   <string name="title_show_notification">"通知シェードのウィジェット"</string>
-  <string name="title_telecom_operator">Auto adjust</string>
+  <string name="title_telecom_operator">"自動調整"</string>
   <string name="title_usb_no">"USBデバッグはオンです"</string>
   <string name="title_usb_yes">"USBデバッグはオフです"</string>
   <string name="title_virus_cloudscan">Cloud virus scan</string>

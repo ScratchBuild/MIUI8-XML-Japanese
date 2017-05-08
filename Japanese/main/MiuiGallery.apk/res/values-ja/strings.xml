@@ -28,7 +28,7 @@
   <string name="add_to_secret_failed_with_reason">"Can't add to hidden album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s items can't be added to hidden album. %1$s."</string>
   <string name="add_to_secret_successful">Added to hidden album</string>
-  <string name="add_to_share_album_not_delete">"Can't delete photo from Shared Album"</string>
+  <string name="add_to_share_album_not_delete">"共有アルバムから写真を削除することはできません"</string>
   <string name="adding">"追加中…"</string>
   <string name="adding_recipients">"受信者を追加中…"</string>
   <string name="adding_to_album">"写真を追加中…"</string>
@@ -117,8 +117,8 @@
   <string name="baby_lock_wallpaper_save_settings_msg">"現在の設定を適用しますか？"</string>
   <string name="baby_lock_wallpaper_title">"赤ちゃんの画像をロック画面の壁紙として使用"</string>
   <string name="baby_name_cannot_empty">"名前を入力"</string>
-  <string name="baby_name_cannot_start_with">"Name can't begin with '%s'"</string>
-  <string name="baby_name_contain_invalidate_char">"Name can't contain '%s'"</string>
+  <string name="baby_name_cannot_start_with">"名前は'%s'で始めることはできません"</string>
+  <string name="baby_name_contain_invalidate_char">"名前に'%s'を含めることはできません"</string>
   <string name="baby_name_reserved">"この名前は他のアルバム用に予約されています"</string>
   <string name="baby_nick_name">"ニックネーム"</string>
   <string name="baby_sexy">"性別"</string>
@@ -210,7 +210,7 @@
   <string name="cloud_storage_warn_desc">Purchase cloud VIP for extra storage</string>
   <string name="cloud_storage_warn_title">Not enough Mi Cloud storage</string>
   <string name="cloudfolder_cannot_start_with">"アルバム名は'%s'で始めることはできません"</string>
-  <string name="cloudfolder_contain_invalidate_char">"アルバム名は'%s'を含めることはできません"</string>
+  <string name="cloudfolder_contain_invalidate_char">"アルバム名に'%s'を含めることはできません"</string>
   <string name="cloudfolder_name_cannot_empty">"アルバム名"</string>
   <string name="cloudfolder_name_reserved">"アルバム名は予約済みです"</string>
   <string name="collaps_people">"非表示"</string>
@@ -295,7 +295,7 @@
   <string name="download_without_wifi_title">"データ使用の警告"</string>
   <string name="edit_baby_info">"赤ちゃんの情報を表示"</string>
   <string name="email_picker_title">Add shared email</string>
-  <string name="empty_query_text_msg">"Don't know what to search for…"</string>
+  <string name="empty_query_text_msg">"キーワードを入力してください…"</string>
   <string name="empty_recommend_back">"戻る"</string>
   <string name="empty_recommend_face_page_view">"おすすめはありません"</string>
   <string name="empty_relation">"グループ名は空にすることはできません"</string>
@@ -308,7 +308,7 @@
   <string name="enabling_face_feature">"読み込み中…"</string>
   <string name="enter_email_hint">"メールアドレスを入力"</string>
   <string name="error_album_not_exist">"アルバムが存在しません"</string>
-  <string name="error_cloud_not_active">No photos in Mi Cloud</string>
+  <string name="error_cloud_not_active">"Mi Cloudに写真がありません"</string>
   <string name="error_forbidden">"Mi Accoutに問題があるため、同期が無効になっています。"</string>
   <string name="error_invalid_link">"無効なURL"</string>
   <string name="error_link_has_expired">"URLの有効期限が切れています"</string>
@@ -339,7 +339,7 @@ Take more photos of your friends!"</string>
   <string name="face_album_rename_hint">"名前を入力"</string>
   <string name="face_album_use_tip">Automatically sort photos by the people that are in them.</string>
   <string name="face_albumset_loading_data">"データの読み込み中…"</string>
-  <string name="face_choose_tip">Choose from existing album</string>
+  <string name="face_choose_tip">"既存のアルバムから選択"</string>
   <string name="face_confirm">This is the same person</string>
   <string name="face_move_dialog_title">"アルバムを選択"</string>
   <string name="face_name_edit">"編集"</string>
@@ -450,7 +450,7 @@ Take more photos of your friends!"</string>
   <string name="loading_video_fail_syncing">"メタデータが完全にダウンロードされるまで待ってからもう一度お試しください"</string>
   <string name="loading_video_thumbnail">"動画のカバーをダウンロード中…"</string>
   <string name="login_and_enable_service">"Mi Accountでログイン"</string>
-  <string name="long_press_to_refocus">Press &amp; hold to refocus</string>
+  <string name="long_press_to_refocus">"リフォーカスするには長押し"</string>
   <string name="main_discard_confirm_message">"変更が保存されていません"</string>
   <string name="main_discard_negative_btn">"破棄"</string>
   <string name="main_discard_positive_btn">"保存と終了"</string>
@@ -467,7 +467,7 @@ Take more photos of your friends!"</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face">More people who look alike</string>
   <string name="more_face_album_name">More people</string>
-  <string name="move_to_other_albums_tip">Move this album to Other albums?</string>
+  <string name="move_to_other_albums_tip">"このアルバムをその他のアルバムに移動しますか？"</string>
   <string name="must_pick_file">"写真を選択"</string>
   <string name="name_split">, </string>
   <string name="need_to_turn_on_network">"デバイスがインターネットに接続されていません"</string>
@@ -677,7 +677,7 @@ Take more photos of your friends!"</string>
   <string name="set_wallpaper_get_image_failed">"画像をダウンロードできませんでした、後ほど再試行してください"</string>
   <string name="share">"共有"</string>
   <string name="share_album">"アルバムを共有"</string>
-  <string name="share_album_needs_auto_upload_tip">"Can't turn off backups for shared albums"</string>
+  <string name="share_album_needs_auto_upload_tip">"共有アルバムのバックアップをオフにすることはできません"</string>
   <string name="share_app_is_launching">{0,choice,0#Launching app…|1#%s is launching…}</string>
   <string name="share_by_email_start">Share %1$s in background</string>
   <string name="share_by_email_successfully">Shared %1$s</string>
@@ -685,8 +685,8 @@ Take more photos of your friends!"</string>
   <string name="share_with_family">"家族と共有"</string>
   <string name="sharer_quota_fulfiled">"You've already shared this album with the maximum number of people."</string>
   <string name="show_hidden_album_title">Show hidden albums</string>
-  <string name="show_in_other_albums_disable_toast_long_press_menu">Moved successfully, go to Other albums to view</string>
-  <string name="show_in_other_albums_enable_toast_long_press_menu">Moved successfully, go to Albums to view</string>
+  <string name="show_in_other_albums_disable_toast_long_press_menu">"移動が完了しました、表示するにはその他のアルバムを開いてください"</string>
+  <string name="show_in_other_albums_enable_toast_long_press_menu">"移動が完了しました、表示するにはアルバムを開いてください"</string>
   <string name="slideshow_interval_dialog_title">"間隔を入力"</string>
   <string name="slideshow_interval_invalid">"間隔は3～3600秒にする必要があります"</string>
   <string name="slideshow_interval_title">"スライドの表示間隔"</string>
