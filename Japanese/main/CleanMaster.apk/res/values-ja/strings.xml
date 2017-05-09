@@ -122,9 +122,9 @@
   <string name="deepclean_large_content">"10MBを超えるファイルを削除する"</string>
   <string name="deepclean_large_summary_empty">Everything looks good, no files to delete</string>
   <string name="deepclean_list_item_from_app">App Store</string>
-  <string name="deepclean_list_item_from_dcim_thumbnails">Thumbnails</string>
-  <string name="deepclean_list_item_from_download">Downloads</string>
-  <string name="deepclean_list_item_from_gallery">Gallery</string>
+  <string name="deepclean_list_item_from_dcim_thumbnails">"サムネイル"</string>
+  <string name="deepclean_list_item_from_download">"ダウンロード"</string>
+  <string name="deepclean_list_item_from_gallery">"ギャラリー"</string>
   <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Music</string>
   <string name="deepclean_list_item_from_sdcard">"SDカード"</string>

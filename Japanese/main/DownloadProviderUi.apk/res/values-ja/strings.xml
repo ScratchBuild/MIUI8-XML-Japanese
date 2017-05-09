@@ -291,9 +291,9 @@ across all your devices with Xunlei"</string>
   <string name="search_input_hint">"キーワードまたはURLを入力"</string>
   <string name="search_nonetwork_prompt">"ネットワーク接続を確認して、もう一度やり直してください"</string>
   <string name="search_nonetwork_refresh">"更新"</string>
-  <string name="search_recommend_empty">No items</string>
-  <string name="search_vif_empty">No recommended items</string>
-  <string name="search_vif_score_text">Rating: %1$s</string>
+  <string name="search_recommend_empty">"アイテムはありません"</string>
+  <string name="search_vif_empty">"おすすめアイテムはありません"</string>
+  <string name="search_vif_score_text">"評価: %1$s"</string>
   <string name="search_website">"ウェブサイト"</string>
   <string name="search_website_more">More</string>
   <string name="select_all">"すべて選択"</string>
@@ -384,7 +384,7 @@ across all your devices with Xunlei"</string>
   <string name="turn_off_xunlei_message">You may experience slower download speeds.</string>
   <string name="turn_off_xunlei_tips">Xunlei download acceleration is off</string>
   <string name="turn_off_xunlei_title">Turn off Xunlei</string>
-  <string name="unbind_xunlei_2_success">Xunlei Account added</string>
+  <string name="unbind_xunlei_2_success">"Xunlei Accountを追加しました"</string>
   <string name="unbind_xunlei_success">"Xunlei Accountからログアウトしました"</string>
   <string name="unit_cn_hundredmillions">00M</string>
   <string name="unit_cn_tenthousands">0K</string>

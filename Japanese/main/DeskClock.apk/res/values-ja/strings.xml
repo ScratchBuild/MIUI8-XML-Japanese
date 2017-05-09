@@ -66,7 +66,7 @@
   <string name="life_post_setting">"朝のレポート"</string>
   <string name="life_post_setting_open_subtitle">"4:00から9:30の間にアラームをオフにすると、天気に関する情報を受け取ります"</string>
   <string name="life_post_setting_open_title">"朝のレポートを受け取る"</string>
-  <string name="life_post_setting_wake_up_list_title">Wake up history</string>
+  <string name="life_post_setting_wake_up_list_title">"起床履歴"</string>
   <string name="life_post_wake_up_acumu_day_title">Day count</string>
   <string name="life_post_wake_up_item_acumu_day">%1$s days</string>
   <string name="life_post_wake_up_item_acumu_day_title">Day count</string>

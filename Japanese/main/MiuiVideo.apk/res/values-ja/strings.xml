@@ -125,7 +125,7 @@
   <string name="dlna_list_name">"DLNAデバイス"</string>
   <string name="dlna_name">"共有済みデバイス"</string>
   <string name="do_not_buy_vip">do not buy vip</string>
-  <string name="douban_score">Score</string>
+  <string name="douban_score">"評価"</string>
   <string name="download">"ダウンロード"</string>
   <string name="download_add_success">"ダウンロードキューに追加しました"</string>
   <string name="download_error">Offline error</string>
@@ -236,7 +236,7 @@
   <string name="no_login_xiaomi_account">"コメントを送信するには、Mi Accountにログインしてください"</string>
   <string name="no_longer_tips">"二度と表示しない"</string>
   <string name="no_pay_record">"支払い記録なし"</string>
-  <string name="no_sdcard_no_download">Not enough storage space.</string>
+  <string name="no_sdcard_no_download">"十分な空き領域がありません。"</string>
   <string name="no_vip_product">do not support vip services</string>
   <string name="not_buy_vip">no vip</string>
   <string name="not_exist_openid">"アカウント情報を取得中、しばらくお待ちください..."</string>
@@ -271,8 +271,8 @@
   <string name="offline_with">Offline (%d)</string>
   <string name="ok">OK</string>
   <string name="online_video">Online</string>
-  <string name="online_video_oneweek">Less than 1 week ago</string>
-  <string name="online_video_oneweek_ago">1 week ago</string>
+  <string name="online_video_oneweek">"1週間以内"</string>
+  <string name="online_video_oneweek_ago">"1週間前"</string>
   <string name="open_in_browser">"ブラウザで開く"</string>
   <string name="operator_test">Operator test</string>
   <string name="operator_test_summary">Run app in Operator test mode</string>
@@ -436,7 +436,7 @@
   <string name="path_develop_settings">System App/Video/Develop Settings</string>
   <string name="path_settings">System App/Video/Settings</string>
   <string name="pause">Pause</string>
-  <string name="pay_record">pay record</string>
+  <string name="pay_record">"支払い記録"</string>
   <string name="performance_mode">Improve player performance</string>
   <string name="performance_mode_desc">"Maximize video player's performance"</string>
   <string name="personal_center">"アカウント"</string>
@@ -473,7 +473,7 @@
   <string name="router">Remote offline</string>
   <string name="router_download_task_with">%d tasks</string>
   <string name="router_update">Update Mi Router app now.</string>
-  <string name="score">Rating  </string>
+  <string name="score">"評価  "</string>
   <string name="score_by">Score: %s</string>
   <string name="score_douban">Douban Score %1$s</string>
   <string name="sdcard_storage">"内部メモリ"</string>

@@ -3434,9 +3434,6 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bt_address">Bluetoothアドレス</string>
   <string name="status_data_state">モバイルネットワークの状態</string>
   <string name="status_failed_to_write">NFCタグにデータを書き込めません。問題が解決しない場合は別のタグをお試しください。</string>
-  <string name="status_icc_id">ICCID</string>
-  <string name="status_imei">IMEI</string>
-  <string name="status_imei_sv">IMEI SV</string>
   <string name="status_invalid_password">パスワードが無効です。もう一度お試しください。</string>
   <string name="status_latest_area_info">携帯通信会社の情報</string>
   <string name="status_meid_number">MEID</string>

@@ -865,7 +865,7 @@ To add a contact to your list of favorites:
   <string name="path_key_photo_word">システムアプリ/連絡先/Assign contact photos</string>
   <string name="path_key_rebuild_t9_index_title">システムアプリ/連絡先/連絡先を整理/インデックスデータを再構築</string>
   <string name="path_key_sim_manage">システムアプリ/連絡先/連絡先を整理/SIMカード</string>
-  <string name="path_preference_contacts_filter">システムアプリ/連絡先/Display preferences/Configure contact lists</string>
+  <string name="path_preference_contacts_filter">システムアプリ/連絡先/Display preferences/連絡先リストの設定</string>
   <string name="path_remove_duplicate">システムアプリ/連絡先/連絡先を整理/Merge duplicate contacts</string>
   <string name="path_share_visible_contacts">システムアプリ/連絡先/インポート/Export contacts/Share contacts</string>
   <string name="path_sim_capacity">システムアプリ/連絡先/SIM card storage</string>
@@ -927,7 +927,7 @@ To add a contact to your list of favorites:
   <string name="preference_auto_ip_title">Automatic IP prefix</string>
   <string name="preference_contacts">"連絡先"</string>
   <string name="preference_contacts_display">Display preferences</string>
-  <string name="preference_contacts_filter">Configure contact lists</string>
+  <string name="preference_contacts_filter">"連絡先リストの設定"</string>
   <string name="preference_contacts_more">"連絡先を整理する"</string>
   <string name="preference_dial_pad_touch_tone_human">Voice</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>
@@ -1022,9 +1022,7 @@ To add a contact to your list of favorites:
 
  始めるには、画面下部にある統合アイコンをタップしてください。"</string>
   <string name="report_inquiry_mms">Report SMS</string>
-  <string name="restore_nickname">Restore</string>
-  <string name="ret_sign">"
-"</string>
+  <string name="restore_nickname">"復元"</string>
   <string name="returnCall">"発信"</string>
   <string name="ringLabelsGroup">"着信音"</string>
   <string name="save_photo_progress">"写真を保存しています…"</string>
@@ -1068,7 +1066,7 @@ To add a contact to your list of favorites:
   <string name="select_done">No more to select</string>
   <string name="select_groups">"グループを選択"</string>
   <string name="select_none">"何も選択されていません"</string>
-  <string name="select_show_contacts">Contact list</string>
+  <string name="select_show_contacts">"連絡先リスト"</string>
   <string name="select_vcard_title">vCardファイルを選択してください</string>
   <string name="send_contact_shortcut_todesktop_success">"ホーム画面に設置しました"</string>
   <string name="send_to_voicemail_checkbox">"ボイスメールに自動転送する"</string>
