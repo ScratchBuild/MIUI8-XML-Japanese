@@ -166,7 +166,7 @@
   <string name="connected">"接続済み"</string>
   <string name="continue_to_add_other_rc">Add more devices</string>
   <string name="control_vol_by_cellphone">Use device to control volume</string>
-  <string name="controller_invalid">"This remote doesn't exist"</string>
+  <string name="controller_invalid">"このリモコンは存在しません"</string>
   <string name="controller_list">"リモコン"</string>
   <string name="cool_mode">"冷房"</string>
   <string name="create_shortcut">"ショートカットを追加"</string>
@@ -275,8 +275,8 @@
   <string name="epg_program_updated_to">Program set to: %1$d</string>
   <string name="epg_search_box_hint">"テレビ番組またはチャンネルで検索"</string>
   <string name="epg_search_history">"検索履歴"</string>
-  <string name="epg_search_hot_channel">Top channel searches</string>
-  <string name="epg_search_hot_program">Top program searches</string>
+  <string name="epg_search_hot_channel">"人気チャンネルの検索"</string>
+  <string name="epg_search_hot_program">"人気番組の検索"</string>
   <string name="epg_status_playing_text">"再生中…"</string>
   <string name="epg_status_playing_text_v5">Live</string>
   <string name="epg_stb_malfunction">This set-top box remote control does not get the correct data, please re-add or select a different remote control</string>
@@ -287,7 +287,7 @@
   <string name="episode_intro_title_text">Episode summary</string>
   <string name="episode_title">Episode %1$d</string>
   <string name="episodes_list">Selected episodes</string>
-  <string name="error_input_dialogue_guide">Please enter the 4-digit code</string>
+  <string name="error_input_dialogue_guide">"4桁のコードを入力してください"</string>
   <string name="exit">"終了"</string>
   <string name="external_app">"アプリをインストール"</string>
   <string name="external_photo">"写真を表示"</string>
@@ -316,8 +316,8 @@
   <string name="fix_keys_success">"修復が完了しました"</string>
   <string name="fix_keys_tips">"一部のボタンが動作しない場合、ボタンの修復を試してください"</string>
   <string name="from_share">Shared by others</string>
-  <string name="gamepad">Gamepad</string>
-  <string name="gamepad_rule">"Can't use landscape orientation in Gamepad mode"</string>
+  <string name="gamepad">"ゲームパッド"</string>
+  <string name="gamepad_rule">"ゲームパッドモードで横向きに使用することはできません"</string>
   <string name="gesture_pad_first_line_tips">Use the Volume buttons on your device to adjust volume</string>
   <string name="gesture_pad_orietaion_tips">Swipe to move in any direction. Tap to confirm.</string>
   <string name="gesture_pad_sencond_line_tips">· Tap &amp; hold the central area of the screen to view the menu. Slide up or down to adjust volume.</string>
@@ -397,7 +397,7 @@
   <string name="ky_receive_audio_preferred">自动识别听到的电视节目</string>
   <string name="ky_receive_audio_watching_tv">您正在收看</string>
   <string name="last_bak_time">Last backup: %1$s</string>
-  <string name="last_use_frame">%1$s ago</string>
+  <string name="last_use_frame">"%1$s前"</string>
   <string name="launch_milive_tips">正在打开直播，请稍等</string>
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Living room</string>

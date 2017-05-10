@@ -106,7 +106,7 @@
   <string name="declaration_content">"1. By using this application including Sohu Video, iQiyi and other content providers' service，you are agreeing to "&lt;a href="http://www.miui.com/res/doc/eula.html"&gt;User Agreement&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/privacy.html"&gt;Privacy Policy&lt;/a&gt;".
 2. To improve your user experience, we'll collect some data about your device and the content you watch. Sohu and iQiyi will also collect your device's IMEI.&amp;#8203;
 3. Our HD Vvideo plug-in will be installed automatically.
-4. This application needs to connect to the internet to work normally."</string>
+4. このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="declaration_content_td_custom">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="delete">"削除"</string>
   <string name="delete_action_text">"削除 (%d)"</string>
@@ -149,9 +149,9 @@
   <string name="edit">"編集"</string>
   <string name="edit_comment">"コメントを追加"</string>
   <string name="empty_data">"エラーが発生しました"</string>
-  <string name="empty_keyword_hint">Enter your search in the box above</string>
+  <string name="empty_keyword_hint">"ボックスにキーワードを入力して検索"</string>
   <string name="empty_tv_exiting">Exiting…</string>
-  <string name="enter_detail">More Information</string>
+  <string name="enter_detail">"詳細情報"</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_epg">No EPG Information</string>
@@ -267,7 +267,7 @@
   <string name="offline_status_finished">"完了"</string>
   <string name="offline_status_loading">"ダウンロード中…"</string>
   <string name="offline_status_paused">Paused</string>
-  <string name="offline_status_waiting">Waiting…</string>
+  <string name="offline_status_waiting">"待機中…"</string>
   <string name="offline_with">Offline (%d)</string>
   <string name="ok">OK</string>
   <string name="online_video">Online</string>
@@ -672,7 +672,7 @@
   <string name="vp_video_invalid_cp_info">Invalid information of video provider, please restart application</string>
   <string name="vp_video_loading">&lt;CDATA&gt;読み込み中&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">"%1$sをインストール中…"</string>
-  <string name="waiting_to_download">Waiting</string>
+  <string name="waiting_to_download">"待機中"</string>
   <string name="wasu">Wasu</string>
   <string name="write_comment">"コメントを追加"</string>
   <string name="xiaomi_account_type_unsupported">"Mi Account isn't supported"</string>
