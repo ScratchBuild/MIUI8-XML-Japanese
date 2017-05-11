@@ -134,6 +134,7 @@
   <string name="cloud_state_storage_full">Not enough phone storage, paused backup</string>
   <string name="cloud_welcome_message">Back up songs</string>
   <string name="cloud_welcome_summary">Back up your songs to Mi Cloud and listen to them on other devices</string>
+  <string name="confirm">OK</string>
   <string name="confirm_download">"ダウンロード"</string>
   <string name="confirm_to_renew">"更新"</string>
   <string name="continue_backup">"続行"</string>
@@ -605,10 +606,18 @@ is mainly provided by Ultimate Inc."</string>
   <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_my">My</string>
+  <string name="online_play_tips">This song is only available online. Turn on online services in the settings to listen to it.</string>
   <string name="online_playlist_is_empty">"プレイリストは空です"</string>
   <string name="online_recommend">"プレイリスト"</string>
+  <string name="online_service_open_tip">Online music services are on</string>
+  <string name="online_service_title">Online services</string>
   <string name="online_special">Special</string>
+  <string name="online_switch">Online content services</string>
+  <string name="online_switch_message">Turning off online services will affect VIP services and recommendations. Turn off anyway?</string>
+  <string name="online_switch_setting">Online content settings</string>
   <string name="open_download">"開く"</string>
+  <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
+  <string name="open_service">Turn on</string>
   <string name="order_pending">Awaiting confirmation</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="other_filter">"その他"</string>
@@ -789,6 +798,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="sort_by_time">"日付"</string>
   <string name="source_from">Source: %1$s</string>
   <string name="start_download_music">Downloading updates for Music.</string>
+  <string name="start_to_backup">Backing up…</string>
   <string name="start_to_download">"ダウンロード中…"</string>
   <string name="start_to_play">"再生"</string>
   <string name="start_to_use">Open Music</string>
@@ -900,8 +910,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="vip_renew_notification_message">"購読の有効期限が切れた後、高品質のオーディオをストリーミングできなくなります。"</string>
   <string name="vip_renew_notification_title">"購読の有効期限が明日で切れます"</string>
   <string name="vip_renew_title">"購読の有効期限切れ"</string>
-  <string name="vip_required">Get Premium Song Pack to play this song. We have skipped it for you.</string>
-  <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. We have skipped it for you.</string>
+  <string name="vip_required">Get Premium Song Pack to play this song. Skipped the song for now.</string>
+  <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. Skipped the song for now.</string>
   <string name="warning_tip_cancel">"ダウンロード"</string>
   <string name="warning_tip_content">"Wi-Fiネットワークに接続していません。モバイルデータ接続を使用してダウンロードを行うと、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="warning_tip_ok">Pause</string>

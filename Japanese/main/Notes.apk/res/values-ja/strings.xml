@@ -19,6 +19,9 @@
   <string name="cloud_trash_bin_title">"Mi Cloudのノートを削除"</string>
   <string name="cta_reminder">This app needs to connect to the internet to back up notes to Mi Cloud, as well as read your contacts to label the notes you take during calls.</string>
   <string name="delete_folder_dialog_tile">"フォルダを削除"</string>
+  <string name="dialog_share_as_pic">"ノートを画像として共有"</string>
+  <string name="dialog_share_as_text">"ノートをテキストとして共有"</string>
+  <string name="dialog_share_title">"ノートを共有"</string>
   <string name="dlg_btn_set_password">"パスワードを設定"</string>
   <string name="dlg_check_reminder">"次回から表示しない"</string>
   <string name="dlg_delete_message">"削除中…"</string>
@@ -35,6 +38,7 @@
   <string name="dlg_title_set_password">"パスワードを設定"</string>
   <string name="dlg_title_use_privacy_password">"プライバシー保護パスワードを使用"</string>
   <string name="dlg_unhide_message">Unhiding…</string>
+  <string name="done">"完了"</string>
   <string name="enable_sync">"同期"</string>
   <string name="enable_sync_desc">"Mi Account(%1$s)を使用してノートを同期しますか？"</string>
   <string name="error_contact_not_exist">"連絡先が存在しません"</string>
@@ -48,6 +52,8 @@
   <string name="error_widget_exist_for_send_to_desktop">"このノートは既にホーム画面に設置済みです"</string>
   <string name="folder_exist">"同じ名前のフォルダが既に存在します"</string>
   <string name="force_touch_menu_add">"ノートを追加"</string>
+  <string name="format_move_note_out_folder">"移動しました"</string>
+  <string name="format_move_note_to_folder">"%1$sに移動しました"</string>
   <string name="format_move_notes_out_folder">"%1$sを移動しました"</string>
   <string name="format_move_notes_to_folder">"%1$sを%2$sに移動しました"</string>
   <string name="hidden_notes_fragment_title">Hidden notes</string>
@@ -56,6 +62,7 @@
   <string name="info_note_enter_desktop">"ホーム画面に追加しました"</string>
   <string name="loading_text">"読み込み中…"</string>
   <string name="login_sync">"ログインと同期"</string>
+  <string name="menu_add_folder">"フォルダに追加"</string>
   <string name="menu_create_folder">"フォルダを作成"</string>
   <string name="menu_delete">"削除"</string>
   <string name="menu_delete_forever">"完全に削除"</string>

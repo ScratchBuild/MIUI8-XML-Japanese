@@ -67,9 +67,9 @@
   <string name="add_shortcut">"ショートカットを追加"</string>
   <string name="add_shortcut_success">"ショートカットが正常に追加されました"</string>
   <string name="add_to_bookmark">"ブックマーク"</string>
-  <string name="add_to_desk">"ホーム画面に設置"</string>
+  <string name="add_to_desk">"ホーム画面に追加"</string>
   <string name="add_to_desk_lite_mode_toast">"Lite modeでホーム画面に追加できませんでした"</string>
-  <string name="add_to_desk_success">"ホーム画面に設置しました"</string>
+  <string name="add_to_desk_success">"ホーム画面に追加しました"</string>
   <string name="add_to_quicklink">"スタートページ"</string>
   <string name="added_to_bookmarks">"ブックマークに追加しました"</string>
   <string name="adjust_text_zoom_toast">"文字サイズの変更を行うと、いくつかのwebサイトが正しく表示されない場合があります"</string>
@@ -86,7 +86,7 @@
   <string name="aqi_quality_index_moderate">"中程度"</string>
   <string name="aqi_quality_index_pure">"優良"</string>
   <string name="aqi_quality_index_unhealthy">"不健康"</string>
-  <string name="autoSwithcingSearchEngineTips">"あなたの習慣によって検索エンジンを切り替えました"</string>
+  <string name="autoSwithcingSearchEngineTips">"頻繁に使用する検索エンジンに切り替える"</string>
   <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
   <string name="autofill_popup_content_description">"自動入力のポップアップを表示しています"</string>
   <string name="autologin_bar_error">"ログインに失敗しました"</string>
@@ -106,8 +106,8 @@
   <string name="bookmark_cannot_save_url">"このURLはブックマークに追加できません。"</string>
   <string name="bookmark_folder_needs_title">"グループ名を入力"</string>
   <string name="bookmark_group_lable">"グループ"</string>
-  <string name="bookmark_needs_title">"名前を指定してください。"</string>
-  <string name="bookmark_needs_url">"URLを指定してください。"</string>
+  <string name="bookmark_needs_title">"名前を指定してください"</string>
+  <string name="bookmark_needs_url">"URLを指定してください"</string>
   <string name="bookmark_not_saved">"ブックマークを保存できませんでした"</string>
   <string name="bookmark_rename_group">"グループ名を変更"</string>
   <string name="bookmark_saved">"ブックマークを保存しました"</string>
@@ -115,9 +115,9 @@
   <string name="bookmark_title_lable">"タイトル"</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"このURLは既にブックマーク済みです"</string>
-  <string name="bookmark_url_can_not_null">"URLを入力してください。"</string>
+  <string name="bookmark_url_can_not_null">"URLを入力"</string>
   <string name="bookmark_url_lable">URL</string>
-  <string name="bookmark_url_not_valid">"このURLは無効です。"</string>
+  <string name="bookmark_url_not_valid">"このURLは無効です"</string>
   <string name="bookmarks_content_is_null">"ブックマークなし"</string>
   <string name="bookmarks_management">"ブックマーク"</string>
   <string name="bookmarks_root_folder">Root folder</string>
@@ -306,7 +306,7 @@ Pages you view won't appear in history."</string>
   <string name="find_on_page_next">"次へ"</string>
   <string name="find_on_page_prev">"戻る"</string>
   <string name="find_previous">"前を検索"</string>
-  <string name="firstUsingSearchEngineTips">Whether to switch the search</string>
+  <string name="firstUsingSearchEngineTips">"検索エンジンを切り替えますか？"</string>
   <string name="fling_on_border_gesture_hint">"設定でこのジェスチャーの機能を選択できます"</string>
   <string name="force_quick_search_title">"検索"</string>
   <string name="force_touch_bookmark_history_title">"ブックマークと履歴"</string>
@@ -508,7 +508,7 @@ Pages you view won't appear in history."</string>
   <string name="pref_adblock_counts">"%d個をブロック済み"</string>
   <string name="pref_adblock_title">Ad blocker</string>
   <string name="pref_auto_update_under_wifi">"Wi-Fi使用時にアップデート"</string>
-  <string name="pref_automatic_matching_searchengines_title">Automatic matching search engines by habit</string>
+  <string name="pref_automatic_matching_searchengines_title">"頻繁に使用する検索エンジンに切り替える"</string>
   <string name="pref_category_hint">"カテゴリー"</string>
   <string name="pref_check_security_url_summary">"ウェブサイトが安全かを確認するため、MiサーバーにURLを送信する"</string>
   <string name="pref_check_security_url_title">"URLの安全性を確認"</string>
@@ -601,9 +601,9 @@ Pages you view won't appear in history."</string>
   <string name="pull_to_refresh_pull_label">"画面を引っ張って"</string>
   <string name="pull_to_refresh_release_label">"指を離して更新"</string>
   <string name="qr_code_title">"QRコード"</string>
-  <string name="quicklink_bookmark_save">BOOKMARK LOCATION</string>
+  <string name="quicklink_bookmark_save">Save to</string>
   <string name="quicklink_cannot_save_url">"このURLは追加できません。"</string>
-  <string name="quicklink_folder_text">Top App</string>
+  <string name="quicklink_folder_text">Top apps</string>
   <string name="quicklink_not_saved">"スタートページに追加できませんでした"</string>
   <string name="quicklink_saved">"スタートページに保存しました"</string>
   <string name="quicklink_saved_before">"このサイトは既に追加済みです"</string>
@@ -706,7 +706,7 @@ Pages you view won't appear in history."</string>
   <string name="skip_current_version">"このバージョンをスキップ"</string>
   <string name="snapshot_failed">"オフラインでの閲覧用に保存できませんでした"</string>
   <string name="snapshot_successed">"オフラインでの閲覧用に保存しました"</string>
-  <string name="ssl_bad_clock_date_settings">"日付設定"</string>
+  <string name="ssl_bad_clock_date_settings">"日付を設定"</string>
   <string name="ssl_bad_clock_warning" formatted="false">"端末の日付と時刻(%s2)が正しくないため、%s1へのプライベート接続を確立できません。"</string>
   <string name="ssl_certificate">"セキュリティ証明書"</string>
   <string name="ssl_certificate_is_valid">"この証明書は有効です。"</string>

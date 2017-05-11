@@ -3,7 +3,7 @@
     <plurals name="toast_channel_searched">
         <item quantity="other">"%1$d個の局をスキャンしました"</item>
         <item quantity="zero">"%1$d個の局をスキャンしました"</item>
-        <item quantity="one">"1個の局をスキャンしました"</item>
+        <item quantity="one">"%1$d個の局をスキャンしました"</item>
         <item quantity="two">"%1$d個の局をスキャンしました"</item>
         <item quantity="few">"%1$d個の局をスキャンしました"</item>
         <item quantity="many">"%1$d個の局をスキャンしました"</item>

@@ -40,7 +40,7 @@
   <string name="memory_not_allowed">空き容量がありません。記録するには空き容量を確保してください。</string>
   <string name="mic_sound">マイク</string>
   <string name="no_recorder_info">動画はありません</string>
-  <string name="no_recorder_info2">録画を追加するにはボタンをタップ。</string>
+  <string name="no_recorder_info2">録画を開始するにはボタンをタップ。</string>
   <string name="no_sound">ミュート</string>
   <string name="operation_delete">削除</string>
   <string name="operation_send">送信</string>

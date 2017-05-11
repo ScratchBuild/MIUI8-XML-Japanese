@@ -2,11 +2,15 @@
 <resources>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%d calls</item>
-        <item quantity="one">1 call</item>
+        <item quantity="one">%d call</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
-        <item quantity="other">%d SMS</item>
-        <item quantity="one">1 SMS</item>
+        <item quantity="other">%d messages</item>
+        <item quantity="one">%d message</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d other users marked it as</item>
+        <item quantity="one">%d other user marked it as</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Not tracking data usage for %d apps</item>
@@ -15,6 +19,22 @@
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Tracking data usage for %d apps</item>
         <item quantity="one">Tracking data usage for %d app</item>
+    </plurals>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">"You've already used %s daily data limits."</item>
+        <item quantity="one">"You've already used %s daily data limit."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"You've already used %s daily data limits.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
+        <item quantity="one">"You've already used %s daily data limit.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
     </plurals>
     <plurals name="hints_install_apps_interval">
         <item quantity="other">Used %d days ago</item>
@@ -149,29 +169,9 @@
         <item quantity="other">%d apps contain privacy risks</item>
         <item quantity="one">%d app contains privacy risks</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">"パスワードには英字が%d文字以上必要です。"</item>
-        <item quantity="one">"パスワードには英字が1文字以上必要です。"</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">"パスワードには小文字の英字が%d文字以上必要です。"</item>
-        <item quantity="one">"パスワードには小文字の英字が1文字以上必要です。"</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">"パスワードには大文字の英字が%d文字以上必要です。"</item>
-        <item quantity="one">"パスワードには大文字の英字が1文字以上必要です。"</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">"パスワードには数字が%d個以上必要です。"</item>
-        <item quantity="one">"パスワードには数字が1つ以上必要です。"</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">"パスワードには記号が%d個以上必要です。"</item>
-        <item quantity="one">"パスワードには記号が1つ以上必要です。"</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">"パスワードには記号または数字が%d個以上必要です。"</item>
-        <item quantity="one">"パスワードには記号または数字が1つ以上必要です。"</item>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Wait for %d seconds and try again. "</item>
+        <item quantity="one">"Wait for %d second and try again. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d個のアプリがロックされています</item>
@@ -265,5 +265,17 @@
     <plurals name="app_manager_reject_count">
         <item quantity="other">Blocked %d times</item>
         <item quantity="one">Blocked %d time</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">"Haven't used for %d days"</item>
+        <item quantity="one">"Haven't used for %d day"</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">"Haven't used for %d months"</item>
+        <item quantity="one">"Haven't used for %d month"</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">"Haven't used for %d years"</item>
+        <item quantity="one">"Haven't used for %d year"</item>
     </plurals>
 </resources>

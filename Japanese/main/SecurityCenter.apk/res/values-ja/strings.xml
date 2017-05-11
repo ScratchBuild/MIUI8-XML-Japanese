@@ -153,10 +153,13 @@
   <string name="app_manager_dlg_ok">OK</string>
   <string name="app_manager_force_stop_dlg_text">"アプリを強制停止すると、アプリが正常に機能しないことがあります。"</string>
   <string name="app_manager_force_stop_dlg_title">"強制停止しますか？"</string>
+  <string name="app_manager_go_to_manger_app">"管理"</string>
+  <string name="app_manager_have_not_consume">无</string>
   <string name="app_manager_loading_data">"データを読み込み中…"</string>
   <string name="app_manager_more_times">Accessed 100000+ times</string>
   <string name="app_manager_my_app">My apps</string>
-  <string name="app_manager_not_record">No items here</string>
+  <string name="app_manager_not_record">"アクセス許可が必要なアプリが見つかりませんでした"</string>
+  <string name="app_manager_perm">Permissions</string>
   <string name="app_manager_perm_monitor_make_calls">"通話の発信"</string>
   <string name="app_manager_perm_monitor_read_call_history">"通話履歴の読み取り"</string>
   <string name="app_manager_perm_monitor_read_contacts">"連絡先の読み取り"</string>
@@ -175,7 +178,6 @@
   <string name="app_manager_permission_send_mms_over">"SMSの送信を 100000+ 回行いました"</string>
   <string name="app_manager_permission_startself_summary">"自動的に起動してメモリを占有し、バッテリーをより早く消費するアプリ"</string>
   <string name="app_manager_permission_startself_title">"自動起動"</string>
-  <string name="app_manager_power">Permissions</string>
   <string name="app_manager_rebide_wakepath">"制限"</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimize chain start</string>
   <string name="app_manager_reduce_wakepath_summary">Restricting autostart will minimize chain start. Restrict autostart for %s?</string>
@@ -195,6 +197,7 @@
   <string name="app_manager_uninstall_xspace_app_dlg_title">"デュアルアプリをアンインストールしますか？"</string>
   <string name="app_manager_unstall_application">"アンインストール"</string>
   <string name="app_manager_update_label_text">"新規"</string>
+  <string name="app_manager_usage_record_title">App usage</string>
   <string name="app_manager_wake_path_card_title">Chain start history (2 days)</string>
   <string name="app_manager_wakepath_dialog_buttontext">OK</string>
   <string name="app_manager_wakepath_dialog_summary">Chain start happens when one app starts another app in the background. It can drain battery and lower the system performance. MIUI would normally block chain start.</string>
@@ -205,6 +208,8 @@
   <string name="app_name_na">"データ使用量"</string>
   <string name="app_name_securitycenter">"セキュリティ"</string>
   <string name="app_not_installed_toast">"アプリはお使いの端末にインストールされていません。"</string>
+  <string name="app_usage_never">"最近使用していない"</string>
+  <string name="app_usage_recently">"最近使用された"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">"Wi-Fi"</string>
   <string name="applock_add_account">"追加"</string>
@@ -349,7 +354,7 @@
   <string name="bl_no_block_call">"ブロックされた通話はありません。"</string>
   <string name="bl_no_block_sms">"ブロックされたSMSはありません。"</string>
   <string name="blacklist_prefix_add_hint">"このプレフィックスで始まるすべての番号をブロックする"</string>
-  <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_message_number">Messages: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">"通話: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;"</string>
   <string name="booster_immediately">Boost</string>
   <string name="boot_reminder">Power on your device at a scheduled time</string>
@@ -515,9 +520,6 @@
   <string name="daily_limit_network_available_body">"データ使用量の統計を表示するにはタップ。"</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
   <string name="daily_pkg_traffic">Peak data limit</string>
-  <string name="daily_sim_over_limit_dialog_message">"You've already used %s daily data limits.
-
-If you turn on mobile data again, your carrier may charge you for additional data."</string>
   <string name="daily_sim_over_limit_notify_title">"You've already used %s daily data limits."</string>
   <string name="data_network_blocked_notification_title">"インターネット接続なし"</string>
   <string name="data_usage_correction_timeout_body">"手動で更新するにはタップ。"</string>
@@ -527,8 +529,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="data_usage_leisure_warning_body">"データ使用量の詳細を表示するにはタップ。"</string>
   <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
   <string name="data_usage_limit_body">"モバイルデータをオンにするにはタップ。"</string>
-  <string name="data_usage_limit_snoozed_body">Exceeded data usage limit for this month.</string>
-  <string name="data_usage_mobile_limit_snoozed_title">Data usage exceeded</string>
   <string name="data_usage_mobile_limit_title">Reached mobile data limit</string>
   <string name="data_usage_no_total_package_body">Tap to set data limit</string>
   <string name="data_usage_no_total_package_body_dual">No data limit set for %s</string>
@@ -539,7 +539,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="data_usage_warning_body_notify">"詳細を表示するにはタップ"</string>
   <string name="data_usage_warning_title">"データ使用の警告"</string>
   <string name="data_usage_warning_title_notify">"データ使用量の制限を超えました"</string>
-  <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deep_clean_disconnect_data_title">"端末がロックされた時にモバイルデータをオフ"</string>
   <string name="deep_clean_memory_clean_title">"端末がロックされた時にキャッシュを消去"</string>
@@ -584,8 +583,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="disable_air_mode">"最初に機内モードをオフにする"</string>
   <string name="dlg_add_blacklist">"この番号をブロックしますか？"</string>
   <string name="dlg_add_blacklist_title">"ブロックリストに追加"</string>
-  <string name="dlg_add_blacklist_warn_conflict_content">%1$s and %2$s other contacts are already on your exceptions list.</string>
-  <string name="dlg_add_blacklist_warn_conflict_title">"例外の競合"</string>
   <string name="dlg_add_keyword">"キーワードを追加"</string>
   <string name="dlg_antispam_mode_delete_message">"削除した後、ルールの復元はできません。"</string>
   <string name="dlg_antispam_mode_delete_title">"ルールを削除しますか？"</string>
@@ -700,7 +697,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="goto_set">"設定"</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;間違ったキャリア？&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"現在のキャリア: "</string>
-  <string name="guide_primary_text">"モバイルデータの使用量を管理するには、ネットワークアシスタントをオンにします"</string>
   <string name="guide_quck_open">"オンにする"</string>
   <string name="guide_second_text">"After you set your carrier, MIUI will monitor your mobile data usage daily by sending free carrier SMS. When MIUI detects you've gone over your data limit, it will disconnect from the network and notify you."</string>
   <string name="guide_wait_setting">"後で"</string>
@@ -785,7 +781,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="installed">"インストール済み"</string>
   <string name="installing">"インストール中"</string>
   <string name="international_roaming_setting">"海外ローミング"</string>
-  <string name="international_roaming_whitelist_count">"％d個のアプリはローミング時にモバイルデータを使用できます"</string>
   <string name="ip_address_exception_summary">"IPアドレスを取得できませんでした。この問題が再発する場合は、静的IPアドレスを使用してみてください。"</string>
   <string name="item_app_permission">"アプリのパーミッション"</string>
   <string name="item_dev_mode">"開発者向けオプション"</string>
@@ -852,7 +847,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="lockpattern_recording_intro_header">Connect at least 4 dots to create a pattern</string>
   <string name="lockpattern_retry_button_text">Draw again</string>
   <string name="lockpattern_settings_help_how_to_record">Draw a pattern</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"%d秒後にもう一度お試しください。"</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">"誤った回数が多すぎます！"</string>
   <string name="lockpattern_tutorial_cancel_label">"キャンセル"</string>
   <string name="lockpattern_tutorial_continue_label">"次へ"</string>
@@ -869,7 +863,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="main_activity_content_summary_root">Root access</string>
   <string name="main_activity_content_summary_update">"システムの更新"</string>
   <string name="main_activity_content_title_scanning">"スキャン中…"</string>
-  <string name="main_alert_message_month_limit_error">Data limit incorrect</string>
   <string name="main_alert_message_no_imsi">"SIMカードが検出できません"</string>
   <string name="main_alert_message_no_mobile_package">Set data limit</string>
   <string name="main_alert_message_open_traffic_ctrl">We recommend restricting data usage</string>
@@ -936,7 +929,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="mark_sell_block_large">Telemarketers</string>
   <string name="mark_sell_time_setting">Block numbers that have been reported as telemarketers a specified number of times</string>
   <string name="mark_time_setting_dialog_title">"番号を報告"</string>
-  <string name="marked_by_others">"%d other users marked it as "</string>
   <string name="marked_by_user">"you marked it as "</string>
   <string name="memory_check_content">Freed %s</string>
   <string name="memory_check_content_none">Empty</string>
@@ -997,8 +989,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
   <string name="msg_update_error_code_success">"完了"</string>
   <string name="msg_update_up">"非表示"</string>
   <string name="name">"名前"</string>
-  <string name="network_assistant_upgraded_body">"詳細を表示するにはタップ。"</string>
-  <string name="network_assistant_upgraded_title">"更新済み"</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
   <string name="network_blocked_notification_summary">Test network</string>
   <string name="network_blocked_switch_wifi">"ネットワークを切り替える"</string>
@@ -1250,7 +1240,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_settings_title">"設定"</string>
   <string name="power_settings_top">Top bar</string>
   <string name="power_wifi">Wi-Fi</string>
-  <string name="pref_about">"このアプリについて"</string>
   <string name="pref_about_traffic_title">"データ使用量の設定"</string>
   <string name="pref_add_traffic_pkg">Additionally purchased data</string>
   <string name="pref_adjust_data_usage">Carrier message template</string>
@@ -1273,7 +1262,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_category_title_securitycenter_settings">"全般"</string>
   <string name="pref_category_title_virus_lib_auto_update">Automatically update definitions</string>
   <string name="pref_category_title_virus_white_list">"例外"</string>
-  <string name="pref_check_network_diagnostics">"端末のインターネット接続をテスト"</string>
   <string name="pref_confirm_operator_setting">Make sure the info you entered is correct</string>
   <string name="pref_connect_settings_enable_background">"バックグラウンドデータを許可"</string>
   <string name="pref_connect_settings_enable_background_hint">"ユーザーが使用していないときでもモバイデータの使用をアプリに許可する"</string>
@@ -1296,16 +1284,12 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_key_daily_package_summary">Turn on to reset data plan daily</string>
   <string name="pref_key_daily_package_switch">Daily data plan</string>
   <string name="pref_key_direction_traffic">Designated mobile data</string>
-  <string name="pref_key_extra_package_switch">Monthly top-up package</string>
   <string name="pref_key_half_year_package_start">Starting date</string>
   <string name="pref_key_half_year_package_switch">Half-year data package</string>
   <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
-  <string name="pref_leisure_no_overlay">On</string>
-  <string name="pref_leisure_not_opened">Off</string>
   <string name="pref_manual_adjust">"データ使用量の統計を手動で設定"</string>
   <string name="pref_mi_sim_settings">Mi SIM Settings</string>
-  <string name="pref_month_begin_date">Usage reset date</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_settings">"その他の設定"</string>
   <string name="pref_new_installed_preconfig_title">"新しいアプリのデフォルト設定"</string>
@@ -1313,7 +1297,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_open_adjust_traffic">Update data usage every day using stats from your carrier</string>
   <string name="pref_operator_not_set">"キャリアが設定されていません"</string>
   <string name="pref_over_traffic_limit">When you go over your data plan</string>
-  <string name="pref_package_traffic_leisure">"%1$s Off-peak: %2$s"</string>
   <string name="pref_package_traffic_normal">Peak: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
   <string name="pref_package_traffic_settings">Mobile data limit</string>
@@ -1336,14 +1319,12 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_lock_screen_memory_clean">Clean at lock screen</string>
   <string name="pref_title_manual_check_virus_db_update">"更新を確認"</string>
   <string name="pref_title_mobile_traffic">Show data usage while locked</string>
-  <string name="pref_title_network_diagnostics">Test network</string>
   <string name="pref_title_over_traffic_limit_warning">When exceeded</string>
   <string name="pref_title_traffic_limit_number">Size</string>
   <string name="pref_title_traffic_speed_state">"ネットワーク速度を表示"</string>
   <string name="pref_title_update_notification">"データ使用の通知"</string>
   <string name="pref_title_virus_white_list">"例外"</string>
   <string name="pref_traffic_manage_title">"データ使用量"</string>
-  <string name="pref_version">Version %s</string>
   <string name="pref_whitelist_setting">"データローミングの例外"</string>
   <string name="preferred_app_entries_browser">"ブラウザ"</string>
   <string name="preferred_app_entries_camera">"カメラ"</string>
@@ -1353,14 +1334,12 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="preferred_app_entries_launcher">"ランチャー"</string>
   <string name="preferred_app_entries_messaging">Messaging</string>
   <string name="preferred_app_entries_music">Music</string>
-  <string name="privacy_declare_dialog_message">"このサービスを利用することで、Operaの&lt;a href=%s&gt;利用規約&lt;/a&gt;に同意したことになります。"</string>
   <string name="privacy_declare_dialog_title">"利用規約"</string>
   <string name="privacy_mode_dialog_title">"ゲストモード"</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
   <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order to acquire the carrier's calibration template and learn if it's possible to purchase data in your location.
 
 While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
   <string name="privacy_prompt_upload">"アップロード"</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">"メディアサーバー"</string>
@@ -1821,9 +1800,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="three_percent_total_pkg">%s (3%% of monthly data)</string>
   <string name="timeshow_h">"%.1f時間"</string>
   <string name="timeshow_h_int">"%d時間"</string>
-  <string name="timeshow_h_m">"%1$d時間%2$d分"</string>
   <string name="timeshow_m">"%d分"</string>
-  <string name="timeshow_m_s">"%1$d分%2$d秒"</string>
   <string name="timeshow_s">"%d秒"</string>
   <string name="tips_dialog_title">"Don't know your limit"</string>
   <string name="tips_message">"データプランの詳細を表示するには、%2$s (%1$s)にダイヤルします。"</string>
@@ -1948,7 +1925,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_over_purchase_title">Data limit exceeded</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Top up mobile data</string>
-  <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_area_dual">%s Locale</string>
   <string name="traffic_setting_fragment_brand">"ブランド"</string>

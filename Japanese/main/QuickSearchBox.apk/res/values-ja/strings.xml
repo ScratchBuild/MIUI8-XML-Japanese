@@ -6,9 +6,6 @@
   <string name="appindex_search_label">Apps functions</string>
   <string name="application_desc">"アプリ"</string>
   <string name="applications_search_label">"アプリ"</string>
-  <string name="baidu_search_url_from_input">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_launcher">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_systemui">https://www.google.co.jp/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="barcode_install_back">"戻る"</string>
   <string name="barcode_install_cancel">"キャンセル"</string>

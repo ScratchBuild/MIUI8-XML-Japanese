@@ -42,12 +42,12 @@
         <item>すべて</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15秒後</item>
-        <item>30秒後</item>
-        <item>1分後</item>
-        <item>2分後</item>
-        <item>5分後</item>
-        <item>10分後</item>
+        <item>15秒</item>
+        <item>30秒</item>
+        <item>1分</item>
+        <item>2分</item>
+        <item>5分</item>
+        <item>10分</item>
         <item>オフにしない</item>
     </string-array>
     <string-array name="dream_timeout_entries">
@@ -611,7 +611,7 @@
     <string-array name="wfd_status">
         <item>セッションを開始しています…</item>
         <item>セッションを開始しました</item>
-        <item>Tearing down…</item>
+        <item>サービスを終了しています…</item>
         <item>セッションを開始できません</item>
         <item>タイムアウト。再試行しています…</item>
         <item>デバイスが接続されました</item>

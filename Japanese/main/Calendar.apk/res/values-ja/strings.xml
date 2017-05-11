@@ -71,7 +71,7 @@
   <string name="can_not_modify_allday_event">"終日の予定が変更できません"</string>
   <string name="can_not_modify_event">"予定が変更できません"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Can't change multi-day event"</string>
-  <string name="card_detail_dialog_message">""%1$s"を購読すると毎日最新のコンテンツが配信され、いつでも閲覧することができます。"</string>
+  <string name="card_detail_dialog_message">"%1$sを購読すると毎日最新のコンテンツが配信され、いつでも閲覧することができます。"</string>
   <string name="card_detail_dialog_negative">"今はしない"</string>
   <string name="card_detail_dialog_positive">"今すぐ購読"</string>
   <string name="card_detail_dialog_title">"購読を行いますか？"</string>

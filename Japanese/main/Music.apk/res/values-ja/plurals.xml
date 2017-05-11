@@ -125,4 +125,8 @@
         <item quantity="zero">Total %d song</item>
         <item quantity="one">Total %d song</item>
     </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
+        <item quantity="one">Skipped %d song. Turn on online services in the settings to listen to it.</item>
+    </plurals>
 </resources>

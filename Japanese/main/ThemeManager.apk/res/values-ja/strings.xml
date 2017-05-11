@@ -397,6 +397,7 @@
   <string name="third_party_pickers_activity_title">"%1$sを追加"</string>
   <string name="title_component">"テーマのカスタマイズ"</string>
   <string name="title_my_audio_resource">My ringtones</string>
+  <string name="title_my_miwallpaper_resource">My live wallpapers</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>
   <string name="title_system_audio_resource">"システムの着信音"</string>
   <string name="title_system_wallpaper_resource">"システムの壁紙"</string>

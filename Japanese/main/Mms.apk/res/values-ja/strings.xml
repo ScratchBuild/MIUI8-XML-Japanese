@@ -7,10 +7,7 @@
   <string name="addBlackList">ブロックリストに追加</string>
   <string name="add_attachment">添付ファイルを追加</string>
   <string name="add_contact">vCard</string>
-  <string name="add_festival">挨拶</string>
   <string name="add_music">音楽を追加</string>
-  <string name="add_nickname">ニックネーム</string>
-  <string name="add_nickname_title">ニックネームを編集</string>
   <string name="add_number_to_sender">%sに番号を追加</string>
   <string name="add_picture">画像を追加</string>
   <string name="add_private_contact">プライベートの連絡先を追加</string>
@@ -64,7 +61,6 @@
   <string name="card_insert_to_contact">連絡先をインポート</string>
   <string name="change_duration_activity">表示時間を変更</string>
   <string name="check_all">すべて選択</string>
-  <string name="chenghu_disable_mms">"MMSでニックネームは使用できません。"</string>
   <string name="class_0_message_activity">"クラス0メッセージ"</string>
   <string name="close">閉じる</string>
   <string name="cloud_recommend_msg">タップしてMi Cloudとメッセージを同期</string>
@@ -118,7 +114,6 @@
   <string name="copy_to_sdcard">添付ファイルを保存</string>
   <string name="copy_to_sdcard_fail">"添付ファイルを保存できませんでした。"</string>
   <string name="copy_to_sdcard_success">添付ファイル%sを保存しました。</string>
-  <string name="database_corruption">修復中...</string>
   <string name="delete">削除</string>
   <string name="delete_bookmark">スターを外す</string>
   <string name="delete_message">メッセージを削除</string>
@@ -145,8 +140,6 @@
   <string name="duration_selector_title">"スライドの表示時間"</string>
   <string name="duration_zero">表示時間には0秒より大きい値を指定してください</string>
   <string name="edit">編集</string>
-  <string name="edit_nickname_for_nocontact">最初に宛先を追加する必要があります。</string>
-  <string name="edit_nickname_for_nocontact_by_robot">最初に宛先を追加する必要があります。</string>
   <string name="edit_phrase">定型文を編集</string>
   <string name="edit_slide_activity">スライドを編集</string>
   <string name="edit_slideshow_activity">スライドショーを編集</string>
@@ -172,16 +165,9 @@
   <string name="fake_cell_safe_hint">このメッセージは安全です</string>
   <string name="fake_cell_timeout_hint">"安全性を確認できませんでした"</string>
   <string name="fdn_check_failure">発信番号制限で指定された宛先にのみメッセージを送信できます</string>
-  <string name="festival">挨拶</string>
-  <string name="festival_continue">OK</string>
-  <string name="festival_networking_desc">この機能が正常に作動するためには、インターネットへの接続が必要です</string>
-  <string name="festival_networking_title">警告</string>
-  <string name="festival_never_remind">"二度と表示しない"</string>
-  <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">"ロード中..."</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">"作成:"</string>
-  <string name="file_share_message_description">あなたとファイルを共有したいです。</string>
   <string name="file_size">"サイズ:"</string>
   <string name="file_title">"名前:"</string>
   <string name="file_width_height">"サイズ:"</string>
@@ -361,7 +347,6 @@
   <string name="new_message_arrived">新着メッセージがあります</string>
   <string name="new_phrase">定型文を追加</string>
   <string name="new_phrase_hint">新規定型文を入力</string>
-  <string name="nickname_placeholder">ニックネーム</string>
   <string name="no">キャンセル</string>
   <string name="no_block_button_msg">ブロックを解除</string>
   <string name="no_conversations">スレッドがありません</string>
@@ -409,7 +394,6 @@
   <string name="pref_summary_delete_limit">"スレッドごとに%1$s件のメッセージ"</string>
   <string name="pref_summary_delivery_reports">送信したメッセージの配達状況を表示</string>
   <string name="pref_summary_delivery_ringtone">送信したメッセージのサウンド通知を受信</string>
-  <string name="pref_summary_hide_festival">システムが中国語以外に設定されている際は中国語のみの機能は非表示にする</string>
   <string name="pref_summary_manage_sim_messages">SIMカードに保存したメッセージを管理</string>
   <string name="pref_summary_mms_auto_retrieval">メッセージの画像と動画を自動的にダウンロード</string>
   <string name="pref_summary_mms_read_reports">MMSの受信者がコンテンツのダウンロードを完了した場合はスレッド画面に通知を表示</string>
@@ -430,9 +414,7 @@
   <string name="pref_title_allow_si_sl_push">WAPプッシュを許可(SI/SL)</string>
   <string name="pref_title_card_format">カード共有フォーマット</string>
   <string name="pref_title_delivery_reports">配達状況</string>
-  <string name="pref_title_festival_networking">インターネット接続</string>
   <string name="pref_title_fwd_sender_info">転送者情報</string>
-  <string name="pref_title_hide_festival">中国語の機能を非表示</string>
   <string name="pref_title_manage_sim_messages">SIMカードのストレージ</string>
   <string name="pref_title_miui_card">カードで送る</string>
   <string name="pref_title_mms_auto_retrieval">MMSのコンテンツを自動で取得</string>
@@ -482,8 +464,6 @@
   <string name="recipients_over_size">宛先が多すぎます</string>
   <string name="recording_failed">"録音できません"</string>
   <string name="refill_now">今すぐ補充</string>
-  <string name="refresh">更新</string>
-  <string name="refresh_failed">更新に失敗しました</string>
   <string name="refreshing">"更新中..."</string>
   <string name="release_cancel">リリースするとキャンセル</string>
   <string name="remove">削除</string>
