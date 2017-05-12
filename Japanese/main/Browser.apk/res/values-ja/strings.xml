@@ -171,7 +171,6 @@
   <string name="comment_menu">"コメント"</string>
   <string name="common_use_phrase_bottom_bar_text_next">"次へ"</string>
   <string name="common_use_phrase_bottom_bar_text_previous">"前へ"</string>
-  <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="contextmenu_add_contact">"連絡先を追加"</string>
   <string name="contextmenu_copy">"コピー"</string>
   <string name="contextmenu_copylink">"URLをコピー"</string>
@@ -623,7 +622,7 @@ Pages you view won't appear in history."</string>
   <string name="readmode_pay_message">You need to pay to read the next chapter.</string>
   <string name="readmode_reach_last_page">This is the last page</string>
   <string name="readmode_recommend">"おすすめを表示"</string>
-  <string name="readmode_recommend_message">"You've read this book already. :)"</string>
+  <string name="readmode_recommend_message">"この本は既に読んでいます。"</string>
   <string name="readmode_refresh">"更新"</string>
   <string name="readmodelist_bookmarks_to_show">Reading list</string>
   <string name="remember_passwords_confirm_message">Turning this feature off may affect usage.</string>
@@ -688,9 +687,9 @@ Pages you view won't appear in history."</string>
   <string name="secure_download_in_xiaomi_market">"App Storeでダウンロード"</string>
   <string name="secureaccess">"セーフモードに切り替える"</string>
   <string name="secureaccess_cancel">"無視する"</string>
-  <string name="security_url_confirm_message">Turning this feature off may create security risks.</string>
+  <string name="security_url_confirm_message">"この機能をオフにすると、セキュリティリスクが発生する可能性があります。"</string>
   <string name="security_warning">"セキュリティ警告"</string>
-  <string name="security_warnings_confirm_message">Turning this feature off may create security risks.</string>
+  <string name="security_warnings_confirm_message">"この機能をオフにすると、セキュリティリスクが発生する可能性があります。"</string>
   <string name="select_dot">"テキストを選択してコピー"</string>
   <string name="select_download_device">"デバイスを選択"</string>
   <string name="send_comment_button">"送信"</string>
@@ -700,7 +699,7 @@ Pages you view won't appear in history."</string>
   <string name="share_page_text">"I'm enjoying %1$s | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"このウェブサイトが安全かを確認するため、XiaomiのサーバーにURLが送信されます。[設定]からいつでもこの機能をオフにすることができます。"</string>
   <string name="show_security_tip_dialog_title">"利用規約"</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Weather services need your location info to provide you with up-to-date weather information in your browser. You can turn this feature off in Settings.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">"気象サービスがブラウザに最新の気象情報を提供するには、現在地情報が必要です。[設定]からこの機能をオフにすることができます。"</string>
   <string name="sign_in_to" formatted="false">"%s1に\"%s2\"でログイン"</string>
   <string name="skip_button_label">"スキップ"</string>
   <string name="skip_current_version">"このバージョンをスキップ"</string>
@@ -789,7 +788,7 @@ Pages you view won't appear in history."</string>
   <string name="version_dialog_buttion_update">"アップデート"</string>
   <string name="version_update_file_download_toast">"ダウンロード中"</string>
   <string name="version_update_file_not_found">"アップデートが見つかりません"</string>
-  <string name="video_activity_name">Favorites</string>
+  <string name="video_activity_name">"お気に入り"</string>
   <string name="video_buffering_percent">"バッファリング中 "</string>
   <string name="video_buffering_percent_string">"バッファリング中 "</string>
   <string name="video_collect_cancel">"お気に入りから削除"</string>
@@ -815,7 +814,7 @@ Pages you view won't appear in history."</string>
   <string name="video_float_window">Pop-up</string>
   <string name="video_float_window_playing">"動画を再生中"</string>
   <string name="video_float_window_text">Pop-up</string>
-  <string name="video_fragment_name_collections">Favorites</string>
+  <string name="video_fragment_name_collections">"お気に入り"</string>
   <string name="video_fragment_name_download">Offline video</string>
   <string name="video_fragment_name_historys">"履歴"</string>
   <string name="video_fragment_name_offine">Offline</string>
