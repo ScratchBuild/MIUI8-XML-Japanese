@@ -14,8 +14,8 @@
   <string name="AD_NOT_BLOCK">"ブロックしない"</string>
   <string name="AD_SCANNING">"スキャン中…"</string>
   <string name="AD_SCAN_BUTTON">"スキャン"</string>
-  <string name="AD_TITLE_COUNT">%d apps contains adware</string>
-  <string name="AD_TITLE_NON_COUNT">No adware detected</string>
+  <string name="AD_TITLE_COUNT">"%d個のアプリにアドウェアが含まれています"</string>
+  <string name="AD_TITLE_NON_COUNT">"アドウェアは検出されませんでした"</string>
   <string name="AD_Unistall">"アンインストール"</string>
   <string name="Call_ADRESS">Locale blocklist</string>
   <string name="Call_BLACKLIST">Call blocklist</string>

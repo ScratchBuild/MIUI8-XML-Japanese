@@ -36,7 +36,7 @@
   <string name="double_seventh_day">七夕</string>
   <string name="easter">"イースター(復活祭)"</string>
   <string name="edit_frequent_phrases">"よく使うフレーズを編集"</string>
-  <string name="fools_day">愚人节</string>
+  <string name="fools_day">"エイプリルフール"</string>
   <string name="frequent_phrases_des">"数回タップするだけでテキストの編集中によく使うフレーズを入力できます"</string>
   <string name="frequent_phrases_size_exceeded">"よく使うフレーズは%1$d個まで追加できます。もっと追加するには不要なものを削除してください。"</string>
   <string name="glockenspiel">Glockenspiel</string>

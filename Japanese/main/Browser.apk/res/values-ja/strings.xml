@@ -199,7 +199,7 @@
   <string name="custom_head_card_text">"Always believe that something wonderful
 is about to happen"</string>
   <string name="custom_head_card_text_incognito">"You're incognito!
-Pages you view won't appear in history."</string>
+閲覧したページは履歴に表示されません。"</string>
   <string name="data_traffic_prompt_change">"モバイルデータ接続を使用して動画を視聴すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="data_traffic_prompt_message">"モバイルデータ接続を使用して動画を閲覧すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="data_traffic_prompt_message_short">"モバイルデータ接続を使用して動画を視聴すると、データ使用量の制限を超える場合があります。"</string>
@@ -339,7 +339,7 @@ Pages you view won't appear in history."</string>
   <string name="homepage_more_sites">"その他のウェブサイト"</string>
   <string name="homepage_search_hint">"検索"</string>
   <string name="homepage_top_card_menu">Top</string>
-  <string name="in_incognito">"You're incognito! Web pages you view in this tab won't appear in your browser history."</string>
+  <string name="in_incognito">"You're incognito! このタブで表示するWebページは、ブラウザの履歴に表示されません。"</string>
   <string name="in_secureaccess">"ブラウザをセーフモードに切り替えました"</string>
   <string name="isReplacePage">"ファイルが既に存在します、置き換えますか？"</string>
   <string name="is_first_history_item">This is the first page in Browser history</string>

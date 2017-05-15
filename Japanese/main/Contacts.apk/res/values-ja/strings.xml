@@ -339,7 +339,7 @@
   <string name="device_import_title">"インポート"</string>
   <string name="device_list_title">"番号を選択"</string>
   <string name="device_other_guide">Other phone supports bluetooth?</string>
-  <string name="device_other_title">Import from other phones</string>
+  <string name="device_other_title">"他の電話からインポート"</string>
   <string name="device_paired_dialog_message">"連絡先を読み込み中…"</string>
   <string name="device_paired_dialog_title">"連絡先を読み込み中…"</string>
   <string name="device_pairing_dialog_message">"ペアとして設定中…"</string>
@@ -393,7 +393,7 @@
 To avoid frequent queries, we update balance info once a day."</string>
   <string name="disclaimer_title">免責事項</string>
   <string name="display_all_contacts">すべての連絡先</string>
-  <string name="display_more_groups">ほかのグループ</string>
+  <string name="display_more_groups">他のグループ</string>
   <string name="display_only_phones">Hide incomplete numbers</string>
   <string name="display_options_sort_by_family_name">姓</string>
   <string name="display_options_sort_by_given_name">名</string>
@@ -402,12 +402,12 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="display_options_view_given_name_first">名が先</string>
   <string name="display_options_view_names_as">名前の形式</string>
   <string name="display_sim_contacts">"SIMの連絡先を表示"</string>
-  <string name="display_ungrouped">ほかのすべての連絡先</string>
+  <string name="display_ungrouped">他のすべての連絡先</string>
   <string name="display_warn_remove_ungrouped">「%s」を同期から除外すると、グループに含まれない連絡先もすべて同期から除外されます。</string>
   <string name="duplicate_group_name">"その名前のグループ名は既に存在します"</string>
   <string name="editContactDescription">"連絡先を編集"</string>
-  <string name="editContactNameExpandCloseDescription">Collapse name</string>
-  <string name="editContactNameExpandOpenDescription">Expand name</string>
+  <string name="editContactNameExpandCloseDescription">"名前を折りたたむ"</string>
+  <string name="editContactNameExpandOpenDescription">"名前を展開"</string>
   <string name="editGroupDescription">"グループの編集"</string>
   <string name="edit_contact">"連絡先の編集"</string>
   <string name="edit_contact_card_title">"共有する項目を選択"</string>
@@ -425,8 +425,8 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="eventLabelsGroup">誕生日</string>
   <string name="eventTypeCustom">"カスタム"</string>
   <string name="event_edit_field_hint_text">"日付"</string>
-  <string name="expandCloseViewDescription">Collapse</string>
-  <string name="expandOpenViewDescription">Expand</string>
+  <string name="expandCloseViewDescription">"折りたたむ"</string>
+  <string name="expandOpenViewDescription">"展開"</string>
   <string name="export_sim_contact_finish">"連絡先をエクスポートしました"</string>
   <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining %4$s</string>
   <string name="export_to_sdcard">"ストレージへエクスポート"</string>

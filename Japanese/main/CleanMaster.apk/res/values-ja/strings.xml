@@ -188,7 +188,7 @@
   <string name="goto_set">"設定"</string>
   <string name="grabage_rank_title">Cleaned today</string>
   <string name="header_optimizer">"この機能を利用することで、%sに同意したことになります。"</string>
-  <string name="hint_clean_select_items">Deleting duplicates…</string>
+  <string name="hint_clean_select_items">"重複を削除しています…"</string>
   <string name="hints_ad_header_left">"古いファイル"</string>
   <string name="hints_apk_header_left">"パッケージ"</string>
   <string name="hints_apk_version">Version %s</string>
@@ -229,7 +229,6 @@
   <string name="hints_list_item_unlock">"消去"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
   <string name="hints_memory_header_left">"メモリ"</string>
-  <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">"プライバシー: %d"</string>
   <string name="hints_quick_cleanning">Cleaning…</string>
   <string name="hints_quick_cleanuping">"最適化しています…"</string>
@@ -312,7 +311,7 @@
   <string name="pref_category_title_auto_clean_settings">Remind to clean</string>
   <string name="pref_category_title_auto_update_cleanup_db">"その他の設定"</string>
   <string name="pref_category_title_cleanup_white_list">"例外"</string>
-  <string name="pref_category_title_engine_settings">Scan definition settings</string>
+  <string name="pref_category_title_engine_settings">"スキャン定義の設定"</string>
   <string name="pref_category_title_garbage_cleanup_check">"通知"</string>
   <string name="pref_category_title_other_clean_settings">"その他の設定"</string>
   <string name="pref_content_cleanup_white_list_none">"なし"</string>
@@ -461,8 +460,8 @@
   <string name="wechat_copying_video">Exporting…</string>
   <string name="wechat_copying_video_dialog_checkbox">Delete files after exporting</string>
   <string name="wechat_copying_video_dialog_msg">Files will be saved to this folder: /DCIM/WeChat</string>
-  <string name="wechat_copying_video_dialog_title">Export to Gallery</string>
-  <string name="wechat_copying_video_empty">No videos to export</string>
+  <string name="wechat_copying_video_dialog_title">"ギャラリーにエクスポート"</string>
+  <string name="wechat_copying_video_empty">"エクスポートする動画はありません"</string>
   <string name="wechat_copying_video_success">Exported successfully</string>
   <string name="wechat_normal_files">"ゴミ箱"</string>
   <string name="white_list_ad_header">"古いファイル: %d"</string>
