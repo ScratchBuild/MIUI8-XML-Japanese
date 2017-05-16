@@ -86,7 +86,7 @@ to be able to view them anytime"</string>
   <string name="finger_print_num">Fingerprint %d</string>
   <string name="finger_print_of_use">"指紋認証を使用"</string>
   <string name="fingerprint_removal_failed">"指紋を削除できませんでした"</string>
-  <string name="function_not_support">Not support in this space</string>
+  <string name="function_not_support">"この端末ではサポートされていません"</string>
   <string name="goToSecondSpacce">"Second spaceに移動</string>
   <string name="go_on_import">Keep importing</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
@@ -130,7 +130,7 @@ You can also download them separately."</string>
   <string name="next_setp">"次へ"</string>
   <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
   <string name="normal_app">First space</string>
-  <string name="not_support_air_space">"この機能はお使いの端末ではサポートしていません"</string>
+  <string name="not_support_air_space">"この機能はお使いの端末ではサポートされていません"</string>
   <string name="not_support_multiple_users">"複数のSpaceはサポートしていません"</string>
   <string name="notificationSetPassword">"パスワードを設定"</string>
   <string name="notificationSetPasswordDes">"Second spaceのデータを保護する"</string>
@@ -230,12 +230,12 @@ to enter Second space from Lock screen"</string>
   <string name="switch_file_success">"ファイルの移動が完了しました"</string>
   <string name="switch_in_contacts">Import contacts</string>
   <string name="switch_in_files">Import files</string>
-  <string name="switch_in_hidden_space">Import to Current space</string>
+  <string name="switch_in_hidden_space">Import to the current space</string>
   <string name="switch_in_photos">Import photos</string>
   <string name="switch_in_privacy_contacts">Import private contacts</string>
   <string name="switch_out_contacts">Export contacts</string>
   <string name="switch_out_files">Export files</string>
-  <string name="switch_out_hidden_space">Export data from Current space</string>
+  <string name="switch_out_hidden_space">Export data from the current space</string>
   <string name="switch_out_photos">Export photos</string>
   <string name="switch_out_privacy_contacts">Export private contacts</string>
   <string name="switch_success">"移動が完了しました"</string>

@@ -270,6 +270,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_sync_exception">同期エラー</string>
   <string name="micloud_main_sync_init">情報の取得中</string>
   <string name="micloud_main_sync_need_charge">端末を充電してください</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">端末を充電して画面をオフにする</string>
   <string name="micloud_main_sync_now">今すぐ同期</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>

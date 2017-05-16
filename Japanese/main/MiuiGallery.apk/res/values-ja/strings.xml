@@ -47,6 +47,7 @@
   <string name="album_detail_page_empty">No photos or videos</string>
   <string name="album_faces_name">People</string>
   <string name="album_from_format">From %s</string>
+  <string name="album_jump_failed">Wait until albums are synced with Mi Cloud ​​and try again</string>
   <string name="album_member">Album members %s</string>
   <string name="album_name">"アルバム名"</string>
   <string name="album_name_recent_discovery">"履歴"</string>
@@ -185,6 +186,7 @@
   <string name="cannot_send_message_reason">No valid recipients</string>
   <string name="change_to_face_mode">"顔だけ表示する"</string>
   <string name="change_to_photo_mode">Show full previews</string>
+  <string name="change_to_visible">Restore this person?</string>
   <string name="choose_baby_sexy">"性別"</string>
   <string name="choose_owner_relation">Relationship</string>
   <string name="choose_people">"Choose a person's album"</string>
@@ -262,6 +264,7 @@
   <string name="delete_from_devices">All synced devices</string>
   <string name="delete_from_devices_album">All devices to which the album has been synced</string>
   <string name="delete_from_homepage_album">Albums shown in Gallery</string>
+  <string name="delete_from_local_and_cloud">from this device and Mi Cloud</string>
   <string name="delete_from_this_album_and_cloud">from this album and Mi Cloud</string>
   <string name="delete_from_web">"ウェブアルバム"</string>
   <string name="delete_in_album">When you delete photos or videos from an album, they will also be deleted from:</string>
@@ -273,6 +276,7 @@
   <string name="delete_third_party_photo">"この写真を削除しますか？"</string>
   <string name="delete_third_party_video">"この動画を削除しますか？"</string>
   <string name="delete_to_trash_tips">"最近削除した写真は、設定 &gt; ゴミ箱から表示することができます"</string>
+  <string name="delete_unsynced">"バックアップされていないアイテムを削除"</string>
   <string name="deny">"拒否"</string>
   <string name="detail_title">"詳細情報"</string>
   <string name="disable_auto_upload_tip">"このアルバムのMi Cloudとの同期をオフにしますか？"</string>
@@ -400,8 +404,9 @@ Take more photos of your friends!"</string>
   <string name="hybrid_service_unavailiable">"サービスが利用不可"</string>
   <string name="hybrid_try_again">"再試行"</string>
   <string name="ignore_album">"表示しない"</string>
-  <string name="ignore_alert_title">"このアルバムを非表示にしますか？"</string>
+  <string name="ignore_alert_title">"このアルバムを非表示にしますか？ 無視した写真を表示するには、左上の隅をタップしてください。"</string>
   <string name="ignore_face">Ignore this person</string>
+  <string name="ignore_faces_title">Ignored</string>
   <string name="image_decode_failed">"Couldn't decode image"</string>
   <string name="image_download_item_title">Download original file (%s)</string>
   <string name="image_invalid_path">"無効なパス"</string>
@@ -432,7 +437,11 @@ Take more photos of your friends!"</string>
   <string name="kick_sharer_successfully">This person was removed</string>
   <string name="limit_height">Height should be > 0</string>
   <string name="limit_width">Width should be > 0</string>
+  <string name="load_complete">"これ以上アイテムはありません"</string>
+  <string name="load_failed">"情報を読み込めませんでした、タップして再試行"</string>
   <string name="load_relations">"読み込み中…"</string>
+  <string name="loading">"読み込み中"</string>
+  <string name="loading_dots">"読み込み中…"</string>
   <string name="loading_dual_tip">Loading dual photo…</string>
   <string name="loading_fail">"ダウンロードできませんでした"</string>
   <string name="loading_fail_sync_off">"Mi Cloudとの同期をオンにしてダウンロード"</string>
@@ -483,6 +492,7 @@ Take more photos of your friends!"</string>
   <string name="new_relation_invalid_prefix">"Can't start group names with “.” or “_”"</string>
   <string name="next">"次へ"</string>
   <string name="no">"いいえ"</string>
+  <string name="no_ignore_faces">No people here</string>
   <string name="no_map_app">"この操作を処理するためのアプリが見つかりませんでした"</string>
   <string name="no_network_connected">"ネットワークが見つかりません"</string>
   <string name="not_ask_any_more">"Don't ask again for \"%s\" answers"</string>
@@ -534,6 +544,7 @@ Take more photos of your friends!"</string>
   <string name="other_album">"その他のアルバム"</string>
   <string name="other_settings">"その他の設定"</string>
   <string name="owner_album_subtitle">Shared with %1$s people</string>
+  <string name="people_jump_failed">Wait until photos with people are synced with Mi Cloud and try again</string>
   <string name="people_page_label">People</string>
   <string name="people_page_unname">Unnamed</string>
   <string name="pet_album_display_name">"ペットの写真"</string>
@@ -553,6 +564,7 @@ Take more photos of your friends!"</string>
   <string name="picker_full_format">You can select up to %d photos</string>
   <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
+  <string name="picker_mobile_data_video">"Can't download videos using mobile data, skipped %d."</string>
   <string name="picker_no_network_message">Connect to the network to download</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
   <string name="picker_title_format">You can select %d photos</string>
@@ -576,6 +588,10 @@ Take more photos of your friends!"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
   <string name="recommanded_face_added_tip">Added to \"%s\"</string>
+  <string name="recovery_merge">"統合"</string>
+  <string name="recovery_merge_or_rename">"アルバムを統合"</string>
+  <string name="recovery_merge_or_rename_message">"同じ名前のアルバムが既に存在します。今すぐ統合しますか？"</string>
+  <string name="recovery_rename">"名前を変更"</string>
   <string name="relation_text_empty_alert">Add relationship info</string>
   <string name="relation_text_family">"家族"</string>
   <string name="relation_text_father">"父親"</string>
@@ -618,21 +634,18 @@ Take more photos of your friends!"</string>
   <string name="scan_barcode_guide">"To get album's QR code, tap the Share icon."</string>
   <string name="scan_barcode_to_join">Scan QR code to add album</string>
   <string name="scan_qr_code_buttom_text">Scan QR code to view this album</string>
-  <string name="search_album_jump_failed">Wait until albums are synced with Mi Cloud ​​and try again</string>
+  <string name="search_album_jump_failed">Wait until albums are synced with Mi Cloud and try again</string>
   <string name="search_backup_full_screen">Turn on sync with Mi Cloud to find more objects and people</string>
   <string name="search_backup_now">"オンにする"</string>
   <string name="search_backup_sub_title">Turn on to find more images</string>
   <string name="search_backup_title">"Mi Cloudと同期"</string>
+  <string name="search_clear_histories">"消去"</string>
   <string name="search_connection_error">"ネットワークに接続できませんでした"</string>
   <string name="search_connection_error_and_set">"タップしてネットワークの設定を確認"</string>
   <string name="search_error">"エラーが発生しました"</string>
   <string name="search_error_and_retry">"エラーが発生しました、タップして再試行"</string>
   <string name="search_hint">"画像を検索"</string>
   <string name="search_image_result_title">"検索結果"</string>
-  <string name="search_load_complete">"これ以上アイテムはありません"</string>
-  <string name="search_load_failed">"情報を読み込めませんでした、タップして再試行"</string>
-  <string name="search_loading">"読み込み中"</string>
-  <string name="search_loading_dots">"読み込み中…"</string>
   <string name="search_login_now">"ログイン"</string>
   <string name="search_login_sub_title">Sign in to find more photos</string>
   <string name="search_login_title">Mi Account</string>
@@ -641,6 +654,7 @@ Take more photos of your friends!"</string>
   <string name="search_result_empty">"何も見つかりませんでした"</string>
   <string name="search_retry">"再試行"</string>
   <string name="search_set_network_connection">"ネットワーク設定"</string>
+  <string name="search_title_history">"検索履歴"</string>
   <string name="search_title_location">Locations</string>
   <string name="search_title_others">All results</string>
   <string name="search_title_people">People</string>
@@ -660,6 +674,7 @@ Take more photos of your friends!"</string>
   <string name="secret_reason_too_large">"ファイルが大きすぎます"</string>
   <string name="secret_reason_type_not_support">"このファイルタイプはサポートされていません"</string>
   <string name="secret_reason_unknow_reasons">"不明なエラー"</string>
+  <string name="see_ignore_faces">"View people you've ignored"</string>
   <string name="select_item_face">"これは'%s'ですか？"</string>
   <string name="select_origin_tip">Original file (%s)</string>
   <string name="send_multiple_files_hint_format">"送信 (%s)"</string>

@@ -210,6 +210,7 @@
   <string name="auto_remind_text">Automatic reminders</string>
   <string name="auto_remind_unbind">"停止"</string>
   <string name="auto_sync_off">"自動同期はオフです。"</string>
+  <string name="automatic_remind_text">remind</string>
   <string name="bank_card_detail">"クレジットカードの詳細"</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Battery saver</string>
@@ -232,6 +233,7 @@
   <string name="calendar_remind_gridview_pick_date">"日付を選択"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cancel_action">"キャンセル"</string>
+  <string name="cancel_pop3_attchemt_downloading">Cancellation of any attachment being downloaded is not available to a POP3 type of account.</string>
   <string name="cant_move_or_change_labels">移動できません。複数のアカウントを選択しています。</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br></string>
@@ -369,7 +371,7 @@
   <string name="download_message_failed_for_too_large">"メッセージが大きすぎてダウンロードできません。"</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Bank statements</string>
-  <string name="drawer_bill_title">Bills</string>
+  <string name="drawer_classification">Intelligent classification</string>
   <string name="drawer_close">"ナビゲーションドロワーを閉じる"</string>
   <string name="drawer_contacts">"連絡先"</string>
   <string name="drawer_open">"ナビゲーションドロワーを開く"</string>
@@ -617,6 +619,8 @@ Try switching to a different email account."</string>
   <string name="no_filtrable_email_account">No accounts to filter</string>
   <string name="no_mails">"メールなし。"</string>
   <string name="no_matched_attachment">"何も見つかりませんでした。"</string>
+  <string name="no_recognize_describe">"Couldn't find emails containing tickets or bookings.
+Try a different inbox."</string>
   <string name="no_remind">Not to remind</string>
   <string name="not_subject">"(件名なし)"</string>
   <string name="not_synced_title">"アカウントが同期していません"</string>
@@ -664,6 +668,7 @@ Try switching to a different email account."</string>
   <string name="overlays_tip">Open floating Windows permissions, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
   <string name="overlays_title">Open floating Windows permissions</string>
   <string name="parase_setup_data">"データを取得中…"</string>
+  <string name="parse_recognize_describe">"メールを分析中…"</string>
   <string name="password_expire_warning_content_title">"解除パスワードの期限切れが間近"</string>
   <string name="password_expire_warning_dialog_content_fmt">"ロック解除PINまたはパスワードを変更しないと、まもなく%sのデータが消去されます。今すぐ変更しますか？"</string>
   <string name="password_expire_warning_dialog_title">"ロック解除パスワードの有効期限が間近です"</string>
@@ -813,6 +818,32 @@ to receive reminders about payments and trips"</string>
   <string name="read_string">conversation read</string>
   <string name="recipient_needed">Add at least 1 recipient.</string>
   <string name="recipient_needed_title">Warn</string>
+  <string name="recognize_hotel_check_in_date">Check-in time</string>
+  <string name="recognize_hotel_hotel_money">Price %1$s</string>
+  <string name="recognize_hotel_notification_content">Enjoy your stay!</string>
+  <string name="recognize_hotel_notification_title">You booked a room at %1$s starting from %2$s/%3$s. Double check your booking before arriving there.</string>
+  <string name="recognize_hotel_order_money">Total</string>
+  <string name="recognize_hotel_other_money">Other expenses %1$s</string>
+  <string name="recognize_hotel_reverse_date">Check in before %1$s:%2$s %3$s</string>
+  <string name="recognize_hotel_room_type">Room</string>
+  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+  <string name="recognize_hotel_title">Hotel booking</string>
+  <string name="recognize_hotel_user_names">Guest</string>
+  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+  <string name="recognize_setting_title">Travel settings</string>
+  <string name="recognize_ticket_air_notification_content">Enjoy your flight!</string>
+  <string name="recognize_ticket_air_notification_title">Flight %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>
+  <string name="recognize_ticket_air_state_stopover">Stopover</string>
+  <string name="recognize_ticket_air_state_transfer">Transfer</string>
+  <string name="recognize_ticket_air_user_name">Passenger:</string>
+  <string name="recognize_ticket_title">Plane &amp; train tickets</string>
+  <string name="recognize_ticket_train_alter">Changed</string>
+  <string name="recognize_ticket_train_depart_date">Departs at %3$s:%4$s on %1$s/%2$s</string>
+  <string name="recognize_ticket_train_notification_content">Bon Voyage!</string>
+  <string name="recognize_ticket_train_notification_title">Train %3$s (%1$s/%2$s) will depart soon. Double check your ticket.</string>
+  <string name="recognize_ticket_train_return">Returned</string>
+  <string name="recognize_ticket_train_user_name">Passenger: %1$s</string>
+  <string name="recognize_title">Travel information</string>
   <string name="reduce_the_receiving_frequencye_summary">Sync inbox less frequently while Do not disturb is on</string>
   <string name="reduce_the_receiving_frequencye_title">Sync less frequently</string>
   <string name="refresh">"更新"</string>
@@ -954,8 +985,8 @@ to receive reminders about payments and trips"</string>
     between the web, your other devices, and your %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">"ONにする"</string>
   <string name="turn_auto_sync_on_dialog_title">"自動同期をONにしますか？"</string>
-  <string name="unbind_dialog_text">"You won't be able to receive reminders after you stop analyzing bills.
-Stop now?"</string>
+  <string name="unbind_dialog_text">"分析を停止すると、リマインダーを受け取ることができなくなります。
+今すぐ停止しますか？"</string>
   <string name="undo">"元に戻す"</string>
   <string name="unknow">"不明"</string>
   <string name="unread_string">"未読のスレッド"</string>

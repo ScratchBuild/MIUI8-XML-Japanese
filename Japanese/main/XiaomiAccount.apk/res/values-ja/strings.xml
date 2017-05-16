@@ -42,7 +42,6 @@
   <string name="account_user_gender">"性別"</string>
   <string name="account_user_id">Mi Account ID</string>
   <string name="account_user_income">"収入"</string>
-  <string name="account_user_info">"ユーザー情報"</string>
   <string name="account_user_location">Location</string>
   <string name="account_user_location_title">Select current location</string>
   <string name="account_user_name">"名前"</string>
@@ -350,15 +349,11 @@
   <string name="search_account_security">"アカウントのセキュリティ"</string>
   <string name="search_account_security_desc">"アカウントの設定"</string>
   <string name="search_account_security_key_words">Change Phone,Change Email,Account protection,Accounts,Sina Weibo,QQ,Authorization,Devices</string>
-  <string name="search_account_security_path">"設定/Mi Account/アカウントの設定"</string>
+  <string name="search_account_security_path">"設定/Mi Account/アカウントのセキュリティ"</string>
   <string name="search_app_name">Mi Account</string>
-  <string name="search_logout_account">"ログアウト"</string>
-  <string name="search_logout_account_desc">Mi Account</string>
-  <string name="search_logout_account_key_words">"ログアウト"</string>
-  <string name="search_logout_account_path">Mi Account/Account Settings,Settings/Mi Account/Account Settings</string>
   <string name="search_mi_account">Mi Account</string>
   <string name="search_mi_account_desc">Mi Account</string>
-  <string name="search_mi_account_key_words">Mi Account,Sign in,create account,Mi Cloud,Account Setting,Account Management,Mi Pay Info</string>
+  <string name="search_mi_account_key_words">Mi Cloud,Account Setting,Mi Pay Info,Sign out</string>
   <string name="search_mi_account_path">"設定/Mi Account"</string>
   <string name="search_user_detail">個人情報</string>
   <string name="search_user_detail_bottom_key_words">Change Income,Change Education,Change Location,Change Region</string>

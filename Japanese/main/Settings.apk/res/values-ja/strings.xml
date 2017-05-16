@@ -1720,7 +1720,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
   <string name="launcher_auto_fill_empty_title">空のセルを埋める</string>
-  <string name="launcher_title">ホーム画面と履歴パネル</string>
+  <string name="launcher_title">ホーム画面と履歴</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -2318,7 +2318,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="open_personal_assistant_dialog_title">スマートアシスタントをオフにする</string>
   <string name="open_personal_assistant_title">スマートアシスタントをオンにする</string>
   <string name="open_wifi_connect_summary">タップして詳細を表示</string>
-  <string name="open_wifi_connect_title">%1$sに接続</string>
+  <string name="open_wifi_connect_title">%1$sに接続しました</string>
   <string name="opening_paragraph_delete_profile_unknown_company">この仕事用プロファイルを管理するアプリ:</string>
   <string name="optimization_cancel">キャンセル</string>
   <string name="optimization_close">今すぐ再起動</string>
@@ -2705,7 +2705,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="receiver_clean">空き容量を確保</string>
   <string name="recent_location_requests_summary">位置情報にアクセスを要求しているアプリを表示</string>
   <string name="recent_location_requests_title">位置情報アクセス</string>
-  <string name="recents_config_title">タスクの履歴パネルの設定</string>
+  <string name="recents_config_title">履歴の設定</string>
   <string name="recommend_item_1">Phone case</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Power bank</string>
@@ -3251,7 +3251,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="show_hw_screen_updates">GPU表示の更新を表示</string>
   <string name="show_hw_screen_updates_summary">GPUでの描画時にウィンドウ内の表示を点滅させる</string>
   <string name="show_magnifier_when_input">テキスト拡大鏡</string>
-  <string name="show_mem_info_title">メモリの情報を表示</string>
+  <string name="show_mem_info_title">メモリの状態を表示</string>
   <string name="show_non_rect_clip">非矩形クリップ操作をデバッグ</string>
   <string name="show_owner_info_on_lockscreen_label">ロック画面に所有者情報を表示</string>
   <string name="show_password">パスワードを表示する</string>
