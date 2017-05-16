@@ -192,8 +192,6 @@
   <string name="has_invalid_recipient">"不明な宛先: &lt;%1$s&gt;"</string>
   <string name="hidden_sender_address">差出人アドレス非表示</string>
   <string name="hint_search_sms">%d件のメッセージ</string>
-  <string name="hms_add_image_progress_message">作動中...</string>
-  <string name="hms_first_use_tips">"サービスメッセージを受信するには、Wi-Fiネットワークに接続する必要があります。"</string>
   <string name="hms_uri_param_err">"URLが空欄のままです。"</string>
   <string name="hold_to_talk">Hold to talk</string>
   <string name="hybrid_check_network">"ネットワーク設定"</string>
@@ -239,7 +237,6 @@
   <string name="menu_send_as_common">SMSとして送信</string>
   <string name="menu_unlock">スターを外す</string>
   <string name="menu_view_contact">連絡先を表示</string>
-  <string name="menu_yellowpage">%sを表示</string>
   <string name="message_class_label">"メッセージクラス: "</string>
   <string name="message_contact">"連絡先: "</string>
   <string name="message_details_title">メッセージの詳細</string>
@@ -262,15 +259,12 @@
   <string name="message_too_big_for_video">メッセージが大きすぎて動画を添付できません。</string>
   <string name="message_type_label">"タイプ: "</string>
   <string name="messagelist_sender_self">自分</string>
-  <string name="mipub_messaging_entry_title">Miメッセージ</string>
   <string name="mms">MMS</string>
   <string name="move_down">下に移動</string>
   <string name="move_up">上に移動</string>
   <string name="msg_type_hint_mms">マルチメディアメッセージ (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Miメッセージ</string>
-  <string name="msg_type_hint_mx_b2c">ネットワーク通知</string>
-  <string name="msg_type_hint_mx_b2c_omit">ネットワーク通知</string>
   <string name="msg_type_hint_mx_omit">Miメッセージ</string>
   <string name="msg_type_hint_sms">テキストメッセージ</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -309,9 +303,6 @@
   <string name="mx_auto_resend_mms_summary">"Wi-Fiに接続していない時は、マルチメディアメッセージをモバイルデータ通信でMMSとして送信します。ご契約のキャリアからMMS料金が課金されます。"</string>
   <string name="mx_auto_resend_sms">SMSで送信</string>
   <string name="mx_auto_resend_sms_summary">"Wi-Fiに接続していない時は、モバイルデータ通信でSMSとして送信します。ご契約のキャリアからSMS料金が課金されます。"</string>
-  <string name="mx_b2c_message_desc">ネットワーク通知</string>
-  <string name="mx_b2c_message_resend_not_online">"メッセージを再送できませんでした。 Miメッセージはオフラインです。"</string>
-  <string name="mx_b2c_message_server">サーバー</string>
   <string name="mx_btn_enable">アクティベート</string>
   <string name="mx_btn_enable_now">アクティベート</string>
   <string name="mx_count_dspt">"%1$d件のSMSと%2$d件のMMSを無料で送信"</string>
@@ -386,6 +377,7 @@
   <string name="pref_notification_settings_title">通知設定</string>
   <string name="pref_other_title">詳細設定</string>
   <string name="pref_show_blocked_messages_summary">スレッドリストでブロックしたSMSを表示</string>
+  <string name="pref_show_list_avatar_summary">リストビューで写真やその他の連絡先情報を表示する</string>
   <string name="pref_show_sms_template_in_summary">SMSメッセージでワンタイムパスワードを自動的に認識</string>
   <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
@@ -482,7 +474,6 @@
   <string name="restore_blocked_message">復元</string>
   <string name="restore_to_phone_memory_failed">"復元できませんでした"</string>
   <string name="restored_to_phone_memory">復元しました</string>
-  <string name="retrive_hms_tips">検索中...</string>
   <string name="save">保存</string>
   <string name="save_ringtone">着信音として保存</string>
   <string name="save_to_sim">SIMカードに保存</string>
@@ -520,7 +511,6 @@
   <string name="select_recipient">宛先を選択</string>
   <string name="select_top_text">上部のテキスト</string>
   <string name="send">送信</string>
-  <string name="send_hms_editor_hints">Miメッセージ</string>
   <string name="send_message_dlg_check_hint">"二度と表示しない"</string>
   <string name="send_message_dlg_mgs">中国移動通信 通告: 無料のpost-serviceを提供するために、お客様のデバイスをデバイス管理プラットフォームに登録する必要があります。(post-serviceは中国移動通信のモバイル端末管理プラットフォームで、リモートセッティングとアプリのアップデートを提供します。)登録の際に、デバイス情報の無料メッセージが送信されます。このメッセージは一度だけ送信され、お客様の個人データは要求しません。(香港、マカオ、台湾、国際ローミングの場合には送信されません。)登録しない場合には、キャンセルを選択してください。中国移動通信のサービスは提供されません。</string>
   <string name="send_message_dlg_title">デバイスの管理</string>
@@ -608,6 +598,7 @@
   <string name="title_collapse_sp_messages">キャリアメッセージをまとめる</string>
   <string name="title_hide_verification_code">Auto hide OTP on lock screen</string>
   <string name="title_show_blocked_messages">ブロックしたSMSを表示</string>
+  <string name="title_show_list_avatar">写真と情報を表示</string>
   <string name="title_show_sms_template">認証コードをSMSで確認してください</string>
   <string name="title_show_sms_template_in">ワンタイムパスワードをSMSで確認してください</string>
   <string name="title_timed_message_dialog">SMSの時間を設定してください</string>
@@ -650,8 +641,6 @@
   <string name="user_agreement5">OKをタップすると、本利用規約とプライバシーポリシーに同意されたものとみなされます。</string>
   <string name="view">表示</string>
   <string name="view_bookmark">元のメッセージを表示</string>
-  <string name="view_hms_attachment_fail">"画像をダウンロードできません"</string>
-  <string name="view_hms_details">詳細</string>
   <string name="view_message_details">メッセージの詳細を表示</string>
   <string name="voip_enable">Miメッセージとボイス</string>
   <string name="voip_enable_popup_msg">"キャリアから課金されることなく他のMIUIユーザーと通話できます。VoIPはWeihuiによってサポートされています。Weihuiのプライバシーポリシーを表示。"</string>
@@ -660,7 +649,6 @@
   <string name="warning_show">%ds秒で送信</string>
   <string name="wild_msg_processing">処理中...</string>
   <string name="wild_msg_title">同期する電話番号を選択</string>
-  <string name="xiaomi_service_number">Xiaomiフリーダイヤル</string>
   <string name="yellowpage_recommend_msg">"MIUIのメッセージ機能を確認する"</string>
   <string name="yes">OK</string>
 </resources>

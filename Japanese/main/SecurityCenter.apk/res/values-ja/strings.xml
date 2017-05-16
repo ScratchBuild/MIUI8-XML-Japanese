@@ -951,6 +951,7 @@
   <string name="menu_item_app_permissions_control">"パーミッションマネージャー"</string>
   <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
   <string name="menu_item_force_stop">"強制停止"</string>
+  <string name="menu_item_install_debug_package">"デバッグパッケージをインストール"</string>
   <string name="menu_item_notification_antispam_text_avail">"ブロックリスト"</string>
   <string name="menu_item_notification_antispam_text_normal">"ブロックリスト"</string>
   <string name="menu_item_notification_power_text">Power</string>
