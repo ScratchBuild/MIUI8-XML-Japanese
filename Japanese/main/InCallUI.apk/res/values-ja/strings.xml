@@ -95,11 +95,11 @@
   <string name="description_image_button_message_exit">"メッセージを非表示"</string>
   <string name="description_image_button_nine">"9"</string>
   <string name="description_image_button_one">"1"</string>
-  <string name="description_image_button_pound">"ポンド"</string>
+  <string name="description_image_button_pound">"#"</string>
   <string name="description_image_button_reject">"拒否"</string>
   <string name="description_image_button_seven">"7"</string>
   <string name="description_image_button_six">"6"</string>
-  <string name="description_image_button_star">"アスタリスク"</string>
+  <string name="description_image_button_star">"*"</string>
   <string name="description_image_button_three">"3"</string>
   <string name="description_image_button_tools">"オプション"</string>
   <string name="description_image_button_two">"2"</string>

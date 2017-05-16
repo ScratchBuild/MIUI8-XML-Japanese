@@ -357,7 +357,7 @@
   <string name="block_message_number">Messages: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">"通話: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;"</string>
   <string name="booster_immediately">Boost</string>
-  <string name="boot_reminder">Power on your device at a scheduled time</string>
+  <string name="boot_reminder">"予定した時刻に端末の電源がオンになります"</string>
   <string name="boot_time">On at %1$s</string>
   <string name="boot_time_day">On in %1$dd at %2$s</string>
   <string name="boot_time_day_tomorrow">On tomorrow at %1$s</string>
@@ -1489,7 +1489,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="showpattern">"パターンを表示"</string>
   <string name="shutdown_cancel_reminder">"Didn't power off"</string>
   <string name="shutdown_cancel_reminder_detail">"通話中だったため、端末の電源をオフにできませんでした"</string>
-  <string name="shutdown_cancel_reminder_detail2">"Looks like you're playing a game now. Scheduled power off is canceled."</string>
+  <string name="shutdown_cancel_reminder_detail2">"あなたはゲームをプレイ中のように見えます。予定された電源オフはキャンセルされます。"</string>
   <string name="shutdown_time">Off at %1$s</string>
   <string name="shutdown_time_day">Off in %1$dd at %2$s</string>
   <string name="shutdown_time_day_tomorrow">Off tomorrow at %1$s</string>
@@ -1874,7 +1874,7 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="toast_network_eror">"ネットワークに接続できません"</string>
   <string name="toast_network_switch">"このアプリはインターネットに接続することができます"</string>
   <string name="toast_reject_sms_read_permission_success">Set successfully</string>
-  <string name="toast_removed_from_virus_white_list">Removed from exceptions. Item will be scanned next time.</string>
+  <string name="toast_removed_from_virus_white_list">"例外から削除しました。アイテムは次回からスキャンされます。"</string>
   <string name="toast_root_apply_accept">Root access granted to %s</string>
   <string name="toast_root_apply_reject">Denied root access for %s</string>
   <string name="toast_select_virus_white_need_remove">"アイテムを選択"</string>
@@ -1936,8 +1936,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_operator">Carrier</string>
   <string name="traffic_setting_fragment_send_num">Carrier phone number</string>
   <string name="traffic_setting_fragment_send_num_tips">"電話番号を入力"</string>
-  <string name="traffic_setting_fragment_sms_content">Message content</string>
-  <string name="traffic_setting_fragment_sms_content_tips">Write your message here</string>
+  <string name="traffic_setting_fragment_sms_content">"メッセージの内容"</string>
+  <string name="traffic_setting_fragment_sms_content_tips">"ここにメッセージを入力"</string>
   <string name="traffic_setting_fragment_template">Message template</string>
   <string name="traffic_setting_fragment_title">Data usage query</string>
   <string name="traffic_warning_purchase_title">"モバイルデータ使用の警告"</string>
