@@ -571,7 +571,7 @@
   <string name="vip_package">vip package</string>
   <string name="vip_rights">Vip rights and interests</string>
   <string name="vp_VideoView_error_button">OK</string>
-  <string name="vp_VideoView_error_network_not_available">"Can't connect to the network"</string>
+  <string name="vp_VideoView_error_network_not_available">"ネットワークに接続できません"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"This type of file isn't supported."</string>
   <string name="vp_VideoView_error_text_unknown">An unknown error occurred.</string>
   <string name="vp_VideoView_error_title">"不明なエラー"</string>
@@ -586,7 +586,7 @@
   <string name="vp_audio">Volume</string>
   <string name="vp_auto_select">Auto</string>
   <string name="vp_back">"戻る"</string>
-  <string name="vp_brightness">Brightness</string>
+  <string name="vp_brightness">"明るさ"</string>
   <string name="vp_cancel">"キャンセル"</string>
   <string name="vp_client_message">Install %1$s client?</string>
   <string name="vp_closedialog">OK</string>

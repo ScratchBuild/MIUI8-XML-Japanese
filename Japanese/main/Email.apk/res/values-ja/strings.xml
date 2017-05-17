@@ -363,7 +363,7 @@
   <string name="downlaod_nonWifi_confirm_title">"この添付ファイルをダウンロードしますか？"</string>
   <string name="download_again">"再ダウンロード"</string>
   <string name="download_before_sharing">" ダウンロードが完了していません。"</string>
-  <string name="download_cancel_confirm_message">Download will be stopped</string>
+  <string name="download_cancel_confirm_message">"ダウンロードは停止されます"</string>
   <string name="download_cancel_confirm_title">"この添付ファイルをダウンロードしますか？"</string>
   <string name="download_complete_not_cancel">"ダウンロードが完了しました"</string>
   <string name="download_confirm_message">"%1$sの添付ファイルをダウンロードしますか？"</string>
@@ -387,8 +387,8 @@
   <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">"アカウントが見つかりませんでした"</string>
   <string name="empty_email_tip">"空のメールは送信できません"</string>
-  <string name="empty_spam">Empty Spam</string>
-  <string name="empty_spam_dialog_title">Empty Spam?</string>
+  <string name="empty_spam">"迷惑メールを空にする"</string>
+  <string name="empty_spam_dialog_title">"迷惑メールを空にしますか？"</string>
   <string name="empty_trash">"ゴミ箱を空にする"</string>
   <string name="empty_trash_dialog_title">"ゴミ箱を空にしますか？"</string>
   <string name="enable_sync_in_account_settings">Turn on in %1$s.</string>
@@ -826,10 +826,8 @@ to receive reminders about payments and trips"</string>
   <string name="recognize_hotel_other_money">Other expenses %1$s</string>
   <string name="recognize_hotel_reverse_date">Check in before %1$s:%2$s %3$s</string>
   <string name="recognize_hotel_room_type">Room</string>
-  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
   <string name="recognize_hotel_title">Hotel booking</string>
   <string name="recognize_hotel_user_names">Guest</string>
-  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
   <string name="recognize_setting_title">Travel settings</string>
   <string name="recognize_ticket_air_notification_content">Enjoy your flight!</string>
   <string name="recognize_ticket_air_notification_title">Flight %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>

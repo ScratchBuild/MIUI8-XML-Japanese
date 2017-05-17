@@ -35,7 +35,7 @@
   <string name="adjust">Enhance</string>
   <string name="adjust_auto">Auto</string>
   <string name="adjust_blur">Blur</string>
-  <string name="adjust_brightness">Brightness</string>
+  <string name="adjust_brightness">"明るさ"</string>
   <string name="adjust_contrast">"コントラスト"</string>
   <string name="adjust_saturation">"彩度"</string>
   <string name="adjust_sharpen">Sharpen</string>
