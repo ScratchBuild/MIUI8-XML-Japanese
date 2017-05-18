@@ -2716,6 +2716,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="regulatory_information">規制情報</string>
   <string name="remove_account_failed">この変更は管理者によって許可されていません</string>
   <string name="remove_account_label">アカウントを削除</string>
+  <string name="remove_continue">アンインストール</string>
   <string name="remove_device_admin">無効にする</string>
   <string name="remove_from_frequently_fragment">クイック設定から%sを削除しますか？</string>
   <string name="remove_managed_profile_label">仕事用プロファイルを削除</string>
@@ -2884,7 +2885,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_pinning_unlock_password">画面固定の解除前にパスワードを要求</string>
   <string name="screen_pinning_unlock_pattern">画面固定の解除前にロック解除パターンを要求</string>
   <string name="screen_pinning_unlock_pin">画面固定の解除前にPINを要求</string>
-  <string name="screen_recorder">スクリーンレコーダー</string>
   <string name="screen_resolution_confirm">再起動</string>
   <string name="screen_resolution_summary">画面の解像度を下げると電池の寿命とシステムの速度を上げることができますが、画質が低下する場合があります。この変更を適用するために再起動する必要があります。</string>
   <string name="screen_resolution_switch">解像度の切り替え</string>
@@ -3764,6 +3764,8 @@ PINが正しくない可能性があります。"</string>
   <string name="uninstall_all_users_text">すべてのユーザーからアンインストール</string>
   <string name="uninstall_dlg_msg">アンインストールするとアプリの全データが削除されます</string>
   <string name="uninstall_dlg_title">今すぐアンインストールしますか？</string>
+  <string name="uninstall_protected_dlg_msg">システムアプリをアンインストールすると、一部のMIUIコンポーネントが正常に動作しなくなる可能性があります。 とにかくアンインストールしますか？</string>
+  <string name="uninstall_protected_dlg_title">システムアプリをアンインストール中</string>
   <string name="uninstall_text">アンインストール</string>
   <string name="uninstall_wifi_master_key">WiFi Master Keyをアンインストール</string>
   <string name="uninstall_with_xspace_app_dlg_msg">対応するデュアルアプリはアプリのデータと一緒に削除されます</string>

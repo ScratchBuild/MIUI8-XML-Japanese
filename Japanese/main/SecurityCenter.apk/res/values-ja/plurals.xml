@@ -104,7 +104,7 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="view_num">
         <item quantity="other">%1$d views</item>
         <item quantity="zero">%1$d views</item>
-        <item quantity="one">%1$d views</item>
+        <item quantity="one">%1$d view</item>
         <item quantity="two">%1$d views</item>
         <item quantity="few">%1$d views</item>
         <item quantity="many">%1$d views</item>

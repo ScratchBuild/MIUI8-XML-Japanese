@@ -53,7 +53,7 @@ to be able to view them anytime"</string>
   <string name="create_space_loading">"Second spaceを作成中…"</string>
   <string name="create_work_space">"Work spaceを作成"</string>
   <string name="creating_app_icon">"アイコンを作成中…"</string>
-  <string name="current_space">Current Space</string>
+  <string name="current_space">Current space</string>
   <string name="dataSafe">"Second spaceを使用するのは、二つの端末を持つようなものです。"</string>
   <string name="declare_dialog_title">"デュアルアプリについて"</string>
   <string name="deleteAll">"すべて削除"</string>

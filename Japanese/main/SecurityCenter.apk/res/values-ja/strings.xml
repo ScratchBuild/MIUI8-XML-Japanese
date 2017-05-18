@@ -79,7 +79,7 @@
   <string name="adb_install_reject_notiy_desc">"開発者向けオプションからUSB経由のインストールを許可することができます"</string>
   <string name="adb_login_xiaomi_account">"初めにMi Accountにログイン"</string>
   <string name="add_game_notification_summary">Tap to launch &amp; boost speed</string>
-  <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
+  <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to exceptions. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">"データローミングの例外"</string>
   <string name="add_white_list">"追加"</string>
@@ -427,7 +427,7 @@
   <string name="cache_header_title">Clear %1$d cached files to free %2$s of space</string>
   <string name="call_and_contact">"通話と連絡先"</string>
   <string name="call_delete_hint">"この番号からブロックされたすべての通話を削除しますか？"</string>
-  <string name="call_delete_title">"通話を削除"</string>
+  <string name="call_delete_title">"通話履歴を削除"</string>
   <string name="call_transfer_block">"転送された通話をブロック"</string>
   <string name="call_transfer_block_type">"転送された通話をブロック"</string>
   <string name="call_transfer_info">"不明な番号から転送された通話をブロックする"</string>
@@ -586,8 +586,8 @@
   <string name="dlg_add_keyword">"キーワードを追加"</string>
   <string name="dlg_antispam_mode_delete_message">"削除した後、ルールの復元はできません。"</string>
   <string name="dlg_antispam_mode_delete_title">"ルールを削除しますか？"</string>
-  <string name="dlg_antispam_using_mode_delete_message">"Delete the rules you're currently using and switch to back to blocklist's default rules?"</string>
-  <string name="dlg_antispam_using_mode_international_delete_message">"Delete the rules you're currently using and switch to back to blocklist's default rules?"</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
   <string name="dlg_black_address_antispam_message">Add this location to blocklist?</string>
   <string name="dlg_black_antispam_hint">"ブロックリスト"</string>
   <string name="dlg_black_antispam_message">"この番号をブロックリストに追加しますか？"</string>
@@ -615,7 +615,7 @@
   <string name="dlg_remove_whitelist_title">"削除"</string>
   <string name="dlg_retore">"メッセージを受信トレイに復元しますか？"</string>
   <string name="dlg_retore_ok">"復元"</string>
-  <string name="dlg_title_not_open_stranger_identify">Identify Strangers</string>
+  <string name="dlg_title_not_open_stranger_identify">Caller ID</string>
   <string name="dlg_white_address_antispam_message">Add this location to exceptions?</string>
   <string name="dlg_white_antispam_hint">"例外"</string>
   <string name="dlg_white_antispam_message">"この番号を例外に追加しますか？"</string>
@@ -917,7 +917,7 @@
   <string name="mark_number_agent">Agent</string>
   <string name="mark_number_fraud">Fraud</string>
   <string name="mark_number_harass">Harassment</string>
-  <string name="mark_number_info">"Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
+  <string name="mark_number_info">"Note that sometimes these calls may be useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
   <string name="mark_number_sell">Telemarketer</string>
   <string name="mark_number_setting_guide_content1">Block calls from reported numbers?</string>
   <string name="mark_number_setting_guide_content2">Automatically block calls from numbers that have reported by other users</string>
@@ -998,11 +998,11 @@
   <string name="network_diagnostics">Test network</string>
   <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
 
- 1. Make sure you haven't exceeded your mobile data plan's limit.
+1. Make sure you haven't exceeded your mobile data plan's limit.
 
- 2. If you just topped up your device's balance, reboot your device and try again.
+2. If you just topped up your device's balance, reboot your device and try again.
 
- 3. Your carrier's network signal may be weak in your current location."</string>
+3. Your carrier's network signal may be weak in your current location."</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
   <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
@@ -1022,21 +1022,21 @@ T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your ro
 R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
 
  5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider. "</string>
+T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
- 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
 
- 2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
 
- 3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
+3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
   <string name="network_speed_for_apps_close">"強制停止"</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">"このアプリを強制停止しますか？"</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"システムアプリを強制停止することはできません。"</string>
   <string name="network_speed_for_apps_others">"その他"</string>
   <string name="network_speed_for_apps_title">Connection</string>
   <string name="network_speed_for_apps_total">"接続速度"</string>
-  <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
+  <string name="networkchanged_exception_summary">Network connection has changed. Test again.</string>
   <string name="networkchanged_exception_title">"接続が変更されました"</string>
   <string name="never">1 time</string>
   <string name="news_change">"変更"</string>
@@ -1607,7 +1607,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_mute_title">"Don't ring or vibrate"</string>
   <string name="st_other_setting_group">"その他の設定"</string>
   <string name="st_settings_name">"ブロックリストの設定"</string>
-  <string name="st_show_block_notification">"ブロックされた通知を表示"</string>
+  <string name="st_show_block_notification">"ブロックされたアイテムについて通知する"</string>
   <string name="st_show_num_keyword">" keywords"</string>
   <string name="st_show_num_number">" numbers"</string>
   <string name="st_sms_group">"メッセージ"</string>
@@ -1907,13 +1907,13 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_config_alert_package">"
 Rolled over extra data"</string>
   <string name="traffic_config_alert_setted">"設定を適用しました"</string>
-  <string name="traffic_config_alert_title">%s Correction</string>
+  <string name="traffic_config_alert_title">%s correction</string>
   <string name="traffic_correction_failed">"情報を取得できません"</string>
   <string name="traffic_correction_start_correction">"キャリアのサーバーと接続中…"</string>
-  <string name="traffic_correction_start_correction_failed">"リクエストに失敗しました、オペレーターの設定を確認してください"</string>
+  <string name="traffic_correction_start_correction_failed">"リクエストを送信できませんでした。キャリアの設定を確認してください。"</string>
   <string name="traffic_correction_success">"データ使用量を更新しました"</string>
   <string name="traffic_correction_success_notify_message">"詳細を表示するにはタップ。"</string>
-  <string name="traffic_limit_error_alert_body">"Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Monthly plan changed?"</string>
+  <string name="traffic_limit_error_alert_body">Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Monthly plan changed?</string>
   <string name="traffic_limit_error_alert_package">"
 
 Remaining data includes data that has been rolled over from the previous month."</string>

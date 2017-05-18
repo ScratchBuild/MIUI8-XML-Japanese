@@ -964,6 +964,8 @@ To add a contact to your list of favorites:
   <string name="preview_incall_show_entry">Preview video</string>
   <string name="previous">Previous</string>
   <string name="private_num">"非通知"</string>
+  <string name="profileSavedErrorToast">"プロフィールの変更を保存できませんでした"</string>
+  <string name="profileSavedToast">"プロフィールを保存しました"</string>
   <string name="profile_binded_numbers">%s</string>
   <string name="profile_display_name">"プロフィールを設定"</string>
   <string name="profile_name">My profile</string>
