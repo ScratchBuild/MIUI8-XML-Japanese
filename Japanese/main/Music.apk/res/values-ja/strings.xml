@@ -120,8 +120,8 @@
   <string name="close_music_time">"残り時間: "</string>
   <string name="cloud_empty_local_empty_button">"この端末に曲がありません"</string>
   <string name="cloud_empty_message">"Mi Cloudに曲がありません"</string>
-  <string name="cloud_empty_summary">Back up songs to Mi Cloud to access them from other devices</string>
-  <string name="cloud_enable">Sync music with Mi Cloud</string>
+  <string name="cloud_empty_summary">"他の端末からアクセスするため、Mi Cloudに曲をバックアップする"</string>
+  <string name="cloud_enable">"Mi Cloudと音楽を同期する"</string>
   <string name="cloud_loading_message">"曲を検索中…"</string>
   <string name="cloud_music">Songs in Mi Cloud</string>
   <string name="cloud_settings">"同期設定"</string>
@@ -132,8 +132,8 @@
   <string name="cloud_state_network_data">"Couldn't find WLAN networks, paused backup"</string>
   <string name="cloud_state_network_unavailable">"Couldn't connect to the network, paused backup"</string>
   <string name="cloud_state_storage_full">Not enough phone storage, paused backup</string>
-  <string name="cloud_welcome_message">Back up songs</string>
-  <string name="cloud_welcome_summary">Back up your songs to Mi Cloud and listen to them on other devices</string>
+  <string name="cloud_welcome_message">"曲をバックアップする"</string>
+  <string name="cloud_welcome_summary">"Mi Cloudに曲をバックアップして、他の端末からそれらを再生する"</string>
   <string name="confirm">OK</string>
   <string name="confirm_download">"ダウンロード"</string>
   <string name="confirm_to_renew">"更新"</string>
@@ -255,8 +255,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_pending">Download pending</string>
   <string name="download_percent">%d%%</string>
   <string name="download_processing">"ダウンロード中…"</string>
-  <string name="download_quality">Download quality</string>
-  <string name="download_quality_summary">Additional settings for songs that you download</string>
+  <string name="download_quality">"ダウンロード品質"</string>
+  <string name="download_quality_summary">"曲をダウンロードするための追加設定"</string>
   <string name="download_queued">Queued</string>
   <string name="download_running">"進行中"</string>
   <string name="download_running_percent">"進行中、%d%%"</string>
@@ -294,7 +294,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="editmode_menu_delete">"削除"</string>
   <string name="editmode_menu_share">"共有"</string>
-  <string name="empty_page_no_album">No albums.</string>
+  <string name="empty_page_no_album">"アルバムがありません。"</string>
   <string name="empty_page_no_artist">No artists.</string>
   <string name="empty_page_no_document">"音楽ファイルがありません。"</string>
   <string name="empty_page_no_track">"曲がありません。"</string>
@@ -362,8 +362,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="followed">Following</string>
   <string name="force_touch_audio_picker">Recognize song</string>
   <string name="force_touch_play_local_music_random">Shuffle local music</string>
-  <string name="format_not_support">"This format isn't supported."</string>
-  <string name="format_unsupported_or_corrupted">"This format isn't supported or the file is corrupted"</string>
+  <string name="format_not_support">"この形式はサポートされていません"</string>
+  <string name="format_unsupported_or_corrupted">"この形式はサポートされていないか、ファイルが壊れています"</string>
   <string name="fragment_more">"もっと"</string>
   <string name="fragment_title_artist">"アーティスト"</string>
   <string name="fragment_title_artist_album">"アルバム"</string>

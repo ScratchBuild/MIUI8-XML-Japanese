@@ -44,7 +44,7 @@
   <string name="document_recognize_fail_tip">"ドキュメントを読み取れませんでした"</string>
   <string name="document_rectify">調整</string>
   <string name="document_rectify_tip_msg">調整中…</string>
-  <string name="document_save_succeed_tip">Document saved to %1$s</string>
+  <string name="document_save_succeed_tip">%1$sにドキュメントを保存しました</string>
   <string name="document_title">Take a photo of the document</string>
   <string name="document_top_panel_title">Document photo</string>
   <string name="done">完了</string>
@@ -55,7 +55,7 @@
   <string name="error_day_limit">Too many attempts within 1 day</string>
   <string name="error_empty_result">"結果が見つかりませんでした"</string>
   <string name="error_hour_limit">Too many attempts within 1 hour</string>
-  <string name="error_image_error">"Can't recognize this photo"</string>
+  <string name="error_image_error">写真を認識できません</string>
   <string name="error_invalid_request">認証エラー</string>
   <string name="error_media_storage_failure">写真を保存できませんでした</string>
   <string name="error_minute_limit">Too many attempts within 1 minute</string>
@@ -114,15 +114,15 @@
   <string name="not_recommend_access_web_url">とにかく移動</string>
   <string name="not_tips">次回から表示しない</string>
   <string name="note">Remark:</string>
-  <string name="path_scanner_setting">System apps/Scanner</string>
+  <string name="path_scanner_setting">システムアプリ/スキャナー</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Phone:</string>
   <string name="picker_lable">Photo</string>
   <string name="place_barcode_into_rectangle">Place the code inside the frame</string>
-  <string name="pref_camera_jpeg_quality_fine">fine</string>
-  <string name="pref_camera_jpeg_quality_normal">normal</string>
-  <string name="pref_camera_jpeg_quality_superfine">superfine</string>
+  <string name="pref_camera_jpeg_quality_fine">ファイン</string>
+  <string name="pref_camera_jpeg_quality_normal">ノーマル</string>
+  <string name="pref_camera_jpeg_quality_superfine">スーパーファイン</string>
   <string name="preparing_sd">内部ストレージの準備中…</string>
   <string name="previous">戻る</string>
   <string name="qr_code_details">QRコードの詳細:</string>

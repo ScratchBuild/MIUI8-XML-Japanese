@@ -163,8 +163,8 @@
   <string name="backup_sync_off_desc">"Mi Cloudとの同期をオンにして、写真や動画をバックアップする"</string>
   <string name="backup_sync_off_title">"Mi Cloudとの同期はオフです"</string>
   <string name="backup_with_gprs_dialog_btn">"バックアップ"</string>
-  <string name="backup_with_gprs_dialog_message">%s of data is required to back up items. Back up now?</string>
-  <string name="backup_with_gprs_dialog_title">Back up using mobile data</string>
+  <string name="backup_with_gprs_dialog_message">"アイテムをバックアップするには%sのデータが必要です。今すぐバックアップしますか？"</string>
+  <string name="backup_with_gprs_dialog_title">"モバイルデータを使用してバックアップ"</string>
   <string name="backuped_desc">"写真と動画はMi Cloudにバックアップされます"</string>
   <string name="backuped_title">"バックアップが完了しました"</string>
   <string name="backuping_title_gprs">Backing up using mobile data…</string>
