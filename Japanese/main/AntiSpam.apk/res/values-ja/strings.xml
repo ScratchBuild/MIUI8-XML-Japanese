@@ -202,11 +202,11 @@
   <string name="open_callwait">On</string>
   <string name="organization">"所属"</string>
   <string name="phone">"電話"</string>
-  <string name="quiet">Do not disturb</string>
-  <string name="quiet_group">Do not disturb</string>
-  <string name="quiet_important_interruptions_mode">Only allow exceptions</string>
-  <string name="quiet_mode">Silence all disturbances</string>
-  <string name="quiet_off_mode">Always allow disturbances</string>
+  <string name="quiet">"夜間モード"</string>
+  <string name="quiet_group">"夜間モード"</string>
+  <string name="quiet_important_interruptions_mode">"例外のみ許可する"</string>
+  <string name="quiet_mode">"すべての通知を消音する"</string>
+  <string name="quiet_off_mode">"すべての通知を許可する"</string>
   <string name="read_all_sms">"すべてを既読にする"</string>
   <string name="repeated_marked_number_summary">"Don't block a second call from the same reported number within 3 minutes"</string>
   <string name="repeated_marked_number_title">"Don't block repeated calls from reported numbers"</string>

@@ -574,7 +574,7 @@
     <string-array name="screen_key_position_action">
         <item>左側にメニューボタン、右側に戻るボタン</item>
         <item>左側に戻るボタン、右側にメニューボタン</item>
-	</string-array>
+    </string-array>
     <string-array name="screen_key_press_action">
         <item>最近使ったアプリを表示</item>
         <item>メニューを表示</item>
@@ -710,10 +710,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>非常に速い</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Off</item>
-        <item>Low</item>
-        <item>Middle</item>
-        <item>High</item>
+        <item>オフ</item>
+        <item>低</item>
+        <item>中</item>
+        <item>高</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>ホームネットワーク</item>

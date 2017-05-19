@@ -341,8 +341,8 @@
   <string name="device_not_activiey_lint2">Mail service does not work with Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">"新着メッセージを自動受信できません。同期はオフです。"</string>
   <string name="dialog_auto_sync_setting_no_open">"新着メッセージを自動受信できません。同期はオフです。"</string>
-  <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
-  <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
+  <string name="dialog_change_sync_lookback">"%s前に受信したメールは自動的に削除されます。 変更するにはタップ。"</string>
+  <string name="dialog_gmail_proxy_server_is_error">"Gmailのプロキシサーバーエラー。"</string>
   <string name="dialog_insufficient_space_on_external">"添付ファイルをダウンロードできません。外部ストレージに十分な空き領域がありません。"</string>
   <string name="dialog_insufficient_space_on_internal">"内部ストレージに十分な空き領域がありません。"</string>
   <string name="disable_admin_warning">"警告: メールアプリの端末管理権限を無効にすると、権限を必要とするすべてのメールアカウントが削除されます。また、そのアカウントのメール、連絡先、カレンダーの予定などのデータも削除されます。"</string>
@@ -441,7 +441,7 @@
   <string name="folder_sent_name_en2">"送信済みメッセージ"</string>
   <string name="folder_sent_name_en3">"送信済みアイテム"</string>
   <string name="folder_sent_name_en4">"[Gmail]/送信済みメール"</string>
-  <string name="folder_shortcut_widget_label">Email folder</string>
+  <string name="folder_shortcut_widget_label">"メールフォルダ"</string>
   <string name="folder_synchronization_mail_settings">"フォルダの同期設定"</string>
   <string name="folder_trash_name_en0">"ゴミ箱"</string>
   <string name="folder_trash_name_en1">"削除済みメッセージ"</string>
@@ -470,10 +470,10 @@
   <string name="general_preference_text_zoom_tiny">"極小"</string>
   <string name="generic_attachment_problem">"ファイルを添付できません。"</string>
   <string name="get_database_exception">"[設定] &gt; [システムアプリ] からこのアプリのデータを消去して、もう一度お試しください。"</string>
-  <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
-  <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
-  <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
-  <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
+  <string name="gmail_acceleration">"Gmailアカウントにプロキシサーバーを使用する"</string>
+  <string name="gmail_login_confirm_to_use_proxy">"プロキシサーバーを使用してGmailアカウントにアクセスしますか？"</string>
+  <string name="gmail_login_failed_non_proxy_title">"Gmailサーバーにアクセスできませんでした"</string>
+  <string name="gmail_server_authorization_deleted">"アカウントを認証できませんでした。このアカウントをもう一度追加してみてください。"</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">"Gmailにログイン"</string>
   <string name="header_category_account">"アカウント"</string>
@@ -488,10 +488,10 @@
   <string name="imap_password_error">"受信メールサーバーのパスワードが間違っています"</string>
   <string name="import_button_text">"インポート"</string>
   <string name="import_from_other_account">"他のアカウントからインポート"</string>
-  <string name="info_actionbar_normal_detail">Promotion</string>
+  <string name="info_actionbar_normal_detail">"おすすめ"</string>
   <string name="info_item_hide">"削除"</string>
-  <string name="info_switch_summary">Show promotions on top of the inbox</string>
-  <string name="info_switch_title">Promotion</string>
+  <string name="info_switch_summary">"受信トレイの上部におすすめを表示する"</string>
+  <string name="info_switch_title">"おすすめ"</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
   <string name="input_password_prompt">"パスワードを入力してください"</string>
   <string name="invalid_recipient">The address %s is invalid.</string>
@@ -655,7 +655,7 @@ Try a different inbox."</string>
   <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
   <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the server's limit."</string>
   <string name="outbox_alert_duplicate_click">Sending now…</string>
-  <string name="outbox_alert_edit_resend">Edit and resend</string>
+  <string name="outbox_alert_edit_resend">"編集して再送"</string>
   <string name="outbox_alert_failed_edit_resend">"送信できませんでした。編集してもう一度お試しください。"</string>
   <string name="outbox_alert_mailbox_not_found">"メールアドレスが見つかりません"</string>
   <string name="outbox_alert_rw_io_error">"不明なエラーが発生しました。1～2分待ってから再試行してください。"</string>
@@ -801,8 +801,6 @@ to receive reminders about payments and trips"</string>
   <string name="quote_divider_5">-----------用于引用的分割线-------------</string>
   <string name="quote_divider_6">---Original---</string>
   <string name="quote_divider_7">Original Message</string>
-  <string name="quote_divider_apple">"
->"</string>
   <string name="quote_divider_huawei_zh">来自华为手机</string>
   <string name="quote_divider_ipad_zh">发自我的 iPad</string>
   <string name="quote_divider_iphone_en">Sent from my iPhone</string>
@@ -854,7 +852,7 @@ to receive reminders about payments and trips"</string>
   <string name="remove_folder">"%1$sから削除"</string>
   <string name="remove_star">Unstar</string>
   <string name="reply">"返信"</string>
-  <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
+  <string name="reply_add_bodycontent">"クイック返信のテキストをメッセージ本文に追加しますか？"</string>
   <string name="reply_all">"全員に返信"</string>
   <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
   <string name="report_phishing">"フィッシングを報告"</string>
@@ -917,7 +915,7 @@ to receive reminders about payments and trips"</string>
   <string name="sharing">"共有"</string>
   <string name="shortcut_name_title">Name folder shortcut</string>
   <string name="show_elided">▶ Show quoted text</string>
-  <string name="show_images">Download and show pictures</string>
+  <string name="show_images">"写真をダウンロードして表示"</string>
   <string name="signature">"%s"</string>
   <string name="silent_ringtone">マナーモード</string>
   <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
@@ -933,8 +931,8 @@ to receive reminders about payments and trips"</string>
   <string name="special_text_colon_en">:</string>
   <string name="special_text_colon_zh">：</string>
   <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
-  <string name="special_text_sender_en">sender</string>
-  <string name="special_text_sender_zh">发件人</string>
+  <string name="special_text_sender_en">"送信者"</string>
+  <string name="special_text_sender_zh">"送信者"</string>
   <string name="storage">"ストレージ"</string>
   <string name="str_select_all">"すべて選択"</string>
   <string name="str_select_none">"すべて選択を解除"</string>
@@ -952,14 +950,14 @@ to receive reminders about payments and trips"</string>
   <string name="system_folders_trash_title">"ゴミ箱フォルダ"</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Touch to set up.</string>
-  <string name="tap_to_enable_sync">Touch to turn on.</string>
+  <string name="tap_to_enable_sync">"オンにするにはタップ。"</string>
   <string name="to">To</string>
   <string name="to_heading">"To: "</string>
   <string name="toast_bar_fail_synchronization">"ネットワークに接続できません"</string>
   <string name="toast_bar_insufficient_memory_space">"十分な空き領域がありません"</string>
   <string name="toast_bar_invalid_account">"もう一度ログインする必要があります"</string>
   <string name="toast_bar_no_connection_network">"インターネットに接続していません"</string>
-  <string name="toast_bar_open_gmail_synchronization">Tap to use proxy server for Gmail</string>
+  <string name="toast_bar_open_gmail_synchronization">"Gmail用のプロキシサーバーを使用するにはタップ"</string>
   <string name="today_text">"今日"</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
@@ -989,15 +987,15 @@ to receive reminders about payments and trips"</string>
   <string name="unknow">"不明"</string>
   <string name="unread_string">"未読のスレッド"</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
-  <string name="unzip_file_failed">"Couldn't unzip file"</string>
+  <string name="unzip_file_failed">"ファイルを解凍できませんでした"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="upload_log">"ログをアップロード"</string>
   <string name="upload_log_failed">"ログを送信できませんでした"</string>
   <string name="upload_log_no">"キャンセル"</string>
   <string name="upload_log_success">"送信が完了しました, we'll get back to you soon."</string>
-  <string name="upload_log_title">Send error logs to help us improve Mail</string>
-  <string name="upload_log_yes">Send</string>
+  <string name="upload_log_title">"メールアプリの改善に役立つログを送信する"</string>
+  <string name="upload_log_yes">"送信"</string>
   <string name="upload_logs">"ログをアップロード"</string>
   <string name="upload_logs_keywords">"ログをアップロード"</string>
   <string name="uploading_logs">"読み込み中…"</string>
@@ -1021,6 +1019,6 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
   <string name="wrong_password">"入力したパスワードが正しくありません"</string>
   <string name="yes">"はい"</string>
   <string name="you_are_in_mobile_network">"モバイルデータ接続を使用してログを送信しますか？データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
-  <string name="youfuli">Promotion</string>
-  <string name="zip_viewer_no_file">No files.</string>
+  <string name="youfuli">"おすすめ"</string>
+  <string name="zip_viewer_no_file">"ファイルがありません。"</string>
 </resources>

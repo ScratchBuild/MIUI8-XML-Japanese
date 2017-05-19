@@ -2637,8 +2637,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="quiet">夜間モード</string>
   <string name="quiet_group">夜間モード</string>
   <string name="quiet_important_interruptions_mode">例外のみ許可する</string>
-  <string name="quiet_no_interruptions_mode">Silence all disturbances</string>
-  <string name="quiet_off_mode">Always allow disturbances</string>
+  <string name="quiet_no_interruptions_mode">すべての通知を消音する</string>
+  <string name="quiet_off_mode">すべての通知を許可する</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">接続</string>
   <string name="radioInfo_data_connecting">接続中</string>
@@ -2647,7 +2647,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="radioInfo_display_asu">asu</string>
   <string name="radioInfo_display_bytes">バイト</string>
   <string name="radioInfo_display_dbm">dBm</string>
-  <string name="radioInfo_display_packets">pkts</string>
+  <string name="radioInfo_display_packets">パケット</string>
   <string name="radioInfo_lac">LAC</string>
   <string name="radioInfo_menu_getPDP">PDPリストを取得</string>
   <string name="radioInfo_menu_viewADN">SIMのアドレス帳を表示</string>
@@ -3135,8 +3135,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="security_encryption_attention_info">アカウント、設定、ダウンロードしたアプリやそれのデータ、メディア、その他のファイルを暗号化できます。</string>
   <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">重要</string>
-  <string name="security_encryption_close_dialog_info">Choosing not to encrypt device using lock screen password may make some Google services unavailable.</string>
-  <string name="security_encryption_close_dialog_title">Go back to default password protection</string>
+  <string name="security_encryption_close_dialog_info">ロック画面のパスワードを使用して端末を暗号化しないことを選択すると、一部のGoogleサービスが利用できなくなる可能性があります。</string>
+  <string name="security_encryption_close_dialog_title">デフォルトのパスワード保護に戻る</string>
   <string name="security_encryption_diaglog_continue">次へ</string>
   <string name="security_encryption_is_used">On</string>
   <string name="security_encryption_progress_dialog_close">復号化しています…</string>
@@ -3408,7 +3408,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fiネットワーク名を編集</string>
   <string name="status_bar_settings_enable_notification">通知を表示</string>
   <string name="status_bar_settings_expandable_under_keyguard">ロック画面に表示</string>
-  <string name="status_bar_settings_long_click_sort">押し続けてトグルをつまむ</string>
+  <string name="status_bar_settings_long_click_sort">トグルスイッチを並べ替えるには長押し</string>
   <string name="status_bar_settings_manage_notification">アプリの通知</string>
   <string name="status_bar_settings_no_carrier">なし</string>
   <string name="status_bar_settings_notification_bar">通知領域</string>
@@ -3438,9 +3438,6 @@ PINが正しくない可能性があります。"</string>
   <string name="status_failed_to_write">NFCタグにデータを書き込めません。問題が解決しない場合は別のタグをお試しください。</string>
   <string name="status_invalid_password">パスワードが無効です。もう一度お試しください。</string>
   <string name="status_latest_area_info">携帯通信会社の情報</string>
-  <string name="status_meid_number">MEID</string>
-  <string name="status_min_number">MIN</string>
-  <string name="status_msid_number">MSID</string>
   <string name="status_network_type">モバイルネットワークの種類</string>
   <string name="status_number">電話番号</string>
   <string name="status_operator">ネットワーク</string>
@@ -3603,7 +3600,7 @@ PINが正しくない可能性があります。"</string>
   <string name="summary_range_verbal_combination">%1$s - %2$s</string>
   <string name="supl_not_set">&lt;未設定></string>
   <string name="supplicant_state_label">申請者の状態:</string>
-  <string name="suspend_gesture_enabled">Flip phone to turn off screen</string>
+  <string name="suspend_gesture_enabled">画面をオフにするには電話を裏返す</string>
   <string name="suspension_ball_enable">Quick ballのショートカット</string>
   <string name="suspension_ball_enable_desc">ショートカットを使用してQuick ballのオン/オフを切り替える</string>
   <string name="suw_back_button_label">戻る</string>
@@ -3662,7 +3659,7 @@ PINが正しくない可能性があります。"</string>
   <string name="testing_wifi_info">Wi-Fiネットワーク情報</string>
   <string name="tether_and_hotspot_title">テザリングとホットスポット</string>
   <string name="tether_devices_management_title">デバイスの管理</string>
-  <string name="tether_devices_max_number">Limit of connected devices</string>
+  <string name="tether_devices_max_number">接続済みデバイスの上限</string>
   <string name="tether_settings_disabled">パーソナルホットスポットはオフです</string>
   <string name="tether_settings_title_all">テザリングとポータブルアクセスポイント</string>
   <string name="tether_settings_title_bluetooth">Bluetoothテザリング</string>
