@@ -514,9 +514,9 @@
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>"無効"</item>
-        <item>"強め"</item>
-        <item>"標準"</item>
         <item>"弱め"</item>
+        <item>"標準"</item>
+        <item>"強め"</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>"強め"</item>
