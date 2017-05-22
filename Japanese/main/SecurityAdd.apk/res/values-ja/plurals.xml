@@ -9,9 +9,9 @@
         <item quantity="one">"Haven't added %d game"</item>
     </plurals>
     <plurals name="found_apps_title">
-        <item quantity="other">%d apps found</item>
-        <item quantity="zero">0 app found</item>
-        <item quantity="one">%d app found</item>
+        <item quantity="other">%d個のアプリが見つかりました</item>
+        <item quantity="zero">アプリが見つかりませんでした</item>
+        <item quantity="one">%d個のアプリが見つかりました</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Search among %d apps</item>

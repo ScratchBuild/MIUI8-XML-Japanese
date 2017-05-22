@@ -15,8 +15,8 @@
         <item>ヘブライ語</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Home only</item>
-        <item>Automatic</item>
+        <item>ホームのみ</item>
+        <item>自動</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>

@@ -154,7 +154,7 @@
   <string name="app_manager_force_stop_dlg_text">"アプリを強制停止すると、アプリが正常に機能しないことがあります。"</string>
   <string name="app_manager_force_stop_dlg_title">"強制停止しますか？"</string>
   <string name="app_manager_go_to_manger_app">"管理"</string>
-  <string name="app_manager_have_not_consume">无</string>
+  <string name="app_manager_have_not_consume">"消費していない"</string>
   <string name="app_manager_loading_data">"データを読み込み中…"</string>
   <string name="app_manager_more_times">Accessed 100000+ times</string>
   <string name="app_manager_my_app">My apps</string>
@@ -354,7 +354,7 @@
   <string name="bl_no_block_call">"ブロックされた通話はありません。"</string>
   <string name="bl_no_block_sms">"ブロックされたSMSはありません。"</string>
   <string name="blacklist_prefix_add_hint">"このプレフィックスで始まるすべての番号をブロックする"</string>
-  <string name="block_message_number">Messages: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">"通話: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;"</string>
   <string name="booster_immediately">Boost</string>
   <string name="boot_reminder">"予定した時刻に端末の電源がオンになります"</string>
@@ -451,7 +451,7 @@
   <string name="card_main_hbassistant_summary">Use this tool to grab the envelopes faster</string>
   <string name="card_main_hbassistant_title">Red envelope assistant</string>
   <string name="card_main_monthreport_action">"表示"</string>
-  <string name="card_main_monthreport_summary">View monthly reports</string>
+  <string name="card_main_monthreport_summary">"月次レポートを表示"</string>
   <string name="card_main_monthreport_title">Security stats</string>
   <string name="card_main_netcheck_action">"テスト"</string>
   <string name="card_main_netcheck_summary">Test connection for networking issues</string>
@@ -498,7 +498,7 @@
   <string name="confirmSecondSpacePassword">Confirm Second space password</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Adding Mi Account</string>
   <string name="confirm_fingerprint_msg">"指をセンサーに当ててください"</string>
-  <string name="confirm_reject_all_permission">Restrict all apps from using this feature?</string>
+  <string name="confirm_reject_all_permission">"この機能を使用するすべてのアプリを制限しますか？"</string>
   <string name="connect_internet_by_mobiledata">"モバイルデータ接続"</string>
   <string name="connect_internet_by_usbshare">Shared internet over USB</string>
   <string name="connect_internet_by_wifi">"Wi-Fi"</string>
@@ -982,7 +982,7 @@
   <string name="menu_wh_remove">"例外から削除"</string>
   <string name="mi_service_app_detail">"データ使用量の詳細"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
-  <string name="mi_service_traffic_detail">Framework details</string>
+  <string name="mi_service_traffic_detail">"フレームワークの詳細"</string>
   <string name="mian_page_primary_txt">"海外ローミング"</string>
   <string name="modifypassword">"パスワードの変更"</string>
   <string name="monitor_requests_from_pc">"USB経由でアプリのインストールを管理"</string>

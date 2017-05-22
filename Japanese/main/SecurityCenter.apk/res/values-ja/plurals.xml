@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fw_blocked_count_call">
-        <item quantity="other">%d calls</item>
-        <item quantity="one">%d call</item>
+        <item quantity="other">%d件の着信</item>
+        <item quantity="one">%d件の着信</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
-        <item quantity="other">%d messages</item>
-        <item quantity="one">%d message</item>
+        <item quantity="other">%d件のメッセージ</item>
+        <item quantity="one">%d件のメッセージ</item>
     </plurals>
     <plurals name="marked_by_others">
         <item quantity="other">%d other users marked it as</item>
@@ -21,8 +21,8 @@
         <item quantity="one">Tracking data usage for %d app</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
-        <item quantity="other">%d apps</item>
-        <item quantity="one">%d app</item>
+        <item quantity="other">%d個のアプリ</item>
+        <item quantity="one">%d個のアプリ</item>
     </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">"You've already used %s daily data limits."</item>
@@ -53,8 +53,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">"%d app can't use data roaming"</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
-        <item quantity="other">%d apps found</item>
-        <item quantity="one">%d app found</item>
+        <item quantity="other">%d個のアプリが見つかりました</item>
+        <item quantity="one">%d個のアプリが見つかりました</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d days "</item>
@@ -267,15 +267,15 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">Blocked %d time</item>
     </plurals>
     <plurals name="app_usage_day">
-        <item quantity="other">"Haven't used for %d days"</item>
-        <item quantity="one">"Haven't used for %d day"</item>
+        <item quantity="other">%d日間使用していない</item>
+        <item quantity="one">%d日間使用していない</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">"Haven't used for %d months"</item>
-        <item quantity="one">"Haven't used for %d month"</item>
+        <item quantity="other">%dヶ月間使用していない</item>
+        <item quantity="one">%dヵ月間使用していない</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">"Haven't used for %d years"</item>
-        <item quantity="one">"Haven't used for %d year"</item>
+        <item quantity="other">%d年間使用していない</item>
+        <item quantity="one">%d年間使用していない</item>
     </plurals>
 </resources>

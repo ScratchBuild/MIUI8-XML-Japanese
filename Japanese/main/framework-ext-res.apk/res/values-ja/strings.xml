@@ -6,8 +6,8 @@
   <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic or %2$s international</string>
   <string name="alwaysUsePrompt">"この選択を記憶する"</string>
   <string name="apply_password_action">OK</string>
-  <string name="apply_password_confirm_dlg_msg">Use your current lock screen password to access settings for %s.</string>
-  <string name="apply_password_confirm_dlg_title">%s password</string>
+  <string name="apply_password_confirm_dlg_msg">"%sの設定にアクセスするには、現在のロック画面のパスワードを使用します。"</string>
+  <string name="apply_password_confirm_dlg_title">"%sのパスワード"</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">"ナビゲーションボタンは無効です、いずれかのボタンをダブルタップでオンに戻ります"</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">"ナビゲーションボタンは有効です"</string>
   <string name="auto_disable_screenbuttons_float_text">"ナビゲーションボタンを無効にするにはタップ"</string>
@@ -35,7 +35,7 @@
   <string name="enable_livetalk_title">Turn on Top-up package</string>
   <string name="fc_dialog_body">"分析のためMiにバグレポートを送信しますか？このレポートには個人情報が含まれています。このバグを修正するのに役立てるためにのみ使用され、任意の商業コンテキスト内で共有されることはありません。"</string>
   <string name="fc_dialog_jump_to_preview">"概要を表示"</string>
-  <string name="first_back_long_press_message">To set custom press &amp; hold actions for navigation buttons, go to Settings &gt; Additional settings &gt; Buttons</string>
+  <string name="first_back_long_press_message">"ナビゲーションボタンの長押しアクションに操作を割り当てるには、[設定] &gt; [その他の設定] &gt; [ボタン]に移動します"</string>
   <string name="fm_record_smaple_prefix_miui">FM recording</string>
   <string name="force_exit_message">"%1$sを強制終了しました"</string>
   <string name="force_exit_skip_message">"%1$sはシステムで必要なため、終了することができません。"</string>
@@ -54,7 +54,7 @@
   <string name="group_name_friends">"友達"</string>
   <string name="handy_mode_enter_dlg_msg">"片手操作モードに切り替えますか？"</string>
   <string name="handy_mode_enter_dlg_title">"片手操作モードに切り替え"</string>
-  <string name="handy_mode_summary">To close, tap the darkened area</string>
+  <string name="handy_mode_summary">"終了するには暗いエリアをタップ"</string>
   <string name="handy_mode_title">"片手操作モード"</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Place your finger on the Home button</string>
   <string name="internal_livetalk_enable">Using top-up package for domestic calls</string>
@@ -86,8 +86,8 @@
   <string name="reboot_progress">"再起動しています…"</string>
   <string name="replace">Replace</string>
   <string name="resource_select">"選択"</string>
-  <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
-  <string name="screen_button_notification_title">Navigation buttons are turned off</string>
+  <string name="screen_button_notification_text">"オンにするには、ホームボタンと電源ボタンを同時に押してください。"</string>
+  <string name="screen_button_notification_title">"ナビゲーションボタンは現在オフです"</string>
   <string name="screen_on_proximity_sensor_hint">"この機能をオフにするには、音量[＋]ボタンと戻るボタンを同時に押してください。"</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">"この機能をオフにするには、音量[＋]ボタンを押してください。"</string>
   <string name="screen_on_proximity_sensor_summary">"イヤホンの領域を覆わないでください"</string>

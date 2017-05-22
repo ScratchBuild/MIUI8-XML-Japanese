@@ -98,11 +98,11 @@
         <item quantity="one">"バグレポートの送信まであと%1$dステップです。"</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Always disable for %d apps</item>
-        <item quantity="one">Always disable for 1 app</item>
+        <item quantity="other">%d個のアプリで常に無効にする</item>
+        <item quantity="one">1個のアプリで常に無効にする</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Never disable for %d apps</item>
-        <item quantity="one">Never disable for 1 app</item>
+        <item quantity="other">%d個のアプリで無効にしない</item>
+        <item quantity="one">1個のアプリで無効にしない</item>
     </plurals>
 </resources>
