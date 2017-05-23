@@ -27,8 +27,5 @@ This translation is licensed under a Creative Commons Attribution-NonCommercial-
 ------------------------------------------------------------------------------
 
 ##### Credits:
-- konikoni428
-- Mi5japanese
-- nabosuke
-- schipperke
 - ScratchBuild (repository maintainer)
+- and other [contributors](https://github.com/ScratchBuild/MIUI8-XML-Japanese/graphs/contributors)
