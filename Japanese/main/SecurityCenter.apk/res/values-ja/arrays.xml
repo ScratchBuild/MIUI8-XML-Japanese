@@ -54,17 +54,9 @@
         <item>"モバイルデータ使用量 "</item>
         <item>"Wi-Fi使用量 "</item>
     </string-array>
-    <string-array name="traffic_setting_sms_template">
-        <item>"自動で取得"</item>
-        <item>"手動で設定"</item>
-    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>"警告を表示"</item>
         <item>"警告と共にモバイルデータをオフ"</item>
-    </string-array>
-    <string-array name="roaming_apps_sorted_type">
-        <item>Most used</item>
-        <item>Name</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Always</item>

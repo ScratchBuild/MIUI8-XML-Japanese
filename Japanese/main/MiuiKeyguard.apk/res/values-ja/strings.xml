@@ -7,14 +7,6 @@
   <string name="default_lockscreen_unlock_hint_text">"上にスワイプでロック解除"</string>
   <string name="delete">"削除"</string>
   <string name="emergency_call_string">"緊急通報"</string>
-  <string name="experimental_try_string">Try</string>
-  <string name="experimental_validate">Validate</string>
-  <string name="experimental_validate_fail">"ログインに失敗しました"</string>
-  <string name="experimental_validate_password">"パスワード"</string>
-  <string name="experimental_validate_progress">"ログイン中…"</string>
-  <string name="experimental_validate_thanks">Thank you!</string>
-  <string name="experimental_validate_username">"ユーザー名"</string>
-  <string name="experimental_validate_warning">Thank you for helping make MIUI better!</string>
   <string name="find_device_turn_off_flight_mode">"機内モードをオフにする"</string>
   <string name="fingerprint_add_text">The fingerprint interface was updated. Add your fingerprint again.</string>
   <string name="fingerprint_add_title">"指紋認証を追加"</string>
@@ -40,6 +32,35 @@
   <string name="invalid_confirm_pin_hint">"PINコードが一致しません"</string>
   <string name="invalid_sim_pin_hint">"PINは4～8桁の数字を含める必要があります"</string>
   <string name="invalid_sim_puk_hint">"PUKは8桁以上の数字にする必要があります"</string>
+  <string name="keyguard_charging_info_battery_temperature_text">"電池温度"</string>
+  <string name="keyguard_charging_info_battery_used_time_text">"電池使用時間"</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">"フル充電まで%d時間"</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">"フル充電まで%d分"</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">"フル充電まで%d時間%d分"</string>
+  <string name="keyguard_charging_info_charging_text">"充電中"</string>
+  <string name="keyguard_charging_info_charging_voltage_text">"電圧"</string>
+  <string name="keyguard_charging_info_click_to_detail">"詳細を表示"</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">"残り%d時間"</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">"残り%d分"</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">"残り%d時間%d分"</string>
+  <string name="keyguard_charging_info_current_now_text">Real-time monitor</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">"%d時間"</string>
+  <string name="keyguard_charging_info_drained_min_time_format">"%d分"</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Drained</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">"%d時間%d分"</string>
+  <string name="keyguard_charging_info_finished_charging_text">"充電完了"</string>
+  <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
+  <string name="keyguard_charging_info_last_charge_today_time">"今日 %s"</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">"昨日 %s"</string>
+  <string name="keyguard_charging_info_last_charged_time_text">"充電開始から"</string>
+  <string name="keyguard_charging_info_tip_text1">Keep your device at least 10% charged all the time to extend battery life.</string>
+  <string name="keyguard_charging_info_tip_text2">"Don't overcharge your device. Multiple shorter charges are better than an overnight charge."</string>
+  <string name="keyguard_charging_info_tip_text3">Avoid charging your device when the surrounding temperature is lower than 0℃.</string>
+  <string name="keyguard_charging_info_tip_text4">"Don't use your device actively while it's charging to avoid overheating."</string>
+  <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
+  <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">"急速充電中、タップして詳細を表示"</string>
+  <string name="keyguard_quickly_charging_info_charging_text">"急速受電中"</string>
   <string name="keyguard_torch_cover_text">"ライトをオンにするには、電源ボタンを押し続けます"</string>
   <string name="lock_screen_date">"M月d日 EEEE"</string>
   <string name="lock_screen_date_12">"M月d日 EEEE"</string>
@@ -60,7 +81,6 @@
   <string name="lockscreen_glogin_password_hint">"パスワード"</string>
   <string name="lockscreen_glogin_submit_button">"ログイン"</string>
   <string name="login_website_in_case_forget_password">"パスワードをリセットするには、www.mi.com/micloud へアクセスしてください"</string>
-  <string name="missed_call_text">"%d件の不在着信"</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">"Bluetoothデバイスによってロック解除されました"</string>
   <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
   <string name="open_remote_center_hint_text">"右にスワイプで電話を開く"</string>
@@ -76,7 +96,6 @@ i.mi.com にログインして“Find device”に移動したら、デバイス
   <string name="phone_locked_string">"電話がロックされています"</string>
   <string name="phone_locked_timeout_minutes_string">"%s分後にもう一度お試しください"</string>
   <string name="phone_locked_timeout_seconds_string">"%s秒後にもう一度お試しください"</string>
-  <string name="unlock_sim_string">"SIMのロックを解除"</string>
   <string name="unlock_string">"ロックを解除"</string>
   <string name="unlocking_sim_card">"SIMカードのロックを解除中"</string>
   <string name="unlockscreen_low_battery">"充電器を接続してください"</string>

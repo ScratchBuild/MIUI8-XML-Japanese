@@ -12,6 +12,14 @@
         <item quantity="other">%d other users marked it as</item>
         <item quantity="one">%d other user marked it as</item>
     </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d個のキーボード</item>
+        <item quantity="one">%d個のキーボード</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d件の番号</item>
+        <item quantity="one">%d件の番号</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Not tracking data usage for %d apps</item>
         <item quantity="one">Not tracking data usage for %d app</item>
@@ -35,10 +43,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">"You've already used %s daily data limit.
 
 If you turn on mobile data again, your carrier may charge you for additional data."</item>
-    </plurals>
-    <plurals name="hints_install_apps_interval">
-        <item quantity="other">Used %d days ago</item>
-        <item quantity="one">Used yesterday</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Search %d apps</item>

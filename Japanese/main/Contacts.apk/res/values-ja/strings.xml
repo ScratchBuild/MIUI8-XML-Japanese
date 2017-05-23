@@ -249,7 +249,7 @@
   <string name="contacts_setting_title">連絡先設定</string>
   <string name="contacts_unavailable_add_account">"アカウントにログイン"</string>
   <string name="contacts_unavailable_create_contact">"新しい連絡先を作成"</string>
-  <string name="contacts_unavailable_import_contacts">"連絡先をインポート"</string>
+  <string name="contacts_unavailable_import_contacts">"ファイルからインポート"</string>
   <string name="convenient_service">"サービス"</string>
   <string name="copy_number">"コピー"</string>
   <string name="copy_text">"クリップボードにコピー"</string>

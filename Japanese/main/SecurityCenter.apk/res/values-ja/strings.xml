@@ -142,6 +142,10 @@
   <string name="app_manager_appupdate_remind">"更新に関する通知"</string>
   <string name="app_manager_bipartition">"デュアルアプリ"</string>
   <string name="app_manager_card_permission_title">Permissions</string>
+  <string name="app_manager_clear_data_dlg_message">"このアプリのすべてのデータが完全に削除されます。これにはすべてのファイル、設定、アカウント、データベースなどが含まれます。"</string>
+  <string name="app_manager_clear_data_dlg_title">"アプリのデータを削除しますか？"</string>
+  <string name="app_manager_clear_failed_dlg_message">"アプリのデータを削除できませんでした。"</string>
+  <string name="app_manager_clear_failed_dlg_title">"データを削除"</string>
   <string name="app_manager_default_close_summary">No defaults set.</string>
   <string name="app_manager_default_open">Open by default</string>
   <string name="app_manager_default_open_summary">You’ve chosen to launch this app by default for some actions.</string>
@@ -154,8 +158,10 @@
   <string name="app_manager_force_stop_dlg_text">"アプリを強制停止すると、アプリが正常に機能しないことがあります。"</string>
   <string name="app_manager_force_stop_dlg_title">"強制停止しますか？"</string>
   <string name="app_manager_go_to_manger_app">"管理"</string>
-  <string name="app_manager_have_not_consume">"消費していない"</string>
+  <string name="app_manager_have_not_consume">None</string>
   <string name="app_manager_loading_data">"データを読み込み中…"</string>
+  <string name="app_manager_manage_space">"spaceの管理"</string>
+  <string name="app_manager_menu_clear_data">"データを消去"</string>
   <string name="app_manager_more_times">Accessed 100000+ times</string>
   <string name="app_manager_my_app">My apps</string>
   <string name="app_manager_not_record">"アクセス許可が必要なアプリが見つかりませんでした"</string>
@@ -573,7 +579,6 @@
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">"支払いのセキュリティチェックを停止しますか？"</string>
   <string name="dialog_msg_stop_virus_scan">"Stop virus scan before it's finished?"</string>
-  <string name="dialog_roaming_apps_sorted_title">"並べ替え"</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">"海外ローミング"</string>
   <string name="dialog_title_attention">"注意"</string>
@@ -721,8 +726,6 @@
   <string name="hints_handle_item_text_safe">"安全"</string>
   <string name="hints_handle_item_text_virus">"ウイルス: %d"</string>
   <string name="hints_input_roaming_daily_limit">"データ使用量の制限を入力"</string>
-  <string name="hints_install_apps_new">Never used</string>
-  <string name="hints_install_apps_today">Used today</string>
   <string name="hints_last_virus_scan_none">Never scanned before</string>
   <string name="hints_last_virus_scan_risk">Scanned %d days before: Suspicious</string>
   <string name="hints_last_virus_scan_safe">Scanned %d days before: Safe</string>
@@ -1312,6 +1315,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_specified_adjust">Set custom data limit</string>
   <string name="pref_specified_traffic_settings">Data limit settings</string>
   <string name="pref_summary_lock_screen_memory_clean">Clean automatically when device is locked</string>
+  <string name="pref_summary_upload_data_usage">Report your data usage stats to help us improve MIUI. Reporting is carried out in accordance with our Privacy Policy.</string>
   <string name="pref_summary_virus_white_list">Prevent selected apps from being cleaned up</string>
   <string name="pref_title_declaration">"重要な免責条項"</string>
   <string name="pref_title_diagnostics_show_float_notification">"フローティング通知"</string>
@@ -1322,6 +1326,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_traffic_limit_number">Size</string>
   <string name="pref_title_traffic_speed_state">"ネットワーク速度を表示"</string>
   <string name="pref_title_update_notification">"データ使用の通知"</string>
+  <string name="pref_title_upload_data_usage">Report data usage stats</string>
   <string name="pref_title_virus_white_list">"例外"</string>
   <string name="pref_traffic_manage_title">"データ使用量"</string>
   <string name="pref_whitelist_setting">"データローミングの例外"</string>
@@ -1608,8 +1613,6 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_other_setting_group">"その他の設定"</string>
   <string name="st_settings_name">"ブロックリストの設定"</string>
   <string name="st_show_block_notification">"ブロックされたアイテムについて通知する"</string>
-  <string name="st_show_num_keyword">" keywords"</string>
-  <string name="st_show_num_number">" numbers"</string>
   <string name="st_sms_group">"メッセージ"</string>
   <string name="st_sub_title_customize_mode_name">"名前"</string>
   <string name="st_sub_title_whiteblack_list_group">"ブロックリスト"</string>
