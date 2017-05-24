@@ -58,7 +58,7 @@
   <string name="didi_close">閉じる</string>
   <string name="do_not_remind_me">次回から表示しない</string>
   <string name="dont_enable">オフにする</string>
-  <string name="download_completed">Download saved to %s</string>
+  <string name="download_completed">%sにダウンロードを保存しました</string>
   <string name="download_failed">ダウンロードに失敗しました</string>
   <string name="download_failed_blocked">ネットワークに接続できません</string>
   <string name="download_failed_cannot_resume">ダウンロードできません</string>
@@ -311,7 +311,7 @@
   <string name="miuishare_account_need_activate">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Activaye your Mi Account to continue.</string>
   <string name="miuishare_account_need_login">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Sign in to your Mi Account to continue.</string>
   <string name="miuishare_app_name">MIUI Share</string>
-  <string name="miuishare_no_network">"Couldn't connect to the network."</string>
+  <string name="miuishare_no_network">ネットワークに接続できませんでした。</string>
   <string name="miuishare_publish">送信</string>
   <string name="miuishare_qzone_title">Qzone</string>
   <string name="miuishare_share_done">共有が完了しました</string>

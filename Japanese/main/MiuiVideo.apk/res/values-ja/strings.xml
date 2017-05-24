@@ -150,11 +150,11 @@
   <string name="edit_comment">"コメントを追加"</string>
   <string name="empty_data">"エラーが発生しました"</string>
   <string name="empty_keyword_hint">"ボックスにキーワードを入力して検索"</string>
-  <string name="empty_tv_exiting">Exiting…</string>
+  <string name="empty_tv_exiting">"終了しています…"</string>
   <string name="enter_detail">"詳細情報"</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
-  <string name="error_empty_epg">No EPG Information</string>
+  <string name="error_empty_epg">"EPG情報はありません"</string>
   <string name="error_empty_filter_title">"何も見つかりませんでした"</string>
   <string name="error_empty_live_favor">No Collection of TV Channels</string>
   <string name="error_empty_title">"エラーが発生しました。"</string>
@@ -203,7 +203,7 @@
   <string name="loading_video_netplay_label_v5">"読み込み中…"</string>
   <string name="local_favorite_empty_title">Empty</string>
   <string name="local_media_empty_sub_title">"動画をダウンロードしてオフラインで視聴"</string>
-  <string name="local_media_empty_title">No videos</string>
+  <string name="local_media_empty_title">"動画はありません"</string>
   <string name="local_video">Local Video</string>
   <string name="login_tip_content">Sign in with your Mi Account to sync and update shows that you are currently following.</string>
   <string name="login_tip_title">"ログイン"</string>

@@ -77,9 +77,9 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">"設定完了"</string>
   <string name="confirm_activate_email">Verified</string>
-  <string name="confirm_delete_app_message">"After deleting this app, you'll have to verify your phone number next time you sign in to your Mi Account in it."</string>
-  <string name="confirm_delete_browser_message">"After deleting this browser, you'll have to verify your phone number next time you sign in to your Mi Account in it."</string>
-  <string name="confirm_delete_device_message">"After deleting this device, you'll have to verify your phone number next time you sign in to your Mi Account on it."</string>
+  <string name="confirm_delete_app_message">"このアプリを削除した後、次に自分のMiアカウントにログインするときには、電話番号を確認する必要があります。"</string>
+  <string name="confirm_delete_browser_message">"このブラウザを削除した後、次に自分のMiアカウントにログインするときには、電話番号を確認する必要があります。"</string>
+  <string name="confirm_delete_device_message">"この端末を削除した後、次に自分のMiアカウントにログインするときには、電話番号を確認する必要があります。"</string>
   <string name="confirm_phone_number_dialog_message">Verification code will be sent to: %s.</string>
   <string name="confirm_phone_number_dialog_title">"電話番号の確認"</string>
   <string name="confirm_unbind">"このアカウントを切断しますか？"</string>

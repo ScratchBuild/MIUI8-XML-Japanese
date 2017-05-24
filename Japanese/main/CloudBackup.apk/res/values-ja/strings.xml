@@ -27,7 +27,7 @@
   <string name="cancel_recover_settings">&lt;u&gt;キャンセル&lt;/u&gt;</string>
   <string name="click_try_to_restore_again">"タップして再試行"</string>
   <string name="cloud_app_backup_success">"アプリのバックアップが完了しました"</string>
-  <string name="cloud_app_check_data">Talking to Mi Cloud…</string>
+  <string name="cloud_app_check_data">"Mi Cloudに接続中…"</string>
   <string name="cloud_app_current_device">"現在のデバイス"</string>
   <string name="cloud_app_dont_restore">Set up as new device</string>
   <string name="cloud_app_no_data">バックアップなし</string>
@@ -46,10 +46,10 @@
 *\u0009\u0009\u0009\u0009MIUIとシステム設定 
 注意: インストールしたアプリのデータはMi Cloudにバックアップされません。"</string>
   <string name="cloud_back_up_frequence_choice_title">"バックアップのスケジュール"</string>
-  <string name="cloud_back_up_frequence_long">Every 7 days</string>
-  <string name="cloud_back_up_frequence_short">Every day</string>
-  <string name="cloud_back_up_interval_long">7 days</string>
-  <string name="cloud_back_up_interval_short">day</string>
+  <string name="cloud_back_up_frequence_long">7日毎</string>
+  <string name="cloud_back_up_frequence_short">毎日</string>
+  <string name="cloud_back_up_interval_long">7日</string>
+  <string name="cloud_back_up_interval_short">日</string>
   <string name="cloud_back_up_no_network_warn">Wi-Fiに接続できません</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">読み込み中…</string>
@@ -89,7 +89,7 @@
   <string name="latest_backup_time_loading">読み込み中…</string>
   <string name="managespace_delete_backup">バックアップを削除</string>
   <string name="managespace_total_space">Total space: %s</string>
-  <string name="menu_item_managespace">Manage space</string>
+  <string name="menu_item_managespace">spaceの管理</string>
   <string name="menu_item_sort">"並べ替え"</string>
   <string name="menu_item_sort_name">名前順</string>
   <string name="menu_item_sort_size">サイズ順</string>
@@ -116,7 +116,7 @@
   <string name="restore_task_unfinished">"アプリを復元中、後ほど再試行してください"</string>
   <string name="restoreing_file_tile">%d個のファイルを復元中</string>
   <string name="retry">再試行</string>
-  <string name="self_phone">This phone</string>
+  <string name="self_phone">"この端末"</string>
   <string name="settings_backup">システム設定</string>
   <string name="start_backup_to_micloud">"Mi Cloudへアプリをバックアップ"</string>
   <string name="start_recover">Restore %s</string>

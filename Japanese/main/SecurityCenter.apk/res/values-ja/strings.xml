@@ -100,10 +100,10 @@
   <string name="antispam_notification_setting_title">"通知"</string>
   <string name="antispam_xpace_text">Switch to First space to set Blocklist</string>
   <string name="antivirus_choose_engine_dialog_title">"定義を選択"</string>
-  <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
+  <string name="antivirus_choose_engine_disable_toast">"スキャンの実行中に定義を切り替えることはできません"</string>
   <string name="antivirus_choose_engine_settings">"ウイルス定義の設定"</string>
   <string name="antivirus_choose_engine_title">Definitions</string>
-  <string name="antivirus_choose_engine_update_disable_toast">"Can't switch definitions while update is in progress"</string>
+  <string name="antivirus_choose_engine_update_disable_toast">"更新の実行中に定義を切り替えることはできません"</string>
   <string name="antivirus_monitor_btn_text_clean_risk">"危険なアプリを削除"</string>
   <string name="antivirus_monitor_btn_text_clean_virus">"ウイルスを削除"</string>
   <string name="antivirus_monitor_clean_tips">"削除したアイテム: %s"</string>
@@ -114,7 +114,7 @@
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_none_engine_dialog_title">"定義を選択"</string>
   <string name="antivirus_privacy_dialog_cloudscan">"アプリ名と詳細をアップロード"</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Upload and scan app names and details using online virus definitions.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">"オンラインのウイルス定義を使用して、アプリ名と詳細をアップロードしてスキャンします。"</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">"This feature encrypts and uploads your device's ID to Avast, AVL and Tencent's servers (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">"プライバシーポリシーを表示"</string>
@@ -444,7 +444,7 @@
   <string name="card_main_applock_summary">Protect private items with App lock</string>
   <string name="card_main_applock_title">"アプリロック"</string>
   <string name="card_main_datasave_action">"オンにする"</string>
-  <string name="card_main_datasave_summary">Compress data to save up to 20%</string>
+  <string name="card_main_datasave_summary">"データを圧縮して最大20%節約"</string>
   <string name="card_main_datasave_title">Data saver</string>
   <string name="card_main_deepclean_action">"消去"</string>
   <string name="card_main_deepclean_summary">"不要なファイルを削除する"</string>
