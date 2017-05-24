@@ -238,6 +238,8 @@
   <string name="insert_event_dialog_title">"確認"</string>
   <string name="insert_event_toast_add_failed">"予定を追加できません"</string>
   <string name="insert_event_toast_add_success">"予定を作成しました"</string>
+  <string name="install_weather_app_error">"アプリの読み込みに失敗しました。"</string>
+  <string name="install_weather_app_loading">"読み込み中…"</string>
   <string name="item_num_selected">%1$d selected</string>
   <string name="joke_card_click_toast">"ジョークをコピーするには長押し"</string>
   <string name="joke_card_icon_text">%1$s 人笑过</string>
@@ -282,6 +284,7 @@
   <string name="menu_preferences">"設定"</string>
   <string name="menu_reminder_preferences">"通知の設定"</string>
   <string name="missing_name">(No name)</string>
+  <string name="missing_required_permission">"必要なアクセス許可を無効にしました。"</string>
   <string name="modify_all">"一連の定期的な予定すべてを変更する"</string>
   <string name="modify_all_following">"これ以降の予定すべてを変更する"</string>
   <string name="modify_event">"この予定のみを変更する"</string>
@@ -481,7 +484,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="weekly">"毎週 %s"</string>
   <string name="when_label">"日時"</string>
   <string name="widget_events">"次の予定"</string>
-  <string name="widget_get_weather_info">"天気情報を取得 &gt;"</string>
+  <string name="widget_get_weather_info">"天気情報を取得"</string>
   <string name="widget_no_events">"予定なし"</string>
   <string name="widget_select_style">"スタイルを選択"</string>
   <string name="wuxing">五行</string>

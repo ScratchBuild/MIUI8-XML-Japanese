@@ -185,7 +185,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_force_sync">今すぐ同期</string>
   <string name="micloud_detail_lastest">"同期済み"</string>
   <string name="micloud_detail_lastest_with_off">"同期済み"</string>
-  <string name="micloud_detail_need_charge">同期するには充電が必要</string>
+  <string name="micloud_detail_need_charge_or_sleep">"同期を再開するには、充電器に接続して画面をオフにする"</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
   <string name="micloud_detail_not_synced">"未同期"</string>
   <string name="micloud_detail_ok">OK</string>

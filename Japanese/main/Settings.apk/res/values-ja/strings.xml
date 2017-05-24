@@ -1642,12 +1642,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="key_position_cat">ボタンの配置</string>
   <string name="key_settings">ボタン</string>
   <string name="key_settings_title">ボタン</string>
-  <string name="keyboard_and_input_methods_category">キーボードと入力方法</string>
+  <string name="keyboard_and_input_methods_category">キーボード</string>
   <string name="keyboard_layout_dialog_setup_button">キーボードレイアウトの設定</string>
   <string name="keyboard_layout_dialog_switch_hint">切り替えるにはCtrl+スペースを押します</string>
   <string name="keyboard_layout_dialog_title">キーボードレイアウトの選択</string>
   <string name="keyboard_layout_picker_title">キーボードレイアウト</string>
-  <string name="keyboard_settings_category">キーボードと入力方法</string>
+  <string name="keyboard_settings_category">入力方法</string>
   <string name="keyboard_settings_title">Androidキーボード</string>
   <string name="keyguard_advance_setting_title">高度な設定</string>
   <string name="keyguard_left_function_chooser_hint_text">左側のショートカットは%sに変更しました</string>

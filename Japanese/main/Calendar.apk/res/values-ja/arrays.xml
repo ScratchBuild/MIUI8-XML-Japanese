@@ -310,4 +310,13 @@
         <item>Forwards</item>
         <item>Backwards</item>
     </string-array>
+    <string-array name="week_header_name">
+        <item>SUN</item>
+        <item>MON</item>
+        <item>TUE</item>
+        <item>WED</item>
+        <item>THU</item>
+        <item>FRI</item>
+        <item>SAT</item>
+    </string-array>
 </resources>
