@@ -21,6 +21,7 @@
   <string name="activity_weathermain_locationg">"現在地を取得中…"</string>
   <string name="activity_weathermain_locationg_error">"現在地を取得できません"</string>
   <string name="add_city">"追加"</string>
+  <string name="alert_detail_title">"アラートの詳細"</string>
   <string name="alert_warning">"警告アラート"</string>
   <string name="already_voted">"投票済み"</string>
   <string name="already_voted_toast">"今日の天気は既に選択済みです"</string>
@@ -61,6 +62,7 @@
   <string name="button_sure_abandon">"変更を破棄しますか？"</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
+  <string name="city_exceeded_warning">You can add up to 10 cities</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">"読み込み中..."</string>
   <string name="connect_fail">"ネットワークに接続できません、後でもう一度お試しください。"</string>

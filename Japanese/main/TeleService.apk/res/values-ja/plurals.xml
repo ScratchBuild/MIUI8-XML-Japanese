@@ -16,4 +16,8 @@
         <item quantity="other">"選択したアクションは、緊急コールバックモードの間は利用できません。携帯電話は、%s分間このモードになります。今すぐ終了しますか？"</item>
         <item quantity="one">"選択したアクションは、緊急コールバックモードの間は利用できません。携帯電話は、%s分間このモードになります。今すぐ終了しますか？"</item>
     </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">You can add up to %s people, select again.</item>
+        <item quantity="one">You can add up to %s person, select again.</item>
+    </plurals>
 </resources>

@@ -258,9 +258,13 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Accessed %d times</item>
         <item quantity="one">Accessed %d time</item>
     </plurals>
-    <plurals name="app_manager_permission_manager_summary">
-        <item quantity="other">Gave %d permissions</item>
-        <item quantity="one">Gave %d permission</item>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Allowed %d permissions</item>
+        <item quantity="one">Allowed %d permission</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Ask for %d permissions</item>
+        <item quantity="one">Ask for %d permission</item>
     </plurals>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d回</item>

@@ -250,6 +250,7 @@
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">近くのネットワークを選択してください</string>
   <string name="recent_task_app_info_text">情報</string>
+  <string name="recent_task_cleaning">Cleaning, please wait a little time</string>
   <string name="recent_task_lock_text">ロック</string>
   <string name="recent_task_unlock_text">アンロック</string>
   <string name="reject_call">"着信を拒否"</string>

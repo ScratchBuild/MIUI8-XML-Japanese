@@ -184,6 +184,11 @@
   <string name="app_manager_permission_send_mms_over">"SMSの送信を 100000+ 回行いました"</string>
   <string name="app_manager_permission_startself_summary">"自動的に起動してメモリを占有し、バッテリーをより早く消費するアプリ"</string>
   <string name="app_manager_permission_startself_title">"自動起動"</string>
+  <string name="app_manager_permission_summary_reject">"すべて制限"</string>
+  <string name="app_manager_powerkeeper_miui_auto">MIUI Battery saver</string>
+  <string name="app_manager_powerkeeper_no_bg">"バックグラウンドアクティビティを制限"</string>
+  <string name="app_manager_powerkeeper_no_restrict">"制限しない"</string>
+  <string name="app_manager_powerkeeper_restrict_bg">"バックグラウンドアプリを制限"</string>
   <string name="app_manager_rebide_wakepath">"制限"</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimize chain start</string>
   <string name="app_manager_reduce_wakepath_summary">Restricting autostart will minimize chain start. Restrict autostart for %s?</string>
@@ -863,6 +868,13 @@
   <string name="loding">"データを読み込み中"</string>
   <string name="long_click_dialog_summary">Hold the results in the list to add them to exceptions</string>
   <string name="long_click_dialog_title">"注意"</string>
+  <string name="low_memory_clean_dialog_msg">Clear at least 100MB files first</string>
+  <string name="low_memory_clean_dialog_ok_button">OK</string>
+  <string name="low_memory_clean_dialog_title">"空き領域が不足しています"</string>
+  <string name="low_memory_warning_dialog_cancel_button">"キャンセル"</string>
+  <string name="low_memory_warning_dialog_msg">"続行するには端末の空き領域を確保してください"</string>
+  <string name="low_memory_warning_dialog_ok_button">"消去"</string>
+  <string name="low_memory_warning_dialog_title">"十分な空き領域がありません"</string>
   <string name="main_activity_content_summary_root">Root access</string>
   <string name="main_activity_content_summary_update">"システムの更新"</string>
   <string name="main_activity_content_title_scanning">"スキャン中…"</string>
