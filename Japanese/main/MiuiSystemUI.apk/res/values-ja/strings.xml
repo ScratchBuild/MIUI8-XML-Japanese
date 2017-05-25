@@ -106,7 +106,7 @@
   <string name="bluetooth_pan_profile_summary_use_for">インターネットアクセスに使用する</string>
   <string name="bluetooth_pan_user_profile_summary_connected">インターネットアクセス用に接続</string>
   <string name="bluetooth_profile_a2dp">メディアの音声</string>
-  <string name="bluetooth_profile_dun">Dial-up Network Access</string>
+  <string name="bluetooth_profile_dun">Used for accessing dial-up networks</string>
   <string name="bluetooth_profile_headset">電話の音声</string>
   <string name="bluetooth_profile_hid">入力デバイス</string>
   <string name="bluetooth_profile_map">メッセージへのアクセス</string>
