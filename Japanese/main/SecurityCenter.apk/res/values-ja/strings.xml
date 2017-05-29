@@ -506,7 +506,7 @@
   <string name="cmcc_app_check_dialog_negative">"後で"</string>
   <string name="cmcc_app_check_dialog_positive">"今すぐ再起動"</string>
   <string name="cmcc_app_check_dialog_title">"システムを修復済み"</string>
-  <string name="confirmSecondSpacePassword">Confirm Second space password</string>
+  <string name="confirmSecondSpacePassword">"Second spaceのパスワードを確認"</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Adding Mi Account</string>
   <string name="confirm_fingerprint_msg">"指をセンサーに当ててください"</string>
   <string name="confirm_reject_all_permission">"この機能を使用するすべてのアプリを制限しますか？"</string>
@@ -515,8 +515,8 @@
   <string name="connect_internet_by_wifi">"Wi-Fi"</string>
   <string name="connecting">"接続中…"</string>
   <string name="continue_install">"インストール"</string>
-  <string name="convenient_mode">Unlock all apps at once</string>
-  <string name="convenient_summary">Enter password once to unlock all apps</string>
+  <string name="convenient_mode">"すべてのアプリを一度にロック解除"</string>
+  <string name="convenient_summary">"パスワードを1回入力してすべてのアプリをロック解除する"</string>
   <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">"キャンセル"</string>

@@ -104,9 +104,9 @@
   <string name="auto_upload_disable_toast_long_press_menu">"Mi Cloudとの同期はオフです。"</string>
   <string name="auto_upload_enable_toast_long_press_menu">"Mi Cloudとの同期はオンです。"</string>
   <string name="baby_album">"赤ちゃんのアルバム"</string>
-  <string name="baby_album_change_background">Change background photo</string>
+  <string name="baby_album_change_background">"背景の写真を変更"</string>
   <string name="baby_album_needs_auto_backup_tip">"Can't turn off automatic backup for Baby album"</string>
-  <string name="baby_album_new_photo_remind">There are new photos in your Baby album.</string>
+  <string name="baby_album_new_photo_remind">"赤ちゃんのアルバムに新しい写真があります。"</string>
   <string name="baby_album_setting_title">"赤ちゃんの情報"</string>
   <string name="baby_album_sharer_accept_dialog_msg">"Dear %1$s's %2$s,
 %3$s's %4$s shared %5$s's album with you"</string>
@@ -177,9 +177,9 @@
   <string name="by_others">"その他"</string>
   <string name="by_sms">"SMS"</string>
   <string name="camera_360_description">Powered by Camera360</string>
-  <string name="camera_needs_auto_backup_tip">Camera album must be backed up</string>
+  <string name="camera_needs_auto_backup_tip">"カメラのアルバムはバックアップが必要です"</string>
   <string name="cancel">"キャンセル"</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Switch to default Lock screen wallpaper?</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">"ロック画面の壁紙をデフォルトに切り替えますか？"</string>
   <string name="cancel_hint">"操作がキャンセルされました"</string>
   <string name="cannot_remove_creator">"作成者を削除できません"</string>
   <string name="cannot_send_message">"メッセージを送信できません"</string>
@@ -191,7 +191,7 @@
   <string name="choose_owner_relation">Relationship</string>
   <string name="choose_people">"Choose a person's album"</string>
   <string name="choose_some_people">Choose album with %s</string>
-  <string name="clear_local_photo_direction">If you delete photos or videos from your device, they will still be available in Mi Cloud</string>
+  <string name="clear_local_photo_direction">"もし写真や動画を端末から削除した場合でも、それらはMi Cloud上で参照することができます"</string>
   <string name="click_download_gif">"GIFをダウンロードするにはタップ"</string>
   <string name="click_top_right">Tap this icon</string>
   <string name="cloud_camera_display_name">Camera photos</string>

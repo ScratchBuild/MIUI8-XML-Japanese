@@ -148,7 +148,6 @@
   <string name="allow_mock_location">擬似ロケーションを許可</string>
   <string name="allow_mock_location_summary">擬似ロケーションを許可する</string>
   <string name="allow_overlay_description">この権限により、アプリは使用中の他のアプリの上に重ねて表示できるようになります。これにより、他のアプリのインターフェースを使用する際に邪魔になったり、他のアプリに表示されていると思われるものが変更されたりする場合があります。</string>
-  <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">このアプリによるウィジェットの作成とデータへのアクセスを許可しました。</string>
   <string name="always_running">"常に実行（%s）"</string>
   <string name="amber_alerts_summary">児童誘拐についての速報を受信する</string>
@@ -1075,7 +1074,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="details_title">使用状況の詳細</string>
   <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりする恐れがあります。</string>
   <string name="dev_settings_warning_title">開発用の設定を許可しますか？</string>
-  <string name="developer_build">" | Beta"</string>
   <string name="development_enable">開発者向けオプション</string>
   <string name="development_settings_not_available">デベロッパー向けオプションはこのユーザーには表示されません</string>
   <string name="development_settings_summary">アプリ開発オプションを設定する</string>
@@ -2550,7 +2548,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_add_account_setting">アカウントとプライバシー</string>
   <string name="privacy_password_bind_account">Mi Accountを追加</string>
   <string name="privacy_password_bind_account_immediate">追加</string>
-  <string name="privacy_password_confirm_SecondSpace_Password">Confirm Second space password</string>
+  <string name="privacy_password_confirm_SecondSpace_Password">Second spaceのパスワードを確認</string>
   <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
   <string name="privacy_password_enter_privacy">プライバシー保護パスワードを入力</string>
   <string name="privacy_password_exit_account_info">ログアウトするとアカウントが自動的に削除されます</string>
@@ -3376,7 +3374,6 @@ PINが正しくない可能性があります。"</string>
   <string name="ssl_ca_cert_warning_message">"第三者があなたのネットワークアクティビティ（メール、アプリ、保護されたウェブサイトなど）を監視できます。
 
 これは、信頼できる認証情報が端末にインストールされているためです。"</string>
-  <string name="stable_build">" | Stable"</string>
   <string name="starting_android">Androidを起動しています</string>
   <string name="status_awaiting_tap">書き込むにはタグをタップしてください...</string>
   <string name="status_awake_time">端末使用時間</string>
