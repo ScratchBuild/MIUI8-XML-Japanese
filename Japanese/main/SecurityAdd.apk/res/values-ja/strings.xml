@@ -23,6 +23,15 @@
   <string name="dont_bore_text">Silence notifications and turn off buttons to remove distractions</string>
   <string name="dont_bore_title">"夜間モード"</string>
   <string name="empty">" "</string>
+  <string name="fastboot_locked_answer_1">"FastbootはMiデバイスをフラッシュする伝統的な方法です。端末がFastbootモードになると、端末に保存されているすべてのデータにアクセスして直接消去することができます。Fastbootをロックしておくことで、端末を紛失した場合でもデータが安全に保たれるようにし、Find Device機能の信頼性を保証します。"</string>
+  <string name="fastboot_locked_answer_2">"端末を紛失した場合、Fastbootは端末に保存されているアイテムのセキュリティを保証します。Fastbootのロックを解除した場合、端末をリモートからロックしたり、Find Deviceを使用してデータを消去することができなくなります。そのため、Fastbootのロックを解除することはお勧めしません。"</string>
+  <string name="fastboot_locked_answer_3">"MIUIのwebサイトからアンロックツールを使用する必要があります。端末のロックを解除するには、その端末があなたのものであることを確認する必要があります。そのため、あらかじめMiアカウントでログインしてFind Deviceをオンにする必要があります。"</string>
+  <string name="fastboot_locked_question_1">"なぜFastbootはロックされていますか？"</string>
+  <string name="fastboot_locked_question_2">"Fastbootのロックを解除することでどんなリスクがありますか？"</string>
+  <string name="fastboot_locked_question_3">"私はリスクについて理解しているが、端末のロックを解除する必要があります。何を行えばよいですか？"</string>
+  <string name="fastboot_status_locked_info">"この端末のFastbootはロックされています"</string>
+  <string name="fastboot_status_locked_summary">"rootアクセスを取得できません"</string>
+  <string name="fastboot_unlock_web_title">"MIUIの公式サイトからアンロックツールを入手してください。"</string>
   <string name="function_close">Off</string>
   <string name="game_booster">Game speed booster</string>
   <string name="game_booster_intro">"Game speed boosterについて"</string>

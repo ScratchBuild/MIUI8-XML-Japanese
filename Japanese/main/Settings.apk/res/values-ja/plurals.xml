@@ -81,9 +81,29 @@
         <item quantity="other">"過去%2$sに%1$d個のアプリがメモリを使用しました"</item>
         <item quantity="one">"過去%2$sに1個のアプリがメモリを使用しました"</item>
     </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d risks found</item>
+        <item quantity="one">%d risk found</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d apps are allowed to autostart</item>
+        <item quantity="one">%d app are allowed to autostart</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN must be %d digits</item>
+        <item quantity="one">PIN must be %d digit</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">Shared %d networks</item>
+        <item quantity="one">Shared %d network</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d devices</item>
         <item quantity="one">%d device</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d people connected</item>
+        <item quantity="one">%1$d people connected</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"You're %1$d steps away from entering phone info."</item>

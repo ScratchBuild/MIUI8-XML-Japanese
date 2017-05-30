@@ -217,7 +217,6 @@ http://zhushou.xiaomi.com"</string>
   <string name="submit_progress">"送信中…"</string>
   <string name="submit_success">"送信しました"</string>
   <string name="test">Test</string>
-  <string name="timer_title">"端末は%d秒後に再起動します。"</string>
   <string name="title_toast_auto">"更新は自動的にダウンロードされます"</string>
   <string name="toast_delay_update_tonight">"お使いの端末は午前2:00から5:00の間に更新されます"</string>
   <string name="top_secret_build">Top-secret</string>

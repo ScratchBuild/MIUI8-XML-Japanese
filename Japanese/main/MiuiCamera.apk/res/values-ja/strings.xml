@@ -229,11 +229,15 @@ and then create a shot where everyone looks best."</string>
   <string name="pref_camera_show_gender_age_entry_alias">"Beautifyがオンのときは年齢を表示する"</string>
   <string name="pref_camera_show_gender_age_entry_off">Off</string>
   <string name="pref_camera_show_gender_age_entry_on">"Beautifyがオンのときは年齢と性別を表示する"</string>
+  <string name="pref_camera_show_gender_age_label_alias">"年齢"</string>
+  <string name="pref_camera_show_gender_age_label_on">"年齢と性別"</string>
   <string name="pref_camera_show_gender_age_title">"年齢と性別"</string>
   <string name="pref_camera_snap_enable_title">"クイック撮影モード"</string>
   <string name="pref_camera_snap_entry_off">Off</string>
   <string name="pref_camera_snap_entry_take_movie">"クイック撮影モード (動画)"</string>
   <string name="pref_camera_snap_entry_take_picture">"クイック撮影モード (写真)"</string>
+  <string name="pref_camera_snap_label_take_movie">"動画"</string>
+  <string name="pref_camera_snap_label_take_picture">"写真"</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"\"音量ボタンで復帰\"が有効な間、クイック撮影モードは使用できません。"</string>
   <string name="pref_camera_sound_title">"シャッター音"</string>
   <string name="pref_camera_square_mode_title">Square</string>
@@ -272,6 +276,7 @@ and then create a shot where everyone looks best."</string>
   <string name="pref_front_mirror_entry_auto">When face is detected</string>
   <string name="pref_front_mirror_entry_off">Off</string>
   <string name="pref_front_mirror_entry_on">On</string>
+  <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
   <string name="pref_groupshot_with_primitive_title">Save original photos as well in Group selfies mode</string>
   <string name="pref_manual_exposure_title">"露光時間"</string>

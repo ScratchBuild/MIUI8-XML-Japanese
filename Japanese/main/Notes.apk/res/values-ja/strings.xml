@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_folder_description">"フォルダを表示"</string>
+  <string name="action_mode_switcher_grid_description">"グリッド表示"</string>
+  <string name="action_mode_switcher_list_description">"リスト表示"</string>
+  <string name="action_settings_description">"設定を開く"</string>
   <string name="add_account_desc">"Mi Accountを使用してノートを同期しますか？"</string>
   <string name="alarm_bar_title">"リマインダー"</string>
   <string name="alert_action_edit_anyway">"編集を続ける"</string>
@@ -16,6 +20,7 @@
   <string name="app_name">"ノート"</string>
   <string name="app_widget">"ノート"</string>
   <string name="call_folder_name">"通話ノート"</string>
+  <string name="cancel_alarm_description">"リマインダーをキャンセル"</string>
   <string name="cloud_trash_bin_title">"Mi Cloudのノートを削除"</string>
   <string name="cta_reminder">This app needs to connect to the internet to back up notes to Mi Cloud, as well as read your contacts to label the notes you take during calls.</string>
   <string name="delete_folder_dialog_tile">"フォルダを削除"</string>
@@ -39,6 +44,8 @@
   <string name="dlg_title_use_privacy_password">"プライバシー保護パスワードを使用"</string>
   <string name="dlg_unhide_message">Unhiding…</string>
   <string name="done">"完了"</string>
+  <string name="edit_header_done_description">"完了"</string>
+  <string name="edit_header_home_description">"戻る"</string>
   <string name="enable_sync">"同期"</string>
   <string name="enable_sync_desc">"Mi Account(%1$s)を使用してノートを同期しますか？"</string>
   <string name="error_contact_not_exist">"連絡先が存在しません"</string>
@@ -62,7 +69,9 @@
   <string name="info_note_enter_desktop">"ホーム画面に追加しました"</string>
   <string name="loading_text">"読み込み中…"</string>
   <string name="login_sync">"ログインと同期"</string>
+  <string name="menu_add_description">"ノートを追加"</string>
   <string name="menu_add_folder">"フォルダに追加"</string>
+  <string name="menu_add_folder_description">"フォルダを追加"</string>
   <string name="menu_create_folder">"フォルダを作成"</string>
   <string name="menu_delete">"削除"</string>
   <string name="menu_delete_forever">"完全に削除"</string>
@@ -114,6 +123,7 @@
   <string name="search_path_notes">"システムアプリ/ノート"</string>
   <string name="search_setting_description">"ノート内のテキストを検索"</string>
   <string name="select_account_prompt">"ノートを同期"</string>
+  <string name="set_alarm_description">"リマインダーを設定"</string>
   <string name="sina_share_fail">"送信に失敗しました"</string>
   <string name="sina_share_fail_content_repeat">"共有に失敗しました。既にコンテンツが存在します…"</string>
   <string name="sina_share_pendding">"送信中…"</string>
@@ -137,6 +147,9 @@
   <string name="sns_toast_empty">"空のメッセージを送信することはできません"</string>
   <string name="sns_toast_over_limit">"画像として送信"</string>
   <string name="sync_tips">"Mi Cloudとメモを同期するにはタップします。"</string>
+  <string name="theme_blue_description">Blue</string>
+  <string name="theme_green_description">Green</string>
+  <string name="theme_red_description">Red</string>
   <string name="theme_title_antique">Autumn</string>
   <string name="theme_title_arty">Floral</string>
   <string name="theme_title_blue">Blue</string>
@@ -147,6 +160,8 @@
   <string name="theme_title_red">Red</string>
   <string name="theme_title_star">Stars</string>
   <string name="theme_title_yellow">Yellow</string>
+  <string name="theme_white_description">White</string>
+  <string name="theme_yellow_description">Yellow</string>
   <string name="toast_message_add_image_fail">"画像を追加できません"</string>
   <string name="toast_notes_delete_success">"正常に削除されました"</string>
   <string name="toast_notes_hidden">Hidden successfully</string>
@@ -155,6 +170,14 @@
   <string name="toast_notes_unhidden_count">Unhid %1$s successfully</string>
   <string name="toast_reach_text_limit_attachment">"ノートが長すぎるため、新しい添付ファイルを追加できません"</string>
   <string name="toast_reach_text_limit_truncate">"このノートは長すぎます。いくつかのテキストは最後が切り取られています。"</string>
+  <string name="toolbar_check_description">"チェックボックスを追加"</string>
+  <string name="toolbar_delete_description">"ノートを削除"</string>
+  <string name="toolbar_gallery_description">"画像を追加"</string>
+  <string name="toolbar_more_description">"その他"</string>
+  <string name="toolbar_redo_description">"やり直し"</string>
+  <string name="toolbar_share_description">"ノートを共有"</string>
+  <string name="toolbar_theme_description">"テーマを選択"</string>
+  <string name="toolbar_undo_description">"元に戻す"</string>
   <string name="trash_folder_name">"ゴミ箱"</string>
   <string name="trash_folder_reminder">"削除したノートは30日後にゴミ箱から完全に削除されます。"</string>
   <string name="undo">"元に戻す"</string>

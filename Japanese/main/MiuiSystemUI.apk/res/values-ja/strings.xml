@@ -207,10 +207,10 @@
   <string name="nav_guide_ok">設定する</string>
   <string name="nav_guide_title">ソフトボタンの非表示</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="no_multi_window_app">画面分割モードで動作するアプリはありません</string>
+  <string name="no_multi_window_app">画面分割をサポートするアプリはありません</string>
   <string name="no_notification_tips">通知はありません。</string>
   <string name="no_weather_description">天気情報を取得する ></string>
-  <string name="not_support_multi_window">現在のアプリは画面分割モードをサポートしていません</string>
+  <string name="not_support_multi_window">現在のアプリは画面分割をサポートしていません</string>
   <string name="notification_header_title">通知</string>
   <string name="notification_hidden_text">コンテンツが非表示</string>
   <string name="notification_low_battery_action_btn">オンにする</string>
@@ -250,7 +250,7 @@
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">近くのネットワークを選択してください</string>
   <string name="recent_task_app_info_text">情報</string>
-  <string name="recent_task_cleaning">Cleaning, please wait a little time</string>
+  <string name="recent_task_cleaning">Clearing apps…</string>
   <string name="recent_task_lock_text">ロック</string>
   <string name="recent_task_unlock_text">アンロック</string>
   <string name="reject_call">"着信を拒否"</string>

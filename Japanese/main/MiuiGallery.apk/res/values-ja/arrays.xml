@@ -12,6 +12,14 @@
         <item>"母方の祖父"</item>
         <item>"母方の祖母"</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>"父親"</item>
+        <item>"母親"</item>
+        <item>"父方の祖父"</item>
+        <item>"父方の祖母"</item>
+        <item>"母方の祖父"</item>
+        <item>"母方の祖母"</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>"わたし"</item>
         <item>"子ども"</item>

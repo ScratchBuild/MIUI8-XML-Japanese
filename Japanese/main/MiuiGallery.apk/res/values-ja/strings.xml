@@ -40,7 +40,8 @@
   <string name="adjust_saturation">"彩度"</string>
   <string name="adjust_sharpen">Sharpen</string>
   <string name="adjust_vignette">Vignette</string>
-  <string name="album_already_exists">"同じ名前のアルバムが既に存在します"</string>
+  <string name="album_already_exists_check">"表示"</string>
+  <string name="album_already_exists_msg">"アルバム \"%s\" は既に存在します"</string>
   <string name="album_already_forced_top">Already on top</string>
   <string name="album_camera_name">"カメラ"</string>
   <string name="album_detail_clear_local_page_empty">No backed up photos or videos to delete</string>
@@ -564,7 +565,6 @@ Take more photos of your friends!"</string>
   <string name="picker_full_format">You can select up to %d photos</string>
   <string name="picker_image_need_download">"%d of the selected photos aren't on device. Download using mobile data?"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
-  <string name="picker_mobile_data_video">"Can't download videos using mobile data, skipped %d."</string>
   <string name="picker_no_network_message">Connect to the network to download</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
   <string name="picker_title_format">You can select %d photos</string>

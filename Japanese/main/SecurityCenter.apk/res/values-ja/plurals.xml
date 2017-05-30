@@ -74,7 +74,7 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">In %1$d minutes</item>
-        <item quantity="one">In %1$d min</item>
+        <item quantity="one">In %1$d minute</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
         <item quantity="other">Resolved %d battery issues</item>
@@ -113,6 +113,30 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="few">%1$d views</item>
         <item quantity="many">%1$d views</item>
     </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d回</item>
+        <item quantity="one">1回</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">%s payment risks</item>
+        <item quantity="one">%s payment risk</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s payment apps are protected</item>
+        <item quantity="one">%s payment app is protected</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s個のアプリは保護されています</item>
+        <item quantity="one">%s個のアプリは保護されています</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s個のアプリは保護されていません</item>
+        <item quantity="one">%s個のアプリは保護されていません</item>
+    </plurals>
+    <plurals name="scan_result_description">
+        <item quantity="other">scan result : %d payment risks found</item>
+        <item quantity="one">scan result : %d payment risk found</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d items secure</item>
         <item quantity="one">%1$d item secure</item>
@@ -145,9 +169,21 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">"%d apps don't have root access"</item>
         <item quantity="one">"%d app doesn't have root access"</item>
     </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d exceptions</item>
+        <item quantity="one">%d exception</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">"Haven't synced carrier's data usage stats in %d days"</item>
+        <item quantity="one">"Haven't synced carrier's data usage stats in %d day"</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Updates available for %d apps.</item>
         <item quantity="one">Update available for %d app.</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d days since last check-up</item>
+        <item quantity="one">%d day since last check-up</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d risks,</item>
@@ -193,26 +229,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d個のアプリが見つかりました</item>
         <item quantity="zero">アプリが見つかりませんでした</item>
         <item quantity="one">%d個のアプリが見つかりました</item>
-    </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d回</item>
-        <item quantity="one">1回</item>
-    </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s payment risks</item>
-        <item quantity="one">%s payment risk</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s payment apps are protected</item>
-        <item quantity="one">%s payment app is protected</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s個のアプリは保護されています</item>
-        <item quantity="one">%s個のアプリは保護されています</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s個のアプリは保護されていません</item>
-        <item quantity="one">%s個のアプリは保護されていません</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d locked apps are waiting to be cleared</item>

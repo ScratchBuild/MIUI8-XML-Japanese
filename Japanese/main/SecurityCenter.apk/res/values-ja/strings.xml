@@ -94,6 +94,7 @@
   <string name="adjust_traffic_data">"データ使用量を設定"</string>
   <string name="after_the_lock_screen">"アプリが画面と一緒にロックされている場合、アプリロック設定でこれを変更できます。"</string>
   <string name="all_address_choose_hint">All numbers in this province</string>
+  <string name="antispam_mode_details">details of interception mode</string>
   <string name="antispam_notificaiton_type_show_all">"すべての番号"</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Non-blocklist numbers</string>
   <string name="antispam_notificaiton_type_show_none">Never</string>
@@ -277,6 +278,7 @@
   <string name="auto_task_main_title">Automated tasks</string>
   <string name="auto_task_mamange_activity_title">"設定"</string>
   <string name="auto_task_manage_delete_prompt">"選択したタスクを削除しますか？"</string>
+  <string name="auto_task_manage_new_task">New automated task</string>
   <string name="auto_task_manager_group_title">My automated tasks</string>
   <string name="auto_task_notify_do_task_title">Automated task started</string>
   <string name="auto_task_notify_exit_task_title">Automated task ended</string>
@@ -435,7 +437,6 @@
   <string name="button_to_setting">"設定"</string>
   <string name="buy_immediately">Buy</string>
   <string name="buy_traffic_pack">Buy more data</string>
-  <string name="cache_header_title">Clear %1$d cached files to free %2$s of space</string>
   <string name="call_and_contact">"通話と連絡先"</string>
   <string name="call_delete_hint">"この番号からブロックされたすべての通話を削除しますか？"</string>
   <string name="call_delete_title">"通話履歴を削除"</string>
@@ -651,12 +652,11 @@
   <string name="enable_network">"最初にネットワークをオンにする"</string>
   <string name="every_day">"毎日"</string>
   <string name="examination_score_100">Everything looks good!</string>
-  <string name="examination_score_100_with_recommend">%d items can be optimized</string>
   <string name="examination_score_60_0">"今すぐスキャン"</string>
   <string name="examination_score_80_100">A few items can be optimized</string>
-  <string name="examination_score_80_100_with_recommend">%d items can be optimized</string>
   <string name="examination_score_80_60">Some items can be optimized</string>
   <string name="examination_score_has_virus">Some suspicious apps were detected.</string>
+  <string name="exit">"終了"</string>
   <string name="finger_remind_message">You can also use your fingerprint with App lock.</string>
   <string name="fingerprint_identify_msg">Scan your fingerprint</string>
   <string name="fingerprint_not_identified_msg">"指紋を読み取れませんでした、パスワードを入力してください"</string>
@@ -721,7 +721,7 @@
   <string name="help_label">"ヘルプ"</string>
   <string name="hide_mode_app_background_setting_text">App battery saver</string>
   <string name="hide_mode_summary_text">"Manage apps' background activity to save battery"</string>
-  <string name="hide_mode_title_text">Hide mode</string>
+  <string name="hide_mode_title_text">"バッテリーセーバー"</string>
   <string name="hide_system_app">"システムアプリを非表示"</string>
   <string name="hint_antispam_mode_edit">"カスタムモード"</string>
   <string name="hints_auto_start_warning_info">"If you restrict autostart, some apps and services won't be able to receive notifications."</string>
@@ -818,7 +818,6 @@
   <string name="last_check_date_today">"Scanned today "</string>
   <string name="last_check_date_yesterday">"Scanned yesterday "</string>
   <string name="last_check_never_checked">"今すぐスキャン"</string>
-  <string name="last_checked_date2">Scanned %d days ago</string>
   <string name="later">"後で"</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Holiday</string>
@@ -916,7 +915,6 @@
   <string name="manual_input_traffic">"データ使用量を設定"</string>
   <string name="manual_item_white_list_summary">"選択したアプリが最適化されないようにする"</string>
   <string name="manual_item_white_list_title">"例外"</string>
-  <string name="manual_white_list_header">%d exceptions</string>
   <string name="mark_agent">Block reported agencies</string>
   <string name="mark_agent_block">Reported as agency</string>
   <string name="mark_agent_block_large">Agencies</string>
@@ -1000,6 +998,8 @@
   <string name="mi_service_traffic_detail">"フレームワークの詳細"</string>
   <string name="mian_page_primary_txt">"海外ローミング"</string>
   <string name="modifypassword">"パスワードの変更"</string>
+  <string name="monitor_app_add">"追加"</string>
+  <string name="monitor_app_more">"その他"</string>
   <string name="monitor_requests_from_pc">"USB経由でアプリのインストールを管理"</string>
   <string name="month_report_month_report_switch">"月次レポートを表示"</string>
   <string name="msg_update_error_code_success">"完了"</string>
@@ -1079,7 +1079,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notification_summary_cmcc_app_check">"詳細を表示するにはタップ。"</string>
   <string name="notification_sysapp_cracked_text">The current version of MIUI has been modified</string>
   <string name="notification_sysapp_cracked_title">"セキュリティリスクが検出されました"</string>
-  <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
   <string name="notify_daily_limit_body">Tap to set data limit.</string>
@@ -1235,7 +1234,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_optimize_disable_start_other_app">Prevent apps from opening other apps</string>
   <string name="power_optimize_loading">"読み込み中"</string>
   <string name="power_optimize_manual_catagory_title">Manual</string>
-  <string name="power_optimize_open_hide_mode">Turn on Hide mode</string>
+  <string name="power_optimize_open_hide_mode">"バッテリーセーバーをオンにする"</string>
   <string name="power_optimize_save_mode_not_opened">Battery saver off</string>
   <string name="power_optimize_save_on_lockscreen">Save power when device is locked</string>
   <string name="power_phone">"音声通話"</string>
@@ -1372,7 +1371,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="quick_optimize_no_issue">No battery issues</string>
   <string name="quick_optimize_no_issue_subtitle">Everything looks good</string>
   <string name="quick_optimize_no_issue_title">"Couldn't find battery issues"</string>
-  <string name="quick_optimize_sub_summary_text">Added %sto battery life</string>
+  <string name="quick_optimize_sub_summary_text">Added %s to battery life</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">The phone is draining battery, fix it</string>
   <string name="quick_optimize_suggest_battery_over_heat">The phone is overheating, fix it</string>
   <string name="read_all_sms">"すべてを既読にする"</string>
@@ -1535,7 +1534,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sp_background_risk_type_sign">Unofficial app is running</string>
   <string name="sp_background_risk_type_virus">Virus is running in the background</string>
   <string name="sp_background_risk_type_wifi">This WLAN network is dangerous</string>
-  <string name="sp_button_text_ignore_alert_title">Ignore this item?</string>
+  <string name="sp_button_text_ignore_alert_title">Ignore this item？</string>
   <string name="sp_empty_title_sign_exception">Hold the app to add it to exceptions</string>
   <string name="sp_monitored_apps_count_zero">No payment apps are protected</string>
   <string name="sp_monitored_apps_list_title">Monitoring settings</string>
@@ -1692,7 +1691,6 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_flow_notification">"月間データ使用量の統計を通知シェードに表示する"</string>
   <string name="summary_flow_purchase">"Looks like there isn't much data left. Buy data to stay connected."</string>
   <string name="summary_flow_purchase_beyond">"You've exceeded your carrier plan's monthly data limit by %sMB"</string>
-  <string name="summary_flow_verify">"Haven't synced carrier's data usage stats in %d days"</string>
   <string name="summary_flow_verify_failed">Auto adjust data usage to avoid additional fees</string>
   <string name="summary_garbage_clean">"キャッシュを消去して空き領域を確保"</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
@@ -1727,7 +1725,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="system_app">"システムアプリ"</string>
   <string name="system_application">"システムアプリ"</string>
   <string name="system_check_content_none">"安全"</string>
-  <string name="system_header_title">Clear %1$d processes to free %2$s of memory</string>
   <string name="system_info_remind">Add locks to prevent unauthorized access to your apps</string>
   <string name="system_need_update_desc">"現在のシステムのバージョンが古すぎます、ランダムな表現力機能を使用することができないため、MIUIシステムを更新してください。"</string>
   <string name="system_need_update_title">"システムのバージョンが古すぎます"</string>
