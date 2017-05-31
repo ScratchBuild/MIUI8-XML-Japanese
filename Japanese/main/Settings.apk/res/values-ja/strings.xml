@@ -1552,7 +1552,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="high_performance_notif_title">パフォーマンスモードがオン</string>
   <string name="high_performance_title">ベンチマークテストを実行しているように見えます。最良の結果を得るためには電源管理を\"パフォーマンス\"に設定してください。</string>
   <string name="high_power_apps">電池の最適化</string>
-  <string name="high_power_desc">電池の最適化を適用しません。電池の消耗が速くなる可能性があります。</string>
+  <string name="high_power_desc">電池の最適化を適用しません。電池の消耗が早くなる可能性があります。</string>
   <string name="high_power_filter_on">最適化していないアプリ</string>
   <string name="high_power_off">電池の使用を最適化</string>
   <string name="high_power_on">電池の最適化を無視</string>
@@ -1569,7 +1569,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="ignore_optimizations_off">最適化する</string>
   <string name="ignore_optimizations_off_desc">電池を長持ちさせるためのおすすめの方法です</string>
   <string name="ignore_optimizations_on">最適化しない</string>
-  <string name="ignore_optimizations_on_desc">電池の消耗が速くなる可能性があります</string>
+  <string name="ignore_optimizations_on_desc">電池の消耗が早くなる可能性があります</string>
   <string name="ignore_optimizations_title">%sが電池の最適化を無視することを許可しますか？</string>
   <string name="ime_security_warning">この入力方法を選択すると、すべての入力内容の収集をアプリ（%1$s）に許可することになります。これにはパスワードやクレジットカード番号などの個人情報も含まれます。この入力方法を使用しますか？</string>
   <string name="imei_information_summary">IMEI関連情報</string>
