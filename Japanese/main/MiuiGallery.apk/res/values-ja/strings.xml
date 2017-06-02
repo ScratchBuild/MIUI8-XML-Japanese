@@ -168,7 +168,7 @@
   <string name="backup_with_gprs_dialog_title">"モバイルデータを使用してバックアップ"</string>
   <string name="backuped_desc">"写真と動画はMi Cloudにバックアップされます"</string>
   <string name="backuped_title">"バックアップが完了しました"</string>
-  <string name="backuping_title_gprs">Backing up using mobile data…</string>
+  <string name="backuping_title_gprs">"モバイルデータを使用してバックアップ中…"</string>
   <string name="backuping_title_normal">"バックアップ中…"</string>
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
   <string name="begin_share_toast">Create a separate album for this kid before sharing?</string>

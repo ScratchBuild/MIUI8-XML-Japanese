@@ -725,7 +725,7 @@
   <string name="path_preference_telocation_title">システムアプリ/電話/Location</string>
   <string name="path_reject_via_sms">システムアプリ/電話/詳細設定/クイック返信</string>
   <string name="path_sip_settings">システムアプリ/電話/詳細設定/SIP設定</string>
-  <string name="path_t9_indexing_method_title">システムアプリ/電話/詳細設定/T9 search input</string>
+  <string name="path_t9_indexing_method_title">システムアプリ/電話/詳細設定/T9検索入力</string>
   <string name="path_telocation_auto_country_code">システムアプリ/電話/Location/Add country code</string>
   <string name="path_telocation_contacts_countrycode">システムアプリ/電話/Location/Default country code</string>
   <string name="path_telocation_custom_location_title">システムアプリ/電話/Location/My locations</string>
@@ -1118,7 +1118,6 @@
   <string name="uplmn_numeric_is_empty">ネットワークIDを入力</string>
   <string name="username_title">ユーザー名</string>
   <string name="ussdRunning">USSDコードを実行中...</string>
-  <string name="ussd_dialog_sep">----------</string>
   <string name="vibrate_after_connected_summary">応答時にバイブレーションする</string>
   <string name="vibrate_after_connected_title">接続後にバイブレーション</string>
   <string name="vm_change_failed">"ボイスメール番号を変更できませんでした。\nこの問題が続くようであれば携帯通信会社にお問い合わせください。"</string>
@@ -1152,6 +1151,6 @@
   <string name="wifi_calling">"Wi-Fi通話"</string>
   <string name="wild_prompt_str">"ワイルド文字を置換:"</string>
   <string name="wrong_password">入力されたパスワードが違います</string>
-  <string name="xdivert_summary">CFNRc Settings</string>
+  <string name="xdivert_summary">CFNRc設定</string>
   <string name="xdivert_title">X-Divert</string>
 </resources>
