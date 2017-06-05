@@ -726,7 +726,7 @@
   <string name="call_manager_title">通話マネージャ</string>
   <string name="call_settings_primary_user_only">First space用の通話設定を変更する</string>
   <string name="call_settings_summary">ボイスメール、着信転送、発信者番号など</string>
-  <string name="call_settings_title">通話設定</string>
+  <string name="call_settings_title">通話</string>
   <string name="calls_title">通話</string>
   <string name="camera_key_action_app_title">アプリを起動</string>
   <string name="camera_key_action_category_title">カメラが使用できません</string>

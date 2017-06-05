@@ -49,10 +49,10 @@
   <string name="browser_search_history_desc">"検索アイテム"</string>
   <string name="btn_text_done">"完了"</string>
   <string name="btn_text_quick_cleanup">"クリーンアップ"</string>
-  <string name="btn_text_quick_cleanup_apk">Delete selected APKs %1$s</string>
-  <string name="btn_text_quick_cleanup_appdata">Delete selected data %1$s</string>
-  <string name="btn_text_quick_cleanup_large_file">Delete selected files %1$s</string>
-  <string name="btn_text_quick_cleanup_video">Delete selected videos %1$s</string>
+  <string name="btn_text_quick_cleanup_apk">"選択した%1$s個のAPKを削除"</string>
+  <string name="btn_text_quick_cleanup_appdata">"選択した%1$s個のデータを削除"</string>
+  <string name="btn_text_quick_cleanup_large_file">"選択した%1$s個のファイルを削除"</string>
+  <string name="btn_text_quick_cleanup_video">"選択した%1$s個の動画を削除"</string>
   <string name="btn_text_quick_scan">"スキャン"</string>
   <string name="btn_text_stop">"停止"</string>
   <string name="button_optimizer">OK</string>
@@ -431,7 +431,7 @@
   <string name="toast_uninstall_success">"アンインストールが完了しました"</string>
   <string name="total_clean">Total cleaned: %s</string>
   <string name="total_clean_text">"消去"</string>
-  <string name="update_date_format">MM/dd/yyyy</string>
+  <string name="update_date_format">yyyy/MM/dd</string>
   <string name="virus_scan">"ウイルススキャン"</string>
   <string name="vungle_ad_name">"Vungle広告"</string>
   <string name="wechat_cache_files">"WeChatキャッシュ"</string>

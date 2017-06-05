@@ -495,8 +495,7 @@
   <string name="second_mms_introduction">セカンドスペースに移動</string>
   <string name="second_mms_switch">切替</string>
   <string name="secs">秒</string>
-  <string name="security_alert_desc"><font color="#7f000000">"この送信者は、連絡先に登録されていません。
-"</font></string>
+  <string name="security_alert_desc"><font color="#7f000000">"この送信者は、連絡先に登録されていません。"</font></string>
   <string name="security_alert_desc_highlight">この番号をレポート</string>
   <string name="security_alert_dialog_desc">この番号(%s)とメッセージを調査のためにXiaomiへ送信</string>
   <string name="security_alert_dialog_title">レポート</string>
@@ -555,8 +554,8 @@
   <string name="sms_rejected_title">テキストメッセージが拒否されました</string>
   <string name="sms_report_failed">レポートを送信できませんでした</string>
   <string name="sms_report_success">レポートを送信しました</string>
-  <string name="snippet_audio">[audio]</string>
-  <string name="snippet_picture">[picture]</string>
+  <string name="snippet_audio">[音声]</string>
+  <string name="snippet_picture">[写真]</string>
   <string name="sp_category_all">全サービスメッセージ</string>
   <string name="sp_category_bank">銀行通知メッセージ</string>
   <string name="sp_category_title_prefix">%s</string>

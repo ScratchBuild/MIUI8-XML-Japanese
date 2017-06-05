@@ -130,8 +130,8 @@
   <string name="sina_share_success">"送信しました"</string>
   <string name="sina_token_expired_warning">"Weiboアカウントは期限切れです: 再接続してください"</string>
   <string name="sina_token_invalid_warning">"Weiboアカウントは無効です: 再接続してください"</string>
-  <string name="snippet_image_stub">[Image]</string>
-  <string name="snippet_image_template">[Image %1$s]</string>
+  <string name="snippet_image_stub">[画像]</string>
+  <string name="snippet_image_template">[画像 %1$s]</string>
   <string name="sns_action_send">"送信"</string>
   <string name="sns_choose_quality_high">"高画質 (%1$s)"</string>
   <string name="sns_choose_quality_low">"低画質"</string>

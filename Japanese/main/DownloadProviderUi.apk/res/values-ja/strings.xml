@@ -275,7 +275,7 @@ across all your devices with Xunlei"</string>
   <string name="search_history_month">MM/dd</string>
   <string name="search_history_title">"履歴"</string>
   <string name="search_history_today">"今日"</string>
-  <string name="search_history_year">MM/dd/yyyy</string>
+  <string name="search_history_year">yyyy/MM/dd</string>
   <string name="search_history_yesterday">"昨日"</string>
   <string name="search_home_download_popup">"ダウンロードに戻る"</string>
   <string name="search_home_vif_show_more">"その他"</string>
@@ -311,7 +311,7 @@ across all your devices with Xunlei"</string>
   <string name="sniff_associate_text">Popular</string>
   <string name="sniff_bt_text">Torrent file</string>
   <string name="sniff_btn_text">Source</string>
-  <string name="sniff_cannot_use">"Can't use global search, tap the link to download"</string>
+  <string name="sniff_cannot_use">"グローバル検索を使用できません、ダウンロードするにはリンクをタップ"</string>
   <string name="sniff_connect_error_page_tips">"URLを開けませんでした"</string>
   <string name="sniff_connect_error_refresh">"更新"</string>
   <string name="sniff_copyright_text">"著作権の問題により結果を表示できません"</string>
@@ -369,9 +369,9 @@ across all your devices with Xunlei"</string>
   <string name="text_showmore_infoflow">View more sources</string>
   <string name="third_web_cancel">"キャンセル"</string>
   <string name="third_web_confirm">OK</string>
-  <string name="third_web_filename_hint">Name</string>
-  <string name="third_web_filesize">Size</string>
-  <string name="third_web_savepath">Location</string>
+  <string name="third_web_filename_hint">"ファイル名"</string>
+  <string name="third_web_filesize">"サイズ"</string>
+  <string name="third_web_savepath">"保存場所"</string>
   <string name="third_web_title">"ダウンロード"</string>
   <string name="title_homepage_infoflow">Recent updates</string>
   <string name="title_tips">"注意"</string>
@@ -386,11 +386,6 @@ across all your devices with Xunlei"</string>
   <string name="turn_off_xunlei_title">Turn off Xunlei</string>
   <string name="unbind_xunlei_2_success">"Xunlei Accountを追加しました"</string>
   <string name="unbind_xunlei_success">"Xunlei Accountからログアウトしました"</string>
-  <string name="unit_cn_hundredmillions">00M</string>
-  <string name="unit_cn_tenthousands">0K</string>
-  <string name="unit_en_billion">B</string>
-  <string name="unit_en_million">M</string>
-  <string name="unit_en_thounsand">K</string>
   <string name="valid_in_this_month">Valid for this month</string>
   <string name="version">Version %s</string>
   <string name="vip_auto_speedup">Xunlei download accelerator is on</string>
