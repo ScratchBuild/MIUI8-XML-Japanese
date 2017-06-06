@@ -77,12 +77,14 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">"設定完了"</string>
   <string name="confirm_activate_email">Verified</string>
+  <string name="confirm_bundled_phone_dialog_title">Confirm bundled phone number</string>
   <string name="confirm_delete_app_message">"このアプリを削除した後、次に自分のMiアカウントにログインするときには、電話番号を確認する必要があります。"</string>
   <string name="confirm_delete_browser_message">"このブラウザを削除した後、次に自分のMiアカウントにログインするときには、電話番号を確認する必要があります。"</string>
   <string name="confirm_delete_device_message">"この端末を削除した後、次に自分のMiアカウントにログインするときには、電話番号を確認する必要があります。"</string>
   <string name="confirm_phone_number_dialog_message">Verification code will be sent to: %s.</string>
   <string name="confirm_phone_number_dialog_title">"電話番号の確認"</string>
   <string name="confirm_unbind">"このアカウントを切断しますか？"</string>
+  <string name="confirm_unbundled_phone_dialog_message">The phone number in %1$s Binded %2$s Account，Continue to work with %3$s account unbundled，Are you sure you want to continue?</string>
   <string name="continue_action">"続行"</string>
   <string name="cta_declaration_agree_and_continue">"同意"</string>
   <string name="cta_declaration_exit">"終了"</string>
@@ -131,6 +133,7 @@
   <string name="find_device_unknown_error">"Can't get device status, wait a minute or two and try again"</string>
   <string name="first_login_time">First sign in attempt: %s</string>
   <string name="get_device_list_failed">"デバイスを取得できません"</string>
+  <string name="get_phone_bind_exceed_limit">The number of mobile phone bound to the number of account has reached the maximum(3), can no longer bind the new account</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="guest_account_label">Mi Guest Account</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>

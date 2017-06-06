@@ -212,6 +212,7 @@
   <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">"連絡先の情報を取得中…"</string>
   <string name="private_num">"非通知"</string>
+  <string name="remind_unlock_message">"お使いの端末はロックされています。\"%s\"は端末をロック解除した後に利用可能です。今すぐロック解除しますか？"</string>
   <string name="respond_via_sms_custom_message">"カスタム返信を作成..."</string>
   <string name="select_audio_dialog_title">"応答モードを選択"</string>
   <string name="select_one_sim_title">"SIM %1$dのみ使用できます"</string>
@@ -222,6 +223,7 @@
   <string name="suspect_info">"個人情報に注意してください。"</string>
   <string name="time_left_livetalk">"(%d秒)"</string>
   <string name="unknown">"通知不可能"</string>
+  <string name="unlock_phone">"端末をロック解除"</string>
   <string name="upgrade_vt_prompt">"ビデオ通話に切り替えますか？"</string>
   <string name="video_call_not_allowed_if_tty_enabled">"初めにTTYモードをオフにする"</string>
   <string name="video_conference_caller_info_name">"%1$sのビデオグループ通話"</string>

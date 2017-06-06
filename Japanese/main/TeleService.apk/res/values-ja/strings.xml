@@ -635,6 +635,7 @@
   <string name="new_pin_label">新しいPIN</string>
   <string name="no_call_barring">発着信制限はオフです</string>
   <string name="no_change">変更されていません。</string>
+  <string name="no_checked_network">"モバイルネットワークへの接続や電話の発信をすることができません。別のネットワークを選択しますか？"</string>
   <string name="no_internet_available">SIP通話を発信する前に、インターネット接続を確認してください。</string>
   <string name="no_vm_number">ボイスメールの番号が不明です</string>
   <string name="no_vm_number_msg">SIMカードにボイスメールの番号がありません。</string>

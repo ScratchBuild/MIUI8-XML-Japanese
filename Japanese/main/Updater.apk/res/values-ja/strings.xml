@@ -199,12 +199,12 @@ http://zhushou.xiaomi.com"</string>
   <string name="share_update">"更新情報を共有"</string>
   <string name="share_update_content_sign">"I've updated MIUI to %1$s! I was the %2$s person to update. To view the change log, go to %3$s"</string>
   <string name="share_update_content_unsign">"I've updated MIUI to %1$s! For the detailed changelog, go to %2$s"</string>
-  <string name="sina_share_fail">"送信に失敗しました"</string>
-  <string name="sina_share_fail_content_repeat">"共有できませんでした、コンテンツが既に存在します…"</string>
+  <string name="sina_share_fail">"送信できませんでした"</string>
+  <string name="sina_share_fail_content_repeat">"既に共有しています。"</string>
   <string name="sina_share_pendding">"送信中…"</string>
   <string name="sina_share_success">"送信しました"</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid, add the account again.</string>
   <string name="sogou_uninstall_msg">Sogou keyboard (Mi Edition) is no longer compatible with MIUI 7. Switch keyboards or update to a newer version of Sogou.</string>
   <string name="sogou_uninstall_negative_button">Update Sogou</string>
   <string name="sogou_uninstall_positive_button">Switch keyboards</string>

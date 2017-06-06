@@ -441,12 +441,12 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="share_weibo_not_installed">"Weiboはインストールされていません。"</string>
   <string name="share_weixin_not_installed">"WeChatはインストールされていません。"</string>
   <string name="short_cut_desc">"ホーム画面にMi Cloudのアイコンを追加しますか？"</string>
-  <string name="sina_share_fail">"送信に失敗しました"</string>
-  <string name="sina_share_fail_content_repeat">"共有できませんでした、コンテンツが既に存在します…"</string>
+  <string name="sina_share_fail">"送信できませんでした"</string>
+  <string name="sina_share_fail_content_repeat">"既に共有しています。"</string>
   <string name="sina_share_pendding">"送信中…"</string>
   <string name="sina_share_success">"送信済み"</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid, add the account again.</string>
   <string name="sms">"メッセージ"</string>
   <string name="soundrecorder_sync_only_in_wifi">"同期はWi-Fiのみ使用する"</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">"レコーダーの記録ファイルのダウンロードやアップロードにモバイルデータを使用しない"</string>

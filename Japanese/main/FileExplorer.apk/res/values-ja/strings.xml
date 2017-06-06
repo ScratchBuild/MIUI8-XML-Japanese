@@ -618,6 +618,7 @@
   <string name="storage_sd_card">"SDカード"</string>
   <string name="storage_usb">"USBストレージ"</string>
   <string name="storage_warning">"外部ストレージを使用できません"</string>
+  <string name="support_mtp">"MTPはまもなくサポートされます"</string>
   <string name="swap_tip_1">"左右にスワイプすると"</string>
   <string name="swap_tip_2">"他の動画を再生します"</string>
   <string name="sys_size_enable">" 利用可能"</string>

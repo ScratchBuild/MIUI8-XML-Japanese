@@ -86,7 +86,7 @@
   <string name="aqi_quality_index_moderate">"中程度"</string>
   <string name="aqi_quality_index_pure">"優良"</string>
   <string name="aqi_quality_index_unhealthy">"不健康"</string>
-  <string name="autoSwithcingSearchEngineTips">"頻繁に使用する検索エンジンに切り替える"</string>
+  <string name="autoSwithcingSearchEngineTips">"頻繁に使用する検索エンジンに切り替えました"</string>
   <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
   <string name="autofill_popup_content_description">"自動入力のポップアップを表示しています"</string>
   <string name="autologin_bar_error">"ログインに失敗しました"</string>
@@ -468,8 +468,8 @@ is about to happen"</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">"キャンセル"</string>
   <string name="navigationbar_rightbutton_actiontext_go">"移動"</string>
   <string name="navigationbar_rightbutton_actiontext_search">"検索"</string>
-  <string name="network_show_wifi_setting_tip_dialog_description">"このネットワークに接続します"</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">"オープンWi-Fiネットワークが利用可能"</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">"近くにWi-Fiホットスポットが見つかりました。接続しますか？"</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">"Wi-Fiネットワークが利用可能"</string>
   <string name="new_folder_name_lable">"グループ名"</string>
   <string name="next_button_label">"進む"</string>
   <string name="no_app_open_document">"この操作を処理するためのアプリが見つかりませんでした"</string>
@@ -486,7 +486,7 @@ is about to happen"</string>
   <string name="older">Older</string>
   <string name="open_app_confirm_message">Allow this page to open %s?</string>
   <string name="open_file_explorer_failed">"File Explorerを開くことができません"</string>
-  <string name="open_voice_permission">Open voice networking permission</string>
+  <string name="open_voice_permission">Allow the mic to connect to the internet</string>
   <string name="opening_file_error">"選択したファイルを開けませんでした"</string>
   <string name="page_info">"ページ情報"</string>
   <string name="page_info_address">"アドレス:"</string>
@@ -514,7 +514,7 @@ is about to happen"</string>
   <string name="pref_automatic_matching_searchengines_title">"頻繁に使用する検索エンジンに切り替える"</string>
   <string name="pref_category_hint">"カテゴリー"</string>
   <string name="pref_check_security_url_summary">"ウェブサイトが安全かを確認するため、MiサーバーにURLを送信する"</string>
-  <string name="pref_check_security_url_summary_international">For providing a better referral service, allow the browser to get your access URL</string>
+  <string name="pref_check_security_url_summary_international">Allow Browser to access the URLs of the websites you visit to receive more relevant recommendations.</string>
   <string name="pref_check_security_url_title">"URLの安全性を確認"</string>
   <string name="pref_check_security_url_title_international">Get the URL</string>
   <string name="pref_clear_adblock_statistics">"Ad blockerの履歴を消去しますか？"</string>
@@ -666,7 +666,7 @@ is about to happen"</string>
   <string name="save_to_camera">"ギャラリーに保存"</string>
   <string name="save_to_camera_failed">"画像を保存できません"</string>
   <string name="save_to_camera_success">"ギャラリーに保存しました"</string>
-  <string name="scanner_uninstalled_text">Continue to use, please install scanner</string>
+  <string name="scanner_uninstalled_text">Install Scanner to continue</string>
   <string name="scanner_uninstalled_title">Scanner has been uninstalled</string>
   <string name="sdcard_error">"SDカードを確認してください"</string>
   <string name="search">"検索"</string>
@@ -702,17 +702,17 @@ is about to happen"</string>
   <string name="send_comment_title">"コメント"</string>
   <string name="senddesktop">"ホーム画面"</string>
   <string name="sendstartpage">"スタートページ"</string>
-  <string name="share_image_text">"I'm enjoying a very wonderful picture"</string>
-  <string name="share_page_text">"I'm enjoying %1$s | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">To improve your browsers security and receive relevant recommendations, allow Browser to access these items:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">To receive relevant recommendations, allow Browser to access these items:</string>
+  <string name="share_image_text">Look what I found!</string>
+  <string name="share_page_text">Look what I found: %1$s | %2$s</string>
+  <string name="show_check_security_url_check_tip_dialog_description">To improve security and receive more relevant recommendations, allow Browser to access these items:</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">To receive more relevant recommendations, allow Browser to access these items:</string>
   <string name="show_security_tip_dialog_title">"利用規約"</string>
-  <string name="show_weather_location_getter_tip_dialog_description">For the safety of your site and for providing location-based information referrals service and weather service, the browser needs to get the following information:</string>
+  <string name="show_weather_location_getter_tip_dialog_description">To improve security and receive more relevant recommendations and weather info specific to your location, allow Browser to access these items:</string>
   <string name="sign_in_to" formatted="false">"%s1に\"%s2\"でログイン"</string>
   <string name="skip_button_label">"スキップ"</string>
   <string name="skip_current_version">"このバージョンをスキップ"</string>
-  <string name="snapshot_failed">"オフラインでの閲覧用に保存できませんでした"</string>
-  <string name="snapshot_successed">"オフラインでの閲覧用に保存しました"</string>
+  <string name="snapshot_failed">"ページを保存できませんでした"</string>
+  <string name="snapshot_successed">"ページを保存しました"</string>
   <string name="ssl_bad_clock_date_settings">"日付を設定"</string>
   <string name="ssl_bad_clock_warning" formatted="false">"端末の日付と時刻(%s2)が正しくないため、%s1へのプライベート接続を確立できません。"</string>
   <string name="ssl_certificate">"セキュリティ証明書"</string>
@@ -844,11 +844,11 @@ is about to happen"</string>
   <string name="video_unknown_duration">"不明な再生時間"</string>
   <string name="view_certificate">"証明書を表示"</string>
   <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
-  <string name="voice_check_network">Please check the network and try again</string>
+  <string name="voice_check_network">"ネットワークの設定を確認してもう一度お試しください。"</string>
   <string name="voice_connect_network">"ネットワークに接続できません"</string>
-  <string name="voice_network_connection">Using voice search need networking,please authorize the network connection</string>
-  <string name="voice_search_permission">Voice search requires voice privileges, please go to the browser settings to open the voice permissions</string>
-  <string name="voice_semantic_analysis">Semantic analysis after networking</string>
+  <string name="voice_network_connection">Voice search requires to connect to the internet to work normally.</string>
+  <string name="voice_search_permission">Voice search needs to access your mic to work normally.</string>
+  <string name="voice_semantic_analysis">Browser will be able to analyze semantics after you allow it to connect.</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
   <string name="voice_title">Say your command…</string>
   <string name="voice_title_distinguish">"処理中…"</string>

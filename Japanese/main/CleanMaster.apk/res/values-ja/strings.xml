@@ -208,12 +208,6 @@
   <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Empty</string>
   <string name="hints_header_left">%d</string>
-  <string name="hints_install_apps_else">Used %s</string>
-  <string name="hints_install_apps_interval">"%d日前に使用"</string>
-  <string name="hints_install_apps_new">Never opened</string>
-  <string name="hints_install_apps_risk">Risk detected</string>
-  <string name="hints_install_apps_today">Used today</string>
-  <string name="hints_install_apps_virus">Virus detected</string>
   <string name="hints_installed_app_fewer">"最近使用していない"</string>
   <string name="hints_installed_app_near">"最近使用された"</string>
   <string name="hints_installed_app_never">Never used</string>

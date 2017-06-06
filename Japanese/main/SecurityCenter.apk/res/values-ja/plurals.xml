@@ -114,8 +114,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="many">%1$d views</item>
     </plurals>
     <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d回</item>
-        <item quantity="one">1回</item>
+        <item quantity="other">%d個</item>
+        <item quantity="one">1個</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s payment risks</item>

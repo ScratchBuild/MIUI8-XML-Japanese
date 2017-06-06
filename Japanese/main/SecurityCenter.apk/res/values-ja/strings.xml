@@ -94,7 +94,7 @@
   <string name="adjust_traffic_data">"データ使用量を設定"</string>
   <string name="after_the_lock_screen">"アプリが画面と一緒にロックされている場合、アプリロック設定でこれを変更できます。"</string>
   <string name="all_address_choose_hint">All numbers in this province</string>
-  <string name="antispam_mode_details">details of interception mode</string>
+  <string name="antispam_mode_details">"ブロックリストの詳細"</string>
   <string name="antispam_notificaiton_type_show_all">"すべての番号"</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Non-blocklist numbers</string>
   <string name="antispam_notificaiton_type_show_none">Never</string>
@@ -1830,7 +1830,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_cloud_space_almost_full">Cloud storage nearly full, items may not sync</string>
   <string name="title_cloud_space_full">Cloud is full</string>
   <string name="title_cmcc_app_check">"Verification isn't complete"</string>
-  <string name="title_consume_power">Battery issues found</string>
   <string name="title_consume_power_rank">"電池使用量"</string>
   <string name="title_data_flow">Control mobile data</string>
   <string name="title_dev_no">"開発者向けオプションはオンです"</string>

@@ -14,7 +14,7 @@
   <string name="fingerprint_enter_second_psw_msg">"指紋認証が利用できるよう、デバイスを再起動した後にSecond spaceのパスワードを入力してください"</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">"Lite modeの使用中はSecond spaceに切り替えることができません"</string>
   <string name="fingerprint_enter_second_psw_title">"Second spaceのパスワードを入力"</string>
-  <string name="fingerprint_not_identified_msg">"失敗した回数が多すぎます。パスワードを入力してください。"</string>
+  <string name="fingerprint_not_identified_msg">"失敗した回数が多すぎます。パスワードを入力するか、%d秒以内に指紋を使用してみてください。"</string>
   <string name="fingerprint_not_identified_title">"パスワードを入力"</string>
   <string name="fingerprint_try_again_msg">"指紋を確認できませんでした、もう一度お試しください。"</string>
   <string name="fingerprint_try_again_text">"再試行"</string>
@@ -60,7 +60,7 @@
   <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
   <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
   <string name="keyguard_quick_charging_info_click_to_detail">"急速充電中、タップして詳細を表示"</string>
-  <string name="keyguard_quickly_charging_info_charging_text">"急速受電中"</string>
+  <string name="keyguard_quickly_charging_info_charging_text">"急速受電中…"</string>
   <string name="keyguard_torch_cover_text">"ライトをオンにするには、電源ボタンを押し続けます"</string>
   <string name="lock_screen_date">"M月d日 EEEE"</string>
   <string name="lock_screen_date_12">"M月d日 EEEE"</string>
@@ -99,7 +99,6 @@ i.mi.com にログインして“Find device”に移動したら、デバイス
   <string name="unlock_string">"ロックを解除"</string>
   <string name="unlocking_sim_card">"SIMカードのロックを解除中"</string>
   <string name="unlockscreen_low_battery">"充電器を接続してください"</string>
-  <string name="unlockscreen_quick_charging_message">"急速充電中 %d%%"</string>
   <string name="unlockscreen_recharge_completed">"充電完了"</string>
   <string name="unlockscreen_recharging_message">"充電中 %d%%"</string>
   <string name="wrong_password">"パスワードが正しくありません"</string>

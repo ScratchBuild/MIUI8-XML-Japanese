@@ -192,7 +192,6 @@
   <string name="has_invalid_recipient">"不明な宛先: &lt;%1$s&gt;"</string>
   <string name="hidden_sender_address">差出人アドレス非表示</string>
   <string name="hint_search_sms">%d件のメッセージ</string>
-  <string name="hms_uri_param_err">"URLが空欄のままです。"</string>
   <string name="hold_to_talk">Hold to talk</string>
   <string name="hybrid_check_network">"ネットワーク設定"</string>
   <string name="hybrid_data_error">"エラーが発生しました"</string>
@@ -243,7 +242,7 @@
   <string name="message_download_failed_title">メッセージのダウンロード失敗</string>
   <string name="message_expired">期限切れ</string>
   <string name="message_failed">失敗</string>
-  <string name="message_failed_body">タップしてメッセージを確認してからもう一度お試しください</string>
+  <string name="message_failed_body">タップしてメッセージを確認してからもう一度お試しください。</string>
   <string name="message_number">"電話番号: "</string>
   <string name="message_pending">送信中</string>
   <string name="message_queued">"現在メッセージを送信できません。サービスが利用できる状態になり次第送信されます。"</string>
@@ -377,7 +376,7 @@
   <string name="pref_notification_settings_title">通知設定</string>
   <string name="pref_other_title">詳細設定</string>
   <string name="pref_show_blocked_messages_summary">スレッドリストでブロックしたSMSを表示</string>
-  <string name="pref_show_list_avatar_summary">リストビューで写真やその他の連絡先情報を表示する</string>
+  <string name="pref_show_list_avatar_summary">リストビューでプロフィール写真や連絡先情報を表示する</string>
   <string name="pref_show_sms_template_in_summary">SMSメッセージでワンタイムパスワードを自動的に認識</string>
   <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
@@ -508,6 +507,7 @@
   <string name="select_local_video">動画を選択</string>
   <string name="select_message_send_sim">SIMカードを選択</string>
   <string name="select_recipient">宛先を選択</string>
+  <string name="select_sim">SIMカードを選択</string>
   <string name="select_top_text">上部のテキスト</string>
   <string name="send">送信</string>
   <string name="send_message_dlg_check_hint">"二度と表示しない"</string>
@@ -552,6 +552,9 @@
   <string name="sms_full_title">テキストメッセージのメモリがいっぱいです</string>
   <string name="sms_rejected_body">何らかの理由でメッセージを受信できませんでした</string>
   <string name="sms_rejected_title">テキストメッセージが拒否されました</string>
+  <string name="sms_report_dialog_content">レポートを送信できませんでした、再試行。</string>
+  <string name="sms_report_dialog_retry">再試行</string>
+  <string name="sms_report_dialog_title">再試行</string>
   <string name="sms_report_failed">レポートを送信できませんでした</string>
   <string name="sms_report_success">レポートを送信しました</string>
   <string name="snippet_audio">[音声]</string>
@@ -587,6 +590,8 @@
   <string name="storage_unavailable">利用可能な容量がありません</string>
   <string name="subject_hint">件名</string>
   <string name="subject_label">"件名: "</string>
+  <string name="switch_to_editor">Editor mode</string>
+  <string name="switch_to_menu">Menu mode</string>
   <string name="text_in_popup_saved_to_clipboard">クリップボードにコピーしました</string>
   <string name="text_message">テキストメッセージ</string>
   <string name="timed_message_expired_title">"%dに設定されたメッセージは送信されませんでした"</string>
@@ -597,7 +602,7 @@
   <string name="title_collapse_sp_messages">キャリアメッセージをまとめる</string>
   <string name="title_hide_verification_code">Auto hide OTP on lock screen</string>
   <string name="title_show_blocked_messages">ブロックしたSMSを表示</string>
-  <string name="title_show_list_avatar">写真と情報を表示</string>
+  <string name="title_show_list_avatar">プロフィール写真を表示</string>
   <string name="title_show_sms_template">認証コードをSMSで確認してください</string>
   <string name="title_show_sms_template_in">ワンタイムパスワードをSMSで確認してください</string>
   <string name="title_timed_message_dialog">SMSの時間を設定してください</string>

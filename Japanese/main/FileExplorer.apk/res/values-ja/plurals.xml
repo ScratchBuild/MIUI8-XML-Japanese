@@ -261,8 +261,8 @@
         <item quantity="one">%1$s gem</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Collect &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> more gems to participate in lucky draw</item>
-        <item quantity="one">Collect &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> more gem to participate in lucky draw</item>
+        <item quantity="other">Collect &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> more gems to participate in the lucky draw.</item>
+        <item quantity="one">Collect &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> more gem to participate in the lucky draw.</item>
     </plurals>
     <plurals name="clockin_days">
         <item quantity="other">Checked in %1$s days in a row</item>

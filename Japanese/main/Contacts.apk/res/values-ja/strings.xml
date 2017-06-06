@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">"通話履歴の詳細"</string>
+  <string name="accessibility_contact_detail">"連絡先の詳細"</string>
   <string name="account_container_title">"インポート元"</string>
   <string name="account_phone">電話のみ、非同期</string>
   <string name="account_sim">"SIMカード"</string>
@@ -162,7 +163,7 @@
   <string name="clearFrequentsConfirmation_title">よく使う連絡先を削除しますか？</string>
   <string name="clearFrequentsProgress_title">よく使う連絡先を削除しています…</string>
   <string name="clear_copy_number_description">コピーした番号を消去</string>
-  <string name="clear_digits">電話番号を消去</string>
+  <string name="clear_digits">電話番号を削除</string>
   <string name="click_close">閉じるにはタップ</string>
   <string name="clip_dialog_title">コピーした番号に発信しますか？</string>
   <string name="close_dial_pad_description">ダイヤルパッドを閉じる</string>
@@ -193,6 +194,7 @@
   <string name="contactPickerActivityTitle">"連絡先を選択"</string>
   <string name="contactSavedErrorToast">"連絡先の変更を保存できませんでした。"</string>
   <string name="contactSavedToast">"連絡先を保存しました。"</string>
+  <string name="contact_clear_search_history">"履歴を消去"</string>
   <string name="contact_delete_toast">"連絡先を削除しました"</string>
   <string name="contact_detail_action_item_calllog">"通話履歴"</string>
   <string name="contact_detail_action_item_nocalllog">"通話履歴なし"</string>
@@ -237,6 +239,7 @@
   <string name="contact_list_loading">"読み込み中..."</string>
   <string name="contact_pick_photo">"写真"</string>
   <string name="contact_read_only">"このアプリからは編集できません。"</string>
+  <string name="contact_search_history">"履歴"</string>
   <string name="contact_status_update_attribution">%1$s 経由</string>
   <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
   <string name="contact_unfavorite_toast">"お気に入りから削除しました"</string>
@@ -287,7 +290,10 @@
   <string name="description_add_contact">"連絡先を追加"</string>
   <string name="description_call">"%1$sに発信"</string>
   <string name="description_call_log_incoming_call">"着信履歴"</string>
+  <string name="description_call_log_incoming_forwarding_call">Incoming forwrading call</string>
   <string name="description_call_log_missed_call">"不在着信"</string>
+  <string name="description_call_log_missed_forwarding_call">Missed forwarding call</string>
+  <string name="description_call_log_new_contact">New contact</string>
   <string name="description_call_log_outgoing_call">"発信履歴"</string>
   <string name="description_call_log_play_button">"ボイスメールを再生"</string>
   <string name="description_call_log_unheard_voicemail">"未再生のボイスメール"</string>
@@ -691,6 +697,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="miprofile_nick_name_edit_dialog_hint">"ニックネームを入力"</string>
   <string name="miprofile_nick_name_edit_dialog_message">"ニックネームは通話履歴やプロフィール情報に表示されます"</string>
   <string name="miprofile_nick_name_edit_dialog_title">"ニックネームを編集"</string>
+  <string name="miprofile_notice_close">"閉じる"</string>
   <string name="miprofile_notice_text">"連絡先のプロフィール写真を表示するにはタップ"</string>
   <string name="miprofile_request_agenda_date">This person wants to exchange cards [%1$s]</string>
   <string name="miprofile_request_agenda_today">This person wants to exchange cards [Today %1$s]</string>
@@ -967,6 +974,7 @@ To add a contact to your list of favorites:
   <string name="profileSavedErrorToast">"プロフィールの変更を保存できませんでした"</string>
   <string name="profileSavedToast">"プロフィールを保存しました"</string>
   <string name="profile_binded_numbers">%s</string>
+  <string name="profile_delete_toast">"プロフィールを削除しました"</string>
   <string name="profile_display_name">"プロフィールを設定"</string>
   <string name="profile_name">My profile</string>
   <string name="profile_name_photo">"写真"</string>
