@@ -73,6 +73,7 @@
   <string name="add_to_quicklink">"スタートページ"</string>
   <string name="added_to_bookmarks">"ブックマークに追加しました"</string>
   <string name="adjust_text_zoom_toast">"文字サイズの変更を行うと、いくつかのwebサイトが正しく表示されない場合があります"</string>
+  <string name="agree">"同意する"</string>
   <string name="alert_tips">"このサイトにはセキュリティ上のリスクがあります"</string>
   <string name="allow">"許可する"</string>
   <string name="app_new_version">"このアプリの最新バージョンが既にインストールされています"</string>
@@ -131,8 +132,6 @@
   <string name="browserFrameNetworkErrorLabel">"接続エラー"</string>
   <string name="cancel">"キャンセル"</string>
   <string name="cannot_download">"ダウンロードできるのは\"http\"または\"https\"のURLのみです"</string>
-  <string name="check_permission_of_current_location">Current location info</string>
-  <string name="check_permission_of_current_url">URLs of the websites you visit</string>
   <string name="choosertitle_sharevia">"共有ツール"</string>
   <string name="clear_history">"履歴を消去"</string>
   <string name="clear_most_visited">Recent history</string>
@@ -295,6 +294,7 @@ is about to happen"</string>
   <string name="error_not_acceptable">"同期はオフです。"</string>
   <string name="error_title">"同期できませんでした"</string>
   <string name="error_unauthorized">"ログインの回数が多すぎるため、Mi Accountとの同期がオフになっています。"</string>
+  <string name="exit">"終了"</string>
   <string name="exit_browser_warning">"ブラウザを終了しますか？"</string>
   <string name="file_dir">"フォルダの変更"</string>
   <string name="file_name">"名前: "</string>
@@ -704,10 +704,10 @@ is about to happen"</string>
   <string name="sendstartpage">"スタートページ"</string>
   <string name="share_image_text">Look what I found!</string>
   <string name="share_page_text">Look what I found: %1$s | %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">To improve security and receive more relevant recommendations, allow Browser to access these items:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">To receive more relevant recommendations, allow Browser to access these items:</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security and receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Browser needs to connect to the internet to work normally. To receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="show_security_tip_dialog_title">"利用規約"</string>
-  <string name="show_weather_location_getter_tip_dialog_description">To improve security and receive more relevant recommendations and weather info specific to your location, allow Browser to access these items:</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security，receive more relevant recommendations and provide weather service, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="sign_in_to" formatted="false">"%s1に\"%s2\"でログイン"</string>
   <string name="skip_button_label">"スキップ"</string>
   <string name="skip_current_version">"このバージョンをスキップ"</string>

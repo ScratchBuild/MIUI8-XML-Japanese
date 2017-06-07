@@ -26,6 +26,11 @@
         <item quantity="other">%1$s件のメッセージを削除しますか？</item>
         <item quantity="one">%1$s件のメッセージを削除しますか？</item>
     </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d件のメッセージ</item>
+        <item quantity="zero">%d件のメッセージ</item>
+        <item quantity="one">%d件のメッセージ</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d件のメッセージ</item>
         <item quantity="zero">%d件のメッセージ</item>

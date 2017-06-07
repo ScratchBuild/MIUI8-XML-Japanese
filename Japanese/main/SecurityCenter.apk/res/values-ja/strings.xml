@@ -160,6 +160,7 @@
   <string name="app_manager_force_stop_dlg_title">"強制停止しますか？"</string>
   <string name="app_manager_go_to_manger_app">"管理"</string>
   <string name="app_manager_have_not_consume">None</string>
+  <string name="app_manager_instruction">Instruction</string>
   <string name="app_manager_loading_data">"データを読み込み中…"</string>
   <string name="app_manager_manage_space">"spaceの管理"</string>
   <string name="app_manager_menu_clear_data">"データを消去"</string>
@@ -195,6 +196,7 @@
   <string name="app_manager_reduce_wakepath_summary">Restricting autostart will minimize chain start. Restrict autostart for %s?</string>
   <string name="app_manager_reject_count_over">"ブロックを 100000+ 回行いました"</string>
   <string name="app_manager_show_detail_infos">"すべて表示"</string>
+  <string name="app_manager_sort">"並べ替え"</string>
   <string name="app_manager_start_by">Started by %s</string>
   <string name="app_manager_start_count_over">100000+ times</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Uninstall %s to restrict chain start?</string>

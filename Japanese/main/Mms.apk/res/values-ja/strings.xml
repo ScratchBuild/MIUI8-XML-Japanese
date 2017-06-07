@@ -191,7 +191,6 @@
   <string name="guild_msim_switcher">タップしてSIMカードを切替</string>
   <string name="has_invalid_recipient">"不明な宛先: &lt;%1$s&gt;"</string>
   <string name="hidden_sender_address">差出人アドレス非表示</string>
-  <string name="hint_search_sms">%d件のメッセージ</string>
   <string name="hold_to_talk">Hold to talk</string>
   <string name="hybrid_check_network">"ネットワーク設定"</string>
   <string name="hybrid_data_error">"エラーが発生しました"</string>
@@ -308,7 +307,7 @@
   <string name="mx_current_status">データ通信使用設定</string>
   <string name="mx_dspt">Wi-Fiネットワークに接続している場合は、無料で他のMIUIユーザーにSMSとMMSメッセージを送信</string>
   <string name="mx_dspt_listview">課金されることなく他のMIUIユーザーにメッセージを送信</string>
-  <string name="mx_dspt_provision">"MiメッセージはSMS料金を請求されることなく、他のMIUIユーザーにメッセージを送ることができます。このサービスをアクティベートする際に使用されるSMS料金は、ご契約中のキャリアから請求されます。"</string>
+  <string name="mx_dspt_provision">"MiメッセージはSMS料金を請求されることなく、他のMIUIユーザーにメッセージを送ることができます。このサービスをアクティベートする際に使用されるSMS料金は、ご契約中のキャリアから請求されます。また、このサービスが正常に動作するにはモバイルデータにアクセスする必要があります。"</string>
   <string name="mx_dspt_provision_ex">"キャリアから課金されることなく、他のMIUIユーザーにメッセージを送信したり通話できます。VoIPはWeihuiによってサポートされます。Weihuiのプライバシーポリシーを表示"</string>
   <string name="mx_dspt_provision_ex2">プライバシーポリシー</string>
   <string name="mx_enable">Miメッセージ</string>
