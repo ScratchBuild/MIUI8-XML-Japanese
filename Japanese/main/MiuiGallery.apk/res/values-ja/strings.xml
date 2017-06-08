@@ -45,10 +45,10 @@
   <string name="album_already_forced_top">Already on top</string>
   <string name="album_camera_name">"カメラ"</string>
   <string name="album_detail_clear_local_page_empty">No backed up photos or videos to delete</string>
-  <string name="album_detail_page_empty">No photos or videos</string>
+  <string name="album_detail_page_empty">"写真や動画はありません"</string>
   <string name="album_faces_name">People</string>
   <string name="album_from_format">From %s</string>
-  <string name="album_jump_failed">Wait until albums are synced with Mi Cloud ​​and try again</string>
+  <string name="album_jump_failed">Wait until albums are synced with Mi Cloud and try again</string>
   <string name="album_member">Album members %s</string>
   <string name="album_name">"アルバム名"</string>
   <string name="album_name_recent_discovery">"履歴"</string>
@@ -269,7 +269,7 @@
   <string name="delete_in_album">When you delete photos or videos from an album, they will also be deleted from:</string>
   <string name="delete_in_home_page">When you delete photos or videos from Gallery, they will also be deleted from:</string>
   <string name="delete_in_process">"削除中…"</string>
-  <string name="delete_origin">Delete items from original album</string>
+  <string name="delete_origin">"元のアルバムからアイテムを削除"</string>
   <string name="delete_other_shared_images">"Can't delete photos shared by others"</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d deleted, %2$d saved</string>
   <string name="delete_third_party_photo">"この写真を削除しますか？"</string>
@@ -407,7 +407,7 @@ Take more photos of your friends!"</string>
   <string name="ignore_face">Ignore this person</string>
   <string name="ignore_faces_title">Ignored</string>
   <string name="image_decode_failed">"Couldn't decode image"</string>
-  <string name="image_download_item_title">Download original file (%s)</string>
+  <string name="image_download_item_title">"元のファイルをダウンロード (%s)"</string>
   <string name="image_invalid_path">"無効なパス"</string>
   <string name="image_not_found">"画像がみつかりませんでした"</string>
   <string name="image_quota_fulfiled">"画像が多すぎます。 画像をいくつか削除してもう一度やり直してください。"</string>
@@ -509,7 +509,7 @@ Take more photos of your friends!"</string>
   <string name="operation_detail">"詳細"</string>
   <string name="operation_disable_auto_upload">"Mi Cloudとの同期をオフにする"</string>
   <string name="operation_do_delete_local_thumnail">"デバイスから削除"</string>
-  <string name="operation_download">Download original (%s)</string>
+  <string name="operation_download">"元のファイルをダウンロード (%s)"</string>
   <string name="operation_edit">"編集"</string>
   <string name="operation_edit_video">"編集"</string>
   <string name="operation_enable_auto_upload">"Mi Cloudとの同期をオンにする"</string>
@@ -625,7 +625,7 @@ Take more photos of your friends!"</string>
   <string name="reset">"リセット"</string>
   <string name="retry_to_create_album">"再試行"</string>
   <string name="retry_to_request_qr_code">"再試行"</string>
-  <string name="return_from_clear_local_file_fragment_toast">Optimized photos are stored on the device. Tap a photo to download the original item from Mi Cloud.</string>
+  <string name="return_from_clear_local_file_fragment_toast">"端末に保存されているのは最適化された写真です。Mi Cloudから元のアイテムをダウンロードするには写真をタップ。"</string>
   <string name="revert">"元に戻す"</string>
   <string name="runtime_permission_ungranted">"必要なアクセス許可がないため、ギャラリーを終了しました"</string>
   <string name="same_name_album_exist_and_toast">"An album with the same name already exists. Created '%s' instead."</string>
@@ -674,12 +674,12 @@ Take more photos of your friends!"</string>
   <string name="secret_reason_unknow_reasons">"不明なエラー"</string>
   <string name="see_ignore_faces">"View people you've ignored"</string>
   <string name="select_item_face">"これは'%s'ですか？"</string>
-  <string name="select_origin_tip">Original file (%s)</string>
+  <string name="select_origin_tip">"元のファイル (%s)"</string>
   <string name="send_multiple_files_hint_format">"送信 (%s)"</string>
   <string name="send_public_url">"アルバムのURLを送信"</string>
   <string name="send_too_many_files_error">Can send up to %d items at a time</string>
   <string name="set_as_baby_lock_wallpaper">"ロック画面の壁紙に設定"</string>
-  <string name="set_as_wallpaper_description">This image is a thumbnail, download the original?</string>
+  <string name="set_as_wallpaper_description">"この画像はサムネイルです、元のファイルをダウンロードしますか？"</string>
   <string name="set_as_wallpaper_title">"壁紙に設定"</string>
   <string name="set_face_group_toast_msg_new_user">Hold a person to merge or ignore them.</string>
   <string name="set_face_group_toast_msg_old_user">"Hold a person's photo to create groups (Family, Friends, Classmates, etc.)"</string>
