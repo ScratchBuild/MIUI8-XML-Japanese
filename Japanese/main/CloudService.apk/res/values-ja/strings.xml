@@ -139,6 +139,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="micloud_battery_low_notification_message">"同期するには充電器に接続してください"</string>
   <string name="micloud_battery_low_notification_title">Low battery</string>
   <string name="micloud_buy_member">Mi Cloudメンバーシップを購入</string>
+  <string name="micloud_buy_member_safe">Mi Cloudメンバーシップを購入</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>

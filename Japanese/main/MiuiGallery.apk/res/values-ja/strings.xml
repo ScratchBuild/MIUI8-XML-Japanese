@@ -710,7 +710,7 @@ Take more photos of your friends!"</string>
   <string name="slim_now">"今すぐ最適化"</string>
   <string name="slim_result_size">Saved %1$s</string>
   <string name="slim_result_title">"正常に最適化されました"</string>
-  <string name="slim_tip_msg">"デバイスがWi-Fiに接続されるとファイルが最適化されます。写真の詳細ページで\"写真をダウンロード\"をタップしてフル解像度のアイテムをダウンロードしてください。"</string>
+  <string name="slim_tip_msg">"デバイスがWi-Fiに接続されるとファイルが最適化されます。写真の詳細ページで\"元の写真をダウンロード\"をタップしてフル解像度のアイテムをダウンロードしてください。"</string>
   <string name="slim_tip_title">"ストレージを最適化中"</string>
   <string name="slimming">"最適化しています…"</string>
   <string name="start_debug">Debug Gallery</string>

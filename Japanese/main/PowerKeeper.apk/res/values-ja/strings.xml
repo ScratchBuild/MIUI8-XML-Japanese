@@ -162,6 +162,11 @@
   <string name="set_cpufreq_max">"CPU周波数を最大にする"</string>
   <string name="set_lcd_mode">Screen mode</string>
   <string name="settings_safetylegal_activity_loading">"読み込み中…"</string>
+  <string name="sleep_config_disable_description">"MIUI won't improve the evening battery save"</string>
+  <string name="sleep_config_disable_title">Off</string>
+  <string name="sleep_config_enhance_description">MIUI will improve the evening standby</string>
+  <string name="sleep_config_enhance_title">On</string>
+  <string name="sleep_config_mode_title">Sleep saving modes</string>
   <string name="still">"写真"</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">"名前"</string>

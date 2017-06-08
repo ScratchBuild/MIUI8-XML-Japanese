@@ -58,7 +58,6 @@
   <string name="auto_answer_scenario_enteries_headset_only">ヘッドセットのみ</string>
   <string name="auto_answer_scenario_title">自動応答の設定</string>
   <string name="auto_answer_setting_title">自動応答設定</string>
-  <string name="auto_answer_summary_delay">待ち時間: %s秒</string>
   <string name="auto_answer_summary_not_enabled">オフ</string>
   <string name="auto_record_yellowpage">ディレクトリ</string>
   <string name="auto_redial_pref_summary">話し中の場合は自動でリダイヤルします</string>
@@ -141,8 +140,6 @@
   <string name="call_record_auto_unknown_number">不明な番号</string>
   <string name="call_record_auto_whitelist">カスタムリスト</string>
   <string name="call_record_auto_whitelist_no_item">プラス（+）ボタンをタップして番号を追加</string>
-  <string name="call_record_auto_whitelist_summary">%d件の番号</string>
-  <string name="call_record_auto_whitelist_summary_for_one">1件の番号</string>
   <string name="call_record_loading_content">読込中...</string>
   <string name="call_record_off_summary">オフ</string>
   <string name="call_record_on_summary">オン</string>
@@ -156,7 +153,6 @@
   <string name="call_recording_notification_title_error">"通話を録音出来ませんでした"</string>
   <string name="call_recording_notification_toggle_title">通話録音の通知</string>
   <string name="call_recording_setting">通話録音</string>
-  <string name="call_remove_exception_numbers_confirm">%d件の番号が削除されます。</string>
   <string name="call_settings">通話設定</string>
   <string name="call_settings_primary_user_only">通話設定はプライマリユーザーのみ変更できます。</string>
   <string name="call_settings_with_label">通話設定 (%s)</string>
@@ -762,7 +758,6 @@
   <string name="pin2_lock_warning">"もう一度試行が失敗すると、PIN2関連の機能がロックされます。"</string>
   <string name="pin2_or_fdn_invalid">"発信番号制限は更新されませんでした。PIN2が正しくないか、電話番号が拒否されました。"</string>
   <string name="pin2_unblocked">PIN2のブロックが解除されました！</string>
-  <string name="pin_attempts">"試行出来るのは、あと%d回です。"</string>
   <string name="pin_changed">PINを更新しました</string>
   <string name="pin_failed">PINが正しくありません</string>
   <string name="pin_lock_warning">"ご使用中の携帯電話は、もう一度試行に失敗すると自動的にロックされます。"</string>

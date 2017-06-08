@@ -798,6 +798,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="sort_by_time">"日付"</string>
   <string name="source_from">Source: %1$s</string>
   <string name="start_download_music">Downloading updates for Music.</string>
+  <string name="start_shuffle">"シャッフルを開始..."</string>
   <string name="start_to_download">"ダウンロード中…"</string>
   <string name="start_to_play">"再生"</string>
   <string name="start_to_use">Open Music</string>
