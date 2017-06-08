@@ -71,8 +71,8 @@
   <string name="album_share_subtitle_quitting">Exiting…</string>
   <string name="album_share_subtitle_requesting">Getting album info…</string>
   <string name="album_share_title_new_album">Share new album</string>
-  <string name="album_show_local_only">Only show local albums</string>
-  <string name="album_show_local_only_summary">Turn on to view and delete photos on your device only</string>
+  <string name="album_show_local_only">"端末上のアルバムのみ表示"</string>
+  <string name="album_show_local_only_summary">"端末上の写真のみ表示または削除するにはオンにしてください"</string>
   <string name="album_type_baby">"赤ちゃんのアルバム"</string>
   <string name="album_type_share">"共有済みのアルバム"</string>
   <string name="album_type_system">"システムのアルバム"</string>
@@ -89,10 +89,8 @@
   <string name="app_name_view_picture">"写真を表示"</string>
   <string name="app_name_view_video">"動画を表示"</string>
   <string name="apply">"適用"</string>
-  <string name="aspect_ratio_format" formatted="false">%d:%d</string>
   <string name="aspect_ratio_free">Custom</string>
   <string name="aspect_ratio_origin">Original</string>
-  <string name="aspect_ratio_square">1:1</string>
   <string name="associate_face_album">"アルバムを選択"</string>
   <string name="auto_backup_introduce">"写真や動画を自動的にバックアップする (Mi Accountが必要)"</string>
   <string name="auto_update_face">Add photos automatically</string>
@@ -218,14 +216,14 @@
   <string name="cloudfolder_name_reserved">"アルバム名は予約済みです"</string>
   <string name="collaps_people">"非表示"</string>
   <string name="confirm">"確認"</string>
-  <string name="confirm_download_video_message">Finish downloading this video to start watching. Download will resume when WLAN is available.</string>
-  <string name="confirm_download_video_title">Download video</string>
+  <string name="confirm_download_video_message">"動画を視聴するにはダウンロードを完了してください。Wi-Fiが利用可能になるとダウンロードを再開します。"</string>
+  <string name="confirm_download_video_title">"動画をダウンロードする"</string>
   <string name="confirm_face">Match</string>
   <string name="confirm_hidden_recommend_group">OK</string>
   <string name="confirm_hidden_recommend_group_message">When recommendations are turned off, you can still use \"More people who look alike\" option</string>
   <string name="confirm_hidden_recommend_group_title">"おすすめを表示しない"</string>
-  <string name="confirm_merge_face_albums">" "<Data> Merge this album with %s? </Data>" "</string>
-  <string name="confirm_merge_many_face_albums">" "<Data> Merge these albums with %s? </Data>" "</string>
+  <string name="confirm_merge_face_albums">" "<Data> このアルバムを%sと統合しますか？ </Data>" "</string>
+  <string name="confirm_merge_many_face_albums">" "<Data> これらのアルバムを%sと統合しますか？ </Data>" "</string>
   <string name="confirm_not_face">No matches</string>
   <string name="confirm_recommandation_face_is">" "<Data> Sure this is &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? This person will be moved to \"%2$s\" album. </Data>" "</string>
   <string name="confirm_recommandation_face_not">" "<Data>" Sure this isn't &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
