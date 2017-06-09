@@ -14,7 +14,7 @@
   <string name="fingerprint_enter_second_psw_msg">"指紋認証が利用できるよう、デバイスを再起動した後にSecond spaceのパスワードを入力してください"</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">"Lite modeの使用中はSecond spaceに切り替えることができません"</string>
   <string name="fingerprint_enter_second_psw_title">"Second spaceのパスワードを入力"</string>
-  <string name="fingerprint_not_identified_msg">"失敗した回数が多すぎます。パスワードを入力するか、%d秒以内に指紋を使用してみてください。"</string>
+  <string name="fingerprint_not_identified_msg">"失敗した回数が多すぎます。パスワードを入力するか、数秒以内に指紋を使用してみてください。"</string>
   <string name="fingerprint_not_identified_title">"パスワードを入力"</string>
   <string name="fingerprint_try_again_msg">"指紋を確認できませんでした、もう一度お試しください。"</string>
   <string name="fingerprint_try_again_text">"再試行"</string>
