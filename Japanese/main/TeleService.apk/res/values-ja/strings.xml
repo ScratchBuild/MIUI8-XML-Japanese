@@ -1141,6 +1141,7 @@
   <string name="volte_provision_notification_activate">有効にする</string>
   <string name="volte_provision_text">VoLTE通話は通常の通話よりも優れた品質を提供します。SMSを送信して有効にしますか？</string>
   <string name="volte_provision_title">VoLTE通話を有効にする</string>
+  <string name="volte_switch_not_support_summary">"VoLTE通話はモバイルデータのSIMカードではサポートされていません。"</string>
   <string name="volte_switch_summary">"VoLTEを使用して通話品質を向上させる"</string>
   <string name="volte_switch_title">"VoLTEを有効にする"</string>
   <string name="wait_prompt_str">"次の番号を送信しますか？\n"</string>

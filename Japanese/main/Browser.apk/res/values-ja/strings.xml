@@ -88,7 +88,7 @@
   <string name="aqi_quality_index_pure">"優良"</string>
   <string name="aqi_quality_index_unhealthy">"不健康"</string>
   <string name="autoSwithcingSearchEngineTips">"頻繁に使用する検索エンジンに切り替えました"</string>
-  <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
+  <string name="autofill_keyboard_accessory_content_description">Suggestions available…</string>
   <string name="autofill_popup_content_description">"自動入力のポップアップを表示しています"</string>
   <string name="autologin_bar_error">"ログインに失敗しました"</string>
   <string name="autologin_bar_hide_text">"表示しない"</string>
@@ -707,7 +707,7 @@ is about to happen"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security and receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Browser needs to connect to the internet to work normally. To receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="show_security_tip_dialog_title">"利用規約"</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security，receive more relevant recommendations and provide weather service, allow Browser to get the URLs of the websites you visit and access your location info.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security, receive more relevant recommendations and weather info, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="sign_in_to" formatted="false">"%s1に\"%s2\"でログイン"</string>
   <string name="skip_button_label">"スキップ"</string>
   <string name="skip_current_version">"このバージョンをスキップ"</string>
@@ -764,7 +764,7 @@ is about to happen"</string>
   <string name="unsecurity_url_toast">"このウェブサイトは安全ではありません"</string>
   <string name="up_to_loading_tips">"指を離して更新"</string>
   <string name="update_no_network_toast">"ネットワークに接続できません"</string>
-  <string name="updating_chrome">"Chromeを更新中..."</string>
+  <string name="updating_chrome">"Chromeを更新中…"</string>
   <string name="uploads_disabled">"ファイルのアップロードが無効になっています"</string>
   <string name="url_copy_done">"URLをクリップボードにコピーしました"</string>
   <string name="url_find_on_page_result">"ブラウザで表示"</string>
@@ -800,13 +800,13 @@ is about to happen"</string>
   <string name="video_buffering_percent">"バッファリング中 "</string>
   <string name="video_buffering_percent_string">"バッファリング中 "</string>
   <string name="video_collect_cancel">"お気に入りから削除"</string>
-  <string name="video_collect_success">Favorited</string>
+  <string name="video_collect_success">"お気に入りに追加しました"</string>
   <string name="video_download_complete">"ダウンロード完了。"</string>
   <string name="video_download_empty">No videos</string>
   <string name="video_download_error">"エラー"</string>
   <string name="video_download_error_http_gone">"ファイルが見つかりませんでした"</string>
   <string name="video_download_exists">"ダウンロードが既に存在します。"</string>
-  <string name="video_download_fail">"失敗"</string>
+  <string name="video_download_fail">"ダウンロードできませんでした"</string>
   <string name="video_download_failed">"ダウンロードできませんでした"</string>
   <string name="video_download_finding_address">"ダウンロードURLを取得中"</string>
   <string name="video_download_pause">"中断"</string>

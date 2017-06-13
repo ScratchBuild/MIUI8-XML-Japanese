@@ -443,7 +443,6 @@
   <string name="battery_sugg_wifi">未使用時または圏外のときWi-FiをOFFにします</string>
   <string name="battery_summary">前回のフル充電から%1$d%%使用しています</string>
   <string name="bearer">ベアラー</string>
-  <string name="bind_xiaomi_account_cancel">キャンセル</string>
   <string name="bind_xiaomi_account_confirm">追加</string>
   <string name="bind_xiaomi_account_dialog_summery">Mi Account %s を追加しようとしています。パスワードを忘れた場合、それをリセットするにはこのアカウントを使用することができます。</string>
   <string name="bind_xiaomi_account_success">Mi Accountが正常に追加されました</string>
@@ -2271,12 +2270,17 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notification_listener_security_warning_title">%1$sを有効にしますか？</string>
   <string name="notification_log_title">通知ログ</string>
   <string name="notification_pulse_title">光を点滅させて通知</string>
+  <string name="notification_reboot_btn">再起動</string>
+  <string name="notification_reboot_summary_hm">端末を再起動するにはタップ。</string>
+  <string name="notification_reboot_title">再起動して更新を適用</string>
+  <string name="notification_reboot_title_hm">再起動して更新を適用</string>
   <string name="notification_ringtone_title">デフォルトの通知音</string>
   <string name="notification_section_header">通知</string>
   <string name="notification_settings">音と通知</string>
   <string name="notification_settings_apps_title">アプリの通知</string>
   <string name="notification_sound_dialog_title">デフォルトの通知音</string>
   <string name="notification_sound_title">デフォルトの通知音</string>
+  <string name="notification_update_now">今すぐ更新</string>
   <string name="notification_volume_option_title">通知の音量</string>
   <string name="notification_volume_title">通知</string>
   <string name="notifications_disabled">ブロック</string>
@@ -2534,6 +2538,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="priority_storage_summary">データを保存する場所を選択</string>
   <string name="priority_storage_title">ストレージ設定</string>
   <string name="privacy_applock">アプリロック</string>
+  <string name="privacy_delete_space_dlg_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
+  <string name="privacy_dlg_button_cancel">Cancel</string>
+  <string name="privacy_factory_reset_dlg_button_text">Back up data</string>
+  <string name="privacy_factory_reset_dlg_message">"Back up your data locally, and then perform a factory data reset. After that, you'll be able to change your password."</string>
+  <string name="privacy_factory_reset_dlg_title">Back up your data</string>
   <string name="privacy_file">ファイル</string>
   <string name="privacy_gallery">写真</string>
   <string name="privacy_mms">メッセージ</string>

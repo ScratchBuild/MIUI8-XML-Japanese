@@ -246,6 +246,7 @@
   <string name="task_service_not_launched">"タスクはまだ開始されていません"</string>
   <string name="task_stopped_exception">"復元がキャンセルされました"</string>
   <string name="total_num">%d items,</string>
+  <string name="total_size">, %s</string>
   <string name="trans_backingup">"バックアップ中…"</string>
   <string name="trans_backingup_no_items">"同期中…"</string>
   <string name="trans_calculating">"計算中…"</string>

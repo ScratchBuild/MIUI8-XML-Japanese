@@ -52,6 +52,8 @@
   <string name="hour">"1時間"</string>
   <string name="hour_unit">Hr +</string>
   <string name="hours">"%d時間"</string>
+  <string name="install_weather_app_error">"アプリの読み込みに失敗しました。"</string>
+  <string name="install_weather_app_loading">"読み込み中…"</string>
   <string name="keep_screen_on">"画面を点灯したままにする"</string>
   <string name="label">"ラベル"</string>
   <string name="label_pref_summary">"ラベル"</string>
