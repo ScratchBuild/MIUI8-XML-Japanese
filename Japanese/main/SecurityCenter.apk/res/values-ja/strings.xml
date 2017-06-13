@@ -708,7 +708,6 @@
   <string name="flow_rank_title">"データ使用量"</string>
   <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
   <string name="float_window_tips">小米手机就是快！</string>
-  <string name="flow_rank_title">Data usage</string>
   <string name="foreground_traffic">"フォアグラウンド %s"</string>
   <string name="forget_password_button_text">"<u>パスワードを忘れた場合</u>"</string>
   <string name="forget_pattern"><u>Forgot pattern?</u></string>
