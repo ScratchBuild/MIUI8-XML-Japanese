@@ -7,7 +7,6 @@
   <string name="default_lockscreen_unlock_hint_text">"上にスワイプでロック解除"</string>
   <string name="delete">"削除"</string>
   <string name="emergency_call_string">"緊急通報"</string>
-  <string name="find_device_turn_off_flight_mode">"機内モードをオフにする"</string>
   <string name="fingerprint_add_text">The fingerprint interface was updated. Add your fingerprint again.</string>
   <string name="fingerprint_add_title">"指紋認証を追加"</string>
   <string name="fingerprint_again_identified_msg">Your fingerprint is active now. Use it to unlock the device, or enter password.</string>
@@ -24,6 +23,7 @@
   <string name="incorrect_pukcode">"PUKコードが正しくありません"</string>
   <string name="incorrect_pukcode_remaining_attempts">"PUKコードが正しくありません、残り%d回です"</string>
   <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">"通話中にspaceを切り替えることはできません"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">"デバイスを再起動した後、First spaceのパスワードを入力する必要があります"</string>
   <string name="input_password_hint_text">"パスワードを入力"</string>
   <string name="input_pattern_hint_text">"ロック解除パターンを入力"</string>
@@ -76,15 +76,9 @@
 
 %d秒後にもう一度お試しください。"</string>
   <string name="lockscreen_failed_attempts_now_wiping">"端末のロック解除を%d回失敗しました。端末を工場出荷状態にリセットします。"</string>
-  <string name="lockscreen_glogin_checking_password">"確認中…"</string>
-  <string name="lockscreen_glogin_invalid_input">"ユーザー名かパスワードが無効です。"</string>
-  <string name="lockscreen_glogin_password_hint">"パスワード"</string>
-  <string name="lockscreen_glogin_submit_button">"ログイン"</string>
-  <string name="login_website_in_case_forget_password">"パスワードをリセットするには、www.mi.com/micloud へアクセスしてください"</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">"Bluetoothデバイスによってロック解除されました"</string>
   <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
   <string name="open_remote_center_hint_text">"右にスワイプで電話を開く"</string>
-  <string name="open_wifi_settings">"ネットワーク接続を開く"</string>
   <string name="phone_locked_foget_password">Forgot password?</string>
   <string name="phone_locked_foget_password_content">"この端末に関連付けられたMi Accountを使用して i.mi.com にログインすることで、すべてのデータを消去することができます。これは、端末に保存されているすべての個人データが消去されます。その後、端末を再起動して連絡先、メッセージ、写真、その他のアイテムをMi Cloudから復元することができます。
 

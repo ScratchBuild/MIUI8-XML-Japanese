@@ -119,12 +119,15 @@
   <string name="delete_message">メッセージを削除</string>
   <string name="delete_phrase">定型文を削除</string>
   <string name="delete_unlocked">ロックされたメッセージを削除</string>
+  <string name="delete_verification_code_sms_message">すべてのワンタイムパスワードを削除しますか？</string>
+  <string name="delete_verification_code_sms_title">ワンタイムパスワードの削除</string>
   <string name="delete_wild_sims">番号を削除</string>
   <string name="delete_wild_sims_confirm">選択した番号に属すメッセージはこの携帯端末からすべて削除されます。削除したメッセージはmi.comで復元できます。</string>
   <string name="delete_wild_sims_title">選択した番号を削除</string>
   <string name="delivery_report_activity">受取確認通知</string>
   <string name="delivery_toast_body">"%sさん宛てのメッセージ"</string>
   <string name="disable_notifications_dialog_message">デフォルトのメッセージアプリからのテキストメッセージ通知が重複しないようにしますか？</string>
+  <string name="disabled">無効</string>
   <string name="discard">破棄</string>
   <string name="discard_message">破棄</string>
   <string name="discard_message_reason">宛先が不正なためメッセージを破棄しました。</string>
@@ -139,10 +142,12 @@
   <string name="duration_sec">"表示時間 (%s秒)"</string>
   <string name="duration_selector_title">"スライドの表示時間"</string>
   <string name="duration_zero">表示時間には0秒より大きい値を指定してください</string>
+  <string name="earlier">Earlier</string>
   <string name="edit">編集</string>
   <string name="edit_phrase">定型文を編集</string>
   <string name="edit_slide_activity">スライドを編集</string>
   <string name="edit_slideshow_activity">スライドショーを編集</string>
+  <string name="enabled">有効</string>
   <string name="english_subject_limit">上限40文字まで</string>
   <string name="enter_edit_mode">メッセージを編集</string>
   <string name="error_code_label">"エラーコード: "</string>
@@ -164,6 +169,7 @@
   <string name="fake_cell_detection_entry">偽装基地局の検出</string>
   <string name="fake_cell_safe_hint">このメッセージは安全です</string>
   <string name="fake_cell_timeout_hint">"安全性を確認できませんでした"</string>
+  <string name="favorite_at_time">Starred at: %1s</string>
   <string name="fdn_check_failure">発信番号制限で指定された宛先にのみメッセージを送信できます</string>
   <string name="festival_sms_loading">"ロード中..."</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -186,6 +192,8 @@
   <string name="group_message">グループメッセージ</string>
   <string name="group_message_failed_title">"%d人に送信できませんでした。"</string>
   <string name="group_resend_message">再送信 (%d)</string>
+  <string name="group_verification_codes_summary">ワンタイムパスワードを自動的にグループ化する</string>
+  <string name="group_verification_codes_title">ワンタイムパスワードのグループ化</string>
   <string name="guild_add_attachments">タップして顔文字・その他のアイテムを追加</string>
   <string name="guild_add_recipients">タップして連絡先に宛先を追加</string>
   <string name="guild_msim_switcher">タップしてSIMカードを切替</string>
@@ -376,6 +384,7 @@
   <string name="pref_other_title">詳細設定</string>
   <string name="pref_show_blocked_messages_summary">スレッドリストでブロックしたSMSを表示</string>
   <string name="pref_show_list_avatar_summary">リストビューでプロフィール写真や連絡先情報を表示する</string>
+  <string name="pref_show_sms_template_entry_summary">SMSでワンタイムパスワードを検出する</string>
   <string name="pref_show_sms_template_in_summary">SMSメッセージでワンタイムパスワードを自動的に認識</string>
   <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
   <string name="pref_smart_messages_settings">Smart messages</string>
@@ -393,13 +402,9 @@
   <string name="pref_summary_off_system_mms_priority">MMSの送受信にはサードパーティ製のアプリを使用する</string>
   <string name="pref_summary_on_system_mms_priority">"MMSの送受信にはMIUIメッセージアプリをデフォルトに設定する"</string>
   <string name="pref_summary_send_delivery_reports">MMSを受信した場合は配達確認メッセージを送信者に送信</string>
-  <string name="pref_summary_show_recent_contacts">新規メッセージを作成する際に履歴の連絡先を表示</string>
   <string name="pref_summary_wake_up_screen">新しいメッセージを受信した時は画面を起動</string>
   <string name="pref_switch_sdk_setting">Switch smart SMS service provider</string>
   <string name="pref_system_title">システム</string>
-  <string name="pref_time_auto_group_disabled_summary">"現在のフォントサイズはサポートされていません"</string>
-  <string name="pref_time_auto_group_summary">互いに1分以内に受信したメッセージは同じスレッドにまとめて分類する</string>
-  <string name="pref_time_auto_group_title">日時で分類</string>
   <string name="pref_title_about_smart_sms">Smart messages partnerについて</string>
   <string name="pref_title_allow_si_sl_push">WAPプッシュを許可(SI/SL)</string>
   <string name="pref_title_card_format">カード共有フォーマット</string>
@@ -416,7 +421,6 @@
   <string name="pref_title_ringtone_repeat">通知音が鳴る回数</string>
   <string name="pref_title_ringtone_repeat_summary">"画面オフの場合にSMSを受信した際、通知音を再生"</string>
   <string name="pref_title_send_delivery_reports">配達レポートを送信</string>
-  <string name="pref_title_show_recent_contacts">履歴の連絡先を表示</string>
   <string name="pref_title_sms_delete">テキストメッセージの制限件数</string>
   <string name="pref_title_sms_validity_period">SMS期限切れ</string>
   <string name="pref_title_storage_status">メッセージの保存状況</string>
@@ -448,6 +452,7 @@
   <string name="prvate_contact">プライベートの連絡先</string>
   <string name="quick_reply">返信</string>
   <string name="rate_limit_surpassed">OK</string>
+  <string name="received_at_time">"受信日時: %1s"</string>
   <string name="received_label">"受信: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"宛先: "</string>
@@ -521,6 +526,7 @@
   <string name="send_to">To:</string>
   <string name="send_to_count">"%1$s件のメッセージを送信"</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
+  <string name="sent_at_time">"送信日時: %1s"</string>
   <string name="sent_label">"送信: "</string>
   <string name="service_message_not_found">メッセージの有効期限が切れているか、利用できません</string>
   <string name="service_network_problem">"ネットワークの問題で送信できませんでした"</string>
@@ -610,6 +616,7 @@
   <string name="to_count">"宛先 %d件"</string>
   <string name="to_label">"To "</string>
   <string name="to_send_wrapper">"%sに送信"</string>
+  <string name="today">"今日"</string>
   <string name="too_many_attachments">添付ファイル数の上限は%1$s個です。最初の%2$s個のみ追加されました</string>
   <string name="too_many_recipients">"宛先が多すぎます (%1$s)。%2$s以上の宛先は設定できません"</string>
   <string name="too_many_unsent_mms">"今すぐメッセージを送信することはできません。未送信のマルチメディアメッセージが多すぎます"</string>
@@ -642,6 +649,8 @@
   <string name="user_agreement3">と</string>
   <string name="user_agreement4">プライバシーポリシー</string>
   <string name="user_agreement5">OKをタップすると、本利用規約とプライバシーポリシーに同意されたものとみなされます。</string>
+  <string name="verification_code_icon_name">V</string>
+  <string name="verification_code_list_title">Verification Codes</string>
   <string name="view">表示</string>
   <string name="view_bookmark">元のメッセージを表示</string>
   <string name="view_message_details">メッセージの詳細を表示</string>
@@ -654,4 +663,5 @@
   <string name="wild_msg_title">同期する電話番号を選択</string>
   <string name="yellowpage_recommend_msg">"MIUIのメッセージ機能を確認する"</string>
   <string name="yes">OK</string>
+  <string name="yesterday">"昨日"</string>
 </resources>

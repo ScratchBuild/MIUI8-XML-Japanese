@@ -34,10 +34,6 @@
         <item>最長</item>
         <item>2日</item>
     </string-array>
-    <string-array name="wild_msg_sync_options">
-        <item>すべてのメッセージを同期</item>
-        <item>選択したSIMカードからメッセージを同期</item>
-    </string-array>
     <string-array name="select_dialog_items">
         <item>1秒</item>
         <item>2秒</item>

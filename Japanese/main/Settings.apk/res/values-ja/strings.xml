@@ -3704,6 +3704,7 @@ PINが正しくない可能性があります。"</string>
   <string name="track_frame_time">GPUレンダリングのプロフィール作成</string>
   <string name="trackball_settings">トラックボール</string>
   <string name="trackball_wake_title">トラックボールでロック解除</string>
+  <string name="traffic_balance">Intelligent traffic strategy</string>
   <string name="transition_animation_scale_title">トランジションアニメスケール</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">翻訳に貢献してくれた人たち</string>

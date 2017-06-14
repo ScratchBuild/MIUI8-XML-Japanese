@@ -692,12 +692,12 @@
   <string name="firewall_network_allow">Allowed %1$s to use %2$s connection</string>
   <string name="firewall_network_restrict_notify_message">"設定を変更するにはタップ。"</string>
   <string name="firewall_network_restrict_notify_mobile">"モバイルデータ"</string>
-  <string name="firewall_network_restrict_notify_title">"%1$sはネットワークを使用できません"</string>
   <string name="firewall_partial">Allow some apps to connect using the following method​</string>
   <string name="firewall_restrict_all">Restrict connection for all apps using the following method</string>
   <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
   <string name="firewall_restrict_android_dialog_title">"注意"</string>
   <string name="firewall_restrict_data">Restrict mobile data usage</string>
+  <string name="firewall_restrict_notify_title">"%1$sはネットワークを使用できません"</string>
   <string name="firewall_restrict_wlan">Restrict using WLAN connection</string>
   <string name="firewall_rule_group_title_mobile">"モバイル"</string>
   <string name="firewall_rule_group_title_roaming">"海外ローミング"</string>

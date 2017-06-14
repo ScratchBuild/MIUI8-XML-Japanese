@@ -15,6 +15,8 @@ this feature will be added to Second space automatically."</string>
   <string name="appData">"インストール済みアプリ"</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">"戻る"</string>
+  <string name="can_not_delete_when_calling">"通話中にspaceを削除することはできません"</string>
+  <string name="can_not_switch_when_calling">"通話中にspaceを切り替えることはできません"</string>
   <string name="cancelClosePassword">"オフにしないでください"</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="changePassword">"パスワードを変更"</string>
