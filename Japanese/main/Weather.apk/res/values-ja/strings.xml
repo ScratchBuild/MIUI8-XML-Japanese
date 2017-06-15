@@ -195,7 +195,7 @@
   <string name="view_indexes_item_tommorrow">"明日"</string>
   <string name="weather_alert">"天気予報のアラート"</string>
   <string name="wind_direction_no_data">"風向き"</string>
-  <string name="xiaomi_weather_description_content">Xiaomi Weather APP can provide accurate weather forecast information,bring more convenience for your daily trip. Uninstall will affect functions of the status bar,desktop weather clock and so on. Do you want to continue uninstalling system components?</string>
-  <string name="xiaomi_weather_description_title">Xiaomi Weather APP Description</string>
+  <string name="xiaomi_weather_description_content">"Weather provides you with accurate weather info. Without this app, status bar and Home screen Weather widget won't work properly. Make sure you can do without these features before you uninstall the app."</string>
+  <string name="xiaomi_weather_description_title">About Weather</string>
   <string name="yes_vote_ratio">For %1$s%%</string>
 </resources>
