@@ -100,9 +100,11 @@
   <string name="pbap_session_key_dialog_title">%1$sのセッションキーを入力</string>
   <string name="permdesc_bluetoothShareManager">"BluetoothShareマネージャーへのアクセスとそれを利用したファイル転送をアプリに許可します。"</string>
   <string name="permdesc_bluetoothWhitelist">"Bluetooth端末によるアクセスを一時的に許可して、ユーザーの確認を受けずにその端末からこの端末にファイルを送信することをアプリに許可します。"</string>
+  <string name="permdesc_handoverStatus">Allows receiving handover transfer status information from Bluetooth.</string>
   <string name="permlab_bluetoothAvrcpDataManager">Access avrcp metadata.</string>
   <string name="permlab_bluetoothShareManager">"ダウンロードマネージャーにアクセスします。"</string>
   <string name="permlab_bluetoothWhitelist">"Bluetooth端末によるアクセスを許可します。"</string>
+  <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
   <string name="process"/>
   <string name="sharedUserId"/>
   <string name="start_server">"TCPサーバーを起動"</string>

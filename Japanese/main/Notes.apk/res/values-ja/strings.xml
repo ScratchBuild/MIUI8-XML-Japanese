@@ -59,7 +59,7 @@
   <string name="error_widget_exist_for_send_to_desktop">"このノートは既にホーム画面に設置済みです"</string>
   <string name="folder_exist">"同じ名前のフォルダが既に存在します"</string>
   <string name="force_touch_menu_add">"ノートを追加"</string>
-  <string name="format_move_note_out_folder">"移動しました"</string>
+  <string name="format_move_note_out_folder">"このノートは移動されました"</string>
   <string name="format_move_note_to_folder">"%1$sに移動しました"</string>
   <string name="format_move_notes_out_folder">"%1$sを移動しました"</string>
   <string name="format_move_notes_to_folder">"%1$sを%2$sに移動しました"</string>

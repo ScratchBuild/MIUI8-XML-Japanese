@@ -446,6 +446,9 @@
   <string name="bind_xiaomi_account_confirm">追加</string>
   <string name="bind_xiaomi_account_dialog_summery">Mi Account %s を追加しようとしています。パスワードを忘れた場合、それをリセットするにはこのアカウントを使用することができます。</string>
   <string name="bind_xiaomi_account_success">Mi Accountが正常に追加されました</string>
+  <string name="biometric_weak_improve_matching_title">Improve face matching</string>
+  <string name="biometric_weak_liveliness_summary">Require eye blink while unlocking</string>
+  <string name="biometric_weak_liveliness_title">Liveness check</string>
   <string name="block_list_connected_devices">接続済みデバイス</string>
   <string name="block_list_diaglog_cancle">キャンセル</string>
   <string name="block_list_diaglog_ok">OK</string>
@@ -3798,6 +3801,8 @@ PINが正しくない可能性があります。"</string>
   <string name="unlock_disable_lock_title">画面ロックをOFFにする</string>
   <string name="unlock_set_enter_system">画面ロックをスキップ</string>
   <string name="unlock_set_enter_system_summary">画面スリープ復帰から直接ホーム画面に移動</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Low security, experimental</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
   <string name="unlock_set_unlock_disabled_summary">管理者、暗号化ポリシー、または認証情報により無効</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">パターン、PIN、パスワードセキュリティを変更または無効にする</string>
   <string name="unlock_set_unlock_launch_picker_change_title">ロック解除方法を変更する</string>

@@ -9,8 +9,8 @@
         <item>"ギャラリー"</item>
     </string-array>
     <string-array name="note_sort_way">
-        <item>"作成日順に並び替え"</item>
-        <item>"変更日順に並び替え"</item>
+        <item>"作成日順"</item>
+        <item>"変更日順"</item>
     </string-array>
     <string-array name="contact_entries">
         <item>"名前"</item>

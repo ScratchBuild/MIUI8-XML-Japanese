@@ -33,7 +33,6 @@
   <string name="aqi_detail_sub_title">"AQIの詳細"</string>
   <string name="aqi_detail_title">Air Quality Index</string>
   <string name="aqi_detail_unit">"単位: µg/m³"</string>
-  <string name="aqi_display_exp">exp_%1$s</string>
   <string name="aqi_publish_source">Updated at %1$s by CNEMC</string>
   <string name="aqi_publish_time">Updated %1$s</string>
   <string name="aqi_quality_ambient_air_quality">Air quality nearby</string>

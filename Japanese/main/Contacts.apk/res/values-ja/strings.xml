@@ -290,9 +290,9 @@
   <string name="description_add_contact">"連絡先を追加"</string>
   <string name="description_call">"%1$sに発信"</string>
   <string name="description_call_log_incoming_call">"着信履歴"</string>
-  <string name="description_call_log_incoming_forwarding_call">Incoming forwrading call</string>
+  <string name="description_call_log_incoming_forwarding_call">Incoming forwarded call</string>
   <string name="description_call_log_missed_call">"不在着信"</string>
-  <string name="description_call_log_missed_forwarding_call">Missed forwarding call</string>
+  <string name="description_call_log_missed_forwarding_call">Missed forwarded call</string>
   <string name="description_call_log_new_contact">New contact</string>
   <string name="description_call_log_outgoing_call">"発信履歴"</string>
   <string name="description_call_log_play_button">"ボイスメールを再生"</string>
@@ -350,18 +350,14 @@
   <string name="device_paired_dialog_title">"連絡先を読み込み中…"</string>
   <string name="device_pairing_dialog_message">"ペアとして設定中…"</string>
   <string name="device_pairing_dialog_title">Pair devices</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Please turn other device's \"Bluetooth\" on;
-        
+  <string name="device_transfer_by_bluetooth_message">"1. Turn on Bluetooth on the other device. 
 
-- Android devices usually should find the \"Bluetooth\" under the network section
-        
-- iOS devices should search \"Bluetooth\" inside Settings
-        
+- Bluetooth can be found in the network settings on Android devices. 
+- On iOS devices, Bluetooth is in the Settings. 
 
-2. Android devices should also turn the \"Discoverable\" option on;
-        
+2. Discoverable mode should also be turned on on Android devices. 
 
-3. Click \"Next\", and allow the contacts accessing permission in the following step."</string>
+3. Tap \"Next\", and give Contacts the required permissions."</string>
   <string name="device_transfer_by_sim_message">"1. Save the contacts from the other device on the SIM card;
         
 
