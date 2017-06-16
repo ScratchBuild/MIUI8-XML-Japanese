@@ -61,7 +61,7 @@
   <string name="button_sure_abandon">"変更を破棄しますか？"</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
-  <string name="city_exceeded_warning">You can add up to 10 cities</string>
+  <string name="city_exceeded_warning">"最大で10都市まで追加できます"</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">"読み込み中..."</string>
   <string name="connect_fail">"ネットワークに接続できません、後でもう一度お試しください。"</string>

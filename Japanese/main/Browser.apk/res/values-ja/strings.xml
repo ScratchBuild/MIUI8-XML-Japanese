@@ -218,7 +218,7 @@ is about to happen"</string>
   <string name="delete_download">"削除"</string>
   <string name="dialog_cannot_resume">"ダウンロードが中断されました"</string>
   <string name="dialog_confirm_delete_checkbox_message">"内部ストレージ上のファイルを削除"</string>
-  <string name="dialog_confirm_delete_downloads_message">Delete %s tasks?</string>
+  <string name="dialog_confirm_delete_downloads_message">"%s個のタスクを削除しますか？"</string>
   <string name="dialog_confirm_delete_the_download_item_message">"このタスクを削除しますか？"</string>
   <string name="dialog_failed_body">"後でやり直すか、ダウンロードキューからこのファイルを削除しますか？"</string>
   <string name="dialog_file_already_exists">"このファイルは既にダウンロード済みです"</string>
@@ -666,8 +666,8 @@ is about to happen"</string>
   <string name="save_to_camera">"ギャラリーに保存"</string>
   <string name="save_to_camera_failed">"画像を保存できません"</string>
   <string name="save_to_camera_success">"ギャラリーに保存しました"</string>
-  <string name="scanner_uninstalled_text">Install Scanner to continue</string>
-  <string name="scanner_uninstalled_title">Scanner has been uninstalled</string>
+  <string name="scanner_uninstalled_text">"続行するにはスキャナーをインストールしてください"</string>
+  <string name="scanner_uninstalled_title">"スキャナーがアンインストールされました"</string>
   <string name="sdcard_error">"SDカードを確認してください"</string>
   <string name="search">"検索"</string>
   <string name="search_baidu">Baidu</string>
@@ -702,8 +702,8 @@ is about to happen"</string>
   <string name="send_comment_title">"コメント"</string>
   <string name="senddesktop">"ホーム画面"</string>
   <string name="sendstartpage">"スタートページ"</string>
-  <string name="share_image_text">Look what I found!</string>
-  <string name="share_page_text">Look what I found: %1$s | %2$s</string>
+  <string name="share_image_text">こんなものを見つけました！</string>
+  <string name="share_page_text">こんなものを見つけました: %1$s | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Browser needs to connect to the internet to work normally. To improve security and receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Browser needs to connect to the internet to work normally. To receive more relevant recommendations, allow Browser to get the URLs of the websites you visit and access your location info.</string>
   <string name="show_security_tip_dialog_title">"利用規約"</string>
@@ -815,7 +815,7 @@ is about to happen"</string>
   <string name="video_download_unknown_name">"不明な名前"</string>
   <string name="video_download_unknown_size">"不明なサイズ"</string>
   <string name="video_download_unsupport">"サポートされていません"</string>
-  <string name="video_download_wait_for_wifi">Waiting for Wi-Fi</string>
+  <string name="video_download_wait_for_wifi">"Wi-Fiを待機中"</string>
   <string name="video_downloaded_group">"ダウンロード済み"</string>
   <string name="video_downloading_group">"ダウンロード中"</string>
   <string name="video_edit">"編集"</string>
@@ -846,8 +846,8 @@ is about to happen"</string>
   <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
   <string name="voice_check_network">"ネットワークの設定を確認してもう一度お試しください。"</string>
   <string name="voice_connect_network">"ネットワークに接続できません"</string>
-  <string name="voice_network_connection">Voice search requires to connect to the internet to work normally.</string>
-  <string name="voice_search_permission">Voice search needs to access your mic to work normally.</string>
+  <string name="voice_network_connection">"音声検索が正常に動作するには、インターネットへの接続が必要です。"</string>
+  <string name="voice_search_permission">"音声検索が正常に動作するには、マイクへのアクセスが必要です。"</string>
   <string name="voice_semantic_analysis">Browser will be able to analyze semantics after you allow it to connect.</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
   <string name="voice_title">Say your command…</string>

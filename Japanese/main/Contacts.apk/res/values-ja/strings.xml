@@ -712,7 +712,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="miprofile_request_notification_title">%1$s people want to exchange contact cards</string>
   <string name="miprofile_request_notification_title_name">%1$s wants to exchange contact cards</string>
   <string name="miprofile_save_alertdialog_message">Your card will be sent to this contact automatically.</string>
-  <string name="miprofile_save_alertdialog_title">Contact card received</string>
+  <string name="miprofile_save_alertdialog_title">"連絡先カードを受信しました"</string>
   <string name="miprofile_switch_off_alertdialog_message">"You won't be able to exchange contact cards with other people."</string>
   <string name="miprofile_switch_on_alertdialog_message">Exchange contact cards to view updated profile photo.</string>
   <string name="miprofile_switch_on_alertdialog_positive">"オンにする"</string>
@@ -722,7 +722,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
   <string name="more_call_logs">Listen to all your call recordings at mi.com/micloud</string>
   <string name="move_and_resize">"移動とリサイズ"</string>
-  <string name="multi_number_menu_call">Call</string>
+  <string name="multi_number_menu_call">"通話"</string>
   <string name="multi_number_menu_delete">"削除"</string>
   <string name="multi_number_menu_group">New group</string>
   <string name="multi_number_menu_message">"メッセージ"</string>
@@ -942,7 +942,7 @@ To add a contact to your list of favorites:
   <string name="preference_import">"インポート"</string>
   <string name="preference_import_export">"インポート/エクスポート"</string>
   <string name="preference_import_export_title">Import/Export contacts</string>
-  <string name="preference_key_trash_bin_title">Recover contacts</string>
+  <string name="preference_key_trash_bin_title">"連絡先を復元"</string>
   <string name="preference_others">"その他"</string>
   <string name="preference_phone">"電話"</string>
   <string name="preference_phone_more_title">"通話設定"</string>
