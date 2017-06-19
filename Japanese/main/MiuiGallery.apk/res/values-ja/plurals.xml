@@ -9,16 +9,16 @@
         <item quantity="one">Total %d photo</item>
     </plurals>
     <plurals name="age_year">
-        <item quantity="other">%d years</item>
-        <item quantity="one">%d year</item>
+        <item quantity="other">%d歳</item>
+        <item quantity="one">%d歳</item>
     </plurals>
     <plurals name="age_month">
-        <item quantity="other">%d months</item>
-        <item quantity="one">%d month</item>
+        <item quantity="other">%dヶ月</item>
+        <item quantity="one">%dヶ月</item>
     </plurals>
     <plurals name="age_day">
-        <item quantity="other">%d days</item>
-        <item quantity="one">%d day</item>
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">%1$d photos of %2$s will be added</item>

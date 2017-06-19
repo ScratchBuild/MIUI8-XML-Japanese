@@ -219,13 +219,13 @@
   <string name="confirm">"確認"</string>
   <string name="confirm_download_video_message">"動画を視聴するにはダウンロードを完了してください。Wi-Fiが利用可能になるとダウンロードを再開します。"</string>
   <string name="confirm_download_video_title">"動画をダウンロードする"</string>
-  <string name="confirm_face">Match</string>
+  <string name="confirm_face">"一致しました"</string>
   <string name="confirm_hidden_recommend_group">OK</string>
   <string name="confirm_hidden_recommend_group_message">When recommendations are turned off, you can still use \"More people who look alike\" option</string>
   <string name="confirm_hidden_recommend_group_title">"おすすめを表示しない"</string>
   <string name="confirm_merge_face_albums">" "<Data> このアルバムを%sと統合しますか？ </Data>" "</string>
   <string name="confirm_merge_many_face_albums">" "<Data> これらのアルバムを%sと統合しますか？ </Data>" "</string>
-  <string name="confirm_not_face">No matches</string>
+  <string name="confirm_not_face">"一致しません"</string>
   <string name="confirm_recommandation_face_is">" "<Data> Sure this is &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? This person will be moved to \"%2$s\" album. </Data>" "</string>
   <string name="confirm_recommandation_face_not">" "<Data>" Sure this isn't &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "<Data> Sure these are &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? These people will be moved to \"%2$s\" album. </Data>" "</string>
@@ -472,7 +472,7 @@ Take more photos of your friends!"</string>
   <string name="merge_album">"統合"</string>
   <string name="merge_album_title">Merge with a person</string>
   <string name="messagelist_sender_self">"自分"</string>
-  <string name="micloud_introduce">Back up photos and videos automatically (Mi Account is required)</string>
+  <string name="micloud_introduce">"写真や動画を自動的にバックアップする (Mi Accountが必要)"</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face">More people who look alike</string>
   <string name="more_face_album_name">More people</string>
@@ -517,7 +517,7 @@ Take more photos of your friends!"</string>
   <string name="operation_enter_delete_local">"デバイスからバックアップ済みの写真と動画を削除"</string>
   <string name="operation_failed">"操作を完了できませんでした"</string>
   <string name="operation_force_top">"ピン留めを設定"</string>
-  <string name="operation_hide">"非表示"</string>
+  <string name="operation_hide">"非表示にする"</string>
   <string name="operation_in_process">"処理中…"</string>
   <string name="operation_move_to_other_albums">"他のアルバムに移動"</string>
   <string name="operation_not_show_in_photos_tab">"Don't show in Photos"</string>
@@ -525,7 +525,7 @@ Take more photos of your friends!"</string>
   <string name="operation_remove_face">"削除"</string>
   <string name="operation_remove_from_face_album">"アルバムから削除"</string>
   <string name="operation_remove_from_other_albums">"他のアルバムから移動"</string>
-  <string name="operation_remove_secret">Unhide</string>
+  <string name="operation_remove_secret">"非表示を解除"</string>
   <string name="operation_rename">"名前を変更"</string>
   <string name="operation_save">"保存"</string>
   <string name="operation_send">"送る"</string>
@@ -538,7 +538,7 @@ Take more photos of your friends!"</string>
   <string name="operation_successful">"完了"</string>
   <string name="operation_too_often">"うわあ！あなたのIPアドレスから大量のリクエストが行われています。しばらくしてからもう一度お試しください。"</string>
   <string name="operation_unforce_top">"ピン留めを解除"</string>
-  <string name="operation_unhide">Unhide</string>
+  <string name="operation_unhide">"非表示を解除"</string>
   <string name="orientation_lock_tip">"自動回転はオフです"</string>
   <string name="orientation_unlock_tip">"自動回転はオンです"</string>
   <string name="other_album">"その他のアルバム"</string>

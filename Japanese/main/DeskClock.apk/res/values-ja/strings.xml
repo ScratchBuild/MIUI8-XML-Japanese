@@ -38,8 +38,8 @@
   <string name="delete">"削除"</string>
   <string name="delete_alarm">"アラームを削除"</string>
   <string name="delete_alarm_confirm">"このアラームを削除しますか？"</string>
-  <string name="delete_selected_timer_item">Delete the selected timer task?</string>
-  <string name="delete_timer_item_title">Delete timer task</string>
+  <string name="delete_selected_timer_item">"選択したタイマーを削除しますか？"</string>
+  <string name="delete_timer_item_title">"タイマーを削除"</string>
   <string name="delete_timezone_title">"タイムゾーンを削除"</string>
   <string name="dialog_confirm_abort">"変更を破棄しますか？"</string>
   <string name="done">"完了"</string>
@@ -82,7 +82,7 @@
   <string name="loading_ringtone">"着信音を読み込み中..."</string>
   <string name="menu_add_worldclock">"都市を追加"</string>
   <string name="menu_desk_clock">"時計"</string>
-  <string name="menu_edit_timer_item">Edit timer task</string>
+  <string name="menu_edit_timer_item">"タイマーを編集"</string>
   <string name="menu_item_dock_settings">"ホルダーの設定"</string>
   <string name="menu_item_sort_by_gmt_offset">"時差順"</string>
   <string name="menu_item_sort_by_name">"名前順"</string>

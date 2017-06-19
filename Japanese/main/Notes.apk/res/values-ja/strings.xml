@@ -13,7 +13,7 @@
   <string name="alert_message_restore">"このノートを開くことができませんでした。内容を編集するために復元します。"</string>
   <string name="alert_title_delete">"ノートを削除しますか？"</string>
   <string name="alert_title_edit_anyway">"このノートにはサポートされていないコンテンツが含まれています"</string>
-  <string name="alert_title_hidden_note">Received a hidden note reminder</string>
+  <string name="alert_title_hidden_note">"非表示ノートのリマインダーを受信しました"</string>
   <string name="alert_title_restore">"ノートを復元"</string>
   <string name="all_folder_name">"すべてのノート"</string>
   <string name="all_terms">"%1$s と %2$s"</string>
@@ -30,7 +30,7 @@
   <string name="dlg_btn_set_password">"パスワードを設定"</string>
   <string name="dlg_check_reminder">"次回から表示しない"</string>
   <string name="dlg_delete_message">"削除中…"</string>
-  <string name="dlg_hide_message">Hiding…</string>
+  <string name="dlg_hide_message">"非表示にしています…"</string>
   <string name="dlg_info_creating_message">"メッセージを作成中…"</string>
   <string name="dlg_message_password_reset">"Hidden notes' password will be replaced with Privacy protection password which works for apps, photos, and hidden folders"</string>
   <string name="dlg_message_set_password">Privacy protection password works for apps, photos, and hidden folders</string>
@@ -42,7 +42,7 @@
   <string name="dlg_title_password_reset">"パスワードを更新"</string>
   <string name="dlg_title_set_password">"パスワードを設定"</string>
   <string name="dlg_title_use_privacy_password">"プライバシー保護パスワードを使用"</string>
-  <string name="dlg_unhide_message">Unhiding…</string>
+  <string name="dlg_unhide_message">"非表示を解除しています…"</string>
   <string name="done">"完了"</string>
   <string name="edit_header_done_description">"完了"</string>
   <string name="edit_header_home_description">"戻る"</string>
@@ -76,7 +76,7 @@
   <string name="menu_delete">"削除"</string>
   <string name="menu_delete_forever">"完全に削除"</string>
   <string name="menu_folders">"フォルダ"</string>
-  <string name="menu_mark_privacy">Hide</string>
+  <string name="menu_mark_privacy">"非表示にする"</string>
   <string name="menu_move_parent_folder">"親フォルダ"</string>
   <string name="menu_move_to">"移動"</string>
   <string name="menu_new_folder">"新しいフォルダ"</string>
@@ -88,7 +88,7 @@
   <string name="menu_source">From %1$s</string>
   <string name="menu_stick">"ピン留めを設定"</string>
   <string name="menu_title_select_folder">"フォルダを選択"</string>
-  <string name="menu_unmark_privacy">Unhide</string>
+  <string name="menu_unmark_privacy">"非表示を解除"</string>
   <string name="menu_unstick">"ピン留めを解除"</string>
   <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">"後で"</string>
@@ -105,8 +105,8 @@
   <string name="notealert_ok">"却下"</string>
   <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Note reminder</string>
-  <string name="permdesc_accessNote">Malicious apps may use this to access your personal data.</string>
-  <string name="permlab_accessNote">Access notes</string>
+  <string name="permdesc_accessNote">"この許可を悪意のあるアプリに利用されると、個人情報にアクセスされる恐れがあります。"</string>
+  <string name="permlab_accessNote">"ノートへのアクセス"</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"ジェスチャーを使用してノートを削除する時に確認を行わない"</string>
   <string name="pref_title_cloud_trash_bin">"Mi Cloudのノートを削除"</string>
   <string name="pref_title_common">"その他の設定"</string>

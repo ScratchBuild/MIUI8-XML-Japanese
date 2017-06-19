@@ -29,7 +29,7 @@
   <string name="pages_range_example">"例: 1-5,8,11-13"</string>
   <string name="permdesc_accessAllPrintJobs">Allows the holder to access print jobs created by another app. Should never be needed for normal apps.</string>
   <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
-  <string name="permlab_accessAllPrintJobs">access all print jobs</string>
+  <string name="permlab_accessAllPrintJobs">"すべての印刷ジョブへのアクセス"</string>
   <string name="permlab_startPrintServiceConfigActivity">start print service configuration activities</string>
   <string name="print_add_printer">"プリンタを追加"</string>
   <string name="print_button">"印刷"</string>
