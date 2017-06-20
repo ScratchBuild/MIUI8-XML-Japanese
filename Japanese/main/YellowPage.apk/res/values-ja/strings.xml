@@ -288,11 +288,9 @@
   <string name="menu_delete_call_log">通話履歴を削除</string>
   <string name="menu_delete_one">通話履歴から削除</string>
   <string name="menu_enroll_in_yellow_page">"Caller IDに登録"</string>
-  <string name="menu_follow_yellow_page">Follow</string>
   <string name="menu_remove_black_list">ブロックリストから削除</string>
   <string name="menu_remove_from_favorite">お気に入りから削除</string>
   <string name="menu_save_contact">連絡先に番号を保存する</string>
-  <string name="menu_unfollow_yellow_page">Unfollow</string>
   <string name="minimum_price">%d RMB min</string>
   <string name="mishop_web_payment_title">Mi Store checkout</string>
   <string name="miuishare_account_activate_confirmation">Activate Mi Account</string>

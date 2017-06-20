@@ -88,8 +88,8 @@ i.mi.com にログインして“Find device”に移動したら、デバイス
   <string name="phone_locked_foget_password_header">"パスワードを忘れた場合はどうすればよいですか？"</string>
   <string name="phone_locked_foget_password_ok">OK</string>
   <string name="phone_locked_string">"電話がロックされています"</string>
-  <string name="phone_locked_timeout_minutes_string">"%s分後にもう一度お試しください"</string>
-  <string name="phone_locked_timeout_seconds_string">"%s秒後にもう一度お試しください"</string>
+  <string name="phone_locked_timeout_minutes_string">"%d分後にもう一度お試しください"</string>
+  <string name="phone_locked_timeout_seconds_string">"%d秒後にもう一度お試しください"</string>
   <string name="unlock_string">"ロックを解除"</string>
   <string name="unlocking_sim_card">"SIMカードのロックを解除中"</string>
   <string name="unlockscreen_low_battery">"充電器を接続してください"</string>

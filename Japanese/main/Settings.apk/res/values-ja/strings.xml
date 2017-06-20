@@ -1620,12 +1620,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="intent_sender_resource_label">Resource:</string>
   <string name="intent_sender_sendbroadcast_text">ブロードキャストを送信</string>
   <string name="intent_sender_startactivity_text">アクティビティを開始</string>
-  <string name="internal_format">内部ストレージの消去</string>
-  <string name="internal_format_summary">端末の内部ストレージ内のすべてのデータを消去します。</string>
-  <string name="internal_media_format_button_text">内部ストレージを消去</string>
-  <string name="internal_media_format_desc">内部ストレージを消去しますか？<b>すべて</b>データが削除されます。内部ストレージが消去された後、端末が再起動されます。</string>
-  <string name="internal_media_format_final_desc">内部ストレージを消去しますか？この操作は元に戻すことができません！内部ストレージが消去された後、端末が再起動されます。</string>
-  <string name="internal_media_format_title">内部ストレージを消去</string>
   <string name="internal_memory">内部ストレージ</string>
   <string name="internal_storage">内部ストレージ</string>
   <string name="internal_storage_sentence">内部ストレージ</string>
@@ -2709,6 +2703,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="radio_info_toggle_dns_check_label">DNSチェックを切り替え</string>
   <string name="rank_title">ランキング</string>
   <string name="rarely_running">たまに実行（%s）</string>
+  <string name="reading_data">情報を取得中…</string>
   <string name="really_remove_account_message">このアカウントを削除すると、メール、連絡先などのすべてのデータも携帯端末から削除されます。</string>
   <string name="really_remove_account_title">アカウントを削除しますか？</string>
   <string name="rebootiing_for_updates">再起動中…</string>

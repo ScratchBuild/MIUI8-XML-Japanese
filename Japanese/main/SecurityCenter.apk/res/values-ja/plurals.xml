@@ -205,6 +205,14 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Fixed %1$d issues. Everything looks good now.</item>
         <item quantity="one">Fixed %1$d issue. Everything looks good now.</item>
     </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">危険なアプリ: %d</item>
+        <item quantity="one">危険なアプリ: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">トロイの木馬: %d</item>
+        <item quantity="one">トロイの木馬: %d</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d apps contain privacy risks</item>
         <item quantity="one">%d app contains privacy risks</item>

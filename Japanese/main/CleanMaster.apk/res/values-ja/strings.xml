@@ -33,6 +33,8 @@
   <string name="apk_status_installed_old">"古いバージョン"</string>
   <string name="apk_status_uninstalled">"未インストール"</string>
   <string name="apk_title_alipay_plugin">"AliPayプラグイン"</string>
+  <string name="app_description_content">クリーナーは端末上のゴミを見つけてストレージの空き領域を解放します。Make sure you can do without these features before you uninstall the app.</string>
+  <string name="app_description_title">クリーナーについて</string>
   <string name="app_install_tips_go_to">"開く"</string>
   <string name="app_install_tips_install_success">"%1$sが正常にインストールされました"</string>
   <string name="app_name">JunkEngine</string>
@@ -178,6 +180,8 @@
   <string name="empty_title_photos">No photos found</string>
   <string name="empty_title_residual">"残留ファイルはありません"</string>
   <string name="empty_title_video">No videos to delete​</string>
+  <string name="engine_cm">Clean Master</string>
+  <string name="engine_tm">Tencent</string>
   <string name="file">"ファイル"</string>
   <string name="file_not_found">"ファイルが見つかりません"</string>
   <string name="flow_rank_title">"データ使用量"</string>

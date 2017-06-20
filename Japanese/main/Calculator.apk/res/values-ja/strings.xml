@@ -29,6 +29,8 @@
   <string name="dateformat">yyyy/MM/dd</string>
   <string name="day">day</string>
   <string name="deleteDesc">削除</string>
+  <string name="description_content">電卓では基本的な機能に加えて、多機能な単位変換、ローン計算や税金計算を使用することができます。Make sure you can do without these features before you uninstall the app.</string>
+  <string name="description_title">電卓について</string>
   <string name="devided_by_zero_reminder_message">"0で割ることはできません"</string>
   <string name="divDesc">割る</string>
   <string name="dotDesc">小数点</string>

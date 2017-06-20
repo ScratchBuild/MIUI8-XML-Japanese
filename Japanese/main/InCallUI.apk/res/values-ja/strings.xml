@@ -61,6 +61,8 @@
   <string name="card_title_conf_call">"グループ通話"</string>
   <string name="card_title_dialing">"発信中"</string>
   <string name="card_title_hanging_up">"通話終了"</string>
+  <string name="card_title_hanging_up_restart">"通話を終了できません。端末を再起動します。"</string>
+  <string name="card_title_hanging_up_weak_signal">"モバイルネットワークの信号が微弱。通話を終了します。"</string>
   <string name="card_title_in_call">"着信"</string>
   <string name="card_title_in_call_short">"着信"</string>
   <string name="card_title_in_video">"ビデオ "</string>
