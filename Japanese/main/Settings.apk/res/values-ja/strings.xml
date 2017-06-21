@@ -848,7 +848,6 @@
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
   <string name="confirm_privacy_password">プライバシー保護パスワードを入力</string>
   <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護パスワードを入力</string>
-  <string name="confirm_privacy_password_instruction">このパスワードはメッセージ、写真、および連絡先を保護します。</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">ネットワークに接続</string>
   <string name="connected_via_passpoint">%1$s経由で接続しました</string>
@@ -2534,7 +2533,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="priority_storage_settings_summary">SDカードが検出されない場合、自動的に端末の内部ストレージに保存されます。</string>
   <string name="priority_storage_summary">データを保存する場所を選択</string>
   <string name="priority_storage_title">ストレージ設定</string>
-  <string name="privacy_applock">アプリロック</string>
   <string name="privacy_delete_space_dlg_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
   <string name="privacy_dlg_button_cancel">Cancel</string>
   <string name="privacy_factory_reset_dlg_button_text">Back up data</string>

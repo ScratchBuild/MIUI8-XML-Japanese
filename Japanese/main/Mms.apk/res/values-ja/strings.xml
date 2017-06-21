@@ -568,10 +568,7 @@
   <string name="sp_category_bank">銀行通知メッセージ</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">通知</string>
-  <string name="sp_mark_as_read">すべてのメッセージを既読としてマークしますか？</string>
   <string name="sp_mark_as_read_menu_title">既読としてマーク</string>
-  <string name="sp_mark_as_read_progress">作業中...</string>
-  <string name="sp_mark_as_read_title">すべてに既読としてマーク</string>
   <string name="status_failed">失敗</string>
   <string name="status_label">"ステータス: "</string>
   <string name="status_pending">保留</string>
