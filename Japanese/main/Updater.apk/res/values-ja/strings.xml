@@ -169,11 +169,11 @@
   <string name="pm_root_success_title">Root access enabled</string>
   <string name="previous">"前へ"</string>
   <string name="progress_title_checking">"更新を確認中…"</string>
-  <string name="provision_activate_device">Activating device…</string>
-  <string name="provision_check_sim">Detect SIM card</string>
+  <string name="provision_activate_device">"端末を有効にしています…"</string>
+  <string name="provision_check_sim">"SIMカードを検出する"</string>
   <string name="provision_connect_wifi">"Wi-Fiに接続"</string>
-  <string name="provision_have_sim">SIM card inserted</string>
-  <string name="provision_no_network_extra">Connect to WLAN, or insert your SIM card and use mobile data to activate your device. You cant activate your device without connecting to the network.</string>
+  <string name="provision_have_sim">"SIMカードが挿入されています"</string>
+  <string name="provision_no_network_extra">"Wi-Fiに接続、またはSIMカードを挿入しモバイルデータを使用して端末を有効にします。ネットワークに接続しないと端末を有効にすることはできません。"</string>
   <string name="provision_no_network_title">"ネットワークに接続"</string>
   <string name="provision_retry">"再試行"</string>
   <string name="provision_toast_no_network">Connect to the network first</string>

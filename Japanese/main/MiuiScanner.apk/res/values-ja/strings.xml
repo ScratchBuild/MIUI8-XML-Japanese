@@ -6,8 +6,8 @@
   <string name="action_search">検索</string>
   <string name="address">住所:</string>
   <string name="allow_check_website_security">Show website security check notifications</string>
-  <string name="app_description_content">Scanner can scan QR codes, business cards, and documents. Make sure you can do without these features before you delete the app.</string>
-  <string name="app_description_title">About Scanner</string>
+  <string name="app_description_content">スキャナーはQRコード、名刺、ドキュメントをスキャンできます。Make sure you can do without these features before you delete the app.</string>
+  <string name="app_description_title">スキャナーについて</string>
   <string name="app_details">アプリ:</string>
   <string name="app_name">スキャナー</string>
   <string name="back">戻る</string>

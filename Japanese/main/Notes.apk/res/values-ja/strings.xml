@@ -94,7 +94,7 @@
   <string name="not_now">"後で"</string>
   <string name="note_alert_expired">"期限切れ"</string>
   <string name="note_description_content">The Notes app is a great tool for recording your ideas. It has built-in reminders and syncs your items to Mi Cloud so you can access them anywhere, anytime. Make sure you can do without these features before you delete the app.</string>
-  <string name="note_description_title">About Notes</string>
+  <string name="note_description_title">ノートについて</string>
   <string name="note_link_email">"メールを作成"</string>
   <string name="note_link_other">"マップを開く"</string>
   <string name="note_link_select">"テキストを選択"</string>

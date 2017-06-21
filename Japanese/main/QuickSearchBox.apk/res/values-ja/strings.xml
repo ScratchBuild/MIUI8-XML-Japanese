@@ -69,7 +69,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="history_clear">"消去"</string>
   <string name="history_earlier">Earlier</string>
   <string name="history_fragment_none_text">"履歴はありません"</string>
-  <string name="history_group">MMMM dd, yyyy</string>
+  <string name="history_group">yyyy/MM/dd</string>
   <string name="history_list_title">"検索履歴"</string>
   <string name="history_no_more">No more items</string>
   <string name="history_none">"履歴はありません"</string>

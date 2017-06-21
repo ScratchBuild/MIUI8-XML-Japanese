@@ -151,9 +151,9 @@
   <string name="dialog_msg_add_white_list_error">"このファイルは例外に追加できません"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">"選択したアプリをバックアップ後にアンインストールしますか？"</string>
   <string name="dialog_msg_check_all">Confirm to select %1$s that contains %2$d items</string>
-  <string name="dialog_msg_esc_cleanmaster">Stop the ongoing clean up scan?</string>
+  <string name="dialog_msg_esc_cleanmaster">"実行中のクリーンアップスキャンを停止しますか？"</string>
   <string name="dialog_msg_load_cleanup_engine_error">"クリーナーエンジンが破損しています。"</string>
-  <string name="dialog_msg_stop_scan">Stop the ongoing clean up scan?</string>
+  <string name="dialog_msg_stop_scan">"実行中のクリーンアップスキャンを停止しますか？"</string>
   <string name="dialog_msg_uninstall_apps">"これらのアプリをアンインストールしますか？"</string>
   <string name="dialog_msg_uninstall_apps_xspace">"デュアルアプリを含むこれらのアプリをアンインストールしますか？"</string>
   <string name="dialog_ok_add_white_list_error">OK</string>

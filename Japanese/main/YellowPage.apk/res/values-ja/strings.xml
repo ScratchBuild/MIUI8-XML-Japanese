@@ -141,7 +141,7 @@
   <string name="express_install_cainiao_description_1">Checking goods detail needs to download Cainiao app, be sure to download?</string>
   <string name="express_install_cainiao_description_2">Checking fetch code needs to download Cainiao app, be sure to download?</string>
   <string name="express_install_cainiao_description_3">More services needs to download Cainiao app, be sure to download?</string>
-  <string name="express_install_cainiao_ok">Download</string>
+  <string name="express_install_cainiao_ok">"ダウンロード"</string>
   <string name="express_install_cainiao_title">Install Cainiao App</string>
   <string name="express_location_failed">"現在地を取得できませんでした。住所を入力してください。"</string>
   <string name="express_more_service">More services</string>
