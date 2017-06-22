@@ -186,7 +186,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_force_sync">今すぐ同期</string>
   <string name="micloud_detail_lastest">"同期済み"</string>
   <string name="micloud_detail_lastest_with_off">"同期済み"</string>
-  <string name="micloud_detail_need_charge_or_sleep">"同期を再開するには、充電器に接続して画面をオフにする"</string>
+  <string name="micloud_detail_need_charge_or_sleep">"同期するには充電器に接続して画面をオフにしてください"</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
   <string name="micloud_detail_not_synced">"未同期"</string>
   <string name="micloud_detail_ok">OK</string>
@@ -271,7 +271,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_sync_exception">同期エラー</string>
   <string name="micloud_main_sync_init">情報の取得中</string>
   <string name="micloud_main_sync_need_charge">端末を充電してください</string>
-  <string name="micloud_main_sync_need_charge_or_sleep">端末を充電して画面をオフにする</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">"同期するには充電器に接続して画面をオフにしてください"</string>
   <string name="micloud_main_sync_now">今すぐ同期</string>
   <string name="micloud_main_sync_on">Sync on</string>
   <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
@@ -358,6 +358,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Mi Cloudを使用</string>
   <string name="micloud_sync_off">Mi Cloudとの同期はオフです</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">連絡先、カレンダー、ノートは自動的に同期されます。その他のアイテムを同期するには、Mi Cloudの設定に移動してください。</string>
   <string name="micloud_title_dspt" formatted="false">"%s 合計
  %s 使用 | %s 残り"</string>
   <string name="micloud_title_dspt_remain">"%s 残り"</string>

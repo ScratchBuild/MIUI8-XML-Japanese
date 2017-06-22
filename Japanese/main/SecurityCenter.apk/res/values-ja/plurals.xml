@@ -134,8 +134,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">%s個のアプリは保護されていません</item>
     </plurals>
     <plurals name="scan_result_description">
-        <item quantity="other">scan result : %d payment risks found</item>
-        <item quantity="one">scan result : %d payment risk found</item>
+        <item quantity="other">Found %d payment risks</item>
+        <item quantity="one">Found %d payment risk</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d items secure</item>

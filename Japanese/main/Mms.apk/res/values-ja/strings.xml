@@ -79,7 +79,7 @@
   <string name="confirm_delete_message">このメッセージを削除しますか？</string>
   <string name="confirm_dialog_locked_title">ロックされたメッセージを削除しますか？</string>
   <string name="confirm_dialog_title">削除しますか？</string>
-  <string name="confirm_dlg__msg">中国移動通信 通告 もしお客様がサービスをキャンセルする場合には、中国移動通信の無料post-serviceは提供されません。本当にキャンセルしますか？</string>
+  <string name="confirm_dlg__msg">CMCC notice: Free CMCC services and support will not be provided if you cancel. Cancel anyway?</string>
   <string name="confirm_dlg_title">デバイス管理</string>
   <string name="confirm_export_dialog_description">この宛先との以前のスレッドは非表示になりません。</string>
   <string name="confirm_export_dialog_title">プライベートの連絡先から削除</string>
@@ -127,7 +127,7 @@
   <string name="delivery_report_activity">受取確認通知</string>
   <string name="delivery_toast_body">"%sさん宛てのメッセージ"</string>
   <string name="disable_notifications_dialog_message">デフォルトのメッセージアプリからのテキストメッセージ通知が重複しないようにしますか？</string>
-  <string name="disabled">無効</string>
+  <string name="disabled">オフ</string>
   <string name="discard">破棄</string>
   <string name="discard_message">破棄</string>
   <string name="discard_message_reason">宛先が不正なためメッセージを破棄しました。</string>
@@ -147,7 +147,7 @@
   <string name="edit_phrase">定型文を編集</string>
   <string name="edit_slide_activity">スライドを編集</string>
   <string name="edit_slideshow_activity">スライドショーを編集</string>
-  <string name="enabled">有効</string>
+  <string name="enabled">オン</string>
   <string name="english_subject_limit">上限40文字まで</string>
   <string name="enter_edit_mode">メッセージを編集</string>
   <string name="error_code_label">"エラーコード: "</string>
@@ -515,7 +515,7 @@
   <string name="select_top_text">上部のテキスト</string>
   <string name="send">送信</string>
   <string name="send_message_dlg_check_hint">"二度と表示しない"</string>
-  <string name="send_message_dlg_mgs">中国移動通信 通告: 無料のpost-serviceを提供するために、お客様のデバイスをデバイス管理プラットフォームに登録する必要があります。(post-serviceは中国移動通信のモバイル端末管理プラットフォームで、リモートセッティングとアプリのアップデートを提供します。)登録の際に、デバイス情報の無料メッセージが送信されます。このメッセージは一度だけ送信され、お客様の個人データは要求しません。(香港、マカオ、台湾、国際ローミングの場合には送信されません。)登録しない場合には、キャンセルを選択してください。中国移動通信のサービスは提供されません。</string>
+  <string name="send_message_dlg_mgs">CMCC notice: We need to register your device in our device management platform in order to provide free customer services and support. This CMCC platform manages mobile devices and allows you to change settings and upgrade software remotely. A free text message with the information about your device will be sent for registration. The message will only be sent once and will not contain your personal data. This message cannot be sent by customers from Hong Kong, Macao, Taiwan, and overseas. Select \"OK\" to agree and register your device. Select \"Cancel\" if you disagree with the terms. Services will not be provided to you in this case.</string>
   <string name="send_message_dlg_title">デバイスの管理</string>
   <string name="send_message_notification_msg">タップして要求の詳細を表示</string>
   <string name="send_message_notification_tickerText">デバイスが許可を要求しています</string>
@@ -647,7 +647,7 @@
   <string name="user_agreement4">プライバシーポリシー</string>
   <string name="user_agreement5">OKをタップすると、本利用規約とプライバシーポリシーに同意されたものとみなされます。</string>
   <string name="verification_code_icon_name">V</string>
-  <string name="verification_code_list_title">Verification Codes</string>
+  <string name="verification_code_list_title">認証コード</string>
   <string name="view">表示</string>
   <string name="view_bookmark">元のメッセージを表示</string>
   <string name="view_message_details">メッセージの詳細を表示</string>

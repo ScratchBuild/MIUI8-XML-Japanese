@@ -7,6 +7,7 @@
   <string name="accessibility_guide_second">Then click the switch on the top right corner, click the \"Confirm\" to continue.</string>
   <string name="account_duplicate_dlg_message_fmt">"このユーザー名はアカウント「%s」で既に使用しています。"</string>
   <string name="account_duplicate_dlg_title">"重複するアカウント"</string>
+  <string name="account_failure">"アカウントの障害"</string>
   <string name="account_name_toast">"同じ名前のアカウントが既に存在します"</string>
   <string name="account_options_sync_title">"同期"</string>
   <string name="account_password_spaces_error">"このパスワードは1文字以上の空白文字で開始または終了しています。
@@ -242,6 +243,7 @@
   <string name="change_folders_selection_dialog_title">"フォルダを変更"</string>
   <string name="change_sync_settings">"同期設定を変更"</string>
   <string name="changepw_dialog_tips">"%sのパスワードを再入力"</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">"%sの認証コードを確認してもう一度ログインしてください"</string>
   <string name="chat_item_msg_people_unit">"人"</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"サーバー設定を確認しています…"</string>
@@ -339,12 +341,13 @@
   <string name="device_admin_label">"メール"</string>
   <string name="device_not_activiey_lint1">Device manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work with Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"新着メッセージを自動受信できません。同期はオフです。"</string>
-  <string name="dialog_auto_sync_setting_no_open">"新着メッセージを自動受信できません。同期はオフです。"</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"手動同期に変更したため、メールを受信するには手動で更新する必要があります。"</string>
   <string name="dialog_change_sync_lookback">"%s前に受信したメールは自動的に削除されます。 変更するにはタップ。"</string>
   <string name="dialog_gmail_proxy_server_is_error">"Gmailのプロキシサーバーエラー。"</string>
   <string name="dialog_insufficient_space_on_external">"添付ファイルをダウンロードできません。外部ストレージに十分な空き領域がありません。"</string>
   <string name="dialog_insufficient_space_on_internal">"内部ストレージに十分な空き領域がありません。"</string>
+  <string name="dialog_system_auto_sync_account_no_open">"アカウントの同期が有効になっていないため、メッセージを自動的に同期することはできません"</string>
+  <string name="dialog_system_auto_sync_master_no_open">"システムの同期が有効になっていないため、メッセージを自動的に同期することはできません"</string>
   <string name="disable_admin_warning">"警告: メールアプリの端末管理権限を無効にすると、権限を必要とするすべてのメールアカウントが削除されます。また、そのアカウントのメール、連絡先、カレンダーの予定などのデータも削除されます。"</string>
   <string name="discard">"破棄"</string>
   <string name="discard_drafts">"下書きを破棄する"</string>
@@ -371,7 +374,7 @@
   <string name="download_message_failed_for_too_large">"メッセージが大きすぎてダウンロードできません。"</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Bank statements</string>
-  <string name="drawer_classification">Intelligent classification</string>
+  <string name="drawer_classification">"カテゴリー"</string>
   <string name="drawer_close">"ナビゲーションドロワーを閉じる"</string>
   <string name="drawer_contacts">"連絡先"</string>
   <string name="drawer_open">"ナビゲーションドロワーを開く"</string>
@@ -512,6 +515,8 @@
   <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
   <string name="mail">"メール"</string>
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
+  <string name="mail_description_content">"メールアプリは複数の受信トレイ、送受信のサポート、メールのタグ付け、その他サービスの管理などを行えるメールクライアントです。メールアプリをアンインストールすると、メールのデータも削除されます。"</string>
+  <string name="mail_description_title">"メールアプリについて"</string>
   <string name="mail_header_network_not_available">ネットワークに接続できません。"</string>
   <string name="mailbox_list_account_selector_combined_view">"統合ビュー"</string>
   <string name="mailbox_name_display_ad">"広告"</string>
@@ -940,6 +945,9 @@ to receive reminders about payments and trips"</string>
   <string name="subject_hint">"件名"</string>
   <string name="sync_error">"同期できませんでした。"</string>
   <string name="sync_error_message">"お使いのデバイスには同期をするための十分な空き領域がありません。"</string>
+  <string name="syncing_wait_restart">"タップして再試行"</string>
+  <string name="syncing_wait_restart_title">"サーバーとの接続がタイムアウトしました 
+ メッセージを読み込めません"</string>
   <string name="system_account_create_failed">"アカウントを作成できませんでした。もう一度お試しください。"</string>
   <string name="system_folders_sent_dlg">"サーバーの送信済みフォルダを選択"</string>
   <string name="system_folders_sent_summary">"サーバーの送信済みフォルダを選択"</string>
@@ -948,6 +956,7 @@ to receive reminders about payments and trips"</string>
   <string name="system_folders_trash_dlg">"サーバーのゴミ箱フォルダを選択"</string>
   <string name="system_folders_trash_summary">"サーバーのゴミ箱フォルダを選択"</string>
   <string name="system_folders_trash_title">"ゴミ箱フォルダ"</string>
+  <string name="system_setup_open_error">"Can not call up the account synchronization, please turn on the system 'set up' in sync mail account"</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Touch to set up.</string>
   <string name="tap_to_enable_sync">"オンにするにはタップ。"</string>

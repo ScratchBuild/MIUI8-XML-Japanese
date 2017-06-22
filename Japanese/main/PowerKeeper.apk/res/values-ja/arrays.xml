@@ -59,8 +59,8 @@
         <item>Recently</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Blocking deep Sleep mode</item>
-        <item>Blocking Sleep mode</item>
+        <item>Blocking deep sleep mode</item>
+        <item>Blocking sleep mode</item>
         <item>Searching for WLAN</item>
         <item>Using GPS</item>
         <item>Occupying CPU</item>

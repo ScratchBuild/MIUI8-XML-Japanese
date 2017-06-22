@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_hide_mode">"MIUI Battery Saverについて"</string>
   <string name="action_bar_delete">"削除"</string>
   <string name="action_settings">"設定"</string>
   <string name="activity_title_poweranalyze">"バッテリーのテスト"</string>
@@ -25,12 +26,17 @@
   <string name="config_restrict_function_title">"バックグラウンドアプリを制限"</string>
   <string name="config_restrict_running_description">"バッテリー節約のためアプリを終了する"</string>
   <string name="config_restrict_running_title">"バックグラウンドアクティビティを制限"</string>
+  <string name="config_restrict_running_warning">App will be closed when it is background, maybe it cannot work normally</string>
+  <string name="config_scenario_policies_title">Scenarios</string>
   <string name="config_suggest_description">"重要なプロセスを維持するためにアプリとアクティビティを識別します。
 バッテリーセーバーは重要なアプリを選択的に扱います。"</string>
   <string name="config_suggest_suffix_title">"MIUI Battery saver (推奨)"</string>
   <string name="config_suggest_title">MIUI Battery saver</string>
+  <string name="disable_hide_mode">Disable MIUI Battery Saver</string>
+  <string name="disable_hide_mode_warning">Disable MIUI Battery Saver may cause more power consumption</string>
   <string name="disabled">"オフ"</string>
   <string name="empty_title_apps_container_list">"アプリなし"</string>
+  <string name="enable_hide_mode">Enable MIUI Battery Saver</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
   <string name="foreground_change">"アプリはフォアグラウンドで実行されています"</string>
   <string name="fragment_nonesys_listempty">"インストール済みアプリなし"</string>
@@ -41,6 +47,7 @@
   <string name="google_base_app_install_choice">"\"%s\"が正常に動作するにはGoogleサービスフレームワークが必要です、今すぐインストールしますか？"</string>
   <string name="hide_mode_desc">"アプリがバックグラウンドで実行されると、バッテリー使用量を減らすためにアクティビティが監視されます。"</string>
   <string name="hide_mode_ultimate_desc">"Ultimate modeがオンになっています。バックグラウンドのアプリは凍結されます。Ultimate modeを終了するにバッテリーセーバーをオフにしてください。"</string>
+  <string name="hide_system_app">"システムアプリを非表示"</string>
   <string name="high">"パフォーマンス"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
   <string name="location_disable_description">"継続的なアクセスが制限されている間は、バックグラウンドのアプリは短時間だけ位置情報サービスにアクセスできます"</string>
@@ -89,7 +96,7 @@
   <string name="power_config_app_background_title">"バックグラウンド"</string>
   <string name="power_config_app_full_screen_title">Fullscreen</string>
   <string name="power_config_app_launch_title">"フォアグラウンド"</string>
-  <string name="power_config_apps">Saving power in the background</string>
+  <string name="power_config_apps">MIUI Battery Saver</string>
   <string name="power_config_bg_data_delay_time_dialog_title">"バックグラウンドデータを制限する時間を選択"</string>
   <string name="power_config_bg_data_delay_time_title">"バックグラウンドデータを制限"</string>
   <string name="power_config_choose_apps">"アプリを選択"</string>
@@ -138,7 +145,7 @@
   <string name="power_dialog_screen_brightness_title">"画面の明るさ"</string>
   <string name="power_event_user_define_title">"新しいイベント"</string>
   <string name="power_event_view_event_title">"トリガー"</string>
-  <string name="power_hide_mode_app_list_summary">"アプリの設定"</string>
+  <string name="power_hide_mode_app_list_summary">Saving power in the background</string>
   <string name="power_hide_mode_summary">"個々のアプリのバックグラウンドプロセス、Wi-Fiとモバイルデータ接続、GPSを制限してバッテリーを節約する"</string>
   <string name="power_hide_mode_title">"アプリの電池使用量を管理"</string>
   <string name="power_keeper">"バッテリーセーバー"</string>
@@ -154,6 +161,8 @@
   <string name="power_optimize_activity_profile_file_error">"バッテリーセーバーのエラー"</string>
   <string name="ragment_sys_listempty">"システムアプリなし"</string>
   <string name="reading">"読書モード"</string>
+  <string name="scenario_policies_summary">Power saving according to scenario</string>
+  <string name="scenario_policies_title">Scenario power saving policies</string>
   <string name="screen_off">"画面オフ"</string>
   <string name="screen_off_10_min">Screen is off for over 10 minutes</string>
   <string name="screen_on">"画面オン"</string>
@@ -162,12 +171,14 @@
   <string name="set_cpufreq_max">"CPU周波数を最大にする"</string>
   <string name="set_lcd_mode">Screen mode</string>
   <string name="settings_safetylegal_activity_loading">"読み込み中…"</string>
-  <string name="sleep_config_disable_description">"MIUI won't improve the evening battery save"</string>
-  <string name="sleep_config_disable_title">Off</string>
-  <string name="sleep_config_enhance_description">MIUI will improve the evening standby</string>
-  <string name="sleep_config_enhance_title">On</string>
-  <string name="sleep_config_mode_title">Sleep saving modes</string>
+  <string name="show_system_app">"システムアプリを表示"</string>
+  <string name="sleep_config_enhance_description">Will improve standby power usage in night</string>
+  <string name="sleep_config_enhance_title">Sleep saving modes</string>
   <string name="still">"写真"</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">"名前"</string>
+  <string name="vip_feedback">Vip Feedback</string>
+  <string name="vip_feedback_apply">Apply Vip Feedback</string>
+  <string name="vip_feedback_apply_msg">Please contact qiufeng@xiaomi.com to apply Vip Feedback</string>
+  <string name="vip_feedback_enable">Enable Vip Auto Feedback</string>
 </resources>

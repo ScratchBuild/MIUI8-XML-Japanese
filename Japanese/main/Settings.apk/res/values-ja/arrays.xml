@@ -675,6 +675,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>自動で接続する</item>
         <item>手動で接続する</item>
     </string-array>
+    <string-array name="connect_mode_entries">
+        <item>comtible mode</item>
+        <item>high mode</item>
+    </string-array>
     <string-array name="traffic_balance_entries">
         <item>close</item>
         <item>normal mode</item>

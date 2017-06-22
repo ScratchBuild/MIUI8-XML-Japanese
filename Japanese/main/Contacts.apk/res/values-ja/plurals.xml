@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="group_move_success_toast">
-        <item quantity="other">%1$d件の連絡先を移動しました</item>
-        <item quantity="one">%1$d件の連絡先を移動しました</item>
-    </plurals>
-    <plurals name="group_copy_success_toast">
-        <item quantity="other">%1$d件の連絡先をコピーしました</item>
-        <item quantity="one">%1$d件の連絡先をコピーしました</item>
-    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">電話番号のある連絡先%d件</item>
         <item quantity="one">電話番号のある連絡先1件</item>
@@ -128,10 +120,6 @@
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">Unblock %1$d phone numbers?</item>
         <item quantity="one">Unblock %1$d phone number?</item>
-    </plurals>
-    <plurals name="voip_contacts_count">
-        <item quantity="other">%1$d人</item>
-        <item quantity="one">%1$d人</item>
     </plurals>
     <plurals name="livetalk_unit">
         <item quantity="other">分</item>

@@ -963,7 +963,7 @@
   <string name="mark_sell_block_large">Telemarketers</string>
   <string name="mark_sell_time_setting">Block numbers that have been reported as telemarketers a specified number of times</string>
   <string name="mark_time_setting_dialog_title">"番号を報告"</string>
-  <string name="marked_by_user">"you marked it as "</string>
+  <string name="marked_by_user">"You marked it as "</string>
   <string name="memory_check_content">Freed %s</string>
   <string name="memory_check_content_none">Empty</string>
   <string name="menu_add">"追加"</string>

@@ -849,6 +849,7 @@
   <string name="confirm_privacy_password">プライバシー保護パスワードを入力</string>
   <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護パスワードを入力</string>
   <string name="confirm_reset_aaid">OK</string>
+  <string name="connect_mode">接続モード</string>
   <string name="connect_to_internet">ネットワークに接続</string>
   <string name="connected_via_passpoint">%1$s経由で接続しました</string>
   <string name="connected_via_wfa">Wi-Fiアシスタント経由で接続しました</string>
@@ -2708,7 +2709,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="receiver_clean">空き容量を確保</string>
   <string name="recent_location_requests_summary">位置情報にアクセスを要求しているアプリを表示</string>
   <string name="recent_location_requests_title">位置情報アクセス</string>
-  <string name="recents_config_title">履歴の設定</string>
+  <string name="recents_config_title">履歴</string>
   <string name="recommend_item_1">Phone case</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Power bank</string>
@@ -3598,6 +3599,7 @@ PINが正しくない可能性があります。"</string>
   <string name="summary_range_verbal_combination">%1$s - %2$s</string>
   <string name="supl_not_set">&lt;未設定></string>
   <string name="supplicant_state_label">申請者の状態:</string>
+  <string name="sure_sync_now">今すぐアイテムを同期しますか？</string>
   <string name="suspend_gesture_enabled">画面をオフにするには電話を裏返す</string>
   <string name="suspension_ball_enable">Quick ballのショートカット</string>
   <string name="suspension_ball_enable_desc">ショートカットを使用してQuick ballのオン/オフを切り替える</string>
@@ -3624,6 +3626,7 @@ PINが正しくない可能性があります。"</string>
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">同期をキャンセル</string>
   <string name="sync_menu_sync_now">今すぐ同期</string>
+  <string name="sync_now">同期</string>
   <string name="sync_one_time_sync">"タップして今すぐ同期
 %1$s"</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Google Syncへようこそ</font>"
