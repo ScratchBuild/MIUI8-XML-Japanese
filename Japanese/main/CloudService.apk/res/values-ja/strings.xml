@@ -506,7 +506,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="user_agreement_p7">"Mi Cloud 利用規約"</string>
   <string name="user_agreement_p8">" に同意されたものとみなします。"</string>
   <string name="user_agreement_title">"Mi Cloud 利用規約"</string>
-  <string name="vcode">Verification code</string>
+  <string name="vcode">"認証コード"</string>
   <string name="verify">"確認"</string>
   <string name="view_storage_title">Storage space</string>
   <string name="virtual_sim_desc">Turn on Mi SIM to locate device without a SIM card</string>

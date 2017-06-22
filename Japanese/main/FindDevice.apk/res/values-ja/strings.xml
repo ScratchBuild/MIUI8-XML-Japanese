@@ -38,7 +38,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="passport_notification_need_unlock_again">"もう一度ロック解除してください"</string>
   <string name="passport_notification_processing">"処理中…"</string>
   <string name="passport_trust_device">Trust this device</string>
-  <string name="passport_vcode_prompt_long">Enter verification code</string>
+  <string name="passport_vcode_prompt_long">"認証コードを入力"</string>
   <string name="passport_verify">"認証"</string>
   <string name="password">パスワード</string>
   <string name="phone_locked">"この端末は既に別のMi Account(%s)に関連付けられています。端末をアクティベートするにはログインしてください。"</string>

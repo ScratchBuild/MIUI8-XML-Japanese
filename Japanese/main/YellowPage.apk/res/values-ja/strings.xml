@@ -189,7 +189,7 @@
   <string name="express_setting_authorized_number_description">Privacy policy: the authorized phone number is only used for tracking express from Cainiao, not for other purposes.</string>
   <string name="express_setting_authorized_number_empty">No number authorized</string>
   <string name="express_setting_cainiaoguoguo">菜鸟裹裹</string>
-  <string name="express_setting_code_invalid">Please input verification code correctly!</string>
+  <string name="express_setting_code_invalid">"正しい認証コードを入力してください！"</string>
   <string name="express_setting_count_down_time">Resend %ds later</string>
   <string name="express_setting_dialog_authority_description">Binding phone is provided by Yellow Pages. By using this service, it will connect to the network. Do you agree?</string>
   <string name="express_setting_dialog_delete_cancel">Cancel</string>

@@ -771,7 +771,7 @@ to receive reminders about payments and trips"</string>
   <string name="qq_login_get_auth">"Turn on password protection if you can't receive SMS"</string>
   <string name="qq_login_open_imap">Tap \"Help\" to turn on IMAP/SMTP</string>
   <string name="qq_login_origin_setting">Enter username and password to sign in &gt;</string>
-  <string name="qq_login_send_message">Tap \"Send SMS\" to get a verification code</string>
+  <string name="qq_login_send_message">"認証コードを取得するには\"SMSを送信\"をタップ"</string>
   <string name="qq_login_webview">Signing in to the web QQ Mail. Enter your password.</string>
   <string name="qq_next_generation_auth_toast">Turn on password protection in your browser</string>
   <string name="qq_uthentication_failed">"アカウントを確認できませんでした。再度ログインしてください"</string>

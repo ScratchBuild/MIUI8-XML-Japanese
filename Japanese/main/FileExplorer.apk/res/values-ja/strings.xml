@@ -244,7 +244,7 @@
   <string name="gender_choose_sub_title">Receive useful recommendations</string>
   <string name="gender_choose_tip">"性別を選択してください"</string>
   <string name="get_user_info_err">"このユーザーに関する情報を取得できませんでした"</string>
-  <string name="get_verification_code_fail">"Couldn't get verification code"</string>
+  <string name="get_verification_code_fail">"認証コードを取得できませんでした"</string>
   <string name="group_title">%2$s from %1$s</string>
   <string name="group_title_extra_backup">"バックアップ"</string>
   <string name="group_title_extra_expire">"期限切れについて"</string>
@@ -441,8 +441,8 @@
   <string name="phone_bind_skip">"スキップ"</string>
   <string name="phone_bind_tip">Add phone number to participate in rankings and win awards</string>
   <string name="phone_bind_title">"電話番号を追加"</string>
-  <string name="phone_code_err">Phone number or verification code is incorrect</string>
-  <string name="phone_code_et_hint">Enter verification code</string>
+  <string name="phone_code_err">"電話番号または認証コードが正しくありません"</string>
+  <string name="phone_code_et_hint">"認証コードを入力"</string>
   <string name="phone_get_code_tip">Too many attempts to get the code today</string>
   <string name="phone_has_used_tip">"この電話は既存のアカウントに関連付けられています、別のものを試してみてください。"</string>
   <string name="phone_login_btn_str">"電話番号"</string>

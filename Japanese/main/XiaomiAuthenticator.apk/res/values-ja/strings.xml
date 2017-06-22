@@ -43,7 +43,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="enter_key_page_add_button">"追加"</string>
   <string name="enter_key_title">Manual account entry</string>
   <string name="enter_key_too_short">Key value is too short</string>
-  <string name="enter_pin">Enter this verification code if prompted during account sign-in:</string>
+  <string name="enter_pin">"アカウントのログイン時にメッセージが表示されたら、この認証コードを入力してください:"</string>
   <string name="error_empty_secret">Cannot save empty secret</string>
   <string name="error_exists">"申し訳ありませんが、その名前は既に使用されています。"</string>
   <string name="error_qr">"QRコードを読み取れません。"</string>

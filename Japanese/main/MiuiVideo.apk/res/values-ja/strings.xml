@@ -339,14 +339,14 @@
   <string name="passport_get_verify_code">"コードを取得"</string>
   <string name="passport_getting_verify_code">"取得中"</string>
   <string name="passport_i_know">OK</string>
-  <string name="passport_identitfication_expired">Verification code expired, start over</string>
+  <string name="passport_identitfication_expired">"認証コードの有効期限が切れています"</string>
   <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
   <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
   <string name="passport_input_captcha_hint">"コードを入力"</string>
   <string name="passport_input_password_for_login">"この番号は既存のアカウントに関連付けられています、パスワードを入力してください"</string>
   <string name="passport_input_password_hint">"パスワードを入力"</string>
   <string name="passport_input_phone_hint">"電話番号を入力"</string>
-  <string name="passport_input_vcode_hint">Enter verification code</string>
+  <string name="passport_input_vcode_hint">"認証コードを入力"</string>
   <string name="passport_license_host_unreachable">"ネットワークに接続できません。 You can view this page at %s."</string>
   <string name="passport_loading">"読み込み中…"</string>
   <string name="passport_login">"ログイン"</string>
@@ -405,7 +405,7 @@
   <string name="passport_restart_register_title">"Mi Accountを作成"</string>
   <string name="passport_retry">"再試行"</string>
   <string name="passport_select_reg_ways_title">"その他の方法で登録"</string>
-  <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+  <string name="passport_send_too_many_code">"この番号に送信された認証コードが多すぎます。24時間待ってからもう一度お試しください。"</string>
   <string name="passport_setting">"設定中…"</string>
   <string name="passport_skip_login">"スキップ"</string>
   <string name="passport_skip_register">"登録をスキップ"</string>
@@ -413,7 +413,7 @@
   <string name="passport_skip_setup_account_title">"セットアップをスキップ"</string>
   <string name="passport_title_reg">"アカウントを作成"</string>
   <string name="passport_trust_device">Add this device to verified devices</string>
-  <string name="passport_trying_read_verify_code_sms">Getting verification code…</string>
+  <string name="passport_trying_read_verify_code_sms">"認証コードを取得中…"</string>
   <string name="passport_uplink_reg">"電話番号を使用"</string>
   <string name="passport_uplink_slot1_reg">"SIM 1を使用"</string>
   <string name="passport_uplink_slot2_reg">"SIM 2を使用"</string>
@@ -425,8 +425,8 @@
   <string name="passport_user_agreement_p3">"プライバシーポリシー"</string>
   <string name="passport_user_agreement_p4">"に同意する"</string>
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
-  <string name="passport_vcode_prompt_long">Enter verification code</string>
-  <string name="passport_vcode_sms_send_prompt">Send verification code to %s</string>
+  <string name="passport_vcode_prompt_long">"認証コードを入力"</string>
+  <string name="passport_vcode_sms_send_prompt">"認証コードを%sに送信します"</string>
   <string name="passport_verification_failed">"認証に失敗しました"</string>
   <string name="passport_verify">"認証"</string>
   <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>

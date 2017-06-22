@@ -261,7 +261,7 @@
   <string name="apps_item_virus_summary_installed">"インストール済みアプリ"</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Check messaging app</string>
-  <string name="apps_list_header_title_sms_access">Restrict access to verification codes</string>
+  <string name="apps_list_header_title_sms_access">"認証コードへのアクセスを制限する"</string>
   <string name="auto_atsk_condition_battery_level_text_down">"バッテリーが%sまで放電されました"</string>
   <string name="auto_atsk_condition_battery_level_text_up">"バッテリーが%sまで充電されました"</string>
   <string name="auto_handle_title">"全般"</string>
@@ -1437,7 +1437,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="result_sign_header">Found %d unofficial apps</string>
   <string name="result_sms_header">Messaging risks detected</string>
   <string name="result_sms_info_antispam">"ブロックリストをオンにして、悪意のあるURLから端末を保護する"</string>
-  <string name="result_sms_info_auth">Restrict access of third-party apps to verification codes.</string>
+  <string name="result_sms_info_auth">"サードパーティ製アプリの認証コードへのアクセスを制限する。"</string>
   <string name="result_sms_title_antispam">Threatened by malicious SMS URLs</string>
   <string name="result_sms_title_auth">Financial SMS leak risk exists</string>
   <string name="result_virus_header">Found %d viruses and insecure apps</string>
@@ -1468,7 +1468,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="safe_result_item_empty_monitor">"保護された支払いアプリはありません"</string>
   <string name="safe_result_item_info_app_sign">No unofficial apps</string>
   <string name="safe_result_item_info_app_virus">No viruses and risky apps</string>
-  <string name="safe_result_item_info_sms_auth">Restrict access of third party apps to verification codes</string>
+  <string name="safe_result_item_info_sms_auth">"サードパーティ製アプリの認証コードへのアクセスを制限する"</string>
   <string name="safe_result_item_info_sms_url">Protection from malicious SMS URLs</string>
   <string name="safe_result_item_info_system_antivirus">Protection from the phishing viruses</string>
   <string name="safe_result_item_info_system_root">Root secure</string>
