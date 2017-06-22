@@ -339,7 +339,6 @@
   <string name="preferences_import_hotel">"ホテル"</string>
   <string name="preferences_import_loan">贷款账单</string>
   <string name="preferences_import_movie">"映画のチケット"</string>
-  <string name="preferences_import_travel">"列車のチケット"</string>
   <string name="preferences_notification_ringtone_title">"通知音"</string>
   <string name="preferences_title">"カレンダー"</string>
   <string name="preferences_use_home_tz_descrip">"旅行中も自宅のタイムゾーンでカレンダーと予定時間を表示する"</string>
