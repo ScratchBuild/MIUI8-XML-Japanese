@@ -427,7 +427,7 @@ Total: RMB %3$s"</string>
   <string name="turn_off_phone_event_hint">"You won't be able to see flag info for unknown phone numbers."</string>
   <string name="turn_off_smart_antispam_hint">"You won't be able to see flag info for incoming calls from unknown phone numbers."</string>
   <string name="turn_on_phone_event_dialog_title">Caller IDのデータベースを更新</string>
-  <string name="turn_on_phone_event_summary">Upload phone status of services numbers</string>
+  <string name="turn_on_phone_event_summary">Allow Yellow pages to receive and upload the service info of the verified service providers.</string>
   <string name="turn_on_phone_event_title">Receive service info</string>
   <string name="turn_on_smart_antispam_hint">Identify calls from unknown numbers</string>
   <string name="turn_on_smart_antispam_summary_off">Upload and identify unknown phone numbers from call history and text messages</string>

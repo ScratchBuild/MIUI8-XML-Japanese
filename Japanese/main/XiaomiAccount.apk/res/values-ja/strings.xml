@@ -133,7 +133,7 @@
   <string name="find_device_unknown_error">"Can't get device status, wait a minute or two and try again"</string>
   <string name="first_login_time">First sign in attempt: %s</string>
   <string name="get_device_list_failed">"デバイスを取得できません"</string>
-  <string name="get_phone_bind_exceed_limit">"You can't associate up to 3 Mi Accounts with a phone number. Can't add new accounts."</string>
+  <string name="get_phone_bind_exceed_limit">"最大3つのMi Accountに電話番号を関連付けることができます。新しいアカウントを追加できません。"</string>
   <string name="get_phone_verifycode_exceed_limit">この番号に送信された認証コードが多すぎます。24時間待ってからもう一度お試しください。</string>
   <string name="guest_account_label">Mi Guest Account</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
