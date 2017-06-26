@@ -305,6 +305,7 @@
   <string name="auto_task_notify_task_canceled_title">Action is canceled</string>
   <string name="auto_task_notify_task_continue_do">Start action</string>
   <string name="auto_task_notify_task_count_down">Automated action will start in 5 seconds</string>
+  <string name="auto_task_notify_task_exit_task">Exit task</string>
   <string name="auto_task_operation_airplane_mode">"機内モード"</string>
   <string name="auto_task_operation_auto_brightness">"明るさの自動調節"</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -1235,12 +1236,12 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_center_time_to_boot">Power on time</string>
   <string name="power_center_time_to_shutdown">Power off time</string>
   <string name="power_center_title">Power</string>
+  <string name="power_consume_hardware_total_format">"ハードウェア: %s"</string>
   <string name="power_consume_other">"その他"</string>
   <string name="power_consume_rank_hardware">"ハードウェア"</string>
   <string name="power_consume_rank_software">"アプリ"</string>
   <string name="power_consume_rank_title">Battery use</string>
-  <string name="power_consume_total_hardware">Hardware: %s</string>
-  <string name="power_consume_total_software">Apps: %s</string>
+  <string name="power_consume_software_total_format">"アプリ: %s"</string>
   <string name="power_customize_giveup_change">"変更を破棄しますか？"</string>
   <string name="power_dialog_cancel">"キャンセル"</string>
   <string name="power_dialog_ok">OK</string>

@@ -23,6 +23,8 @@
   <string name="cancel_alarm_description">"リマインダーをキャンセル"</string>
   <string name="cloud_trash_bin_title">"Mi Cloudのノートを削除"</string>
   <string name="cta_reminder">This app needs to connect to the internet to back up notes to Mi Cloud, as well as read your contacts to label the notes you take during calls.</string>
+  <string name="db_downgrade_clear_button">"アプリデータを消去"</string>
+  <string name="db_downgrade_clear_date_reminder">"異なるMIUIのバージョンに切り替えるには、ノートのアプリデータを消去する必要があります。実行前にはあらかじめMi Cloudへノートをバックアップしておいてください。"</string>
   <string name="delete_folder_dialog_tile">"フォルダを削除"</string>
   <string name="dialog_share_as_pic">"ノートを画像として共有"</string>
   <string name="dialog_share_as_text">"ノートをテキストとして共有"</string>

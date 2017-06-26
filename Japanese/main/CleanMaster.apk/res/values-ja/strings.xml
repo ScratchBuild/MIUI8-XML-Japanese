@@ -35,8 +35,6 @@
   <string name="apk_title_alipay_plugin">"AliPayプラグイン"</string>
   <string name="app_description_content">クリーナーは端末上のゴミを見つけてストレージの空き領域を解放します。Make sure you can do without these features before you uninstall the app.</string>
   <string name="app_description_title">クリーナーについて</string>
-  <string name="app_install_tips_go_to">"開く"</string>
-  <string name="app_install_tips_install_success">"%1$sが正常にインストールされました"</string>
   <string name="app_name">JunkEngine</string>
   <string name="app_usage_never">"最近使用していない"</string>
   <string name="app_usage_recently">"最近使用された"</string>
@@ -247,7 +245,7 @@
   <string name="hints_video_download">Downloaded videos</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
-  <string name="information_setting">"ニュースフィードの設定"</string>
+  <string name="information_setting">Recommendations</string>
   <string name="install_sucess">"%sが正常にインストールされました"</string>
   <string name="installed">"インストール済み"</string>
   <string name="installing">"インストール中"</string>
@@ -258,7 +256,7 @@
   <string name="label_image_list_none">"なし"</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
   <string name="last_check_canceled">"前回のスキャンは取り消されました"</string>
-  <string name="load_only_under_wlan">"Wi-Fi接続時にニュースを読み込む"</string>
+  <string name="load_only_under_wlan">"Wi-Fi接続時のみ読み込む"</string>
   <string name="location_not_found">"ファイルが見つかりませんでした"</string>
   <string name="login_immediately">"ログイン"</string>
   <string name="long_click_dialog_summary">"長押しすると例外に追加されます。"</string>
@@ -350,7 +348,7 @@
   <string name="privacy_search_desc">"検索履歴"</string>
   <string name="privacy_search_type">"Google検索"</string>
   <string name="promotion">Ad</string>
-  <string name="recommend_news">Recommended sources</string>
+  <string name="recommend_news">Receive recommendations</string>
   <string name="recommend_the_following">"端末を最大限に活用するには、次の操作を実行します"</string>
   <string name="recommended">Featured</string>
   <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; more files can be cleared. Free up more space.&lt;/Data&gt;" "</string>
