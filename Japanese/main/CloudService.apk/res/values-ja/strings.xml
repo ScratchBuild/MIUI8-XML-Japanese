@@ -209,8 +209,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="micloud_find_device_finish">完了</string>
   <string name="micloud_find_device_guide_button">Find deviceをオンにする</string>
-  <string name="micloud_find_device_guide_content">"When you switch your SIM card, a message will be sent automatically
-to reactivate this feature."</string>
+  <string name="micloud_find_device_guide_content">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message will be sent automatically to reactivate this feature.</string>
   <string name="micloud_find_device_guide_fail_reopen">Mi CloudでFind deviceをオンにする</string>
   <string name="micloud_find_device_guide_fail_sub_net">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">"接続がタイムアウトしました。後ほど再試行してください。"</string>
@@ -225,8 +224,7 @@ to reactivate this feature."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChatはFinde deviceをオンにすることをお勧めします</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">AlipayはFinde deviceをオンにすることをお勧めします</string>
   <string name="micloud_find_device_guide_progress">"Find deviceをオンにしています…"</string>
-  <string name="micloud_find_device_guide_title">"Sign in to %s to locate, lock,
-or erase your device."</string>
+  <string name="micloud_find_device_guide_title">Sign in to %s to locate, lock, or erase your device.</string>
   <string name="micloud_find_device_open_fail">Find deviceをオンにできませんでした</string>
   <string name="micloud_find_device_opened">Find device on</string>
   <string name="micloud_find_device_opened_content">Find your device at %s</string>

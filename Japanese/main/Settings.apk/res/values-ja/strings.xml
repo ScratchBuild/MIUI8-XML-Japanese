@@ -1327,6 +1327,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enforce_read_external_confirm_message">"SDカードが保護されている場合、アプリは外部ストレージからデータを読み取る権限をリクエストする必要があります。
 
 一部のアプリについては、デベロッパーによって更新されるまで動作しない可能性があります。"</string>
+  <string name="encryption_progress_summary">暗号化しています、端末を再起動しないでください。</string>
   <string name="enforce_read_external_confirm_title">SDカードの保護</string>
   <string name="enforce_read_external_summary">アプリによるSDカードの読み取り権限のリクエストが必要</string>
   <string name="enforce_read_external_title">SDカードの保護</string>
@@ -2333,6 +2334,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">なし</string>
   <string name="owner_info_settings_title">ロック画面の所有者情報</string>
+  <string name="owner_space">First space</string>
   <string name="packages_subtitle">含まれているパッケージ</string>
   <string name="page_layout_1">8月16日、日曜日</string>
   <string name="page_layout_10">設定</string>
@@ -3308,6 +3310,7 @@ PINが正しくない可能性があります。"</string>
   <string name="sim_lock_settings_category">SIMカードロック設定</string>
   <string name="sim_lock_settings_title">SIMカードロック</string>
   <string name="sim_management_title">SIMカードとモバイルネットワーク</string>
+  <string name="sim_management_title_cr_kolbi">SIMカードとモバイルネットワーク</string>
   <string name="sim_multi_sims_summary">モバイルデータに使用するSIMを選択してください。</string>
   <string name="sim_multi_sims_title">複数のSIMが見つかりました</string>
   <string name="sim_name_hint">SIM名を入力します</string>
