@@ -1,5 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="change_response_labels">
+        <item>"この予定のみ"</item>
+        <item>"繰り返す予定すべて"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>"この日の予定のみ"</item>
+        <item>"これ以降の予定"</item>
+        <item>"すべての予定"</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>"第1"</item>
+        <item>"第2"</item>
+        <item>"第3"</item>
+        <item>"第4"</item>
+        <item>"最終"</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Always</item>
+        <item>Only when ringer is silenced</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>"ユーザーの言語/地域での既定の設定"</item>
+        <item>"土曜日"</item>
+        <item>"日曜日"</item>
+        <item>"月曜日"</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>"応答がありません"</item>
+        <item>"はい"</item>
+        <item>"未定"</item>
+        <item>"いいえ"</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>マーシャル諸島</item>
+        <item>ミッドウェー諸島</item>
+        <item>ハワイ</item>
+        <item>アラスカ</item>
+        <item>太平洋時間</item>
+        <item>ティフアナ</item>
+        <item>アリゾナ</item>
+        <item>チワワ</item>
+        <item>山岳部時間</item>
+        <item>中央アメリカ</item>
+        <item>中部時間</item>
+        <item>メキシコシティ</item>
+        <item>サスカチュワン</item>
+        <item>ボゴタ</item>
+        <item>東部時間</item>
+        <item>ベネズエラ</item>
+        <item>大西洋時間（バルバドス）</item>
+        <item>大西洋時間（カナダ）</item>
+        <item>マナウス</item>
+        <item>サンチアゴ</item>
+        <item>ニューファンドランド</item>
+        <item>ブラジリア</item>
+        <item>ブエノスアイレス</item>
+        <item>グリーンランド</item>
+        <item>モンテビデオ</item>
+        <item>中部大西洋</item>
+        <item>アゾレス諸島</item>
+        <item>カーボヴェルデ諸島</item>
+        <item>カサブランカ</item>
+        <item>ロンドン、ダブリン</item>
+        <item>アムステルダム、ベルリン</item>
+        <item>ベオグラード</item>
+        <item>ブリュッセル</item>
+        <item>サラエボ</item>
+        <item>ウィントフック</item>
+        <item>西アフリカ標準時</item>
+        <item>アンマン、ヨルダン</item>
+        <item>アテネ、イスタンブール</item>
+        <item>ベイルート、レバノン</item>
+        <item>カイロ</item>
+        <item>ヘルシンキ</item>
+        <item>エルサレム</item>
+        <item>ミンスク</item>
+        <item>ハラーレ</item>
+        <item>バグダッド</item>
+        <item>モスクワ</item>
+        <item>クウェート</item>
+        <item>ナイロビ</item>
+        <item>テヘラン</item>
+        <item>バクー</item>
+        <item>トビリシ</item>
+        <item>エレバン</item>
+        <item>ドバイ</item>
+        <item>カブール</item>
+        <item>イスラマーバード、カラチ</item>
+        <item>ウラリスク</item>
+        <item>エカテリンブルグ</item>
+        <item>コルカタ</item>
+        <item>スリランカ</item>
+        <item>カトマンズ</item>
+        <item>アスタナ</item>
+        <item>ヤンゴン</item>
+        <item>クラスノヤルスク</item>
+        <item>バンコク</item>
+        <item>北京</item>
+        <item>香港</item>
+        <item>イルクーツク</item>
+        <item>クアラルンプール</item>
+        <item>パース</item>
+        <item>台北</item>
+        <item>ソウル</item>
+        <item>東京、大阪</item>
+        <item>ヤクーツク</item>
+        <item>アデレード</item>
+        <item>ダーウィン</item>
+        <item>ブリズベーン</item>
+        <item>ホバート</item>
+        <item>シドニー、キャンベラ</item>
+        <item>ウラジオストク</item>
+        <item>グアム</item>
+        <item>マガダン</item>
+        <item>オークランド</item>
+        <item>フィジー</item>
+        <item>トンガ</item>
+    </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>水瓶座</item>
@@ -43,17 +162,6 @@
         <item>pisces</item>
         <item>魚座</item>
         <item>2/19 - 3/20</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Always</item>
-        <item>Only when ringer is silenced</item>
-        <item>Never</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>"ユーザーの言語/地域での既定の設定"</item>
-        <item>"土曜日"</item>
-        <item>"日曜日"</item>
-        <item>"月曜日"</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1st</item>
@@ -154,92 +262,6 @@
         <item>牡牛座</item>
         <item>4/20 - 5/20</item>
     </string-array>
-    <string-array name="timezone_labels">
-        <item>マーシャル諸島</item>
-        <item>ミッドウェー諸島</item>
-        <item>ハワイ</item>
-        <item>アラスカ</item>
-        <item>太平洋時間</item>
-        <item>ティフアナ</item>
-        <item>アリゾナ</item>
-        <item>チワワ</item>
-        <item>山岳部時間</item>
-        <item>中央アメリカ</item>
-        <item>中部時間</item>
-        <item>メキシコシティ</item>
-        <item>サスカチュワン</item>
-        <item>ボゴタ</item>
-        <item>東部時間</item>
-        <item>ベネズエラ</item>
-        <item>大西洋時間（バルバドス）</item>
-        <item>大西洋時間（カナダ）</item>
-        <item>マナウス</item>
-        <item>サンチアゴ</item>
-        <item>ニューファンドランド</item>
-        <item>ブラジリア</item>
-        <item>ブエノスアイレス</item>
-        <item>グリーンランド</item>
-        <item>モンテビデオ</item>
-        <item>中部大西洋</item>
-        <item>アゾレス諸島</item>
-        <item>カーボヴェルデ諸島</item>
-        <item>カサブランカ</item>
-        <item>ロンドン、ダブリン</item>
-        <item>アムステルダム、ベルリン</item>
-        <item>ベオグラード</item>
-        <item>ブリュッセル</item>
-        <item>サラエボ</item>
-        <item>ウィントフック</item>
-        <item>西アフリカ標準時</item>
-        <item>アンマン、ヨルダン</item>
-        <item>アテネ、イスタンブール</item>
-        <item>ベイルート、レバノン</item>
-        <item>カイロ</item>
-        <item>ヘルシンキ</item>
-        <item>エルサレム</item>
-        <item>ミンスク</item>
-        <item>ハラーレ</item>
-        <item>バグダッド</item>
-        <item>モスクワ</item>
-        <item>クウェート</item>
-        <item>ナイロビ</item>
-        <item>テヘラン</item>
-        <item>バクー</item>
-        <item>トビリシ</item>
-        <item>エレバン</item>
-        <item>ドバイ</item>
-        <item>カブール</item>
-        <item>イスラマーバード、カラチ</item>
-        <item>ウラリスク</item>
-        <item>エカテリンブルグ</item>
-        <item>コルカタ</item>
-        <item>スリランカ</item>
-        <item>カトマンズ</item>
-        <item>アスタナ</item>
-        <item>ヤンゴン</item>
-        <item>クラスノヤルスク</item>
-        <item>バンコク</item>
-        <item>北京</item>
-        <item>香港</item>
-        <item>イルクーツク</item>
-        <item>クアラルンプール</item>
-        <item>パース</item>
-        <item>台北</item>
-        <item>ソウル</item>
-        <item>東京、大阪</item>
-        <item>ヤクーツク</item>
-        <item>アデレード</item>
-        <item>ダーウィン</item>
-        <item>ブリズベーン</item>
-        <item>ホバート</item>
-        <item>シドニー、キャンベラ</item>
-        <item>ウラジオストク</item>
-        <item>グアム</item>
-        <item>マガダン</item>
-        <item>オークランド</item>
-        <item>フィジー</item>
-        <item>トンガ</item>
-    </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>"3時間前"</item>
         <item>"4時間前"</item>
@@ -264,28 +286,6 @@
     <string-array name="widget_style_list">
         <item>Transparent</item>
         <item>White background</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>"この予定のみ"</item>
-        <item>"繰り返す予定すべて"</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>"この日の予定のみ"</item>
-        <item>"これ以降の予定"</item>
-        <item>"すべての予定"</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>"第1"</item>
-        <item>"第2"</item>
-        <item>"第3"</item>
-        <item>"第4"</item>
-        <item>"最終"</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>"応答がありません"</item>
-        <item>"はい"</item>
-        <item>"未定"</item>
-        <item>"いいえ"</item>
     </string-array>
     <string-array name="aqi_level_desc">
         <item>空气优</item>

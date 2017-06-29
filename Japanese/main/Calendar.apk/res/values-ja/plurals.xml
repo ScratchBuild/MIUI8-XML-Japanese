@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ndays">
+        <item quantity="other">"%d日前"</item>
+        <item quantity="one">"%d日前"</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">"%d時間前"</item>
+        <item quantity="one">"%d時間前"</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">"%d分前"</item>
+        <item quantity="one">"%d分前"</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">"第%d週"</item>
+    </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">In %1$d days at %2$s</item>
         <item quantity="one">In %1$d day at %2$s</item>
@@ -71,25 +90,6 @@
     <plurals name="work_days">
         <item quantity="other">%d営業日</item>
         <item quantity="one">%d営業日</item>
-    </plurals>
-    <plurals name="Ndays">
-        <item quantity="other">"%d日前"</item>
-        <item quantity="one">"%d日前"</item>
-    </plurals>
-    <plurals name="Nhours">
-        <item quantity="other">"%d時間前"</item>
-        <item quantity="one">"%d時間前"</item>
-    </plurals>
-    <plurals name="Nminutes">
-        <item quantity="other">"%d分前"</item>
-        <item quantity="one">"%d分前"</item>
-    </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+1</item>
-    </plurals>
-    <plurals name="weekN">
-        <item quantity="other">"第%d週"</item>
     </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">"%1$d日後"</item>
