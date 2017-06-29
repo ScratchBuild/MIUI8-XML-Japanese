@@ -116,7 +116,6 @@
   <string name="choose_stream_quality">"ストリーミング品質を選択"</string>
   <string name="click_modify">"歌詞を編集するにはタップ。"</string>
   <string name="click_to_shuffle">"シャッフルするにはタップ"</string>
-  <string name="click_to_view_new_local_audios">"詳細を表示するにはタップ。"</string>
   <string name="close_music_time">"残り時間: "</string>
   <string name="cloud_empty_local_empty_button">"この端末に曲がありません"</string>
   <string name="cloud_empty_message">"Mi Cloudに曲がありません"</string>
@@ -402,7 +401,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="global_search_title_radar">Music recognition</string>
   <string name="group_artist">Bands</string>
   <string name="handle_later">"後で"</string>
-  <string name="headset_settings">"ヘッドフォンとオーディオエフェクト"</string>
   <string name="higher_quality_music">High quality audio</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
   <string name="home_tab_local">My music</string>
@@ -442,7 +440,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="load_shuffle">"読み込み中…"</string>
   <string name="loadercontainer_loading">"読み込み中…"</string>
   <string name="loading_hint">"読み込み中…"</string>
-  <string name="local_music">Offline</string>
+  <string name="local_music">Local music</string>
   <string name="local_music_empty">"ローカルプレイリストは空です"</string>
   <string name="local_music_empty_goto_online">"曲が見つかりませんでした"</string>
   <string name="local_music_is_not_available">Local music is not available.</string>
@@ -582,11 +580,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="notification_download_failed">"ダウンロードできませんでした"</string>
   <string name="notification_download_failed_more">"Couldn't download %1$d items"</string>
   <string name="notification_download_success_more">%1$d downloaded</string>
-  <string name="notification_favorite_summary">"新しいリリースと最新のヒット曲に関する通知を取得する"</string>
-  <string name="notification_favorite_title">"お気に入りのアーティストに関する通知"</string>
-  <string name="notification_headset_custom">"閉じる"</string>
-  <string name="notification_headset_info">"設定を表示するにはタップ。"</string>
-  <string name="notification_headset_settings">"ヘッドフォンが接続されました"</string>
   <string name="notification_need_wifi_for_size">"ダウンロードにはWi-Fi接続が必要です。"</string>
   <string name="notification_play_summary">"現在および次の曲を表示して、ホーム画面に歌詞を表示します"</string>
   <string name="notification_play_title">"通知シェードのウィジェット"</string>
@@ -602,7 +595,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="online_favor">"おすすめ"</string>
   <string name="online_fm">FM</string>
   <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from internal storage.</string>
-  <string name="online_music_enabled_subtitle">Tap to stream your favorite songs.</string>
   <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_my">My</string>
@@ -793,7 +785,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="song_not_find">"This song isn't available."</string>
   <string name="song_offline">Sorry, this song is no longer available.</string>
   <string name="song_unit">items</string>
-  <string name="sort_by_language">"言語"</string>
   <string name="sort_by_name">"名前"</string>
   <string name="sort_by_time">"日付"</string>
   <string name="source_from">Source: %1$s</string>
@@ -902,16 +893,16 @@ is mainly provided by Ultimate Inc."</string>
   <string name="upgrade_waringing">"オフラインに保存された音楽のみ再生することができます。"</string>
   <string name="valid_period">Valid: %s</string>
   <string name="version_info">Version</string>
+  <string name="vip_after_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically the evening of day after tomorrow. Make sure you have enough Mi Credits in your account to complete this payment.</string>
+  <string name="vip_after_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
   <string name="vip_auto_renew_message">Your Music subscription will be renewed automatically this evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
-  <string name="vip_auto_renew_notification_message">Add Mi Credits to renew your Music subscription.</string>
-  <string name="vip_auto_renew_notification_title">"購読の支払い"</string>
   <string name="vip_auto_renew_title">"購読の更新"</string>
   <string name="vip_renew_message">"高品質のオーディオをストリーミングすることができなくなりますが、一部の曲は通常の品質で利用可能です。"</string>
-  <string name="vip_renew_notification_message">"購読の有効期限が切れた後、高品質のオーディオをストリーミングできなくなります。"</string>
-  <string name="vip_renew_notification_title">"購読の有効期限が明日で切れます"</string>
   <string name="vip_renew_title">"購読の有効期限切れ"</string>
   <string name="vip_required">Get Premium Song Pack to play this song. Skipped the song for now.</string>
   <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. Skipped the song for now.</string>
+  <string name="vip_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically tomorrow evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
+  <string name="vip_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
   <string name="warning_tip_cancel">"ダウンロード"</string>
   <string name="warning_tip_content">"Wi-Fiネットワークに接続していません。モバイルデータ接続を使用してダウンロードを行うと、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="warning_tip_ok">Pause</string>

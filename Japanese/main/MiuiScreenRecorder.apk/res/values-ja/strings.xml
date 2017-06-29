@@ -35,6 +35,7 @@
   <string name="low_battery_title">バッテリー不足</string>
   <string name="low_battery_warning">バッテリーが残りわずかです。記録を停止して動画を保存しました。</string>
   <string name="low_memory">ストレージの空き容量が200MB未満です。今すぐ最大5分まで記録することができます。</string>
+  <string name="low_memory_dior">ストレージの空き容量が500MB未満です。今すぐ最大12分まで記録することができます。</string>
   <string name="low_memory_title">十分な空き容量がありません</string>
   <string name="low_momery_warning">十分な空き容量がありません。記録を停止して動画を保存しました。</string>
   <string name="memory_not_allowed">空き容量がありません。記録するには空き容量を確保してください。</string>

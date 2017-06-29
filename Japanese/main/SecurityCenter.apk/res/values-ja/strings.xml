@@ -18,7 +18,7 @@
   <string name="STRANGER_BLOCK">Stranger blocklist</string>
   <string name="Setting_lock">"設定"</string>
   <string name="Settings_title_anti_spam">"ブロックリストの設定"</string>
-  <string name="Settings_title_anti_virus">"ウイルススキャンの設定"</string>
+  <string name="Settings_title_anti_virus">"セキュリティスキャンの設定"</string>
   <string name="Settings_title_garbage_cleanup">"クリーナーの設定"</string>
   <string name="Settings_title_network_assistants">"データ使用の設定"</string>
   <string name="Settings_title_power_center">"バッテリーの設定"</string>
@@ -40,7 +40,7 @@
   <string name="action_button_text_80_100">"最適化"</string>
   <string name="action_source_sms_title">Blocked SMS</string>
   <string name="activity_title_antispam">"ブロックリスト"</string>
-  <string name="activity_title_antivirus">"ウイルススキャン"</string>
+  <string name="activity_title_antivirus">"セキュリティスキャン"</string>
   <string name="activity_title_apps_manager">"アプリ"</string>
   <string name="activity_title_auto_start_manager">"自動起動"</string>
   <string name="activity_title_create_shortcut">"ショートカットを管理"</string>
@@ -598,13 +598,13 @@
   <string name="dialog_app_roaming_title">"Overseas roaming isn't enabled for %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">"支払いのセキュリティチェックを停止しますか？"</string>
-  <string name="dialog_msg_stop_virus_scan">"Stop virus scan before it's finished?"</string>
+  <string name="dialog_msg_stop_virus_scan">"Stop security scan before it's finished?"</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">"海外ローミング"</string>
   <string name="dialog_title_attention">"注意"</string>
   <string name="dialog_title_auto_start_declare">"自動起動について"</string>
   <string name="dialog_title_stop_paysafety_scan">"停止"</string>
-  <string name="dialog_title_stop_virus_scan">"ウイルススキャンを停止する"</string>
+  <string name="dialog_title_stop_virus_scan">"セキュリティスキャンを停止する"</string>
   <string name="disable_air_mode">"最初に機内モードをオフにする"</string>
   <string name="dlg_add_blacklist">"この番号をブロックしますか？"</string>
   <string name="dlg_add_blacklist_title">"ブロックリストに追加"</string>
@@ -750,6 +750,9 @@
   <string name="handle_text_cache">"キャッシュ"</string>
   <string name="handle_text_memory">"メモリ"</string>
   <string name="handle_text_system">"システム"</string>
+  <string name="handle_title_network">Wi-Fi Security</string>
+  <string name="handle_title_pay_env">Pay Environment</string>
+  <string name="handle_title_privacy">Privacy Security</string>
   <string name="help_label">"ヘルプ"</string>
   <string name="hide_mode_app_background_setting_text">App battery saver</string>
   <string name="hide_mode_summary_text">"バッテリーを節約するため、アプリのバックグラウンドアクティビティを管理する"</string>
@@ -759,9 +762,20 @@
   <string name="hints_auto_start_warning_info">"自動起動を制限した場合、一部のアプリやサービスから通知を受けることができなくなります。"</string>
   <string name="hints_cleanning_done">Scanned successfully</string>
   <string name="hints_cleanning_text">Cleaning…</string>
+  <string name="hints_handle_item_text_risk">"危険"</string>
   <string name="hints_handle_item_text_safe">"安全"</string>
+  <string name="hints_handle_item_text_virus">"危険"</string>
   <string name="hints_input_roaming_daily_limit">"データ使用量の制限を入力"</string>
   <string name="hints_last_virus_scan_none">Never scanned before</string>
+  <string name="hints_last_virus_scan_risk">Scanned %d days before: Suspicious</string>
+  <string name="hints_last_virus_scan_safe">Scanned %d days before: Safe</string>
+  <string name="hints_last_virus_scan_today_risk">Scanned today: Suspicious</string>
+  <string name="hints_last_virus_scan_today_safe">Scanned today: Safe</string>
+  <string name="hints_last_virus_scan_today_virus">Scanned today: Dangerous</string>
+  <string name="hints_last_virus_scan_virus">Scanned %d days before: Dangerous</string>
+  <string name="hints_last_virus_scan_yesterday_risk">Scanned yesterday: Suspicious</string>
+  <string name="hints_last_virus_scan_yesterday_safe">Scanned yesterday: Safe</string>
+  <string name="hints_last_virus_scan_yesterday_virus">Scanned yesterday: Dangerous</string>
   <string name="hints_loading_text">"読み込み中…"</string>
   <string name="hints_need_quick_clean">Find and delete dangerous files</string>
   <string name="hints_need_quick_scan">Recommended quick scan</string>
@@ -772,7 +786,9 @@
   <string name="hints_risk_app_list_item_summary">app</string>
   <string name="hints_risk_descx_title">"説明:"</string>
   <string name="hints_risk_name_title">Risk:</string>
+  <string name="hints_scan_danger_result">risk found, fix now</string>
   <string name="hints_scan_progress">Completed: %d</string>
+  <string name="hints_scan_result_no_finish">Scan is not finished. Click to restart.</string>
   <string name="hints_scan_result_phone_safe">Everything looks good</string>
   <string name="hints_scan_result_risk">"リスクが検出されました"</string>
   <string name="hints_scan_result_safe">"安全です"</string>
@@ -1005,7 +1021,7 @@
   <string name="menu_restore">"受信トレイに復元"</string>
   <string name="menu_sms">"メッセージを送信"</string>
   <string name="menu_text_antispam">"ブロックリスト"</string>
-  <string name="menu_text_antivirus">"ウイルススキャン"</string>
+  <string name="menu_text_antivirus">"セキュリティスキャン"</string>
   <string name="menu_text_garbage_cleanup">"クリーナー"</string>
   <string name="menu_text_garbage_cleanup_danger">"%s 超過"</string>
   <string name="menu_text_license_manager">"パーミッション"</string>
@@ -1435,13 +1451,11 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="resource_usb_install">"USB経由でインストール"</string>
   <string name="result_autoscan_header">"支払いの監視"</string>
   <string name="result_autoscan_info">"支払いアプリの起動時にシステム環境を自動的に監視する"</string>
-  <string name="result_sign_header">Found %d unofficial apps</string>
   <string name="result_sms_header">Messaging risks detected</string>
   <string name="result_sms_info_antispam">"ブロックリストをオンにして、悪意のあるURLから端末を保護する"</string>
   <string name="result_sms_info_auth">"サードパーティ製アプリの認証コードへのアクセスを制限する。"</string>
   <string name="result_sms_title_antispam">Threatened by malicious SMS URLs</string>
   <string name="result_sms_title_auth">Financial SMS leak risk exists</string>
-  <string name="result_virus_header">Found %d viruses and insecure apps</string>
   <string name="result_wifi_header">WLAN risks detected</string>
   <string name="right_precent">100%</string>
   <string name="roaming_allow_network_dialog_title">"モバイルデータローミングを許可しますか？"</string>
@@ -1699,6 +1713,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">risks</string>
   <string name="suggest_app_tolock">Suggestions</string>
+  <string name="suggest_scan_again">It is proposed to scan completely to ensure security.</string>
   <string name="summary_app_lock_disable">Protect your data with App lock</string>
   <string name="summary_auto_update">MIUI will select the most suitable time to download and install updates.</string>
   <string name="summary_cleaner_cloudscan">Upload and compare folder names with online definitions</string>
@@ -1709,6 +1724,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_cmcc_app_check">"Some apps couldn't be verified"</string>
   <string name="summary_consume_power">Heating issues found, they can affect battery life span</string>
   <string name="summary_data_flow">Control mobile data usage to avoid additional fees</string>
+  <string name="summary_default_app">"%s isn't set as a default system app"</string>
   <string name="summary_dev">Avoid malware and protect personal data</string>
   <string name="summary_find_device">Locate and lock your device from anywhere</string>
   <string name="summary_flow_notification">"月間データ使用量の統計を通知シェードに表示する"</string>
@@ -1718,7 +1734,6 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_garbage_clean">"キャッシュを消去して空き領域を確保"</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
-  <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
   <string name="summary_mifi_insurance">Get a 1 year replacement plan which works for the cases of hardware damage</string>
   <string name="summary_miui_update">"%sの更新が利用可能。"</string>
   <string name="summary_mms">Block SMS spam automatically</string>
@@ -1868,7 +1883,6 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="title_install_virus_no">"インストールモニターはオフです"</string>
   <string name="title_install_virus_yes">"インストールモニターはオンです"</string>
   <string name="title_limit_traffic_per_day">Daily data usage limit</string>
-  <string name="title_live_talk_purchase">Turn on Top-up package</string>
   <string name="title_mifi_insurance">"延長保証"</string>
   <string name="title_miui_update">"更新が利用可能"</string>
   <string name="title_mms_no">"メッセージフィルタはオフです"</string>
@@ -2013,6 +2027,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="user_define_title">"ルールを追加"</string>
   <string name="virus_ad_icon_text">Ad</string>
   <string name="virus_already_update">Definitions are up to date</string>
+  <string name="virus_auto_update_engine">"自動更新：%s"</string>
   <string name="virus_dp_update_title">Definition updates</string>
   <string name="virus_scan">"ウイルススキャン"</string>
   <string name="virus_update_fail">"更新できませんでした"</string>

@@ -29,6 +29,7 @@
   <string name="add_anniversary">"記念日を追加"</string>
   <string name="add_countdown">"カウントダウンを追加"</string>
   <string name="add_event">"予定を追加"</string>
+  <string name="agenda_month_empty_hint">"今日の予定はありません"</string>
   <string name="agenda_today">"今日: %1$s"</string>
   <string name="agenda_tomorrow">"明日: %1$s"</string>
   <string name="agenda_view">"予定リスト"</string>
@@ -272,6 +273,7 @@
   <string name="limit_tomorrow">"明日"</string>
   <string name="live_text">"ライブ"</string>
   <string name="living_text">"ライブ中"</string>
+  <string name="load_more_hint">Refresh events of %1$d</string>
   <string name="loading">"読み込み中…"</string>
   <string name="loan_event_title">贷款账单</string>
   <string name="local_calendar_display_name">"ローカルカレンダー"</string>
@@ -312,6 +314,7 @@
   <string name="new_event_dialog_label">"新しい予定"</string>
   <string name="new_event_dialog_option">"新しい予定"</string>
   <string name="no_contact_birthday_hint">"インポートする誕生日がありません"</string>
+  <string name="no_events_hint">"予定はありません"</string>
   <string name="no_network">"ネットワークに接続できません"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="no_title_label">"(無題)"</string>
@@ -346,10 +349,12 @@
   <string name="preferences_week_start_day_dialog">"週の開始日"</string>
   <string name="preferences_week_start_day_title">"週の開始日"</string>
   <string name="provided_ad">"スポンサー"</string>
+  <string name="pull_to_refresh_hint">Pull to refresh events of %1$d</string>
   <string name="recommend_card_add">"今すぐ購読"</string>
   <string name="recommend_card_adding">"購読中"</string>
   <string name="recommend_card_close_hint">"似たような購読のおすすめを減らす"</string>
   <string name="refresh">"更新"</string>
+  <string name="refreshing_hint">"更新中"</string>
   <string name="repeat_activity_label">"繰り返し"</string>
   <string name="repeat_custom_activity_label">"カスタム"</string>
   <string name="repeat_custom_prompt">every %1$s on %2$s</string>

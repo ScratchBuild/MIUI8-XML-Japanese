@@ -22,9 +22,29 @@
         <item quantity="other">%1$s人</item>
         <item quantity="one">1人</item>
     </plurals>
+    <plurals name="to_count">
+        <item quantity="other">宛先 %d件</item>
+        <item quantity="one">宛先 %d件</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">%1$s件のメッセージを送信</item>
+        <item quantity="one">%1$s件のメッセージを送信</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">%d人に送信できませんでした</item>
+        <item quantity="one">%d人に送信できませんでした</item>
+    </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">%1$s件のメッセージを削除しますか？</item>
         <item quantity="one">%1$s件のメッセージを削除しますか？</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">%dに設定されたメッセージは送信されませんでした</item>
+        <item quantity="one">%dに設定されたメッセージは送信されませんでした</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d件のメッセージ)</item>
+        <item quantity="one">(%d件のメッセージ)</item>
     </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">%d件のメッセージ</item>

@@ -1126,7 +1126,6 @@
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_notification_ringtone_title">通知音</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">バイブレーション</string>
-  <string name="voicemail_notification_vibrate_when_default">バイブレーションしない</string>
   <string name="voicemail_notification_vibrate_when_title">バイブレーション</string>
   <string name="voicemail_number_not_set">"&lt;未設定&gt;"</string>
   <string name="voicemail_provider">ボイスメールサービス</string>

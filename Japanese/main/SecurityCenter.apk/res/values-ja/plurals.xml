@@ -113,6 +113,14 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="few">%1$d views</item>
         <item quantity="many">%1$d views</item>
     </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Found %d viruses and insecure apps</item>
+        <item quantity="one">Found one virus app</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Found %d unofficial apps</item>
+        <item quantity="one">Found one unofficial app</item>
+    </plurals>
     <plurals name="sp_settings_exception_count">
         <item quantity="other">%d個</item>
         <item quantity="one">1個</item>
