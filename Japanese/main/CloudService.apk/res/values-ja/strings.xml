@@ -25,7 +25,7 @@ You need a Mainland China bank card to purchase additional storage space."</stri
   <string name="buy_more_space_c_class">"This feature requires a Mainland China bank card.
 To get more storage space, visit mi.com/micloud."</string>
   <string name="buy_space_expire">Purchased space will expire in %s</string>
-  <string name="buy_space_expire_concat">%1$s to %2$s</string>
+  <string name="buy_space_expire_concat">"%1$sから%2$sまで"</string>
   <string name="buy_space_sulotion_auto_renew">"自動的に更新する"</string>
   <string name="buy_space_sulotion_message">Buy %sGB additional storage space</string>
   <string name="buy_space_sulotion_not_auto_renew">"自動的に更新しない"</string>
@@ -272,7 +272,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_sync_need_charge_or_sleep">"同期するには充電器に接続して画面をオフにしてください"</string>
   <string name="micloud_main_sync_now">今すぐ同期</string>
   <string name="micloud_main_sync_on">Sync on</string>
-  <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
+  <string name="micloud_main_sync_on_wifi">Wi-Fiを待機中</string>
   <string name="micloud_main_sync_pause">同期の一時停止</string>
   <string name="micloud_main_sync_pending">Waiting to sync</string>
   <string name="micloud_main_sync_setting">同期設定</string>

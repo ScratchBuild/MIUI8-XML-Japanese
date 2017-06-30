@@ -598,7 +598,7 @@
   <string name="dialog_app_roaming_title">"Overseas roaming isn't enabled for %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">"支払いのセキュリティチェックを停止しますか？"</string>
-  <string name="dialog_msg_stop_virus_scan">"Stop security scan before it's finished?"</string>
+  <string name="dialog_msg_stop_virus_scan">"完了前にセキュリティスキャンを停止しますか？"</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">"海外ローミング"</string>
   <string name="dialog_title_attention">"注意"</string>
@@ -788,7 +788,7 @@
   <string name="hints_risk_name_title">Risk:</string>
   <string name="hints_scan_danger_result">risk found, fix now</string>
   <string name="hints_scan_progress">Completed: %d</string>
-  <string name="hints_scan_result_no_finish">Scan is not finished. Click to restart.</string>
+  <string name="hints_scan_result_no_finish">"スキャンは完了していません。再開するにはタップ。"</string>
   <string name="hints_scan_result_phone_safe">Everything looks good</string>
   <string name="hints_scan_result_risk">"リスクが検出されました"</string>
   <string name="hints_scan_result_safe">"安全です"</string>
@@ -1747,7 +1747,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_show_notification">Clear cache, view battery status, and block items in Notification shade</string>
   <string name="summary_telecom_operator">Get your monthly data usage stats from your carrier</string>
   <string name="summary_usb">Prevent malware from being transmitted via USB</string>
-  <string name="summary_virus">Remove viruses to keep your device secure</string>
+  <string name="summary_virus">"端末を安全に保つため、ウイルスを削除する"</string>
   <string name="summary_virus_cloudscan">"アプリ名と詳細をアップロードし、オンラインのウイルス定義を使用してスキャンします"</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>

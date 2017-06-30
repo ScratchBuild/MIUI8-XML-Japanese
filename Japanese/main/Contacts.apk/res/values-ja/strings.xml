@@ -456,7 +456,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="fail_reason_too_many_vcard">SDカード内にあるvCardファイル数が多すぎます。</string>
   <string name="fail_reason_unknown">"不明なエラー"</string>
   <string name="fail_reason_vcard_parse_error">"予期せぬ理由によりvCardを解析できませんでした"</string>
-  <string name="favoritesFrequentCalled">よくする通話</string>
+  <string name="favoritesFrequentCalled">よく使う連絡先</string>
   <string name="favoritesFrequentContacted">よく使う連絡先</string>
   <string name="favorites_list_empty">"お気に入りはありません"</string>
   <string name="firewall_setting">"ブロックリスト"</string>
@@ -883,9 +883,9 @@ To add a contact to your list of favorites:
   <string name="picker_number_title">"番号を選択"</string>
   <string name="picker_postal_title">"郵便番号を選択"</string>
   <string name="picker_recent_list_empty">No recent contacts</string>
-  <string name="pkgLabel">Contacts and dialer</string>
-  <string name="play_add_incall_show_entry">Play or add video</string>
-  <string name="play_incall_show_entry">Play video</string>
+  <string name="pkgLabel">"連絡先と電話"</string>
+  <string name="play_add_incall_show_entry">"動画を再生または追加する"</string>
+  <string name="play_incall_show_entry">"動画を再生する"</string>
   <string name="postalLabelsGroup">"住所"</string>
   <string name="postal_address">住所</string>
   <string name="postal_city">市区町村</string>
@@ -896,8 +896,8 @@ To add a contact to your list of favorites:
   <string name="postal_region">都道府県</string>
   <string name="postal_street">番地</string>
   <string name="pref_key_photo">"写真"</string>
-  <string name="pref_key_photo_word_summary">Automatically assign a picture to contacts without one</string>
-  <string name="pref_key_photo_word_title">Assign contact photos</string>
+  <string name="pref_key_photo_word_summary">"連絡先に写真を自動的に割り当てる"</string>
+  <string name="pref_key_photo_word_title">"連絡先に写真を割り当てる"</string>
   <string name="pref_key_rebuild_t9_index_message">"検索の問題を解決するためにインデックスを再構築"</string>
   <string name="pref_key_rebuild_t9_index_title">"インデックスデータを再構築"</string>
   <string name="pref_key_sim_manage">"SIMカード"</string>
