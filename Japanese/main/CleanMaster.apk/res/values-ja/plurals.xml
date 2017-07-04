@@ -34,12 +34,8 @@
         <item quantity="other">Downloaded by %1$d people</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d views</item>
-        <item quantity="zero">%1$d views</item>
-        <item quantity="one">%1$d views</item>
-        <item quantity="two">%1$d views</item>
-        <item quantity="few">%1$d views</item>
-        <item quantity="many">%1$d views</item>
+        <item quantity="other">%1$s views</item>
+        <item quantity="one">%1$s view</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d groups</item>

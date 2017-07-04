@@ -930,11 +930,7 @@
   <string name="rhrpd_unlock_success">RUIM Hrpd unlock successful.</string>
   <string name="ringtone_silent">None</string>
   <string name="ringtone_unknown">不明な着信音</string>
-  <string name="rnw1_unlock_failed">RUIM Network1 unlock request unsuccessful.</string>
-  <string name="rnw1_unlock_success">RUIM Network1 unlock successful.</string>
-  <string name="rnw2_unlock_failed">RUIM Network2 unlock request unsuccessful.</string>
-  <string name="rnw2_unlock_success">RUIM Network2 unlock successful.</string>
-  <string name="roaming">"データローミング"</string>
+  <string name="roaming">Disconnected from mobile data network</string>
   <string name="roaming_alert_title">データローミングを許可しますか？</string>
   <string name="roaming_disable">ローミング時にデータサービスに接続する</string>
   <string name="roaming_enable">"ローミング時にデータサービスに接続する"</string>

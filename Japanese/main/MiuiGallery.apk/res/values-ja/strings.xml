@@ -77,7 +77,8 @@
   <string name="album_type_system">"システムのアルバム"</string>
   <string name="album_videos_name">"動画"</string>
   <string name="alert_secret_album_enter">OK</string>
-  <string name="alert_secret_album_message">Swipe down while in the Albums tab to view hidden album.</string>
+  <string name="alert_secret_album_message">Swipe down while in the Albums tap to view hidden album.</string>
+  <string name="alert_secret_album_message_lower_case"> swipe down while in the Albums tap to view hidden album.</string>
   <string name="alert_secret_album_title">How to view hidden album</string>
   <string name="all_faces">Photos with this person</string>
   <string name="all_items_synced">All albums have been backed up to Mi Cloud</string>
@@ -154,6 +155,9 @@
   <string name="backup_pause_title">Back up in %s</string>
   <string name="backup_pending">"自動的にバックアップされます"</string>
   <string name="backup_stop">"バックアップを停止"</string>
+  <string name="backup_sync_dialog_confirm">Turn on</string>
+  <string name="backup_sync_dialog_tips">Turn on sync with Mi Cloud to change the settings for backups.</string>
+  <string name="backup_sync_dialog_title">Sync is off</string>
   <string name="backup_sync_error_btn_text">"再試行"</string>
   <string name="backup_sync_error_desc">"Mi Cloudに接続できません"</string>
   <string name="backup_sync_error_title">"アイテムを同期できませんでした"</string>
@@ -327,7 +331,7 @@
   <string name="exit">"終了"</string>
   <string name="exit_share">"アルバムを終了"</string>
   <string name="exit_share_failed">"Couldn't exit %1$s"</string>
-  <string name="exit_share_in_process">Exiting…</string>
+  <string name="exit_share_in_process">Leaving album \"%s\"…</string>
   <string name="exit_share_successfully">Exited %1$s</string>
   <string name="exit_video_play">Exit</string>
   <string name="expand_people">Show more people</string>

@@ -2534,10 +2534,13 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="priority_storage_settings_summary">SDカードが検出されない場合、自動的に端末の内部ストレージに保存されます。</string>
   <string name="priority_storage_summary">データを保存する場所を選択</string>
   <string name="priority_storage_title">ストレージ設定</string>
+  <string name="privacy_close_dlg_button_ok">Turn off</string>
+  <string name="privacy_close_dlg_msg">When Privacy protection password is off, your items will no longer be protected.</string>
+  <string name="privacy_close_dlg_title">Attention</string>
   <string name="privacy_delete_space_dlg_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
   <string name="privacy_dlg_button_cancel">Cancel</string>
-  <string name="privacy_factory_reset_dlg_button_text">Back up data</string>
-  <string name="privacy_factory_reset_dlg_message">"Back up your data locally, and then perform a factory data reset. After that, you'll be able to change your password."</string>
+  <string name="privacy_factory_reset_dlg_button_text">リセット</string>
+  <string name="privacy_factory_reset_dlg_message">"If you forget your password, you'll have to perform a factory reset to set a new one."</string>
   <string name="privacy_factory_reset_dlg_title">Back up your data</string>
   <string name="privacy_file">ファイル</string>
   <string name="privacy_gallery">写真</string>
@@ -2574,6 +2577,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_password_settings_titles_elder_mode">プライバシー保護パスワードはあなたの写真、ファイル、およびノートを保護します。</string>
   <string name="privacy_password_settings_titles_second_space">プライバシー保護パスワードはあなたのメッセージ、写真、およびノートを保護します。</string>
   <string name="privacy_password_title">プライバシー保護パスワード</string>
+  <string name="privacy_password_toggle_summary">Require password every time private items are accessed.</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">プライバシー保護パスワードであなたの指紋を使用することもできます。</string>
   <string name="privacy_password_use_finger_dialog_open">設定</string>
