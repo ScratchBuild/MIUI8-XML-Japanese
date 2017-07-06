@@ -60,7 +60,7 @@
   <string name="terms_of_use">"利用規約"</string>
   <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen modules, Game Service, MAB and MSA system components, Direct Service, and statistic components will connect to the internet and acquire your location."</string>
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen modules, Game Service, MAB and MSA system components, Direct Service, Quick Card, and statistic components will connect to the internet and acquire your location."</string>
   <string name="title_fingerprint">"指紋認証を追加"</string>
   <string name="user_agreement">"利用規約"</string>
   <string name="welcome">"ようこそ"</string>
