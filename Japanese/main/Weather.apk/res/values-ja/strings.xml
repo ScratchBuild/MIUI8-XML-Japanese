@@ -66,7 +66,6 @@
   <string name="common_loading_text">"読み込み中..."</string>
   <string name="connect_fail">"ネットワークに接続できません、後でもう一度お試しください。"</string>
   <string name="daily_forcast_drawer_on_bottom">"非表示"</string>
-  <string name="daily_forcast_drawer_on_top">"%1$s日間の予報"</string>
   <string name="daily_forcast_no_stable_direction">"そよ風"</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
   <string name="daily_forcast_whirl_wind">"つむじ風"</string>
@@ -81,7 +80,6 @@
   <string name="feedback_light_rain">"小雨"</string>
   <string name="feedback_overcast">"曇り"</string>
   <string name="feedback_result_fail_no_choice">"現在の天気を選択"</string>
-  <string name="feedback_result_interval_time_too_short">"%1$s秒後に送信してください"</string>
   <string name="feedback_result_success">"送信が完了しました、ご提供ありがとうございます。"</string>
   <string name="feedback_sand">"砂"</string>
   <string name="feedback_sunny">"晴れ"</string>

@@ -805,7 +805,6 @@
   <string name="clear_failed_dlg_title">データのクリア</string>
   <string name="clear_user_data_text">データを消去</string>
   <string name="close_gesture">ジェスチャーを使用して閉じる</string>
-  <string name="close_install_and_connect">結構です</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
   <string name="cmcc_hardware_version">ハードウェアバージョン</string>
@@ -844,7 +843,6 @@
   <string name="confirm_erase">消去する</string>
   <string name="confirm_fingerprint_icon_content_description">続行するには指紋認証を使用してください。</string>
   <string name="confirm_fingerprint_msg">指をセンサーに当ててください</string>
-  <string name="confirm_install_and_connect">インストールと接続</string>
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
   <string name="confirm_privacy_password">プライバシー保護パスワードを入力</string>
   <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護パスワードを入力</string>
@@ -1139,8 +1137,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="disable_service_message">[OK]をタップすると%1$sが停止します。</string>
   <string name="disable_service_title">%1$sを停止しますか？</string>
   <string name="disable_text">無効にする</string>
-  <string name="disable_wifi_master_key_service">オフにする</string>
-  <string name="disable_wifi_master_key_service_first">オフにする</string>
   <string name="disabled">無効</string>
   <string name="disabled_because_no_backup_security">使用するには、まず画面ロックを設定してください</string>
   <string name="disconnect">切断</string>
@@ -1289,8 +1285,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_terminal_title">ローカルターミナル</string>
   <string name="enable_text">有効にする</string>
   <string name="enable_wifi_display">ワイヤレスディスプレイ</string>
-  <string name="enable_wifi_master_key_service">WiFi Master Keyをオンにする</string>
-  <string name="enable_wifi_master_key_service_first">オンにする</string>
   <string name="enalbe_identify_iPhone">AP identification</string>
   <string name="encrypt_dont_require_password">必須としない</string>
   <string name="encrypt_dont_require_pattern">必須としない</string>
@@ -1604,7 +1598,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="install_all_warning">提供元不明のアプリから携帯端末や個人データが攻撃を受ける可能性が高くなります。このようなアプリの使用により生じる可能性がある携帯端末への損害やデータの損失について、ユーザーご自身が単独で責任を負うことに同意するものとします。</string>
   <string name="install_applications">提供元不明のアプリ</string>
   <string name="install_applications_title">アプリの提供元をすべて許可する</string>
-  <string name="install_master_key_and_connect">WiFi Master Keyを使用してこのネットワークに接続することができます。このツールをインストールしますか？</string>
   <string name="install_no_market_app_summary">App Store以外からのアプリのインストールを許可します</string>
   <string name="install_no_market_app_title">不明なソース</string>
   <string name="install_preinstall_app">アプリを読み込み中…</string>
@@ -3267,8 +3260,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="show_touches">タップを表示</string>
   <string name="show_touches_summary">タップを視覚表示する</string>
   <string name="show_user_info_on_lockscreen_label">ロック画面にユーザー情報を表示</string>
-  <string name="show_wifi_master_key_summary">WiFi Master Keyを使用して共有Wi-Fiネットワークに接続する</string>
-  <string name="show_wifi_master_key_title">共有Wi-Fiネットワークを検出</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
   <string name="shut_down_find_device_network_failure_content">「デバイスを探す」機能をOFFに出来ませんでした。お使いの携帯端末がインターネットに接続していることを確認してください。</string>
   <string name="shut_down_find_device_network_failure_title">ネットワークに接続出来ません</string>
@@ -3771,7 +3762,6 @@ PINが正しくない可能性があります。"</string>
   <string name="uninstall_protected_dlg_msg">システムアプリをアンインストールすると、一部のMIUIコンポーネントが正常に動作しなくなる可能性があります。 とにかくアンインストールしますか？</string>
   <string name="uninstall_protected_dlg_title">システムアプリをアンインストール中</string>
   <string name="uninstall_text">アンインストール</string>
-  <string name="uninstall_wifi_master_key">WiFi Master Keyをアンインストール</string>
   <string name="uninstall_with_xspace_app_dlg_msg">対応するデュアルアプリはアプリのデータと一緒に削除されます</string>
   <string name="uninstall_xspace_app_dlg_msg">デュアルアプリをアンインストールするとアプリの全データが削除されます</string>
   <string name="uninstall_xspace_app_dlg_title">デュアルアプリをアンインストールしますか？</string>
@@ -3904,7 +3894,6 @@ PINが正しくない可能性があります。"</string>
   <string name="use_privacy_password_immediate">使用する</string>
   <string name="use_system_language_to_select_input_method_subtypes">システムの言語を使用</string>
   <string name="use_this_wlan">接続を維持する</string>
-  <string name="use_wifi_master_key_summary">WiFi Master Keyを使用して接続</string>
   <string name="user_account_title">コンテンツのアカウント</string>
   <string name="user_add_max_count">最大%1$d人のユーザーを追加できます</string>
   <string name="user_add_on_lockscreen_menu">端末のロック時にユーザーを追加</string>
@@ -4277,12 +4266,6 @@ PINが正しくない可能性があります。"</string>
   <string name="wifi_ip_settings_menu_cancel">キャンセル</string>
   <string name="wifi_ip_settings_menu_save">保存</string>
   <string name="wifi_limit_optimizations_summary">Wi-Fiの電池使用量を制限する</string>
-  <string name="wifi_master_key_dialog_content_master_key">WiFi Master Key</string>
-  <string name="wifi_master_key_dialog_content_password">Password</string>
-  <string name="wifi_master_key_dialog_title">Connect using</string>
-  <string name="wifi_master_key_name">WiFi Master Key</string>
-  <string name="wifi_master_key_service_dialog_content">WiFi Master Keyは共有Wi-Fiネットワークのパスワードを提供する無料のサービスです。WiFi Master Keyはネットワークのパスワードを共有しません。You can also %1$s.</string>
-  <string name="wifi_master_key_service_dialog_title">共有Wi-Fiネットワーク</string>
   <string name="wifi_menu_advanced">詳細設定</string>
   <string name="wifi_menu_connect">ネットワークに接続</string>
   <string name="wifi_menu_forget">ネットワークから切断</string>
