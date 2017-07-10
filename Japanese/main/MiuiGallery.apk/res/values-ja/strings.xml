@@ -155,9 +155,9 @@
   <string name="backup_pause_title">Back up in %s</string>
   <string name="backup_pending">"自動的にバックアップされます"</string>
   <string name="backup_stop">"バックアップを停止"</string>
-  <string name="backup_sync_dialog_confirm">Turn on</string>
-  <string name="backup_sync_dialog_tips">Turn on sync with Mi Cloud to change the settings for backups.</string>
-  <string name="backup_sync_dialog_title">Sync is off</string>
+  <string name="backup_sync_dialog_confirm">"オンにする"</string>
+  <string name="backup_sync_dialog_tips">"Mi Cloudとの同期をオンにして、バックアップの設定を変更します。"</string>
+  <string name="backup_sync_dialog_title">"同期はオフです"</string>
   <string name="backup_sync_error_btn_text">"再試行"</string>
   <string name="backup_sync_error_desc">"Mi Cloudに接続できません"</string>
   <string name="backup_sync_error_title">"アイテムを同期できませんでした"</string>
@@ -330,10 +330,10 @@
   <string name="error_unknown_host">"ネットワークに接続できませんでした。データ接続を確認して再度試してください。"</string>
   <string name="exit">"終了"</string>
   <string name="exit_share">"アルバムを終了"</string>
-  <string name="exit_share_failed">"Couldn't exit %1$s"</string>
-  <string name="exit_share_in_process">Leaving album \"%s\"…</string>
-  <string name="exit_share_successfully">Exited %1$s</string>
-  <string name="exit_video_play">Exit</string>
+  <string name="exit_share_failed">"%1$sを終了できませんでした"</string>
+  <string name="exit_share_in_process">"\"%s\"を終了しています…"</string>
+  <string name="exit_share_successfully">"%1$sを終了しました"</string>
+  <string name="exit_video_play">"終了"</string>
   <string name="expand_people">Show more people</string>
   <string name="face_album_detecting_tip">"読み込み中…"</string>
   <string name="face_album_empty">"Not enough photos to recognize people.

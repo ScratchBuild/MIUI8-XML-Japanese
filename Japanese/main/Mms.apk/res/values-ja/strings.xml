@@ -384,7 +384,7 @@
   <string name="pref_other_title">詳細設定</string>
   <string name="pref_show_blocked_messages_summary">スレッドリストでブロックしたSMSを表示</string>
   <string name="pref_show_list_avatar_summary">リストビューでプロフィール写真や連絡先情報を表示する</string>
-  <string name="pref_show_photo_word_summary">Automatically assign a picture to contacts without one</string>
+  <string name="pref_show_photo_word_summary">写真の無い連絡先に写真を自動的に割り当てる</string>
   <string name="pref_show_sms_template_entry_summary">SMSでワンタイムパスワードを検出する</string>
   <string name="pref_show_sms_template_in_summary">SMSメッセージでワンタイムパスワードを自動的に認識</string>
   <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
@@ -603,7 +603,7 @@
   <string name="title_hide_verification_code">Auto hide OTP on lock screen</string>
   <string name="title_show_blocked_messages">ブロックしたSMSを表示</string>
   <string name="title_show_list_avatar">プロフィール写真を表示</string>
-  <string name="title_show_photo_word">Assign contact photos</string>
+  <string name="title_show_photo_word">連絡先に写真を割り当てる</string>
   <string name="title_show_sms_template">認証コードをSMSで確認してください</string>
   <string name="title_show_sms_template_in">ワンタイムパスワードをSMSで確認してください</string>
   <string name="title_timed_message_dialog">SMSの時間を設定してください</string>
