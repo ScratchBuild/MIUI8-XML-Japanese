@@ -1509,7 +1509,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="got_it">OK</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to Wi-Fi</string>
   <string name="handy_mode">片手操作モード</string>
-  <string name="handy_mode_enter_ask">片手操作モードへの切り替え前に確認</string>
   <string name="handy_mode_size">画面サイズ</string>
   <string name="handy_mode_tips">ホームボタンから左または右にスワイプする事で、画面を片一方に寄せる事ができます。</string>
   <string name="haptic_feedback_enable_title">タッチ操作バイブ</string>

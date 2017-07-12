@@ -43,7 +43,6 @@
   <string name="album_already_exists_msg">"アルバム \"%s\" は既に存在します"</string>
   <string name="album_already_forced_top">Already on top</string>
   <string name="album_camera_name">"カメラ"</string>
-  <string name="album_detail_clear_local_page_empty">No backed up photos or videos to delete</string>
   <string name="album_detail_page_empty">"写真や動画はありません"</string>
   <string name="album_faces_name">People</string>
   <string name="album_from_format">From %s</string>
@@ -131,8 +130,9 @@
   <string name="backup_cloud_space_low_btn_text">Get more</string>
   <string name="backup_cloud_space_low_desc">%1$s in Mi Cloud | Available %2$s</string>
   <string name="backup_cloud_space_low_title">Not enough Mi Cloud storage</string>
-  <string name="backup_cta_not_allow">"ネットワークにアクセスできません"</string>
   <string name="backup_cta_not_allow_btn_text">"許可する"</string>
+  <string name="backup_cta_not_allow_desc">"自動的にバックアップすることに同意します"</string>
+  <string name="backup_cta_not_allow_title">"ネットワークにアクセスできません"</string>
   <string name="backup_detail_page_empty">"バックアップを待機中の写真や動画はありません"</string>
   <string name="backup_detail_page_title">Mi Cloud backups</string>
   <string name="backup_device_space_low_btn_text">"消去"</string>
@@ -143,7 +143,7 @@
   <string name="backup_immediately">"バックアップ"</string>
   <string name="backup_need_sync_desc">"バックアップを続行するにはボタンをタップしてください"</string>
   <string name="backup_need_sync_title">"バックアップが停止しました"</string>
-  <string name="backup_no_network_btn_text">"ネットワーク設定"</string>
+  <string name="backup_no_network_btn_text">"設定"</string>
   <string name="backup_no_network_desc">"バックアップを続行するにはネットワークに接続してください"</string>
   <string name="backup_no_network_title">"Mi Cloudに接続できません"</string>
   <string name="backup_no_wifi_btn_text">"データを使用"</string>
@@ -193,7 +193,6 @@
   <string name="choose_owner_relation">Relationship</string>
   <string name="choose_people">"Choose a person's album"</string>
   <string name="choose_some_people">Choose album with %s</string>
-  <string name="clear_local_photo_direction">"もし写真や動画を端末から削除した場合でも、それらはMi Cloud上で参照することができます"</string>
   <string name="click_download_gif">"GIFをダウンロードするにはタップ"</string>
   <string name="click_top_right">Tap this icon</string>
   <string name="cloud_camera_display_name">Camera photos</string>
@@ -204,6 +203,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">"スクリーンショット"</string>
   <string name="cloud_settings">"ギャラリーのバックアップ"</string>
+  <string name="cloud_storage_extend">Extend cloud space</string>
   <string name="cloud_storage_ok_append_desc">Available %s</string>
   <string name="cloud_storage_ok_desc">Mi Cloud storage %s</string>
   <string name="cloud_storage_ok_title">Enough storage in Mi Cloud</string>
@@ -280,7 +280,6 @@
   <string name="delete_third_party_photo">"この写真を削除しますか？"</string>
   <string name="delete_third_party_video">"この動画を削除しますか？"</string>
   <string name="delete_to_trash_tips">"最近削除した写真は、設定 &gt; ゴミ箱から表示することができます"</string>
-  <string name="delete_unsynced">"バックアップされていないアイテムを削除"</string>
   <string name="deny">"拒否"</string>
   <string name="detail_title">"詳細情報"</string>
   <string name="disable_auto_upload_tip">"このアルバムのMi Cloudとの同期をオフにしますか？"</string>
@@ -513,12 +512,10 @@ Take more photos of your friends!"</string>
   <string name="operation_delete">"削除"</string>
   <string name="operation_detail">"詳細"</string>
   <string name="operation_disable_auto_upload">"Mi Cloudとの同期をオフにする"</string>
-  <string name="operation_do_delete_local_thumnail">"デバイスから削除"</string>
   <string name="operation_download">"元のファイルをダウンロード (%s)"</string>
   <string name="operation_edit">"編集"</string>
   <string name="operation_edit_video">"編集"</string>
   <string name="operation_enable_auto_upload">"Mi Cloudとの同期をオンにする"</string>
-  <string name="operation_enter_delete_local">"デバイスからバックアップ済みの写真と動画を削除"</string>
   <string name="operation_failed">"操作を完了できませんでした"</string>
   <string name="operation_force_top">"ピン留めを設定"</string>
   <string name="operation_hide">"非表示にする"</string>
@@ -604,7 +601,6 @@ Take more photos of your friends!"</string>
   <string name="relation_text_maternal_grandmother">"母方の祖母"</string>
   <string name="relation_text_mother">"母親"</string>
   <string name="relation_with_you">Choose relationship</string>
-  <string name="release_space_finish_format">Freed %s of local storage</string>
   <string name="remind_face_recommend_confirm">"確認"</string>
   <string name="remove_from_album_message">This photo will no longer be displayed here</string>
   <string name="remove_from_album_title">"このアルバムから削除"</string>
@@ -630,7 +626,6 @@ Take more photos of your friends!"</string>
   <string name="reset">"リセット"</string>
   <string name="retry_to_create_album">"再試行"</string>
   <string name="retry_to_request_qr_code">"再試行"</string>
-  <string name="return_from_clear_local_file_fragment_toast">"端末に保存されているのは最適化された写真です。Mi Cloudから元のアイテムをダウンロードするには写真をタップ。"</string>
   <string name="revert">"元に戻す"</string>
   <string name="runtime_permission_ungranted">"必要なアクセス許可がないため、ギャラリーを終了しました"</string>
   <string name="same_name_album_exist_and_toast">"An album with the same name already exists. Created '%s' instead."</string>
