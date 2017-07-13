@@ -707,7 +707,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="missing_name">(名前なし)</string>
   <string name="missing_required_permission">You have disabled a required permission.</string>
   <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
-  <string name="more_call_logs">Listen to all your call recordings at mi.com/micloud</string>
+  <string name="more_call_logs">Listen to all your call recordings at &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="move_and_resize">"移動とリサイズ"</string>
   <string name="multi_number_menu_call">"通話"</string>
   <string name="multi_number_menu_delete">"削除"</string>
@@ -824,6 +824,7 @@ To add a contact to your list of favorites:
   <string name="openDialKeyboard">"ダイヤルパッド"</string>
   <string name="open_contact">"連絡先を表示"</string>
   <string name="open_dial_pad_description">"ダイヤルパッドを開く"</string>
+  <string name="option_delete_batch_contacts">"一括削除"</string>
   <string name="option_delete_contact">"削除"</string>
   <string name="option_delete_group">"削除"</string>
   <string name="option_edit_contact">"編集"</string>

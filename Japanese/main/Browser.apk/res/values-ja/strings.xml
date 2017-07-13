@@ -101,6 +101,7 @@
   <string name="block_ads_choice_continue">"続行"</string>
   <string name="block_ads_message">"このウェブサイトからのメッセージをブロックしますか？"</string>
   <string name="block_ads_title">"広告を含むコンテンツ"</string>
+  <string name="bookmark">"ブックマーク"</string>
   <string name="bookmark_add_to">Add to</string>
   <string name="bookmark_btn_select_all">"すべて選択"</string>
   <string name="bookmark_btn_select_none">"すべて選択を解除"</string>
@@ -332,7 +333,7 @@ is about to happen"</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">"ホーム画面に設置しました"</string>
   <string name="hint">"ヒント"</string>
-  <string name="history_saved_webpage">"保存したページ"</string>
+  <string name="history">"履歴"</string>
   <string name="home_description">"ホーム"</string>
   <string name="homepage_base">https://www.google.co.jp/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">"削除"</string>
@@ -470,7 +471,6 @@ is about to happen"</string>
   <string name="navigationbar_rightbutton_actiontext_search">"検索"</string>
   <string name="network_show_wifi_setting_tip_dialog_description">"近くにWi-Fiホットスポットが見つかりました。接続しますか？"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">"Wi-Fiネットワークが利用可能"</string>
-  <string name="new_folder_name_lable">"グループ名"</string>
   <string name="next_button_label">"進む"</string>
   <string name="no_app_open_document">"この操作を処理するためのアプリが見つかりませんでした"</string>
   <string name="no_matches">"該当なし"</string>
@@ -711,6 +711,7 @@ is about to happen"</string>
   <string name="sign_in_to" formatted="false">"%s1に\"%s2\"でログイン"</string>
   <string name="skip_button_label">"スキップ"</string>
   <string name="skip_current_version">"このバージョンをスキップ"</string>
+  <string name="snapshot">Local</string>
   <string name="snapshot_failed">"ページを保存できませんでした"</string>
   <string name="snapshot_successed">"ページを保存しました"</string>
   <string name="ssl_bad_clock_date_settings">"日付を設定"</string>
@@ -856,8 +857,6 @@ is about to happen"</string>
   <string name="voice_title_please">Begin speaking…</string>
   <string name="voice_title_speech_again">"Couldn't understand you"</string>
   <string name="weather_location_confirm_message">Turning this feature off may affect usage.</string>
-  <string name="webpage_bookmark_title">"ブックマーク"</string>
-  <string name="webpage_history_title">"履歴"</string>
   <string name="webpage_title">"ブックマークと履歴"</string>
   <string name="webview_find_on_page">"ページ内を検索"</string>
   <string name="webviewchromium_private_browsing_warning">"この機能はお使いのAndroidバージョンではサポートされていません。"</string>

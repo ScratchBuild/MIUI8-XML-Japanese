@@ -633,7 +633,6 @@
   <string name="unsticked_conversation">スレッドのピンは既に外されています</string>
   <string name="unsupported_media_format">"対応していない%1$s形式です"</string>
   <string name="url_fraud_dangerous_alert">"アクセスしようとしているウェブサイトは危険かもしれません。お使いの携帯端末とデータに損傷を与える可能性があります。とにかくアクセスしますか？\n%s"</string>
-  <string name="url_fraud_insurance">電気通信詐欺保険</string>
   <string name="url_fraud_risky_alert">"アクセスしようとしているウェブサイトは危険かもしれません。 とにかくアクセスしますか？\n%s"</string>
   <string name="url_fraud_title">偽装されたウェブサイトの可能性があります</string>
   <string name="url_fraud_visit">&lt;u&gt;とにかくアクセスする&lt;/u&gt;</string>

@@ -60,6 +60,10 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d個のアプリが見つかりました</item>
         <item quantity="one">%d個のアプリが見つかりました</item>
     </plurals>
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">"%d apps don't work properly and drain battery"</item>
+        <item quantity="one">"%d app doesn't work properly and drains battery"</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d days "</item>
         <item quantity="one">"%d day "</item>
@@ -92,17 +96,10 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Found %d battery issues, fix them</item>
         <item quantity="one">Found %d battery issue, fix it</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d items can be optimized</item>
-        <item quantity="one">%d item can be optimized</item>
-    </plurals>
     <plurals name="people">
         <item quantity="other">Downloaded by %1$d people</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Downloaded by %1$d people</item>
-    </plurals>
-    <plurals name="million">
         <item quantity="other">Downloaded by %1$d people</item>
     </plurals>
     <plurals name="view_num">
@@ -125,10 +122,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d個</item>
         <item quantity="one">1個</item>
     </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s payment risks</item>
-        <item quantity="one">%s payment risk</item>
-    </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s payment apps are protected</item>
         <item quantity="one">%s payment app is protected</item>
@@ -140,10 +133,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="sp_monitored_apps_list_group_disable">
         <item quantity="other">%s個のアプリは保護されていません</item>
         <item quantity="one">%s個のアプリは保護されていません</item>
-    </plurals>
-    <plurals name="scan_result_description">
-        <item quantity="other">Found %d payment risks</item>
-        <item quantity="one">Found %d payment risk</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d items secure</item>
@@ -201,18 +190,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d trojans,</item>
         <item quantity="one">%d trojan,</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d risks</item>
-        <item quantity="one">%d risk</item>
-    </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d​ risks found, fix now</item>
-        <item quantity="one">%d risk found, fix now</item>
-    </plurals>
-    <plurals name="virus_clean_num">
-        <item quantity="other">Fixed %1$d issues. Everything looks good now.</item>
-        <item quantity="one">Fixed %1$d issue. Everything looks good now.</item>
-    </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">危険なアプリ: %d</item>
         <item quantity="one">危険なアプリ: %d</item>
@@ -220,10 +197,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="white_list_trojan_header">
         <item quantity="other">トロイの木馬: %d</item>
         <item quantity="one">トロイの木馬: %d</item>
-    </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d apps contain privacy risks</item>
-        <item quantity="one">%d app contains privacy risks</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Wait for %d seconds and try again. "</item>
@@ -262,34 +235,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Added %d games</item>
         <item quantity="one">Added %d game</item>
     </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">%d個のアプリの更新が利用可能</item>
-        <item quantity="one">%d個のアプリの更新が利用可能</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">Accessed contacts %d times</item>
-        <item quantity="one">Accessed contacts %d time</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">Made %d calls</item>
-        <item quantity="one">Made %d call</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">Sent %d SMS</item>
-        <item quantity="one">Sent %d SMS</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">Read SMS %d times</item>
-        <item quantity="one">Read SMS %d time</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_record">
-        <item quantity="other">Read call history %d times</item>
-        <item quantity="one">Read call history %d time</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">Accessed %d times</item>
-        <item quantity="one">Accessed %d time</item>
-    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">Allowed %d permissions</item>
         <item quantity="one">Allowed %d permission</item>
@@ -307,15 +252,15 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">Blocked %d time</item>
     </plurals>
     <plurals name="app_usage_day">
-        <item quantity="other">%d日間使用していない</item>
-        <item quantity="one">%d日間使用していない</item>
+        <item quantity="other">%d日前に使用しました</item>
+        <item quantity="one">%d日前に使用しました</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">%dヶ月間使用していない</item>
-        <item quantity="one">%dヵ月間使用していない</item>
+        <item quantity="other">%dヶ月前に使用しました</item>
+        <item quantity="one">%dヵ月前に使用しました</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">%d年間使用していない</item>
-        <item quantity="one">%d年間使用していない</item>
+        <item quantity="other">%d年前に使用しました</item>
+        <item quantity="one">%d年前に使用しました</item>
     </plurals>
 </resources>

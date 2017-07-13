@@ -117,9 +117,6 @@
   <string name="do_not_ask">"二度と表示しない"</string>
   <string name="do_not_support_video_calls_by_remote">"ビデオ通話は相手先の端末でサポートされていません"</string>
   <string name="emergency_call_dialog_number_for_display">"緊急通報番号"</string>
-  <string name="fraud_call_answer">"応答"</string>
-  <string name="fraud_call_decline">"拒否"</string>
-  <string name="fraud_call_waring">Be careful: Always verify the identity of the contact by phone or video before responding to any messages involving your personal information.</string>
   <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">"SIP通話"</string>
   <string name="incall_error_supp_service_conference">"グループ通話できません。"</string>
@@ -188,10 +185,6 @@
   <string name="notification_ongoing_call">"通話中"</string>
   <string name="notification_requesting_video_call">"ビデオハングアウトリクエスト着信"</string>
   <string name="ok">"OK"</string>
-  <string name="online_check_provider_info">Identified by %s</string>
-  <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-  <string name="online_check_warning_info_by_cmb">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal information."</string>
-  <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="onscreenEndCallText">"通話を終了"</string>
   <string name="onscreen_add_call_text">Add call</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>

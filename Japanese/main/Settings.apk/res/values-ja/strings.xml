@@ -1509,6 +1509,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="got_it">OK</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to Wi-Fi</string>
   <string name="handy_mode">片手操作モード</string>
+  <string name="handy_mode_enable">片手操作モード</string>
   <string name="handy_mode_size">画面サイズ</string>
   <string name="handy_mode_tips">ホームボタンから左または右にスワイプする事で、画面を片一方に寄せる事ができます。</string>
   <string name="haptic_feedback_enable_title">タッチ操作バイブ</string>
@@ -3137,6 +3138,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="security_encryption_is_used">On</string>
   <string name="security_encryption_progress_dialog_close">復号化しています…</string>
   <string name="security_encryption_progress_dialog_open">暗号化しています…</string>
+  <string name="security_encryption_rejected_via_home_manager">この機能はデモ版ではサポートされていません。</string>
   <string name="security_encryption_title">ロック画面のパスワードを使用して暗号化デバイス</string>
   <string name="security_keyguard_category_name">画面ロック</string>
   <string name="security_password_category_name">ロック画面</string>

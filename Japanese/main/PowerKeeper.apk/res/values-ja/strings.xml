@@ -163,6 +163,7 @@
   <string name="reading">"読書モード"</string>
   <string name="scenario_policies_summary">Power saving according to scenario</string>
   <string name="scenario_policies_title">Scenario power saving policies</string>
+  <string name="scenario_policies_warmcontrol">Warm control</string>
   <string name="screen_off">"画面オフ"</string>
   <string name="screen_off_10_min">Screen is off for over 10 minutes</string>
   <string name="screen_on">"画面オン"</string>
@@ -181,4 +182,5 @@
   <string name="vip_feedback_apply">Apply Vip Feedback</string>
   <string name="vip_feedback_apply_msg">Please contact vip-feedback-system@xiaomi.com to apply Vip Feedback</string>
   <string name="vip_feedback_enable">Enable Vip Auto Feedback</string>
+  <string name="warm_configure">Warm control configure</string>
 </resources>

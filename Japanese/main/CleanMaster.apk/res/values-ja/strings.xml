@@ -179,6 +179,7 @@
   <string name="empty_title_residual">"残留ファイルはありません"</string>
   <string name="empty_title_video">No videos to delete​</string>
   <string name="engine_cm">Clean Master</string>
+  <string name="engine_init">"初期化中…"</string>
   <string name="engine_tm">Tencent</string>
   <string name="file">"ファイル"</string>
   <string name="file_not_found">"ファイルが見つかりません"</string>

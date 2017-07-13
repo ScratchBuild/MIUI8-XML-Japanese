@@ -440,7 +440,8 @@ is mainly provided by Ultimate Inc."</string>
   <string name="load_shuffle">"読み込み中…"</string>
   <string name="loadercontainer_loading">"読み込み中…"</string>
   <string name="loading_hint">"読み込み中…"</string>
-  <string name="local_music">Local music</string>
+  <string name="local_header_title">Local music</string>
+  <string name="local_music">Offline</string>
   <string name="local_music_empty">"ローカルプレイリストは空です"</string>
   <string name="local_music_empty_goto_online">"曲が見つかりませんでした"</string>
   <string name="local_music_is_not_available">Local music is not available.</string>

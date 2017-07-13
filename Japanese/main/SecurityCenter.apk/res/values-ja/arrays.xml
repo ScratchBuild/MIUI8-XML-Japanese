@@ -28,30 +28,12 @@
         <item>"今日 WLAN"</item>
         <item>"今月 WLAN"</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>"昨日 (data)"</item>
-        <item>"今日 (data)"</item>
-        <item>"今月 (data)"</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>"3秒"</item>
-        <item>"4秒</item>
-        <item>"5秒"</item>
-        <item>"6秒</item>
-        <item>"7秒"</item>
-        <item>"8秒"</item>
-        <item>"9秒"</item>
-    </string-array>
     <string-array name="traffic_type">
         <item>"モバイル使用量 "</item>
         <item>"Wi-Fi使用量 "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"モバイル使用量 "</item>
-        <item>"Wi-Fi使用量 "</item>
-    </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"モバイルデータ使用量 "</item>
         <item>"Wi-Fi使用量 "</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
@@ -68,23 +50,25 @@
         <item>"デバイスがロックされた時、またはアプリを終了した後"</item>
         <item>"デバイスがロックされた時、またはアプリを終了した1分後"</item>
     </string-array>
-    <string-array name="long_add_menu">
-        <item>"例外に追加"</item>
-    </string-array>
     <string-array name="sort_type">
-        <item>"名前順"</item>
-        <item>"サイズ順"</item>
+        <item>"状態"</item>
+        <item>"アプリ名"</item>
+        <item>"使用頻度"</item>
+        <item>"ストレージ使用"</item>
+        <item>"データ使用量"</item>
+        <item>"バッテリー使用量"</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>"状態順"</item>
+        <item>"アプリ名順"</item>
+        <item>"使用頻度順"</item>
+        <item>"ストレージ使用順"</item>
+        <item>"データ使用量順"</item>
+        <item>"バッテリー使用量順"</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>"データ使用量"</item>
         <item>Phone balance</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>"1分後"</item>
-        <item>"5分後"</item>
-        <item>"10分後"</item>
-        <item>"30分後"</item>
-        <item>Never</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Once</item>
