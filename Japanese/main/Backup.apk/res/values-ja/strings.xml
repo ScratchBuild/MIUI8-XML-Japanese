@@ -320,7 +320,7 @@ Wi-Fiをオフにしないでください。
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
   <string name="trans_start_failed_message">"Couldn't start transfer, try again or reboot device."</string>
   <string name="trans_start_failed_title">"Couldn't start transfer"</string>
-  <string name="trans_time_format_second">Less than 1 minute</string>
+  <string name="trans_time_format_second">"1分未満"</string>
   <string name="trans_time_spent">"
 経過時間: %s"</string>
   <string name="trans_wait_trans_data">"Connected to the old device.

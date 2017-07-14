@@ -128,14 +128,14 @@
   <string name="notification_auto_reboot_seccess_title">"デバイスが自動的に更新されました"</string>
   <string name="notification_delay_update_button">Update in 2 hours</string>
   <string name="notification_delay_update_cancel">"今夜は更新しない"</string>
-  <string name="notification_delay_update_low_power">Looks like the battery was low at night</string>
-  <string name="notification_delay_update_msg">The device will reboot &amp; update in​ %ss</string>
-  <string name="notification_delay_update_no_update">"Updates haven't been applied"</string>
-  <string name="notification_delay_update_shutdown">Looks like the device was off at night</string>
+  <string name="notification_delay_update_low_power">"夜間にバッテリー残量がわずかだったようです"</string>
+  <string name="notification_delay_update_msg">"%s秒後に端末が再起動して更新されます"</string>
+  <string name="notification_delay_update_no_update">"更新は適用されていません"</string>
+  <string name="notification_delay_update_shutdown">"夜間に端末の電源がオフになっていたようです"</string>
   <string name="notification_downloading">"更新をダウンロード中…"</string>
   <string name="notification_fail_msg">Try downloading full ROM</string>
-  <string name="notification_load_body_alpha">Get the latest updates for your device.</string>
-  <string name="notification_load_body_dev">Get the latest updates for your device.</string>
+  <string name="notification_load_body_alpha">"お使いの端末の最新アップデートを入手する。"</string>
+  <string name="notification_load_body_dev">"お使いの端末の最新アップデートを入手する。"</string>
   <string name="notification_load_title_alpha">"Mi Accountにログイン"</string>
   <string name="notification_load_title_dev">"Mi Accountにログイン"</string>
   <string name="notification_reboot_btn">"再起動"</string>
@@ -270,16 +270,12 @@ But you can take part next Monday."</string>
   <string name="validate_pkg_failed_msg">"Couldn't verify the source of this update. Try downloading it again."</string>
   <string name="validate_pkg_failed_title">"Can't verify update"</string>
   <string name="view_upgrade_tutorial">"表示"</string>
-  <string name="vote_beta">Beta Feedback Program</string>
-  <string name="vote_error1">"Look's like you're not a member
-of the Beta Feedback Program"</string>
-  <string name="vote_error2">"Couldn't submit feedback.
-Update your device and try again"</string>
-  <string name="vote_error3">"Couldn't sign in.
-Try signing in your Mi Account again."</string>
-  <string name="vote_error4">You already submitted feedback</string>
-  <string name="vote_error5">"エラーが発生しました
-フィードバックを送信できませんでした"</string>
+  <string name="vote_beta">"ベータテストプログラム"</string>
+  <string name="vote_error1">"あなたはベータテストプログラムのメンバーではないようです"</string>
+  <string name="vote_error2">"フィードバックを送信できませんでした。端末を更新してもう一度お試しください"</string>
+  <string name="vote_error3">"ログインできませんでした。もう一度Mi Accountにログインしてみてください。"</string>
+  <string name="vote_error4">"既にフィードバックを送信済みです"</string>
+  <string name="vote_error5">"エラーが発生したため、フィードバックを送信できませんでした"</string>
   <string name="vote_error_nonetwork">"ネットワークに接続できません"</string>
   <string name="vote_experience">Forum experience</string>
   <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>

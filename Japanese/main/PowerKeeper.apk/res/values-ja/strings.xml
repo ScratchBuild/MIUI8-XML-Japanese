@@ -55,7 +55,7 @@
   <string name="location_enable_description">"アプリはバックグラウンドで位置情報サービスを使用できます"</string>
   <string name="location_enable_title">"許可する"</string>
   <string name="location_mode_title">"バックグラウンドの位置情報"</string>
-  <string name="low">Battery saving</string>
+  <string name="low">"省電力"</string>
   <string name="media">Media mode</string>
   <string name="menu_text_power_analysis">"バッテリーのテスト"</string>
   <string name="menu_text_power_configure">"バッテリーの設定"</string>
@@ -151,7 +151,7 @@
   <string name="power_keeper">"バッテリーセーバー"</string>
   <string name="power_mode_cpu_state_high">"パフォーマンス"</string>
   <string name="power_mode_cpu_state_high_desc">"バッテリー寿命よりもパフォーマンスを優先させます"</string>
-  <string name="power_mode_cpu_state_low">Battery saving</string>
+  <string name="power_mode_cpu_state_low">"省電力"</string>
   <string name="power_mode_cpu_state_low_desc">"パフォーマンスよりもバッテリー寿命を優先させます"</string>
   <string name="power_mode_cpu_state_middle">"バランス"</string>
   <string name="power_mode_cpu_state_middle_desc">"必要に応じてのみ、パフォーマンスを向上させます"</string>
@@ -163,7 +163,7 @@
   <string name="reading">"読書モード"</string>
   <string name="scenario_policies_summary">Power saving according to scenario</string>
   <string name="scenario_policies_title">Scenario power saving policies</string>
-  <string name="scenario_policies_warmcontrol">Warm control</string>
+  <string name="scenario_policies_warmcontrol">"温度制御"</string>
   <string name="screen_off">"画面オフ"</string>
   <string name="screen_off_10_min">Screen is off for over 10 minutes</string>
   <string name="screen_on">"画面オン"</string>
@@ -182,5 +182,5 @@
   <string name="vip_feedback_apply">Apply Vip Feedback</string>
   <string name="vip_feedback_apply_msg">Please contact vip-feedback-system@xiaomi.com to apply Vip Feedback</string>
   <string name="vip_feedback_enable">Enable Vip Auto Feedback</string>
-  <string name="warm_configure">Warm control configure</string>
+  <string name="warm_configure">"温度制御の設定"</string>
 </resources>

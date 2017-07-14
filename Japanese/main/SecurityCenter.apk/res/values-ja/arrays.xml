@@ -68,7 +68,7 @@
     </string-array>
     <string-array name="sms_report_type">
         <item>"データ使用量"</item>
-        <item>Phone balance</item>
+        <item>"電話の残高"</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Once</item>

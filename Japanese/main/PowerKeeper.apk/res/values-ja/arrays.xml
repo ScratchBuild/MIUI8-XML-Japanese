@@ -79,11 +79,11 @@
         <item>unselected</item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>Default warm control mode</item>
-        <item>Performance first mode</item>
+        <item>"温度制御モード(デフォルト)"</item>
+        <item>"パフォーマンス優先モード"</item>
     </string-array>
     <string-array name="thermal_summaries">
         <item>The current temperature control mode, the temperature of experience is preferred</item>
-        <item>The current performance model, performance experience is preferred, temperatures could rise</item>
+        <item>The current performance mode, performance experience is preferred, temperatures could rise</item>
     </string-array>
 </resources>
