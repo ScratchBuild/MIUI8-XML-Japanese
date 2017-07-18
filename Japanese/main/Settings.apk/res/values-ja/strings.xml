@@ -3225,7 +3225,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="settings_safetylegal_title">安全に関する情報</string>
   <string name="settings_shortcut">設定をショートカットとする</string>
   <string name="settings_toggle_position_divider_list">バーの上に配置したトグルは有効です</string>
-  <string name="settings_toggle_position_divider_page">バーの上に配置した%1$dトグルは有効です</string>
   <string name="setup_fingerprint_enroll_finish_message">指紋センサーに触れるだけで端末を復帰させてロックを解除できます。</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">このアイコンが表示されている場合は指紋を利用できます。</string>
   <string name="setup_wifi_nfc_tag">Wi-Fi NFCタグのセットアップ</string>

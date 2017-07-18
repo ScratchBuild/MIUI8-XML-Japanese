@@ -34,9 +34,7 @@
   <string name="accessibility_phone_three_bars">電波状態:レベル3</string>
   <string name="accessibility_phone_two_bars">電波状態:レベル2</string>
   <string name="accessibility_recent">最近使ったアプリ</string>
-  <string name="accessibility_recent_task_enter">履歴を開きました、利用可能なアプリ: %d。</string>
   <string name="accessibility_recent_task_exit">履歴を閉じました</string>
-  <string name="accessibility_recent_task_first_enter_tips">履歴を開きました、利用可能なアプリ: %d。削除するには上にスワイプ、ロックするには下にスワイプ。</string>
   <string name="accessibility_recent_task_locked">ロックされています、下にスワイプでロックを解除。</string>
   <string name="accessibility_recent_task_memory_info">合計 RAM: %2$s | 空き RAM: %1$s。ダブルタップで消去。</string>
   <string name="accessibility_recent_task_unlocked">ロックを解除しました</string>
@@ -69,7 +67,6 @@
   <string name="battery_profiles">バッテリープロファイルを使用する</string>
   <string name="block_notification_content_text">"%1$s の通知は再度表示されません。設定で変更できます。"</string>
   <string name="block_notification_text">非表示</string>
-  <string name="block_record_notification_more_text">Hiding notifications from %1$s &amp; %2$d apps.</string>
   <string name="block_record_notification_text">Hiding notifications from %1$s.</string>
   <string name="block_record_notification_title">Notifications hidden</string>
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
@@ -309,7 +306,6 @@
   <string name="settings_custom_notification">通知管理</string>
   <string name="settings_toggle_position">トグル管理</string>
   <string name="settings_toggle_position_divider_list">このバーより上のトグルがアクティブ</string>
-  <string name="settings_toggle_position_divider_page">このバーより上の %1$d 個のトグルがアクティブ</string>
   <string name="settings_toggle_position_reset">トグルをリセット</string>
   <string name="share">共有</string>
   <string name="status_bar_clock_date_format">"M月d日 EEEE"</string>

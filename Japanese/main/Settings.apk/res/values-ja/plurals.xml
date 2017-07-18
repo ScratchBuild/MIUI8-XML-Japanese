@@ -8,6 +8,10 @@
         <item quantity="other">"%s個のアプリが通知を表示することができます"</item>
         <item quantity="one">"1個のアプリが通知を表示することができます"</item>
     </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">"バーの上に配置した%1$d個のトグルが有効です"</item>
+        <item quantity="one">"バーの上に配置した1個のトグルが有効です"</item>
+    </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">"デベロッパーになるまであと%1$dステップです。"</item>
         <item quantity="one">"デベロッパーになるまであと%1$dステップです。"</item>

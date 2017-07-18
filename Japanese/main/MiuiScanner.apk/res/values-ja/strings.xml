@@ -56,6 +56,7 @@
   <string name="error_cannot_connect_camera">カメラに接続できません</string>
   <string name="error_day_limit">Too many attempts within 1 day</string>
   <string name="error_empty_result">"結果が見つかりませんでした"</string>
+  <string name="error_get_image">"画像を取得できません"</string>
   <string name="error_hour_limit">Too many attempts within 1 hour</string>
   <string name="error_image_error">写真を認識できません</string>
   <string name="error_invalid_request">認証エラー</string>

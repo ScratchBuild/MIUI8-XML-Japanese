@@ -105,6 +105,8 @@
   <string name="apn_exception_title">"APNの設定を確認"</string>
   <string name="app_check_no_issue">Looks like there are no battery issues. Cool!</string>
   <string name="app_detail">"詳細"</string>
+  <string name="app_error_tip_for_launcher">"Your device's hardware components or Android system version may cause compatibility issues and make some apps misbehave, freeze, or be force stopped. If you encounter such issues, share your feedback with the app developers."</string>
+  <string name="app_error_tip_for_store">"Your device's hardware components or Android system version may cause compatibility issues which may result in failing to install some apps. If you encounter such issues or some apps misbehave, freeze, or are being force stopped, ​wait until the app developers fix bugs and try installing the app again."</string>
   <string name="app_install_intercept">Block installation</string>
   <string name="app_install_tips_go_to">"開く"</string>
   <string name="app_install_tips_install_success">"%1$sが正常にインストールされました"</string>
@@ -539,8 +541,9 @@
   <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
   <string name="dlg_remove_blacklist">"ブラックリストからこれらの番号を削除しますか？"</string>
   <string name="dlg_remove_blacklist_ing">"削除中…"</string>
-  <string name="dlg_remove_blacklist_ok">"削除"</string>
-  <string name="dlg_remove_whitelist_content">"例外からこれらの番号を削除しますか？"</string>
+  <string name="dlg_remove_blacklist_title">"削除"</string>
+  <string name="dlg_remove_ok">"削除"</string>
+  <string name="dlg_remove_whitelist">"例外からこれらの番号を削除しますか？"</string>
   <string name="dlg_remove_whitelist_ing">"削除中…"</string>
   <string name="dlg_remove_whitelist_title">"削除"</string>
   <string name="dlg_title_not_open_stranger_identify">Caller ID</string>
@@ -681,7 +684,7 @@
   <string name="item_usb_debug">"USBデバッグ"</string>
   <string name="item_virus_lib">Update virus definitions automatically</string>
   <string name="keywords_antispam">Blocklist;Block;Black list;Smart blocklist;Fraud;Sales;Agents;Call blocklist;Message blocklist;Messaging blocklist;SMS blocklist;blacklist;black list;blocklist;block list;fraud;block contact;block contacts</string>
-  <string name="keywords_antivirus">Virus;Risk;Antivirus;Scan</string>
+  <string name="keywords_antivirus">Virus;Risk;Antivirus;Scan;Check payment security;payment security;secure payment;secure payments;payment protection;protect payments;protected payments;secure zone;payment zone</string>
   <string name="keywords_app_permissions">Permissions;Location;Access contacts;Permissions;App permissions</string>
   <string name="keywords_auto_restart">Autostart; Permissions;Auto start;Autostart; Manage autostart; MIUI autostart; App autostart; autostart apps;Chain start;chained start;triggered start</string>
   <string name="keywords_buy_flow">data;mobile data;buy data;buy mobile data;topup data;data plan</string>
@@ -689,7 +692,6 @@
   <string name="keywords_networkassistant_1">Data;Traffic</string>
   <string name="keywords_networkassistant_2">Data;Calibrate</string>
   <string name="keywords_networkassistant_4">Connection;Internet;Test</string>
-  <string name="keywords_payment_security">Check payment security;payment security;secure payment;secure payments;payment protection;protect payments;protected payments;secure zone;payment zone</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining;Battery;Battery issues;Energy;Draining;Heating;Battery saver;Energy saver;Energy saving;Battery saving</string>
   <string name="keywords_powercenter_powerrank">Battery use</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
@@ -1063,7 +1065,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_networkassistant_1">システムアプリ/セキュリティ/データ使用量</string>
   <string name="path_networkassistant_2">システムアプリ/セキュリティ/データ使用量</string>
   <string name="path_networkassistant_4">システムアプリ/セキュリティ/データ使用量/ネットワークをテスト</string>
-  <string name="path_payment_security">システムアプリ/セキュリティ/支払いのセキュリティ</string>
   <string name="path_powercenter">システムアプリ/セキュリティ/電池使用量</string>
   <string name="path_powercenter_powerrank">電池とパフォーマンス/電池使用量</string>
   <string name="path_securitycenter">システムアプリ/セキュリティ</string>
@@ -1274,7 +1275,6 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="resource_networkassistant_1">"データ使用量"</string>
   <string name="resource_networkassistant_2">"データプランを調整"</string>
   <string name="resource_networkassistant_4">"ネットワークをテスト"</string>
-  <string name="resource_payment_security">"支払いのセキュリティ"</string>
   <string name="resource_powercenter">"電池使用量"</string>
   <string name="resource_powercenter_powerrank">"電池とパフォーマンス"</string>
   <string name="resource_securitycenter">"セキュリティ"</string>

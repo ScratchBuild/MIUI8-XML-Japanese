@@ -4,9 +4,25 @@
         <item quantity="other">%d recent apps</item>
         <item quantity="one">1 recent app</item>
     </plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">"履歴を開きました、利用可能なアプリ: %d。"</item>
+        <item quantity="one">"履歴を開きました、利用可能なアプリ: 1。"</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">"履歴を開きました、利用可能なアプリ: %d。削除するには上にスワイプ、ロックするには下にスワイプ。"</item>
+        <item quantity="one">"履歴を開きました、利用可能なアプリ: 1。削除するには上にスワイプ、ロックするには下にスワイプ。"</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">"このバーより上の%1$d個のトグルがアクティブ"</item>
+        <item quantity="one">"このバーより上の1個のトグルがアクティブ"</item>
+    </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">"%d個のアプリの通知を非表示にしますか？"</item>
         <item quantity="one">"このアプリの通知を非表示にしますか？"</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">Hiding notifications from %1$s &amp; %2$d apps.</item>
+        <item quantity="one">Hiding notifications from %1$s &amp; 1 app.</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">"快晴"</item>
