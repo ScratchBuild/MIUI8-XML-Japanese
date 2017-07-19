@@ -128,7 +128,7 @@
   <string name="douban_score">"評価"</string>
   <string name="download">"ダウンロード"</string>
   <string name="download_add_success">"ダウンロードキューに追加しました"</string>
-  <string name="download_error">Offline error</string>
+  <string name="download_error">"オフラインエラー"</string>
   <string name="download_fail">"失敗"</string>
   <string name="download_file_fail">"ローカルファイルへのアクセスに失敗しました、SDカードに十分な空き領域がありません"</string>
   <string name="download_finished">"完了"</string>
@@ -293,7 +293,7 @@
   <string name="passport_auto_generate_pwd">"安全なパスワードを生成する"</string>
   <string name="passport_back">"戻る"</string>
   <string name="passport_bad_authentication">"無効なユーザー名またはパスワード"</string>
-  <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
+  <string name="passport_barcode_add_account_prompt">"アカウントに接続するには、ログインした後にQRコードをもう一スキャンしてください。"</string>
   <string name="passport_change_account">"&lt;u&gt;アカウントを変更&lt;/u&gt;"</string>
   <string name="passport_change_phone_number">"番号を変更"</string>
   <string name="passport_checking_account">"パスワードを確認中…"</string>
@@ -433,8 +433,8 @@
   <string name="passport_wrong_captcha">"入力したコードが正しくありません"</string>
   <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
   <string name="passport_wrong_vcode">"入力したコードが正しくありません"</string>
-  <string name="path_develop_settings">System App/Video/Develop Settings</string>
-  <string name="path_settings">System App/Video/Settings</string>
+  <string name="path_develop_settings">システムアプリ/Video/開発者向け設定</string>
+  <string name="path_settings">システムアプリ/Video/設定</string>
   <string name="pause">Pause</string>
   <string name="pay_record">"支払い記録"</string>
   <string name="performance_mode">Improve player performance</string>

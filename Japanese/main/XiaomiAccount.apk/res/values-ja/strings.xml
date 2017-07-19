@@ -109,8 +109,8 @@
   <string name="exceed_binded_phone_times_notice">"この電話番号は既に別のMi Accountに関連付けられています。"</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">"この電話番号は既に別のMi Accountに関連付けられています"</string>
-  <string name="find_device_access_denied">"Can't get status, access denied"</string>
-  <string name="find_device_account_error">"Can't get status due to account error"</string>
+  <string name="find_device_access_denied">"ステータスを取得できません、アクセスが拒否されました"</string>
+  <string name="find_device_account_error">"アカウントエラーのためステータスを取得できません"</string>
   <string name="find_device_activate_account">Activate account</string>
   <string name="find_device_bad_response_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_display_id">Unlock number: %s</string>
@@ -120,13 +120,13 @@
   <string name="find_device_io_error">"ネットワークに接続できません"</string>
   <string name="find_device_locked_account_email" formatted="false">"%s、関連付けられたメールアドレス: %s"</string>
   <string name="find_device_locked_account_phone" formatted="false">"%s、関連付けられた電話番号: %s"</string>
-  <string name="find_device_null_credential_error">"Can't get device info, contact Xiaomi customer service"</string>
+  <string name="find_device_null_credential_error">"端末情報を取得できません、Xiaomiカスタマーサービスにお問い合わせください"</string>
   <string name="find_device_operation_failed_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_operation_failed_error_unknown">"エラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_remote_exception">RPC error</string>
   <string name="find_device_request_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
-  <string name="find_device_request_prepare_error">"Can't get status, try again later"</string>
-  <string name="find_device_unknown_error">"Can't get device status, wait a minute or two and try again"</string>
+  <string name="find_device_request_prepare_error">"ステータスを取得できません、後ほど再試行してください"</string>
+  <string name="find_device_unknown_error">"端末のステータスを取得できません、しばらくしてからもう一度お試しください"</string>
   <string name="first_login_time">First sign in attempt: %s</string>
   <string name="get_device_list_failed">"デバイスを取得できません"</string>
   <string name="get_phone_bind_exceed_limit">"最大3つのMi Accountに電話番号を関連付けることができます。新しいアカウントを追加できません。"</string>
@@ -152,18 +152,18 @@
   <string name="mipay_identity">"ID確認"</string>
   <string name="mipay_others">"その他"</string>
   <string name="mipay_transit_card">"交通カード"</string>
-  <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
-  <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space. To avoid this, don't turn on sync with Mi Cloud."</string>
-  <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
+  <string name="multi_user_not_show_sync_activity_message_1">"First spaceでMi Accountを使用しているようです。"</string>
+  <string name="multi_user_not_show_sync_activity_message_2">"このような場合、すべてのデータがSecond spaceに同期されます。これを避けるには、Mi Cloudとの同期をオンにしないでください。"</string>
+  <string name="multi_user_not_show_sync_activity_title">"Mi Cloudとの同期をオンにしないでください"</string>
   <string name="my_device_title">"現在のデバイス"</string>
   <string name="no_network_btn">"更新"</string>
   <string name="no_network_title">"ネットワークに接続できません。"</string>
   <string name="no_response_retry">"応答がありません、再試行してください。"</string>
   <string name="no_sim_card_or_unactivated">"SIMカードが挿入、またはアクティベートされていません"</string>
   <string name="nobind">"接続されていません"</string>
-  <string name="notify_network_restricted_content_bg_network">"Mi Account's internet access is restricted. Tap to allow."</string>
-  <string name="notify_network_restricted_content_hidden_state">"Mi Account's background activity is restricted. Tap to allow."</string>
-  <string name="notify_network_restricted_content_mobile_network">"Mi Account's internet access is restricted. Tap to allow."</string>
+  <string name="notify_network_restricted_content_bg_network">"Mi Accountのインターネットアクセスは制限されています。許可するにはタップ。"</string>
+  <string name="notify_network_restricted_content_hidden_state">"Mi Accountのバックグラウンドアクティビティは制限されています。許可するにはタップ。"</string>
+  <string name="notify_network_restricted_content_mobile_network">"Mi Accountのインターネットアクセスは制限されています。許可するにはタップ。"</string>
   <string name="notify_network_restricted_title">"Mi Accountがネットワークに接続できませんでした"</string>
   <string name="oauth_get_scopes_failed">"アカウント情報を取得できませんでした"</string>
   <string name="oauth_getting_scopes">"アカウントを確認中…"</string>
@@ -184,7 +184,7 @@
   <string name="passport_auto_generate_pwd">"安全なパスワードを生成する"</string>
   <string name="passport_back">"戻る"</string>
   <string name="passport_bad_authentication">"無効なユーザー名またはパスワード"</string>
-  <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
+  <string name="passport_barcode_add_account_prompt">"アカウントに接続するには、ログインした後にQRコードをもう一スキャンしてください。"</string>
   <string name="passport_change_account"><u>アカウントを変更</u></string>
   <string name="passport_change_phone_number">"番号を変更"</string>
   <string name="passport_checking_account">"パスワードを確認中…"</string>

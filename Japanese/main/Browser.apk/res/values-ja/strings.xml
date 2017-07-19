@@ -402,7 +402,7 @@ is about to happen"</string>
   <string name="miui_bookmark_action_bar_new_group_title">"グループを作成"</string>
   <string name="miui_content_copy">"コピー"</string>
   <string name="miui_content_cut">"切り取り"</string>
-  <string name="miui_content_extent_select">Select more</string>
+  <string name="miui_content_extent_select">"その他を選択"</string>
   <string name="miui_content_open_url">"URLを開く"</string>
   <string name="miui_content_paste">"貼り付け"</string>
   <string name="miui_content_select">"選択"</string>

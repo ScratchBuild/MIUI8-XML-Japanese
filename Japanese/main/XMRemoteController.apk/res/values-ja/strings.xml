@@ -642,7 +642,7 @@ Then answer the question"</string>
   <string name="passport_auto_generate_pwd">"安全なパスワードを生成"</string>
   <string name="passport_back">"戻る"</string>
   <string name="passport_bad_authentication">"ユーザー名かパスワードが無効です"</string>
-  <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
+  <string name="passport_barcode_add_account_prompt">"アカウントに接続するには、ログインした後にQRコードをもう一スキャンしてください。"</string>
   <string name="passport_change_account">&lt;u&gt;アカウントを変更&lt;/u&gt;</string>
   <string name="passport_change_phone_number">"番号を変更"</string>
   <string name="passport_checking_account">"パスワードを確認中…"</string>

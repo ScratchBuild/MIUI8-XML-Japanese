@@ -3193,9 +3193,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="select_usb_configuration_dialog_title">USB設定の選択</string>
   <string name="select_usb_configuration_title">USB設定の選択</string>
   <string name="selinux_status">SELinuxのステータス</string>
-  <string name="selinux_status_disabled">Disabled</string>
-  <string name="selinux_status_enforcing">Enforcing</string>
-  <string name="selinux_status_permissive">Permissive</string>
   <string name="service_background_processes">%1$s空き</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s使用中</string>
@@ -3354,7 +3351,7 @@ PINが正しくない可能性があります。"</string>
   <string name="sort_max_use">最大使用で並べ替え</string>
   <string name="sort_order_alpha">名前順</string>
   <string name="sort_order_size">サイズ順</string>
-  <string name="sound_category_call_ringtone_vibrate_title">通話着信音とバイブレーション</string>
+  <string name="sound_category_call_ringtone_vibrate_title">着信音とバイブレーション</string>
   <string name="sound_category_sound_title">全般</string>
   <string name="sound_category_system_title">システム</string>
   <string name="sound_effects_enable_title">タッチ操作音</string>
@@ -3590,9 +3587,6 @@ PINが正しくない可能性があります。"</string>
   <string name="strict_mode_summary">メインスレッドの処理が長引く場合は画面を点滅させる</string>
   <string name="sum_carrier_select">通信事業者を選択する</string>
   <string name="summary_divider_text">"、 "</string>
-  <string name="summary_font_size">%1$s</string>
-  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
-  <string name="summary_range_verbal_combination">%1$s - %2$s</string>
   <string name="supl_not_set">&lt;未設定></string>
   <string name="supplicant_state_label">申請者の状態:</string>
   <string name="sure_sync_now">今すぐアイテムを同期しますか？</string>
@@ -3600,7 +3594,7 @@ PINが正しくない可能性があります。"</string>
   <string name="suspension_ball_enable">Quick ballのショートカット</string>
   <string name="suspension_ball_enable_desc">ショートカットを使用してQuick ballのオン/オフを切り替える</string>
   <string name="suw_back_button_label">戻る</string>
-  <string name="suw_more_button_label">More</string>
+  <string name="suw_more_button_label">その他</string>
   <string name="suw_next_button_label">次へ</string>
   <string name="switch_off_text">OFF</string>
   <string name="switch_on_text">ON</string>
@@ -3792,7 +3786,7 @@ PINが正しくない可能性があります。"</string>
   <string name="unlock_disable_lock_title">画面ロックをOFFにする</string>
   <string name="unlock_set_enter_system">画面ロックをスキップ</string>
   <string name="unlock_set_enter_system_summary">画面スリープ復帰から直接ホーム画面に移動</string>
-  <string name="unlock_set_unlock_biometric_weak_summary">Low security, experimental</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">低セキュリティ、実験的</string>
   <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
   <string name="unlock_set_unlock_disabled_summary">管理者、暗号化ポリシー、または認証情報により無効</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">パターン、PIN、パスワードセキュリティを変更または無効にする</string>

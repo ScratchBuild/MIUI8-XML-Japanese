@@ -190,9 +190,9 @@
   <string name="module_desktop">"ホーム画面と設定"</string>
   <string name="module_finance">Finance &amp; Mi Wallet</string>
   <string name="module_item_less">"非表示"</string>
-  <string name="module_item_more">More</string>
+  <string name="module_item_more">"その他"</string>
   <string name="module_medias">"メディア"</string>
-  <string name="module_more">More</string>
+  <string name="module_more">"その他"</string>
   <string name="module_network">"ネットワーク"</string>
   <string name="module_search">"検索"</string>
   <string name="module_security">"セキュリティとMi Cloud"</string>
