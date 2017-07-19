@@ -419,6 +419,7 @@ is about to happen"</string>
   <string name="miuichromium_error_page_btn_close">"閉じる"</string>
   <string name="miuichromium_error_page_btn_refresh">"更新"</string>
   <string name="miuichromium_error_page_btn_report_issue">"問題を報告"</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">"Couldn't connect to the network due to weak signal or incorrect network configuration. Check your %s1network settings%s2 and try again."</string>
   <string name="miuichromium_error_page_diagnose">"ネットワーク診断"</string>
   <string name="miuichromium_error_page_diagnose_banner">"ネットワーク診断"</string>
   <string name="miuichromium_error_page_diagnose_certificate">"ネットワークプロトコルを確認できませんでした"</string>
@@ -435,9 +436,57 @@ is about to happen"</string>
   <string name="miuichromium_error_page_network_hijack">"現在のネットワークは安全ではありません"</string>
   <string name="miuichromium_error_page_network_off">"Wi-Fiまたはモバイルデータをオンにする"</string>
   <string name="miuichromium_error_page_no_network">"ネットワークに接続できません"</string>
+  <string name="miuichromium_error_page_problem_access_denied">Access to %s0 was denied</string>
+  <string name="miuichromium_error_page_problem_cache_miss">This page cant be loaded from the cache</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page">"ページを開くことができません"</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site">"サイトに到達できません"</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted">"接続が中断されました"</string>
+  <string name="miuichromium_error_page_problem_file_not_found">"ファイルが見つかりませんでした"</string>
+  <string name="miuichromium_error_page_problem_gateway_timed_out">It took too long for %s0 to respond</string>
+  <string name="miuichromium_error_page_problem_network_access_denied">"ネットワークアクセスが制限されています"</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection">"インターネットに接続できませんでした"</string>
+  <string name="miuichromium_error_page_problem_page_moved">This page on %s0 might have been moved or deleted</string>
+  <string name="miuichromium_error_page_problem_page_not_found">"Couldn't find this page on %s0"</string>
+  <string name="miuichromium_error_page_problem_page_not_working">"This page isn't working"</string>
+  <string name="miuichromium_error_page_problem_security_error">"このサイトは安全な接続を提供できません"</string>
+  <string name="miuichromium_error_page_problem_server_fault">%s0 is currently unable to handle this request</string>
+  <string name="miuichromium_error_page_reason_bad_client_cert">" because %s0 didn't accept your certificate"</string>
+  <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 doesn't adhere to security standards"</string>
+  <string name="miuichromium_error_page_reason_blocked_by_response">. Access is blocked by %s0</string>
+  <string name="miuichromium_error_page_reason_connection_closed">. %s0 interrupted connection</string>
+  <string name="miuichromium_error_page_reason_connection_refused">. %s0 refused to connect</string>
+  <string name="miuichromium_error_page_reason_connection_reset">. Connection was reset</string>
+  <string name="miuichromium_error_page_reason_device_slept">" when your device went to sleep"</string>
+  <string name="miuichromium_error_page_reason_empty_response">" because %s0 didn't send any data"</string>
+  <string name="miuichromium_error_page_reason_invalid_address">"。IPアドレスまたはポート番号が無効です"</string>
+  <string name="miuichromium_error_page_reason_invalid_response">" because %s0 sent an invalid response"</string>
+  <string name="miuichromium_error_page_reason_invalid_url">" because the URL is invalid"</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. It might be moved or deleted</string>
+  <string name="miuichromium_error_page_reason_name_collision">. This site on the intranet has the same URL as an external website</string>
+  <string name="miuichromium_error_page_reason_name_not_resolved">". Couldn't find DNS address for %s0"</string>
+  <string name="miuichromium_error_page_reason_network_changed">" due to a network change"</string>
+  <string name="miuichromium_error_page_reason_proxy_error">. Something is wrong with the proxy server, or proxy address is incorrect</string>
+  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 is currently unreachable</string>
+  <string name="miuichromium_error_page_reason_timed_out">". %s0 doesn't respond for too long"</string>
+  <string name="miuichromium_error_page_reason_too_many_redirects">" because %s0 redirected you too many times"</string>
+  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 is using an unsafe port number</string>
+  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 is redirecting you in an unsafe way</string>
+  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 uses an unsupported protocol</string>
   <string name="miuichromium_error_page_reload">"更新"</string>
   <string name="miuichromium_error_page_safe_network">"セーフモード"</string>
   <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
+  <string name="miuichromium_error_page_suggestion_check_app_proxy">"端末にインストールされているプロキシアプリの設定を確認してください。"</string>
+  <string name="miuichromium_error_page_suggestion_check_connetion">"インターネット接続を確認してください。"</string>
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">"(モバイルデータ) %s1APN設定%s2をリセットしてください。"</string>
+  <string name="miuichromium_error_page_suggestion_check_url">"入力したURLを確認してください。"</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">"(Wi-Fi) %s1プロキシ設定%s2を確認してください。"</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">"キャッシュを消去してください (%s1設定%s2 - データを消去)。"</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">"キャッシュとcookieを消去してください (%s1設定%s2 - データを消去、アカウント情報が失われる可能性があります)。"</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">"インターネットに接続した後に再読み込みしてください"</string>
+  <string name="miuichromium_error_page_suggestion_contact_admin">"システム管理者に問い合わせてください。"</string>
+  <string name="miuichromium_error_page_suggestion_correct_url">"入力したアドレスを確認し、正しいURLを使用してもう一度お試しください。"</string>
+  <string name="miuichromium_error_page_suggestion_grant_permission">"インターネットへのアクセス許可をブラウザに付与した後に再読み込みしてください。"</string>
+  <string name="miuichromium_error_page_suggestion_title">"。次の手順を試してください:"</string>
   <string name="miuichromium_error_page_title">"エラーが発生しました"</string>
   <string name="miuichromium_error_page_unknown_error">"不明なエラーが発生しました"</string>
   <string name="miuichromium_error_page_wlan">"Wi-Fiをオンにする"</string>
