@@ -53,10 +53,13 @@
   <string name="adb_install_reject_notiy">"%sをUSB経由でインストールできませんでした"</string>
   <string name="adb_install_reject_notiy_desc">"開発者向けオプションからUSB経由のインストールを許可することができます"</string>
   <string name="adb_login_xiaomi_account">"初めにMi Accountにログイン"</string>
+  <string name="add_done">"正常に追加されました"</string>
+  <string name="add_game">"ゲームを追加"</string>
   <string name="add_game_notification_summary">Tap to launch &amp; boost speed</string>
   <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to exceptions. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">"データローミングの例外"</string>
+  <string name="add_whitelist">"例外に追加"</string>
   <string name="address">Address</string>
   <string name="address_choose_hint">%1$s, %2$s, and %3$d other locations</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">"1ヶ月以上前に更新"</string>
@@ -68,6 +71,9 @@
   <string name="adjust_traffic_data">"データ使用量を設定"</string>
   <string name="after_the_lock_screen">"アプリが画面と一緒にロックされている場合、アプリロック設定でこれを変更できます。"</string>
   <string name="all_address_choose_hint">All numbers in this province</string>
+  <string name="anim_gamebooster_text">"読み込み中…"</string>
+  <string name="anti_disturb_msg_detail">"着信を除くすべての通知をオフにする"</string>
+  <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_mode_details">details of interception mode</string>
   <string name="antispam_notificaiton_type_show_all">"すべての番号"</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Non-blocklist numbers</string>
@@ -198,6 +204,8 @@
   <string name="app_usage_recently">"最近使用された"</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">"Wi-Fi"</string>
+  <string name="application_item_already_permission">"許可された"</string>
+  <string name="application_item_disable">"制限された"</string>
   <string name="applock_add_account">"追加"</string>
   <string name="applock_add_account_info">"Add Mi Account to be able to reset your password in case you forget it"</string>
   <string name="applock_add_account_setting">"アカウントとプライバシー"</string>
@@ -225,6 +233,7 @@
   <string name="auto_atsk_condition_battery_level_text_down">"バッテリーが%sまで放電されました"</string>
   <string name="auto_atsk_condition_battery_level_text_up">"バッテリーが%sまで充電されました"</string>
   <string name="auto_handle_title">"全般"</string>
+  <string name="auto_import_games">"すべてのゲームを1か所にまとめる"</string>
   <string name="auto_task_condition_choose_battery_level_down">"指定したレベルまでバッテリーが放電されたとき"</string>
   <string name="auto_task_condition_choose_end_time">"終了時間"</string>
   <string name="auto_task_condition_choose_ontime">"タイマー"</string>
@@ -333,7 +342,11 @@
   <string name="blacklist_prefix_add_hint">"このプレフィックスで始まるすべての番号をブロックする"</string>
   <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">"通話: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;"</string>
+  <string name="boost_done">Boosted successfully</string>
   <string name="booster_immediately">Boost</string>
+  <string name="booster_suc">Boosted successfully</string>
+  <string name="boostering">Boosting speed…</string>
+  <string name="boosting">Boosting speed…</string>
   <string name="boot_reminder">"予定した時刻に端末の電源がオンになります"</string>
   <string name="boot_time">On at %1$s</string>
   <string name="boot_time_day">On in %1$dd at %2$s</string>
@@ -465,6 +478,7 @@
   <string name="cpu_usage_app_uninstalled_toast">This app is uninstalled</string>
   <string name="cpu_usage_process_run_time_little_time">"1分未満"</string>
   <string name="cpu_usage_view_action_btn_text">"表示するにはタップ"</string>
+  <string name="create_shortcut">"Game speed boosterのショートカットをホーム画面に作成"</string>
   <string name="cta_dialog_msg">"セキュリティアプリが正常に動作するには、更新を取得するためのインターネット接続と位置情報へのアクセスが必要です。"</string>
   <string name="cta_dialog_title">"インターネット接続"</string>
   <string name="cta_settings">"インターネット接続を許可する"</string>
@@ -509,6 +523,7 @@
   <string name="dialog_msg_stop_virus_scan">"完了前にセキュリティスキャンを停止しますか？"</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">"海外ローミング"</string>
+  <string name="dialog_text">"Game speed boosterのショートカットをホーム画面に作成"</string>
   <string name="dialog_title_attention">"注意"</string>
   <string name="dialog_title_auto_start_declare">"自動起動について"</string>
   <string name="dialog_title_stop_virus_scan">"セキュリティスキャンを停止する"</string>
@@ -553,6 +568,9 @@
   <string name="dns_exception_summary">""ルーターのDNS設定を確認する""</string>
   <string name="dns_exception_title">"DNS設定を確認"</string>
   <string name="domestic_roaming_setting">"国内ローミング"</string>
+  <string name="dont_bore">"Don't let buttons and notifications distract you"</string>
+  <string name="dont_bore_text">Silence notifications and turn off buttons to remove distractions</string>
+  <string name="dont_bore_title">"夜間モード"</string>
   <string name="download">"ダウンロード"</string>
   <string name="downloading">"ダウンロード中"</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -623,14 +641,45 @@
   <string name="free_time_traffic_settings">Off-peak data limit</string>
   <string name="free_time_traffic_title">Enter off-peak data limit</string>
   <string name="free_traffic_settings">Off-peak data usage settings</string>
+  <string name="function_close">Off</string>
   <string name="fw_blocked">"ブロックリスト"</string>
   <string name="fw_blocked_count">"Blocked "</string>
   <string name="fw_blocked_join">" と "</string>
+  <string name="game_booster">Game speed booster</string>
+  <string name="game_booster_intro">"Game speed boosterについて"</string>
+  <string name="game_booster_title">Boost</string>
+  <string name="game_improve_text1">"バックグラウンドキャッシュをクリアしてゲーム用のメモリを解放する"</string>
+  <string name="game_improve_text2">"バックグラウンドキャッシュをクリアしてゲーム用のメモリを解放とCPUパフォーマンスを向上させる"</string>
+  <string name="game_improve_title">"パフォーマンスの最適化"</string>
+  <string name="game_more_improve">Restrict background activities and download speed to save battery and bandwidth for gaming</string>
+  <string name="game_net_text1">"ネットワーク遅延を低減するためバックグラウンドのダウンロード速度を制限する"</string>
+  <string name="game_net_text2">"ネットワーク遅延を低減するためバックグラウンドのダウンロード速度を制限し、ゲームの接続速度を高める"</string>
+  <string name="game_net_title">"接続速度を最適化"</string>
+  <string name="game_setting">"ゲームの設定"</string>
+  <string name="gamebooster_network_dialog_message">"Game speed boosterのすべての機能を使用するため、セキュリティアプリにネットワーク接続を許可しますか？"</string>
+  <string name="gamebooster_network_dialog_title">"一部の機能が利用できません"</string>
   <string name="gateway_exception_summary">"ルーターを確認してもう一度お試しください。"</string>
   <string name="gateway_exception_summary2">"サーバーに接続できませんでした"</string>
   <string name="gateway_exception_title">"ルーターのテスト"</string>
+  <string name="get_sys_info">"情報を取得中…"</string>
   <string name="go_to">"続行"</string>
   <string name="go_to_setting_fingerprint">"設定"</string>
+  <string name="gs_anto_clean_memory_whitelist">"例外"</string>
+  <string name="gs_app_back_self_start">Battery saver</string>
+  <string name="gs_auto_clean_memory">"キャッシュを消去"</string>
+  <string name="gs_auto_clean_memory_detail">"キャッシュを自動的に消去してゲームを最適化する"</string>
+  <string name="gs_dialog_confirm_close_msg">"ショートカットはホーム画面から削除されます。復元するには [セキュリティ] &gt; [設定] に移動します。"</string>
+  <string name="gs_dialog_confirm_close_title">"オフにする"</string>
+  <string name="gs_game_disturb_msg">DND</string>
+  <string name="gs_game_duration">Time</string>
+  <string name="gs_game_net_priority">"接続の優先度"</string>
+  <string name="gs_game_net_priority_detail">"ダウンロード速度を制限してゲームのために十分な帯域幅を確保する"</string>
+  <string name="gs_game_performance">"パフォーマンス"</string>
+  <string name="gs_game_shortcut">Enjoy a more fluid game experience</string>
+  <string name="gs_only_self_start_for_list">"バックグラウンドプロセスを制限してゲームのためにバッテリーを節約する"</string>
+  <string name="gs_open_game_booster">Boost speed</string>
+  <string name="gs_performance_mode">"パフォーマンスモード"</string>
+  <string name="gs_performance_mode_detail">"シームレスなパフォーマンスを確保するためにCPU使用率を向上させる"</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;間違ったキャリア？&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"現在のキャリア: "</string>
   <string name="guide_quck_open">"オンにする"</string>
@@ -658,6 +707,7 @@
   <string name="hints_virus_app_list_item_summary">app</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
+  <string name="i_know">OK</string>
   <string name="im">IM</string>
   <string name="info_and_call">"通話とメッセージ"</string>
   <string name="info_antispam_close">AntiSpam Off</string>
@@ -676,6 +726,8 @@
   <string name="install_title">"USB経由でインストール"</string>
   <string name="installing">"インストール中"</string>
   <string name="international_roaming_setting">"海外ローミング"</string>
+  <string name="intro_improve">Boost your gaming experience on a system level</string>
+  <string name="intro_skip">"スキップ"</string>
   <string name="ip_address_exception_summary">"IPアドレスを取得できませんでした。この問題が再発する場合は、静的IPアドレスを使用してみてください。"</string>
   <string name="item_app_permission">"アプリのパーミッション"</string>
   <string name="item_dev_mode">"開発者向けオプション"</string>
@@ -712,6 +764,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="leisure_usage_dialog_title">You went over your off-peak data limit, data connection is off</string>
   <string name="list_empty_text">Empty</string>
   <string name="load_only_under_wlan">"Wi-Fi接続時のみ読み込む"</string>
+  <string name="loading">"読み込み中…"</string>
   <string name="local_ip_exception_summary">"ローカルIPアドレスを取得できませんでした。この問題をMIUIに報告するには、お使いの端末のFeedbackアプリからログを送信してください。"</string>
   <string name="lock_mode_title">Lock settings</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s used at lock screen</string>
@@ -786,6 +839,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_toolbar_purchase">Top up</string>
   <string name="main_toolbar_statistic">Data usage stats</string>
   <string name="main_used_bill">%s CNY</string>
+  <string name="man_add_application">"自動起動するアプリを手動で追加"</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">"データ使用量を設定"</string>
   <string name="manual_item_white_list_summary">"選択したアプリが最適化されないようにする"</string>
@@ -874,7 +928,9 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="monitor_app_add">"追加"</string>
   <string name="monitor_app_more">"その他"</string>
   <string name="monitor_requests_from_pc">"USB経由でアプリのインストールを管理"</string>
+  <string name="more_game">"その他のゲーム"</string>
   <string name="name">"名前"</string>
+  <string name="net_delay_title">"遅延"</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
   <string name="network_blocked_notification_summary">Test network</string>
   <string name="network_blocked_switch_wifi">"ネットワークを切り替える"</string>
@@ -925,6 +981,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="never">1 time</string>
   <string name="news_change">"変更"</string>
   <string name="nickname">"ニックネーム"</string>
+  <string name="no_game">"ゲームが見つかりません"</string>
   <string name="note">"ノート"</string>
   <string name="note_call_none">"着信はありません"</string>
   <string name="note_list_none">"リストは空です"</string>
@@ -1004,6 +1061,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="open_activity_err">"アプリケーションが見つかりませんでした。"</string>
   <string name="open_app">"開く"</string>
   <string name="open_callwait">On</string>
+  <string name="open_game">"開く"</string>
   <string name="open_now">"モバイルデータの使用をアプリに許可"</string>
   <string name="operator_diagnostic">"キャリア診断"</string>
   <string name="operator_mi_sim">Mi SIM</string>
@@ -1042,6 +1100,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="optmizingbar_title_security">"セキュリティ"</string>
   <string name="optmizingbar_title_system">"システムのセキュリティ"</string>
   <string name="organization">"所属"</string>
+  <string name="other">"その他の設定"</string>
   <string name="other_exception_summary">"インターネットに接続していません"</string>
   <string name="other_exception_title">Checking for other issues</string>
   <string name="package_change_notification_summary">"タップで詳細を表示。"</string>
@@ -1070,6 +1129,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="path_securitycenter">システムアプリ/セキュリティ</string>
   <string name="path_securitycenter_settings">システムアプリ/セキュリティ</string>
   <string name="path_usb_install">システムアプリ/セキュリティ/パーミッション/USB経由でインストール</string>
+  <string name="pc_activity_title">"バッテリーを最適化"</string>
   <string name="pc_install_manager">"USB経由でインストール"</string>
   <string name="pc_to_phone_install">"USB経由で%sのインストールをブロックしました"</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
@@ -1099,6 +1159,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_20s_shutdown">Device will power off in %d seconds</string>
   <string name="power_analysis_consume_title">"電池使用量"</string>
   <string name="power_analysis_suggestion_need_optimize">Battery usage issues detected.</string>
+  <string name="power_autorun_apps_empty">"自動起動するアプリはありません"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">"電池使用量を分析"</string>
   <string name="power_cell">"セルスタンバイ"</string>
@@ -1254,6 +1315,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="reject_all">Restrict all</string>
   <string name="reject_countdown">Deny (%d)</string>
   <string name="reject_usb_install">Denied installation of the following apps via USB</string>
+  <string name="release_memory">"キャッシュを消去"</string>
   <string name="renew_ip">"再試行"</string>
   <string name="repair">"修復"</string>
   <string name="repair_loading_text">"読み込み中…"</string>
@@ -1318,8 +1380,11 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="safe_result_item_info_system_version">"MIUIは最新の状態です"</string>
   <string name="safepay_alert_dialog_button_continue">"続行"</string>
   <string name="safepay_alert_dialog_button_risk">"修復"</string>
+  <string name="save_energy_text">"Restrict autostart and sync for apps in the background to get the most out of your device's battery"</string>
+  <string name="save_energy_title">"バッテリーを最適化"</string>
   <string name="sc_allow_network_dialog_message">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="sc_allow_network_dialog_tiltle">"この機能は使用できません"</string>
+  <string name="scan_installed_games">"インストール済みゲームの確認中…"</string>
   <string name="scan_status_risk">"危険"</string>
   <string name="scan_status_safe">"安全"</string>
   <string name="search_result_text">"アプリが見つかりませんでした"</string>
@@ -1332,6 +1397,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="security_scan_optimizing">"最適化しています…"</string>
   <string name="see_detail">"詳細"</string>
   <string name="set_applock_password">"パスワードを設定"</string>
+  <string name="setting">"設定"</string>
   <string name="setting_alarm_summary">各大平台官方红包活动闹钟提醒</string>
   <string name="setting_privacy_password">"アプリロックのパスワードを設定"</string>
   <string name="settings">"データ使用量の設定"</string>
@@ -1341,6 +1407,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="settings_category_overheat">"過熱"</string>
   <string name="settings_choice_no_notification">Off</string>
   <string name="settings_power_save_ontime_title">"スケジュール"</string>
+  <string name="shield_keyboard_detail">"ボタンをダブルタップすることで有効に戻します"</string>
+  <string name="shield_keyboard_title">"ボタンを無効にする"</string>
   <string name="show_system_app">"システムアプリを表示"</string>
   <string name="show_traffic_dialog_message">"データ使用量の情報が通知シェードに表示されます。この機能はいつでも[データ使用量] &gt; [設定]からオン/オフを切り替えられます"</string>
   <string name="show_traffic_dialog_title">"通知シェードに使用状況を表示"</string>
@@ -1503,8 +1571,10 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_title_show_antispam_notification">"ブロックリストの通知"</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
   <string name="st_title_whitelist_numbers">Exceptions</string>
+  <string name="start">"起動"</string>
   <string name="start_diagnostic_botton">"開始"</string>
   <string name="start_downloading_app">Starting download: %1$s</string>
+  <string name="start_game">"起動"</string>
   <string name="start_tc_button">Calibrate</string>
   <string name="suggest_app_tolock">Suggestions</string>
   <string name="suggest_scan_again">It is proposed to scan completely to ensure security.</string>
@@ -1544,6 +1614,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_virus_cloudscan">"アプリ名と詳細をアップロードし、オンラインのウイルス定義を使用してスキャンします"</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB for mobile data roaming.</string>
+  <string name="support_game_booster_tips">"Game speed boosterを使用してゲームを起動する"</string>
   <string name="sys_app_prot_cracked_confirm">OK</string>
   <string name="sys_app_prot_cracked_login">"Mi Accountでログイン"</string>
   <string name="sys_app_prot_cracked_text_login">"The current version of MIUI has been modified which puts your device's security at risk.
@@ -1553,6 +1624,8 @@ Make sure you know where this device comes from, and contact authorized Xiaomi s
 
 If you haven't modified MIUI in any way, make sure you know where this device comes from and contact authorized Xiaomi service center in your area."</string>
   <string name="sys_app_prot_cracked_title">Security risk</string>
+  <string name="sys_cpu_title">"CPU使用状況"</string>
+  <string name="sys_freememory_title">"利用可能"</string>
   <string name="system_app">"システムアプリ"</string>
   <string name="system_application">"システムアプリ"</string>
   <string name="tab_blacklist">"ブラックリスト"</string>
@@ -1707,6 +1780,9 @@ If you haven't modified MIUI in any way, make sure you know where this device co
   <string name="toast_root_apply_reject">Denied root access for %s</string>
   <string name="toast_set_success">Turned on successfully</string>
   <string name="toast_show_notification">"通知シェードにピン留めしました"</string>
+  <string name="top_game">Top games</string>
+  <string name="top_load_fail_detail">"ロードできませんでした、タップして再試行"</string>
+  <string name="top_no_network_detial">"ロードできませんでした、ネットワーク接続を確認してもう一度お試しください"</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Monthly plan changed to %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">"データプランを更新しました"</string>
   <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
@@ -1755,6 +1831,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_sms_content_tips">"ここにメッセージを入力"</string>
   <string name="traffic_setting_fragment_title">Data usage query</string>
   <string name="traffic_warning_purchase_title">"モバイルデータ使用の警告"</string>
+  <string name="try_game">Try</string>
   <string name="try_recommended_function">"新しいセキュリティ機能を使用して端末を保護する"</string>
   <string name="two_address_choose_hint">%1$s と %2$s</string>
   <string name="unable_connect_internet">"インターネット接続なし"</string>
@@ -1806,4 +1883,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_item_title_fake">Detect fake WLAN</string>
   <string name="wifi_network_blocked_notification_title">"インターネット接続なし"</string>
   <string name="wl_no_whitelist">"例外はありません。"</string>
+  <string name="wlan_change_protection_detail">"モバイルデータに接続しているときは、自動でWi-Fiに切り替えないようにする"</string>
+  <string name="wlan_change_protection_title">"ネットワークの切り替え防止"</string>
 </resources>

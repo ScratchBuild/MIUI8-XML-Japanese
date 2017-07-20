@@ -405,11 +405,10 @@
   <string name="setting_others">"その他"</string>
   <string name="setting_sms_import">导入短信事件</string>
   <string name="setting_title_about">"このアプリについて"</string>
-  <string name="setting_title_banner_display">"旧暦カレンダーの広告カードを表示します"</string>
   <string name="setting_title_debug">"ログのエクスポート"</string>
   <string name="setting_title_holiday_display">"祝日を表示する"</string>
-  <string name="setting_title_recommend_card_display">"購読のおすすめを表示する"</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
+  <string name="setting_user_experience">"ユーザーエクスペリエンスプログラム"</string>
   <string name="settings_calendar">"カレンダー"</string>
   <string name="show_day_view">"日付を表示"</string>
   <string name="show_newer_events">"タップして%1$sより後の予定を表示"</string>

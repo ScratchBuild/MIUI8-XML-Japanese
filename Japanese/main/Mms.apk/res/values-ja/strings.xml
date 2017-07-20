@@ -253,6 +253,7 @@
   <string name="message_number">"電話番号: "</string>
   <string name="message_pending">送信中</string>
   <string name="message_queued">"現在メッセージを送信できません。サービスが利用できる状態になり次第送信されます。"</string>
+  <string name="message_queued_second_space">"現在メッセージを送信できません。データネットワークを開いてください。"</string>
   <string name="message_readed">既読</string>
   <string name="message_received">受信</string>
   <string name="message_rejected">拒否</string>

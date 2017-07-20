@@ -112,15 +112,15 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     </plurals>
     <plurals name="result_virus_header">
         <item quantity="other">Found %d viruses and insecure apps</item>
-        <item quantity="one">Found one virus app</item>
+        <item quantity="one">Found %d virus app</item>
     </plurals>
     <plurals name="result_sign_header">
         <item quantity="other">Found %d unofficial apps</item>
-        <item quantity="one">Found one unofficial app</item>
+        <item quantity="one">Found %d unofficial app</item>
     </plurals>
     <plurals name="sp_settings_exception_count">
         <item quantity="other">%d個</item>
-        <item quantity="one">1個</item>
+        <item quantity="one">%d個</item>
     </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s payment apps are protected</item>
@@ -262,5 +262,13 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="app_usage_year">
         <item quantity="other">%d年前に使用しました</item>
         <item quantity="one">%d年前に使用しました</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d個のゲームを追加しました</item>
+        <item quantity="one">%d個のゲームを追加しました</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">%d個のゲームを削除しました</item>
+        <item quantity="one">%d個のゲームを削除しました</item>
     </plurals>
 </resources>
