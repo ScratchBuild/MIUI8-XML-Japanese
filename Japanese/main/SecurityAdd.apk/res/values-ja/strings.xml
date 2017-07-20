@@ -4,13 +4,13 @@
   <string name="add_game">"ゲームを追加"</string>
   <string name="add_whitelist">"例外に追加"</string>
   <string name="anim_gamebooster_text">"読み込み中…"</string>
-  <string name="anti_disturb_msg_detail">Turn off all notifications except for incoming calls</string>
+  <string name="anti_disturb_msg_detail">"着信を除くすべての通知をオフにする"</string>
   <string name="anti_disturb_msg_title">DND</string>
   <string name="app_name">Security service plugin</string>
   <string name="app_not_installed_toast">"アプリはお使いのデバイスにインストールされていません。"</string>
-  <string name="application_item_already_permission">Allowed</string>
-  <string name="application_item_disable">"制限あり"</string>
-  <string name="auto_import_games">Put all your games in one place</string>
+  <string name="application_item_already_permission">"許可された"</string>
+  <string name="application_item_disable">"制限された"</string>
+  <string name="auto_import_games">"すべてのゲームを1か所にまとめる"</string>
   <string name="boost_done">Boosted successfully</string>
   <string name="booster_suc">Boosted successfully</string>
   <string name="boostering">Boosting speed…</string>
@@ -106,7 +106,7 @@
   <string name="privacy_prompt_traffic_purchase_message">"あなたの電話番号とキャリアに関する情報は、暗号化された状態でデータ購入オプションの詳細を取得するためにXiaomiのサーバーにアップロードされます。"</string>
   <string name="release_memory">"キャッシュを消去"</string>
   <string name="save_energy_text">"Restrict autostart and sync for apps in the background to get the most out of your device's battery"</string>
-  <string name="save_energy_title">Optimize battery</string>
+  <string name="save_energy_title">"バッテリーを最適化"</string>
   <string name="scan_installed_games">"インストール済みゲームの確認中…"</string>
   <string name="setting">"設定"</string>
   <string name="share">"共有"</string>
