@@ -261,6 +261,7 @@
   <string name="application_lock_name">アプリのロック</string>
   <string name="application_manager_section_title">アプリの設定</string>
   <string name="application_permission_manager">アプリのパーミッション</string>
+  <string name="application_permissions">アプリのアクセス許可</string>
   <string name="application_restrictions">アプリとコンテンツの許可</string>
   <string name="application_size_label">アプリ</string>
   <string name="applications_settings">アプリ</string>
@@ -807,6 +808,10 @@
   <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_miui_optimization_warning_message">この変更を適用するために端末を再起動します。注：この機能をオフにすると、ユーザーインターフェースのレイアウトや他の要素に大きな変化があります。</string>
+  <string name="cloud_backup_section_title">Mi Cloudバックアップ</string>
+  <string name="cloud_backup_settings_section_title">バックアップの設定</string>
+  <string name="cloud_restore_section_summary">アプリ、ホーム画面のレイアウト、システム設定を復元する</string>
+  <string name="cloud_restore_section_title">Mi Cloudから復元</string>
   <string name="cmcc_hardware_version">ハードウェアバージョン</string>
   <string name="color_black">黒</string>
   <string name="color_blue">青</string>
@@ -1920,6 +1925,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockscreen_glogin_checking_password">確認中…</string>
   <string name="lockscreen_glogin_password_hint">パスワード</string>
   <string name="lockscreen_glogin_submit_button">ログイン</string>
+  <string name="login_account_dialog_message">Mi Accountでログインして、Mi Cloudとの同期をオンにします。</string>
+  <string name="login_account_dialog_title">Mi Accountでログイン</string>
+  <string name="login_action">ログイン</string>
   <string name="long_press_volume_down">音量[－]ボタンを長押し</string>
   <string name="lte_ram_dump_off">LTE RAMダンプをオフにする</string>
   <string name="lte_ram_dump_on">LTE RAMダンプをオンにする</string>
@@ -2316,7 +2324,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="optimization_open">今すぐ再起動</string>
   <string name="other_advanced_settings">その他の設定</string>
   <string name="other_device_info">その他</string>
-  <string name="other_personal_settings">その他の設定</string>
+  <string name="other_personal_settings">個人設定</string>
   <string name="other_relative">その他</string>
   <string name="other_sound_settings">その他の音</string>
   <string name="overlay_display_devices_title">2次画面シミュレート</string>
@@ -2466,6 +2474,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_usage_summary">電池の使用状況</string>
   <string name="power_usage_summary_title">電池</string>
   <string name="power_wifi">Wi-Fi</string>
+  <string name="pre_installed_application">プリインストールアプリ</string>
   <string name="pref_button_light">ボタンのライト</string>
   <string name="pref_button_light_summary">メニュー、ホーム、戻るボタンのライトを点灯する</string>
   <string name="pref_edge_handgrip">エッジコントロール</string>

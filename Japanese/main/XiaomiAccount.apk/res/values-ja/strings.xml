@@ -149,7 +149,9 @@
   <string name="mipay">"支払う"</string>
   <string name="mipay_balance">"残高"</string>
   <string name="mipay_bank_card">"銀行カード"</string>
+  <string name="mipay_identitiy_no">"いいえ"</string>
   <string name="mipay_identity">"ID確認"</string>
+  <string name="mipay_indentity_done">"完了"</string>
   <string name="mipay_others">"その他"</string>
   <string name="mipay_transit_card">"交通カード"</string>
   <string name="multi_user_not_show_sync_activity_message_1">"First spaceでMi Accountを使用しているようです。"</string>

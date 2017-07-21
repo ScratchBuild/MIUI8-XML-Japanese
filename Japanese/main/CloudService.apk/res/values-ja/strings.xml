@@ -188,14 +188,13 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_lastest_with_off">"同期済み"</string>
   <string name="micloud_detail_need_charge_or_sleep">"同期するには充電器に接続して画面をオフにしてください"</string>
   <string name="micloud_detail_not_sync">%d waiting to sync</string>
+  <string name="micloud_detail_not_syncable">"同期不可"</string>
   <string name="micloud_detail_not_synced">"未同期"</string>
   <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_pause">同期の一時停止</string>
   <string name="micloud_detail_pending">待機中</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
   <string name="micloud_detail_query_error">"同期の進捗状況に関する情報を取得できませんでした"</string>
-  <string name="micloud_detail_query_error_detail">"一部のサービスで同期が完了しているかを確認することができません。フィードバックアプリを使用して開発者に連絡することができます。"</string>
-  <string name="micloud_detail_query_error_title">"同期の進捗状況に関する情報を取得できませんでした"</string>
   <string name="micloud_detail_success">"同期済み"</string>
   <string name="micloud_detail_sync_now">今すぐ同期</string>
   <string name="micloud_detail_syncing">同期中</string>
@@ -242,24 +241,33 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
   <string name="micloud_main_battery_low">同期のためのバッテリー不足</string>
   <string name="micloud_main_battery_message">同期するには端末を電源に接続してください</string>
+  <string name="micloud_main_button_activate">有効にする</string>
+  <string name="micloud_main_button_authorize">Authorize</string>
+  <string name="micloud_main_button_set_internet">設定</string>
   <string name="micloud_main_cancel_sync">同期をキャンセル</string>
   <string name="micloud_main_clear_now">"消去"</string>
   <string name="micloud_main_detail">詳細を表示</string>
+  <string name="micloud_main_error_activated_fail">SIMカードを有効にしてください。</string>
+  <string name="micloud_main_error_network_disallowed">インターネットへのアクセス許可を確認してください。</string>
+  <string name="micloud_main_error_permission_limit">Mi Cloudのデータベースへのアクセス許可を承認してください。</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
+  <string name="micloud_main_master_sync_on">Sync on</string>
   <string name="micloud_main_memory_low_message">"同期するには、クラウドに保存したアイテムをいくつか削除します。"</string>
   <string name="micloud_main_memory_low_title">"端末の内部ストレージがいっぱいです"</string>
+  <string name="micloud_main_message_master_sync_off">"自動同期の設定は通知領域にあります。"</string>
   <string name="micloud_main_message_not_synced">%s data not synced</string>
-  <string name="micloud_main_multi_user_error_message">"First spaceと同じアカウントでログインしたため、Mi Cloudでエラーが発生しました。ファイルのバックアップを行うには:
-
-1. 別のアカウントを使用する。
-2. First spaceにアイテムを移動する。"</string>
+  <string name="micloud_main_multi_user_error_message">"First spaceと同じアカウントでログインしたため、Mi Cloudでエラーが発生しました。
+別のアカウントを使用する。"</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud error</string>
   <string name="micloud_main_network_abnormal">ネットワークに接続できません</string>
   <string name="micloud_main_network_error">ネットワークに接続できません</string>
+  <string name="micloud_main_query_again">Query</string>
   <string name="micloud_main_query_error_message">一部のサービスでは同期が完了したかを確認できません</string>
   <string name="micloud_main_query_error_title">同期の進行状況を取得できません</string>
+  <string name="micloud_main_resume_sync_soon">すぐに同期を再開する</string>
   <string name="micloud_main_set_internet">ネットワーク</string>
   <string name="micloud_main_space_full">クラウドストレージがいっぱいです</string>
+  <string name="micloud_main_space_full_message">Upgrade to member will obtain more storage space</string>
   <string name="micloud_main_space_full_title">十分な空き領域がありません、同期が一時停止しました</string>
   <string name="micloud_main_space_low">空き領域が残りわずか</string>
   <string name="micloud_main_stop_sync">同期が停止しました</string>
@@ -268,7 +276,6 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_suggest_sync">すべてを同期できませんでした</string>
   <string name="micloud_main_sync_exception">同期エラー</string>
   <string name="micloud_main_sync_init">情報の取得中</string>
-  <string name="micloud_main_sync_need_charge">端末を充電してください</string>
   <string name="micloud_main_sync_need_charge_or_sleep">"同期するには充電器に接続して画面をオフにしてください"</string>
   <string name="micloud_main_sync_now">今すぐ同期</string>
   <string name="micloud_main_sync_on">Sync on</string>
@@ -285,6 +292,11 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_title_sync_off">"同期はオフ"</string>
   <string name="micloud_main_title_sync_on_wifi">Wi-Fiを使用</string>
   <string name="micloud_main_update_space">Get more storage space.</string>
+  <string name="micloud_main_wait_charge">充電器を接続してください</string>
+  <string name="micloud_main_wait_charge_sleep">充電器を接続して画面をオフにしてください</string>
+  <string name="micloud_main_wait_wlan">Wi-Fiを待機中</string>
+  <string name="micloud_main_wait_wlan_charge">Wi-Fiを待機中、充電器を接続してください</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Wi-Fiを待機中、充電器を接続して画面をオフにしてください</string>
   <string name="micloud_main_wlan_sync_data_count">Items waiting to sync: %d</string>
   <string name="micloud_member">Mi Cloud membership</string>
   <string name="micloud_member_advantage">Get more storage space.</string>

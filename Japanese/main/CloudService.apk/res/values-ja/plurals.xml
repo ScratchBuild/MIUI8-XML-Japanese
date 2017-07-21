@@ -56,4 +56,12 @@
         <item quantity="other">%d blocklist entries</item>
         <item quantity="one">%d blocklist entry</item>
     </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">%d時間後に同期を再開する</item>
+        <item quantity="one">%d時間後に同期を再開する</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">%d分後に同期を再開する</item>
+        <item quantity="one">%d分後に同期を再開する</item>
+    </plurals>
 </resources>
