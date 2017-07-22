@@ -623,7 +623,6 @@
   <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
   <string name="firewall_restrict_android_dialog_title">"注意"</string>
   <string name="firewall_restrict_data">Restrict mobile data usage</string>
-  <string name="firewall_restrict_notify_title">"%1$sはネットワークを使用できません"</string>
   <string name="firewall_restrict_wlan">Restrict using WLAN connection</string>
   <string name="firewall_rule_group_title_mobile">"モバイル"</string>
   <string name="firewall_rule_group_title_roaming">"海外ローミング"</string>
