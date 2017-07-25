@@ -25,6 +25,8 @@
   <string name="ac_mode_dry">"除湿"</string>
   <string name="ac_mode_fan">"送風"</string>
   <string name="ac_mode_hot">"暖房"</string>
+  <string name="ac_power_off">"オフにする"</string>
+  <string name="ac_power_on">"オンにする"</string>
   <string name="ac_set_timer_title_text">"エアコンのタイマーボタンを押して時間を選択"</string>
   <string name="activity_stb_list_title">"セットトップボックスを選択"</string>
   <string name="actor_intro_title_text">Cast</string>
@@ -353,6 +355,7 @@
   <string name="get_data_fail_tips">"データを取得できませんでした、もう一度お試しください"</string>
   <string name="get_info_failed">"情報を取得できませんでした"</string>
   <string name="get_location_fail_tip">"現在地を設定できませんでした、都市を選択してください"</string>
+  <string name="goto_weather">"天気を表示"</string>
   <string name="guid_one">· Connect the set-top box/TV to the same Wi-Fi network as your phone.</string>
   <string name="guid_three">"· Some controls may not be available if your TV or set-top box doesn't support Android"</string>
   <string name="guid_two">· Devices will be detected and shown on this page</string>
@@ -441,7 +444,6 @@
   <string name="loading_share_info_err">加载失败</string>
   <string name="locate_current_place">Find current location</string>
   <string name="location_select">"デバイスの名前を変更"</string>
-  <string name="lock_screen_device_sum">%1$d个</string>
   <string name="login">"ログイン"</string>
   <string name="login_directly">"ログイン"</string>
   <string name="login_done">"ログインしました"</string>
@@ -1043,7 +1045,7 @@ directly from your Lock screen"</string>
   <string name="swipe_loading">"読み込み中..."</string>
   <string name="switch_place">"都市を選択"</string>
   <string name="tab_live">Live</string>
-  <string name="tab_store">Mi Home Store</string>
+  <string name="tab_store">Mi Store</string>
   <string name="technical_support">Technical support</string>
   <string name="temperature">"温度"</string>
   <string name="temprature_frame">%1$d ℃</string>
